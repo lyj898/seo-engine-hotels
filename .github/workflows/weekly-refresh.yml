@@ -4,15 +4,21 @@ name: Weekly data refresh
 # site.config.json's sourceConfig.refreshIntervalDays: 7), plus supports a
 # manual on-demand run from the Actions tab.
 #
-# Safety valve (see README "Known decisions"): this workflow never pushes
-# straight to `main`. AI-generated/refreshed content is not something we
-# trust blindly -- factual errors, hallucinated core_facts, or a source
-# site's structure changing underneath discover-entities.js could all
-# produce bad data that LOOKS structurally valid (passes schema validation)
-# but is substantively wrong. So the pipeline's output always lands in a
-# pull request for a human to actually read and merge, never an automatic
-# commit to the live branch. Only a merged PR (a real push to main) triggers
-# deploy.yml and goes live.
+# Deviation from the races engine (see site.config.json's `notes` field --
+# this is a deliberate, explicit product decision for this vertical, not an
+# oversight): this workflow commits straight to `main` when both the
+# pre-run and post-run `npm run validate` pass, instead of opening a PR for
+# human review like races does. A push to `main` is what deploy.yml watches,
+# so a clean validated run goes live automatically, same day.
+#
+# This means schema validation is the ONLY gate on this vertical's content --
+# there is no human read-through before publish. Validation catches
+# structural problems (missing required fields, bad enums, broken
+# cross-references) but cannot catch a factually wrong `core_facts` value or
+# a hallucinated detail in an `ai_summary` that happens to be well-formed
+# JSON. If that risk profile stops being acceptable, switch back to opening
+# a PR (see the races repo's weekly-refresh.yml for the reference
+# implementation) rather than auto-committing.
 on:
   schedule:
     - cron: '0 3 * * 1' # every Monday, 03:00 UTC
@@ -24,7 +30,6 @@ concurrency:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   refresh:
@@ -81,8 +86,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         # Creates a guide for any category x country combination that has
         # crossed the minimum-entries threshold since last week. New guides
-        # land as status: draft, so they appear in the PR for a read-through
-        # before they can go live. Existing guides are never overwritten.
+        # land as status: draft -- draft is not published per isPublished()
+        # semantics, so even though this workflow auto-commits to main, a
+        # new listicle stays invisible on the live site until someone
+        # manually flips it to active. Existing guides are never overwritten.
 
       - name: Validate data (post-run)
         run: npm run validate
@@ -100,28 +107,20 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Open pull request with the refreshed data
+      - name: Commit and push refreshed data to main
         if: steps.diff.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: 'chore(data): weekly refresh (discover + refresh + summaries)'
-          branch: weekly-refresh/${{ github.run_number }}
-          title: 'Weekly data refresh -- ${{ github.run_id }}'
-          body: |
-            Automated run of `npm run discover`, `npm run refresh`, and
-            `npm run summaries` (see `.github/workflows/weekly-refresh.yml`).
-
-            Both pre- and post-run `npm run validate` passed, so every
-            changed file is at least schema-valid and cross-reference-clean.
-            That does **not** mean the content is factually correct --
-            please actually read the diff before merging, especially any
-            new or changed `core_facts`, `ai_summary`, and `faqs` fields.
-
-            Merging this PR is what deploys it: merging triggers a push to
-            `main`, which is what `deploy.yml` watches.
-          labels: automated-refresh
-          add-paths: data/
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore(data): weekly refresh (discover + refresh + summaries) [automated]"
+          git push origin HEAD:main
+        # Both pre- and post-run `npm run validate` passed at this point, so
+        # every changed file is schema-valid and cross-reference-clean --
+        # that's the gate this vertical uses instead of human PR review (see
+        # the comment block at the top of this file). This push to `main` is
+        # what triggers deploy.yml, so the site goes live from this step.
 
       - name: No changes this run
         if: steps.diff.outputs.changed == 'false'
-        run: echo "Pipeline ran; nothing changed in data/, no PR opened."
+        run: echo "Pipeline ran; nothing changed in data/, nothing committed."
