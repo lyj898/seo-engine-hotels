@@ -1,0 +1,69 @@
+---
+import Pill from './Pill.astro';
+import { matchCategoryByValue } from '../lib/categoryMatch.js';
+
+// Renders one pill per number in `values`, matched against `categories`'
+// matchRange (schema/base.js) for a colored, labeled pill (e.g. "Full
+// Marathon (42.2km)"), falling back to a plain neutral "<value><unit>" pill
+// when no category's range contains it -- an unmatched value is shown
+// honestly rather than force-fit to the nearest label. Generic to any
+// vertical with a numeric core_facts array bucketed by category (races'
+// distance_km today; a duration or price-tier array for another vertical
+// tomorrow) -- no vertical vocabulary lives here.
+// `sort`: 'desc' (default) | 'asc' | 'none'. Source data arrays arrive in
+// whatever order the original page listed them, which is inconsistent
+// entity-to-entity; sorting at render time gives every card the same
+// reading order without mutating the data. 'desc' puts the headline value
+// first (for races: the marathon before the 5K).
+// `matchedOnly`: drop values that don't land in any category's range instead
+// of showing them as bare neutral pills. A directory's categories define what
+// it is *about* -- for races, the four distances people search for -- so a
+// stray 1km kids' dash or 3km fun run bundled into the same event is noise
+// on a card, not a reason to browse. Off by default so a vertical that wants
+// every value shown keeps getting it.
+const {
+  values = [],
+  categories = [],
+  unit = '',
+  maxDecimals = 1,
+  sort = 'desc',
+  matchedOnly = false,
+  class: className = '',
+} = Astro.props;
+
+const visibleValues = matchedOnly
+  ? values.filter((v) => matchCategoryByValue(v, categories))
+  : values;
+
+const orderedValues =
+  sort === 'none' ? visibleValues : [...visibleValues].sort((a, b) => (sort === 'asc' ? a - b : b - a));
+
+function formatValue(v) {
+  const factor = 10 ** maxDecimals;
+  return String(Math.round(v * factor) / factor);
+}
+
+// "5K (5km)" is noise -- the label already states the number. So the value
+// is only appended when the label doesn't already contain it ("Half
+// Marathon" says nothing about 21.1, so that one keeps its parenthetical).
+// Comparing digits-only makes this independent of how a label punctuates
+// them ("5K", "5 km", "5-K" all match the value 5).
+function labelStatesValue(label, formatted) {
+  return String(label).replace(/[^\d.]/g, '').includes(formatted);
+}
+---
+
+{orderedValues.length > 0 && (
+  <div class:list={['flex flex-wrap gap-1.5', className]}>
+    {orderedValues.map((v) => {
+      const formatted = formatValue(v);
+      const match = matchCategoryByValue(v, categories);
+      if (!match) return <Pill variant="neutral">{formatted}{unit}</Pill>;
+      return (
+        <Pill variant={match.badgeVariant}>
+          {labelStatesValue(match.label, formatted) ? match.label : `${match.label} (${formatted}${unit})`}
+        </Pill>
+      );
+    })}
+  </div>
+)}
