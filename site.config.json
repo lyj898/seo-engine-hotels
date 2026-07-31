@@ -1,0 +1,128 @@
+{
+  "siteName": "StayElite",
+  "siteTagline": "In-depth loyalty-program hotel reviews across Southeast Asia",
+  "heroHeadline": "Find your next *elite* stay across Southeast Asia",
+  "siteDomain": "stayelite.travel",
+  "verticalKey": "hotels",
+
+  "entityLabelSingular": "hotel",
+  "entityLabelPlural": "hotels",
+  "categoryLabel": "Loyalty Program",
+  "categoryLabelPlural": "Loyalty Programs",
+  "regionLabel": "City",
+  "regionLabelPlural": "Cities",
+  "regionGranularity": "country+city",
+
+  "schemaTypePrimary": "Hotel",
+
+  "monetizationModel": "affiliate",
+  "primaryCTAType": "booking_link",
+
+  "theme": {
+    "_note": "Warm gold-on-charcoal palette for a luxury/points-traveler audience. Distinct from runsea.run's lime/black identity -- proves the token shape (not these values) is what the engine depends on.",
+    "primaryColor": "#b8863b",
+    "fonts": {
+      "display": "Fraunces",
+      "displayFallback": "Georgia, 'Times New Roman', serif",
+      "body": "Inter",
+      "bodyFallback": "'Helvetica Neue', sans-serif"
+    },
+    "radius": { "sm": "0.25rem", "md": "0.5rem", "lg": "0.875rem", "xl": "1.25rem" },
+    "light": {
+      "bg": "#faf8f4",
+      "surface": "#ffffff",
+      "surfaceOffset": "#f1ede3",
+      "divider": "#e5ddcb",
+      "border": "#ddd3ba",
+      "text": "#211a10",
+      "muted": "#6b5f4c",
+      "faint": "#a3977f",
+      "primaryInk": "#2a1d09",
+      "primaryHighlight": "#f5e9d2",
+      "primaryHover": "#a1752f",
+      "success": "#2f7a3a",
+      "successHighlight": "#d7ecd0",
+      "warning": "#a15c00",
+      "warningHighlight": "#fdf0d8",
+      "error": "#b3261e"
+    },
+    "dark": {
+      "bg": "#171310",
+      "surface": "#1f1a14",
+      "surfaceOffset": "#26201a",
+      "divider": "#352c1e",
+      "border": "#3c3120",
+      "text": "#f2ecdf",
+      "muted": "#b3a48a",
+      "faint": "#7d715c",
+      "primaryInk": "#1c1408",
+      "primaryHighlight": "#3a2c14",
+      "primaryHover": "#d1a054",
+      "success": "#7ec788",
+      "successHighlight": "#1e3122",
+      "warning": "#e0a752",
+      "warningHighlight": "#392c17",
+      "error": "#e0736c"
+    }
+  },
+
+  "_listicleConfig_note": "minEntities lower than races (4) would let a 3-hotel guide through -- with several dozen hotels spread across 6 cities and one program, a category x city combo can be thin even when the city itself has good coverage.",
+  "listicleConfig": {
+    "minEntities": 3,
+    "perRunLimit": 10
+  },
+
+  "enabledFeatures": {
+    "listicles": true,
+    "reviewQueue": true,
+    "savedFilters": true,
+    "darkMode": true,
+    "faqSchema": true,
+    "itemListSchema": true,
+    "affiliateLinks": true
+  },
+
+  "contactEmail": "hello@stayelite.travel",
+  "contactFormEmail": "lyj898@gmail.com",
+
+  "_googleAnalyticsId_note": "Not yet provisioned -- create a GA4 property for stayelite.travel and add its measurement ID here before launch (same step runsea.run went through).",
+
+  "aiPromptProfile": "hotels-research-v1",
+
+  "sourceConfig": {
+    "discoveryStrategy": "brand-directory-plus-review-aggregation",
+    "refreshIntervalDays": 14,
+    "_research_note": "Hotels are evergreen (no lapsing) and the value here is review synthesis, not discovery -- researchPerRunLimit is set higher relative to entity count than races', and researchIntervalDays shorter, because sentiment/first-hand commentary IS the product for this vertical, not a supporting layer.",
+    "researchPerRunLimit": 20,
+    "researchIntervalDays": 60,
+    "requestDelayMs": 2000,
+    "respectRobotsTxt": true,
+    "userAgent": "programmatic-seo-engine/1.0 (+https://stayelite.travel/about)",
+    "discoveryConstraints": "Only include hotels currently enrolled in Marriott Bonvoy (any Bonvoy-participating brand: Ritz-Carlton, St. Regis, W Hotels, JW Marriott, Marriott Hotels, Westin, Sheraton, Le Meridien, Renaissance, Autograph Collection, Courtyard, Four Points, etc.) located in one of the tracked cities. Do not include non-Bonvoy independent hotels, vacation rentals/serviced apartments, or hostels. If a source page mixes Bonvoy and non-Bonvoy properties, extract only the Bonvoy-enrolled ones.",
+    "sourcePriority": [
+      "official_brand_website",
+      "official_booking_page",
+      "loyalty_program_terms",
+      "trusted_aggregators",
+      "verified_guest_reviews"
+    ],
+    "_trustedAggregators_note": "marriott.com's own destination/search pages are heavily client-rendered (same failure mode as World Athletics' calendar in the races instance -- a plain fetch returns navigation chrome and zero hotels), so discover-entities.js will need a text-rendering fetch strategy or a static per-city seed list rather than relying on these URLs directly. Kept here as the authoritative reference for manual research and for whichever fetch strategy discover-entities.js ends up using.",
+    "trustedAggregators": [
+      "https://www.marriott.com/en-us/hotels/destinations/asia/singapore/",
+      "https://www.marriott.com/en-us/hotels/destinations/asia/thailand/",
+      "https://www.marriott.com/en-us/hotels/destinations/asia/malaysia/",
+      "https://www.marriott.com/en-us/hotels/destinations/asia/indonesia/",
+      "https://www.tripadvisor.com/Hotels-g294265-Singapore-Hotels.html",
+      "https://www.tripadvisor.com/Hotels-g293916-Bangkok-Hotels.html",
+      "https://www.tripadvisor.com/Hotels-g297723-Phuket-Hotels.html",
+      "https://www.tripadvisor.com/Hotels-g298570-Kuala_Lumpur_Wilayah_Persekutuan-Hotels.html",
+      "https://www.tripadvisor.com/Hotels-g297700-Bali-Hotels.html",
+      "https://www.tripadvisor.com/Hotels-g294229-Jakarta_Java-Hotels.html"
+    ]
+  },
+
+  "regionsSupported": ["Singapore", "Bangkok", "Phuket", "Kuala Lumpur", "Bali", "Jakarta"],
+  "categoriesSupported": ["Marriott Bonvoy"],
+
+  "notes": "Vertical instance config for 'hotels' (stayelite.travel). Launch scope: Marriott Bonvoy ONLY, across 6 Southeast Asian cities (Singapore, Bangkok, Phuket, Kuala Lumpur, Bali, Jakarta). Architecture is chain-agnostic by construction (same core-facts-registry pattern as every other vertical) -- adding World of Hyatt, Hilton Honors, or IHG One Rewards later means one new data/categories/*.json file plus real researched entities, never a template or route change. URL structure deliberately stays flat (/hotels/<slug>/, /categories/<slug>/, /regions/<slug>/) rather than nested /[program]/[city]/[slug] -- this is a brand-new domain with no indexed URLs to protect, and the flat model already gets 'add a chain without rebuilding' for free, matching how runsea.run works. The weekly refresh pipeline auto-commits directly to main when validation passes (an intentional deviation from the races instance's PR-only gate, at the site owner's request) -- see refresh workflow comments for the validation conditions that must pass before that happens."
+}
