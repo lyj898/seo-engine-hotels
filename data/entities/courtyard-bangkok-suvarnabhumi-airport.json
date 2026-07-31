@@ -1,0 +1,79 @@
+{
+  "entity_id": "courtyard-bangkok-suvarnabhumi-airport",
+  "slug": "courtyard-bangkok-suvarnabhumi-airport",
+  "name": "Courtyard by Marriott Bangkok Suvarnabhumi Airport",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A select-service Courtyard hotel a few minutes from Suvarnabhumi Airport, built for layovers and early departures.",
+  "ai_summary": "Courtyard by Marriott Bangkok Suvarnabhumi Airport sits on Lat Krabang Road minutes from Suvarnabhumi Airport's terminal, making it a layover or early-departure option rather than a city-stay hotel. Rated 4 of 5 on TripAdvisor, it draws consistent praise for a distinctive design referencing Thailand's traditional canal houses, immaculate cleanliness, and a genuinely convenient 10-minute shuttle to the airport, alongside a larger-than-typical select-service amenity set (pool, gym, spa, multiple dining options). As a select-service Courtyard, its elite benefit structure is lighter than the city's full-service Bonvoy hotels, with upgrades and breakfast handled differently under the program's select-service terms. The clearest watchouts are the airport shuttle's frequency (some guests report waits) and inconsistent elite-status recognition at check-in reported by a subset of Marriott Bonvoy loyalty members.",
+  "core_facts": {
+    "address": "599/9 Lat Krabang Road, Lat Krabang, Bangkok 10520, Thailand",
+    "brand_sub_brand": "Courtyard by Marriott",
+    "neighborhood": "Suvarnabhumi Airport / Lat Krabang",
+    "distance_from_airport_km": 3,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "A few minutes from Suvarnabhumi Airport, ideal for layovers or early flights",
+    "Distinctive design referencing Thailand's traditional canal houses",
+    "Immaculate cleanliness and a larger-than-typical select-service amenity set (pool, gym, spa)",
+    "Lower rates than the city's full-service Bonvoy hotels"
+  ],
+  "cons": [
+    "Far from central Bangkok's dining, shopping, and nightlife districts",
+    "Select-service elite benefits are lighter than full-service hotels (bonus points rather than free breakfast for most tiers)",
+    "Some guests report the airport shuttle isn't always frequent, and elite-status recognition at check-in is inconsistent"
+  ],
+  "research_highlights": [
+    "The canal-house-inspired design and cleanliness are frequently praised",
+    "The 10-minute airport shuttle is described as genuinely convenient by most reviewers",
+    "Amenity set (pool, gym, spa, dining) is described as unusually complete for a select-service property"
+  ],
+  "research_watchouts": [
+    "Some guests report the airport shuttle isn't always as frequent as expected",
+    "A subset of Marriott Bonvoy loyalty members report inconsistent recognition of elite status at check-in"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "How far is Courtyard by Marriott Bangkok Suvarnabhumi Airport from the terminal?",
+      "answer": "It's about a 10-minute ride, with a complimentary shuttle service most guests describe as convenient, though a subset of reviews note it isn't always as frequent as expected -- worth confirming shuttle timing if you have a tight connection."
+    },
+    {
+      "question": "Does this Courtyard offer full elite breakfast benefits for Marriott Bonvoy members?",
+      "answer": "Not the same as a full-service hotel -- as a select-service Courtyard, Platinum Elite and above generally receive bonus points in lieu of a free breakfast rather than a complimentary buffet, per standard Bonvoy select-service program terms."
+    }
+  ],
+  "tags": ["airport hotel", "select-service", "layover"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkap-courtyard-bangkok-suvarnabhumi-airport/overview/",
+      "label": "Official Courtyard Bangkok Suvarnabhumi Airport overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d26633924-Reviews-Courtyard_by_Marriott_Bangkok_Suvarnabhumi_Airport-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkap-courtyard-bangkok-suvarnabhumi-airport/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "reliability_score": 64,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

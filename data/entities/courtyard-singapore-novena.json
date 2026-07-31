@@ -1,0 +1,80 @@
+{
+  "entity_id": "courtyard-singapore-novena",
+  "slug": "courtyard-singapore-novena",
+  "name": "Courtyard by Marriott Singapore Novena",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A select-service Courtyard on Irrawaddy Road in the Novena medical and residential district.",
+  "ai_summary": "Courtyard by Marriott Singapore Novena sits on Irrawaddy Road in the Novena district, known for its cluster of private hospitals and medical centers as well as residential neighborhoods, and is built directly on top of Novena MRT station. Guest reviews consistently praise the transit-connected location, a 33rd-floor infinity pool with city views, and a well-regarded weekday evening reception with drinks and light snacks. As a select-service Courtyard, it's positioned for value-conscious business and medical-tourism travelers rather than the leisure or convention-district crowd the downtown hotels target. The most common complaints are about value trade-offs rather than quality: standard rooms are described as small even at the premium tier, breakfast is a paid add-on at roughly SGD 35 (free only for Titanium Elite and above), and at least one review noted the pool deck was closed for renovation during a stay.",
+  "core_facts": {
+    "address": "99 Irrawaddy Road, Singapore 329568",
+    "brand_sub_brand": "Courtyard by Marriott",
+    "neighborhood": "Novena",
+    "distance_from_airport_km": 22,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Built directly on top of Novena MRT station, close to Novena's private hospitals, useful for medical-tourism stays",
+    "33rd-floor infinity pool with city views draws consistent praise",
+    "Weekday evening reception (drinks, light snacks) is a well-regarded touch",
+    "Lower rates than the downtown and Sentosa Bonvoy hotels"
+  ],
+  "cons": [
+    "Further from Marina Bay, Orchard Road, and Sentosa's main attractions",
+    "Standard and even premium rooms are described as small",
+    "Breakfast is a paid add-on (about SGD 35) unless you hold Titanium Elite or above"
+  ],
+  "research_highlights": [
+    "The 33rd-floor infinity pool is a consistently praised highlight",
+    "The weekday evening reception with drinks and snacks draws specific positive mentions",
+    "Direct MRT connectivity is repeatedly cited as a practical advantage"
+  ],
+  "research_watchouts": [
+    "Rooms are described as small even at premium tiers",
+    "Breakfast costs roughly SGD 35 and is only complimentary for Titanium Elite and above",
+    "At least one review noted the pool deck was closed for renovation during their stay"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is breakfast included at Courtyard by Marriott Singapore Novena?",
+      "answer": "Not for most guests -- breakfast is a paid add-on at roughly SGD 35 per person, and is only complimentary for Marriott Bonvoy Titanium Elite members and above, consistent with the brand's select-service benefit structure."
+    },
+    {
+      "question": "Is Courtyard by Marriott Singapore Novena connected to the MRT?",
+      "answer": "Yes -- the hotel is built directly on top of Novena MRT station, making it one of the most transit-connected Bonvoy properties in this directory's Singapore list."
+    }
+  ],
+  "tags": ["select-service", "novena", "medical district"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sincy-courtyard-singapore-novena/overview/",
+      "label": "Official Courtyard Singapore Novena overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d12554757-Reviews-Courtyard_by_Marriott_Singapore_Novena-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sincy-courtyard-singapore-novena/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["aloft-singapore-novena"],
+  "reliability_score": 64,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

@@ -1,0 +1,79 @@
+{
+  "entity_id": "bangkok-marriott-marquis-queens-park",
+  "slug": "bangkok-marriott-marquis-queens-park",
+  "name": "Bangkok Marriott Marquis Queen's Park",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A large-scale Marriott hotel off Sukhumvit Soi 22, one of the biggest Bonvoy properties in Bangkok by room count.",
+  "ai_summary": "Bangkok Marriott Marquis Queen's Park sits off Sukhumvit Soi 22 in the Khlong Toei area, and is one of the largest hotels in the city's Bonvoy portfolio, with extensive event and meeting space alongside its rooms. Guest reviews (rated 4 of 5 across roughly 3,700 TripAdvisor reviews) consistently single out the breakfast buffet's Asian-and-Western variety and the hotel's award-winning restaurants, alongside spacious rooms and a well-equipped gym and pool. It's positioned for both business travelers using the hotel's conference facilities and leisure travelers wanting Sukhumvit access without being directly on the main strip. The main watchout in reviews is scale-related: some guests report occasional service lapses during busy periods, and private functions or events have on occasion limited access to the rooftop bar, restaurant, or pool with inconsistent communication at check-in.",
+  "core_facts": {
+    "address": "199 Soi Sukhumvit 22, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Sukhumvit (Soi 22)",
+    "distance_from_airport_km": 24,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Large-scale property with extensive conference and event facilities",
+    "Sukhumvit Soi 22 location is a short walk to Benjasiri Park and BTS Phrom Phong",
+    "Breakfast buffet variety and the hotel's award-winning restaurants draw consistent praise",
+    "Sizeable room inventory makes elite upgrades more available in practice at off-peak times"
+  ],
+  "cons": [
+    "Set back from Sukhumvit's main road, so a short walk or shuttle is needed to reach the BTS",
+    "Some guests report occasional service lapses during busy periods",
+    "Private functions/events have on occasion limited access to the rooftop bar, restaurant, or pool"
+  ],
+  "research_highlights": [
+    "Rated 4 of 5 across roughly 3,700 TripAdvisor reviews",
+    "Breakfast variety and the hotel's award-winning restaurants are the most consistently cited highlights",
+    "Gym, pool, and overall amenity scale draw regular praise"
+  ],
+  "research_watchouts": [
+    "Some guests report occasional service lapses during busy periods",
+    "Private events have on occasion restricted guest access to the rooftop bar, restaurant, or pool with inconsistent communication at check-in"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is Bangkok Marriott Marquis Queen's Park suitable for business travelers?",
+      "answer": "Yes -- it's one of the largest hotels in Bangkok's Bonvoy portfolio, with extensive meeting and event space, and its scale means elite-status room upgrades tend to be more available at off-peak times than at smaller boutique properties."
+    },
+    {
+      "question": "How far is Bangkok Marriott Marquis Queen's Park from the BTS Skytrain?",
+      "answer": "The hotel sits off the main Sukhumvit road on Soi 22, so a short walk or hotel shuttle is typically needed to reach BTS Phrom Phong, unlike hotels directly fronting Sukhumvit Road."
+    }
+  ],
+  "tags": ["business hotel", "sukhumvit", "large-scale"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkqp-bangkok-marriott-marquis-queens-park/overview/",
+      "label": "Official Bangkok Marriott Marquis Queen's Park overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d10821858-Reviews-Bangkok_Marriott_Marquis_Queen_s_Park-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkqp-bangkok-marriott-marquis-queens-park/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-bangkok", "sheraton-grande-sukhumvit-bangkok"],
+  "reliability_score": 66,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

@@ -1,0 +1,80 @@
+{
+  "entity_id": "ritz-carlton-millenia-singapore",
+  "slug": "ritz-carlton-millenia-singapore",
+  "name": "The Ritz-Carlton, Millenia Singapore",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A 32-storey Ritz-Carlton on Raffles Avenue in Marina Centre, overlooking Marina Bay.",
+  "ai_summary": "The Ritz-Carlton, Millenia Singapore is a 32-storey tower on Raffles Avenue in Marina Centre, within walking distance of Marina Bay Sands, the Esplanade, and the Suntec convention district. Ranked among the top 100 of nearly 380 Singapore hotels on TripAdvisor, it draws strong, specific praise for staff who remember guests by name, refurbished rooms with large beds and Marina Bay views, and housekeeping so thorough some guests describe it as twice-daily with turndown chocolates. As Bonvoy's top luxury tier, it's positioned for both business travelers using the nearby convention facilities and leisure travelers wanting a Marina Bay address. The clearest recurring complaint is breakfast: reviews describe wait times and a serving area that can feel undersized relative to demand, alongside occasional mentions of dated decor in older wings and premium dining prices.",
+  "core_facts": {
+    "address": "7 Raffles Avenue, Singapore 039799",
+    "brand_sub_brand": "The Ritz-Carlton",
+    "neighborhood": "Marina Bay / Marina Centre",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Walking distance to Marina Bay Sands, the Esplanade, and Suntec City",
+    "Staff are repeatedly described as recognizing and personally addressing returning guests",
+    "Refurbished rooms with large beds and Marina Bay views draw strong praise",
+    "Housekeeping quality is a standout, per guest reviews"
+  ],
+  "cons": [
+    "Marina Centre is a premium-priced area with rates and dining costs to match",
+    "Breakfast wait times and a serving area some guests find undersized are a recurring complaint",
+    "Some guests note dated decor in parts of the property"
+  ],
+  "research_highlights": [
+    "Staff are repeatedly noted for remembering and personally greeting returning guests",
+    "Housekeeping quality, including twice-daily service and turndown touches, is a standout",
+    "Refurbished rooms and Marina Bay views draw consistently strong praise"
+  ],
+  "research_watchouts": [
+    "Breakfast wait times and an undersized serving area are the most frequently repeated complaint",
+    "Some guests describe decor in parts of the hotel as dated",
+    "Dining is noted as pricey even relative to other Marina Bay luxury hotels"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is breakfast a strong point at The Ritz-Carlton, Millenia Singapore?",
+      "answer": "It's a mixed picture -- while the hotel scores well overall, breakfast is the most frequently repeated complaint in guest reviews, with wait times reported during busy periods and a serving area some guests describe as undersized for demand."
+    },
+    {
+      "question": "How close is The Ritz-Carlton, Millenia Singapore to Marina Bay Sands?",
+      "answer": "It's within easy walking distance -- the hotel sits on Raffles Avenue in Marina Centre, close to Marina Bay Sands, the Esplanade, and the Suntec convention district."
+    }
+  ],
+  "tags": ["luxury", "marina bay", "business district"],
+  "source_mix": [
+    {
+      "url": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/overview/",
+      "label": "Official Ritz-Carlton Millenia Singapore overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d302231-Reviews-The_Ritz_Carlton_Millenia_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ritzcarlton.com/en/hotels/sinrz-the-ritz-carlton-millenia-singapore/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-singapore-south-beach"],
+  "reliability_score": 68,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

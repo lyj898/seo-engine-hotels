@@ -1,0 +1,78 @@
+{
+  "entity_id": "renaissance-bangkok-ratchaprasong",
+  "slug": "renaissance-bangkok-ratchaprasong",
+  "name": "Renaissance Bangkok Ratchaprasong Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A Renaissance hotel on Ploenchit Road, near the Ratchaprasong shopping intersection and BTS Chidlom.",
+  "ai_summary": "Renaissance Bangkok Ratchaprasong Hotel sits on Ploenchit Road near the Ratchaprasong intersection, one of Bangkok's densest shopping and hotel clusters, within walking distance of CentralWorld and Gaysorn Village. Rated 4 of 5 across more than 5,500 TripAdvisor reviews, it draws consistent praise for its 25-meter indoor pool with city views, a design that blends Thai and international influences, and a warm welcome from lobby staff. As a Renaissance property it sits in Bonvoy's premium (not top-luxury) tier, positioned similarly to the JW Marriott but in a more shopping-centric part of the city than Sukhumvit. The clearest watchout in reviews is around events: at least one wedding-focused review describes slow response to technical issues and disappointment with the overall event execution, suggesting the property is a stronger fit for a standard stay than for hosting a major private event.",
+  "core_facts": {
+    "address": "518/8 Ploenchit Road, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Renaissance Hotels",
+    "neighborhood": "Ratchaprasong / Ploenchit",
+    "distance_from_airport_km": 27,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Walking distance to CentralWorld, Gaysorn Village, and the Ratchaprasong shopping cluster",
+    "Close to BTS Chidlom for citywide transit access",
+    "25-meter indoor pool with city views draws consistent praise",
+    "Rated 4 of 5 across more than 5,500 TripAdvisor reviews"
+  ],
+  "cons": [
+    "Ratchaprasong is one of the most crowded intersections in the city, especially on weekends",
+    "Renaissance is a step below Bonvoy's top luxury tier (Ritz-Carlton, St. Regis)",
+    "At least one review describes slow technical-issue response and weaker execution for hosted events like weddings"
+  ],
+  "research_highlights": [
+    "The 25-meter indoor pool with city views is a frequently cited highlight",
+    "Lobby staff and the overall welcome are consistently described as warm",
+    "Interior design blending Thai and international styles draws specific praise"
+  ],
+  "research_watchouts": [
+    "At least one detailed review describes weak execution and slow technical support for a hosted wedding event"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is Renaissance Bangkok Ratchaprasong a good choice for hosting an event or wedding?",
+      "answer": "Reviews are mixed on this specifically -- while general stays are rated well (4 of 5 across 5,500+ reviews), at least one detailed guest account describes slow technical support and weaker execution for a hosted wedding, so couples planning an event should confirm logistics carefully with the hotel in advance."
+    },
+    {
+      "question": "How close is Renaissance Bangkok Ratchaprasong to CentralWorld?",
+      "answer": "It's within easy walking distance -- the hotel sits on Ploenchit Road near the Ratchaprasong intersection, close to CentralWorld, Gaysorn Village, and BTS Chidlom station."
+    }
+  ],
+  "tags": ["shopping district", "ratchaprasong", "premium"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkbr-renaissance-bangkok-ratchaprasong-hotel/overview/",
+      "label": "Official Renaissance Bangkok Ratchaprasong overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1540873-Reviews-Renaissance_Bangkok_Ratchaprasong_Hotel-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkbr-renaissance-bangkok-ratchaprasong-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["st-regis-bangkok", "athenee-luxury-collection-bangkok"],
+  "reliability_score": 66,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

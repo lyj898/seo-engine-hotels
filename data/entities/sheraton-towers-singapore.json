@@ -1,0 +1,79 @@
+{
+  "entity_id": "sheraton-towers-singapore",
+  "slug": "sheraton-towers-singapore",
+  "name": "Sheraton Towers Singapore",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A Sheraton on Scotts Road, next to Newton MRT and a short walk from Orchard Road's shopping core.",
+  "ai_summary": "Sheraton Towers Singapore sits on Scotts Road next to Newton MRT station, a short walk from Orchard Road's main shopping stretch. As a standard full-service Sheraton (rather than a Luxury Collection-branded conversion like Bangkok's Sheraton Grande Sukhumvit), it sits in Bonvoy's mid-to-premium tier, positioned as a more accessible alternative to the St. Regis and Ritz-Carlton properties in the city. Guest reviews are polarized: many praise the friendly, responsive staff, a peaceful pool, and a strong buffet, with executive-floor guests specifically calling out quiet, well-appointed rooms with evening snacks and drinks as good value. But a meaningful share of reviews describe dated interiors, inconsistent housekeeping (including reports of no service across multi-day stays), and a lackluster welcome that some feel doesn't match the price point outside the executive floors.",
+  "core_facts": {
+    "address": "39 Scotts Road, Singapore 228230",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Scotts Road / Orchard",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Direct MRT access via Newton station",
+    "Short walk to Orchard Road's main shopping and dining strip",
+    "Executive-floor rooms draw specific praise for value: quiet, well-appointed, with evening snacks and drinks",
+    "Mid-to-premium Bonvoy tier at a lower price point than the city's top-luxury hotels"
+  ],
+  "cons": [
+    "Standard Sheraton brand rather than a Luxury Collection-tier conversion",
+    "A meaningful share of reviews describe dated interiors outside the executive floors",
+    "Some guests report inconsistent housekeeping, including missed service over multi-day stays"
+  ],
+  "research_highlights": [
+    "Executive-floor rooms draw specific praise for quiet, well-appointed space and evening snacks/drinks",
+    "Staff are frequently described as friendly and responsive",
+    "The buffet and pool area are consistently well-reviewed"
+  ],
+  "research_watchouts": [
+    "A meaningful share of reviews describe dated room interiors, particularly outside the executive floors",
+    "Some guests report inconsistent housekeeping, including missed service on multi-day stays"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Are the executive floor rooms at Sheraton Towers Singapore worth the upgrade?",
+      "answer": "Guest reviews suggest yes -- executive-floor rooms are specifically praised for being quieter and better-appointed, with complimentary evening snacks and drinks, while several reviews describe standard rooms elsewhere in the hotel as more dated."
+    },
+    {
+      "question": "Is Sheraton Towers Singapore close to Orchard Road?",
+      "answer": "Yes -- it sits on Scotts Road directly next to Newton MRT station, a short walk from Orchard Road's main shopping and dining strip."
+    }
+  ],
+  "tags": ["orchard road", "mid-premium", "mrt access"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinst-sheraton-towers-singapore/overview/",
+      "label": "Official Sheraton Towers Singapore overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d301803-Reviews-Sheraton_Towers_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinst-sheraton-towers-singapore/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["st-regis-singapore"],
+  "reliability_score": 60,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

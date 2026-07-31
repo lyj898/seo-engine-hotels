@@ -1,0 +1,79 @@
+{
+  "entity_id": "aloft-singapore-novena",
+  "slug": "aloft-singapore-novena",
+  "name": "Aloft Singapore Novena",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "The world's largest Aloft hotel, on Ah Hood Road in Novena, aimed at value-conscious business and leisure travelers.",
+  "ai_summary": "Aloft Singapore Novena sits on Ah Hood Road in the Novena/Balestier area and is reported to be the largest Aloft hotel in the world by room count. Guest reviews praise a friendly, professional door and front-desk team, an attached mall with dining options, and a frequent shuttle service to Novena MRT station, with the banquet team drawing specific praise for wedding and event hosting. As a select-service, design-led budget-lifestyle brand, it's Bonvoy's most accessible price point in this directory's Singapore list, with a younger, more casual brand identity than the Courtyard next door in the same district. The clearest watchouts are check-in communication and room size: several reviews describe an unhelpful check-in process that didn't proactively explain the shuttle, breakfast location, or pool, rooms as small even for elite members, and at least one account of a security lapse with a room door left unlocked after housekeeping.",
+  "core_facts": {
+    "address": "16 Ah Hood Road, Singapore 329982",
+    "brand_sub_brand": "Aloft",
+    "neighborhood": "Novena / Balestier",
+    "distance_from_airport_km": 22,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "One of the most accessible Bonvoy price points in Singapore",
+    "Reported to be the largest Aloft hotel in the world, with a correspondingly large room inventory",
+    "Free, frequent shuttle service to Novena MRT station",
+    "Attached mall with dining options; banquet team draws specific praise for events"
+  ],
+  "cons": [
+    "Aloft's casual, design-led format has fewer full-service amenities than the city's luxury and premium hotels",
+    "Rooms are described as small, even for elite members",
+    "Some reviews describe an unhelpful check-in process that didn't proactively explain shuttle, breakfast, or pool details; at least one report of a room door left unlocked after housekeeping"
+  ],
+  "research_highlights": [
+    "The frequent shuttle to Novena MRT is repeatedly cited as a practical advantage",
+    "The banquet/events team draws specific praise for wedding and event hosting"
+  ],
+  "research_watchouts": [
+    "Several reviews describe an unhelpful check-in process lacking proactive orientation (shuttle, breakfast, pool)",
+    "Rooms are described as small even for elite members",
+    "At least one account describes a room door left unlocked after housekeeping -- worth confirming door security on check-in"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is Aloft Singapore Novena a good value option for Marriott Bonvoy members?",
+      "answer": "Yes, on price -- it's one of the most accessible Bonvoy rates in Singapore. Rooms run smaller than average even for elite members, so it suits travelers prioritizing cost and MRT access over space."
+    },
+    {
+      "question": "Does Aloft Singapore Novena provide airport or MRT transport?",
+      "answer": "It runs a free, frequent shuttle to Novena MRT station, which guest reviews describe as a reliable way to reach the rest of the city, though check-in staff don't always proactively explain the shuttle schedule -- ask at the front desk on arrival."
+    }
+  ],
+  "tags": ["select-service", "novena", "budget-lifestyle"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinnv-aloft-singapore-novena/overview/",
+      "label": "Official Aloft Singapore Novena overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d3505884-Reviews-Aloft_Singapore_Novena-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinnv-aloft-singapore-novena/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["courtyard-singapore-novena"],
+  "reliability_score": 60,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

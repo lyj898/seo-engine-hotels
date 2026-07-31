@@ -1,0 +1,80 @@
+{
+  "entity_id": "w-singapore-sentosa-cove",
+  "slug": "w-singapore-sentosa-cove",
+  "name": "W Singapore - Sentosa Cove",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A W Hotels resort on Ocean Way in Sentosa Cove, Singapore's only marina-front residential and resort enclave.",
+  "ai_summary": "W Singapore - Sentosa Cove sits on Ocean Way within Sentosa Cove, a marina-front enclave separate from mainland Singapore and reached by a short causeway or cable car. Rated 4 of 5 across more than 3,500 TripAdvisor reviews, it's the resort-style counterpart to the city's downtown Bonvoy hotels, with guests consistently praising a laid-back staycation atmosphere, personalized staff attention, the AWAY Spa, and a 24-hour pool with a slide that keeps kids entertained. The main watchouts are practical rather than experiential: some guests find aspects of room layout and functionality (lighting controls, water pressure, pillow choice) fall short of the price point, dining service at the property's signature restaurants has drawn constructive criticism, and pool loungers can be scarce during busy periods.",
+  "core_facts": {
+    "address": "21 Ocean Way, Sentosa Cove, Singapore 098374",
+    "brand_sub_brand": "W Hotels",
+    "neighborhood": "Sentosa Cove",
+    "distance_from_airport_km": 26,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Marina-front Sentosa Cove setting, distinct from any downtown Singapore hotel",
+    "Rated 4 of 5 across more than 3,500 TripAdvisor reviews",
+    "24-hour pool with a slide is specifically praised as good for families",
+    "AWAY Spa and personalized staff attention draw consistent praise"
+  ],
+  "cons": [
+    "Sentosa Island requires a causeway, cable car, or Sentosa Express ride from the mainland",
+    "Some guests report room layout/functionality issues (lighting controls, water pressure, pillow choice) relative to the price",
+    "Dining service at signature restaurants has drawn constructive criticism; pool loungers can be scarce when busy"
+  ],
+  "research_highlights": [
+    "The 24-hour pool with a slide is specifically noted as a strong option for families",
+    "Staff are repeatedly described as delivering personalized, friend-like service",
+    "The AWAY Spa is a consistently praised amenity"
+  ],
+  "research_watchouts": [
+    "Some guests report room layout and functionality shortfalls (lighting, water pressure, pillows) relative to price",
+    "Dining service at the property's signature restaurants has drawn constructive criticism",
+    "Pool loungers can be scarce during busy periods"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is W Singapore - Sentosa Cove good for families?",
+      "answer": "Yes -- the 24-hour pool with a slide is specifically praised in guest reviews as keeping kids entertained, though pool loungers can be scarce during busy periods, so arriving early for a spot is worth planning for."
+    },
+    {
+      "question": "How do you get to W Singapore - Sentosa Cove from mainland Singapore?",
+      "answer": "Sentosa Cove requires a short causeway drive, the Sentosa Express monorail, or a cable car from mainland Singapore -- it's not walkable, so factor in extra transit time compared to a downtown hotel."
+    }
+  ],
+  "tags": ["resort", "sentosa", "lifestyle"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinwh-w-singapore-sentosa-cove/overview/",
+      "label": "Official W Singapore Sentosa Cove overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294264-d3300141-Reviews-W_Singapore_Sentosa_Cove-Sentosa_Island_Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinwh-w-singapore-sentosa-cove/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["le-meridien-singapore-sentosa"],
+  "reliability_score": 66,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

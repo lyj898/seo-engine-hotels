@@ -1,0 +1,78 @@
+{
+  "entity_id": "jw-marriott-singapore-south-beach",
+  "slug": "jw-marriott-singapore-south-beach",
+  "name": "JW Marriott Hotel Singapore South Beach",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A JW Marriott on Beach Road, straddling the Civic District and Marina Bay, with a distinctive twin-tower design.",
+  "ai_summary": "JW Marriott Hotel Singapore South Beach sits on Beach Road between the Civic District and Marina Bay, in a building known for its twin-tower architecture and a design pedigree involving several noted architects. Guest reviews are consistently strong, with reviewers repeatedly describing personalized, attentive service from staff who go out of their way on small details, alongside stylish, modern rooms and a well-regarded executive lounge. It's a full-service premium hotel, one tier below Bonvoy's top luxury brands, and puts guests within walking distance of both the historic Civic District and the Marina Bay waterfront, with the City Hall and Esplanade MRT stations nearby. The main watchouts are value-related rather than service-related: a subset of guests report unexpected additional costs, and some find standard rooms tight when a rollaway or extra bed is added.",
+  "core_facts": {
+    "address": "30 Beach Road, Singapore 189763",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "Civic District / Marina Bay",
+    "distance_from_airport_km": 21,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Walking distance to both the Civic District's museums and Marina Bay's waterfront",
+    "Distinctive twin-tower architecture with design input from multiple noted architects",
+    "Staff attentiveness and the executive lounge draw consistently strong reviews",
+    "Close to City Hall and Esplanade MRT stations"
+  ],
+  "cons": [
+    "JW Marriott is a premium, not top-luxury, brand tier within Bonvoy",
+    "A subset of guests report unexpected additional costs",
+    "Standard rooms can feel tight when an extra bed or rollaway is added"
+  ],
+  "research_highlights": [
+    "Staff attentiveness to small details is a consistent theme across reviews",
+    "The executive lounge and pool views draw specific, repeated praise"
+  ],
+  "research_watchouts": [
+    "A subset of guests report unexpected additional costs beyond the room rate",
+    "Rooms can feel tight when accommodating an extra bed"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is JW Marriott Singapore South Beach good for families needing an extra bed?",
+      "answer": "It can work, but some guests report standard rooms feel tight once a rollaway or extra bed is added, so families should check room dimensions or consider a suite category before booking."
+    },
+    {
+      "question": "How central is JW Marriott Singapore South Beach?",
+      "answer": "Very -- it sits on Beach Road between the Civic District and Marina Bay, within walking distance of both, and close to City Hall and Esplanade MRT stations for onward travel."
+    }
+  ],
+  "tags": ["premium", "civic district", "marina bay"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinjw-jw-marriott-hotel-singapore-south-beach/overview/",
+      "label": "Official JW Marriott Singapore South Beach overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Feature-g294265-d7736497-zft1-JW_Marriott_Hotel_Singapore_South_Beach.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinjw-jw-marriott-hotel-singapore-south-beach/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-millenia-singapore"],
+  "reliability_score": 68,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

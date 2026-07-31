@@ -1,0 +1,78 @@
+{
+  "entity_id": "sheraton-grande-sukhumvit-bangkok",
+  "slug": "sheraton-grande-sukhumvit-bangkok",
+  "name": "Sheraton Grande Sukhumvit, a Luxury Collection Hotel, Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A dual-branded Sheraton/Luxury Collection hotel directly on Sukhumvit Road, connected to BTS Asoke and MRT Sukhumvit.",
+  "ai_summary": "Sheraton Grande Sukhumvit, a Luxury Collection Hotel, Bangkok sits directly on Sukhumvit Road with covered access to both BTS Asoke and MRT Sukhumvit stations, making it one of the best-connected Bonvoy hotels in the city for onward travel. Guest reviews consistently praise friendly, attentive staff (including reception remembering returning guests), a well-regarded spa and gym, and the Orchid Cafe's buffet variety, with several reviewers ranking the overall package among the best in Bangkok for service and facilities. Its dual Sheraton/Luxury Collection branding places it a step up from a standard full-service Sheraton in furnishings and positioning. The main recurring criticism is age-related: some guests describe dated decor and slow elevators, though the property has responded with recent renovations (new TVs, LED lighting, updated furnishings) that more recent reviews reflect.",
+  "core_facts": {
+    "address": "250 Sukhumvit Road, Khlong Toei, Bangkok 10110, Thailand",
+    "brand_sub_brand": "The Luxury Collection",
+    "neighborhood": "Sukhumvit (Asoke)",
+    "distance_from_airport_km": 25,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Covered, direct access to both BTS Asoke and MRT Sukhumvit stations",
+    "Central Sukhumvit location close to Terminal 21 and Asoke's dining scene",
+    "Staff attentiveness and the Orchid Cafe buffet draw consistently strong reviews",
+    "Recently renovated (new TVs, LED lighting, furnishings) after some guests noted aging decor"
+  ],
+  "cons": [
+    "One of the busier, more heavily trafficked stretches of Sukhumvit",
+    "Not the top Bonvoy luxury tier (Ritz-Carlton/St. Regis) despite the Luxury Collection name",
+    "Some older reviews cite dated decor and slow elevators, though recent renovations address part of this"
+  ],
+  "research_highlights": [
+    "Staff attentiveness, including reception recognizing returning guests, is a consistent highlight",
+    "The Orchid Cafe buffet and the hotel's spa/gym draw repeated praise",
+    "Recent renovations (TVs, LED lighting, furnishings) have addressed earlier complaints about dated decor"
+  ],
+  "research_watchouts": [
+    "Some guests, particularly in older reviews, describe dated decor and slow elevators"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Has Sheraton Grande Sukhumvit Bangkok been renovated recently?",
+      "answer": "Yes -- following guest feedback about aging decor, the hotel has completed renovations including new TVs, LED lighting, and updated furnishings. Older reviews mentioning dated rooms may not reflect the property's current condition."
+    },
+    {
+      "question": "Is Sheraton Grande Sukhumvit Bangkok connected to public transit?",
+      "answer": "Yes -- it has covered, direct access to both BTS Asoke and MRT Sukhumvit stations, making it one of the best-connected Bonvoy hotels in Bangkok for reaching the rest of the city without a taxi."
+    }
+  ],
+  "tags": ["sukhumvit", "transit hub", "luxury collection"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkklc-sheraton-grande-sukhumvit-a-luxury-collection-hotel-bangkok/overview/",
+      "label": "Official Sheraton Grande Sukhumvit overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d304494-Reviews-Sheraton_Grande_Sukhumvit_a_Luxury_Collection_Hotel_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkklc-sheraton-grande-sukhumvit-a-luxury-collection-hotel-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-bangkok", "bangkok-marriott-marquis-queens-park", "marriott-executive-apartments-bangkok-sukhumvit-50"],
+  "reliability_score": 68,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

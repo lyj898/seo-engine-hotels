@@ -1,0 +1,78 @@
+{
+  "entity_id": "st-regis-singapore",
+  "slug": "st-regis-singapore",
+  "name": "The St. Regis Singapore",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A St. Regis hotel on Tanglin Road, at the edge of Orchard Road and a short walk from the Botanic Gardens.",
+  "ai_summary": "The St. Regis Singapore stands on Tanglin Road where the Orchard Road shopping belt meets the Singapore Botanic Gardens and the embassy district. Guest reviews consistently praise the signature butler service for small, practical touches -- fresh coffee or tea delivered on request, complimentary daily pressing of two items -- alongside spotless rooms and meticulous housekeeping. It's one of two Bonvoy top-luxury properties in this directory's Singapore list, alongside The Ritz-Carlton, Millenia Singapore, but sits in the Orchard/Tanglin part of the city rather than Marina Bay. The most consistent criticism in reviews is that butler service, while pleasant, doesn't always feel as anticipatory or bespoke as the St. Regis brand promise implies -- several guests describe it as closer to attentive room service than a truly personalized concierge relationship, and a few feel the experience doesn't fully justify the price premium.",
+  "core_facts": {
+    "address": "29 Tanglin Road, Singapore 247911",
+    "brand_sub_brand": "St. Regis",
+    "neighborhood": "Tanglin / Orchard Road",
+    "distance_from_airport_km": 22,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Short walk to the Singapore Botanic Gardens, a UNESCO World Heritage Site",
+    "At the quieter, embassy-district end of Orchard Road rather than its busiest retail core",
+    "Butler service delivers genuinely useful small touches: on-request coffee/tea and daily complimentary pressing",
+    "Rooms and housekeeping are consistently described as spotless"
+  ],
+  "cons": [
+    "Further from Marina Bay's convention and casino district than the Millenia-area hotels",
+    "Some guests feel butler service is closer to attentive room service than a fully bespoke concierge experience",
+    "A few reviews feel the overall experience doesn't fully justify the price premium"
+  ],
+  "research_highlights": [
+    "Butler service delivers concrete, practical perks: on-request coffee/tea and complimentary daily pressing of two items",
+    "Rooms and housekeeping are consistently described as spotless"
+  ],
+  "research_watchouts": [
+    "Several guests describe butler service as closer to attentive room service than a fully anticipatory, bespoke experience",
+    "A subset of reviews feel value doesn't fully match the price premium"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "What does butler service actually include at The St. Regis Singapore?",
+      "answer": "Guests report concrete perks like on-request coffee or tea delivery and complimentary daily pressing of two clothing items. Some reviews note it feels closer to attentive room service than a fully anticipatory, personalized concierge relationship, so set expectations accordingly."
+    },
+    {
+      "question": "Is The St. Regis Singapore close to the Botanic Gardens?",
+      "answer": "Yes -- it's a short walk from the Singapore Botanic Gardens, a UNESCO World Heritage Site, at the quieter end of Orchard Road near the city's embassy district."
+    }
+  ],
+  "tags": ["luxury", "orchard road", "botanic gardens"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinxr-the-st-regis-singapore/overview/",
+      "label": "Official St. Regis Singapore overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d678328-Reviews-The_St_Regis_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinxr-the-st-regis-singapore/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sheraton-towers-singapore"],
+  "reliability_score": 66,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

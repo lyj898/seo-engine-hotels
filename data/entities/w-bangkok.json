@@ -1,0 +1,79 @@
+{
+  "entity_id": "w-bangkok",
+  "slug": "w-bangkok",
+  "name": "W Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A W Hotels property on North Sathorn Road, in Bangkok's Silom/Sathorn financial district.",
+  "ai_summary": "W Bangkok sits on North Sathorn Road in the Silom/Sathorn financial district, close to the Chao Phraya riverside and the BTS Chong Nonsi and Surasak stations. As a W Hotels property, it leans into a design-forward, nightlife-oriented positioning distinct from Bonvoy's more traditional luxury brands, with the 6th-floor pool and bar drawing consistent praise in guest reviews alongside modern rooms and city views. The 'Whatever/Whenever' concierge concept gets specific mentions for arranging complimentary extras. The most common criticism is inconsistency rather than a fundamental flaw: some guests report booked package inclusions being overlooked, uneven follow-through on promised upgrades or late check-out, and occasional billing errors, and a few describe the property as feeling due for a refresh. Sauna access is also limited to guests booking spa treatments rather than being freely available.",
+  "core_facts": {
+    "address": "106 North Sathorn Road, Silom, Bangrak, Bangkok 10500, Thailand",
+    "brand_sub_brand": "W Hotels",
+    "neighborhood": "Silom / Sathorn",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Sathorn/Silom location near Bangkok's financial district and the Chao Phraya riverside",
+    "W Hotels' design-forward, nightlife-oriented brand identity within Bonvoy",
+    "6th-floor pool and bar draw consistent praise in guest reviews",
+    "Close to BTS Chong Nonsi and Surasak stations"
+  ],
+  "cons": [
+    "Slightly further from the airport than the Sukhumvit-corridor cluster",
+    "Some guests report inconsistent follow-through on booked package inclusions, upgrades, or late check-out",
+    "Sauna access is limited to guests booking spa treatments rather than freely available"
+  ],
+  "research_highlights": [
+    "The 6th-floor pool and bar are consistently praised as a highlight",
+    "The 'Whatever/Whenever' concierge concept gets specific positive mentions for arranging complimentary extras"
+  ],
+  "research_watchouts": [
+    "Some guests report inconsistency around booked package inclusions, promised upgrades, or late check-out",
+    "Sauna access is limited to spa-treatment guests due to limited space",
+    "A few reviews describe the property as feeling due for a refresh"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Does W Bangkok have a sauna?",
+      "answer": "Access is limited -- guest reports indicate the sauna is only available to guests booking spa treatments rather than being freely accessible to all hotel guests, due to limited space."
+    },
+    {
+      "question": "What is W Bangkok's pool and bar like?",
+      "answer": "The 6th-floor pool and bar is one of the most consistently praised features in guest reviews, cited as a highlight of the stay alongside the hotel's modern, design-forward rooms."
+    }
+  ],
+  "tags": ["lifestyle", "silom", "financial district"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkwb-w-bangkok/overview/",
+      "label": "Official W Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d3423715-Reviews-W_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkwb-w-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["le-meridien-bangkok"],
+  "reliability_score": 64,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

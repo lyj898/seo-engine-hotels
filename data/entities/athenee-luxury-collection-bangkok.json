@@ -1,0 +1,79 @@
+{
+  "entity_id": "athenee-luxury-collection-bangkok",
+  "slug": "athenee-luxury-collection-bangkok",
+  "name": "The Athenee Hotel, a Luxury Collection Hotel, Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A Luxury Collection hotel on Wireless Road (Witthayu), adjacent to Lumphini Park in Bangkok's embassy quarter.",
+  "ai_summary": "The Athenee Hotel, a Luxury Collection Hotel, Bangkok sits on Witthayu (Wireless) Road next to Lumphini Park, in the same embassy-district pocket as The Ritz-Carlton, Bangkok, and is ranked among the top 50 of over 1,300 Bangkok hotels on TripAdvisor. Guest reviews consistently praise spacious, elegant rooms with modern-meets-traditional-Thai decor, one of the city's best club lounges and pools, and highly personalized service from breakfast through checkout. As a Luxury Collection property it carries an independent, heritage-style identity within Bonvoy's top luxury tier, rather than the more standardized full-service format of the Marriott Hotels or Sheraton brands. The two most-cited watchouts are structural rather than service-related: rooms have been described as not fully soundproofed against corridor noise, and there's no dedicated fast-track lane for Platinum-and-above elite guests at the front desk, which can mean a 10-20 minute wait behind tour groups at peak times.",
+  "core_facts": {
+    "address": "61 Witthayu Road, Lumphini, Pathumwan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "The Luxury Collection",
+    "neighborhood": "Lumphini / Wireless Road",
+    "distance_from_airport_km": 28,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Directly adjacent to Lumphini Park, Bangkok's largest central green space",
+    "Ranked among the top 50 of 1,300+ Bangkok hotels on TripAdvisor",
+    "One of the city's best-regarded club lounges and pools, per guest reviews",
+    "Same embassy-quarter calm as The Ritz-Carlton, Bangkok"
+  ],
+  "cons": [
+    "Not directly on the BTS or MRT network",
+    "Rooms have been described as not fully soundproofed against corridor noise",
+    "No dedicated fast-track check-in lane for elite members, leading to waits behind tour groups at peak times"
+  ],
+  "research_highlights": [
+    "Ranked among the top 50 of 1,300+ Bangkok hotels on TripAdvisor",
+    "Club lounge and pool are frequently cited as among the best in the city",
+    "Staff are repeatedly praised for personalized attention from breakfast through checkout"
+  ],
+  "research_watchouts": [
+    "Rooms are reported to have limited soundproofing against corridor noise",
+    "No dedicated fast-track check-in lane for Platinum-and-above elite guests; waits of 10-20+ minutes reported during peak tour-group periods"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is check-in fast for Marriott Bonvoy elite members at The Athenee Hotel Bangkok?",
+      "answer": "Not always -- guest reviews report there's no dedicated check-in lane for Platinum-and-above elite members, so waits of 10 to 20 minutes or more are possible during peak periods when large tour groups are checking in."
+    },
+    {
+      "question": "Are the rooms at The Athenee Hotel Bangkok quiet?",
+      "answer": "Mostly, but not always -- some guest reviews mention limited soundproofing between rooms and corridors, so light sleepers may want to request a room away from elevator banks or high-traffic hallways."
+    }
+  ],
+  "tags": ["luxury", "embassy district", "boutique"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkla-the-athenee-hotel-a-luxury-collection-hotel-bangkok/overview/",
+      "label": "Official Athenee Hotel Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d302456-Reviews-The_Athenee_Hotel_A_Luxury_Collection_Hotel_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkla-the-athenee-hotel-a-luxury-collection-hotel-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-bangkok", "st-regis-bangkok"],
+  "reliability_score": 70,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

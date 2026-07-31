@@ -1,0 +1,79 @@
+{
+  "entity_id": "jw-marriott-bangkok",
+  "slug": "jw-marriott-bangkok",
+  "name": "JW Marriott Hotel Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A JW Marriott on Sukhumvit Soi 2, in the heart of Bangkok's Sukhumvit nightlife and dining corridor.",
+  "ai_summary": "JW Marriott Hotel Bangkok sits on Sukhumvit Road at Soi 2, one of the longest-running Marriott properties in the city and squarely inside the Sukhumvit corridor's dining, nightlife, and BTS-connected shopping district. Guest reviews are consistently positive, with the hotel ranked among the top 100 of over 1,300 Bangkok hotels on TripAdvisor: rooms are frequently described as spacious and clean with strong bathrooms, the gym and business-lounge staff draw specific praise, and the buffet restaurant is repeatedly called out as a highlight. It's a full-service premium hotel rather than the top luxury tier, positioned for travelers who want to be within walking distance of Sukhumvit's restaurant and bar scene. The most common complaints are minor -- slow in-room wireless (cable is fine), a no-kids policy in the executive lounge at peak times, and occasional strong lobby fragrance -- rather than anything structural.",
+  "core_facts": {
+    "address": "4 Sukhumvit Road, Soi 2, Bangkok 10110, Thailand",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "Sukhumvit",
+    "distance_from_airport_km": 25,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Walking distance to Sukhumvit's dining, nightlife, and shopping strip",
+    "Close to BTS Nana and Asoke stations for citywide transit access",
+    "Consistently high marks for room cleanliness, the gym, and the buffet restaurant",
+    "Ranks among the top 100 of over 1,300 Bangkok hotels on TripAdvisor"
+  ],
+  "cons": [
+    "Sukhumvit Soi 2 area is busier and more tourist-dense than the embassy-district luxury hotels",
+    "In-room Wi-Fi is reported as slow by some guests (wired connections are fine)",
+    "Executive lounge excludes children during peak hours, which some guests dislike"
+  ],
+  "research_highlights": [
+    "Consistently ranks among Bangkok's top 100 hotels on TripAdvisor out of 1,300+",
+    "Rooms, bathrooms, and the gym draw repeated specific praise",
+    "The buffet restaurant is frequently called a highlight of the stay"
+  ],
+  "research_watchouts": [
+    "Slow in-room Wi-Fi is a recurring minor complaint (wired connections are reported as fine)",
+    "The executive lounge excludes children during peak hours, which some guests dislike"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is JW Marriott Hotel Bangkok within walking distance of Sukhumvit's nightlife?",
+      "answer": "Yes -- the hotel sits directly on Sukhumvit Road at Soi 2, placing it within walking distance of the corridor's dining, bars, and shopping, and close to BTS Nana and Asoke stations for onward travel."
+    },
+    {
+      "question": "Does the executive lounge at JW Marriott Bangkok allow children?",
+      "answer": "Access is restricted during peak hours at this property, based on guest reports, which is a point of frustration for some families traveling with kids. Confirm current lounge hours and policy directly with the hotel before booking if this matters to your stay."
+    }
+  ],
+  "tags": ["premium", "sukhumvit", "nightlife district"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkjw-jw-marriott-hotel-bangkok/overview/",
+      "label": "Official JW Marriott Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d299779-Reviews-JW_Marriott_Hotel_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkjw-jw-marriott-hotel-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["bangkok-marriott-marquis-queens-park", "sheraton-grande-sukhumvit-bangkok", "marriott-executive-apartments-bangkok-sukhumvit-50"],
+  "reliability_score": 70,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

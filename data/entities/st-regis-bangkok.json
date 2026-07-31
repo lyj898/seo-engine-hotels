@@ -1,0 +1,78 @@
+{
+  "entity_id": "st-regis-bangkok",
+  "slug": "st-regis-bangkok",
+  "name": "The St. Regis Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A St. Regis luxury hotel on Rajadamri Road, with direct BTS access and a short walk to Siam Paragon.",
+  "ai_summary": "The St. Regis Bangkok sits on Rajadamri Road at the edge of the Siam shopping district, with direct BTS Skytrain access and a short walk to Siam Paragon, CentralWorld, and the Erawan Shrine. Guest reviews consistently single out the signature St. Regis butler service and a high-quality breakfast buffet as highlights, alongside spacious, well-kept rooms. It's one of the more centrally located luxury Bonvoy properties in this directory, trading the quieter embassy-district setting of Wireless Road hotels for immediate access to Bangkok's main retail core. That central positioning comes with some inconsistency, though: a number of reviews describe uneven service, including staff occasionally failing to recognize elite Bonvoy status, and a smaller number mention cleanliness lapses and slow management follow-through on complaints. Guests weighing this against The Ritz-Carlton or The Athenee should treat the location and butler-service pedigree as the main draw, with service consistency as the property's most-cited risk.",
+  "core_facts": {
+    "address": "159 Rajadamri Road, Pathumwan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "St. Regis",
+    "neighborhood": "Rajadamri / Siam",
+    "distance_from_airport_km": 27,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Direct BTS Skytrain access via Ratchadamri station",
+    "Walking distance to Siam Paragon, CentralWorld, and the Erawan Shrine",
+    "Signature St. Regis butler service and breakfast buffet draw consistently strong reviews",
+    "Rooms described as spacious and impeccably clean"
+  ],
+  "cons": [
+    "Central shopping-district location means more street-level traffic and crowds than embassy-quarter alternatives",
+    "Some reviews describe uneven service, including staff not recognizing elite Bonvoy status",
+    "A smaller number of reviews mention cleanliness lapses and slow management response to complaints"
+  ],
+  "research_highlights": [
+    "Butler service and the breakfast buffet are the most consistently praised elements",
+    "Rooms are frequently described as spacious, modern, and impeccably clean"
+  ],
+  "research_watchouts": [
+    "Several reviews describe inconsistent recognition of elite status at check-in",
+    "A smaller number of reviews cite cleanliness lapses and slow management response to complaints"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Does The St. Regis Bangkok offer butler service?",
+      "answer": "Yes -- butler service is the St. Regis brand's signature amenity, and guest reviews consistently highlight it here alongside the hotel's breakfast buffet. A smaller number of reviews describe the service as inconsistent during busier periods, so expectations should be tempered accordingly."
+    },
+    {
+      "question": "Is The St. Regis Bangkok within walking distance of Bangkok's main shopping malls?",
+      "answer": "Yes -- it sits on Rajadamri Road with direct BTS access and is a short walk to Siam Paragon, CentralWorld, and the Erawan Shrine, making it one of the most centrally located luxury Bonvoy hotels in this directory."
+    }
+  ],
+  "tags": ["luxury", "shopping district", "BTS access"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkxr-the-st-regis-bangkok/overview/",
+      "label": "Official St. Regis Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1759147-Reviews-The_St_Regis_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkxr-the-st-regis-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-bangkok", "athenee-luxury-collection-bangkok", "renaissance-bangkok-ratchaprasong"],
+  "reliability_score": 66,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

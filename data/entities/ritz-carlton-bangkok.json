@@ -1,0 +1,79 @@
+{
+  "entity_id": "ritz-carlton-bangkok",
+  "slug": "ritz-carlton-bangkok",
+  "name": "The Ritz-Carlton, Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A Ritz-Carlton tower on Wireless Road, within the One Bangkok development in the Lumphini embassy district.",
+  "ai_summary": "The Ritz-Carlton, Bangkok occupies a tower on Wireless Road inside One Bangkok, one of the city's newest mixed-use developments, in the Lumphini district near the diplomatic quarter and Lumphini Park. As Marriott Bonvoy's top luxury tier, it carries the program's strongest baseline elite benefits of any Bangkok property in this directory, and guest feedback largely backs that positioning: reviewers consistently praise a warm, personal check-in experience, elegant rooms with park views, and a well-regarded Thai breakfast spread. Housekeeping draws particularly strong marks, with guests describing it as meticulous. That said, the experience isn't uniformly flawless -- a handful of reviews describe the concierge team as inconsistent in attentiveness, and late check-out, though a stated elite benefit, isn't always honored without some pushback. Its location away from the BTS/MRT network is a genuine trade-off: getting around relies more on taxis or ride-hailing than at the Sukhumvit-corridor hotels, though the quieter embassy-district setting is itself part of the appeal for guests seeking distance from Bangkok's busiest tourist strips.",
+  "core_facts": {
+    "address": "189 Wireless Road, Lumphini, Pathumwan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "The Ritz-Carlton",
+    "neighborhood": "Lumphini / Wireless Road",
+    "distance_from_airport_km": 28,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Set within One Bangkok, one of the city's newest large-scale developments",
+    "Quieter embassy-district location away from the busiest tourist corridors",
+    "Guests consistently praise warm check-in service, elegant park-view rooms, and the Thai breakfast selection",
+    "Housekeeping is repeatedly singled out as meticulous"
+  ],
+  "cons": [
+    "Not directly on the BTS or MRT network, so getting around relies more on taxis or ride-hailing",
+    "Some reviews describe the concierge team as inconsistently attentive",
+    "Late check-out, though a stated elite benefit, isn't always honored without some pushback"
+  ],
+  "research_highlights": [
+    "Guests frequently highlight a warm, personal check-in experience and elegant rooms overlooking Lumphini Park",
+    "The Thai breakfast selection draws consistent praise",
+    "Housekeeping is repeatedly described as meticulous"
+  ],
+  "research_watchouts": [
+    "Several reviews describe the concierge team as inconsistently attentive",
+    "Late check-out for elite members is not always honored without some pushback"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is The Ritz-Carlton, Bangkok close to the BTS Skytrain or MRT?",
+      "answer": "No -- The Ritz-Carlton, Bangkok is not directly on the BTS or MRT network. Its Wireless Road/Lumphini location is best reached by taxi or ride-hailing, so guests who prioritize rail access may prefer a Sukhumvit-corridor Bonvoy hotel instead."
+    },
+    {
+      "question": "What elite benefits can Marriott Bonvoy members expect at this hotel?",
+      "answer": "Platinum Elite members and above can expect a room upgrade subject to availability and complimentary breakfast or bonus points, while Titanium and Ambassador Elite members are guaranteed room availability with 24-hour notice, per standard Bonvoy program terms for a full-service Ritz-Carlton."
+    }
+  ],
+  "tags": ["luxury", "embassy district", "new development"],
+  "source_mix": [
+    {
+      "url": "https://www.ritzcarlton.com/en/hotels/bkkrb-the-ritz-carlton-bangkok/overview/",
+      "label": "Official Ritz-Carlton Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d28648162-Reviews-The_Ritz_Carlton_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ritzcarlton.com/en/hotels/bkkrb-the-ritz-carlton-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["st-regis-bangkok", "athenee-luxury-collection-bangkok"],
+  "reliability_score": 68,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

@@ -1,0 +1,77 @@
+{
+  "entity_id": "le-meridien-bangkok",
+  "slug": "le-meridien-bangkok",
+  "name": "Le Meridien Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A Le Meridien hotel on Surawong Road in Silom/Bang Rak, close to the Chao Phraya riverside and Patpong.",
+  "ai_summary": "Le Meridien Bangkok sits on Surawong Road in the Silom/Bang Rak area, close to the Chao Phraya river and a short walk from the Patpong night market. Guest reviews are strongly positive on service and cleanliness: the Club Lounge, breakfast buffet, front-desk friendliness, and housekeeping (restocking supplies without being asked) all draw specific praise, and several reviewers rate the overall stay as excellent value. As a Le Meridien property it carries the brand's design and arts-forward positioning within Bonvoy's mid-to-premium tier, in the same general district as W Bangkok but with a different brand character. The most notable watchout comes from at least one Ambassador Elite guest who described elite-status recognition as inconsistent and the front-line response as dismissive -- a sharper complaint than the otherwise-positive review pattern, worth weighing if elite recognition is a priority for your stay.",
+  "core_facts": {
+    "address": "40/5 Surawong Road, Siphraya, Bangrak, Bangkok 10500, Thailand",
+    "brand_sub_brand": "Le Meridien",
+    "neighborhood": "Silom / Bang Rak",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Close to the Chao Phraya riverside and river-cruise piers",
+    "Walking distance to Patpong and Silom's dining and nightlife",
+    "Club Lounge, breakfast buffet, and housekeeping draw consistently strong reviews",
+    "Le Meridien's arts-and-design brand positioning within Bonvoy's mid-premium tier"
+  ],
+  "cons": [
+    "Further from Suvarnabhumi Airport than the Sukhumvit or Ratchaprasong clusters",
+    "Bang Rak/Silom traffic can be heavy at peak hours despite BTS Surasak nearby",
+    "At least one detailed review describes inconsistent elite-status recognition at check-in"
+  ],
+  "research_highlights": [
+    "The Club Lounge, breakfast buffet, and front-desk friendliness draw consistently strong praise",
+    "Housekeeping is specifically noted for restocking supplies proactively"
+  ],
+  "research_watchouts": [
+    "At least one Ambassador Elite guest reported inconsistent elite-status recognition and a dismissive front-line response"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Does Le Meridien Bangkok recognize Marriott Bonvoy elite status consistently?",
+      "answer": "Mostly, but not universally -- while most reviews describe friendly, attentive service, at least one detailed account from an Ambassador Elite guest reported inconsistent recognition of elite status at check-in, so it's worth confirming your benefits directly with the front desk on arrival."
+    },
+    {
+      "question": "Is Le Meridien Bangkok close to the Chao Phraya River?",
+      "answer": "Yes -- the hotel sits on Surawong Road in Bang Rak, close to the Chao Phraya riverside and its river-cruise piers, as well as a short walk from the Patpong night market."
+    }
+  ],
+  "tags": ["silom", "riverside", "design-led"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkdm-le-meridien-bangkok/overview/",
+      "label": "Official Le Meridien Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1026220-Reviews-Le_Meridien_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkdm-le-meridien-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["w-bangkok"],
+  "reliability_score": 66,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

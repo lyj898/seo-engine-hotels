@@ -1,0 +1,79 @@
+{
+  "entity_id": "le-meridien-singapore-sentosa",
+  "slug": "le-meridien-singapore-sentosa",
+  "name": "Le Meridien Singapore, Sentosa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A Le Meridien resort on Beach View, Sentosa, near Siloso Beach and the island's attractions.",
+  "ai_summary": "Le Meridien Singapore, Sentosa sits on Beach View near Siloso Beach on Sentosa Island, close to the island's cluster of attractions rather than the marina-front residential setting of W Singapore - Sentosa Cove. Guest reviews highlight responsive customer service, a strong breakfast buffet, and modern, spacious rooms, with the property's distinctive Onsen Suites (featuring a private balcony Jacuzzi) drawing specific enthusiasm from several reviewers. As a Le Meridien it carries a more design-and-arts-oriented identity than a standard Sheraton or Marriott Hotels property, in Bonvoy's mid-to-premium resort tier. The clearest watchouts are that some guests feel the restaurants and pool are merely average for the price and caution against expecting a full luxury-resort experience, alongside scattered reports of noise from the ground-floor pool and low water pressure in showers, plus at least one account of an elite-status upgrade request not being honored despite the hotel not being full.",
+  "core_facts": {
+    "address": "23 Beach View, Sentosa, Singapore 098679",
+    "brand_sub_brand": "Le Meridien",
+    "neighborhood": "Sentosa (Siloso Beach)",
+    "distance_from_airport_km": 26,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Close to Siloso Beach and Sentosa's attraction cluster (Universal Studios, cable car)",
+    "Onsen Suites with a private balcony Jacuzzi draw specific, enthusiastic reviews",
+    "Breakfast buffet and responsive customer service are consistently praised",
+    "More centrally located on Sentosa than the Sentosa Cove marina enclave"
+  ],
+  "cons": [
+    "Still requires the causeway, cable car, or Sentosa Express from mainland Singapore",
+    "Some guests describe the restaurants and pool as average for the price, not a full luxury-resort experience",
+    "Scattered reports of ground-floor pool noise, low shower water pressure, and inconsistent elite-status upgrade handling"
+  ],
+  "research_highlights": [
+    "The Onsen Suites' private balcony Jacuzzi is repeatedly called out as a standout feature",
+    "Breakfast buffet quality and responsive customer service draw consistent praise"
+  ],
+  "research_watchouts": [
+    "Some guests caution the restaurants and pool are average for the price rather than a full luxury-resort experience",
+    "Scattered reports of ground-floor pool noise and low shower water pressure",
+    "At least one account of an elite-status upgrade not being honored despite low occupancy"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "What is the Onsen Suite at Le Meridien Singapore, Sentosa?",
+      "answer": "It's a room category with a private balcony Jacuzzi, and guest reviews consistently call it out as a standout, unique feature worth booking specifically if a room upgrade or unique amenity is a priority for your stay."
+    },
+    {
+      "question": "Is Le Meridien Singapore, Sentosa a full luxury resort experience?",
+      "answer": "Guest reviews suggest tempering expectations somewhat -- while the location, breakfast, and Onsen Suites are well-reviewed, several guests describe the restaurants and pool as average for the price rather than matching a top-tier luxury resort."
+    }
+  ],
+  "tags": ["resort", "sentosa", "beach"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinmd-le-meridien-singapore-sentosa/overview/",
+      "label": "Official Le Meridien Singapore Sentosa overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294264-d547087-Reviews-Le_Meridien_Singapore_Sentosa-Sentosa_Island.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinmd-le-meridien-singapore-sentosa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["w-singapore-sentosa-cove"],
+  "reliability_score": 62,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}
