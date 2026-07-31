@@ -1,0 +1,12 @@
+{
+  "region_id": "phuket",
+  "slug": "phuket",
+  "label": "Phuket",
+  "granularity": "city",
+  "parent_region_id": "thailand",
+  "short_description": "Bonvoy beach resorts across Phuket, concentrated along Patong, Kamala, and the island's southern coast.",
+  "intro": "Phuket's Bonvoy hotels are almost entirely resort-style, spread along the island's west-coast beaches from Patong and Kamala down to the quieter southern headlands. Elite perks here tend to center on resort credit, spa access, and room upgrades rather than the executive-lounge benefits more typical of city hotels, and the right beach often matters more to a stay than the specific property.",
+  "faqs": [],
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

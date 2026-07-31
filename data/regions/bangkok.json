@@ -1,0 +1,12 @@
+{
+  "region_id": "bangkok",
+  "slug": "bangkok",
+  "label": "Bangkok",
+  "granularity": "city",
+  "parent_region_id": "thailand",
+  "short_description": "Bonvoy hotels across Bangkok, from riverside luxury to Sukhumvit business towers.",
+  "intro": "Bangkok's Bonvoy hotels cluster into a few distinct pockets: riverside luxury and resort-style properties along the Chao Phraya, business and shopping-district towers around Sukhumvit and Sathorn, and hotels closer to Suvarnabhumi Airport for short layovers or early departures. Traffic can be significant at street level, so proximity to a BTS or MRT station matters more for getting around than straight-line distance.",
+  "faqs": [],
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

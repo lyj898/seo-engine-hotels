@@ -1,0 +1,12 @@
+{
+  "region_id": "malaysia",
+  "slug": "malaysia",
+  "label": "Malaysia",
+  "granularity": "country",
+  "parent_region_id": null,
+  "short_description": "Marriott Bonvoy hotels in Malaysia, concentrated in Kuala Lumpur's city center and KLCC districts.",
+  "intro": "Malaysia's Bonvoy coverage in this directory is centered on Kuala Lumpur, where properties range from skyline towers near KLCC and the Petronas Towers to business hotels closer to the Golden Triangle and KL Sentral transit hub.",
+  "faqs": [],
+  "last_updated": "2026-07-31",
+  "status": "active"
+}
