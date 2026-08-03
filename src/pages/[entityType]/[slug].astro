@@ -14,6 +14,7 @@ import FactsTable from '../../components/FactsTable.astro';
 import ProsCons from '../../components/ProsCons.astro';
 import SentimentBreakdown from '../../components/SentimentBreakdown.astro';
 import ExcerptQuotes from '../../components/ExcerptQuotes.astro';
+import ExternalCoverage from '../../components/ExternalCoverage.astro';
 import FAQSection from '../../components/FAQSection.astro';
 import CTABlock from '../../components/CTABlock.astro';
 import RelatedEntities from '../../components/RelatedEntities.astro';
@@ -116,6 +117,12 @@ const jsonLd = [
         <h2 class="mb-4 text-xl font-semibold">What people say</h2>
         <ExcerptQuotes quotes={entity.excerpt_quotes} />
       </section>
+    )}
+
+    {entity.external_coverage && (
+      <div class="mt-10">
+        <ExternalCoverage reviews={entity.external_coverage.reviews} videos={entity.external_coverage.videos} />
+      </div>
     )}
 
     {entity.tags?.length > 0 && (
