@@ -1,0 +1,79 @@
+{
+  "entity_id": "le-meridien-suvarnabhumi-bangkok-golf-resort-spa",
+  "slug": "le-meridien-suvarnabhumi-bangkok-golf-resort-spa",
+  "name": "Le Meridien Suvarnabhumi, Bangkok Golf Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A golf resort under the Le Meridien brand set on an 18-hole course near Suvarnabhumi Airport, positioned for golf stays and airport-convenient layovers.",
+  "ai_summary": "Le Meridien Suvarnabhumi, Bangkok Golf Resort & Spa sits amid an 18-hole championship golf course in Samut Prakan province, close enough to Suvarnabhumi Airport to function as both a golf destination and a convenient pre- or post-flight stay. Guest reviews are generally positive, describing rooms as spacious and clean with large balconies overlooking the lush course grounds. Staff are repeatedly praised as warm and attentive, going out of their way to make stays enjoyable, and the breakfast buffet draws specific mentions for its wide selection of local and international dishes. The spa and pool are also called out as highlights, and several reviewers specifically cite the airport-adjacent location as a major convenience versus staying in central Bangkok. That said, feedback isn't uniformly glowing -- at least one review among the roughly 900 available on TripAdvisor ranks it as the weakest Le Meridien property in Thailand, suggesting some inconsistency in the guest experience across stays. As a resort built primarily around its golf course, it's a different proposition from Bangkok's city-center Bonvoy hotels: it suits golfers, travelers wanting a quieter greenery-surrounded stay near the airport, or those looking to break up a long-haul journey, rather than guests wanting to be within walking distance of Sukhumvit's restaurants and nightlife.",
+  "core_facts": {
+    "address": "789 Moo 14, Bangna-Trad Road Km. 10.5, Bang Pla Yai, Bang Phli, Samut Prakan 10540, Thailand",
+    "brand_sub_brand": "Le Meridien",
+    "neighborhood": "Bang Phli / Suvarnabhumi Airport",
+    "distance_from_airport_km": 6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Set on an 18-hole championship golf course with lush, resort-style grounds",
+    "Spacious, clean rooms with large balconies overlooking the course",
+    "Close enough to Suvarnabhumi Airport to work well for pre- or post-flight stays",
+    "Breakfast buffet, spa, and pool draw consistent praise from reviewers"
+  ],
+  "cons": [
+    "Far from central Bangkok's Sukhumvit and Silom dining and nightlife districts",
+    "At least one review describes it as the weakest Le Meridien property in Thailand, suggesting some inconsistency",
+    "Primarily a golf-resort proposition, which won't appeal to travelers wanting a city-center stay"
+  ],
+  "research_highlights": [
+    "Rooms, the golf-course setting, and staff attentiveness draw consistent praise",
+    "The airport-adjacent location is repeatedly cited as a major convenience",
+    "The breakfast buffet, spa, and pool are called out as highlights of the stay"
+  ],
+  "research_watchouts": [
+    "At least one guest review describes it as the weakest Le Meridien property in Thailand",
+    "It's a resort-style property away from central Bangkok, a genuine trade-off for city-focused travelers"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "How far is Le Meridien Suvarnabhumi Golf Resort from the airport?",
+      "answer": "It's very close to Suvarnabhumi Airport, which guests repeatedly cite as a major convenience for pre- or post-flight stays. It's better suited to golfers or travelers breaking up a long journey than those wanting to stay in central Bangkok."
+    },
+    {
+      "question": "Is this Le Meridien mainly a golf resort?",
+      "answer": "Yes -- it's built around an 18-hole championship golf course in Samut Prakan province, with rooms overlooking the course grounds. It's a different proposition from Bangkok's city-center Bonvoy hotels, better suited to golfers or travelers wanting a quieter, greenery-surrounded stay."
+    }
+  ],
+  "tags": ["golf resort", "suvarnabhumi airport", "samut prakan"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkksm-le-meridien-suvarnabhumi-bangkok-golf-resort-and-spa/overview/",
+      "label": "Official Le Meridien Suvarnabhumi Bangkok Golf Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1570011-d6865239-Reviews-Le_Meridien_Suvarnabhumi_Bangkok_Golf_Resort_Spa-Samut_Prakan_Samut_Prakan_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkksm-le-meridien-suvarnabhumi-bangkok-golf-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["courtyard-bangkok-suvarnabhumi-airport", "le-meridien-bangkok", "bangkok-marriott-marquis-queens-park"],
+  "reliability_score": 60,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

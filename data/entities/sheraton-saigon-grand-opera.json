@@ -1,0 +1,79 @@
+{
+  "entity_id": "sheraton-saigon-grand-opera",
+  "slug": "sheraton-saigon-grand-opera",
+  "name": "Sheraton Saigon Grand Opera Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A full-service Sheraton at the junction of Dong Khoi and Dong Du streets in District 1, steps from the Saigon Opera House.",
+  "ai_summary": "Sheraton Saigon Grand Opera Hotel occupies a corner site where Dong Khoi Street meets Dong Du Street in District 1, placing it within walking distance of the Saigon Opera House, Notre-Dame Cathedral Basilica, and the Dong Khoi shopping strip -- from which the hotel took its updated name after a 2024 rebrand from Sheraton Saigon Hotel & Towers. Guest reviews are consistently strong on location, calling it hard to beat for reaching the city's landmark sights on foot, and repeatedly praise attentive, welcoming staff, a lively modern-decor atmosphere, and well-kept rooms and executive lounge. The hotel has followed up the naming refresh with a renovation of its Grand Opera Tower, addressing some of the age-related wear that older reviews mentioned. Recurring watchouts are more about cost and city noise than service quality: some guests find room rates and food pricey for the category, a few mention street noise reaching upper floors, and bathrooms in standard rooms run smaller than in some newer competitors. It suits travelers who want a central, full-service Sheraton within easy reach of District 1's main landmarks and shopping rather than the riverside stretch further east.",
+  "core_facts": {
+    "address": "88 Dong Khoi Street, District 1, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Dong Khoi, District 1",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Corner location at Dong Khoi and Dong Du puts the Opera House, Notre-Dame Basilica, and Dong Khoi shopping within walking distance",
+    "Consistently praised, attentive staff and a lively, modern-decor lobby and public-space atmosphere",
+    "Executive lounge and gym draw high marks from Bonvoy elite guests",
+    "Recently renovated Grand Opera Tower addresses earlier complaints about aging rooms"
+  ],
+  "cons": [
+    "Room rates and food/beverage pricing run higher than several other District 1 Bonvoy options",
+    "Some guests report street noise reaching upper floors despite soundproofing",
+    "Standard-room bathrooms are smaller than at some newer competing hotels"
+  ],
+  "research_highlights": [
+    "Location at the Dong Khoi/Dong Du junction is repeatedly called one of the best in the city for reaching landmark sights on foot",
+    "Staff attentiveness and the modern, lively lobby atmosphere draw consistent praise",
+    "Renovated Grand Opera Tower rooms have improved on earlier complaints about dated decor"
+  ],
+  "research_watchouts": [
+    "Some guests find room and dining prices high for the category",
+    "A few reviews mention city noise reaching rooms and smaller standard bathrooms"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is the Sheraton Saigon Grand Opera Hotel the same as the former Sheraton Saigon Hotel & Towers?",
+      "answer": "Yes -- the property was officially renamed from Sheraton Saigon Hotel & Towers to Sheraton Saigon Grand Opera Hotel in 2024, a tribute to its proximity to the Saigon Opera House. The renaming came alongside a renovation of the Grand Opera Tower wing."
+    },
+    {
+      "question": "How far is Sheraton Saigon Grand Opera Hotel from Tan Son Nhat Airport?",
+      "answer": "It's roughly 8 kilometers from Tan Son Nhat International Airport, typically a 15-20 minute drive depending on traffic, which can be significant in central Ho Chi Minh City at peak hours."
+    }
+  ],
+  "tags": ["dong khoi", "district 1", "sheraton"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sgnsi-sheraton-saigon-grand-opera-hotel/overview/",
+      "label": "Official Sheraton Saigon Grand Opera Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d304523-Reviews-Sheraton_Saigon_Grand_Opera_Hotel-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sgnsi-sheraton-saigon-grand-opera-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["le-meridien-saigon", "renaissance-riverside-saigon", "jw-marriott-saigon"],
+  "reliability_score": 67,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

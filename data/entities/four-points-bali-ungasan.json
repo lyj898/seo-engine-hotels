@@ -1,0 +1,80 @@
+{
+  "entity_id": "four-points-bali-ungasan",
+  "slug": "four-points-bali-ungasan",
+  "name": "Four Points by Sheraton Bali, Ungasan",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A select-service Four Points in Ungasan overlooking Jimbaran Bay, near Uluwatu Temple, with large event space including a glass-enclosed chapel.",
+  "ai_summary": "Four Points by Sheraton Bali, Ungasan sits in the Kuta Selatan area on the Bukit Peninsula, overlooking the blue waters of Jimbaran Bay and close to Uluwatu Temple, Padang Padang Beach, and Jimbaran Beach. Rated 4 of 5 across roughly 480 TripAdvisor reviews and ranked near the top of Ungasan's 21 hotels, it draws consistent praise for spacious, comfortable rooms with strong views, workstations suited to remote work, and a 24-hour fitness center. Guests repeatedly describe staff, especially front-desk team members, as friendly and helpful, and the outdoor infinity pool and indoor-outdoor restaurant earn positive comment. The property's scale is also a draw for groups: it has more than 19,000 square feet of event space, including one of Uluwatu's largest pillarless ballrooms and a glass-enclosed chapel overlooking Jimbaran Bay, making it a popular choice for weddings and business events alongside leisure stays. The main recurring watchout is that some rooms and facilities are noted by reviewers as due for refurbishment, though overall cleanliness and cost-effectiveness are still rated highly. For travelers who want family-friendly, value-oriented access to the Uluwatu/Jimbaran area with strong event space on-site, it's a well-reviewed choice among Bali's Bonvoy properties.",
+  "core_facts": {
+    "address": "Jalan Raya Uluwatu, Banjar Giri Dharma, Ungasan, Kuta Selatan, Bali, Indonesia 80364",
+    "brand_sub_brand": "Four Points",
+    "neighborhood": "Ungasan / Jimbaran Bay",
+    "distance_from_airport_km": 15,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Ungasan location overlooking Jimbaran Bay, close to Uluwatu Temple and Padang Padang Beach",
+    "Rated 4 of 5 across roughly 480 TripAdvisor reviews, ranked near the top of Ungasan's 21 hotels",
+    "Rooms are described as spacious and comfortable with strong views and good workspaces",
+    "Staff, particularly front-desk team members, are repeatedly praised as friendly and helpful",
+    "Extensive event space, including a large pillarless ballroom and a glass-enclosed chapel overlooking Jimbaran Bay"
+  ],
+  "cons": [
+    "Some reviewers note that certain rooms and facilities could use refurbishment",
+    "As a select-service Four Points, dining and amenities are more limited than a full-service luxury resort",
+    "The Bukit Peninsula/Ungasan setting requires a drive to reach Jimbaran or Nusa Dua's dining and shopping"
+  ],
+  "research_highlights": [
+    "Rooms and views are consistently praised, with comfortable, spacious layouts and good workspaces",
+    "Staff, especially front-desk team members, are described as friendly and attentive",
+    "The infinity pool, gym, and large event spaces draw repeated positive comment"
+  ],
+  "research_watchouts": [
+    "A few reviewers suggest that some rooms and facilities are due for refurbishment",
+    "Its Ungasan/Bukit Peninsula location requires a drive to reach other Bali dining and shopping areas"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Bali, Ungasan close to Uluwatu Temple?",
+      "answer": "Yes -- it's located close to Uluwatu Temple and Padang Padang Beach on the Bukit Peninsula, overlooking Jimbaran Bay in the Ungasan/Kuta Selatan area, making it a convenient base for exploring the peninsula's clifftop attractions."
+    },
+    {
+      "question": "Does Four Points by Sheraton Bali, Ungasan host weddings and events?",
+      "answer": "Yes -- it has more than 19,000 square feet of event space, including one of Uluwatu's largest pillarless ballrooms and a glass-enclosed chapel overlooking Jimbaran Bay, making it a popular choice for weddings and business events."
+    }
+  ],
+  "tags": ["ungasan", "jimbaran bay", "select-service"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsfg-four-points-bali-ungasan/overview/",
+      "label": "Official Four Points by Sheraton Bali, Ungasan overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1219108-d6638513-Reviews-Four_Points_by_Sheraton_Bali_Ungasan-Ungasan_Bukit_Peninsula_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsfg-four-points-bali-ungasan/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["renaissance-bali-uluwatu", "le-meridien-bali-jimbaran"],
+  "reliability_score": 60,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

@@ -1,0 +1,81 @@
+{
+  "entity_id": "fairfield-bali-kuta-sunset-road",
+  "slug": "fairfield-bali-kuta-sunset-road",
+  "name": "Fairfield by Marriott Bali Kuta Sunset Road",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A select-service Fairfield on Kuta's Sunset Road, about 15 minutes from the airport and near Double Six Beach and Kuta Square.",
+  "ai_summary": "Fairfield by Marriott Bali Kuta Sunset Road is the newer of two Fairfield-branded hotels in the Kuta area, located in the Sunset Road district roughly 15 minutes from Ngurah Rai International Airport and within a few kilometers of Kuta Beach, Legian Beach, and Kuta Square. Guest feedback describes a clean, well-maintained select-service property with attentive staff, a decent pool, and breakfast that reviewers call a strong point. Several guests specifically praise the convenient location near a mall along with friendly service and comfortable air conditioning, and one review describes the hotel as spacious and cozy with incredible service. Rooms are generally described as clean and comfortable but compact by Bali resort standards, which is typical for the value-oriented Fairfield tier. A few guests mention occasional noise from live music near the pool, and while the location is convenient for reaching Kuta's shops and attractions, it isn't a beachfront setting, so it suits travelers focused on value and convenience over direct beach access. As one of Bali's newer Fairfield properties, its review base is still building relative to some of the island's longer-established Bonvoy hotels. For travelers wanting an affordable, well-located Kuta-area base, it's a generally well-regarded choice, though this profile reflects a thinner review sample than some other properties in this directory.",
+  "core_facts": {
+    "address": "Jalan Merdeka Raya No. VII, Abianbase, Kuta, Bali, Indonesia 80361",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "Kuta / Sunset Road",
+    "distance_from_airport_km": 7,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Located on Kuta's Sunset Road, about 15 minutes from the airport and near Double Six Beach and Kuta Square",
+    "Guests consistently describe rooms and common areas as clean and well maintained",
+    "Staff are repeatedly praised as attentive, with breakfast called a particular strength",
+    "Convenient location near a shopping mall, with comfortable air conditioning noted by reviewers",
+    "Generally described as good value for the rate"
+  ],
+  "cons": [
+    "Rooms are described as clean and comfortable but compact, typical of the value-oriented Fairfield tier",
+    "Some guests mention occasional noise from live music near the pool",
+    "Not a beachfront property, so guests prioritizing direct beach access will need a short ride"
+  ],
+  "research_highlights": [
+    "Guests describe the hotel as spacious and cozy with incredible, professional service",
+    "Breakfast, air conditioning, and staff friendliness are specifically called out as strong points",
+    "The Sunset Road location is convenient for reaching a nearby mall and Kuta's shops and attractions"
+  ],
+  "research_watchouts": [
+    "Rooms are noted as compact by several reviewers, consistent with the value-tier Fairfield positioning",
+    "A few guests mention occasional noise from live pool-area music",
+    "Dining can be pricey relative to the room rate, according to some reviews"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Fairfield by Marriott Bali Kuta Sunset Road close to the beach?",
+      "answer": "It's a few kilometers from Kuta and Legian beaches and Double Six Beach rather than a beachfront property, positioned instead on Kuta's Sunset Road near a shopping mall and about 15 minutes from the airport."
+    },
+    {
+      "question": "What do guests say about breakfast at Fairfield by Marriott Bali Kuta Sunset Road?",
+      "answer": "Breakfast is repeatedly singled out as one of the property's strongest points, alongside attentive staff service, though as with other value-tier Fairfield hotels, it's worth confirming whether it's included in your specific rate."
+    }
+  ],
+  "tags": ["kuta", "select-service", "sunset road"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsfb-fairfield-bali-kuta-sunset-road/overview/",
+      "label": "Official Fairfield by Marriott Bali Kuta Sunset Road overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297697-d18410417-Reviews-Fairfield_by_Marriott_Bali_Kuta_Sunset_Road-Kuta_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsfb-fairfield-bali-kuta-sunset-road/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairfield-bali-south-kuta", "fairfield-bali-legian", "aloft-bali-kuta-beachwalk"],
+  "reliability_score": 56,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

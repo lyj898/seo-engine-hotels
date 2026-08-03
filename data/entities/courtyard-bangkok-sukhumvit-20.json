@@ -1,0 +1,79 @@
+{
+  "entity_id": "courtyard-bangkok-sukhumvit-20",
+  "slug": "courtyard-bangkok-sukhumvit-20",
+  "name": "Courtyard by Marriott Bangkok Sukhumvit 20",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A select-service Courtyard on Sukhumvit Soi 20, close to BTS Asok and Phrom Phong, with an 'Essence of Nature' interior concept and varied breakfast.",
+  "ai_summary": "Courtyard by Marriott Bangkok Sukhumvit 20 sits on a quiet soi just off Sukhumvit Road, within easy reach of BTS Asok, BTS Phrom Phong, and MRT Sukhumvit stations. Rated 4 of 5 across several hundred TripAdvisor reviews, it's a well-regarded select-service property built around an 'Essence of Nature' interior concept, with bright, contemporary rooms and workstations aimed at both business and leisure travelers. Guests consistently praise the staff as warm and attentive -- several reviews describe being personally greeted and checked in on throughout their stay -- and the breakfast draws repeated positive mentions for its variety, including a Japanese-inspired spread some guests specifically return for. Cleanliness and the central Sukhumvit location are also frequent highlights. The main watchouts are minor: some guests note the rooms run on the smaller side for the price point, occasional noise from neighboring rooms or the street, and a few reviews mention inconsistent water temperature in showers. It suits travelers who want a clean, well-located, service-forward select-service base in the Sukhumvit corridor without the higher rates of the area's full-service hotels.",
+  "core_facts": {
+    "address": "10/3 Soi Sukhumvit 20, Khlong Toei, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Courtyard by Marriott",
+    "neighborhood": "Sukhumvit Soi 20 / Asok",
+    "distance_from_airport_km": 23,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Staff are consistently described as warm and attentive, remembering guests by name",
+    "Breakfast draws repeated praise for variety, including a well-liked Japanese-inspired spread",
+    "Central Sukhumvit Soi 20 location near BTS Asok and Phrom Phong",
+    "Clean, modern rooms with a distinctive nature-inspired interior concept"
+  ],
+  "cons": [
+    "Rooms run on the smaller side for the price point, per some reviews",
+    "Occasional noise from neighboring rooms or the street is mentioned by a few guests",
+    "A handful of reviews note inconsistent water temperature in showers"
+  ],
+  "research_highlights": [
+    "Staff warmth and attentiveness are a consistent, repeated theme in reviews",
+    "The breakfast, including a Japanese-inspired spread, draws specific repeat praise",
+    "Cleanliness and the central Sukhumvit location are frequently highlighted"
+  ],
+  "research_watchouts": [
+    "Some guests describe rooms as smaller than expected for the price",
+    "A few reviews mention occasional noise or inconsistent water temperature"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Courtyard Bangkok Sukhumvit 20 well located for BTS access?",
+      "answer": "Yes -- it sits on a soi just off Sukhumvit Road within easy reach of BTS Asok, BTS Phrom Phong, and MRT Sukhumvit, giving guests convenient access to the wider Sukhumvit shopping and dining corridor."
+    },
+    {
+      "question": "What do guests say about breakfast at this Courtyard?",
+      "answer": "Breakfast is a consistent highlight, with guests specifically praising its variety, including a Japanese-inspired spread some travelers mention returning for. It's a notable strength for a select-service property in this price category."
+    }
+  ],
+  "tags": ["sukhumvit", "select-service", "asok"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkct-courtyard-bangkok-sukhumvit-20/overview/",
+      "label": "Official Courtyard Bangkok Sukhumvit 20 overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d25564958-Reviews-Courtyard_by_Marriott_Bangkok_Sukhumvit_20-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkct-courtyard-bangkok-sukhumvit-20/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-bangkok-sukhumvit-22", "aloft-bangkok-sukhumvit-11", "courtyard-bangkok-suvarnabhumi-airport"],
+  "reliability_score": 61,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

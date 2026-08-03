@@ -1,0 +1,79 @@
+{
+  "entity_id": "hotel-muse-bangkok-autograph-collection",
+  "slug": "hotel-muse-bangkok-autograph-collection",
+  "name": "Hotel Muse Bangkok, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A 1920s-inspired Autograph Collection boutique hotel on Soi Langsuan near Lumpini Park, with a rooftop bar and elegant, individually furnished rooms.",
+  "ai_summary": "Hotel Muse Bangkok, Autograph Collection occupies a boutique building on Soi Langsuan in the Lumpini/Ploenchit area, close to Lumphini Park and a walkable stretch from BTS Chit Lom and Siam Paragon. Its design leans into a 1920s-inspired, Eastern-meets-Western aesthetic across individually furnished rooms, and the approach resonates with guests: rated 4 of 5 across more than 5,000 TripAdvisor reviews, it draws consistent praise for its elegant decor, spacious rooms, and a central location well suited to exploring downtown Bangkok on foot or by Skytrain. The rooftop bar and the hotel's multiple dining options, including an Italian restaurant, are called out repeatedly as highlights, alongside attentive, service-forward staff. As one of the more established Autograph Collection boutique hotels in the city, it has a longer track record than some of Bangkok's newer Bonvoy lifestyle properties. The recurring watchouts relate to its age and boutique scale: some guests mention dim lighting in public areas or occasional maintenance issues, the pool and number of elevators are noted as small for the property's size, and a subset of recent reviews flag price increases relative to what guests remember paying previously. It suits travelers who want a design-forward, atmospheric boutique stay in the Lumpini/Ploenchit area rather than a larger full-service tower hotel.",
+  "core_facts": {
+    "address": "55/555 Soi Langsuan, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Langsuan / Lumpini",
+    "distance_from_airport_km": 28,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Distinctive 1920s-inspired design across individually furnished rooms",
+    "Central Soi Langsuan location near Lumphini Park, walkable to BTS Chit Lom and Siam Paragon",
+    "Rooftop bar and multiple on-site restaurants, including an Italian dining option, draw repeated praise",
+    "Large, well-established review base (5,000+) with a consistent 4-of-5 rating"
+  ],
+  "cons": [
+    "Some guests note dim lighting in public areas or occasional maintenance issues",
+    "The pool and elevator count are described as small relative to the hotel's size",
+    "A subset of recent reviews flag price increases compared to what guests recall paying previously"
+  ],
+  "research_highlights": [
+    "The 1920s-inspired design and elegant, individually furnished rooms are consistent highlights",
+    "The rooftop bar and on-site dining options draw repeated positive mentions",
+    "Central Lumpini/Ploenchit location earns praise for walkability to BTS and Siam Paragon"
+  ],
+  "research_watchouts": [
+    "Some guests note dim lighting or occasional maintenance issues in an aging boutique building",
+    "The pool and elevator count are described as small for the property's size"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "What is the design style of Hotel Muse Bangkok?",
+      "answer": "It's built around a 1920s-inspired, Eastern-meets-Western aesthetic, with individually furnished boutique rooms rather than a standardized corporate look. Guests consistently describe the decor as elegant and a distinguishing feature versus other Bonvoy hotels in the area."
+    },
+    {
+      "question": "Is Hotel Muse Bangkok within walking distance of Lumphini Park?",
+      "answer": "Yes -- it sits on Soi Langsuan close to Lumphini Park, and it's also a walkable distance from BTS Chit Lom and Siam Paragon, making it a convenient boutique base for exploring central Bangkok on foot."
+    }
+  ],
+  "tags": ["lumpini", "boutique", "autograph collection"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkhm-hotel-muse-bangkok-autograph-collection/overview/",
+      "label": "Official Hotel Muse Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d2151304-Reviews-Hotel_Muse_Bangkok_Autograph_Collection-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkhm-hotel-muse-bangkok-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["madi-paidi-bangkok-autograph-collection", "ritz-carlton-bangkok", "moxy-bangkok-ratchaprasong"],
+  "reliability_score": 69,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

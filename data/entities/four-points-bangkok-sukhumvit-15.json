@@ -1,0 +1,79 @@
+{
+  "entity_id": "four-points-bangkok-sukhumvit-15",
+  "slug": "four-points-bangkok-sukhumvit-15",
+  "name": "Four Points by Sheraton Bangkok, Sukhumvit 15",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A select-service Four Points on Sukhumvit Soi 15, a five-minute walk from Terminal 21 and BTS Asoke, with a rooftop pool bar and craft-beer bar.",
+  "ai_summary": "Four Points by Sheraton Bangkok, Sukhumvit 15 is a select-service hotel tucked just off Sukhumvit Road at Soi 15, a five-minute walk from the Terminal 21 shopping mall and BTS Asoke/MRT Sukhumvit stations. Guest reviews describe rooms as modern and well-kept, with fresh furnishings and reliable air conditioning, and the property's social spaces -- a rooftop pool bar and a more casual craft-beer bar -- draw specific praise as popular with both guests and local regulars. Staff service is consistently called excellent and welcoming. Reviewers generally find the pricing reasonable for the central Asoke-area location, especially relative to the city's full-service Bonvoy hotels nearby. The main watchouts are cosmetic rather than structural: most rooms face neighboring buildings rather than open views, Sukhumvit traffic outside can be heavy at peak hours, and a handful of guests note the hotel runs a bit pricier than expected for the select-service tier. It's a solid fit for travelers who want a central, walkable Sukhumvit base with a livelier rooftop social scene, without paying full-service Bonvoy rates.",
+  "core_facts": {
+    "address": "4 Sukhumvit Soi 15, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Sukhumvit Soi 15 / Asoke",
+    "distance_from_airport_km": 24,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Five-minute walk to Terminal 21 mall and BTS Asoke/MRT Sukhumvit",
+    "Rooftop pool bar and craft-beer bar are popular social spaces with guests and locals",
+    "Rooms are consistently described as modern, fresh, and well-kept",
+    "Staff service is repeatedly called excellent and welcoming"
+  ],
+  "cons": [
+    "Most rooms face neighboring buildings rather than open skyline views",
+    "Sukhumvit traffic outside the hotel can be heavy at peak hours",
+    "A handful of guests note pricing runs a bit high for the select-service tier"
+  ],
+  "research_highlights": [
+    "Rooms are consistently described as modern and well-kept",
+    "The rooftop pool bar and craft-beer bar are called out as standout social spaces",
+    "Staff are repeatedly praised as excellent and welcoming"
+  ],
+  "research_watchouts": [
+    "Most rooms look out on neighboring buildings rather than open views",
+    "A few guests note pricing is a little high for a select-service hotel in this category"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "How close is Four Points Bangkok Sukhumvit 15 to Terminal 21?",
+      "answer": "It's about a five-minute walk to the Terminal 21 shopping mall, which also connects directly to BTS Asoke and MRT Sukhumvit stations, making this one of the more walkable select-service Bonvoy hotels in the Sukhumvit corridor."
+    },
+    {
+      "question": "Does this Four Points have good views?",
+      "answer": "Not typically -- guest reviews note that most rooms face neighboring buildings rather than open skyline views, so travelers prioritizing a view may want to check room categories carefully or consider a different property."
+    }
+  ],
+  "tags": ["sukhumvit", "asoke", "select-service"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkfp-four-points-bangkok-sukhumvit-15/overview/",
+      "label": "Official Four Points Bangkok Sukhumvit 15 overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.oyster.com/bangkok/hotels/four-points-by-sheraton-bangkok-sukhumvit-15/",
+      "label": "Oyster hotel review",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkfp-four-points-bangkok-sukhumvit-15/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-bangkok-sukhumvit-22", "aloft-bangkok-sukhumvit-11", "bangkok-marriott-sukhumvit"],
+  "reliability_score": 62,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

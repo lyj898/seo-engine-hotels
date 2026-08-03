@@ -1,0 +1,78 @@
+{
+  "entity_id": "duxton-reserve-singapore-autograph-collection",
+  "slug": "duxton-reserve-singapore-autograph-collection",
+  "name": "Duxton Reserve Singapore, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "An Autograph Collection boutique hotel in eight conserved 1860s shophouses on Duxton Hill, Tanjong Pagar, near Chinatown.",
+  "ai_summary": "Duxton Reserve Singapore, Autograph Collection occupies eight conserved 1860s shophouses on Duxton Hill in Tanjong Pagar, in the heart of Chinatown and a short walk from the CBD. Interior designer Anouska Hempel reimagined the compact, 49-room property with theatrical fans, black-and-gold palettes, and calligraphy wallpaper, and the conservation-award-winning building is small enough that the front desk is reported to know returning guests by name. On TripAdvisor it ranks in the top third of Singapore's roughly 380 hotels, with guests repeatedly praising the architecture and design -- especially the duplex suites' spiral staircases -- along with staff who navigate dietary requests and last-minute changes with apparent ease. The boutique scale and heritage shophouse setting make it a fit for travelers who want personality and neighborhood character over big-hotel amenities, and its Tanjong Pagar/Duxton Hill address puts Chinatown, Tanjong Pagar MRT, and the CBD within easy walking distance. The clearest recurring watchouts are practical rather than structural: a few reviews mention slow breakfast service, occasional bathroom drainage issues attributed to the age of the building, and in-room lighting controls in some rooms that guests found unintuitive. It suits couples and design-focused travelers more than those needing extensive on-site facilities or a pool.",
+  "core_facts": {
+    "address": "83 Duxton Road, Singapore 089540",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Tanjong Pagar / Duxton Hill",
+    "distance_from_airport_km": 18,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Set within eight conservation-award-winning 1860s shophouses with a distinctive Anouska Hempel design",
+    "Small, boutique scale is repeatedly linked to attentive, personalized service",
+    "Duplex suites with spiral staircases draw specific praise",
+    "Walking distance to Chinatown, Tanjong Pagar MRT, and the CBD"
+  ],
+  "cons": [
+    "No pool and limited on-site facilities relative to larger hotels",
+    "Some reviews mention slow breakfast service and occasional bathroom drainage issues",
+    "A few guests found in-room lighting controls unintuitive in certain rooms"
+  ],
+  "research_highlights": [
+    "Architecture and design, especially the duplex suites, are the most frequently praised feature",
+    "Staff are repeatedly described as attentive to dietary needs and last-minute requests"
+  ],
+  "research_watchouts": [
+    "Occasional bathroom drainage issues and slow breakfast service are recurring, if minor, complaints",
+    "The heritage shophouse format means limited facilities compared to larger full-service hotels"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Duxton Reserve Singapore good for families or larger groups?",
+      "answer": "Not particularly -- it's an intimate, boutique property built into a row of heritage shophouses, with a small overall room count and no pool. It suits couples and design-focused travelers better than families needing extensive on-site facilities."
+    },
+    {
+      "question": "What makes Duxton Reserve Singapore's design distinctive?",
+      "answer": "The hotel occupies eight conserved 1860s shophouses on Duxton Hill, reimagined by designer Anouska Hempel with theatrical fans, black-and-gold interiors, and calligraphy wallpaper. Guest reviews consistently cite the duplex suites' spiral staircases as a standout feature of the design."
+    }
+  ],
+  "tags": ["boutique", "tanjong pagar", "heritage"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinad-duxton-reserve-singapore-autograph-collection/overview/",
+      "label": "Official Duxton Reserve Singapore overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d13792294-Reviews-Duxton_Reserve_Singapore_Autograph_Collection-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinad-duxton-reserve-singapore-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-millenia-singapore", "vagabond-club-singapore-tribute-portfolio"],
+  "reliability_score": 68,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

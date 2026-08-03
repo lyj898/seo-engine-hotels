@@ -1,0 +1,79 @@
+{
+  "entity_id": "renaissance-kuala-lumpur",
+  "slug": "renaissance-kuala-lumpur",
+  "name": "Renaissance Kuala Lumpur Hotel & Convention Centre",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A family-oriented Renaissance at the corner of Jalan Sultan Ismail and Jalan Ampang, with an integrated convention centre.",
+  "ai_summary": "Renaissance Kuala Lumpur Hotel & Convention Centre sits at the corner of Jalan Sultan Ismail and Jalan Ampang, close to the Bukit Nanas Monorail station and within walking distance of KLCC's shopping centre and the Petronas Twin Towers. The hotel leans into a family-friendly identity with themed family suites and one of the largest hotel pools in the city, complete with water slides and an outdoor play area, alongside a 52,000-square-foot integrated convention centre for events and meetings. Guest reviews consistently praise the pool and family amenities, spacious rooms with fantastic twin-tower views, the complimentary beverage ritual at R Bar, and generally attentive, warm staff. Breakfast variety, including curries and noodle soups, draws positive mentions as well. The most recurring complaint involves plumbing noise in the West Wing, with several reviews describing audible rushing water from toilets or showers during morning hours. Some guests have also expressed disappointment that a previous large restaurant was replaced by a smaller, harder-to-navigate dining space. It suits families and event-focused travelers who want a large-scale, well-located hotel with strong recreational facilities.",
+  "core_facts": {
+    "address": "Corner of Jalan Sultan Ismail and Jalan Ampang, 50450 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Renaissance",
+    "neighborhood": "KLCC / Golden Triangle",
+    "distance_from_airport_km": 58,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Close to Bukit Nanas Monorail station and walking distance to KLCC shopping and the Petronas Twin Towers",
+    "One of the largest hotel pools in the city, with water slides and an outdoor play area for families",
+    "Spacious rooms with strong views of the Petronas Twin Towers draw consistent praise",
+    "R Bar's complimentary beverage ritual and breakfast variety are well-regarded"
+  ],
+  "cons": [
+    "Plumbing noise in the West Wing is a recurring complaint, particularly rushing water sounds in the morning",
+    "Some guests were disappointed that a previous large restaurant was replaced by a smaller dining venue",
+    "As a large convention hotel, it can feel busier than boutique alternatives during event periods"
+  ],
+  "research_highlights": [
+    "The family-oriented pool with water slides and outdoor play area is a standout, frequently mentioned highlight",
+    "Rooms with Petronas Twin Towers views draw consistent praise",
+    "The complimentary R Bar beverage ritual and breakfast variety are well-regarded"
+  ],
+  "research_watchouts": [
+    "Plumbing noise in the West Wing, especially in the morning, is a recurring complaint",
+    "Some guests felt the replacement of a previous restaurant reduced dining variety and space"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Renaissance Kuala Lumpur Hotel & Convention Centre good for families?",
+      "answer": "Yes -- it's positioned as a family hotel, with themed family suites, one of the largest hotel pools in the city including water slides, and an outdoor play area, making it one of the more family-friendly Bonvoy properties in Kuala Lumpur."
+    },
+    {
+      "question": "Is there noise from plumbing at this hotel?",
+      "answer": "Some guests, particularly in the West Wing, report hearing rushing water from toilets or showers during morning hours. If noise sensitivity is a concern, it's worth mentioning room location preferences when booking or checking in."
+    }
+  ],
+  "tags": ["family-friendly", "klcc", "convention centre"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulrn-renaissance-kuala-lumpur-hotel-and-convention-centre/overview/",
+      "label": "Official Renaissance Kuala Lumpur Hotel & Convention Centre overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d305755-Reviews-Renaissance_Kuala_Lumpur_Hotel_Convention_Centre-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulrn-renaissance-kuala-lumpur-hotel-and-convention-centre/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sheraton-imperial-kuala-lumpur", "westin-kuala-lumpur", "w-kuala-lumpur"],
+  "reliability_score": 64,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

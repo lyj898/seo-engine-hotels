@@ -1,0 +1,78 @@
+{
+  "entity_id": "metropole-bangkok-tribute-portfolio",
+  "slug": "metropole-bangkok-tribute-portfolio",
+  "name": "Metropole, Bangkok, a Tribute Portfolio Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "Tribute Portfolio's debut Thailand property, a colonial and 1920s-Shanghai-inspired hotel in Thonglor that joined Marriott Bonvoy in December 2025.",
+  "ai_summary": "Metropole, Bangkok, a Tribute Portfolio Hotel marks Tribute Portfolio's debut in Thailand, having joined Marriott Bonvoy in December 2025 at a property in the Thonglor/Huai Khwang area on New Petchaburi Road. The design blends 1920s Shanghai-inspired glamour with colonial architecture, Art Deco touches, and Chinoiserie details across its studio-heavy room count, and the hotel sits a short walk from Thonglor Pier's canal-boat access toward Siam. Guest sentiment is generally positive but more mixed than most Bangkok Bonvoy properties: many reviewers describe the property as feeling palatial, with attractive exteriors and interiors across the rooms, bar, restaurant, pool, and spa, and staff are frequently praised as friendly and unusually enthusiastic about helping guests. Because the rebrand to Tribute Portfolio is very recent, much of the available review history predates the Marriott affiliation, and some of that feedback is less consistent: a number of guests have flagged cleanliness concerns, noise from nearby clubs and traffic, rooms in below-expected condition, and at least one report of a water supply interruption during a stay. Given how new the Bonvoy conversion is, confidence in the current guest experience is more limited than for longer-established properties, and travelers should weight the most recent reviews more heavily than older ones written before the rebrand. It suits travelers drawn to a design-forward, historic-styled hotel in Thonglor who are comfortable being early adopters of a newly converted Bonvoy property.",
+  "core_facts": {
+    "address": "2802 New Petchaburi Road, Huai Khwang, Bangkok 10310, Thailand",
+    "brand_sub_brand": "Tribute Portfolio",
+    "neighborhood": "Thonglor / Huai Khwang",
+    "distance_from_airport_km": 21,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Distinctive 1920s Shanghai-inspired, colonial-style design with Art Deco and Chinoiserie details",
+    "Staff are frequently described as friendly and unusually enthusiastic about helping guests",
+    "Rooms, bar, restaurant, pool, and spa are described by many reviewers as strikingly attractive",
+    "Short walk to Thonglor Pier for canal-boat access toward Siam"
+  ],
+  "cons": [
+    "Joined Marriott Bonvoy as Tribute Portfolio only in December 2025, so its Bonvoy-era review history is still thin",
+    "A number of guests report cleanliness concerns and noise from nearby clubs and traffic",
+    "Some rooms have been described as in below-expected condition, including at least one report of a water supply interruption"
+  ],
+  "research_highlights": [
+    "The 1920s Shanghai-inspired, colonial design is consistently described as strikingly attractive",
+    "Staff enthusiasm and friendliness are repeatedly highlighted by guests"
+  ],
+  "research_watchouts": [
+    "The Tribute Portfolio conversion is very recent (December 2025), so pre-rebrand reviews may not reflect the current operation",
+    "A number of reviews cite cleanliness, noise, and room-condition concerns"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Metropole, Bangkok part of Marriott Bonvoy?",
+      "answer": "Yes -- it joined Marriott Bonvoy as the debut Tribute Portfolio hotel in Thailand in December 2025. Because the conversion is recent, some existing guest reviews predate the Bonvoy affiliation and may not reflect the property's current operation."
+    },
+    {
+      "question": "What is the design style of Metropole, Bangkok?",
+      "answer": "It blends 1920s Shanghai-inspired glamour with colonial architecture, Art Deco touches, and Chinoiserie details. Guests consistently describe the look as striking, though feedback on room condition and cleanliness has been more mixed than at Bangkok's longer-established Bonvoy hotels."
+    }
+  ],
+  "tags": ["thonglor", "tribute portfolio", "new to bonvoy"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkktm-metropole-bangkok-a-tribute-portfolio-hotel/overview/",
+      "label": "Official Metropole, Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d10546277-Reviews-Metropole_Bangkok_a_Tribute_Portfolio_Hotel-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkktm-metropole-bangkok-a-tribute-portfolio-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["madi-paidi-bangkok-autograph-collection", "bangkok-marriott-sukhumvit", "hotel-muse-bangkok-autograph-collection"],
+  "reliability_score": 56,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

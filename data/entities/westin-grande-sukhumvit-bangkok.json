@@ -1,0 +1,79 @@
+{
+  "entity_id": "westin-grande-sukhumvit-bangkok",
+  "slug": "westin-grande-sukhumvit-bangkok",
+  "name": "The Westin Grande Sukhumvit, Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A Westin hotel directly on Sukhumvit Road at Asoke, next to BTS Asok and MRT Sukhumvit, with the award-winning Kisso Japanese restaurant.",
+  "ai_summary": "The Westin Grande Sukhumvit, Bangkok sits directly on Sukhumvit Road at Asoke, adjacent to BTS Asok and MRT Sukhumvit stations, placing it in one of the best-connected stretches of the city's business and entertainment corridor. Rated 4 of 5 across roughly 4,000 TripAdvisor reviews, it's a well-established full-service Westin known for its award-winning Kisso Japanese restaurant and the Seasonal Tastes international buffet, alongside a Vareena spa and dedicated Westin Work Out fitness studio. Guests consistently praise the hotel's cleanliness and spacious, comfortable rooms, and the central, transit-adjacent location is repeatedly cited as ideal for reaching the rest of Bangkok. Service draws specific praise for personalized, attentive touches that make guests feel well cared for, and the breakfast offerings are frequently highlighted. As one of the longer-established Bonvoy hotels on Sukhumvit, the main recurring watchout is age: some guests describe rooms and furnishings as a little dated and note the property could benefit from renovation, and dining prices at the on-site restaurants are considered steep by a subset of reviewers, even as most still rate the amenities and executive lounge positively. It's a strong choice for travelers who prioritize being directly on the BTS/MRT interchange at Asoke over having the newest rooms in the city.",
+  "core_facts": {
+    "address": "259 Sukhumvit Road, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Sukhumvit (Asoke)",
+    "distance_from_airport_km": 24,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Directly on Sukhumvit Road at Asoke, adjacent to both BTS Asok and MRT Sukhumvit",
+    "Award-winning Kisso Japanese restaurant and the Seasonal Tastes international buffet",
+    "Consistently praised for cleanliness and spacious, comfortable rooms",
+    "Service is described as attentive and personalized, with breakfast a frequent highlight"
+  ],
+  "cons": [
+    "Some guests describe rooms and furnishings as a little dated",
+    "Dining prices at the on-site restaurants are considered steep by a subset of reviewers",
+    "As an established property, it doesn't have the freshest rooms compared to Bangkok's newest Bonvoy hotels"
+  ],
+  "research_highlights": [
+    "Cleanliness and spacious, comfortable rooms are consistently praised",
+    "The Kisso Japanese restaurant and Seasonal Tastes buffet draw repeated positive mentions",
+    "Service is described as attentive and personalized throughout the stay"
+  ],
+  "research_watchouts": [
+    "Some guests note the rooms and furnishings could benefit from renovation",
+    "Dining prices at on-site restaurants are seen as steep by a subset of guests"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is The Westin Grande Sukhumvit Bangkok connected to the BTS or MRT?",
+      "answer": "Yes -- it sits directly on Sukhumvit Road at Asoke, adjacent to both BTS Asok and MRT Sukhumvit stations, making it one of the best-connected full-service Bonvoy hotels in the city for reaching other parts of Bangkok."
+    },
+    {
+      "question": "What is the Kisso restaurant at The Westin Grande Sukhumvit known for?",
+      "answer": "Kisso is the hotel's award-winning Japanese restaurant, recognized in local dining awards. It's repeatedly cited by guests as one of the property's dining highlights, alongside the Seasonal Tastes international buffet restaurant."
+    }
+  ],
+  "tags": ["sukhumvit", "asoke", "westin"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkwi-the-westin-grande-sukhumvit-bangkok/overview/",
+      "label": "Official Westin Grande Sukhumvit Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d304495-Reviews-The_Westin_Grande_Sukhumvit_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkwi-the-westin-grande-sukhumvit-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sheraton-grande-sukhumvit-bangkok", "jw-marriott-bangkok", "bangkok-marriott-marquis-queens-park"],
+  "reliability_score": 68,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

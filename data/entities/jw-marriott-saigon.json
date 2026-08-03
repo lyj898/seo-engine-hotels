@@ -1,0 +1,79 @@
+{
+  "entity_id": "jw-marriott-saigon",
+  "slug": "jw-marriott-saigon",
+  "name": "JW Marriott Hotel & Suites Saigon",
+  "category_id": "marriott-bonvoy",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A JW Marriott luxury hotel at the corner of Hai Ba Trung Street and Le Duan Boulevard in downtown District 1, with a rooftop garden and spa.",
+  "ai_summary": "JW Marriott Hotel & Suites Saigon occupies the corner of Hai Ba Trung Street and Le Duan Boulevard in downtown District 1, one of Ho Chi Minh City's most central addresses, within walking distance of the Reunification Palace, Notre-Dame Cathedral Basilica, and Dong Khoi's shopping and dining. As a JW Marriott it sits in Bonvoy's premium luxury tier, sharing its complex with a residential apartment tower (listed separately as JW Marriott Hotel & Suites Saigon, The Apartments). Guest reviews consistently praise the central location, an extensive breakfast buffet, the Spa by JW, and a rooftop garden and pool, alongside attentive housekeeping and front-of-house staff. As with several large luxury hotels in the city, some reviewers note aging facilities or decor in spots, occasional smoke odors or climate-control issues in specific rooms, and a sense that premium rates aren't always matched by consistent service, with isolated complaints about overbooking. It suits travelers who want a well-located, full-amenity luxury base in the heart of District 1 and are comfortable paying JW-tier rates for it.",
+  "core_facts": {
+    "address": "Corner of Hai Ba Trung Street and Le Duan Boulevard, Ben Nghe Ward, District 1, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "District 1 (Hai Ba Trung / Le Duan)",
+    "distance_from_airport_km": 7,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Central District 1 corner location near the Reunification Palace, Notre-Dame Cathedral Basilica, and Dong Khoi",
+    "Rooftop garden, pool, and Spa by JW draw consistent praise",
+    "Breakfast buffet is repeatedly singled out as a highlight",
+    "Housekeeping and front-of-house staff receive consistently positive marks"
+  ],
+  "cons": [
+    "Some reviews note aging facilities or decor in parts of the hotel",
+    "Isolated reports of smoke odors or climate-control issues in specific rooms",
+    "A few guests feel service lapses and occasional overbooking don't match the premium pricing"
+  ],
+  "research_highlights": [
+    "The central Hai Ba Trung / Le Duan corner location is consistently cited as a top strength for reaching District 1 landmarks",
+    "The rooftop garden, pool, and Spa by JW draw repeated, specific praise",
+    "The breakfast buffet is one of the most frequently mentioned highlights across reviews"
+  ],
+  "research_watchouts": [
+    "Some guests mention aging facilities, smoke odors, or climate-control issues in specific rooms",
+    "A few reviews describe service inconsistency or overbooking relative to the room rate"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Where is JW Marriott Hotel & Suites Saigon located?",
+      "answer": "It sits at the corner of Hai Ba Trung Street and Le Duan Boulevard in District 1, one of downtown Ho Chi Minh City's most central intersections, within walking distance of the Reunification Palace and Notre-Dame Cathedral Basilica."
+    },
+    {
+      "question": "Is JW Marriott Hotel & Suites Saigon the same property as its serviced apartments?",
+      "answer": "They share the same complex but are listed separately on Marriott.com -- the hotel side offers standard rooms and suites, while the residential tower is booked as JW Marriott Hotel & Suites Saigon, The Apartments, geared toward longer stays."
+    }
+  ],
+  "tags": ["district 1", "jw marriott", "luxury"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sgnjs-jw-marriott-hotel-and-suites-saigon/overview/",
+      "label": "Official JW Marriott Hotel & Suites Saigon overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d28257553-Reviews-JW_Marriott_Hotel_Suites_Saigon-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sgnjs-jw-marriott-hotel-and-suites-saigon/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-saigon-apartments", "sheraton-saigon-grand-opera", "renaissance-riverside-saigon"],
+  "reliability_score": 67,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

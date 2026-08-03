@@ -1,0 +1,79 @@
+{
+  "entity_id": "w-kuala-lumpur",
+  "slug": "w-kuala-lumpur",
+  "name": "W Kuala Lumpur",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A design-forward W Hotels property on Jalan Ampang in the KLCC precinct, near the Petronas Twin Towers and Suria KLCC.",
+  "ai_summary": "W Kuala Lumpur sits on Jalan Ampang inside the KLCC precinct, close enough to walk to the Petronas Twin Towers, Suria KLCC mall, and KLCC Park. As W Hotels' entry into the city, it leans into the brand's playful-luxury identity, and guest reviews reflect that: the Wet Deck rooftop bar and pool draw some of the most consistently enthusiastic comments of any KL Bonvoy property, with reviewers calling out the views and cocktail program specifically. Staff are frequently described as courteous and proactive across departments, and the immaculate, well-maintained rooms come up often. The KLCC location itself is repeatedly cited as a strong practical advantage. The main recurring complaint is noise -- several reviews describe daytime renovation work or nighttime disturbances, including reports of illegal motorcycle racing audible from rooms, as detracting from an otherwise strong stay. A smaller number of reviews flag dated decor or maintenance issues in specific rooms, such as fittings or drainage problems, and at least one guest noted a pool closure for a private event without advance notice. It suits guests drawn to W's design-led, nightlife-adjacent positioning and the KLCC location, more than those seeking a quiet stay.",
+  "core_facts": {
+    "address": "121 Jalan Ampang, 50450 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "W Hotels",
+    "neighborhood": "KLCC",
+    "distance_from_airport_km": 57,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Walkable KLCC location near the Petronas Twin Towers, Suria KLCC, and KLCC Park",
+    "Wet Deck rooftop bar and pool are consistently praised, with strong views and cocktail offerings",
+    "Staff are frequently described as courteous and proactive across departments",
+    "Rooms are described as immaculate and well maintained"
+  ],
+  "cons": [
+    "Several reviews cite noise, including daytime renovation work and nighttime disturbances outside the hotel",
+    "A smaller number of reviews mention dated decor or maintenance issues in specific rooms",
+    "At least one review noted pool access being cut short for a private event without advance notice"
+  ],
+  "research_highlights": [
+    "The Wet Deck rooftop bar and pool are among the most consistently praised features of any KL Bonvoy hotel",
+    "Staff service across departments draws repeated positive mentions",
+    "The KLCC location is repeatedly cited as a major convenience"
+  ],
+  "research_watchouts": [
+    "Noise from outside the hotel, including nighttime disturbances, is a recurring complaint",
+    "A handful of reviews mention maintenance issues such as fittings or drainage problems in specific rooms"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "How close is W Kuala Lumpur to the Petronas Twin Towers?",
+      "answer": "Very close -- the hotel sits on Jalan Ampang inside the KLCC precinct, within comfortable walking distance of the Petronas Twin Towers, Suria KLCC mall, and KLCC Park, making it one of the most centrally located Bonvoy hotels in the city."
+    },
+    {
+      "question": "Is W Kuala Lumpur a quiet hotel?",
+      "answer": "Not always -- while guest reviews praise the rooftop Wet Deck bar and pool and overall service, several reviews specifically mention noise from renovation work or nighttime street disturbances outside the hotel as a recurring drawback."
+    }
+  ],
+  "tags": ["design hotel", "klcc", "rooftop bar"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulwh-w-kuala-lumpur/overview/",
+      "label": "Official W Kuala Lumpur overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d14023546-Reviews-W_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulwh-w-kuala-lumpur/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-kuala-lumpur", "element-kuala-lumpur", "jw-marriott-kuala-lumpur"],
+  "reliability_score": 65,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

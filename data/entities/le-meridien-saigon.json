@@ -1,0 +1,79 @@
+{
+  "entity_id": "le-meridien-saigon",
+  "slug": "le-meridien-saigon",
+  "name": "Le Meridien Saigon",
+  "category_id": "marriott-bonvoy",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A riverside Le Meridien on Ton Duc Thang Street in District 1, overlooking the Saigon River near the Ba Son Metro station.",
+  "ai_summary": "Le Meridien Saigon sits on Ton Duc Thang Street in District 1, directly on the Saigon River and near Exit 1 of the Ba Son Metro station, putting it within easy reach of downtown offices, riverside promenades, and Dong Khoi's shopping and dining. It was the first Le Meridien hotel in Vietnam and carries the brand's arts-and-design positioning within Bonvoy's mid-to-upper tier. Guest reviews consistently single out the river views, spacious comfortable rooms with well-designed bathrooms, and a breakfast buffet with a strong local-and-Western selection, alongside staff who are repeatedly described as attentive to small details like remembering returning guests' preferences. The Club Lounge and a recently refreshed gym also draw specific praise. Recurring watchouts are narrower but worth noting: a handful of reviews describe a subpar or slow check-in experience, some feel parts of the hotel show their age compared to newer District 1 competitors, and at least one review flagged outdated information (an advertised nearby attraction perk that was no longer valid) that guests should double-check on arrival. Overall it suits travelers who prioritize river views and a design-led atmosphere within walking distance of downtown District 1.",
+  "core_facts": {
+    "address": "3C Ton Duc Thang Street, District 1, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "Le Meridien",
+    "neighborhood": "Ton Duc Thang Riverside, District 1",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Direct Saigon River frontage with rooms and public areas that capture the view",
+    "Steps from Ba Son Metro station Exit 1, with downtown District 1 dining and shopping within walking distance",
+    "Breakfast buffet and Club Lounge draw consistently strong reviews",
+    "Staff repeatedly noted for attentive, personalized service"
+  ],
+  "cons": [
+    "Some reviews describe a slow or subpar check-in experience",
+    "A few guests feel parts of the hotel show their age relative to newer District 1 competitors",
+    "At least one review flagged outdated promotional information about a nearby attraction perk"
+  ],
+  "research_highlights": [
+    "River views and the riverside location near Ba Son Metro are the most consistently cited strengths",
+    "The breakfast buffet, Club Lounge, and refreshed gym draw specific, repeated praise",
+    "Staff are frequently noted for small, attentive touches such as remembering guest preferences"
+  ],
+  "research_watchouts": [
+    "A handful of reviews describe check-in as slow or below expectations for the category",
+    "Some guests note the property feels dated in places compared to newer competitors"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Le Meridien Saigon on the Saigon River?",
+      "answer": "Yes -- it sits directly on the riverbank on Ton Duc Thang Street in District 1, near Exit 1 of the Ba Son Metro station, with river views from many rooms and public areas including the Club Lounge."
+    },
+    {
+      "question": "How far is Le Meridien Saigon from the airport and downtown District 1?",
+      "answer": "It's roughly 8 kilometers from Tan Son Nhat International Airport, about a 20-minute drive depending on traffic, and within easy walking distance of downtown District 1's Dong Khoi shopping and dining strip."
+    }
+  ],
+  "tags": ["district 1", "riverside", "le meridien"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sgnmd-le-meridien-saigon/overview/",
+      "label": "Official Le Meridien Saigon overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d7856034-Reviews-Le_Meridien_Saigon-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sgnmd-le-meridien-saigon/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["renaissance-riverside-saigon", "sheraton-saigon-grand-opera", "jw-marriott-saigon"],
+  "reliability_score": 67,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

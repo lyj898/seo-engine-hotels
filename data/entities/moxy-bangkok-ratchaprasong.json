@@ -1,0 +1,80 @@
+{
+  "entity_id": "moxy-bangkok-ratchaprasong",
+  "slug": "moxy-bangkok-ratchaprasong",
+  "name": "Moxy Bangkok Ratchaprasong",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "The first Moxy hotel in Thailand and the brand's largest in Asia Pacific, steps from BTS Chit Lom and CentralWorld in Ratchaprasong.",
+  "ai_summary": "Moxy Bangkok Ratchaprasong is the first Moxy hotel in Thailand and the brand's largest in Asia Pacific, set directly in the Ratchaprasong shopping district a few minutes' walk from BTS Chit Lom and CentralWorld. Ranked among the top 15 of Bangkok's more than 1,300 TripAdvisor-listed hotels and rated 4 of 5 across roughly 1,900 reviews, it's one of the strongest-performing Bonvoy properties in the city on guest sentiment. Reviewers consistently praise the energetic, social atmosphere -- lively common areas, a free pool table and air hockey, and the Sato San rooftop bar all draw specific mentions -- alongside stylish if compact rooms and a gym that guests call well-equipped. Staff service is repeatedly singled out for warmth, with several reviews naming specific team members. The central Ratchaprasong location puts CentralWorld, Erawan Shrine, and the BTS network within easy walking distance. The main recurring watchout concerns cost: some guests flag breakfast and certain hotel services as pricier than expected for the Moxy brand's typically budget-conscious positioning. It's a strong fit for younger, design-conscious travelers who want a playful, social hotel experience in one of Bangkok's most central shopping districts, though travelers wanting larger rooms or a quieter stay may prefer a different Bonvoy property.",
+  "core_facts": {
+    "address": "111 Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Moxy Hotels",
+    "neighborhood": "Ratchaprasong / Ratchadamri",
+    "distance_from_airport_km": 27,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "First Moxy hotel in Thailand and the brand's largest in Asia Pacific",
+    "Ranked in the top 15 of Bangkok's 1,300+ TripAdvisor-listed hotels, rated 4 of 5",
+    "A few minutes' walk to BTS Chit Lom and CentralWorld",
+    "Energetic social spaces, including the Sato San rooftop bar, free pool table, and air hockey",
+    "Staff service draws repeated, specific praise for warmth and attentiveness"
+  ],
+  "cons": [
+    "Rooms are stylish but compact, in keeping with the Moxy brand's smaller-room format",
+    "Some guests flag breakfast and certain services as pricier than expected",
+    "The playful, social brand identity won't suit travelers wanting a quiet, traditional hotel stay"
+  ],
+  "research_highlights": [
+    "One of the highest-ranked Bonvoy hotels in Bangkok on TripAdvisor, in the top 15 of over 1,300 listings",
+    "The energetic social spaces and Sato San rooftop bar are consistent highlights",
+    "Staff are repeatedly praised by name for warmth and attentiveness"
+  ],
+  "research_watchouts": [
+    "Some guests flag breakfast and certain hotel services as pricier than expected for the brand",
+    "Rooms are compact, consistent with the Moxy format, which won't suit travelers wanting more space"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Moxy Bangkok Ratchaprasong close to CentralWorld?",
+      "answer": "Yes -- it's about a seven-minute walk from CentralWorld and close to BTS Chit Lom station, placing it directly in Bangkok's Ratchaprasong shopping and business district with easy access to the rest of the BTS network."
+    },
+    {
+      "question": "Is Moxy Bangkok Ratchaprasong a good option for a quiet stay?",
+      "answer": "Not especially -- it's built around Moxy's playful, social brand identity, with lively common areas and a rooftop bar, so travelers wanting a quieter, more traditional hotel atmosphere may prefer a different Bonvoy property in the city."
+    }
+  ],
+  "tags": ["ratchaprasong", "lifestyle", "shopping district"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkox-moxy-bangkok-ratchaprasong/overview/",
+      "label": "Official Moxy Bangkok Ratchaprasong overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d26559639-Reviews-Moxy_Bangkok_Ratchaprasong-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkox-moxy-bangkok-ratchaprasong/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-muse-bangkok-autograph-collection", "four-points-bangkok-ploenchit", "renaissance-bangkok-ratchaprasong"],
+  "reliability_score": 68,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

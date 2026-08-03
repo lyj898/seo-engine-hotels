@@ -1,0 +1,79 @@
+{
+  "entity_id": "aloft-bangkok-sukhumvit-11",
+  "slug": "aloft-bangkok-sukhumvit-11",
+  "name": "Aloft Bangkok Sukhumvit 11",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "An Aloft Hotels property on Sukhumvit Soi 11, in the heart of Bangkok's Nana nightlife strip, with a rooftop pool and 24-hour gym.",
+  "ai_summary": "Aloft Bangkok Sukhumvit 11 sits directly on Sukhumvit Soi 11, one of the city's busiest nightlife and dining sois, a five-minute walk from BTS Nana. Rated 4 of 5 across more than 3,800 TripAdvisor reviews, it's one of the more heavily reviewed lifestyle-brand hotels in the Bonvoy Bangkok lineup, and the feedback is consistently strong: rooms are repeatedly described as clean, spacious, and modern for the category, and the rooftop pool, 24-hour pool access, and gym draw specific praise. Breakfast variety is also a recurring highlight. Service throughout is described as attentive and friendly, and reviewers frequently note the property feels fresh and vibrant following recent renovations. The Soi 11 location is a clear draw for travelers who want to be in the center of Bangkok's nightlife and sightseeing action, though that same energy is also the source of the main watchouts: a subset of guests mention noise carrying in from the neighborhood's nightclubs, and occasional housekeeping delays are noted in a handful of reviews. It's a strong fit for younger or nightlife-oriented travelers who want Aloft's tech-forward, design-led brand identity right in the middle of one of Sukhumvit's most energetic stretches, less so for guests prioritizing a quiet stay.",
+  "core_facts": {
+    "address": "35 Sukhumvit Soi 11, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Aloft Hotels",
+    "neighborhood": "Sukhumvit Soi 11 / Nana",
+    "distance_from_airport_km": 26,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Rated 4 of 5 across more than 3,800 TripAdvisor reviews, a large base for this category",
+    "Rooms are consistently described as clean, spacious, and modern",
+    "Rooftop pool, 24-hour pool access, and gym draw specific praise",
+    "Right in the middle of Sukhumvit Soi 11's nightlife and dining scene, near BTS Nana"
+  ],
+  "cons": [
+    "Soi 11's nightlife energy means some guests report noise carrying in from nearby clubs",
+    "A handful of reviews mention occasional housekeeping delays",
+    "The lively, nightlife-adjacent location won't suit travelers wanting a quiet stay"
+  ],
+  "research_highlights": [
+    "Rooms are repeatedly praised as clean, spacious, and modern for the price point",
+    "The rooftop pool, gym, and breakfast variety are consistent highlights",
+    "Service is described as attentive and friendly, with the property noted as feeling fresh after renovations"
+  ],
+  "research_watchouts": [
+    "Some guests report noise from the surrounding Soi 11 nightlife scene",
+    "A handful of reviews mention occasional housekeeping delays"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Aloft Bangkok Sukhumvit 11 good for nightlife?",
+      "answer": "Yes -- it sits directly on Sukhumvit Soi 11, one of Bangkok's busiest nightlife and dining sois, close to BTS Nana. That same energy means some guests report noise from nearby clubs, so light sleepers may want to request a higher floor."
+    },
+    {
+      "question": "Has Aloft Bangkok Sukhumvit 11 been renovated recently?",
+      "answer": "Guest reviews describe the property as feeling fresh and vibrant following recent renovations, with rooms consistently rated as clean and modern. This has helped it maintain a strong 4-of-5 rating across a large review base."
+    }
+  ],
+  "tags": ["sukhumvit", "nana", "nightlife"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkal-aloft-bangkok-sukhumvit-11/overview/",
+      "label": "Official Aloft Bangkok Sukhumvit 11 overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1849240-Reviews-Aloft_Bangkok_Sukhumvit_11-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkal-aloft-bangkok-sukhumvit-11/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["bangkok-marriott-sukhumvit", "courtyard-bangkok-sukhumvit-20", "jw-marriott-bangkok"],
+  "reliability_score": 66,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

@@ -1,0 +1,78 @@
+{
+  "entity_id": "westin-singapore",
+  "slug": "westin-singapore",
+  "name": "The Westin Singapore",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A Westin occupying the upper floors of Asia Square Tower 2 in the Marina Bay/CBD, with a 36th-floor infinity pool.",
+  "ai_summary": "The Westin Singapore occupies the upper floors of Asia Square Tower 2 in the Marina Bay/Downtown Core financial district, making it one of the city's few hotels integrated into an office tower. Reviews consistently single out the 36th-floor infinity pool and the Heavenly Spa for their panoramic views over the harbor and Sentosa, alongside spacious rooms with floor-to-ceiling windows that guests describe as a stay highlight. Staff are repeatedly praised for friendly service from check-in through check-out, and the Shenton Way/Raffles Place location puts guests within walking distance of Lau Pa Sat and the CBD's dining scene, with an MRT station nearby. As a full-service Westin, it's positioned for business travelers working the financial district as well as leisure guests wanting a quieter, less touristy base than the immediate Marina Bay Sands area. The most frequently repeated watchouts are practical rather than experiential: self-parking in the tower is chargeable rather than complimentary, some reviews mention pricing that outpaces service consistency during peak periods, and taxi drivers are occasionally unfamiliar with the Asia Square address, so guests should have the exact tower and entrance ready when arranging transport.",
+  "core_facts": {
+    "address": "12 Marina View, Asia Square Tower 2, Singapore 018961",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Marina Bay / Downtown Core (CBD)",
+    "distance_from_airport_km": 19,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "36th-floor infinity pool and Heavenly Spa draw consistent praise for their Marina Bay and Sentosa views",
+    "Spacious rooms with floor-to-ceiling windows are repeatedly highlighted by guests",
+    "Friendly, attentive service from check-in through check-out",
+    "Walking distance to Lau Pa Sat and the CBD's dining scene, with MRT access nearby"
+  ],
+  "cons": [
+    "Self-parking in Asia Square Tower 2 is chargeable, not complimentary",
+    "Some guests note pricing that doesn't always match service consistency during peak periods",
+    "Taxi drivers are occasionally unfamiliar with the Asia Square address"
+  ],
+  "research_highlights": [
+    "The 36th-floor infinity pool and Heavenly Spa are the most frequently cited highlights",
+    "Staff are repeatedly described as friendly and attentive throughout the stay"
+  ],
+  "research_watchouts": [
+    "Self-parking is chargeable and taxi drivers can be unfamiliar with the Asia Square entrance",
+    "A few reviews mention service inconsistency relative to room rates during busy periods"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Does The Westin Singapore have a pool?",
+      "answer": "Yes -- the hotel's signature amenity is a 36th-floor infinity pool with panoramic views over Marina Bay and Sentosa, paired with the Heavenly Spa by Westin. Guest reviews consistently cite the pool as one of the property's strongest features."
+    },
+    {
+      "question": "Is parking included at The Westin Singapore?",
+      "answer": "No -- self-parking within Asia Square Tower 2 is chargeable rather than complimentary. Guests arriving by taxi should also confirm the Asia Square address in advance, as some drivers are unfamiliar with the building's entrance."
+    }
+  ],
+  "tags": ["marina bay", "cbd", "infinity pool"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinwi-the-westin-singapore/overview/",
+      "label": "Official The Westin Singapore overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d4720057-Reviews-The_Westin_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinwi-the-westin-singapore/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-millenia-singapore", "duxton-reserve-singapore-autograph-collection"],
+  "reliability_score": 65,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

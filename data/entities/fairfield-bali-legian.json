@@ -1,0 +1,80 @@
+{
+  "entity_id": "fairfield-bali-legian",
+  "slug": "fairfield-bali-legian",
+  "name": "Fairfield by Marriott Bali Legian",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A select-service Fairfield in Legian, positioned between Kuta and Seminyak within a five-to-twelve-minute walk of Legian Beach.",
+  "ai_summary": "Fairfield by Marriott Bali Legian sits in the heart of Legian, midway between Kuta and Seminyak, putting guests within roughly a five-to-twelve-minute walk of Legian Beach and the area's restaurants and nightlife. Rated 4 of 5 across roughly 1,500 TripAdvisor reviews, it draws consistent praise as a clean, comfortable select-service option, with rooms and linens repeatedly described as very clean and neatly kept. Staff are singled out for being friendly, polite, and accommodating, and the on-site restaurant and pool bar are noted for solid, varied food and drink options -- reviewers specifically credit the Bonvoy team's professionalism and the overall level of hotel service for a select-service property. The location, roughly a 30-minute drive from the airport, works well for guests prioritizing walkable access to Legian and Seminyak over airport proximity. The clearest recurring watchout is that as a value-tier Fairfield, breakfast and other amenities are not automatically bundled into every rate, and a few guests note that international cuisine choices, such as Indian dishes, don't always match specific regional tastes. For travelers who want a reliable, well-located Bonvoy base in the Legian-Seminyak corridor without full-service pricing, it's a solidly reviewed choice.",
+  "core_facts": {
+    "address": "Jalan Sri Rama 8C, Legian, Kuta, Bali, Indonesia 80361",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "Legian",
+    "distance_from_airport_km": 10,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Located in Legian, roughly a 5-12 minute walk from Legian Beach and midway between Kuta and Seminyak",
+    "Rated 4 of 5 across roughly 1,500 TripAdvisor reviews",
+    "Rooms and linens are consistently described as very clean and neatly kept",
+    "Staff are repeatedly praised as friendly, polite, and accommodating",
+    "On-site restaurant and pool bar draw positive comments on food and drink variety"
+  ],
+  "cons": [
+    "As a select-service Fairfield, breakfast and other amenities aren't automatically bundled into every rate",
+    "A few guests note that international menu items, such as Indian dishes, don't always match specific regional tastes",
+    "At roughly a 30-minute drive from the airport, it's farther out than some of Kuta's beachfront Bonvoy properties"
+  ],
+  "research_highlights": [
+    "Rooms are described as very clean, with neatly folded towels and linens",
+    "Staff are repeatedly called friendly, polite, and willing to go the extra mile for guests",
+    "The Bonvoy team's professionalism and overall hotel service are specifically praised for a select-service property"
+  ],
+  "research_watchouts": [
+    "Breakfast is not automatically included in every room rate, typical of the select-service Fairfield tier",
+    "A few reviews mention that some international dishes, like Indian cuisine, don't fully match specific regional expectations"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Fairfield by Marriott Bali Legian close to the beach?",
+      "answer": "Yes -- it sits in the heart of Legian, roughly a five-to-twelve-minute walk from Legian Beach, and is positioned midway between Kuta and Seminyak for easy access to both areas."
+    },
+    {
+      "question": "Does Fairfield by Marriott Bali Legian include breakfast?",
+      "answer": "Not automatically -- as a select-service Fairfield property, breakfast isn't bundled into every rate, though guests who add it consistently describe the food quality and variety as a strong point of the stay."
+    }
+  ],
+  "tags": ["legian", "select-service", "walkable"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsfi-fairfield-bali-legian/overview/",
+      "label": "Official Fairfield by Marriott Bali Legian overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g608487-d12549281-Reviews-Fairfield_by_Marriott_Bali_Legian-Legian_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsfi-fairfield-bali-legian/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairfield-bali-south-kuta", "the-stones-hotel-legian-bali-autograph-collection", "courtyard-bali-seminyak"],
+  "reliability_score": 60,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

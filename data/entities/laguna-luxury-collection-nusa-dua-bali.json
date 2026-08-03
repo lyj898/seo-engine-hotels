@@ -1,0 +1,80 @@
+{
+  "entity_id": "laguna-luxury-collection-nusa-dua-bali",
+  "slug": "laguna-luxury-collection-nusa-dua-bali",
+  "name": "The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A Luxury Collection beachfront resort in Nusa Dua built around seven lagoon-shaped swimming pools, with rooms and villas set among landscaped gardens.",
+  "ai_summary": "The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali sits on a beachfront site within the Nusa Dua enclave, distinguished by seven interconnected lagoon-shaped swimming pools that wind through the property, including a dedicated children's pool. Rated 4 of 5 across several thousand TripAdvisor reviews and ranked in the upper tier of Nusa Dua's dense hotel field, it draws consistent praise for rooms, suites, and villas described as spacious and elegantly decorated with traditional Balinese touches, and for grounds and lagoon pools that guests repeatedly call beautiful and immaculately maintained. Staff service is a recurring highlight, described as friendly, genuine, and fluent in English, and the resort's ITDC Nusa Dua location gives it a premium, gated setting. Six restaurants and bars and a spa focused on Balinese wellness traditions round out the amenity set. The clearest recurring watchouts concern value rather than the core product: some guests feel extras such as spa treatments and dining are priced at a premium even by Nusa Dua standards, and a handful of reviews describe occasional inconsistency in service during busy periods. For travelers drawn to the Luxury Collection's cultural, design-forward positioning and a lagoon-pool-centric resort layout, it's a consistently well-reviewed choice among Nusa Dua's Bonvoy properties.",
+  "core_facts": {
+    "address": "Kawasan Pariwisata Nusa Dua Lot N2, Nusa Dua, Bali, Indonesia 80363",
+    "brand_sub_brand": "Luxury Collection",
+    "neighborhood": "Nusa Dua",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Beachfront Nusa Dua location built around seven lagoon-shaped swimming pools, including a dedicated children's pool",
+    "Rated 4 of 5 across several thousand TripAdvisor reviews, ranking in the upper tier of Nusa Dua's hotel field",
+    "Rooms, suites, and villas are consistently described as spacious with elegant, culturally rooted decor",
+    "Staff are repeatedly praised as friendly, genuine, and attentive",
+    "Six restaurants and bars plus a spa built around Balinese wellness traditions"
+  ],
+  "cons": [
+    "Some guests feel spa treatments and dining extras are priced at a premium even by Nusa Dua standards",
+    "A handful of reviews describe occasional service inconsistency during busy periods",
+    "The gated ITDC Nusa Dua setting means most outside dining and shopping requires a taxi or resort shuttle"
+  ],
+  "research_highlights": [
+    "The resort's seven lagoon-shaped pools are described as beautiful, clean, and a genuine centerpiece of the stay",
+    "Rooms and villas draw praise for their space and traditional Balinese design touches",
+    "Staff are described as very friendly and attentive, with strong English fluency"
+  ],
+  "research_watchouts": [
+    "Some guests note that spa and dining extras carry a premium price even relative to other Nusa Dua resorts",
+    "A few reviews mention occasional inconsistency in service during busier periods"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "What makes the pools at The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali distinctive?",
+      "answer": "The resort is built around seven interconnected lagoon-shaped swimming pools, including a separate children's pool, which guest reviews consistently describe as beautiful and immaculately maintained -- a defining feature of the property."
+    },
+    {
+      "question": "Is The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali good value?",
+      "answer": "The resort itself and its rooms draw strong reviews, but some guests note that spa treatments and dining extras run at a premium even by Nusa Dua standards, so it's worth budgeting for those separately from the room rate."
+    }
+  ],
+  "tags": ["nusa dua", "beachfront", "lagoon pools"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpslc-the-laguna-a-luxury-collection-resort-and-spa-nusa-dua-bali/overview/",
+      "label": "Official The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297698-d301787-Reviews-The_Laguna_a_Luxury_Collection_Resort_Spa_Nusa_Dua_Bali-Nusa_Dua_Benoa_South_Kuta_Badun.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpslc-the-laguna-a-luxury-collection-resort-and-spa-nusa-dua-bali/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["westin-resort-nusa-dua-bali", "ritz-carlton-bali", "courtyard-bali-nusa-dua"],
+  "reliability_score": 63,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

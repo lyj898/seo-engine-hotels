@@ -1,0 +1,79 @@
+{
+  "entity_id": "le-meridien-kuala-lumpur",
+  "slug": "le-meridien-kuala-lumpur",
+  "name": "Le Meridien Kuala Lumpur",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "An upscale Le Meridien built into KL Sentral, a short stroll from Nu Sentral Mall and Merdeka Square.",
+  "ai_summary": "Le Meridien Kuala Lumpur is built into KL Sentral, the nation's transportation hub, giving guests integrated access to the MRT, LRT, Monorail, and KTM lines, plus the KLIA Ekspres to the airport. It's a five-minute stroll to Nu Sentral Mall and roughly two kilometers from Merdeka Square. Guest reviews consistently praise the breakfast buffet, pool, and gym, and staff are frequently described as incredibly friendly, contributing to an overall sense of warmth that several reviewers say exceeds expectations for the category. Rooms lean toward an elegant, contemporary look with soft, high-quality bedding. Dining options, including a steakhouse and dessert-focused venues, add to the appeal for guests who want to eat on-site. The most common criticisms are about cost and character rather than service: some guests feel the hotel is pricier than comparable options nearby and lacks a distinct identity, rooms in certain categories are described as small or claustrophobic, and a few reviews note bathrooms without a separate shower. In-house dining is also flagged by some as expensive relative to nearby alternatives. It suits transit-focused travelers and business guests who value KL Sentral's connectivity over a boutique or design-forward stay.",
+  "core_facts": {
+    "address": "2 Jalan Stesen Sentral, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Le Meridien",
+    "neighborhood": "KL Sentral",
+    "distance_from_airport_km": 50,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Built directly into KL Sentral, with integrated MRT, LRT, Monorail, KTM, and KLIA Ekspres access",
+    "Breakfast buffet, pool, and gym draw consistently positive reviews",
+    "Staff are frequently described as incredibly friendly",
+    "Rooms feature elegant, contemporary design with soft, high-quality bedding"
+  ],
+  "cons": [
+    "Some guests feel the hotel is expensive relative to nearby alternatives and lacks distinct character",
+    "Certain room categories are described as small or claustrophobic",
+    "Some bathrooms lack a separate shower, and in-house dining is flagged as costly by some guests"
+  ],
+  "research_highlights": [
+    "Breakfast, pool, and gym facilities draw consistently positive mentions",
+    "KL Sentral's integrated transit access, including the direct airport rail line, is repeatedly cited as a key advantage",
+    "Staff friendliness comes up often in reviews"
+  ],
+  "research_watchouts": [
+    "Some guests find the hotel pricey and lacking a distinct identity compared to nearby options",
+    "Certain rooms are described as small, with dated bathrooms lacking a separate shower"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Le Meridien Kuala Lumpur connected to the airport train?",
+      "answer": "Yes -- the hotel is built directly into KL Sentral, giving guests integrated access to the KLIA Ekspres to the airport as well as the MRT, LRT, Monorail, and KTM lines, making it a convenient choice for transit-dependent stays."
+    },
+    {
+      "question": "Are the rooms small at Le Meridien Kuala Lumpur?",
+      "answer": "Some guests describe certain room categories as small or claustrophobic, and a few reviews mention dated bathrooms without a separate shower, so travelers who prioritize space may want to book a higher room category or check room details before booking."
+    }
+  ],
+  "tags": ["kl sentral", "transit hub", "upscale"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulmd-le-meridien-kuala-lumpur/overview/",
+      "label": "Official Le Meridien Kuala Lumpur overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d302420-Reviews-Le_Meridien_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulmd-le-meridien-kuala-lumpur/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["st-regis-kuala-lumpur", "aloft-kuala-lumpur-sentral", "the-majestic-kuala-lumpur-autograph-collection"],
+  "reliability_score": 64,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

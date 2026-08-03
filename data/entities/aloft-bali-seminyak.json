@@ -1,0 +1,80 @@
+{
+  "entity_id": "aloft-bali-seminyak",
+  "slug": "aloft-bali-seminyak",
+  "name": "Aloft Bali Seminyak",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A lifestyle-brand Aloft on Batu Belig, between Seminyak's dining and nightlife and Canggu's surf-and-cafe scene, with a rooftop infinity pool.",
+  "ai_summary": "Aloft Bali Seminyak sits in Batu Belig, positioned between Seminyak's established dining, shopping, and nightlife strip and Canggu's cafe and surf culture just to the north. Rated 4 of 5 on TripAdvisor and placed in the upper-middle tier among Kerobokan Kelod's hotels, it draws consistent praise for its walkable location -- guests describe having the beach, beach clubs, bars with live music, and convenience stores all within easy reach. The rooftop infinity pool and KAHUNA Rooftop Pool & Restaurant are called out as strong features, and W XYZ Bar brings the brand's signature handcrafted cocktails to the lobby. Service is repeatedly described as personalized and attentive, with guests noting staff who go above and beyond, and the hotel's rates are frequently cited as offering excellent value relative to its location. Rooms are described as modern and spacious with the brand's signature plush bedding. The main recurring watchouts are occasional noise and maintenance issues typical of a compact, design-led select-service property in a busy nightlife-adjacent area. For travelers who want a stylish, budget-conscious lifestyle base within walking distance of both Seminyak and Canggu, it's a well-reviewed choice among Bali's Bonvoy properties.",
+  "core_facts": {
+    "address": "Jalan Batu Belig No. 228, Seminyak, Bali, Indonesia 80361",
+    "brand_sub_brand": "Aloft",
+    "neighborhood": "Batu Belig / Seminyak",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Batu Belig location between Seminyak's dining/nightlife and Canggu's cafe and surf scene",
+    "Rated 4 of 5 on TripAdvisor, placed in the upper-middle tier of Kerobokan Kelod's hotel field",
+    "Rooftop infinity pool and KAHUNA Rooftop Pool & Restaurant draw consistent praise",
+    "Service is described as personalized and attentive, with staff frequently going above and beyond",
+    "Widely cited as excellent value for the location, with the beach and beach clubs within walking distance"
+  ],
+  "cons": [
+    "Some guests mention noise and occasional maintenance issues typical of a compact, lifestyle-brand property",
+    "As a design-focused select-service hotel, room sizes and amenity scope are more limited than a full-service resort",
+    "Its nightlife-adjacent Batu Belig/Seminyak setting won't suit travelers seeking a quiet retreat"
+  ],
+  "research_highlights": [
+    "The location is repeatedly called ideal, with the beach, beach clubs, bars, and convenience stores all within walking distance",
+    "The rooftop pool, KAHUNA restaurant, and W XYZ Bar's cocktails draw specific, positive mentions",
+    "Staff service is described as personalized and attentive, with a strong value-for-money reputation"
+  ],
+  "research_watchouts": [
+    "Some reviews mention noise and occasional maintenance issues",
+    "The lively, nightlife-adjacent setting suits travelers seeking an energetic base more than those wanting quiet"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Aloft Bali Seminyak within walking distance of the beach?",
+      "answer": "Yes -- guests describe the Batu Belig location as putting the beach, beach clubs, bars, and convenience stores all within easy walking distance, alongside proximity to both Seminyak and Canggu."
+    },
+    {
+      "question": "Does Aloft Bali Seminyak have a pool?",
+      "answer": "Yes -- it has a rooftop infinity pool alongside KAHUNA Rooftop Pool & Restaurant, which guest reviews consistently highlight as one of the property's strongest features, alongside the lobby's W XYZ Bar for handcrafted cocktails and evening entertainment."
+    }
+  ],
+  "tags": ["seminyak", "lifestyle hotel", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsas-aloft-bali-seminyak/overview/",
+      "label": "Official Aloft Bali Seminyak overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g13356179-d15121957-Reviews-Aloft_Bali_Seminyak-Kerobokan_Kelod_North_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsas-aloft-bali-seminyak/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["w-bali-seminyak", "courtyard-bali-seminyak", "four-points-bali-seminyak"],
+  "reliability_score": 60,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

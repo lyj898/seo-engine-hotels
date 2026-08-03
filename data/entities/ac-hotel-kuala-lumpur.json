@@ -1,0 +1,79 @@
+{
+  "entity_id": "ac-hotel-kuala-lumpur",
+  "slug": "ac-hotel-kuala-lumpur",
+  "name": "AC Hotel Kuala Lumpur",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A minimalist, design-forward AC Hotel on Jalan Lumut in the Titiwangsa Sentral business district, near a rapid transit interchange.",
+  "ai_summary": "AC Hotel Kuala Lumpur sits on Jalan Lumut, off Jalan Ipoh, in the Titiwangsa Sentral business district, positioned near an LRT and Monorail interchange that gives fairly direct access to the city's business, shopping, and healthcare hubs. As AC Hotels' first entry into the city, it brings the brand's signature chic, minimalist European-inspired design, and guest reviews reflect a generally positive but mixed experience. Staff are frequently praised for friendliness and hospitality, with individual team members singled out by name in several reviews. Rooms are described as spacious and clean, and the AC Kitchen and AC Lounge draw favorable comments for breakfast and evening cocktails. The location's transit proximity is a recurring practical positive. On the downside, several reviews mention inconsistent service execution, along with occasional air conditioning or Wi-Fi issues. Noise from nearby train tracks is flagged by some guests, who suggest requesting a room away from the railway side, and at least one review described being placed in a smoking room despite booking non-smoking, with a slow resolution. It suits design-conscious business travelers who value transit access over a downtown-core location.",
+  "core_facts": {
+    "address": "9 Jalan Lumut, Off Jalan Ipoh, 50400 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "AC Hotels",
+    "neighborhood": "Titiwangsa",
+    "distance_from_airport_km": 60,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Near an LRT and Monorail interchange in Titiwangsa Sentral, with fairly direct access to the city center",
+    "Staff are frequently praised for friendliness and hospitality",
+    "Rooms are described as spacious, clean, with a chic, minimalist design",
+    "AC Kitchen and AC Lounge draw favorable comments for breakfast and evening cocktails"
+  ],
+  "cons": [
+    "Several reviews mention inconsistent service execution",
+    "Some guests report air conditioning or Wi-Fi issues",
+    "Noise from nearby train tracks affects some rooms, and at least one review described a slow resolution to a room-type mix-up"
+  ],
+  "research_highlights": [
+    "Staff friendliness and individual service moments are repeatedly praised by name in reviews",
+    "Rooms and the minimalist design draw consistent positive comments",
+    "Transit proximity via the nearby LRT/Monorail interchange is a practical advantage"
+  ],
+  "research_watchouts": [
+    "Service inconsistency and occasional air conditioning or Wi-Fi issues are recurring complaints",
+    "Some rooms facing the railway experience noise from passing trains"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is AC Hotel Kuala Lumpur close to the city center?",
+      "answer": "It's in Titiwangsa, north of the Golden Triangle, near an LRT and Monorail interchange that gives fairly direct access to the business, shopping, and entertainment core, though it isn't within walking distance of KLCC or Bukit Bintang."
+    },
+    {
+      "question": "Are rooms noisy at AC Hotel Kuala Lumpur?",
+      "answer": "Some rooms facing the nearby train tracks can pick up noise from passing trains, so guests sensitive to this may want to request a room on the side away from the railway when booking or at check-in."
+    }
+  ],
+  "tags": ["select-service", "titiwangsa", "design hotel"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulka-ac-hotel-kuala-lumpur/overview/",
+      "label": "Official AC Hotel Kuala Lumpur overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d307985-Reviews-Ac_Hotel_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulka-ac-hotel-kuala-lumpur/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-stripes-kuala-lumpur-autograph-collection", "four-points-kuala-lumpur-chinatown", "element-kuala-lumpur"],
+  "reliability_score": 60,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

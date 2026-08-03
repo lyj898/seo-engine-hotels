@@ -1,0 +1,79 @@
+{
+  "entity_id": "the-majestic-kuala-lumpur-autograph-collection",
+  "slug": "the-majestic-kuala-lumpur-autograph-collection",
+  "name": "The Majestic Hotel Kuala Lumpur, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A restored 1932 colonial landmark on Jalan Sultan Hishamuddin, minutes from KL Sentral, split between a historic wing and a contemporary tower.",
+  "ai_summary": "The Majestic Hotel Kuala Lumpur, Autograph Collection restores the original 1932 Hotel Majestic building, once a landmark of the city, and pairs it with a newer 15-story Tower Wing a few minutes from KL Sentral. Rooms are split between the historic Majestic Wing, with its colonial-era character, Orchid Conservatory, and Drawing Room, and the more contemporary Tower Wing with sweeping city views. Guest reviews consistently praise the elegant, historic atmosphere, comfortable and spacious rooms, and cleanliness, which reviewers frequently call a strong point for the property. Staff service draws regular commendation for friendliness, and the central-but-quieter location near KL Sentral and the old town area is appreciated by guests who want easy access without the busiest downtown crowds. As one of the more storied Autograph Collection properties in this directory's Kuala Lumpur list, it holds broad appeal for guests seeking a heritage stay with modern comfort. The main watchouts are about value and dated touches rather than service failures: some guests consider it overpriced relative to the experience, pool and gym facilities receive mixed reviews, and there's no dedicated outdoor spot for a drink or meal with a city view. It suits travelers drawn to colonial-era architecture and history over a purely modern luxury stay.",
+  "core_facts": {
+    "address": "5 Jalan Sultan Hishamuddin, Kuala Lumpur, 50000, Malaysia",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Near KL Sentral / Old Town",
+    "distance_from_airport_km": 52,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Restored 1932 colonial landmark building paired with a modern Tower Wing, a few minutes from KL Sentral",
+    "Cleanliness is frequently highlighted as a particular strength",
+    "Rooms are described as comfortable and spacious across both wings",
+    "Staff service draws regular praise for friendliness"
+  ],
+  "cons": [
+    "Some guests consider the hotel overpriced relative to the overall experience",
+    "Pool and gym facilities receive mixed reviews",
+    "There's no dedicated outdoor spot for a drink or meal with a city view"
+  ],
+  "research_highlights": [
+    "The colonial-era Majestic Wing and its historic character are a defining draw for guests",
+    "Cleanliness is repeatedly singled out as a strong point",
+    "Staff friendliness and the near-KL Sentral location draw consistent praise"
+  ],
+  "research_watchouts": [
+    "Some guests feel the pricing doesn't match the overall experience",
+    "Pool and gym facilities receive mixed feedback, and some features feel dated"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is The Majestic Hotel Kuala Lumpur a historic building?",
+      "answer": "Yes -- it centers on the meticulously restored original Hotel Majestic building from 1932, one of the city's landmark hotels in its era, now paired with a modern 15-story Tower Wing, a few minutes from KL Sentral."
+    },
+    {
+      "question": "Which wing should I choose at The Majestic Hotel Kuala Lumpur?",
+      "answer": "It depends on preference -- the historic Majestic Wing offers colonial-era character with features like the Orchid Conservatory and Drawing Room, while the contemporary Tower Wing offers sweeping views of modern Kuala Lumpur, so choose based on whether you want heritage charm or skyline views."
+    }
+  ],
+  "tags": ["heritage", "autograph collection", "near kl sentral"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulak-the-majestic-hotel-kuala-lumpur-autograph-collection/overview/",
+      "label": "Official The Majestic Hotel Kuala Lumpur overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d3672924-Reviews-The_Majestic_Hotel_Kuala_Lumpur_Autograph_Collection-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulak-the-majestic-hotel-kuala-lumpur-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["st-regis-kuala-lumpur", "le-meridien-kuala-lumpur", "hotel-stripes-kuala-lumpur-autograph-collection"],
+  "reliability_score": 65,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

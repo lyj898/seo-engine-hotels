@@ -1,0 +1,79 @@
+{
+  "entity_id": "westin-kuala-lumpur",
+  "slug": "westin-kuala-lumpur",
+  "name": "The Westin Kuala Lumpur",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A wellness-focused Westin on Jalan Bukit Bintang, opposite Pavilion Kuala Lumpur in the Golden Triangle.",
+  "ai_summary": "The Westin Kuala Lumpur sits on Jalan Bukit Bintang in the Golden Triangle, directly opposite the Pavilion Kuala Lumpur mall and within easy reach of KLCC Park and the Petronas Twin Towers. Leaning into the brand's wellness positioning, the hotel features the Westin Heavenly Bed across its rooms, an all-day restaurant, a rooftop-adjacent bar, and a poolside restaurant and bar. Guest reviews consistently praise the location's convenience, spacious rooms, and generally warm, accommodating staff, with breakfast singled out favorably by several reviewers. Service is often described as a strong point, particularly staff willingness to go out of their way for guests. The most consistent complaint is street noise and traffic filtering into rooms, which several reviews flag as disruptive given the hotel's busy Bukit Bintang setting; at least one review also described a moldy smell in a specific room. Some reviewers note service can become less consistent during busy periods. It suits travelers who want a central, shopping-adjacent base with a wellness-oriented brand identity, and who can tolerate some city noise in exchange for the location.",
+  "core_facts": {
+    "address": "199 Jalan Bukit Bintang, Kuala Lumpur, 55100, Malaysia",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Bukit Bintang / Golden Triangle",
+    "distance_from_airport_km": 58,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Directly opposite Pavilion Kuala Lumpur, within easy reach of KLCC Park and the Petronas Twin Towers",
+    "Rooms feature the Westin Heavenly Bed and are described as spacious and comfortable",
+    "Breakfast and overall staff friendliness draw consistent praise",
+    "Wellness-oriented amenities align with the Westin brand's positioning"
+  ],
+  "cons": [
+    "Street noise and traffic are a recurring complaint given the busy Bukit Bintang setting",
+    "At least one review described a moldy smell in a specific room",
+    "Service consistency can dip during busy periods"
+  ],
+  "research_highlights": [
+    "Location opposite Pavilion Kuala Lumpur is repeatedly cited as a major convenience",
+    "Rooms and breakfast draw consistent positive mentions",
+    "Staff are frequently described as warm and accommodating"
+  ],
+  "research_watchouts": [
+    "Street noise and traffic filtering into rooms is a recurring complaint",
+    "Service consistency has been flagged as variable during busy periods"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is The Westin Kuala Lumpur close to Pavilion mall?",
+      "answer": "Yes -- the hotel sits on Jalan Bukit Bintang directly opposite Pavilion Kuala Lumpur, and is also within easy reach of KLCC Park and the Petronas Twin Towers, making it a convenient base for shopping and sightseeing in the Golden Triangle."
+    },
+    {
+      "question": "Is The Westin Kuala Lumpur a noisy hotel?",
+      "answer": "It can be -- several guest reviews mention street noise and traffic from the busy Bukit Bintang area filtering into rooms, so light sleepers may want to request a higher floor or a room away from the street-facing side."
+    }
+  ],
+  "tags": ["wellness", "bukit bintang", "shopping district"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulwi-the-westin-kuala-lumpur/overview/",
+      "label": "Official Westin Kuala Lumpur overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d304498-Reviews-The_Westin_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulwi-the-westin-kuala-lumpur/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-kuala-lumpur", "sheraton-imperial-kuala-lumpur", "renaissance-kuala-lumpur"],
+  "reliability_score": 65,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

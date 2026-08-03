@@ -1,0 +1,79 @@
+{
+  "entity_id": "sheraton-imperial-kuala-lumpur",
+  "slug": "sheraton-imperial-kuala-lumpur",
+  "name": "Sheraton Imperial Kuala Lumpur Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A long-established Sheraton on Jalan Sultan Ismail, steps from LRT and Monorail stations in the Golden Triangle.",
+  "ai_summary": "Sheraton Imperial Kuala Lumpur Hotel is a long-running property on Jalan Sultan Ismail in the Golden Triangle, described by Marriott as a grande dame among the city's hotels, and sits just steps from LRT and Monorail stations. Guest reviews consistently highlight the location's transit access -- the Monorail makes reaching Bukit Bintang and Berjaya Times Square straightforward, and the Petronas Towers are within walking distance for guests who don't mind a stroll. Rooms are frequently described as large and comfortable, with king-size beds and views that can take in Merdeka 118, KL Tower, or the Petronas Twin Towers depending on the room. Staff are repeatedly called warm and willing to help, and the dining and gym facilities draw positive mentions. The most common watchouts concern the building's age: some areas are described as feeling outdated even though core cleanliness is generally well regarded, and a handful of reviews mention occasional housekeeping lapses or service inconsistency, along with unclear pricing for some add-ons. It suits travelers who prioritize transit connectivity and room space over the newest design, and who want a dependable, well-located full-service hotel.",
+  "core_facts": {
+    "address": "Jalan Sultan Ismail, Kuala Lumpur, 50250, Malaysia",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Golden Triangle",
+    "distance_from_airport_km": 58,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Steps from LRT and Monorail stations, with easy access to Bukit Bintang and Berjaya Times Square",
+    "Large, comfortable rooms with king-size beds and city or landmark views depending on room",
+    "Staff are consistently described as warm and helpful",
+    "Dining options and gym facilities draw positive guest feedback"
+  ],
+  "cons": [
+    "Some areas of the hotel are described as feeling outdated given the property's age",
+    "A handful of reviews mention occasional housekeeping lapses or service inconsistency",
+    "Some guests report unclear pricing on certain add-ons or facilities"
+  ],
+  "research_highlights": [
+    "Transit connectivity via nearby LRT and Monorail stations is repeatedly cited as a major advantage",
+    "Room size and comfort draw consistent positive mentions",
+    "Staff warmth and willingness to help come up often in reviews"
+  ],
+  "research_watchouts": [
+    "Some areas of the property are described as dated relative to newer competitors",
+    "Occasional housekeeping lapses and unclear pricing on add-ons have been noted"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Sheraton Imperial Kuala Lumpur Hotel well connected by public transport?",
+      "answer": "Yes -- the hotel is steps from LRT and Monorail stations, making it easy to reach Bukit Bintang and Berjaya Times Square, and the Petronas Twin Towers are within walking distance for guests who don't mind about a 30-minute stroll."
+    },
+    {
+      "question": "Are the rooms at Sheraton Imperial Kuala Lumpur Hotel outdated?",
+      "answer": "Some areas of the hotel are described by guests as feeling dated given its age, though rooms are still frequently praised for their size and comfort, with king-size beds and views of landmarks like Merdeka 118, KL Tower, or the Petronas Twin Towers."
+    }
+  ],
+  "tags": ["golden triangle", "transit access", "long-established"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulsi-sheraton-imperial-kuala-lumpur-hotel/overview/",
+      "label": "Official Sheraton Imperial Kuala Lumpur Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d304497-Reviews-Sheraton_Imperial_Kuala_Lumpur_Hotel-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulsi-sheraton-imperial-kuala-lumpur-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["renaissance-kuala-lumpur", "westin-kuala-lumpur", "le-meridien-kuala-lumpur"],
+  "reliability_score": 64,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

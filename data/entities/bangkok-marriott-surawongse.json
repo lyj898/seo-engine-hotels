@@ -1,0 +1,80 @@
+{
+  "entity_id": "bangkok-marriott-surawongse",
+  "slug": "bangkok-marriott-surawongse",
+  "name": "Bangkok Marriott Hotel The Surawongse",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A Marriott Hotels property on Surawong Road in Bangrak, near Silom and the Chao Phraya River, with rooftop dining overlooking the MahaNakhon skyline.",
+  "ai_summary": "Bangkok Marriott Hotel The Surawongse sits on Surawong Road in the Bangrak district, one of Bangkok's oldest heritage neighborhoods, within reach of Silom, Chinatown, and the Chao Phraya River. Ranked among the top 60 of Bangkok's more than 1,300 TripAdvisor-listed hotels and rated 4 of 5 across roughly 2,400 reviews, it draws consistently strong praise: guests repeatedly call the service exceptional and staff unusually friendly, the breakfast buffet is described as outstanding with wide variety, and the 18th-floor infinity pool and Yao Rooftop Bar earn specific mentions for their skyline views toward the MahaNakhon tower. Room upgrades for Marriott Bonvoy elite members are frequently described as generous, with some guests reporting upgrades to multi-room suites. The hotel's four restaurants, spanning Thai street food, Chinese, and Japanese cuisine, add more on-site dining variety than most full-service Bonvoy hotels in the city. The main recurring complaint concerns the executive lounge breakfast, which a number of Platinum Elite members describe as a weaker version of the main restaurant's spread. The Bangrak location is also a genuine trade-off: it isn't on the BTS or MRT network the way the Sukhumvit-corridor hotels are, and a few guests note it's not as close to the riverfront as the name and marketing suggest. It suits travelers drawn to Bangkok's historic Silom/Chinatown side of downtown who don't mind relying more on taxis to reach the Sukhumvit shopping and nightlife corridor.",
+  "core_facts": {
+    "address": "262 Surawong Road, Si Phraya, Bangrak, Bangkok 10500, Thailand",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Silom / Bangrak",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Rooftop infinity pool and Yao Rooftop Bar overlook the MahaNakhon skyline",
+    "Four on-site restaurants spanning Thai, Chinese, and Japanese cuisine",
+    "Consistently strong service reviews, with staff frequently called out by name",
+    "Ranks in the top 60 of Bangkok's 1,300+ TripAdvisor-listed hotels",
+    "Room upgrades for elite members are frequently described as generous"
+  ],
+  "cons": [
+    "Not directly on the BTS or MRT network, unlike the Sukhumvit-corridor hotels",
+    "Executive lounge breakfast is described by some Platinum Elite members as weaker than the main restaurant",
+    "Some guests note the riverfront and Chinatown are a short ride away rather than immediately walkable"
+  ],
+  "research_highlights": [
+    "Staff service and the breakfast buffet are repeatedly singled out as outstanding",
+    "The 18th-floor infinity pool and rooftop bar draw consistent praise for their views",
+    "Elite members report generous room upgrades, including to multi-room suites"
+  ],
+  "research_watchouts": [
+    "The executive lounge breakfast is described by some elite members as weaker than the main restaurant",
+    "The Bangrak location is not on the BTS/MRT network, so getting around relies more on taxis"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Bangkok Marriott Hotel The Surawongse near the Chao Phraya River?",
+      "answer": "It's in Bangrak, a heritage district near the river and Chinatown, but it isn't directly riverside -- guests typically need a short taxi or tuk-tuk ride to reach the riverfront and Chinatown's main sights rather than walking straight there."
+    },
+    {
+      "question": "Does this hotel offer good room upgrades for Marriott Bonvoy elite members?",
+      "answer": "Yes -- guest reviews frequently describe generous upgrades for Platinum Elite and above, with some travelers reporting upgrades to multi-room suites, though the separate executive lounge breakfast is rated more modestly than the main restaurant's spread."
+    }
+  ],
+  "tags": ["bangrak", "silom", "heritage district"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkwo-bangkok-marriott-hotel-the-surawongse/overview/",
+      "label": "Official Bangkok Marriott Hotel The Surawongse overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d13341534-Reviews-Bangkok_Marriott_Hotel_The_Surawongse-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkwo-bangkok-marriott-hotel-the-surawongse/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-bangkok", "athenee-luxury-collection-bangkok", "jw-marriott-bangkok"],
+  "reliability_score": 66,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

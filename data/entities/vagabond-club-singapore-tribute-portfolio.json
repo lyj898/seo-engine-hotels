@@ -1,0 +1,78 @@
+{
+  "entity_id": "vagabond-club-singapore-tribute-portfolio",
+  "slug": "vagabond-club-singapore-tribute-portfolio",
+  "name": "The Vagabond Club, Singapore, a Tribute Portfolio Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "An intimate Tribute Portfolio boutique hotel in a 1950s Art Deco building near Kampong Glam and Little India.",
+  "ai_summary": "The Vagabond Club, Singapore, a Tribute Portfolio Hotel is a small boutique property on Syed Alwi Road, within walking distance of Kampong Glam and Little India, occupying a 1950s Art Deco building reworked by designer Jacques Garcia -- his first project in Asia. The look leans into Parisian opulence and vintage glamour, with red velvet interiors, curated art, and The Salon hosting live jazz several nights a week alongside a whiskey library serving Indian-inflected dishes. On TripAdvisor it sits in the upper third of Singapore's roughly 380 hotels, and reviews consistently highlight the bold, unconventional design as the property's defining strength, alongside friendly and professional service and at least one detailed account of repeated elite recognition over an extended stay. As a compact lifestyle hotel, it fits travelers drawn to design and atmosphere over resort-style amenities, and its Jalan Besar-area location suits those prioritizing heritage neighborhoods over Orchard Road or Marina Bay proximity. The clearest recurring watchouts are structural rather than service-related: there is no pool, breakfast is limited to two items per order, some reviews mention waiting for check-in during busy periods, and the hotel isn't directly connected to an MRT station even though two lines are within walking distance.",
+  "core_facts": {
+    "address": "39 Syed Alwi Road, Singapore 207630",
+    "brand_sub_brand": "Tribute Portfolio",
+    "neighborhood": "Jalan Besar / Kampong Glam / Little India",
+    "distance_from_airport_km": 17,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Distinctive Jacques Garcia design -- his first project in Asia -- draws consistent praise",
+    "The Salon's live jazz and whiskey library give the hotel a distinct social scene",
+    "Friendly, professional service, including strong recognition for repeat and elite guests",
+    "Walking distance to the heritage neighborhoods of Kampong Glam and Little India"
+  ],
+  "cons": [
+    "No pool on-site",
+    "Breakfast is limited to two items per order",
+    "Not directly connected to an MRT station, and check-in waits are mentioned during busy periods"
+  ],
+  "research_highlights": [
+    "The bold, Art Deco-inspired design is the single most repeated praise point",
+    "Elite and repeat guests describe consistently attentive, personalized service"
+  ],
+  "research_watchouts": [
+    "No pool, and breakfast is limited to two items per order",
+    "The hotel is a short walk, not a direct connection, from the nearest MRT stations"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Does The Vagabond Club, Singapore have a pool?",
+      "answer": "No -- as a compact boutique hotel built into a converted 1950s Art Deco building, it does not have a pool. Guests who prioritize resort-style amenities may prefer a larger full-service hotel elsewhere in the city."
+    },
+    {
+      "question": "How close is The Vagabond Club to Little India and Kampong Glam?",
+      "answer": "It's within easy walking distance of both -- the hotel sits on Syed Alwi Road in the Jalan Besar area, bordering Little India and Kampong Glam, though it isn't directly connected to an MRT station."
+    }
+  ],
+  "tags": ["boutique", "little india", "design hotel"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinvb-the-vagabond-club-singapore-a-tribute-portfolio-hotel/overview/",
+      "label": "Official The Vagabond Club Singapore overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d7659569-Reviews-The_Vagabond_Club_Singapore_a_Tribute_Portfolio_Hotel-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinvb-the-vagabond-club-singapore-a-tribute-portfolio-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["duxton-reserve-singapore-autograph-collection", "singapore-edition"],
+  "reliability_score": 67,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

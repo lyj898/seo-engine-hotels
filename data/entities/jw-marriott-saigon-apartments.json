@@ -1,0 +1,79 @@
+{
+  "entity_id": "jw-marriott-saigon-apartments",
+  "slug": "jw-marriott-saigon-apartments",
+  "name": "JW Marriott Hotel & Suites Saigon, The Apartments",
+  "category_id": "marriott-bonvoy",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "The residential-tower half of the JW Marriott Saigon complex in District 1, booked separately for extended stays near Nguyen Du and Le Van Huu streets.",
+  "ai_summary": "JW Marriott Hotel & Suites Saigon, The Apartments is the residential tower of the same downtown District 1 complex as JW Marriott Hotel & Suites Saigon, with its own entrance near Nguyen Du and Le Van Huu streets and its own Marriott.com booking page and TripAdvisor listing. It's aimed at longer, apartment-style stays, with one- to three-bedroom units offering separate living and dining areas and kitchenettes, while guests still have access to the shared complex's pool, fitness facilities, and dining. Guest reviews echo the main hotel's strengths: a central location convenient for exploring District 1, spacious rooms well suited to families or extended stays, and a wide range of amenities including the pool and executive lounge, with attentive and refined service repeatedly noted. As with the hotel side, some reviews mention dimmer or slightly outdated furniture in certain units and occasional water-pressure issues, and a few guests feel the premium pricing isn't always matched by consistent service. It suits travelers who want more space and a residential feel while staying within the same well-located complex as the JW Marriott hotel.",
+  "core_facts": {
+    "address": "Corner of Nguyen Du and Le Van Huu Streets, Saigon Ward, District 1, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "District 1 (Nguyen Du / Le Van Huu)",
+    "distance_from_airport_km": 7,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Apartment-style one- to three-bedroom units with separate living/dining areas and kitchenettes",
+    "Shares the central District 1 complex and its pool, executive lounge, and dining with the main JW Marriott hotel",
+    "Rooms are consistently described as spacious, well suited to families or longer stays",
+    "Refined, attentive service noted repeatedly across reviews"
+  ],
+  "cons": [
+    "Some units are described as dimmer or with slightly outdated furniture",
+    "Occasional water-pressure complaints in certain rooms",
+    "Premium pricing that a few reviewers feel isn't always matched by consistent service"
+  ],
+  "research_highlights": [
+    "The apartment-style layout with separate living/dining space is a consistent draw for families and longer stays",
+    "Access to the shared complex's pool and executive lounge draws repeated praise",
+    "Service is frequently described as attentive and refined"
+  ],
+  "research_watchouts": [
+    "A few reviews mention dim lighting or dated furniture in specific units",
+    "Occasional complaints about water pressure and service consistency relative to price"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is JW Marriott Hotel & Suites Saigon, The Apartments a separate hotel from JW Marriott Hotel & Suites Saigon?",
+      "answer": "It's a separate Marriott.com listing and booking product, but part of the same District 1 complex -- the hotel tower and this residential apartment tower share the same site, with the apartments entered from Nguyen Du and Le Van Huu streets."
+    },
+    {
+      "question": "Who is JW Marriott Hotel & Suites Saigon, The Apartments best suited for?",
+      "answer": "It suits families and guests on longer stays who want more living space -- units range from one to three bedrooms with separate living and dining areas and a kitchenette, while still offering access to the complex's pool, gym, and dining."
+    }
+  ],
+  "tags": ["district 1", "serviced apartments", "jw marriott"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sgnjt-jw-marriott-hotel-and-suites-saigon-the-apartments/overview/",
+      "label": "Official JW Marriott Hotel & Suites Saigon, The Apartments overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d1465027-Reviews-JW_Marriott_Hotel_Suites_Saigon_The_Apartments-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sgnjt-jw-marriott-hotel-and-suites-saigon-the-apartments/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-saigon", "sheraton-saigon-grand-opera", "renaissance-riverside-saigon"],
+  "reliability_score": 62,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

@@ -1,0 +1,80 @@
+{
+  "entity_id": "element-bali-ubud",
+  "slug": "element-bali-ubud",
+  "name": "Element Bali Ubud",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "An eco-focused, long-stay-friendly Element hotel on Jalan Raya Andong near Ubud's center, with a saline pool and wellness-oriented amenities.",
+  "ai_summary": "Element Bali Ubud sits on Jalan Raya Andong close to Ubud's center, positioned between the town's rice-field surroundings and its main attractions, with the Element brand's signature long-stay and wellness focus running through the property. Rated 4 of 5 across roughly 760 TripAdvisor reviews, it draws consistent praise for good value, a large saline swimming pool, and a spa at the on-site PancaMaya Wellness center. Guests frequently highlight the brand's complimentary Rise breakfast and Relax evening reception as strong value-adds, and rooms are described as spacious and clean with modern amenities. Staff are repeatedly described as warm and welcoming, and the hotel's shuttle service and proximity to Ubud Palace and the Campuhan Ridge Walk are cited as practical conveniences. Watchouts are mostly minor: a few reviewers note occasional inefficiencies in service and some mention humidity or maintenance issues typical of Ubud's tropical, forested setting, and some guests feel the overall experience falls short of a true five-star resort despite strong individual reviews. For travelers who want an eco-conscious, wellness-oriented Bonvoy stay near central Ubud rather than a large luxury resort, it's a solidly reviewed choice.",
+  "core_facts": {
+    "address": "Jalan Raya Andong No. 88, Ubud, Bali, Indonesia 80571",
+    "brand_sub_brand": "Element",
+    "neighborhood": "Ubud",
+    "distance_from_airport_km": 29,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Located on Jalan Raya Andong close to Ubud's center, near Ubud Palace and the Campuhan Ridge Walk",
+    "Rated 4 of 5 across roughly 760 TripAdvisor reviews",
+    "Large saline swimming pool and PancaMaya Wellness spa draw consistent praise",
+    "Complimentary Rise breakfast and Relax evening reception are frequently cited as strong value-adds",
+    "Staff are repeatedly described as warm, welcoming, and attentive"
+  ],
+  "cons": [
+    "A few reviewers note occasional inefficiencies in service",
+    "Some guests mention humidity or maintenance issues typical of Ubud's tropical setting",
+    "Some travelers feel the overall experience falls short of full five-star resort standards"
+  ],
+  "research_highlights": [
+    "The saline pool and PancaMaya Wellness spa are called out as standout amenities",
+    "The complimentary Rise breakfast and Relax evening reception draw consistent praise as value-adds",
+    "Staff are described as warm and welcoming, helping guests feel at home"
+  ],
+  "research_watchouts": [
+    "A handful of reviews mention occasional service inefficiencies",
+    "Some guests note humidity or maintenance issues typical of Ubud's tropical, forested environment"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Element Bali Ubud close to Ubud's town center?",
+      "answer": "Yes -- it's located on Jalan Raya Andong close to Ubud's center, within reach of Ubud Palace and the Campuhan Ridge Walk, and the hotel also offers a shuttle for getting around."
+    },
+    {
+      "question": "Does Element Bali Ubud include breakfast?",
+      "answer": "Yes -- the brand's signature complimentary Rise breakfast and Relax evening reception are included and are frequently cited by guests as strong value-adds at this property, alongside the large saline pool and PancaMaya Wellness spa."
+    }
+  ],
+  "tags": ["ubud", "wellness", "eco-friendly"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsel-element-bali-ubud/overview/",
+      "label": "Official Element Bali Ubud overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297701-d13399688-Reviews-Element_Bali_Ubud-Ubud_Gianyar_Regency_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsel-element-bali-ubud/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["westin-resort-spa-ubud-bali", "sthala-tribute-portfolio-ubud-bali", "jw-marriott-bali-ubud"],
+  "reliability_score": 60,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

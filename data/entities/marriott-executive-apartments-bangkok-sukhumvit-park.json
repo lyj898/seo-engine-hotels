@@ -1,0 +1,78 @@
+{
+  "entity_id": "marriott-executive-apartments-bangkok-sukhumvit-park",
+  "slug": "marriott-executive-apartments-bangkok-sukhumvit-park",
+  "name": "Marriott Executive Apartments Sukhumvit Park, Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A Marriott Executive Apartments property off Sukhumvit Soi 24 near Phrom Phong, offering spacious long-stay-friendly apartments.",
+  "ai_summary": "Marriott Executive Apartments Sukhumvit Park, Bangkok sits just off Sukhumvit Soi 24 near Phrom Phong, a short walk from the BTS station and the Emporium/EmQuartier shopping complex, with a complimentary shuttle available for the stretch in between. As a Marriott Executive Apartments property, it's built around spacious, well-equipped units aimed at families and longer-stay guests rather than the compact rooms typical of a standard hotel. Guest reviews are unusually strong for the category: the property is ranked #1 among Bangkok's more than 1,300 TripAdvisor-listed hotels and rated 4 of 5, with cleanliness, the central-but-tranquil setting, and overall value repeatedly singled out for praise. Reviewers describe the atmosphere as notably calm relative to its Sukhumvit-corridor location, and many highlight the apartments as well suited to families needing extra space and kitchen facilities. The recurring watchout in guest feedback is billing: a number of travelers mention unexpected charges appearing on their final bill that weren't clearly flagged at booking or check-in, which is worth confirming directly with the property in advance. Overall it's a strong fit for Marriott Bonvoy members planning an extended Bangkok stay, or families who want more living space than a standard Sukhumvit hotel room, within easy reach of Phrom Phong's shopping and dining.",
+  "core_facts": {
+    "address": "90 Sukhumvit Soi 24, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Marriott Executive Apartments",
+    "neighborhood": "Sukhumvit Soi 24 / Phrom Phong",
+    "distance_from_airport_km": 21,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Ranked #1 among Bangkok's 1,300+ TripAdvisor-listed hotels, with a 4-of-5 rating",
+    "Spacious apartment-style units well suited to families and extended stays",
+    "Complimentary shuttle to BTS Phrom Phong and nearby shopping at Emporium/EmQuartier",
+    "Guests consistently describe the setting as tranquil despite the central Sukhumvit location"
+  ],
+  "cons": [
+    "Some guests report unexpected charges appearing on the final bill",
+    "As an apartment-style property, it lacks some full-service hotel amenities like an extensive restaurant selection",
+    "Longer-stay pricing structure may not suit travelers looking for a short one- or two-night stay"
+  ],
+  "research_highlights": [
+    "Consistently ranked at or near the top of Bangkok's TripAdvisor hotel listings",
+    "Cleanliness and a tranquil, central setting are repeated guest-review themes",
+    "Families highlight the extra space and practicality of the apartment layout"
+  ],
+  "research_watchouts": [
+    "A number of guests report unexpected charges on their final bill"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Marriott Executive Apartments Sukhumvit Park suited to families?",
+      "answer": "Yes -- the apartment-style units offer more space and kitchen facilities than a standard hotel room, and guest reviews specifically highlight the property as a good fit for families needing room to spread out during a Bangkok stay."
+    },
+    {
+      "question": "Are there any billing issues to watch for at this property?",
+      "answer": "Some guests have reported unexpected charges appearing on their final bill that weren't clearly explained at booking or check-in. It's worth confirming what's included in your rate directly with the property before you arrive."
+    }
+  ],
+  "tags": ["sukhumvit", "executive apartments", "family"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkksp-marriott-executive-apartments-sukhumvit-park-bangkok/overview/",
+      "label": "Official Marriott Executive Apartments Sukhumvit Park overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1509981-Reviews-Marriott_Executive_Apartments_Sukhumvit_Park_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkksp-marriott-executive-apartments-sukhumvit-park-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["marriott-executive-apartments-bangkok-sukhumvit-50", "bangkok-marriott-sukhumvit", "aloft-bangkok-sukhumvit-11"],
+  "reliability_score": 67,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

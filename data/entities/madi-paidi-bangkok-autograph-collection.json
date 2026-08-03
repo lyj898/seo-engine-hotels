@@ -1,0 +1,78 @@
+{
+  "entity_id": "madi-paidi-bangkok-autograph-collection",
+  "slug": "madi-paidi-bangkok-autograph-collection",
+  "name": "Madi Paidi Bangkok, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A boutique Autograph Collection hotel on Soi Sukhumvit 53 in Thong Lor, steps from the BTS, with Thai-inspired design and a rooftop pool.",
+  "ai_summary": "Madi Paidi Bangkok, Autograph Collection is a boutique hotel tucked on Soi Sukhumvit 53 (Soi Pai Dee Ma Dee), a residential lane just steps from Thong Lor BTS station and the surrounding Thong Lor dining scene. The design leans on traditional Thai motifs -- 'chalew' bamboo symbols associated with safe travel appear throughout -- paired with rich jewel-toned interiors across its boutique room count. Rated 4 of 5 on TripAdvisor, it draws strongly positive, if still relatively modest-sized, review coverage: guests repeatedly describe the service as attentive and genuinely kind, several reviewers specifically call it a standout compared to larger five-star hotels they've stayed at across Asia, and the free amenities and breakfast are described as unusually generous for the rate. The rooftop pool and tranquil, boutique atmosphere are also recurring highlights, with reviewers describing it as offering a luxury feel at a comparatively accessible price. Because it's a smaller boutique property and part of a newer Autograph Collection cohort in Bangkok, its review base is thinner than the city's larger full-service hotels, so guests should treat individual reviews as more influential on the overall picture. It suits travelers who want a design-led, service-forward boutique stay in the Thong Lor neighborhood.",
+  "core_facts": {
+    "address": "22 Soi Sukhumvit 53, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Thong Lor / Sukhumvit Soi 53",
+    "distance_from_airport_km": 24,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Attentive, genuinely warm service repeatedly singled out as a standout by guests",
+    "Generous free amenities and breakfast relative to the room rate",
+    "Distinctive Thai-inspired boutique design, with traditional motifs throughout",
+    "Steps from Thong Lor BTS station and the surrounding restaurant and bar scene"
+  ],
+  "cons": [
+    "As a smaller boutique property, its TripAdvisor review base is thinner than the city's larger hotels",
+    "Being on a residential soi means it's a short walk rather than a direct BTS-adjacent location",
+    "Limited on-site dining variety compared to full-service Bonvoy hotels nearby"
+  ],
+  "research_highlights": [
+    "Service is repeatedly described as attentive and kind, with several guests calling it a standout",
+    "Free amenities and breakfast are described as generous relative to the rate",
+    "The rooftop pool and Thai-inspired boutique design draw consistent praise"
+  ],
+  "research_watchouts": [
+    "The review base is smaller than the city's larger full-service hotels, given its boutique scale"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "What makes Madi Paidi Bangkok's design distinctive?",
+      "answer": "It's built around traditional Thai motifs, including 'chalew' bamboo symbols associated with safe travel, paired with rich jewel-toned interiors. It's a boutique, design-forward alternative to the larger corporate-style hotels elsewhere in the Sukhumvit corridor."
+    },
+    {
+      "question": "Is Madi Paidi Bangkok close to Thong Lor's restaurants?",
+      "answer": "Yes -- it sits on Soi Sukhumvit 53, just steps from Thong Lor BTS station and the neighborhood's dining and nightlife scene, making it a convenient boutique base for exploring one of Bangkok's trendier districts."
+    }
+  ],
+  "tags": ["thong lor", "boutique", "autograph collection"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkbh-madi-paidi-bangkok-autograph-collection/overview/",
+      "label": "Official Madi Paidi Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d25564953-Reviews-Madi_Paidi_Bangkok_Autograph_Collection-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkbh-madi-paidi-bangkok-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-muse-bangkok-autograph-collection", "metropole-bangkok-tribute-portfolio", "bangkok-marriott-sukhumvit"],
+  "reliability_score": 60,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

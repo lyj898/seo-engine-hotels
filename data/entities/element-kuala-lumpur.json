@@ -1,0 +1,79 @@
+{
+  "entity_id": "element-kuala-lumpur",
+  "slug": "element-kuala-lumpur",
+  "name": "Element Kuala Lumpur",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A long-stay-oriented Element occupying the top floors of the Foster + Partners-designed Ilham Tower on Jalan Binjai, near KLCC.",
+  "ai_summary": "Element Kuala Lumpur occupies the upper floors of Ilham Tower on Jalan Binjai, a Green Building Index-certified skyscraper designed by Foster + Partners, with its lobby on the 40th floor and rooms spanning floors 41 to 53. The Petronas Twin Towers are visible and within a short distance, and KLCC's convention centre and Pavilion mall are both under two kilometers away. Built for both short stopovers and longer stays, the hotel features studios and suites with floor-to-ceiling windows, in-room kitchenettes, and the brand's signature Westin Heavenly Bed. Guest reviews consistently highlight the dramatic skyline views from height, spacious and comfortable rooms, and a relaxed, modern design aesthetic. Executive suites with two bathrooms and a full living room draw specific praise for longer-stay guests. Marriott Bonvoy elite members report feeling well recognized here. The complaints that surface are minor and mostly about finishing touches -- some guests suggest larger or thicker towels, ceramic rather than plastic toilet seats, and better TV console setups, and at least one review noted frustration when an in-app request for extra towels wasn't fulfilled. It suits business travelers, longer-stay guests wanting a kitchenette, and anyone prioritizing height and skyline views near KLCC.",
+  "core_facts": {
+    "address": "Ilham Tower, 8 Jalan Binjai, Kuala Lumpur, 50450, Malaysia",
+    "brand_sub_brand": "Element",
+    "neighborhood": "KLCC",
+    "distance_from_airport_km": 57,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Occupies the top floors of Ilham Tower, with dramatic skyline views and Petronas Twin Towers visible from many rooms",
+    "In-room kitchenettes and Executive Suites with two bathrooms suit longer stays and families",
+    "Rooms feature floor-to-ceiling windows, the Westin Heavenly Bed, and a relaxed, modern design",
+    "Marriott Bonvoy elite members report feeling well recognized at this property"
+  ],
+  "cons": [
+    "Some guests suggest small finishing-touch upgrades, such as larger towels and ceramic toilet seats",
+    "At least one review noted an in-app request for extra towels that wasn't fulfilled",
+    "As a long-stay-oriented brand, it has a more understated design than the city's design-forward luxury hotels"
+  ],
+  "research_highlights": [
+    "Skyline views from Ilham Tower's upper floors are a defining, frequently praised feature",
+    "In-room kitchenettes and Executive Suites are specifically praised for longer stays",
+    "Marriott Bonvoy elite members report feeling well recognized during their stay"
+  ],
+  "research_watchouts": [
+    "Minor in-room finishing touches, such as towel size and toilet seat material, are recurring small complaints",
+    "At least one review flagged an unfulfilled in-app amenity request"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Does Element Kuala Lumpur have kitchenettes?",
+      "answer": "Yes -- as a long-stay-oriented Marriott Bonvoy brand, Element Kuala Lumpur's studios and suites include in-room kitchenettes, and Executive Suites add a full living room and two and a half bathrooms, making it well suited to extended stays."
+    },
+    {
+      "question": "Where is Element Kuala Lumpur located?",
+      "answer": "It occupies the upper floors, 41 through 53, of Ilham Tower on Jalan Binjai near KLCC, with the lobby on the 40th floor, putting the Petronas Twin Towers, KLCC convention centre, and Pavilion mall all within about two kilometers."
+    }
+  ],
+  "tags": ["long-stay", "klcc", "skyline views"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulel-element-kuala-lumpur/overview/",
+      "label": "Official Element Kuala Lumpur overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d11835135-Reviews-Element_by_Marriott_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulel-element-kuala-lumpur/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["w-kuala-lumpur", "ritz-carlton-kuala-lumpur", "ac-hotel-kuala-lumpur"],
+  "reliability_score": 63,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

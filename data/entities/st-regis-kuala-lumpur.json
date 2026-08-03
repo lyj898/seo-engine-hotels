@@ -1,0 +1,79 @@
+{
+  "entity_id": "st-regis-kuala-lumpur",
+  "slug": "st-regis-kuala-lumpur",
+  "name": "The St. Regis Kuala Lumpur",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A butler-serviced St. Regis on Jalan Stesen Sentral 2, built into the KL Sentral transit hub.",
+  "ai_summary": "The St. Regis Kuala Lumpur occupies a tower in KL Sentral, the city's main transportation hub, giving it direct access to the KLIA Ekspres airport rail line along with the MRT, LRT, and Monorail networks. As a top-tier Bonvoy luxury property, it carries the brand's signature butler service, and guest reviews back that up: the attentive, personalized service and the elaborate breakfast buffet -- complete with round-the-clock coffee and tea delivery and daily turndown touches -- draw consistent praise. Rooms are among the largest in the city for this category, with several specialty suites running well over 100 square meters. That said, feedback is more mixed than at some peer properties: a number of guests describe the overall atmosphere as more business-like than glamorous for a St. Regis, and a handful of reviews note cleanliness or service execution falling short of what the brand promises elsewhere in the region, with comparisons unfavorably drawn to the St. Regis in Singapore. Value perception varies by guest as well. It suits business travelers and transit-dependent leisure visitors who prioritize KL Sentral's connectivity and want a full-service butler experience, more than those chasing a flawless five-star atmosphere.",
+  "core_facts": {
+    "address": "6 Jalan Stesen Sentral 2, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "St. Regis",
+    "neighborhood": "KL Sentral",
+    "distance_from_airport_km": 50,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Built directly into KL Sentral, with direct KLIA Ekspres, MRT, LRT, and Monorail access",
+    "Signature St. Regis butler service draws consistent praise",
+    "Breakfast buffet and round-the-clock coffee and tea delivery are well-regarded",
+    "Rooms and specialty suites are among the largest in the city for this category"
+  ],
+  "cons": [
+    "Several reviews describe the atmosphere as more business-like than glamorous for a St. Regis property",
+    "Some guests report cleanliness or service execution falling short of the brand's other Southeast Asia properties",
+    "Value perception is mixed, with some guests feeling the rate doesn't match a top-tier five-star experience"
+  ],
+  "research_highlights": [
+    "The butler service and breakfast offering are the most consistently praised elements",
+    "Guests repeatedly cite KL Sentral's transit connectivity, including direct KLIA Ekspres access, as a practical advantage",
+    "Room and suite sizes draw specific positive mentions"
+  ],
+  "research_watchouts": [
+    "Some guests describe the atmosphere and service execution as inconsistent with St. Regis expectations",
+    "Cleanliness standards have been questioned in at least a few reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is The St. Regis Kuala Lumpur connected to the airport train?",
+      "answer": "Yes -- the hotel is built directly into KL Sentral, giving guests direct access to the KLIA Ekspres line to the airport, along with the MRT, LRT, and Monorail, making it one of the most transit-connected luxury Bonvoy hotels in the city."
+    },
+    {
+      "question": "Does The St. Regis Kuala Lumpur offer butler service?",
+      "answer": "Yes -- it carries the brand's signature butler service, which guest reviews consistently cite as a highlight, including personalized attention and touches like daily turndown, though a few reviews note inconsistency in overall service execution."
+    }
+  ],
+  "tags": ["luxury", "kl sentral", "butler service"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulxr-the-st-regis-kuala-lumpur/overview/",
+      "label": "Official St. Regis Kuala Lumpur overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d9998062-Reviews-The_St_Regis_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulxr-the-st-regis-kuala-lumpur/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["le-meridien-kuala-lumpur", "aloft-kuala-lumpur-sentral", "the-majestic-kuala-lumpur-autograph-collection"],
+  "reliability_score": 65,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

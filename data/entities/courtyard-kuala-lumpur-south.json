@@ -1,0 +1,79 @@
+{
+  "entity_id": "courtyard-kuala-lumpur-south",
+  "slug": "courtyard-kuala-lumpur-south",
+  "name": "Courtyard by Marriott Kuala Lumpur South",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A newer select-service Courtyard inside Plaza Bukit Jalil, south of the city center near Pavilion Bukit Jalil and Axiata Arena.",
+  "ai_summary": "Courtyard by Marriott Kuala Lumpur South is set within Plaza Bukit Jalil in the Bukit Jalil area, south of Kuala Lumpur's main downtown core, within a few kilometers of Mid Valley Megamall and Axiata Arena. As a newer Courtyard, guest reviews consistently describe rooms and public areas as exceptionally clean and fresh, with several reviewers calling it a step up from other Courtyard properties they've stayed at. Staff service draws warm praise, with individual front-desk team members frequently singled out by name for going above and beyond. Substance, the hotel's restaurant, gets specific praise for its seafood buffet dinner and a la carte offerings, and the gym and pool are described as well maintained. The direct mall connection at Plaza Bukit Jalil is a practical convenience for guests. On the downside, a handful of reviews describe inconsistent housekeeping, including one report of a room not being cleaned and linens not changed on a second night, along with an isolated complaint about an argumentative front-desk interaction. Being in Bukit Jalil rather than downtown, it also requires a taxi or ride-hailing trip to reach KLCC or Bukit Bintang. It suits value-conscious travelers, event-goers visiting Axiata Arena, and guests who prioritize a fresh, well-maintained select-service stay over a downtown address.",
+  "core_facts": {
+    "address": "Plaza Bukit Jalil, No.1 Jalan Persiaran Jalil 1, Bandar Bukit Jalil, 57000 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Courtyard by Marriott",
+    "neighborhood": "Bukit Jalil",
+    "distance_from_airport_km": 40,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Set within Plaza Bukit Jalil, near Mid Valley Megamall and Axiata Arena",
+    "Guests consistently describe the property as exceptionally clean and fresh, above the typical Courtyard standard",
+    "Front-desk staff draw warm, specific praise for going above and beyond",
+    "Substance restaurant's seafood buffet and a la carte menu, plus the gym and pool, are well regarded"
+  ],
+  "cons": [
+    "Located in Bukit Jalil, south of downtown, requiring a taxi or ride-hailing trip to reach KLCC or Bukit Bintang",
+    "A handful of reviews describe inconsistent housekeeping, including an unclean room on a return night",
+    "At least one review described an argumentative front-desk interaction"
+  ],
+  "research_highlights": [
+    "Cleanliness and freshness are repeatedly described as standing out relative to other Courtyard properties",
+    "Front-desk staff are praised by name for attentive, above-and-beyond service",
+    "Substance restaurant's seafood buffet and general dining quality draw consistent praise"
+  ],
+  "research_watchouts": [
+    "A handful of reviews describe inconsistent housekeeping on multi-night stays",
+    "The Bukit Jalil location means a taxi or ride-hailing trip is needed to reach the main downtown core"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Courtyard by Marriott Kuala Lumpur South close to downtown Kuala Lumpur?",
+      "answer": "Not directly -- it's in Bukit Jalil, south of the main KLCC and Bukit Bintang core, within a few kilometers of Mid Valley Megamall and Axiata Arena, so reaching downtown landmarks typically requires a taxi or ride-hailing trip."
+    },
+    {
+      "question": "Is Courtyard by Marriott Kuala Lumpur South a new hotel?",
+      "answer": "Yes -- it's a newer property, and guest reviews consistently describe it as exceptionally clean and fresh, with several reviewers noting it feels like a step up from other Courtyard hotels they've stayed at."
+    }
+  ],
+  "tags": ["select-service", "bukit jalil", "value"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulcs-courtyard-kuala-lumpur-south/overview/",
+      "label": "Official Courtyard Kuala Lumpur South overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d27536120-Reviews-Courtyard_by_Marriott_Kuala_Lumpur_South-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulcs-courtyard-kuala-lumpur-south/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-kuala-lumpur-city-centre", "ac-hotel-kuala-lumpur", "aloft-kuala-lumpur-sentral"],
+  "reliability_score": 61,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

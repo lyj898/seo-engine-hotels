@@ -1,0 +1,80 @@
+{
+  "entity_id": "fairfield-bali-south-kuta",
+  "slug": "fairfield-bali-south-kuta",
+  "name": "Fairfield by Marriott Bali South Kuta",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A select-service Fairfield in South Kuta, under 10 minutes from the airport and a short walk from Jerman Beach and Waterbom Bali.",
+  "ai_summary": "Fairfield by Marriott Bali South Kuta is a select-service hotel positioned less than 10 minutes from Ngurah Rai International Airport and a short walk from Jerman Beach, with Waterbom Bali, Lippo Mall Kuta, and the Discovery Shopping Mall all nearby. Rated 4 of 5 across roughly 500 TripAdvisor reviews and ranked among the top 20 of nearly 300 Kuta-area hotels, it draws consistent praise for a clean, attractive property with simply decorated but comfortable rooms and high-quality pillows. Staff are repeatedly described as friendly and helpful, check-in is called smooth, and the rooftop pool draws specific praise for its views over Kuta. Dining, including Dery's Restaurant and the rooftop Cabana Pool & Sky Bar, is described as consistently good, with reviewers highlighting attentive restaurant service. Guests frame it as a reasonably priced, well-located option, especially for late arrivals or early departures given its airport proximity. The clearest recurring watchouts are that pool-area drinks are seen by some as pricey, and at roughly a 15-minute walk from the beach, it's not a true beachfront stay. For travelers who prioritize airport convenience and a clean, friendly select-service base over beachfront access, it's a well-reviewed choice among Bali's Bonvoy properties.",
+  "core_facts": {
+    "address": "Jalan Wana Segara No. 25, Kuta, Bali, Indonesia 80361",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "South Kuta",
+    "distance_from_airport_km": 5,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Under 10 minutes from Ngurah Rai International Airport and a short walk from Jerman Beach",
+    "Rated 4 of 5 across roughly 500 TripAdvisor reviews, ranked among the top 20 of nearly 300 Kuta-area hotels",
+    "Rooms are described as clean and comfortable, with high-quality pillows and simple, tidy decor",
+    "Staff are repeatedly praised as friendly, helpful, and efficient at check-in",
+    "Rooftop pool with views over Kuta is a specific, frequently cited highlight"
+  ],
+  "cons": [
+    "Pool-area drinks are noted by some guests as pricey",
+    "At roughly a 15-minute walk from the beach, it isn't a true beachfront property",
+    "As a select-service Fairfield, amenities are more limited than a full-service resort"
+  ],
+  "research_highlights": [
+    "The property is described as clean and attractive throughout, with comfortable, simply decorated rooms",
+    "Staff and the restaurant team draw specific praise for friendliness and attentive service",
+    "The rooftop pool is called a real plus, with strong views of the surrounding Kuta area"
+  ],
+  "research_watchouts": [
+    "Some guests find pool-area drinks pricey relative to the room rate",
+    "The hotel is roughly a 15-minute walk from the beach rather than beachfront"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "How far is Fairfield by Marriott Bali South Kuta from the airport?",
+      "answer": "It's under 10 minutes from Ngurah Rai International Airport, making it a convenient choice for late arrivals or early departures, and it's also a short walk from Jerman Beach and Waterbom Bali."
+    },
+    {
+      "question": "Is Fairfield by Marriott Bali South Kuta on the beach?",
+      "answer": "No -- it sits roughly a 15-minute walk from the beach rather than directly on it, though guests consistently praise its rooftop pool, clean rooms, and airport-convenient South Kuta location."
+    }
+  ],
+  "tags": ["south kuta", "select-service", "airport-convenient"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpssk-fairfield-bali-south-kuta/overview/",
+      "label": "Official Fairfield by Marriott Bali South Kuta overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297697-d10473814-Reviews-Fairfield_by_Marriott_Bali_South_Kuta-Kuta_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpssk-fairfield-bali-south-kuta/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairfield-bali-kuta-sunset-road", "fairfield-bali-legian", "four-points-bali-kuta"],
+  "reliability_score": 60,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

@@ -1,0 +1,78 @@
+{
+  "entity_id": "four-points-singapore-riverview",
+  "slug": "four-points-singapore-riverview",
+  "name": "Four Points by Sheraton Singapore, Riverview",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "Singapore's first Four Points by Sheraton, on the Singapore River in Robertson Quay, near Havelock MRT and the CBD.",
+  "ai_summary": "Four Points by Sheraton Singapore, Riverview sits on Havelock Road along the Singapore River in Robertson Quay, a five-minute walk from Havelock MRT and a short ride from the CBD, Clarke Quay, and Orchard Road. As Singapore's first Four Points property, the hotel is built for straightforward business and leisure stays, with an on-site mall, three restaurants, a rooftop garden, and an outdoor pool alongside a 24-hour fitness centre. Guest reviews describe the riverside location as a genuine advantage for reaching restaurants and attractions on foot, and rooms are repeatedly called modern, clean, and comfortable, with river or city views from most floors. Service draws praise for being attentive and professional, though with occasional inconsistencies noted, and Elite members report solid breakfast and lounge-drink benefits even if upgrades are limited. As a select-service brand, it's positioned as a value-oriented base for travelers who want the Robertson Quay/CBD location without a luxury-hotel price tag. The recurring watchouts are the kind typical of a busy select-service property: some guests mention occasional maintenance or noise issues in rooms, housekeeping that isn't always responsive to specific requests, and unexpected extra charges on amenities that guests assumed were included.",
+  "core_facts": {
+    "address": "382 Havelock Road, Singapore 169629",
+    "brand_sub_brand": "Four Points",
+    "neighborhood": "Robertson Quay",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Riverside Robertson Quay location within walking distance of restaurants, Clarke Quay, and the CBD",
+    "Rooms are repeatedly described as modern, clean, and comfortable with river or city views",
+    "Singapore's first Four Points property, with an on-site mall, rooftop garden, and outdoor pool",
+    "Elite members report solid breakfast and lounge-drink benefits"
+  ],
+  "cons": [
+    "Some reviews mention occasional maintenance or noise issues in rooms",
+    "Housekeeping is described as not always responsive to specific requests",
+    "A few guests note unexpected extra charges on amenities they assumed were included"
+  ],
+  "research_highlights": [
+    "The riverside Robertson Quay location is repeatedly cited as a practical advantage",
+    "Rooms are consistently described as modern, clean, and comfortable"
+  ],
+  "research_watchouts": [
+    "Occasional maintenance, noise, and unresponsive housekeeping are the most repeated complaints",
+    "Some amenities carry extra charges guests didn't expect"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Singapore, Riverview close to the CBD?",
+      "answer": "Yes -- it sits on the Singapore River in Robertson Quay, a five-minute walk from Havelock MRT and a short ride from the Central Business District, Clarke Quay, and Orchard Road, making it a practical base for both business and leisure."
+    },
+    {
+      "question": "Does Four Points by Sheraton Singapore, Riverview have a pool?",
+      "answer": "Yes -- the hotel has an outdoor pool along with a 24-hour fitness centre, an on-site mall, three restaurants, and a rooftop garden, positioning it as a value-oriented, select-service option in the Robertson Quay area."
+    }
+  ],
+  "tags": ["robertson quay", "select-service", "river view"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinfp-four-points-singapore-riverview/overview/",
+      "label": "Official Four Points by Sheraton Singapore, Riverview overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d306107-Reviews-Four_Points_by_Sheraton_Singapore_Riverview-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinfp-four-points-singapore-riverview/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["duxton-reserve-singapore-autograph-collection", "courtyard-singapore-novena"],
+  "reliability_score": 62,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

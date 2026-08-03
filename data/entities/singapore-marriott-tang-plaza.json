@@ -1,0 +1,78 @@
+{
+  "entity_id": "singapore-marriott-tang-plaza",
+  "slug": "singapore-marriott-tang-plaza",
+  "name": "Singapore Marriott Tang Plaza Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A full-service Marriott Hotels property directly on Orchard Road, with M Club lounge access for select room categories.",
+  "ai_summary": "Singapore Marriott Tang Plaza Hotel is a full-service Marriott Hotels property at 320 Orchard Road, with the hotel entrance opening directly onto Orchard MRT station, putting shopping, dining, and entertainment on the doorstep. The hotel offers M Club lounge access for select room categories, Cantonese and international dining options, an outdoor pool, a 24-hour fitness centre, and over 18,000 square feet of event space including a grand ballroom used for weddings and corporate functions. Guest reviews consistently rank the Orchard Road location as the hotel's strongest asset, alongside friendly, professional front-line staff and generally high marks for cleanliness. As one of the more established Marriott-branded hotels in the city, it suits travelers who prioritize a proven, full-service format and unbeatable Orchard Road access over the newest design or the highest-end luxury tier. The clearest recurring watchouts concern the building's age: guest rooms and corridors are described by some reviewers as dated and in need of updating, elevators are frequently called out as slow, with guests advised to budget extra time in the mornings, and several reviews argue the hotel doesn't fully deliver value for money at current rates relative to newer competitors nearby.",
+  "core_facts": {
+    "address": "320 Orchard Road, Singapore 238865",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Orchard Road",
+    "distance_from_airport_km": 21,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Direct access to Orchard MRT station and Orchard Road's shopping and dining",
+    "M Club lounge access for select room categories",
+    "Over 18,000 sq ft of event space, including a grand ballroom, popular for weddings",
+    "Friendly, professional staff and consistently high cleanliness marks"
+  ],
+  "cons": [
+    "Guest rooms and corridors are described by some reviewers as dated",
+    "Elevators are frequently called out as slow, especially during morning peak",
+    "Several reviews question value for money relative to newer Orchard Road competitors"
+  ],
+  "research_highlights": [
+    "The Orchard Road location and MRT access are the most repeated praise points",
+    "Staff friendliness and cleanliness draw consistent positive mentions"
+  ],
+  "research_watchouts": [
+    "Slow elevators are a frequently repeated complaint, especially during morning peak times",
+    "Rooms and corridors are described by some guests as dated and due for refresh"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "How close is Singapore Marriott Tang Plaza Hotel to Orchard Road shopping?",
+      "answer": "It's about as close as it gets -- the hotel sits directly on Orchard Road with Orchard MRT station at its doorstep, putting the district's shopping, dining, and entertainment within a short walk of the lobby."
+    },
+    {
+      "question": "Are the rooms at Singapore Marriott Tang Plaza Hotel updated?",
+      "answer": "Reviews are mixed -- while staff and cleanliness draw praise, several guests describe guest rooms and corridors as dated, and elevators are frequently called out as slow, particularly during morning peak periods. Budget extra time accordingly."
+    }
+  ],
+  "tags": ["orchard road", "full-service", "business"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sindt-singapore-marriott-tang-plaza-hotel/overview/",
+      "label": "Official Singapore Marriott Tang Plaza Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d299774-Reviews-Singapore_Marriott_Tang_Plaza_Hotel-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sindt-singapore-marriott-tang-plaza-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["singapore-edition", "jw-marriott-singapore-south-beach"],
+  "reliability_score": 66,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

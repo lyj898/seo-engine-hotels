@@ -1,0 +1,79 @@
+{
+  "entity_id": "hotel-stripes-kuala-lumpur-autograph-collection",
+  "slug": "hotel-stripes-kuala-lumpur-autograph-collection",
+  "name": "Hotel Stripes Kuala Lumpur, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "An edgy boutique Autograph Collection hotel on Jalan Kamunting near Chow Kit, in Kuala Lumpur's business district.",
+  "ai_summary": "Hotel Stripes Kuala Lumpur, Autograph Collection sits on Jalan Kamunting at the corner of Jalan Sultan Ismail, near the Chow Kit area on the northern edge of the Golden Triangle business district. It positions itself as a design-led boutique alternative to the city's larger full-service hotels, and guest reviews largely back that identity: the rooftop pool and its views draw some of the most enthusiastic comments among this directory's Kuala Lumpur properties, and rooms are frequently described as well designed, modern, and comfortable, including praise for an above-average walk-in shower. Check-in is repeatedly described as quick and pleasant, and staff are called respectful and accommodating. The nearby business district gives easy access to restaurants, art galleries, shops, and city landmarks. As a smaller boutique property, its complaints skew toward space constraints rather than service quality -- limited outdoor seating by the pool is one specific watchout, and a few guests found the compact scale left less to do on-site compared to a larger resort-style hotel. It suits design-conscious travelers and couples looking for a stylish, well-located boutique stay over a large convention-style hotel.",
+  "core_facts": {
+    "address": "25 Jalan Kamunting, Kuala Lumpur, 50300, Malaysia",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Chow Kit / Golden Triangle",
+    "distance_from_airport_km": 60,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Rooftop pool and its views are among the most enthusiastically reviewed in this directory's Kuala Lumpur list",
+    "Rooms are described as well designed, modern, and comfortable, with a standout walk-in shower",
+    "Check-in is repeatedly described as quick and pleasant, with respectful, accommodating staff",
+    "Business-district location gives easy access to restaurants, art galleries, and shops"
+  ],
+  "cons": [
+    "Outdoor seating by the rooftop pool is limited",
+    "As a smaller boutique property, on-site amenities are more limited than at larger resort-style hotels",
+    "Detailed guest complaints are relatively thin in available review sources, so watchouts are less established than for larger competitors"
+  ],
+  "research_highlights": [
+    "The rooftop pool and its views are a standout, frequently praised feature",
+    "Rooms and the walk-in shower draw specific positive mentions",
+    "Check-in speed and staff friendliness are repeatedly highlighted"
+  ],
+  "research_watchouts": [
+    "Limited outdoor seating by the pool is a specific, recurring watchout",
+    "As a boutique property, on-site amenities are more limited than larger full-service hotels"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Does Hotel Stripes Kuala Lumpur have a pool?",
+      "answer": "Yes -- it has a rooftop pool that draws some of the most consistently enthusiastic guest reviews of any Bonvoy property in this directory's Kuala Lumpur list, though outdoor seating around it is limited, so it can feel busy at peak times."
+    },
+    {
+      "question": "Is Hotel Stripes Kuala Lumpur a good boutique alternative to larger hotels?",
+      "answer": "Yes -- as a smaller, design-led Autograph Collection property near Chow Kit and the Golden Triangle, it suits travelers who want a stylish, well-located boutique stay with attentive service, rather than the scale and amenities of a large convention-style hotel."
+    }
+  ],
+  "tags": ["boutique", "autograph collection", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulsp-hotel-stripes-kuala-lumpur-autograph-collection/overview/",
+      "label": "Official Hotel Stripes Kuala Lumpur overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d12004853-Reviews-Hotel_Stripes_Kuala_Lumpur_Autograph_Collection-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulsp-hotel-stripes-kuala-lumpur-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["the-majestic-kuala-lumpur-autograph-collection", "jw-marriott-kuala-lumpur", "ac-hotel-kuala-lumpur"],
+  "reliability_score": 62,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

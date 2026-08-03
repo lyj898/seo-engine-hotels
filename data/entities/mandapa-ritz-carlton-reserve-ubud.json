@@ -1,0 +1,80 @@
+{
+  "entity_id": "mandapa-ritz-carlton-reserve-ubud",
+  "slug": "mandapa-ritz-carlton-reserve-ubud",
+  "name": "Mandapa, a Ritz-Carlton Reserve",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "An ultra-luxury Ritz-Carlton Reserve in Kedewatan, Ubud, with roughly 60 suites and villas terraced above the Ayung River.",
+  "ai_summary": "Mandapa, a Ritz-Carlton Reserve occupies a secluded site in Kedewatan, on the outskirts of Ubud, with a small number of suites and villas -- roughly 60 in total -- terraced into the hillside above the Ayung River as one of only a handful of Ritz-Carlton Reserve properties worldwide. As Bonvoy's ultra-luxury tier, it sits apart in both price and points cost from every other property in this directory's Bali coverage, with award-travel redemptions running well into six figures in points per night. Guest reviews are overwhelmingly superlative, repeatedly describing the property as among the most beautiful hotels they've visited and the architecture as seamlessly blended into the river valley's natural terrain. Staff and butler service draw specific, named praise for responsiveness and making stays feel personal and stress-free, and the wellness center, children's play area, and multiple dining options round out the amenity set. Because it is Bali's rarest and most expensive Bonvoy property, this profile relies more on qualitative superlatives from available reviews than on a large aggregated review base or rating figure, and its Kedewatan/Ubud setting sits well inland, similar in distance from the airport to Bali's other Ubud-area resorts. For travelers seeking the top tier of Marriott's luxury portfolio in an intimate, nature-immersed Ubud setting, it stands apart from every other property in this directory.",
+  "core_facts": {
+    "address": "Jalan Kedewatan, Banjar Kedewatan, Ubud, Gianyar, Bali, Indonesia 80571",
+    "brand_sub_brand": "The Ritz-Carlton Reserve",
+    "neighborhood": "Ubud / Kedewatan",
+    "distance_from_airport_km": 34,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "One of only a handful of Ritz-Carlton Reserve properties worldwide, with roughly 60 suites and villas",
+    "Terraced hillside setting above the Ayung River in Kedewatan, Ubud",
+    "Guest reviews describe the architecture and grounds as among the most beautiful they've encountered",
+    "Butler and staff service draw specific, named praise for responsiveness and personal attention",
+    "Wellness center, children's play area, and multiple dining venues support an intimate, full-service luxury stay"
+  ],
+  "cons": [
+    "Bonvoy points redemptions run well into six figures per night, among the highest in the entire program",
+    "At roughly 34 km from the airport, it's a longer transfer than Bali's coastal Bonvoy resorts",
+    "With only around 60 keys, it can sell out well in advance for peak-season travel"
+  ],
+  "research_highlights": [
+    "Guests repeatedly describe the property as among the most beautiful hotels they have visited",
+    "The architecture is praised for blending seamlessly into the Ayung River valley's natural terrain",
+    "Butler service and individual staff members draw specific, named praise for responsiveness"
+  ],
+  "research_watchouts": [
+    "As Bonvoy's ultra-luxury Reserve tier, award redemptions require a very high number of points per night",
+    "Its Kedewatan/Ubud setting is a longer inland transfer from the airport than any coastal Bali Bonvoy property"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "What makes Mandapa, a Ritz-Carlton Reserve different from other Bali Bonvoy properties?",
+      "answer": "It's one of only a handful of Ritz-Carlton Reserve properties worldwide, Marriott's ultra-luxury tier, with roughly 60 suites and villas set on a terraced hillside above the Ayung River in Ubud -- a smaller, more exclusive scale than any other Bonvoy hotel in this directory's Bali coverage."
+    },
+    {
+      "question": "Can you redeem Marriott Bonvoy points at Mandapa, a Ritz-Carlton Reserve?",
+      "answer": "Yes, though redemption rates run well into six figures in points per night given its ultra-luxury Reserve positioning, among the highest point costs anywhere in the Bonvoy program, so cash rates or a mix of points and cash may suit some travelers better."
+    }
+  ],
+  "tags": ["ubud", "ritz-carlton reserve", "ultra-luxury"],
+  "source_mix": [
+    {
+      "url": "https://www.ritzcarlton.com/en/hotels/dpsub-mandapa-a-ritz-carlton-reserve/overview/",
+      "label": "Official Mandapa, a Ritz-Carlton Reserve overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1933359-d8293999-Reviews-Mandapa_A_Ritz_carlton_Reserve-Kedewatan_Ubud_Gianyar_Regency_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ritzcarlton.com/en/hotels/dpsub-mandapa-a-ritz-carlton-reserve/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-bali-ubud", "westin-resort-spa-ubud-bali", "sthala-tribute-portfolio-ubud-bali"],
+  "reliability_score": 61,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

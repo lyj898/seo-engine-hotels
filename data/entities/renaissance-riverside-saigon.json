@@ -1,0 +1,79 @@
+{
+  "entity_id": "renaissance-riverside-saigon",
+  "slug": "renaissance-riverside-saigon",
+  "name": "Renaissance Riverside Hotel Saigon",
+  "category_id": "marriott-bonvoy",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A Renaissance hotel on Ton Duc Thang Street's riverside stretch in District 1, close to Nguyen Hue Walking Street and Ben Thanh Market.",
+  "ai_summary": "Renaissance Riverside Hotel Saigon stands on Ton Duc Thang Street along the Saigon River in District 1, within reach of Nguyen Hue Walking Street, Ben Thanh Market, and the Saigon Opera House. As a Renaissance-branded property it sits in Bonvoy's upscale lifestyle tier, distinguished from the neighboring Le Meridien and Sheraton by its rooftop pool and rooftop bar with skyline and river views. Guest reviews consistently highlight the central location, large and spotlessly clean rooms and bathrooms, and friendly, helpful staff and dining service, with the rooftop pool and Club Lounge singled out repeatedly as highlights. The most common criticism is that the hotel's interiors read as an older style -- clean and well-maintained, but with a design language that feels dated next to some of District 1's newer builds -- and at least one guest described unusually heavy traffic and parking difficulty on arrival, though this reflects the district's congestion generally rather than the hotel itself. It suits travelers who want a riverside District 1 base with strong service and a proven rooftop pool and bar, and who don't mind a more traditional decor style.",
+  "core_facts": {
+    "address": "8-15 Ton Duc Thang Street, District 1, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "Renaissance Hotels",
+    "neighborhood": "Ton Duc Thang Riverside, District 1",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Riverside District 1 location close to Nguyen Hue Walking Street, Ben Thanh Market, and the Saigon Opera House",
+    "Rooftop pool and rooftop bar with river and skyline views draw consistent praise",
+    "Large, spotlessly clean rooms and bathrooms noted repeatedly in reviews",
+    "Friendly, helpful staff across front desk and dining outlets"
+  ],
+  "cons": [
+    "Decor and public areas read as an older style compared with some newer District 1 competitors",
+    "Central District 1 traffic congestion can make arrival and parking slow at peak hours",
+    "As a Renaissance rather than top-tier Bonvoy luxury brand, positioning sits a step below Ritz-Carlton or St. Regis-level properties"
+  ],
+  "research_highlights": [
+    "The riverside location and proximity to Nguyen Hue Walking Street and Ben Thanh Market are consistently cited strengths",
+    "The rooftop pool, rooftop bar, and Club Lounge draw repeated, specific praise",
+    "Staff friendliness and helpfulness across the hotel are frequently highlighted"
+  ],
+  "research_watchouts": [
+    "Multiple reviews describe the interiors and public spaces as an older style, though clean and well-kept",
+    "Central District 1 traffic can make arrival slower than expected"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Does Renaissance Riverside Hotel Saigon have a rooftop pool?",
+      "answer": "Yes -- the hotel has a rooftop pool and adjoining rooftop bar with views over the Saigon River and downtown skyline, which reviewers consistently cite as one of the property's strongest features."
+    },
+    {
+      "question": "How close is Renaissance Riverside Hotel Saigon to Ben Thanh Market and Nguyen Hue Walking Street?",
+      "answer": "Both are within easy reach on foot or a short taxi ride -- the hotel's Ton Duc Thang Street address puts it in District 1's riverside core, close to Ben Thanh Market, Nguyen Hue Walking Street, and the Saigon Opera House."
+    }
+  ],
+  "tags": ["district 1", "riverside", "renaissance"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sgnbr-renaissance-riverside-hotel-saigon/overview/",
+      "label": "Official Renaissance Riverside Hotel Saigon overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d299783-Reviews-Renaissance_Riverside_Hotel_Saigon-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sgnbr-renaissance-riverside-hotel-saigon/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["le-meridien-saigon", "sheraton-saigon-grand-opera", "jw-marriott-saigon"],
+  "reliability_score": 67,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

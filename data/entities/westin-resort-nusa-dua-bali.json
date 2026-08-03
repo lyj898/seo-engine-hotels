@@ -1,0 +1,80 @@
+{
+  "entity_id": "westin-resort-nusa-dua-bali",
+  "slug": "westin-resort-nusa-dua-bali",
+  "name": "The Westin Resort Nusa Dua, Bali",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A large beachfront Westin resort next to the Bali International Convention Centre in Nusa Dua, with six restaurants and extensive event space.",
+  "ai_summary": "The Westin Resort Nusa Dua, Bali is a full-service beachfront resort in the Nusa Dua enclave, positioned next to the Bali International Convention Centre with substantial meeting and event space alongside its leisure facilities. Rated 4 of 5 across roughly 6,000 TripAdvisor reviews -- one of the larger review bases among Bali's Bonvoy properties -- and ranked in the upper tier of Nusa Dua's hotel field, it draws consistent praise for spacious, modern rooms with the brand's signature Heavenly Bed, and for grounds and shared spaces described as spotlessly maintained. Guests repeatedly highlight the beachfront setting and the resort's range of pools as a comprehensive family- and leisure-friendly package, and service is generally described as warm and attentive. Dining across the resort's six restaurants and bars draws generally positive comment. The recurring watchouts are less about the product itself than its edges: a handful of guests mention noise or maintenance issues in specific rooms, and some note construction or renovation noise nearby, an occasional issue in a fast-developing part of Nusa Dua. Given its scale and its adjacency to the convention centre, it can also feel busier and more event-driven than some of the smaller boutique resorts in the same enclave. For travelers who want a large, full-amenity Westin base in Nusa Dua with strong wellness credentials, it remains one of the most reviewed and consistently well-rated Bonvoy properties on this part of the island.",
+  "core_facts": {
+    "address": "Kawasan Pariwisata Nusa Dua, BTDC Lot N-3, Nusa Dua, Bali, Indonesia 80363",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Nusa Dua",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Beachfront Nusa Dua location next to the Bali International Convention Centre",
+    "Rated 4 of 5 across roughly 6,000 TripAdvisor reviews, one of the larger review bases among Bali's Bonvoy properties",
+    "Rooms are consistently described as spacious and modern, featuring the Westin Heavenly Bed",
+    "Grounds, pools, and shared spaces draw repeated praise for cleanliness and upkeep",
+    "Six on-site restaurants and bars give guests a wide range of dining options without leaving the resort"
+  ],
+  "cons": [
+    "A handful of reviews mention noise or maintenance issues in specific rooms",
+    "Some guests note nearby construction noise, reflecting ongoing development in parts of Nusa Dua",
+    "Its scale and proximity to the convention centre can make it feel busier and more event-driven than smaller resorts in the enclave"
+  ],
+  "research_highlights": [
+    "Rooms are praised as spacious and modern, with the Westin Heavenly Bed specifically called out for comfort",
+    "The resort's beachfront setting, multiple pools, and family-friendly amenities draw consistent praise",
+    "Cleanliness and upkeep across rooms, pools, and shared spaces are repeatedly highlighted"
+  ],
+  "research_watchouts": [
+    "Some reviews describe noise or maintenance issues in individual rooms",
+    "A few guests mention construction noise from ongoing development nearby"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is The Westin Resort Nusa Dua, Bali directly on the beach?",
+      "answer": "Yes -- it's a beachfront resort in the Nusa Dua enclave, sited next to the Bali International Convention Centre, with direct beach access alongside its pools and other leisure facilities."
+    },
+    {
+      "question": "How many dining options does The Westin Resort Nusa Dua, Bali have?",
+      "answer": "The resort has six on-site restaurants and bars spanning indoor and beachfront outdoor settings, giving guests a wide range of dining choices without needing to leave the property. Guest reviews describe the overall dining experience across the resort as consistently positive, a useful convenience given the property's scale."
+    }
+  ],
+  "tags": ["nusa dua", "beachfront", "wellness"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpswi-the-westin-resort-nusa-dua-bali/overview/",
+      "label": "Official The Westin Resort Nusa Dua, Bali overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297698-d304528-Reviews-The_Westin_Resort_Nusa_Dua_Bali-Nusa_Dua_Benoa_South_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpswi-the-westin-resort-nusa-dua-bali/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["laguna-luxury-collection-nusa-dua-bali", "ritz-carlton-bali", "st-regis-bali-resort"],
+  "reliability_score": 64,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

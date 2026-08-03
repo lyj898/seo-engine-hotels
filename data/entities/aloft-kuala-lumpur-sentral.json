@@ -1,0 +1,79 @@
+{
+  "entity_id": "aloft-kuala-lumpur-sentral",
+  "slug": "aloft-kuala-lumpur-sentral",
+  "name": "Aloft Kuala Lumpur Sentral",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A tech-smart, loft-style Aloft on Jalan Stesen Sentral, right next to the KLIA Ekspres terminal at KL Sentral.",
+  "ai_summary": "Aloft Kuala Lumpur Sentral occupies a spot on Jalan Stesen Sentral, close enough to KL Sentral station to make the KLIA Ekspres airport train and the surrounding MRT/LRT/Monorail network genuinely convenient, and it sits near Nu Sentral Mall. As a select-service Aloft, it offers chic, loft-inspired rooms with the brand's plush signature beds, and guest reviews consistently praise the location as ideal for airport stopovers or transit-dependent stays. Rooms are frequently described as spacious and clean with reliable internet, and the rooftop pool draws positive comments, alongside a breakfast spread reviewers call satisfying. Staff are described as kind and accommodating. As with many Bonvoy select-service properties, breakfast and other amenities can carry costs that vary by elite tier. The most recurring complaints are practical rather than about core quality: noisy air conditioning in some rooms, and a parking validation process that requires queuing at reception each time a guest needs to leave the car park. The rooftop bar, while scenic, is described by some as pricey with a limited menu, and gets crowded with more sun loungers needed at the pool. It suits transit-focused travelers, business guests, and value-conscious visitors who prioritize KL Sentral's connectivity.",
+  "core_facts": {
+    "address": "No. 5 Jalan Stesen Sentral, Kuala Lumpur, 50470, Malaysia",
+    "brand_sub_brand": "Aloft",
+    "neighborhood": "KL Sentral",
+    "distance_from_airport_km": 50,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Close to KL Sentral, making the KLIA Ekspres airport train and MRT/LRT/Monorail network genuinely convenient",
+    "Rooms are described as spacious and clean, with a rooftop pool drawing positive comments",
+    "Breakfast is described by guests as satisfying, and staff as kind and accommodating",
+    "Near Nu Sentral Mall for shopping and dining"
+  ],
+  "cons": [
+    "Some rooms have noisy air conditioning",
+    "Parking validation requires queuing at reception each time a guest needs to leave the car park",
+    "The rooftop bar is described by some as pricey with a limited menu, and the pool area gets crowded with too few sun loungers"
+  ],
+  "research_highlights": [
+    "Proximity to KL Sentral and the KLIA Ekspres is repeatedly cited as a major practical advantage",
+    "Rooms, cleanliness, and the rooftop pool draw consistent positive mentions",
+    "Staff are described as kind and accommodating"
+  ],
+  "research_watchouts": [
+    "Noisy air conditioning in some rooms and a cumbersome parking validation process are recurring complaints",
+    "The rooftop bar is seen by some as overpriced with a limited menu, and the pool area can get crowded"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Aloft Kuala Lumpur Sentral good for an airport stopover?",
+      "answer": "Yes -- it's close to KL Sentral station, giving direct access to the KLIA Ekspres airport train, which guest reviews repeatedly cite as making it an easy and convenient stopover choice for travelers connecting to or from the airport."
+    },
+    {
+      "question": "Does Aloft Kuala Lumpur Sentral have a pool?",
+      "answer": "Yes -- it has a rooftop pool that guests describe positively, though reviews note it can get crowded and more sun loungers would help, and the adjacent rooftop bar is seen by some as pricey with a limited menu."
+    }
+  ],
+  "tags": ["select-service", "kl sentral", "airport transit"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulal-aloft-kuala-lumpur-sentral/overview/",
+      "label": "Official Aloft Kuala Lumpur Sentral overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d3730389-Reviews-Aloft_Kuala_Lumpur_Sentral-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulal-aloft-kuala-lumpur-sentral/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["st-regis-kuala-lumpur", "le-meridien-kuala-lumpur", "the-majestic-kuala-lumpur-autograph-collection"],
+  "reliability_score": 63,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

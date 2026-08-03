@@ -1,0 +1,79 @@
+{
+  "entity_id": "four-points-bangkok-ploenchit",
+  "slug": "four-points-bangkok-ploenchit",
+  "name": "Four Points by Sheraton Bangkok Ploenchit Sukhumvit",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A select-service Four Points on Ploenchit Road, steps from BTS Ploenchit, with nightly live music and a well-reviewed all-day restaurant.",
+  "ai_summary": "Four Points by Sheraton Bangkok Ploenchit Sukhumvit occupies a mid-rise property directly on Ploenchit Road, within walking distance of BTS Ploenchit and Bangkok's central embassy and shopping district. Ranked around the top 65 of Bangkok's more than 1,300 TripAdvisor-listed hotels and rated 4 of 5, it's a consistently well-reviewed select-service option: guests repeatedly describe rooms as spotless with modern furnishings, and the hotel's nightly live music adds a livelier social atmosphere than most Four Points properties. Staff are frequently praised as friendly and professional, described in multiple reviews as going out of their way for guests. The breakfast, gym, and pool round out an amenity set that reviewers call comprehensive for a select-service hotel. The most common criticisms concern Wi-Fi reliability and the breakfast spread, both flagged by a subset of guests as inconsistent, and some travelers note that certain food and beverage items are priced high relative to the room rate. Overall guests describe it as good value for the central Ploenchit location. It suits travelers who want walkable access to Bangkok's business and embassy district with a livelier, more social hotel atmosphere than a typical business-class property.",
+  "core_facts": {
+    "address": "566 Ploenchit Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Ploenchit",
+    "distance_from_airport_km": 27,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Spotless, modern rooms that draw consistently positive reviews",
+    "Nightly live music gives it a livelier atmosphere than a typical Four Points",
+    "Walking distance to BTS Ploenchit and the central embassy/shopping district",
+    "Staff are repeatedly described as friendly and going above expectations"
+  ],
+  "cons": [
+    "Wi-Fi reliability and the breakfast spread are inconsistent according to a subset of reviews",
+    "Some food and beverage items are described as overpriced relative to the room rate",
+    "As a select-service hotel, its elite benefit structure is lighter than the city's full-service Bonvoy properties"
+  ],
+  "research_highlights": [
+    "Rooms are consistently described as spotless with modern furnishings",
+    "Staff service draws repeated praise for friendliness and attentiveness",
+    "The nightly live music and central Ploenchit location are called out as distinguishing features"
+  ],
+  "research_watchouts": [
+    "Wi-Fi and breakfast quality are flagged as inconsistent by a subset of guests",
+    "Some F&B pricing is described as high relative to the room rate"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Bangkok Ploenchit close to the BTS Skytrain?",
+      "answer": "Yes -- it's within walking distance of BTS Ploenchit station, putting Bangkok's central embassy district, shopping, and the wider BTS network within easy reach without needing a taxi for most day-to-day trips."
+    },
+    {
+      "question": "Does this Four Points have live entertainment?",
+      "answer": "Yes -- nightly live music is a distinguishing feature of the property, giving it a livelier, more social atmosphere than a typical select-service Four Points hotel, according to multiple guest reviews."
+    }
+  ],
+  "tags": ["ploenchit", "select-service", "nightlife"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkpu-four-points-bangkok-ploenchit-sukhumvit/overview/",
+      "label": "Official Four Points Bangkok Ploenchit overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1931608-Reviews-Four_Points_by_Sheraton_Bangkok_Ploenchit-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkpu-four-points-bangkok-ploenchit-sukhumvit/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-muse-bangkok-autograph-collection", "moxy-bangkok-ratchaprasong", "westin-grande-sukhumvit-bangkok"],
+  "reliability_score": 63,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

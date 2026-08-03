@@ -1,0 +1,80 @@
+{
+  "entity_id": "jw-marriott-bali-ubud",
+  "slug": "jw-marriott-bali-ubud",
+  "name": "JW Marriott Bali Ubud Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A luxury JW Marriott resort in Payangan, north of central Ubud, set along the Ayung River valley with jungle-view rooms and villas.",
+  "ai_summary": "JW Marriott Bali Ubud Resort & Spa sits in Payangan, north of Ubud's town center, positioned along the Ayung River valley in a more remote, jungle-immersed part of the Ubud region than most of Bali's other Bonvoy hotels. Guest feedback is more mixed than at many other properties in this directory, with a rating of 3 of 5 on TripAdvisor within a small, largely luxury-tier hotel field in Payangan. Positive reviews describe the setting as brilliant, with guests praising the pool, surrounding scenery, massage and meditation offerings, and staff who are called friendly, polite, and hospitable, alongside breakfast and food quality that are specifically praised. Given the more limited and mixed review base compared with Bali's more established Bonvoy resorts, this profile reflects a more cautious reading of guest sentiment. The property's Payangan location, farther from both central Ubud and the airport than most of the island's coastal or town-center hotels, is a genuine trade-off for travelers prioritizing a remote, nature-immersed base. For travelers drawn to the JW Marriott brand and a secluded Ayung River valley setting, it remains an option worth evaluating carefully against Bali's other Ubud-area luxury resorts, several of which carry stronger and larger review bases.",
+  "core_facts": {
+    "address": "Jalan Raya Payangan Kintamani, Semaon, Puhu, Payangan, Gianyar, Bali, Indonesia 80572",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "Payangan / Ubud",
+    "distance_from_airport_km": 39,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Secluded Ayung River valley setting in Payangan, north of central Ubud",
+    "Guests praise the pool, surrounding jungle scenery, and on-site massage and meditation offerings",
+    "Staff are described as friendly, polite, and hospitable",
+    "Breakfast and food quality draw specific positive comment",
+    "JW Marriott brand positioning within a quieter, more remote part of the Ubud region"
+  ],
+  "cons": [
+    "Guest sentiment is more mixed than at many other Bali Bonvoy properties, rated 3 of 5 on TripAdvisor",
+    "At roughly 39 km from the airport, it's one of the farthest Bali Bonvoy properties from Ngurah Rai",
+    "Its Payangan location sits well outside central Ubud, requiring a longer drive to town"
+  ],
+  "research_highlights": [
+    "Guests describe the pool and surrounding scenery as brilliant and very comforting",
+    "Massage and meditation offerings, along with breakfast and food quality, draw specific praise",
+    "Staff are repeatedly described as friendly and polite"
+  ],
+  "research_watchouts": [
+    "Review sentiment is more mixed than at several other Bali Bonvoy resorts, with a 3-of-5 TripAdvisor rating",
+    "The Payangan location is considerably farther from both the airport and central Ubud than most other properties in this directory"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is JW Marriott Bali Ubud Resort & Spa located in central Ubud?",
+      "answer": "No -- it's in Payangan, north of Ubud's town center, set along the Ayung River valley in a more remote, jungle-immersed location than most of Bali's other Bonvoy hotels, which means a longer drive to reach central Ubud's shops and restaurants."
+    },
+    {
+      "question": "How do guests rate JW Marriott Bali Ubud Resort & Spa?",
+      "answer": "It carries a 3-of-5 rating on TripAdvisor, more mixed than several other Bali Bonvoy properties, though guests consistently praise the pool, scenery, staff friendliness, and food quality, so it's worth weighing against Ubud's other, more established resorts."
+    }
+  ],
+  "tags": ["ubud", "payangan", "luxury resort"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsuj-jw-marriott-bali-ubud-resort-and-spa/overview/",
+      "label": "Official JW Marriott Bali Ubud Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g608492-d34021165-Reviews-JW_Marriott_Bali_Ubud_Resort_Spa-Payangan_Gianyar_Regency_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsuj-jw-marriott-bali-ubud-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mandapa-ritz-carlton-reserve-ubud", "westin-resort-spa-ubud-bali", "element-bali-ubud"],
+  "reliability_score": 58,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

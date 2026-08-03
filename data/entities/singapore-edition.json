@@ -1,0 +1,78 @@
+{
+  "entity_id": "singapore-edition",
+  "slug": "singapore-edition",
+  "name": "The Singapore EDITION",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "The EDITION brand's first Southeast Asian hotel, on Cuscaden Road near Orchard Road, with a 43-metre rooftop pool.",
+  "ai_summary": "The Singapore EDITION is the Ian Schrager-Marriott EDITION brand's first Southeast Asian property, opened in November 2023 on Cuscaden Road just off Orchard Road. The hotel is designed by Safdie Architects and DP Architects, with five restaurants and bars including FYSH by chef Josh Niland, the Punch Room, a pink-lit lobby bar, and what's billed as Orchard Road's longest rooftop pool at 43 metres. On TripAdvisor it ranks among the top 15 hotels in Singapore, and reviews consistently praise the elegant, calming room design, spotless housekeeping, and warm, professional service, positioning it as one of Bonvoy's most design-forward luxury entries in the city. It suits travelers who want a fashion- and design-led luxury stay over a more traditional 5-star format, with easy access to Orchard Road shopping and the Botanic Gardens. The most frequently repeated watchouts involve dining logistics rather than the core stay: the 24-hour in-room dining menu is more limited than the signature restaurants, and orders are capped at two items at breakfast. A handful of reviews also mention slower-than-expected front-desk response and luggage delivery, and staff have been noted as candid about ongoing construction or fit-out work elsewhere on the property. Rates run at the high end of the market even by Orchard Road luxury standards.",
+  "core_facts": {
+    "address": "38 Cuscaden Road, Singapore 249731",
+    "brand_sub_brand": "EDITION",
+    "neighborhood": "Orchard Road / Tanglin",
+    "distance_from_airport_km": 21,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "First EDITION hotel in Southeast Asia, with design by Safdie Architects and Ian Schrager's signature aesthetic",
+    "Rooftop pool billed as Orchard Road's longest, plus five distinct restaurants and bars including FYSH by Josh Niland",
+    "Consistently praised for elegant, calming room design and spotless housekeeping",
+    "Warm, professional service draws repeated praise in reviews"
+  ],
+  "cons": [
+    "24-hour in-room dining is more limited than the hotel's signature restaurants",
+    "Breakfast orders are capped at two items per guest",
+    "A handful of reviews mention slow front-desk response or luggage delivery, and rates run high even for Orchard Road"
+  ],
+  "research_highlights": [
+    "Design and room ambiance are the most consistently praised elements",
+    "Housekeeping and overall cleanliness draw strong, repeated praise"
+  ],
+  "research_watchouts": [
+    "In-room dining and breakfast ordering are more restrictive than a typical luxury hotel",
+    "A few reviews mention slow front-desk or luggage response times"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "What makes The Singapore EDITION different from other Marriott Bonvoy luxury hotels in the city?",
+      "answer": "It's the EDITION brand's first Southeast Asian property, blending Ian Schrager's design-led format with Safdie Architects' building design, a 43-metre rooftop pool, and five restaurants including FYSH by chef Josh Niland -- a more fashion-forward take on luxury than Bonvoy's traditional 5-star brands."
+    },
+    {
+      "question": "Is breakfast included at The Singapore EDITION?",
+      "answer": "Dining is available, but guest reviews note that both breakfast and 24-hour in-room dining come with restrictions -- breakfast orders are capped at two items, and the in-room menu is more limited than the hotel's signature restaurants."
+    }
+  ],
+  "tags": ["orchard road", "design hotel", "luxury"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sineb-the-singapore-edition/overview/",
+      "label": "Official The Singapore EDITION overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d26720407-Reviews-The_Singapore_EDITION-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sineb-the-singapore-edition/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-millenia-singapore", "st-regis-singapore"],
+  "reliability_score": 70,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

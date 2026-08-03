@@ -1,0 +1,79 @@
+{
+  "entity_id": "four-points-kuala-lumpur-chinatown",
+  "slug": "four-points-kuala-lumpur-chinatown",
+  "name": "Four Points by Sheraton Kuala Lumpur, Chinatown",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A select-service Four Points on Jalan Balai Polis in Chinatown, a short walk from Pasar Seni MRT and LRT stations.",
+  "ai_summary": "Four Points by Sheraton Kuala Lumpur, Chinatown sits on Jalan Balai Polis in the heart of Kuala Lumpur's Chinatown, one of the city's richest heritage districts, and is a short walk from the Pasar Seni MRT and LRT stations. The design blends the neighborhood's vintage character with modern touches, and guest reviews consistently praise the result: spacious, comfortable rooms with modern decor and city views, a rooftop pool and bar overlooking landmarks like KL Tower and the Petronas Twin Towers, and a varied breakfast spread. Guests also single out the mattress and pillows as notably comfortable. Service is described as attentive and often exceeding expectations for a select-service hotel, and the surrounding Chinatown location gives easy access to street food, historic sites, and MRT/LRT connections to the rest of the city. The most specific recurring complaint is parking, which some guests describe as troublesome given the size of the lot and the chargeable, multiple-entry system. Detailed negative feedback beyond that is relatively limited in available sources. It suits travelers who want a heritage-district base with strong transit connections and a design-forward but value-oriented select-service stay.",
+  "core_facts": {
+    "address": "No 2 Jalan Balai Polis, Kuala Lumpur, 50000, Malaysia",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Chinatown / Pasar Seni",
+    "distance_from_airport_km": 54,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Short walk from Pasar Seni MRT and LRT stations, in the heart of Chinatown",
+    "Rooftop pool and bar with views of KL Tower and the Petronas Twin Towers draw consistent praise",
+    "Rooms are described as spacious, comfortable, and modern, with notably comfortable bedding",
+    "Service is frequently described as attentive and exceeding expectations for the price tier"
+  ],
+  "cons": [
+    "Parking is described by some guests as troublesome given the size of the lot and a chargeable, multiple-entry system",
+    "As a heritage-district location, the immediate surroundings are busier and more tourist-trafficked than some other neighborhoods",
+    "Detailed guest complaints beyond parking are relatively limited in available review sources"
+  ],
+  "research_highlights": [
+    "The rooftop pool and bar, with views of KL Tower and the Petronas Twin Towers, are a standout highlight",
+    "Rooms and bedding comfort draw specific positive mentions",
+    "The Chinatown location and nearby Pasar Seni MRT/LRT access are repeatedly praised"
+  ],
+  "research_watchouts": [
+    "Parking is flagged by some guests as troublesome, with a chargeable, multiple-entry system",
+    "Available reviews offer limited detail on complaints beyond parking, suggesting a fairly consistent experience"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Kuala Lumpur, Chinatown well connected by transit?",
+      "answer": "Yes -- it's a short walk from the Pasar Seni MRT and LRT stations, giving easy access to the rest of Kuala Lumpur, in addition to being located directly in the historic Chinatown district for street food and heritage sites."
+    },
+    {
+      "question": "Does this hotel have a pool?",
+      "answer": "Yes -- it has a rooftop pool and bar with views of landmarks including KL Tower and the Petronas Twin Towers, which guest reviews consistently cite as one of the property's best features."
+    }
+  ],
+  "tags": ["select-service", "chinatown", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulfc-four-points-kuala-lumpur-chinatown/overview/",
+      "label": "Official Four Points Kuala Lumpur Chinatown overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d17990578-Reviews-Four_Points_by_Sheraton_Kuala_Lumpur_Chinatown-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulfc-four-points-kuala-lumpur-chinatown/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["the-majestic-kuala-lumpur-autograph-collection", "four-points-kuala-lumpur-city-centre", "ac-hotel-kuala-lumpur"],
+  "reliability_score": 62,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

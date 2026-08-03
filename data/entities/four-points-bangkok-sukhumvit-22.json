@@ -1,0 +1,79 @@
+{
+  "entity_id": "four-points-bangkok-sukhumvit-22",
+  "slug": "four-points-bangkok-sukhumvit-22",
+  "name": "Four Points by Sheraton Bangkok, Sukhumvit 22",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "The newest Four Points in Bangkok, opened in 2025 on Sukhumvit Soi 22 near Phrom Phong, with a rooftop pool and fresh, recently built rooms.",
+  "ai_summary": "Four Points by Sheraton Bangkok, Sukhumvit 22 opened in early 2025 near Phrom Phong, within walking distance of BTS Phrom Phong, BTS Asok, and MRT Sukhumvit, and close to the EmSphere, EmQuartier, and Emporium malls. As one of the newest Bonvoy properties in the city, it carries a small but positive review base so far -- rated 4 of 5 on TripAdvisor -- with guests calling out fresh room decor, firm beds, and reliable air conditioning as standout features of a genuinely new build. The location is repeatedly described as central yet quiet, and reviewers praise the friendly, attentive service and the value relative to nearby full-service hotels. The rooftop pool and gym round out an amenity set guests call comprehensive for a select-service property. Because the review base is still relatively small given the recent opening, feedback should be read with that in mind: isolated comments mention a cramped driveway/lobby area, one guest noted a lack of air conditioning in a seventh-floor corridor, and laundry charges have been flagged by some as high for the area. It's a strong option for travelers who want a newly built, well-located Sukhumvit hotel without the wear that comes with an older property.",
+  "core_facts": {
+    "address": "30 Sukhumvit Soi 22, Khlong Toei, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Sukhumvit Soi 22 / Phrom Phong",
+    "distance_from_airport_km": 22,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "One of the newest Bonvoy hotels in Bangkok, opened in early 2025, with fresh rooms and furnishings",
+    "Central but comparatively quiet Sukhumvit Soi 22 location near Phrom Phong",
+    "Walking distance to BTS Phrom Phong, BTS Asok, MRT Sukhumvit, and the EM shopping malls",
+    "Rooftop pool and gym, with service described as friendly and attentive"
+  ],
+  "cons": [
+    "Review base is still small given the recent opening, so feedback is limited",
+    "The driveway and lobby area have been described by at least one guest as cramped",
+    "Laundry charges have been flagged by some guests as high for the area"
+  ],
+  "research_highlights": [
+    "Fresh room decor, firm beds, and reliable air conditioning stand out given the new build",
+    "The Sukhumvit Soi 22 location is called central yet comparatively quiet",
+    "Service is described as friendly and attentive across available reviews"
+  ],
+  "research_watchouts": [
+    "The review base is still limited given the early-2025 opening",
+    "Isolated complaints include a cramped lobby/driveway and high laundry charges"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "When did Four Points Bangkok Sukhumvit 22 open?",
+      "answer": "It opened in early 2025, making it one of the newest Marriott Bonvoy hotels in Bangkok. Guest reviews so far highlight fresh rooms and furnishings, though the overall review base is still smaller than at longer-established nearby properties."
+    },
+    {
+      "question": "Is Four Points Bangkok Sukhumvit 22 close to shopping?",
+      "answer": "Yes -- it's within walking distance of the EmSphere, EmQuartier, and Emporium malls, as well as BTS Phrom Phong, BTS Asok, and MRT Sukhumvit stations, making it a well-connected base for the Sukhumvit shopping corridor."
+    }
+  ],
+  "tags": ["sukhumvit", "phrom phong", "new hotel"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkfo-four-points-bangkok-sukhumvit-22/overview/",
+      "label": "Official Four Points Bangkok Sukhumvit 22 overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d32873719-Reviews-Four_Points_By_Sheraton_Bangkok_Sukhumvit_22-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkfo-four-points-bangkok-sukhumvit-22/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-bangkok-sukhumvit-15", "courtyard-bangkok-sukhumvit-20", "marriott-executive-apartments-bangkok-sukhumvit-park"],
+  "reliability_score": 58,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

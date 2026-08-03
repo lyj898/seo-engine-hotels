@@ -1,0 +1,80 @@
+{
+  "entity_id": "aloft-bali-kuta-beachwalk",
+  "slug": "aloft-bali-kuta-beachwalk",
+  "name": "Aloft Bali Kuta at Beachwalk",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "An Aloft built into the Beachwalk Shopping Center in central Kuta, about a two-minute walk from Kuta Beach.",
+  "ai_summary": "Aloft Bali Kuta at Beachwalk is integrated with the Beachwalk Shopping Center in central Kuta, putting guests roughly a two-minute walk from Kuta Beach and steps from Bali's largest shopping mall and Legian's nightlife. Rated 4 of 5 across roughly 740 TripAdvisor reviews and ranked among the very top hotels in Kuta's crowded field of nearly 290 properties, it draws some of the strongest guest sentiment among Bali's newer select-service Bonvoy hotels. Reviewers repeatedly praise the location as unbeatable for combining beach access with mall convenience, and rooms are described as generous, very clean, and modern in design. Service consistently earns high marks for warmth and attentiveness, and the rooftop pool, gym, and vibrant bar scene are called out as strong, well-maintained amenities. Guests also highlight the hotel's value, describing rates as reasonable for the quality and location on offer. As a design-led lifestyle hotel embedded in a shopping mall, it leans toward a lively, sociable atmosphere rather than a quiet retreat, and rooms follow the compact Aloft format rather than resort-scale suites. For travelers who want a central, walkable Kuta base combining beach and mall access with strong reviews, it's one of the best-reviewed Bonvoy properties in the area.",
+  "core_facts": {
+    "address": "Beachwalk Shopping Center, Jalan Pantai Kuta, Kuta, Bali, Indonesia 80361",
+    "brand_sub_brand": "Aloft",
+    "neighborhood": "Kuta",
+    "distance_from_airport_km": 4,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Built into the Beachwalk Shopping Center, about a two-minute walk from Kuta Beach",
+    "Rated 4 of 5 across roughly 740 TripAdvisor reviews, ranking among the very top hotels in Kuta",
+    "Rooms are described as generous, very clean, and modern in design",
+    "Service consistently earns high marks for warmth and attentiveness",
+    "Rooftop pool, gym, and bar scene draw frequent, positive mentions alongside strong value"
+  ],
+  "cons": [
+    "Its shopping-mall setting and lively atmosphere suit travelers seeking energy over quiet",
+    "Rooms follow the compact Aloft format rather than resort-scale suites",
+    "As a select-service hotel, amenities are more limited than a full-service resort"
+  ],
+  "research_highlights": [
+    "The location is repeatedly called ideal, combining direct beach access with the Beachwalk mall's shopping and dining",
+    "Rooms are praised as generous, spotless, and modern",
+    "Service and value are both singled out as consistent strengths"
+  ],
+  "research_watchouts": [
+    "The mall-embedded, nightlife-adjacent setting suits travelers wanting a lively base more than a quiet one",
+    "Room sizes follow the standard, more compact Aloft format"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "How close is Aloft Bali Kuta at Beachwalk to the beach?",
+      "answer": "It's about a two-minute walk from Kuta Beach, and the hotel is built directly into the Beachwalk Shopping Center, so guests also have Bali's largest mall right on-site along with easy access to Legian's nearby restaurants and nightlife."
+    },
+    {
+      "question": "Is Aloft Bali Kuta at Beachwalk good value?",
+      "answer": "Yes -- guest reviews consistently highlight reasonable rates relative to the quality of rooms, service, and the central beachfront/mall location, making it one of the better-reviewed value picks in Kuta."
+    }
+  ],
+  "tags": ["kuta", "beachwalk", "select-service"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpska-aloft-bali-kuta-at-beachwalk/overview/",
+      "label": "Official Aloft Bali Kuta at Beachwalk overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297697-d23037467-Reviews-Aloft_Bali_Kuta_at_Beachwalk-Kuta_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpska-aloft-bali-kuta-at-beachwalk/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-bali-kuta", "fairfield-bali-south-kuta", "sheraton-bali-kuta-resort"],
+  "reliability_score": 61,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

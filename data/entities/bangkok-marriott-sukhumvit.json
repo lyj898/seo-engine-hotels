@@ -1,0 +1,79 @@
+{
+  "entity_id": "bangkok-marriott-sukhumvit",
+  "slug": "bangkok-marriott-sukhumvit",
+  "name": "Bangkok Marriott Hotel Sukhumvit",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A Marriott Hotels property on Sukhumvit Soi 57 in Thonglor, with an award-winning steakhouse, rooftop bar, and an Anne Semonin spa.",
+  "ai_summary": "Bangkok Marriott Hotel Sukhumvit sits on Sukhumvit Soi 57 in the Thonglor area, one of Bangkok's more residential and dining-forward pockets of the wider Sukhumvit corridor. Rated 4 of 5 across roughly 5,000 TripAdvisor reviews, it's a well-reviewed full-service Marriott Hotels property known for an award-winning steakhouse, a rooftop bar, and an in-house dessert shop alongside an Anne Semonin spa. Guests consistently praise the hotel's cleanliness, calling rooms and public areas immaculate, and repeatedly cite the location as convenient for reaching BTS stations, shopping, and Sukhumvit's dining and nightlife. The Executive Lounge draws specific praise for its food variety and sunset views over the city. Reviewers also highlight professional, attentive service throughout the property. The most common watchout is that some guests find the rooms comfortable but a little dated compared to Bangkok's newer Bonvoy properties, and opinions on overall value are mixed -- some travelers feel rates run high relative to the room condition, while others consider it a fair trade for the location and service. It suits travelers who want a full-service Marriott base in the quieter, more local Thonglor pocket of Sukhumvit rather than the busier Nana/Asoke tourist strip, with easy onward access to the rest of the corridor.",
+  "core_facts": {
+    "address": "2 Sukhumvit Soi 57, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Thonglor / Sukhumvit Soi 57",
+    "distance_from_airport_km": 24,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Award-winning steakhouse, rooftop bar, and in-house dessert shop",
+    "Consistently praised for immaculate cleanliness throughout rooms and public areas",
+    "Executive Lounge draws specific praise for food variety and sunset views",
+    "Convenient Thonglor-area location with access to BTS and Sukhumvit's dining scene"
+  ],
+  "cons": [
+    "Some guests describe rooms as comfortable but a little dated compared to newer Bonvoy hotels",
+    "Value opinions are mixed -- some travelers feel rates run high for room condition",
+    "Thonglor is quieter and more residential than the Nana/Asoke tourist core, which won't suit everyone"
+  ],
+  "research_highlights": [
+    "Cleanliness is a consistent, repeated highlight across guest reviews",
+    "The Executive Lounge and its sunset views draw specific praise",
+    "Staff service is described as professional and attentive throughout"
+  ],
+  "research_watchouts": [
+    "Some guests describe rooms as a little dated relative to newer Bonvoy properties in the city",
+    "Value opinions are mixed, with some travelers finding rates high for the room condition"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Where is Bangkok Marriott Hotel Sukhumvit located?",
+      "answer": "It's on Sukhumvit Soi 57 in the Thonglor area, a more residential and dining-focused pocket of the Sukhumvit corridor, with BTS access nearby for reaching the rest of the city's shopping and nightlife districts."
+    },
+    {
+      "question": "Is Bangkok Marriott Hotel Sukhumvit known for its dining?",
+      "answer": "Yes -- it houses an award-winning steakhouse, a rooftop bar, and an in-house dessert shop, and its Executive Lounge is repeatedly praised by guests for food variety and sunset skyline views."
+    }
+  ],
+  "tags": ["thonglor", "sukhumvit", "full-service"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkms-bangkok-marriott-hotel-sukhumvit/overview/",
+      "label": "Official Bangkok Marriott Hotel Sukhumvit overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d3825474-Reviews-Bangkok_Marriott_Hotel_Sukhumvit-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkms-bangkok-marriott-hotel-sukhumvit/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-bangkok", "madi-paidi-bangkok-autograph-collection", "aloft-bangkok-sukhumvit-11"],
+  "reliability_score": 65,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

@@ -1,0 +1,79 @@
+{
+  "entity_id": "four-points-kuala-lumpur-city-centre",
+  "slug": "four-points-kuala-lumpur-city-centre",
+  "name": "Four Points by Sheraton Kuala Lumpur, City Centre",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A select-service Four Points off Jalan Bukit Kiara, west of the KLCC core, with family-oriented pool and play facilities.",
+  "ai_summary": "Four Points by Sheraton Kuala Lumpur, City Centre is located off Jalan Bukit Kiara in the Bukit Kiara area, west of the KLCC core and Golden Triangle despite the \"City Centre\" name. It's a large-scale select-service property with 513 rooms, positioned around locally inspired comfort and value rather than downtown glamour. Guest reviews consistently praise the hotel as modern, clean, and well maintained, with several reviewers describing it as feeling more five-star than the select-service tier would suggest. Family-friendly facilities are a particular strength: one of the largest pools in the city with water slides, a dedicated kids' zone, and a well-equipped, modern gym all draw specific praise, alongside dining options including a Best Brews Nitro Brew coffee program. Front-desk staff are frequently described as friendly, with fast, smooth check-in. The main complaints involve operational hiccups rather than the physical property: some guests report power trips and inconsistent water temperature, and the pool area can get crowded and noisy at peak times with occasional staffing or safety concerns raised. Given its location away from the main downtown core, it suits families and value-focused travelers with a car or ride-hailing budget more than guests wanting to walk to KLCC landmarks.",
+  "core_facts": {
+    "address": "10 Jalan 1/70D, Off Jalan Bukit Kiara, Kuala Lumpur, 60000, Malaysia",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Bukit Kiara",
+    "distance_from_airport_km": 62,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Modern, clean, well-maintained property that several reviewers describe as feeling above its select-service tier",
+    "One of the largest hotel pools in the city, with water slides and a dedicated kids' zone",
+    "Well-equipped, modern gym and a Best Brews Nitro Brew coffee program",
+    "Friendly front-desk staff and fast, smooth check-in"
+  ],
+  "cons": [
+    "Located off Jalan Bukit Kiara, west of the main KLCC/Golden Triangle core despite the \"City Centre\" name",
+    "Some guests report power trips and inconsistent water temperature",
+    "The pool area can get crowded and noisy at peak times, with occasional staffing or safety concerns raised"
+  ],
+  "research_highlights": [
+    "The family pool with water slides and kids' zone is a standout, frequently praised feature",
+    "Cleanliness and overall condition draw comments describing it as feeling above its select-service category",
+    "Front-desk service and check-in speed draw consistent praise"
+  ],
+  "research_watchouts": [
+    "Some guests report power trips and inconsistent water temperature in rooms",
+    "Pool-area crowding, noise, and occasional safety or staffing concerns have been raised at peak times"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Kuala Lumpur, City Centre actually in the city centre?",
+      "answer": "Not quite -- despite the name, it's located off Jalan Bukit Kiara, west of the main KLCC and Golden Triangle core, so guests wanting to walk to the Petronas Twin Towers or Bukit Bintang should plan on a taxi or ride-hailing trip rather than walking."
+    },
+    {
+      "question": "Is this hotel good for families?",
+      "answer": "Yes -- it's one of the more family-oriented Bonvoy properties in Kuala Lumpur, with one of the city's largest hotel pools, water slides, a dedicated kids' zone, and family suites, though its location away from downtown means more reliance on cars or ride-hailing."
+    }
+  ],
+  "tags": ["select-service", "family-friendly", "bukit kiara"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulfk-four-points-kuala-lumpur-city-centre/overview/",
+      "label": "Official Four Points Kuala Lumpur City Centre overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d21366544-Reviews-Four_Points_by_Sheraton_Kuala_Lumpur_City_Centre-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulfk-four-points-kuala-lumpur-city-centre/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-kuala-lumpur-chinatown", "ac-hotel-kuala-lumpur", "courtyard-kuala-lumpur-south"],
+  "reliability_score": 61,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

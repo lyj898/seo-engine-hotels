@@ -1,0 +1,80 @@
+{
+  "entity_id": "bohemian-bali-design-hotels",
+  "slug": "bohemian-bali-design-hotels",
+  "name": "The Bohemian Bali, a Member of Design Hotels",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A tiny boutique property on Canggu's Batu Bolong strip, with a handful of design-forward pool suites blending midcentury and Balinese craft styles.",
+  "ai_summary": "The Bohemian Bali, a Member of Design Hotels is a small boutique property on Jalan Pantai Batu Bolong in the heart of Canggu, built around a handful of design-led pool suites rather than a conventional room count, and bookable through Marriott Bonvoy via the curated Design Hotels collection. Ranked eighth of roughly 240 bed-and-breakfast-style properties in Canggu and rated 4 of 5 on TripAdvisor, it draws distinctly strong praise for its interior design, which guests describe as exquisitely crafted, with every detail intentional and a serene, safe-feeling atmosphere throughout. Suites combine midcentury modern and boho-chic elements with traditional Balinese materials like wood, rattan, and stone, and private plunge pools and rain showers are called out as daily indulgences. Staff are repeatedly described as warm, kind, and genuinely helpful without being intrusive, and complimentary cooked-to-order breakfast draws positive mention. As a design-focused micro-property with only a handful of units, it suits travelers seeking an intimate, aesthetic-driven stay over resort-scale amenities, dining variety, or a large pool -- the trade-offs typical of Canggu's boutique accommodation scene rather than a full-service Bonvoy resort. For travelers drawn to Canggu's design and surf-cafe culture who want a distinctive, design-forward Bonvoy-earning stay, it's a highly regarded boutique option.",
+  "core_facts": {
+    "address": "Jalan Pantai Batu Bolong No. 21, Canggu, Bali, Indonesia 80351",
+    "brand_sub_brand": "Design Hotels",
+    "neighborhood": "Canggu",
+    "distance_from_airport_km": 15,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Small, design-forward boutique property on Canggu's Batu Bolong strip",
+    "Ranked eighth of roughly 240 Canggu B&Bs/inns and rated 4 of 5 on TripAdvisor",
+    "Interior design consistently praised as exquisitely crafted, with every detail intentional",
+    "Private plunge pools and rain showers in each suite draw specific, repeated praise",
+    "Staff are described as warm, kind, and genuinely helpful without being intrusive"
+  ],
+  "cons": [
+    "Only a handful of suites, so it doesn't offer resort-scale amenities or dining variety",
+    "No large shared pool or extensive on-site restaurant roster typical of full-service resorts",
+    "Canggu's surf-and-cafe scene and traffic won't suit travelers wanting a quiet, secluded resort setting"
+  ],
+  "research_highlights": [
+    "Guests consistently praise the design as beautiful and intentional, with a serene, relaxed atmosphere",
+    "Private plunge pools and rain showers are called daily indulgences within each suite",
+    "Staff are described as warm and genuinely helpful, contributing to a boutique, personal feel"
+  ],
+  "research_watchouts": [
+    "As a micro-property with only a few suites, guests should expect boutique-scale rather than resort-scale amenities",
+    "Limited on-site dining means guests typically rely on Canggu's surrounding restaurant and cafe scene for most meals"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Does The Bohemian Bali earn Marriott Bonvoy points?",
+      "answer": "Yes -- it's bookable through Marriott Bonvoy as a member of the Design Hotels collection, earning and redeeming points and offering Elite benefits like this directory's other Bonvoy properties, despite its small, independent-feeling boutique scale."
+    },
+    {
+      "question": "Does The Bohemian Bali have private pools?",
+      "answer": "Yes -- each of its design-led suites includes a private plunge pool, which guest reviews consistently describe alongside the rain shower as one of the property's most indulgent features, adding a genuine sense of privacy in central Canggu."
+    }
+  ],
+  "tags": ["canggu", "boutique", "design hotels"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsbb-the-bohemian-bali-a-member-of-design-hotels/overview/",
+      "label": "Official The Bohemian Bali, a Member of Design Hotels overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g311298-d25155070-Reviews-The_Bohemian_Bali-Canggu_North_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsbb-the-bohemian-bali-a-member-of-design-hotels/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["aloft-bali-seminyak", "w-bali-seminyak"],
+  "reliability_score": 59,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}
