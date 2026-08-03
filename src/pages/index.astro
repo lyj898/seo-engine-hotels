@@ -103,18 +103,21 @@ const quickDistanceCategories = categories
   .filter((c) => Array.isArray(c.matchRange))
   .sort((a, b) => b.matchRange[0] - a.matchRange[0]);
 
-// Editor's picks: highest-verified hotels, but a hotel that has a real photo
-// wins any reliability tie/near-tie so the featured grid never shows a bare
-// placeholder card. With enough photographed hotels this makes every pick
-// photographed; reliability still orders within the photographed set.
-const featured = [...entities]
-  .sort((a, b) => {
-    const aHasImage = a.image?.url ? 1 : 0;
-    const bHasImage = b.image?.url ? 1 : 0;
-    if (aHasImage !== bHasImage) return bHasImage - aHasImage;
-    return b.reliability_score - a.reliability_score;
-  })
-  .slice(0, 6);
+// Editor's picks: one hotel per city, so the featured grid spans all six
+// cities rather than clustering in whichever city happens to have the highest
+// scores. Within each city, prefer a hotel that has a real photo (so no pick
+// is a bare placeholder), then the highest reliability score. The resulting
+// one-per-city set is ordered by reliability so the strongest pick leads.
+const bestByCity = new Map();
+for (const e of entities) {
+  const rank = (e.image?.url ? 1000 : 0) + e.reliability_score;
+  const cur = bestByCity.get(e.region_id);
+  if (!cur || rank > cur.rank) bestByCity.set(e.region_id, { entity: e, rank });
+}
+const featured = cityRegions
+  .map((r) => bestByCity.get(r.region_id)?.entity)
+  .filter(Boolean)
+  .sort((a, b) => b.reliability_score - a.reliability_score);
 
 // Hero headline: site.config.json.heroHeadline marks one word with
 // *asterisks*; that word renders with the outlined "stroke" treatment from
@@ -327,7 +330,7 @@ const jsonLd = [
           <div class="mb-10 flex items-end justify-between border-b border-brand-divider pb-4 dark:border-brand-divider-dark">
             <div>
               <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">Editor's picks</p>
-              <h2 class="mt-2 text-2xl font-normal sm:text-3xl">Highest-verified {siteConfig.entityLabelPlural}</h2>
+              <h2 class="mt-2 text-2xl font-normal sm:text-3xl">A standout in every city</h2>
             </div>
           </div>
           <div id="featured-grid" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
