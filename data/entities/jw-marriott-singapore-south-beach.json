@@ -57,8 +57,33 @@
   "external_coverage": {
     "reviews": [
       {
+        "title": "JW Marriott Hotel Singapore South Beach Review: Everything You Need to Know Before You Book",
+        "source": "Glamour and Gains",
+        "author": "Eve Dawes",
+        "url": "https://glamourandgains.com/jw-marriott-hotel-singapore-south-beach-review/",
+        "published_date": "2026-06-13",
+        "summary": "Dawes reviews a 20th-floor Deluxe Suite, praising the spacious layout, standout Beach Road Kitchen breakfast, Marina Bay Sands views, strong soundproofing and central location, and says she would happily return."
+      },
+      {
+        "title": "JW Marriott Hotel Singapore South Beach: Our 2-Night Weekend Staycation Review",
+        "source": "Spring Tomorrow",
+        "author": "Geri",
+        "url": "https://www.springtomorrow.com/jw-marriott-hotel-singapore-south-beach-review/",
+        "published_date": "2025-10",
+        "summary": "Geri recounts a two-night stay in a Premier King Room, covering the Philippe Starck-designed lobby, the Level 18 infinity pool with skyline and Marina Bay views, and Beach Road Kitchen breakfast highlights."
+      },
+      {
+        "title": "Hotel Review: JW Marriott Singapore South Beach (Premier Room with Marina Bay View)",
+        "source": "Secret Life of Fatbacks",
+        "author": "Shawn Loh",
+        "url": "https://secretlifeoffatbacks.com/2025/07/hotel-review-jw-marriott-singapore-south-beach-premier-room-with-marina-bay-view-valentine-to-mirrors-singapores-longest-executive-lounge-evening-cocktail-presentation/",
+        "published_date": "2025-07-01",
+        "summary": "Shawn Loh details a Premier Room with Marina Bay view, focusing on the mirror-heavy interior design and an unusually long executive-lounge evening cocktail presentation."
+      },
+      {
         "title": "Review: JW Marriott Hotel South Beach (Singapore)",
         "source": "Dania Experiences",
+        "author": "Dania",
         "url": "https://daniaexperiences.com/2023/07/12/review-jw-marriott-hotel-south-beach-singapore/",
         "published_date": "2023-07-12",
         "summary": "A blogger's stay review of the South Beach property, covering the room, the design-forward interiors, and its central Beach Road location across from Raffles Hotel."
@@ -66,6 +91,7 @@
       {
         "title": "Review: JW Marriott Hotel Singapore South Beach Staycation",
         "source": "The MileLion",
+        "author": "Aaron Wong",
         "url": "https://milelion.com/2022/02/05/review-jw-marriott-hotel-singapore-south-beach-staycation/",
         "published_date": "2022-02-05",
         "summary": "A Singapore points blog's staycation review of the trendy club rooms and the hotel's dining concepts within the South Beach development."
@@ -76,13 +102,35 @@
         "title": "JW Marriott Singapore South Beach Review: Our Favorite Luxury Hotel in Singapore!",
         "channel": "Ky & Tay",
         "url": "https://www.youtube.com/watch?v=-i-eK_iwQOc",
-        "video_id": "-i-eK_iwQOc"
+        "video_id": "-i-eK_iwQOc",
+        "published_date": "2025-03-18"
+      },
+      {
+        "title": "JW Marriott South Beach Singapore Hotel Review (2024)",
+        "channel": "Epic Travel Journeys",
+        "url": "https://www.youtube.com/watch?v=1YoA9feZtnI",
+        "video_id": "1YoA9feZtnI",
+        "published_date": "2024-09"
       },
       {
         "title": "JW Marriott Hotel Singapore South Beach Tour & Review",
         "channel": "Island Hopper TV Hotels",
         "url": "https://www.youtube.com/watch?v=zVowb4vgbXI",
-        "video_id": "zVowb4vgbXI"
+        "video_id": "zVowb4vgbXI",
+        "published_date": "2024-07-11"
+      },
+      {
+        "title": "[360 Room Tour] Premier Suite | JW Marriott Singapore South Beach",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=NZupNfgju5U",
+        "video_id": "NZupNfgju5U",
+        "published_date": "2021-05-14"
+      },
+      {
+        "title": "Is this the BEST JW Marriott in the world? Singapore Hotel South Beach review",
+        "channel": "City Tour Guy",
+        "url": "https://www.youtube.com/watch?v=ln86kNBP--Q",
+        "video_id": "ln86kNBP--Q"
       }
     ]
   },

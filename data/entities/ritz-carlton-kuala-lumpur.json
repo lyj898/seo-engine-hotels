@@ -58,32 +58,73 @@
   "external_coverage": {
     "reviews": [
       {
-        "title": "Hotel Review: The Ritz-Carlton, Kuala Lumpur (Club Suite)",
-        "source": "Secret Life of Fatbacks",
-        "url": "https://secretlifeoffatbacks.com/2026/01/hotel-review-the-ritz-carlton-kuala-lumpur-club-suite-european-style-classic-luxury-in-bukit-bintang/",
-        "published_date": "2026-01",
-        "summary": "A Club Suite stay review describing the hotel's European-style classic luxury in Bukit Bintang and a modest but warmly-run club lounge."
+        "title": "Ritz-Carlton Kuala Lumpur Review: One Night Is Not Enough",
+        "source": "The Flashpacker",
+        "author": "Bridget Coleman",
+        "url": "https://www.theflashpacker.net/ritz-carlton-kuala-lumpur-review/",
+        "published_date": "2026-07-28",
+        "summary": "A solo traveller weighs the hotel's prime Bukit Bintang setting and warm service against some dated touches, concluding a single night felt far too short a stay."
       },
       {
         "title": "The Ritz-Carlton, Kuala Lumpur: Our Club Suite Stay",
         "source": "The Hedgehog Knows",
         "url": "https://www.thehedgehogknows.com/2026/05/TheRitz-Carlton-KualaLumpur.html",
-        "published_date": "2026-05",
+        "published_date": "2026-05-16",
         "summary": "A Club Suite stay review calling the hotel both luxurious and genuinely comfortable, in the heart of Bukit Bintang near Pavilion KL."
+      },
+      {
+        "title": "Hotel Review: The Ritz-Carlton, Kuala Lumpur (Club Suite)",
+        "source": "Secret Life of Fatbacks",
+        "author": "Shawn Loh",
+        "url": "https://secretlifeoffatbacks.com/2026/01/hotel-review-the-ritz-carlton-kuala-lumpur-club-suite-european-style-classic-luxury-in-bukit-bintang/",
+        "published_date": "2026-01-06",
+        "summary": "A Club Suite stay review describing the hotel's European-style classic luxury in Bukit Bintang and a modest but warmly-run club lounge."
+      },
+      {
+        "title": "Review - The Ritz-Carlton Kuala Lumpur",
+        "source": "Satay Away",
+        "author": "ponyboi",
+        "url": "https://www.satayaway.blog/home-away-from-home/review-the-ritz-carlton-kuala-lumpur",
+        "published_date": "2023-12-25",
+        "summary": "The writer describes a 6th-floor junior suite stay steps from Bukit Bintang, praising the unbeatable location while giving a candid take on the room and overall experience."
+      },
+      {
+        "title": "Review: The Ritz-Carlton Kuala Lumpur, Malaysia",
+        "source": "The Local Travel Guide",
+        "author": "LivingHotel",
+        "url": "https://thelocaltravelguide.com/ritz-carlton-kl/",
+        "published_date": "2023-03-10",
+        "summary": "A walkthrough of the Golden Triangle Ritz-Carlton highlighting its convenient access to KL's shopping malls and overall luxury feel from an independent hotel-focused blogger."
       }
     ],
     "videos": [
       {
-        "title": "The Ritz-Carlton Kuala Lumpur — Room, Facilities and Club Lounge Tour | The Penangite",
-        "channel": "Tipsycation",
-        "url": "https://www.youtube.com/watch?v=2bruKE7GEE0",
-        "video_id": "2bruKE7GEE0"
+        "title": "Ritz Carlton Kuala Lumpur Hotel Tour Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=SJndYmcGb0o",
+        "video_id": "SJndYmcGb0o",
+        "published_date": "2025-03-29"
       },
       {
         "title": "The Ritz-Carlton Kuala Lumpur Review",
         "channel": "Tadashi Travel Tours",
         "url": "https://www.youtube.com/watch?v=2BdjPAR2crU",
-        "video_id": "2BdjPAR2crU"
+        "video_id": "2BdjPAR2crU",
+        "published_date": "2024-08-23"
+      },
+      {
+        "title": "THE RITZ-CARLTON KL | Hotel Review",
+        "channel": "MY buffet",
+        "url": "https://www.youtube.com/watch?v=EC5clyubIPg",
+        "video_id": "EC5clyubIPg",
+        "published_date": "2022-04-22"
+      },
+      {
+        "title": "The Ritz-Carlton Kuala Lumpur — Room, Facilities and Club Lounge Tour | The Penangite",
+        "channel": "Tipsycation",
+        "url": "https://www.youtube.com/watch?v=2bruKE7GEE0",
+        "video_id": "2bruKE7GEE0",
+        "published_date": "2019-09-24"
       }
     ]
   },

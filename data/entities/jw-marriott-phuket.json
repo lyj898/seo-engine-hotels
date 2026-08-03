@@ -59,32 +59,65 @@
   "external_coverage": {
     "reviews": [
       {
-        "title": "Is JW Marriott Phuket Resort & Spa in Thailand Worth It? [Review]",
-        "source": "Upgraded Points",
-        "url": "https://upgradedpoints.com/travel/hotels/jw-marriott-phuket-resort-spa-review/",
-        "published_date": "2026-01-19",
-        "summary": "An in-depth assessment of the Mai Khao beachfront resort's rooms, dining, pools, and beach access, weighing whether it's worth booking on points or cash."
-      },
-      {
         "title": "Relaxation at the JW Marriott Phuket",
         "source": "Travel Codex",
+        "author": "Brad",
         "url": "https://www.travelcodex.com/relaxation-at-the-jw-marriott-phuket/",
         "published_date": "2026-07-28",
-        "summary": "A stay report from the Mai Khao resort covering the accommodations, pools and dining, plus a recommended kayaking excursion to Phang Nga Bay."
+        "summary": "A points-and-miles writer treats the Mai Khao resort as a restful post-flight base, praising the garden room, breakfast buffet, multiple pools with a swim-up bar, cheap beach massages, and a Phang Nga Bay kayak trip."
+      },
+      {
+        "title": "JW Marriott Phuket review: luxury resort stay on Mai Khao Beach",
+        "source": "Fat Mum Slim",
+        "author": "Chantelle Ellem",
+        "url": "https://fatmumslim.com.au/jw-marriott-phuket/",
+        "published_date": "2026-01-31",
+        "summary": "A blogger describes an unhurried luxury stay, spotlighting the peaceful gardens, several pools, beachfront setting and strong dining, and frames it as ideal for couples and families seeking relaxation over nightlife."
+      },
+      {
+        "title": "Is JW Marriott Phuket Resort & Spa in Thailand Worth It? [Review]",
+        "source": "Upgraded Points",
+        "author": "Katie Seemann",
+        "url": "https://upgradedpoints.com/travel/hotels/jw-marriott-phuket-resort-spa-review/",
+        "published_date": "2026-01-19",
+        "summary": "After a five-night stay the writer rates the beachfront resort good value on points or cash, praising the three pools, breakfast buffet and varied dining while noting the room decor felt somewhat dated."
       }
     ],
     "videos": [
       {
+        "title": "JW Marriott Resort and Spa, Phuket in Mai Khao Beach - Resort Review",
+        "channel": "Passport To Travel",
+        "url": "https://www.youtube.com/watch?v=tXLnU296KYk",
+        "video_id": "tXLnU296KYk",
+        "published_date": "2025-06-15"
+      },
+      {
+        "title": "JW Marriott Phuket Resort & Spa (Mai Khao Beach)",
+        "channel": "Love Flying And Hotels",
+        "url": "https://www.youtube.com/watch?v=bH-8ub2aXeA",
+        "video_id": "bH-8ub2aXeA",
+        "published_date": "2024-09-05"
+      },
+      {
+        "title": "JW Marriott Phuket Resort & Spa Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=4gkida94Yv8",
+        "video_id": "4gkida94Yv8",
+        "published_date": "2024-06-19"
+      },
+      {
         "title": "JW Marriott Phuket Resort & Spa Tour & Review [4K] | Beachfront Luxury Resort, Phuket",
         "channel": "Jewels of Southeast Asia",
         "url": "https://www.youtube.com/watch?v=Ov6JkwO3vJE",
-        "video_id": "Ov6JkwO3vJE"
+        "video_id": "Ov6JkwO3vJE",
+        "published_date": "2023-12-18"
       },
       {
         "title": "JW Marriott Phuket, Thailand | 4K Hotel Tour & Honest Review",
         "channel": "The Flip Flop Traveller",
         "url": "https://www.youtube.com/watch?v=_mwgUB62ndA",
-        "video_id": "_mwgUB62ndA"
+        "video_id": "_mwgUB62ndA",
+        "published_date": "2023-04-22"
       }
     ]
   },

@@ -61,12 +61,21 @@
         "title": "Review: JW Marriott Hotel Bangkok",
         "source": "Luxury Travel Diary",
         "url": "https://www.luxurytraveldiary.com/2025/09/review-jw-marriott-hotel-bangkok/",
-        "published_date": "2025-09",
-        "summary": "A luxury-travel site's review of the renovated JW Marriott, praising its sleek Thai-influenced design, wellness focus, and dining that rivals the city's best."
+        "published_date": "2025-09-28",
+        "summary": "A 2025 stay review praising the hotel's strategic lower-Sukhumvit position between Ploenchit and Nana BTS, its refined marble-bathroom rooms, executive lounge and strong dining lineup."
+      },
+      {
+        "title": "[Hotel Review] JW Marriott Hotel Bangkok",
+        "source": "Satu Kosong Travels",
+        "author": "Satu Kosong",
+        "url": "https://10satukosong.wpcomstaging.com/2024/03/21/hotel-review-jw-marriott-hotel-bangkok/",
+        "published_date": "2024-03-21",
+        "summary": "A March 2024 stay report on the JW Marriott at 4 Sukhumvit Road Soi 2, covering room comfort, service and the property's spot between Nana and Ploenchit BTS stations."
       },
       {
         "title": "Review: JW Marriott Bangkok",
         "source": "Prince of Travel",
+        "author": "Ricky Zhang",
         "url": "https://princeoftravel.com/reviews/jw-marriott-bangkok/",
         "published_date": "2022-11",
         "summary": "A points-and-miles review focused on the post-renovation rooms and the Executive Club Lounge, rated among the better hotel lounges in Bangkok."
@@ -74,16 +83,38 @@
     ],
     "videos": [
       {
+        "title": "JW Marriott Bangkok Hotel Tour Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=gkF3746_ono",
+        "video_id": "gkF3746_ono",
+        "published_date": "2024-11-14"
+      },
+      {
+        "title": "A Complete Review of JW Marriott Bangkok",
+        "channel": "Ahmed Dawn",
+        "url": "https://www.youtube.com/watch?v=4MUDJFgVnMY",
+        "video_id": "4MUDJFgVnMY",
+        "published_date": "2024-08-19"
+      },
+      {
         "title": "JW Marriott Bangkok: Full Tour in Bangkok Thailand plus HONEST Review",
         "channel": "Nick Gray",
         "url": "https://www.youtube.com/watch?v=ZslVsdJKOlk",
-        "video_id": "ZslVsdJKOlk"
+        "video_id": "ZslVsdJKOlk",
+        "published_date": "2023-08-09"
       },
       {
         "title": "JW Marriott Bangkok hotel review with Executive Lounge access!",
         "channel": "Chris chow eats",
         "url": "https://www.youtube.com/watch?v=ELorK7SRSLU",
-        "video_id": "ELorK7SRSLU"
+        "video_id": "ELorK7SRSLU",
+        "published_date": "2023-03-18"
+      },
+      {
+        "title": "Why JW Marriott Bangkok Is Marriott's BEST Luxury Hotel In The City! Full Review/Tour!!",
+        "channel": "Go Go Travel With Josh",
+        "url": "https://www.youtube.com/watch?v=sVnXRYZIIXs",
+        "video_id": "sVnXRYZIIXs"
       }
     ]
   },

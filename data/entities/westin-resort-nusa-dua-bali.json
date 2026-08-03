@@ -59,8 +59,32 @@
   "external_coverage": {
     "reviews": [
       {
+        "title": "The Westin Resort Nusa Dua Bali Review: Real Experience at a 5 Star Beachfront Resort in Bali",
+        "source": "Sinae Travel",
+        "author": "Sinae",
+        "url": "https://sinaetravel.com/the-westin-resort-nusa-dua-bali-review/",
+        "published_date": "2026-04-07",
+        "summary": "A travel writer's first-hand take calling it a reliable, well-run large resort that delivers solid quality rather than ultra-luxury, covering location, rooms and dining while noting few room categories get true ocean views."
+      },
+      {
+        "title": "Review: The Westin Resort Nusa Dua, Bali",
+        "source": "Reviewed.asia",
+        "url": "https://reviewed.asia/reviewed-westin-resort-nusa-dua-bali/",
+        "published_date": "2023-08-18",
+        "summary": "The publication stayed a few days and gives a favourable, family-focused assessment praising wellness programming, dining variety, spacious rooms with the Heavenly bed, and kid-friendly facilities."
+      },
+      {
+        "title": "The Westin Resort Nusa Dua in Bali - Hotel Review with Photos",
+        "source": "BaliDave",
+        "author": "BaliDave",
+        "url": "https://balidave.com/westin-hotel-bali",
+        "published_date": "2023-05-12",
+        "summary": "An editorial photo guide presenting the Westin as a compact, convenient family resort in gated Nusa Dua with three lagoon pools, a well-regarded kids club and direct beach access."
+      },
+      {
         "title": "Review: The Westin Resort Nusa Dua, Bali, Indonesia",
         "source": "World Traveller 73",
+        "author": "Mark Lepage",
         "url": "https://worldtraveller73.com/2021/08/19/review-the-westin-resort-nusa-dua-bali-indonesia/",
         "published_date": "2021-08-19",
         "summary": "A detailed resort review covering the lagoon-shaped pools, sheltered beachfront, Heavenly-bed rooms, and the family-friendly facilities at the Nusa Dua property."
@@ -68,6 +92,7 @@
       {
         "title": "Review: The Westin Nusa Dua, Bali (Ocean Suite)",
         "source": "Suite Smile",
+        "author": "Fai",
         "url": "https://suitesmile.com/blog/2021/05/30/review-the-westin-nusa-dua-bali-ocean-suite/",
         "published_date": "2021-05-30",
         "summary": "An Ocean Suite stay review walking through the suite, the resort's pools and beach, and its Nusa Dua setting."
@@ -75,16 +100,39 @@
     ],
     "videos": [
       {
+        "title": "Room Tour | WESTIN NUSA DUA Newly Renovated Rooms 2026",
+        "channel": "The Hotel Walker",
+        "url": "https://www.youtube.com/watch?v=3gYdP_uH94Y",
+        "video_id": "3gYdP_uH94Y",
+        "published_date": "2026-05-07"
+      },
+      {
         "title": "The Westin Resort Nusa Dua Review + Walkthrough Tour — Bali, Indonesia",
         "channel": "Motivated Travel | Family Reviews, Guides and Tips",
         "url": "https://www.youtube.com/watch?v=Th2sKAk5xNE",
-        "video_id": "Th2sKAk5xNE"
+        "video_id": "Th2sKAk5xNE",
+        "published_date": "2026-01-07"
+      },
+      {
+        "title": "We didn't expect The Westin Nusa Dua to look like this",
+        "channel": "Dine Drink Travel",
+        "url": "https://www.youtube.com/watch?v=F2YetG460Kk",
+        "video_id": "F2YetG460Kk",
+        "published_date": "2025-02-01"
+      },
+      {
+        "title": "The Westin Resort Nusa Dua Hotel in Bali, room and resort tour.",
+        "channel": "James & Ellie's Adventures",
+        "url": "https://www.youtube.com/watch?v=blta5MvlL1Q",
+        "video_id": "blta5MvlL1Q",
+        "published_date": "2024-09-08"
       },
       {
         "title": "Nusa Dua Bali: Westin Resort HONEST Review",
         "channel": "Nick Gray",
         "url": "https://www.youtube.com/watch?v=cgG4s9aCitQ",
-        "video_id": "cgG4s9aCitQ"
+        "video_id": "cgG4s9aCitQ",
+        "published_date": "2024-06-18"
       }
     ]
   },
