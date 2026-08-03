@@ -49,7 +49,14 @@ const searchText = `${entity.name} ${locationLine} ${entity.short_description ??
 // entity has some.
 const panelClass = (entity.slug ?? entity.name ?? '').charCodeAt(0) % 2 === 0 ? 'bg-brand-panel-a dark:bg-brand-panel-a-dark' : 'bg-brand-panel-b dark:bg-brand-panel-b-dark';
 const initial = (entity.name ?? '?').trim().charAt(0).toUpperCase();
-const kicker = [facts.neighborhood, entity.tags?.[0]]
+// Seed tags frequently restate the neighborhood itself (e.g. neighborhood
+// "Mai Khao Beach" + tag "mai khao beach"), which read as a stutter in the
+// kicker line -- drop a tag that's just the neighborhood in different
+// casing rather than showing it twice.
+const firstTag = entity.tags?.find(
+  (tag) => !facts.neighborhood || tag.toLowerCase() !== facts.neighborhood.toLowerCase()
+);
+const kicker = [facts.neighborhood, firstTag]
   .filter(Boolean)
   .map((s, i) => (i === 1 ? s.charAt(0).toUpperCase() + s.slice(1) : s))
   .join(' · ');
