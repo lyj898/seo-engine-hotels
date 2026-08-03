@@ -1,0 +1,80 @@
+{
+  "entity_id": "st-regis-bali-resort",
+  "slug": "st-regis-bali-resort",
+  "name": "The St. Regis Bali Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A beachfront St. Regis resort in Nusa Dua with a signature saltwater lagoon, butler service, and direct access to a public beach.",
+  "ai_summary": "The St. Regis Bali Resort sits directly on the beachfront within Nusa Dua, built around a distinctive saltwater lagoon that winds through the property and a St. Regis Butler Service team assigned to every guest. Guest reviews consistently praise the resort's elegant atmosphere, immaculate cleanliness, and personalized service, with the lagoon, spa, and fine dining outlets all cited as strengths, along with a well-known weekend touch where bartenders row small traditional boats across the lagoon to serve guests cocktails. Rooms and suites draw praise for spacious, stylish layouts, and returning guests report occasional complimentary upgrades. The most consistent watchout in reviews is price -- several guests note the resort is expensive even by Nusa Dua's luxury standards, though most feel the amenities and service justify it. A smaller but recurring point concerns the beach itself: because Nusa Dua's beachfront is public rather than resort-exclusive, guests share it with vendors and non-guests strolling past, which is a mild trade-off against the otherwise controlled, private feel of the rest of the resort. For travelers seeking one of Bali's most established ultra-luxury Bonvoy properties with butler-level service, it remains a strong, consistently reviewed choice.",
+  "core_facts": {
+    "address": "Kawasan Pariwisata Nusa Dua, Lot S6, PO Box 44, Nusa Dua, Bali, Indonesia 80363",
+    "brand_sub_brand": "St. Regis",
+    "neighborhood": "Nusa Dua",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Beachfront Nusa Dua setting built around a signature saltwater lagoon",
+    "St. Regis Butler Service assigned to every guest",
+    "Rooms and suites consistently praised as spacious and stylish, with occasional complimentary upgrades reported",
+    "Spa and fine dining outlets draw consistent praise",
+    "A distinctive weekend lagoon cocktail service is a specifically noted highlight"
+  ],
+  "cons": [
+    "Several guests describe pricing as high even relative to Nusa Dua's luxury tier",
+    "Nusa Dua's beachfront is public, so guests share the beach with vendors and non-guests",
+    "Butler service and other signature touches come at a premium reflected in room rates"
+  ],
+  "research_highlights": [
+    "Guest reviews consistently praise the resort's elegant atmosphere and immaculate cleanliness",
+    "The saltwater lagoon and St. Regis Butler Service are repeatedly singled out as defining, well-executed features",
+    "Rooms and suites are described as spacious and stylish, with some guests noting complimentary upgrades"
+  ],
+  "research_watchouts": [
+    "Pricing is a recurring theme, with some guests describing the resort as expensive even by Nusa Dua standards",
+    "Because Nusa Dua's beach is public rather than private, vendors and non-guests share the beachfront"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Does every guest get butler service at The St. Regis Bali Resort?",
+      "answer": "Yes -- St. Regis Butler Service is a signature, brand-wide feature assigned to every guest at the resort, and it's consistently cited in reviews as a highlight of the stay."
+    },
+    {
+      "question": "Is the beach at The St. Regis Bali Resort private?",
+      "answer": "No -- Nusa Dua's beachfront is public, so while the resort has direct beach access, guests share the beach with vendors and non-guests walking along it, which some reviews note as a minor trade-off against the otherwise controlled resort environment."
+    }
+  ],
+  "tags": ["nusa dua", "butler service", "luxury resort"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsxr-the-st-regis-bali-resort/overview/",
+      "label": "Official The St. Regis Bali Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297698-d1146351-Reviews-or1440-The_St_Regis_Bali_Resort-Nusa_Dua_Benoa_South_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsxr-the-st-regis-bali-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-bali", "amarterra-villas-bali-nusa-dua-autograph-collection", "courtyard-bali-nusa-dua"],
+  "reliability_score": 67,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

@@ -1,0 +1,80 @@
+{
+  "entity_id": "sthala-tribute-portfolio-ubud-bali",
+  "slug": "sthala-tribute-portfolio-ubud-bali",
+  "name": "Sthala, a Tribute Portfolio Hotel, Ubud Bali",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A Tribute Portfolio hotel in Lodtunduh on Ubud's outskirts, set among paddy fields, forest, and the Wos River, with a free shuttle into town.",
+  "ai_summary": "Sthala, a Tribute Portfolio Hotel, Ubud Bali sits in Lodtunduh on Ubud's outskirts, built with custom-designed rooms and suites set among lush paddy fields, dense forest, and the Wos River. Rated 4 of 5 across roughly 2,180 TripAdvisor reviews and ranked third of 14 hotels in Lodtunduh, it draws consistently strong praise for hospitality that guests describe as unmatched, with staff repeatedly called very nice and genuinely hospitable. The pools are described as very beautiful, and the breakfast buffet draws specific praise for its size and quality. Rooms and suites are noted for exquisite river and jungle views, comfortable beds, and pleasant balconies. A free shuttle runs into central Ubud roughly every two hours, taking about 15 minutes, which guests find convenient for reaching the town's restaurants, markets, and attractions like the Monkey Forest. As with other Ubud-outskirts properties in this directory, the main trade-off versus a hotel located directly in town is that the shuttle schedule, rather than walking, governs trips into central Ubud, and the property sits farther from the airport and beach-area resorts than any of Bali's coastal Bonvoy hotels. For travelers seeking an immersive, nature-set Tribute Portfolio stay near Ubud, it's one of the more consistently well-reviewed options.",
+  "core_facts": {
+    "address": "Jalan A.A. Gede Rai, Mawang Kelod, Lodtunduh, Ubud, Bali, Indonesia 80571",
+    "brand_sub_brand": "Tribute Portfolio",
+    "neighborhood": "Ubud / Lodtunduh",
+    "distance_from_airport_km": 32,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Set among paddy fields, forest, and the Wos River in Lodtunduh on Ubud's outskirts",
+    "Rated 4 of 5 across roughly 2,180 TripAdvisor reviews, ranked third of 14 hotels in its area",
+    "Hospitality is repeatedly described as unmatched, with staff called very nice and hospitable",
+    "Custom-designed rooms and suites offer exquisite river and jungle views",
+    "Free shuttle to central Ubud runs roughly every two hours"
+  ],
+  "cons": [
+    "The roughly-every-two-hours shuttle schedule, rather than walking, governs trips into central Ubud",
+    "At roughly 32 km from the airport, it's a longer transfer than any of Bali's coastal Bonvoy properties",
+    "Inland, nature-set location won't suit travelers prioritizing beach access"
+  ],
+  "research_highlights": [
+    "Hospitality is described as unmatched, with staff repeatedly called very nice and hospitable",
+    "Pools are described as very beautiful, and the breakfast buffet draws praise for being large and delicious",
+    "Rooms and suites offer exquisite views of the surrounding river and jungle, with comfortable beds and pleasant balconies"
+  ],
+  "research_watchouts": [
+    "The free shuttle into central Ubud runs roughly every two hours, so trips into town need to be planned around the schedule",
+    "The Lodtunduh/Ubud-outskirts setting is a considerably longer transfer from the airport than any beach-area property"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "How do guests get from Sthala, a Tribute Portfolio Hotel, Ubud Bali into central Ubud?",
+      "answer": "The hotel runs a free shuttle into central Ubud roughly every two hours, with the trip taking about 15 minutes, since the property itself sits in Lodtunduh on Ubud's outskirts rather than in the town center."
+    },
+    {
+      "question": "What is the setting like at Sthala, a Tribute Portfolio Hotel, Ubud Bali?",
+      "answer": "The hotel is set among lush paddy fields, dense forest, and the Wos River, with custom-designed rooms and suites offering river and jungle views -- a nature-immersed setting rather than a beachfront or town-center location."
+    }
+  ],
+  "tags": ["ubud", "tribute portfolio", "nature setting"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpstp-sthala-a-tribute-portfolio-hotel-ubud-bali/overview/",
+      "label": "Official Sthala, a Tribute Portfolio Hotel, Ubud Bali overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g3388764-d11670359-Reviews-Sthala_a_Tribute_Portfolio_Hotel_Ubud_Bali-Lodtunduh_Ubud_Gianyar_Regency_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpstp-sthala-a-tribute-portfolio-hotel-ubud-bali/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["westin-resort-spa-ubud-bali", "cicada-resort-bali-ubud-autograph-collection"],
+  "reliability_score": 63,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

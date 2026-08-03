@@ -1,0 +1,80 @@
+{
+  "entity_id": "w-bali-seminyak",
+  "slug": "w-bali-seminyak",
+  "name": "W Bali - Seminyak",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A W Hotels beachfront resort on Petitenget/Seminyak's northern edge, with villa and room categories and the brand's signature lifestyle design.",
+  "ai_summary": "W Bali - Seminyak sits on the Petitenget stretch at Seminyak's northern edge, combining beachfront rooms with a large stock of private-pool villas under the W Hotels lifestyle brand. Rated 4 of 5 across more than 5,400 TripAdvisor reviews -- one of the larger review bases among Bali's Bonvoy properties -- it draws consistently strong praise for its spacious, modern, and well-maintained villas, stylish resort-wide design, and staff service described by guests as world-class and consistently friendly and attentive. Dining across the resort's venues is repeatedly cited as strong, and room comfort and size are called out as unsurpassed by several reviewers. The main recurring watchouts concern the pool bar and beach-club side of the experience rather than the rooms themselves: service at the pool bar has been described as slow, with mixed-up or delayed orders during busy periods, and despite Seminyak's reputation for a high-end cocktail scene, some guests find the W's cocktail offerings underwhelming for the price. For travelers drawn to W's design-forward brand identity and villa product on Bali's fashionable northern Seminyak coast, it remains one of the more consistently well-reviewed lifestyle resorts in this directory.",
+  "core_facts": {
+    "address": "Jalan Petitenget, Kerobokan, Seminyak, Bali, Indonesia 80361",
+    "brand_sub_brand": "W Hotels",
+    "neighborhood": "Seminyak / Petitenget",
+    "distance_from_airport_km": 12,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Beachfront Petitenget/Seminyak location with a large stock of private-pool villas",
+    "Rated 4 of 5 across more than 5,400 TripAdvisor reviews, one of the larger review bases in this directory's Bali coverage",
+    "Villas and rooms are consistently described as spacious, modern, and well maintained",
+    "Staff service is repeatedly praised as world-class and attentive",
+    "Dining across the resort's venues draws consistently positive comments"
+  ],
+  "cons": [
+    "Pool bar service has been described as slow, with delayed or incorrect orders during busy periods",
+    "Some guests find cocktail quality underwhelming relative to Seminyak's high-end cocktail-bar reputation",
+    "As a large, design-focused lifestyle resort, the atmosphere leans toward a party/social scene that won't suit every traveler"
+  ],
+  "research_highlights": [
+    "Service is consistently described as friendly and attentive, with villas praised as spacious, modern, and well maintained",
+    "Multiple reviews call room comfort and size unsurpassed, and staff and dining are described as world class",
+    "Stylish, well-maintained facilities throughout the resort draw repeated praise"
+  ],
+  "research_watchouts": [
+    "Pool bar service is described in multiple reviews as slow, with items taking a long time to arrive and orders sometimes incorrect",
+    "Cocktail quality has drawn some criticism as underwhelming given Seminyak's high-end cocktail-bar reputation"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Does W Bali - Seminyak have private-pool villas?",
+      "answer": "Yes -- alongside standard beachfront rooms, the resort offers a large stock of private-pool villas, which guest reviews consistently describe as spacious, modern, and well maintained."
+    },
+    {
+      "question": "Is pool bar service reliable at W Bali - Seminyak?",
+      "answer": "Guest reviews are mixed on this specific point -- several describe pool bar service as slow during busy periods, with delayed or incorrect orders, even though overall resort service and dining are rated highly."
+    }
+  ],
+  "tags": ["seminyak", "pool villas", "lifestyle resort"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpswh-w-bali-seminyak/overview/",
+      "label": "Official W Bali - Seminyak overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g13356179-d1456498-Reviews-W_Bali_Seminyak-Kerobokan_Kelod_North_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpswh-w-bali-seminyak/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["courtyard-bali-seminyak", "four-points-bali-seminyak"],
+  "reliability_score": 68,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

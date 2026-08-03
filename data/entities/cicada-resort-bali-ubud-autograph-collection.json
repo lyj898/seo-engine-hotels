@@ -1,0 +1,80 @@
+{
+  "entity_id": "cicada-resort-bali-ubud-autograph-collection",
+  "slug": "cicada-resort-bali-ubud-autograph-collection",
+  "name": "Cicada Resort Bali Ubud, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A secluded Autograph Collection resort in Sebatu near Tegallalang, with valley-view suites and private heated pool villas set in dense forest.",
+  "ai_summary": "Cicada Resort Bali Ubud, Autograph Collection sits in Sebatu, near the Tegallalang Rice Fields roughly 10 minutes away and about 25 minutes from Kintamani, in a secluded forest setting away from Ubud's more crowded center. The property is small and boutique in scale, with 20 valley-view suites and 10 private heated pool villas built around a wellness-oriented, villa-style experience. Guest sentiment is strongly positive but comes from a comparatively small review base -- ranked second of 10 hotels in Tegallalang with several hundred reviews rather than the thousands seen at larger Bali resorts -- with guests describing stays as exceptional and citing personalized, five-star-level service and a standout on-site yoga program. At the same time, at least one detailed review describes the experience as overhyped and disappointing relative to expectations, a useful counterpoint given the otherwise glowing tone of most feedback. Given the smaller sample size and the wide gap between the most positive and most critical reviews, this profile treats the available sentiment as suggestive rather than conclusive. For travelers seeking a secluded, wellness-focused villa stay away from Ubud's busier center, it's worth researching current reviews closely given how new and small the review base still is.",
+  "core_facts": {
+    "address": "Jalan Raya Bilukan, Sebatu, Bali, Indonesia 80561",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Ubud / Sebatu",
+    "distance_from_airport_km": 38,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Secluded forest setting in Sebatu, near Tegallalang Rice Fields and away from Ubud's busier center",
+    "Small, boutique scale with 20 valley-view suites and 10 private heated pool villas",
+    "Several reviews describe personalized, five-star-level service and an excellent on-site yoga program",
+    "Ranked second of 10 hotels in Tegallalang among reviewed properties"
+  ],
+  "cons": [
+    "Review base is comparatively small (several hundred reviews), so sentiment is less statistically reliable than at larger Bali resorts",
+    "At least one detailed review describes the experience as overhyped and disappointing relative to expectations",
+    "At roughly 38 km from the airport, it's among the farthest Bali Bonvoy properties from Ngurah Rai",
+    "Secluded location means limited walkable dining or activity options outside the resort"
+  ],
+  "research_highlights": [
+    "Guests describe stays as exceptional, citing a private, villa-like experience with personalized, five-star-level service",
+    "The on-site yoga program and instructor draw specific, detailed praise",
+    "The forest setting near Tegallalang Rice Fields is repeatedly cited as a highlight for guests seeking seclusion"
+  ],
+  "research_watchouts": [
+    "At least one detailed review describes the experience as overhyped and disappointing, a notable counterpoint to the otherwise very positive tone of most reviews",
+    "The review base is small relative to other Bali properties in this directory, so overall sentiment should be treated as preliminary"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Cicada Resort Bali Ubud, Autograph Collection close to central Ubud?",
+      "answer": "No -- it's located in Sebatu, near the Tegallalang Rice Fields roughly 10 minutes away, in a secluded forest setting rather than central Ubud, so a car or resort transfer is needed to reach town."
+    },
+    {
+      "question": "How reliable is the guest review sentiment for Cicada Resort Bali Ubud, Autograph Collection?",
+      "answer": "Reviews are mostly very positive, but the review base is comparatively small and includes at least one detailed critical review describing the stay as overhyped, so sentiment here should be treated as an early, less conclusive signal compared with more heavily reviewed Bali properties."
+    }
+  ],
+  "tags": ["ubud", "secluded", "pool villas"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsuk-cicada-resort-bali-ubud-autograph-collection/overview/",
+      "label": "Official Cicada Resort Bali Ubud, Autograph Collection overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g23984724-d26346140-Reviews-Cicada_Resort_Bali_Ubud_Autograph_Collection-Tegallalang_Gianyar_Regency_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsuk-cicada-resort-bali-ubud-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sthala-tribute-portfolio-ubud-bali", "westin-resort-spa-ubud-bali"],
+  "reliability_score": 56,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

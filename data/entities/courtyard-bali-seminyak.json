@@ -1,0 +1,80 @@
+{
+  "entity_id": "courtyard-bali-seminyak",
+  "slug": "courtyard-bali-seminyak",
+  "name": "Courtyard by Marriott Bali Seminyak Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A select-service Courtyard resort near the beach in Seminyak, a short walk from the area's boutiques and Eat Street dining.",
+  "ai_summary": "Courtyard by Marriott Bali Seminyak Resort sits near the beach in central Seminyak, within a quick walk of the area's boutiques, restaurants, and entertainment strip. Rated 4 of 5 across nearly 5,000 TripAdvisor reviews and ranked in the top tier among Seminyak's roughly 150 hotels, it's one of the more heavily reviewed select-service Bonvoy properties in this directory. Guest feedback is consistently strong on cleanliness, with rooms and facilities described as spotless, and the buffet breakfast is a standout, repeatedly called high-quality and diverse. Staff are consistently praised for warm, genuinely hospitable service, and the on-site spa and Eat Street dining draw specific mentions. As a select-service property, the trade-off versus Seminyak's full-service resorts is a more compact footprint and fewer bundled amenities, though guests don't flag this as a significant downside given the location and price point. The main watchout worth noting for prospective bookers is that, like other Courtyard properties, breakfast and certain services aren't automatically included on every rate tier, so it's worth confirming inclusions at booking. Overall, it's one of the strongest-reviewed value options in Seminyak for travelers who want a walkable beach-town base without full-service resort pricing.",
+  "core_facts": {
+    "address": "Jalan Camplung Tanduk No. 103 SP, Dhyana Pura, Seminyak, Bali, Indonesia 80361",
+    "brand_sub_brand": "Courtyard",
+    "neighborhood": "Seminyak",
+    "distance_from_airport_km": 11,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Near the beach in central Seminyak, a short walk from boutiques, restaurants, and Eat Street dining",
+    "Rated 4 of 5 across nearly 5,000 TripAdvisor reviews, ranking in the top tier of Seminyak's roughly 150 hotels",
+    "Cleanliness draws consistently strong, specific praise",
+    "Buffet breakfast is repeatedly described as high-quality and diverse",
+    "Staff service is consistently described as warm and hospitable"
+  ],
+  "cons": [
+    "As a select-service Courtyard, breakfast and some amenities aren't automatically included on every rate",
+    "More compact footprint than Seminyak's full-service resort properties",
+    "Central Seminyak location means more foot traffic and street noise than a quieter resort enclave"
+  ],
+  "research_highlights": [
+    "The resort is often praised for exceptional cleanliness, with spotless rooms and facilities",
+    "The buffet breakfast is a standout, repeatedly described as high-quality and diverse",
+    "Staff consistently deliver warm welcomes and are described as friendly, warm, and helpful"
+  ],
+  "research_watchouts": [
+    "Breakfast and certain amenities are not automatically bundled into every rate, typical of the select-service Courtyard tier -- worth confirming at booking",
+    "The compact, central-Seminyak footprint trades some resort-scale amenities for walkability"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Courtyard by Marriott Bali Seminyak Resort walkable to Seminyak's shops and restaurants?",
+      "answer": "Yes -- it's located near the beach in central Seminyak, within a quick walk of the area's boutiques, restaurants, and Eat Street dining strip."
+    },
+    {
+      "question": "Is breakfast included at Courtyard by Marriott Bali Seminyak Resort?",
+      "answer": "Not automatically on every rate -- as a select-service Courtyard property, breakfast is a consistently praised highlight for guests who book it, but it isn't guaranteed included on all room rates, so it's worth checking at booking."
+    }
+  ],
+  "tags": ["seminyak", "select-service", "walkable"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpssm-courtyard-bali-seminyak-resort/overview/",
+      "label": "Official Courtyard by Marriott Bali Seminyak Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g469404-d6635852-Reviews-Courtyard_by_Marriott_Bali_Seminyak_Resort-Seminyak_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpssm-courtyard-bali-seminyak-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["w-bali-seminyak", "four-points-bali-seminyak"],
+  "reliability_score": 65,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

@@ -1,0 +1,80 @@
+{
+  "entity_id": "four-points-bali-kuta",
+  "slug": "four-points-bali-kuta",
+  "name": "Four Points by Sheraton Bali, Kuta",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A select-service Four Points a short walk from Kuta Beach, with a lagoon-style pool and a central Kuta location near restaurants and nightlife.",
+  "ai_summary": "Four Points by Sheraton Bali, Kuta sits a short walk from Kuta Beach in a central Kuta location surrounded by restaurants, shops, and nightlife. Rated 4 of 5 across roughly 1,500 TripAdvisor reviews, it ranks in the top tier among Kuta's roughly 290 hotels, with guests consistently praising the spacious lagoon-style pool, comfortable rooms with reliable wifi and air conditioning, and a breakfast buffet described as having plenty of high-quality variety. Staff are repeatedly singled out for polite, warm service that leaves guests feeling well cared for. As a select-service property in a busy tourist district, the resort has had some maintenance-related feedback in reviews, though hotel management has been noted as responsive and committed to addressing these issues. A separate but consistent watchout mentioned by guests is traffic congestion getting into and out of the immediate area during peak times, a function of Kuta's dense, high-traffic tourist infrastructure rather than the hotel itself. For travelers who want a central, walkable Kuta base with a strong pool and breakfast at select-service pricing, it's a solidly reviewed option among Bali's Bonvoy properties.",
+  "core_facts": {
+    "address": "Jalan Benesari, Banjar Pengabetan, Kuta, Bali, Indonesia 80361",
+    "brand_sub_brand": "Four Points",
+    "neighborhood": "Kuta",
+    "distance_from_airport_km": 4,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "A short walk from Kuta Beach, in a central location near restaurants, shops, and nightlife",
+    "Rated 4 of 5 across roughly 1,500 TripAdvisor reviews, ranking in the top tier of Kuta's roughly 290 hotels",
+    "Spacious lagoon-style pool draws consistent praise",
+    "Breakfast buffet is described as having high-quality variety",
+    "Staff are repeatedly praised as polite and warm"
+  ],
+  "cons": [
+    "Some reviews mention room maintenance issues, though management has been noted as responsive",
+    "Traffic congestion in and around central Kuta can be significant during peak times",
+    "As a select-service Four Points, amenities are more limited than a full-service resort"
+  ],
+  "research_highlights": [
+    "The lagoon pool is described as spacious and fun, and rooms are praised for reliable wifi and air conditioning",
+    "The breakfast buffet is called exemplary, with plenty of high-quality variety",
+    "Staff greet guests warmly and are consistently described as ensuring guests' needs are met"
+  ],
+  "research_watchouts": [
+    "Some reviews mention maintenance issues in rooms, which hotel management has acknowledged and committed to addressing",
+    "Traffic getting to and from the immediate Kuta area can be heavy during peak periods, a district-wide issue rather than hotel-specific"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Bali, Kuta close to Kuta Beach?",
+      "answer": "Yes -- it's a short walk from Kuta Beach, in a central Kuta location surrounded by restaurants, shops, and nightlife."
+    },
+    {
+      "question": "What do guests say about the pool at Four Points by Sheraton Bali, Kuta?",
+      "answer": "The lagoon-style pool draws consistent praise in reviews as spacious and enjoyable, and it's frequently mentioned alongside the hotel's breakfast buffet as one of the property's strongest features."
+    }
+  ],
+  "tags": ["kuta", "select-service", "central location"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpskf-four-points-bali-kuta/overview/",
+      "label": "Official Four Points by Sheraton Bali, Kuta overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297697-d7931034-Reviews-Four_Points_by_Sheraton_Bali_Kuta-Kuta_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpskf-four-points-bali-kuta/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sheraton-bali-kuta-resort", "the-stones-hotel-legian-bali-autograph-collection"],
+  "reliability_score": 62,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

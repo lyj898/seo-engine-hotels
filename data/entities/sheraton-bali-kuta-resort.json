@@ -1,0 +1,80 @@
+{
+  "entity_id": "sheraton-bali-kuta-resort",
+  "slug": "sheraton-bali-kuta-resort",
+  "name": "Sheraton Bali Kuta Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A rooftop-pool Sheraton directly on Kuta Beach, next to Beachwalk Mall, with ocean views from all 196 rooms.",
+  "ai_summary": "Sheraton Bali Kuta Resort sits directly on Kuta Beach adjacent to Beachwalk Mall's shops and cineplex, in the center of Kuta with most malls and restaurants within walking distance. Rated 4 of 5 across roughly 2,570 TripAdvisor reviews, it's built with a rooftop-level design where the pool, two restaurants, and lounge sit above street level overlooking the sea, and the resort's own materials note that all 196 rooms and suites offer private balconies with at least partial Indian Ocean views. Guest feedback consistently highlights the variety and quality of amenities, spacious rooms, and a strong breakfast spread, along with the convenience of being steps from Kuta's densest retail and dining strip. As a full-service Sheraton in one of Bali's busiest, most built-up beach towns, the main trade-off is Kuta itself: the area is considerably busier, noisier, and more commercialized than Nusa Dua or Seminyak, which suits travelers who want maximum walkability and nightlife but not those seeking a quiet resort escape. The rooftop pool and dining areas, while offering sea views, are also smaller-footprint than a sprawling beachfront resort, reflecting the compact urban site. For centrally located, ocean-view Kuta stays, it's one of the more consistently reviewed full-service Bonvoy options.",
+  "core_facts": {
+    "address": "Jalan Pantai Kuta, Kuta, Bali, Indonesia 80361",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Kuta",
+    "distance_from_airport_km": 5,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Directly on Kuta Beach, adjacent to Beachwalk Mall's shops and cineplex",
+    "Rated 4 of 5 across roughly 2,570 TripAdvisor reviews",
+    "All 196 rooms and suites have private balconies with at least partial ocean views",
+    "Rooftop-level pool and dining venues overlook the sea",
+    "One of the more walkable full-service resorts to Kuta's shops and restaurants"
+  ],
+  "cons": [
+    "Kuta is considerably busier, noisier, and more commercialized than Nusa Dua or Seminyak",
+    "Compact urban footprint means smaller pool and grounds than a sprawling beachfront resort",
+    "Central Kuta location trades quiet-resort feel for maximum walkability"
+  ],
+  "research_highlights": [
+    "Guests highlight the variety and quality of amenities, spacious rooms, and an excellent breakfast spread",
+    "All rooms offer ocean views to varying degrees, with the rooftop pool and restaurants also overlooking the sea",
+    "The location adjacent to Beachwalk Mall puts shops, dining, and a cineplex within walking distance"
+  ],
+  "research_watchouts": [
+    "Kuta's busy, commercialized, tourist-heavy character is a meaningful trade-off versus quieter Nusa Dua or Seminyak resorts",
+    "The compact, rooftop-style pool and dining layout is smaller-scale than a sprawling beachfront resort"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Do all rooms at Sheraton Bali Kuta Resort have ocean views?",
+      "answer": "Yes -- per the resort's own information, all 196 rooms and suites include private balconies with at least partial Indian Ocean views, and the rooftop-level pool and restaurants also overlook the sea."
+    },
+    {
+      "question": "Is Sheraton Bali Kuta Resort within walking distance of shops and restaurants?",
+      "answer": "Yes -- it sits directly on Kuta Beach next to Beachwalk Mall's shops and cineplex, in the center of Kuta with most malls and restaurants reachable on foot."
+    }
+  ],
+  "tags": ["kuta", "beachfront", "ocean view"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsks-sheraton-bali-kuta-resort/overview/",
+      "label": "Official Sheraton Bali Kuta Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297697-d3435738-Reviews-Sheraton_Bali_Kuta_Resort-Kuta_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsks-sheraton-bali-kuta-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-bali-kuta", "the-stones-hotel-legian-bali-autograph-collection"],
+  "reliability_score": 64,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

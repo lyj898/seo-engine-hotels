@@ -1,0 +1,80 @@
+{
+  "entity_id": "the-stones-hotel-legian-bali-autograph-collection",
+  "slug": "the-stones-hotel-legian-bali-autograph-collection",
+  "name": "The Stones Hotel - Legian Bali, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "An Autograph Collection hotel across the road from Legian Beach, built into a former entertainment complex with an expansive pool and easy access to shopping.",
+  "ai_summary": "The Stones Hotel - Legian Bali, Autograph Collection sits across the road from Legian Beach, on the site of what was formerly The Stones entertainment center, putting it within a few minutes' walk of local markets and a newer shopping center while staying set back from Legian's busiest strip. Rated 4 of 5 across roughly 3,555 TripAdvisor reviews and ranking near the top of its immediate hotel field, it draws consistently strong guest praise for its central-but-calm beachfront-adjacent location, an expansive pool, and an extensive breakfast buffet. Service is repeatedly described as exceptionally warm and attentive, and rooms are called spacious and comfortable, with some categories including distinctive touches like balcony bathtubs. Cleanliness is another consistent strength across reviews. The main watchout guests raise is cost -- while most feel the experience delivers strong value, some note it runs on the pricier side for the Legian area specifically. As a design-forward Autograph Collection property built around a distinctive entertainment-complex heritage rather than a standard resort layout, it offers a different character from Bali's more conventional beach resorts, appealing to travelers who want personality and location together.",
+  "core_facts": {
+    "address": "Jalan Raya Pantai Kuta, Banjar Legian Kelod, Legian, Bali, Indonesia 80361",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Legian",
+    "distance_from_airport_km": 6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Across the road from Legian Beach, near local markets and a newer shopping center",
+    "Rated 4 of 5 across roughly 3,555 TripAdvisor reviews, ranking near the top of hotels in its area",
+    "Expansive pool and extensive breakfast buffet draw consistent praise",
+    "Service is repeatedly described as exceptionally warm and attentive",
+    "Rooms are called spacious and comfortable, with some categories featuring balcony bathtubs"
+  ],
+  "cons": [
+    "Some guests note pricing runs higher than other options specifically within the Legian area",
+    "Built on a former entertainment-complex site, so the layout and design differ from a conventional beach resort",
+    "Across the road from the beach rather than directly beachfront"
+  ],
+  "research_highlights": [
+    "The location earns rave reviews for being central yet calm -- across the road from the beach, near markets and shopping, but away from the busiest strip",
+    "Service is described as exceptionally warm and attentive",
+    "Rooms, cleanliness, the pool, and the breakfast buffet are all repeatedly praised, with some rooms featuring balcony bathtubs"
+  ],
+  "research_watchouts": [
+    "Some reviews note the hotel runs pricier than other Legian-area options, though most feel it delivers strong value regardless",
+    "The hotel sits across the road from Legian Beach rather than directly on the sand"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is The Stones Hotel - Legian Bali directly on the beach?",
+      "answer": "It's across the road from Legian Beach rather than directly beachfront, but guest reviews describe the location as ideal -- close enough for easy beach access and near markets and shopping, while staying away from the busiest strip."
+    },
+    {
+      "question": "What kind of property is The Stones Hotel - Legian Bali, Autograph Collection?",
+      "answer": "It's a design-forward hotel built on the site of a former entertainment complex called The Stones, giving it a distinctive layout and character compared with a conventional beach resort, while still delivering the amenities of a full-service Autograph Collection property."
+    }
+  ],
+  "tags": ["legian", "autograph collection", "beachfront-adjacent"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsak-the-stones-hotel-legian-bali-autograph-collection/overview/",
+      "label": "Official The Stones Hotel - Legian Bali overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g608487-d3528272-Reviews-The_Stones_Hotel_Legian_Bali-Legian_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsak-the-stones-hotel-legian-bali-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sheraton-bali-kuta-resort", "four-points-bali-kuta"],
+  "reliability_score": 65,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

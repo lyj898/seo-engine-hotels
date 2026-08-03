@@ -1,0 +1,80 @@
+{
+  "entity_id": "amarterra-villas-bali-nusa-dua-autograph-collection",
+  "slug": "amarterra-villas-bali-nusa-dua-autograph-collection",
+  "name": "Amarterra Villas Resort Bali Nusa Dua, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A 42-villa, all-pool-villa Autograph Collection resort in Nusa Dua, with a private beach area and a free shuttle within the enclave.",
+  "ai_summary": "Amarterra Villas Resort Bali Nusa Dua, Autograph Collection is an all-villa property in the Nusa Dua resort enclave, built around 42 private pool villas rather than standard hotel rooms, with a private beach area accessible via the resort's free Nusa Dua shuttle. Rated 4 of 5 across roughly 1,500 TripAdvisor reviews, it ranks in the middle of Nusa Dua's crowded hotel field but draws some of the most emphatic guest praise in this directory for service quality, with reviewers repeatedly describing staff as remarkable and the overall experience as genuinely five-star-plus. Villas themselves are consistently praised as spacious, well-appointed, and private, with large living areas, outdoor showers, and each villa's own pool -- a meaningfully different product from a standard resort room. The spa and gym also draw specific praise. As a smaller, villa-only property, the main trade-off versus larger Nusa Dua resorts is a more limited on-site restaurant and activity roster, and its being set back from the main beachfront strip means the free shuttle is genuinely useful rather than optional for reaching the beach and Bali Collection shops. For travelers who want privacy and a private pool over resort-scale amenities, it's a distinctive option among Nusa Dua's Bonvoy properties.",
+  "core_facts": {
+    "address": "Kawasan Pariwisata Nusa Dua ITDC Resort, Lot Block B, Nusa Dua, Bali, Indonesia 80363",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Nusa Dua",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "All-villa property with 42 private pool villas rather than standard rooms",
+    "Rated 4 of 5 across roughly 1,500 TripAdvisor reviews",
+    "Staff and overall service quality draw some of the most emphatic praise in this directory's Nusa Dua coverage",
+    "Villas are consistently described as spacious and private, with large living areas and outdoor showers",
+    "Free shuttle within Nusa Dua, plus a private beach area and well-regarded spa"
+  ],
+  "cons": [
+    "As a smaller, villa-only resort, dining and activity options on-site are more limited than at larger Nusa Dua resorts",
+    "Set back from the main beachfront strip, so the free shuttle is genuinely necessary rather than optional for beach access",
+    "Ranks in the middle of Nusa Dua's dense hotel field despite strong individual reviews, reflecting more limited overall review volume"
+  ],
+  "research_highlights": [
+    "Guests describe the resort as \"truly stunning\" with staff repeatedly called \"remarkable\" and service described as genuinely five-star-plus",
+    "Villas are praised for their space, privacy, and private pools, with large living areas and outdoor showers",
+    "The spa and gym draw specific praise, alongside the free Nusa Dua shuttle and private beach access"
+  ],
+  "research_watchouts": [
+    "As an all-villa property, the on-site dining and activity roster is smaller than at larger full-service Nusa Dua resorts",
+    "The resort sits set back from the main beach, so guests rely on the shuttle rather than walking to the beachfront"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Are all the rooms at Amarterra Villas Resort Bali Nusa Dua private pool villas?",
+      "answer": "Yes -- the resort consists of 42 private pool villas rather than standard hotel rooms, each with its own pool, large living area, and outdoor shower, which guest reviews consistently praise as spacious and private."
+    },
+    {
+      "question": "Is Amarterra Villas Resort Bali Nusa Dua directly on the beach?",
+      "answer": "It has a private beach area, but the resort itself sits set back from Nusa Dua's main beachfront strip, so guests use the resort's free shuttle within the Nusa Dua enclave to reach the beach and nearby shopping."
+    }
+  ],
+  "tags": ["nusa dua", "pool villas", "autograph collection"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsav-amarterra-villas-resort-bali-nusa-dua-autograph-collection/overview/",
+      "label": "Official Amarterra Villas Resort Bali Nusa Dua overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297698-d3515952-Reviews-Amarterra_Villas_Resort_Bali_Nusa_Dua_Autograph_Collection-Nusa_Dua_Benoa_South_Kuta_B.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsav-amarterra-villas-resort-bali-nusa-dua-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-bali", "st-regis-bali-resort", "courtyard-bali-nusa-dua"],
+  "reliability_score": 62,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

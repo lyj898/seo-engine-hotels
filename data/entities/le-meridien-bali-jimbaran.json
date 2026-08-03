@@ -1,0 +1,80 @@
+{
+  "entity_id": "le-meridien-bali-jimbaran",
+  "slug": "le-meridien-bali-jimbaran",
+  "name": "Le Méridien Bali Jimbaran",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A contemporary-design Le Méridien resort in Jimbaran, about two minutes' walk from the beach, with a large saltwater lagoon pool.",
+  "ai_summary": "Le Méridien Bali Jimbaran sits in the Jimbaran area of southern Bali, roughly a two-minute walk from Jimbaran Beach, with a 1,300-square-meter saltwater lagoon pool and a separate kids' pool as centerpiece amenities. Guest feedback consistently praises the hotel's contemporary, artistic design and elegant, spacious rooms, along with staff described as kind, gentle, and caring, going out of their way to check in on guests throughout a stay. The beach's proximity is a frequently cited highlight, and the resort is generally considered good value relative to nearby luxury properties. The clearest recurring watchout is that guest opinion is somewhat split on whether the experience fully matches five-star expectations: some reviews describe past construction or maintenance defects, though the resort's own materials note an active program of preventive maintenance and area improvements addressing this feedback. Given the more mixed review signal compared with some other Bali Bonvoy properties, and a comparatively smaller overall reviewer base, this profile is built on a more conservative reading of available sentiment. For travelers who prioritize modern design and easy beach access in Jimbaran over an unambiguous luxury-tier experience, it remains a reasonable option, though expectations should be calibrated accordingly.",
+  "core_facts": {
+    "address": "Jalan Bukit Permai, Jimbaran, Bali, Indonesia 80361",
+    "brand_sub_brand": "Le Méridien",
+    "neighborhood": "Jimbaran",
+    "distance_from_airport_km": 9,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "About a two-minute walk from Jimbaran Beach",
+    "1,300-square-meter saltwater lagoon pool plus a separate kids' pool",
+    "Contemporary, artistic design and spacious rooms draw consistent praise",
+    "Staff are repeatedly described as kind, gentle, and attentive to guests' wellbeing",
+    "Generally considered good value relative to nearby luxury-tier resorts"
+  ],
+  "cons": [
+    "Some reviews describe past construction or maintenance defects, though the resort has an active improvement and preventive-maintenance program",
+    "Guest opinion is more mixed than at some other Bali Bonvoy properties on whether it fully meets five-star expectations",
+    "Smaller overall reviewer base than several other properties in this directory, so sentiment signal is less conclusive"
+  ],
+  "research_highlights": [
+    "The contemporary, artistic hotel design and elegant, spacious rooms draw consistently positive comments",
+    "Staff are described as kind, gentle, and caring, taking time to check on guests throughout their stay",
+    "Proximity to Jimbaran Beach, about two minutes on foot, is a frequently cited highlight"
+  ],
+  "research_watchouts": [
+    "Some reviews mention past construction or maintenance defects; the resort states it runs an ongoing improvement and preventive-maintenance program in response",
+    "Opinion is somewhat split on whether the property fully meets five-star expectations, more so than at several other properties in this directory"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Le Méridien Bali Jimbaran close to the beach?",
+      "answer": "Yes -- it's about a two-minute walk from Jimbaran Beach, which guest reviews consistently cite as one of the property's strongest features."
+    },
+    {
+      "question": "Does Le Méridien Bali Jimbaran live up to full five-star expectations?",
+      "answer": "Guest opinion is mixed on this specific point -- most praise the contemporary design, spacious rooms, and caring staff, but some reviews mention past maintenance issues, which the resort says it has addressed through an ongoing improvement program."
+    }
+  ],
+  "tags": ["jimbaran", "modern design", "beach access"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsmd-le-meridien-bali-jimbaran/overview/",
+      "label": "Official Le Méridien Bali Jimbaran overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297696-d3477476-Reviews-or920-Le_Meridien_Bali_Jimbaran-Jimbaran_South_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsmd-le-meridien-bali-jimbaran/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["renaissance-bali-uluwatu"],
+  "reliability_score": 57,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

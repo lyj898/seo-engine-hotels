@@ -1,0 +1,80 @@
+{
+  "entity_id": "courtyard-bali-nusa-dua",
+  "slug": "courtyard-bali-nusa-dua",
+  "name": "Courtyard by Marriott Bali Nusa Dua Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A select-service Courtyard resort in Nusa Dua's Tanjung Benoa area, near the Bali Collection shopping arcade and beach clubs.",
+  "ai_summary": "Courtyard by Marriott Bali Nusa Dua Resort sits in the Tanjung Benoa area of the wider Nusa Dua enclave, within a short distance of the Bali Collection shopping arcade, local markets, and Nusa Dua's beach clubs. Rated 4 of 5 across roughly 2,500 TripAdvisor reviews and ranked in the top third of hotels in its immediate area, it's the select-service counterpart to the higher-tier Bonvoy resorts clustered in Nusa Dua, and guest feedback reflects that positioning well: rooms and grounds are repeatedly described as very clean and modern, the pool area (including a lazy river) draws consistent family praise, and staff are singled out as friendly and helpful with a genuinely positive atmosphere. Breakfast is another recurring highlight. The property isn't without friction -- one widely cited review describes a food-poisoning incident traced to an undercooked item, though the hotel's response with medical care and follow-up support was itself noted approvingly -- and as a select-service Courtyard, breakfast and other amenities aren't automatically bundled into every rate the way they might be at a full-service resort. For travelers who want Nusa Dua's gated resort setting and walkable proximity to shopping without paying full-service prices, it's a consistently well-reviewed option in this directory.",
+  "core_facts": {
+    "address": "Kawasan Pariwisata Lot SW1, Nusa Dua, Bali, Indonesia 80363",
+    "brand_sub_brand": "Courtyard",
+    "neighborhood": "Nusa Dua / Tanjung Benoa",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Located in Nusa Dua/Tanjung Benoa, near the Bali Collection shopping arcade and local markets",
+    "Rated 4 of 5 across roughly 2,500 TripAdvisor reviews",
+    "Rooms and grounds are consistently described as very clean and modern",
+    "Pool area, including a lazy river, draws specific praise from families",
+    "Staff are repeatedly described as friendly and helpful"
+  ],
+  "cons": [
+    "One widely cited review reports a food-poisoning incident from an undercooked item, though the hotel's response was praised",
+    "As a select-service Courtyard, breakfast is not automatically included on every rate type",
+    "Being in Tanjung Benoa rather than central Nusa Dua means some beach clubs and restaurants require a short ride"
+  ],
+  "research_highlights": [
+    "Guests describe rooms as very clean, modern, and comfortable, with immaculate grounds",
+    "The pool area and lazy river are specifically called out as good for families",
+    "Service is repeatedly described as friendly and helpful, with a positive overall atmosphere"
+  ],
+  "research_watchouts": [
+    "At least one detailed review describes a food-poisoning incident tied to an undercooked menu item, though the hotel's medical response and follow-up were noted approvingly",
+    "Breakfast and some amenities aren't automatically bundled into every rate, typical of the select-service Courtyard tier"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Courtyard by Marriott Bali Nusa Dua Resort close to the Bali Collection shopping area?",
+      "answer": "Yes -- it's located in the Tanjung Benoa part of the Nusa Dua enclave, a short distance from the Bali Collection shopping arcade, local markets, and Nusa Dua's beach clubs."
+    },
+    {
+      "question": "Does Courtyard by Marriott Bali Nusa Dua Resort include breakfast?",
+      "answer": "Not on every rate -- as a select-service Courtyard property, breakfast is a frequently praised highlight for guests who purchase it, but it isn't automatically bundled into all room rates, so it's worth checking at booking."
+    }
+  ],
+  "tags": ["nusa dua", "select-service", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpscy-courtyard-bali-nusa-dua-resort/overview/",
+      "label": "Official Courtyard by Marriott Bali Nusa Dua Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1465999-d2038714-Reviews-Courtyard_Bali_Nusa_Dua_Resort-Tanjung_Benoa_Nusa_Dua_Peninsula_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpscy-courtyard-bali-nusa-dua-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-bali", "amarterra-villas-bali-nusa-dua-autograph-collection", "st-regis-bali-resort"],
+  "reliability_score": 65,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

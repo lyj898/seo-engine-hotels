@@ -1,0 +1,80 @@
+{
+  "entity_id": "four-points-bali-seminyak",
+  "slug": "four-points-bali-seminyak",
+  "name": "Four Points by Sheraton Bali, Seminyak",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A select-service Four Points on Petitenget's northern edge, set back from Seminyak's busiest strip with a quiet beach nearby.",
+  "ai_summary": "Four Points by Sheraton Bali, Seminyak sits on the Petitenget stretch at Seminyak's northern edge, positioned as a quieter, more affordable select-service alternative away from central Seminyak's busiest strip but still within easy reach of it. Rated 4 of 5 across roughly 2,000 TripAdvisor reviews, it draws consistent praise for a helpful, polite staff genuinely focused on making stays smooth, surprisingly spacious rooms for the brand tier, and a breakfast that reviewers describe as offering some of the healthiest options they've found even compared with pricier hotels. The onsite spa and rooftop bar round out the amenity set. Guests specifically call out the quiet, empty beach a few minutes' walk away as a highlight, distinct from Seminyak's more crowded central beach clubs. The main watchout in reviews is dining quality beyond breakfast, with on-site food described as fairly average -- acceptable for a quick meal but not a dining destination in itself, which fits a select-service positioning where guests are expected to explore Seminyak's wider restaurant scene. For travelers who want a calmer, walkable base near Seminyak without central-strip noise or full-service pricing, it's a solidly reviewed option.",
+  "core_facts": {
+    "address": "Jalan Cendrawasih No. 99 DS, Petitenget, Seminyak, Bali, Indonesia 80361",
+    "brand_sub_brand": "Four Points",
+    "neighborhood": "Seminyak / Petitenget",
+    "distance_from_airport_km": 12,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Quieter Petitenget location away from Seminyak's busiest central strip, but still within easy reach of it",
+    "Rated 4 of 5 across roughly 2,000 TripAdvisor reviews",
+    "Staff are repeatedly described as helpful, polite, and genuinely focused on a smooth stay",
+    "Rooms are described as surprisingly spacious for the select-service tier",
+    "Breakfast draws specific praise for healthy options, and a quiet beach is a few minutes' walk away"
+  ],
+  "cons": [
+    "On-site dining beyond breakfast is described as fairly average -- acceptable but not a highlight",
+    "As a select-service Four Points, amenities and bundled inclusions are more limited than full-service Seminyak resorts",
+    "Quieter location trades some walkability to central Seminyak's densest restaurant and nightlife strip"
+  ],
+  "research_highlights": [
+    "Staff are described as helpful and polite, with guests noting the team genuinely tries to make the stay smooth",
+    "Rooms are called surprisingly spacious, and breakfast draws praise as offering some of the healthiest options guests have found",
+    "The quiet, less-crowded beach a few minutes' walk away is a specifically noted highlight"
+  ],
+  "research_watchouts": [
+    "On-site food beyond breakfast is described as fairly average -- fine for a quick bite but not a dining destination",
+    "The quieter Petitenget setting means less immediate walkability to Seminyak's busiest restaurant and nightlife strip"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Bali, Seminyak close to Seminyak's main nightlife strip?",
+      "answer": "It's positioned on the quieter Petitenget stretch at Seminyak's northern edge, away from the busiest central strip, though still within easy reach of it -- guests specifically praise the calmer setting and a quiet, less-crowded beach nearby."
+    },
+    {
+      "question": "Is the on-site restaurant good at Four Points by Sheraton Bali, Seminyak?",
+      "answer": "Reviews describe on-site food beyond breakfast as fairly average -- acceptable for a quick meal but not a standout, while breakfast itself draws specific praise for its healthy options."
+    }
+  ],
+  "tags": ["seminyak", "select-service", "petitenget"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsfp-four-points-by-sheraton-bali-seminyak/overview/",
+      "label": "Official Four Points by Sheraton Bali, Seminyak overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g13356179-d3785224-Reviews-Four_Points_By_Sheraton_Bali_Seminyak-Kerobokan_Kelod_North_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsfp-four-points-by-sheraton-bali-seminyak/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["w-bali-seminyak", "courtyard-bali-seminyak"],
+  "reliability_score": 63,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}

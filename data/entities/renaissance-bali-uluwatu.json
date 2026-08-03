@@ -1,0 +1,80 @@
+{
+  "entity_id": "renaissance-bali-uluwatu",
+  "slug": "renaissance-bali-uluwatu",
+  "name": "Renaissance Bali Uluwatu Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A clifftop Renaissance resort near Balangan Beach on the Bukit Peninsula, built into the terrain with jungle- and forest-facing pools and a large spa.",
+  "ai_summary": "Renaissance Bali Uluwatu Resort & Spa sits on the Bukit Peninsula near Balangan Beach in Ungasan, built into the area's dramatic clifftop terrain rather than a flat beachfront site. Rated 4 of 5 across roughly 1,180 TripAdvisor reviews and ranked third among Ungasan's 21 hotels, it draws consistent praise for genuinely attentive, caring staff and comfortable, clean, spacious rooms with jungle views. A standout lower pool facing the forest is repeatedly singled out as a relaxing highlight, and the spa -- one of the newer additions to Bali's wellness scene -- receives strong marks, particularly for its Thai massage and its sauna and steam bath facilities. Breakfast draws praise for its wide selection and fresh juices. Reviews are more mixed on a couple of specific points: some guests report soundproofing between rooms falls short of expectations, and a handful describe room service or front-of-house responsiveness as inconsistent, in contrast to the otherwise strong staff reputation. Given its Bukit Peninsula location, it also sits farther from central Bali's other resort areas and requires a longer drive than Nusa Dua or Seminyak properties. For travelers drawn to Uluwatu's dramatic clifftop scenery and a strong spa program, it's a well-reviewed choice within that part of the island.",
+  "core_facts": {
+    "address": "Jalan Pantai Balangan 1 No. 1, Ungasan, Bali, Indonesia 80361",
+    "brand_sub_brand": "Renaissance",
+    "neighborhood": "Uluwatu / Ungasan",
+    "distance_from_airport_km": 18,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Clifftop Bukit Peninsula setting near Balangan Beach, built into the area's dramatic terrain",
+    "Rated 4 of 5 across roughly 1,180 TripAdvisor reviews, ranked third of 21 hotels in Ungasan",
+    "Staff are repeatedly described as genuinely caring and attentive",
+    "The forest-facing lower pool and spa (Thai massage, sauna, steam bath) draw strong, specific praise",
+    "Breakfast offers a wide selection with fresh juices"
+  ],
+  "cons": [
+    "Some guests report soundproofing between rooms falls short of expectations",
+    "A handful of reviews describe room service or front-of-house responsiveness as inconsistent",
+    "The Bukit Peninsula/Uluwatu location is farther from Nusa Dua, Seminyak, and Kuta, requiring a longer drive"
+  ],
+  "research_highlights": [
+    "Guests felt welcomed and genuinely cared for by staff throughout the resort",
+    "The lower pool facing the forest is described as very relaxing, and rooms are called comfortable, clean, and spacious with jungle views",
+    "The spa is highly rated, particularly for Thai massage, alongside a large sauna and steam bath"
+  ],
+  "research_watchouts": [
+    "Some guests report soundproofing issues between rooms",
+    "A few reviews describe room service or general responsiveness as inconsistent, falling short of the otherwise strong staff reputation"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-03",
+  "faqs": [
+    {
+      "question": "Is Renaissance Bali Uluwatu Resort & Spa directly on the beach?",
+      "answer": "It's near Balangan Beach on the Bukit Peninsula but built into the area's clifftop terrain rather than sitting flat on the sand, so beach access involves a short trip down from the resort rather than stepping straight onto the sand."
+    },
+    {
+      "question": "How far is Renaissance Bali Uluwatu Resort & Spa from the airport and other Bali resort areas?",
+      "answer": "It's roughly 18 km from Ngurah Rai Airport, farther out on the Bukit Peninsula than Nusa Dua, Seminyak, or Kuta, so trips to and from those areas take longer than transfers between properties within the same resort zone."
+    }
+  ],
+  "tags": ["uluwatu", "clifftop", "spa"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsuw-renaissance-bali-uluwatu-resort-and-spa/overview/",
+      "label": "Official Renaissance Bali Uluwatu Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-03"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1219108-d10202872-Reviews-Renaissance_Bali_Uluwatu_Resort_Spa-Ungasan_Bukit_Peninsula_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-03"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsuw-renaissance-bali-uluwatu-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["le-meridien-bali-jimbaran"],
+  "reliability_score": 60,
+  "last_updated": "2026-08-03",
+  "status": "active"
+}
