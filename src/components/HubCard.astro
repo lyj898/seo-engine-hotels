@@ -1,19 +1,34 @@
 ---
+import siteConfig from '../lib/config.js';
+
 // Generic card for anything that's just "a link to a hub/section with a
 // label + description + optional count" -- categories, regions, and
 // listicles on the home page and on each other's index pages. Keeps
 // CategoryCard/RegionCard/ListicleCard from being three near-duplicate
 // components.
-const { href, label, description, count } = Astro.props;
+//
+// 2026-08-03 editorial redesign: replaced the bordered/shadowed card with
+// a numbered hairline row (01/02/03...), matching the mockup's "Browse by
+// city" treatment -- applied to every section that reuses this component
+// (regions, categories, Best Of guides) for one consistent list style
+// instead of mixing card grids and numbered lists on the same page.
+// `index` is optional -- a caller that doesn't pass one (or a count) still
+// gets a sensible row without a number/badge.
+const { href, label, description, count, index } = Astro.props;
+const number = typeof index === 'number' ? String(index + 1).padStart(2, '0') : null;
 ---
 
-<a
-  href={href}
-  class="block rounded-lg border border-brand-border bg-brand-surface p-5 shadow-sm transition-all duration-200 ease-interactive hover:-translate-y-1 hover:border-brand-faint hover:shadow-md dark:border-brand-border-dark dark:bg-brand-surface-dark dark:hover:border-brand-faint-dark"
->
-  <div class="flex items-center justify-between gap-3">
-    <h3 class="font-semibold">{label}</h3>
-    {typeof count === 'number' && <span class="text-xs text-brand-muted dark:text-brand-muted-dark">{count}</span>}
+<a href={href} class="group flex items-center justify-between gap-4 py-5">
+  <div class="flex min-w-0 items-baseline gap-5">
+    {number && <span class="watermark shrink-0 text-sm text-brand-faint dark:text-brand-faint-dark">{number}</span>}
+    <div class="min-w-0">
+      <h3 class="text-lg font-normal group-hover:text-brand-primary dark:group-hover:text-brand-primary-hover-dark">{label}</h3>
+      {description && <p class="mt-1 line-clamp-1 text-sm text-brand-muted dark:text-brand-muted-dark">{description}</p>}
+    </div>
   </div>
-  {description && <p class="mt-1 line-clamp-2 text-sm text-brand-muted dark:text-brand-muted-dark">{description}</p>}
+  {typeof count === 'number' && (
+    <span class="kicker shrink-0 text-brand-faint dark:text-brand-faint-dark">
+      {count > 0 ? `${count} ${siteConfig.entityLabelPlural} →` : 'Coming soon'}
+    </span>
+  )}
 </a>

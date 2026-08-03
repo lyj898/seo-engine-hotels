@@ -16,20 +16,20 @@ const navLinks = [
 ---
 
 <header
-  class="sticky top-0 z-40 border-b border-brand-divider bg-brand-bg/90 backdrop-blur-md dark:border-brand-divider-dark dark:bg-brand-bg-dark/90"
+  class="sticky top-0 z-40 border-b border-brand-divider bg-brand-bg/95 backdrop-blur-sm dark:border-brand-divider-dark dark:bg-brand-bg-dark/95"
 >
-  <div class="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-3 sm:px-6 sm:py-3.5">
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-4 sm:px-6 sm:py-5">
     <a
       href={urls.home()}
-      class="flex shrink-0 items-center gap-2.5 font-serif text-[1.15rem] font-extrabold leading-none tracking-tight"
+      class="flex shrink-0 items-center gap-2.5 font-serif text-lg font-normal leading-none tracking-tight"
     >
-      <Logo size={30} class="shrink-0" />
+      <Logo size={26} class="shrink-0" />
       {siteConfig.siteName}
     </a>
 
-    <nav class="hidden items-center gap-6 text-sm font-medium md:flex" aria-label="Primary">
+    <nav class="kicker hidden items-center gap-8 text-brand-muted dark:text-brand-muted-dark md:flex" aria-label="Primary">
       {navLinks.map((link) => (
-        <a href={link.href} class="hover:underline underline-offset-4">{link.label}</a>
+        <a href={link.href} class="hover:text-brand-primary dark:hover:text-brand-primary-hover-dark">{link.label}</a>
       ))}
     </nav>
 
@@ -47,13 +47,13 @@ const navLinks = [
     in the markup for crawlers on every page.
   -->
   <nav
-    class="-mt-px flex gap-1 overflow-x-auto border-t border-brand-divider px-4 py-2 text-sm font-semibold [scrollbar-width:none] [&::-webkit-scrollbar]:hidden dark:border-brand-divider-dark md:hidden"
+    class="-mt-px flex gap-4 overflow-x-auto border-t border-brand-divider px-4 py-2.5 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden dark:border-brand-divider-dark md:hidden"
     aria-label="Primary (mobile)"
   >
     {navLinks.map((link) => (
       <a
         href={link.href}
-        class="shrink-0 whitespace-nowrap rounded-full px-3 py-1.5 text-brand-muted transition-colors hover:bg-brand-surface-offset hover:text-brand-text dark:text-brand-muted-dark dark:hover:bg-brand-surface-offset-dark dark:hover:text-brand-text-dark"
+        class="kicker shrink-0 whitespace-nowrap text-brand-muted transition-colors hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark"
       >
         {link.label}
       </a>

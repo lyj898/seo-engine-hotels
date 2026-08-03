@@ -8,20 +8,20 @@ const { faqs = [], heading = 'Frequently asked questions' } = Astro.props;
 
 {faqs.length > 0 && (
   <section aria-labelledby="faq-heading">
-    <h2 id="faq-heading" class="mb-4 text-xl font-semibold">{heading}</h2>
-    <div class="divide-y divide-brand-border dark:divide-brand-border-dark">
+    <h2 id="faq-heading" class="mb-4 font-serif text-xl font-normal sm:text-2xl">{heading}</h2>
+    <div class="divide-y divide-brand-divider border-t border-brand-divider dark:divide-brand-divider-dark dark:border-brand-divider-dark">
       {faqs.map((faq) => (
-        <details class="group py-4">
-          <summary class="flex cursor-pointer items-center justify-between gap-4 font-medium">
+        <details class="group py-5">
+          <summary class="flex cursor-pointer list-none items-center justify-between gap-4 font-serif text-lg font-normal">
             <span>{faq.question}</span>
             <span
               aria-hidden="true"
-              class="shrink-0 text-brand-muted transition-transform group-open:rotate-45 dark:text-brand-muted-dark"
+              class="shrink-0 text-brand-primary transition-transform group-open:rotate-45 dark:text-brand-primary-hover-dark"
             >
               +
             </span>
           </summary>
-          <p class="mt-2 text-sm text-brand-muted dark:text-brand-muted-dark">{faq.answer}</p>
+          <p class="mt-3 text-sm leading-relaxed text-brand-muted dark:text-brand-muted-dark">{faq.answer}</p>
         </details>
       ))}
     </div>

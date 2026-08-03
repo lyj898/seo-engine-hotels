@@ -1,16 +1,18 @@
 ---
-// stats: [{ value, label }] -- matches the reference design's hero stat
-// row (big Archivo-weight number + small uppercase caption), distinct from
-// StatsSummary.astro's card-grid treatment used lower down on hub pages.
+// stats: [{ value, label }] -- the hero's inline stat row. 2026-08-03
+// editorial redesign: hairline-divided and centered (echoing the mockup's
+// "32 Hotels | 5 Countries | 1 Program" row under the hero search box),
+// replacing the old left-aligned bold-number row. Distinct from
+// StatsSummary.astro's own hairline-row treatment used lower on hub pages.
 const { stats = [] } = Astro.props;
 ---
 
 {stats.length > 0 && (
-  <div class="mb-8 flex flex-wrap gap-6 sm:gap-10">
+  <div class="flex flex-wrap items-center justify-center divide-x divide-brand-divider dark:divide-brand-divider-dark">
     {stats.map((s) => (
-      <div>
-        <b class="block font-serif text-xl font-black text-brand-text dark:text-brand-text-dark sm:text-2xl">{s.value}</b>
-        <span class="text-xs font-semibold uppercase tracking-wide text-brand-muted dark:text-brand-muted-dark">{s.label}</span>
+      <div class="px-6 text-center sm:px-8">
+        <b class="block font-serif text-xl font-normal text-brand-text dark:text-brand-text-dark sm:text-2xl">{s.value}</b>
+        <span class="kicker text-brand-faint dark:text-brand-faint-dark">{s.label}</span>
       </div>
     ))}
   </div>

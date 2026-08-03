@@ -38,43 +38,69 @@ const filterTags = [...(entity.tags ?? []), entity.category_id, entity.region_id
 
 // SearchBox and the calendar's combined filter script both match on this.
 const searchText = `${entity.name} ${locationLine} ${entity.short_description ?? ''}`.toLowerCase();
+
+// 2026-08-03 editorial redesign, non-date branch only (hasDate stays on the
+// original calendar-style card unchanged, since that treatment belongs to
+// date-anchored verticals like races, not hotels). Replaces the bordered
+// card with a duotone "photo placeholder" panel + kicker metadata line, per
+// the approved mockup. Panel alternates panel-a/panel-b deterministically
+// from the slug so a re-render never flickers between the two, and a
+// low-opacity serif initial stands in for real photography until each
+// entity has some.
+const panelClass = (entity.slug ?? entity.name ?? '').charCodeAt(0) % 2 === 0 ? 'bg-brand-panel-a dark:bg-brand-panel-a-dark' : 'bg-brand-panel-b dark:bg-brand-panel-b-dark';
+const initial = (entity.name ?? '?').trim().charAt(0).toUpperCase();
+const kicker = [facts.neighborhood, entity.tags?.[0]]
+  .filter(Boolean)
+  .map((s, i) => (i === 1 ? s.charAt(0).toUpperCase() + s.slice(1) : s))
+  .join(' · ');
 ---
 
-<div
-  data-filterable
-  data-tags={filterTags}
-  data-search={searchText}
-  {...extraAttrs}
-  class="flex gap-4 rounded-lg border border-brand-border bg-brand-surface p-4 shadow-sm transition-colors duration-200 ease-interactive hover:border-brand-faint dark:border-brand-border-dark dark:bg-brand-surface-dark dark:hover:border-brand-faint-dark"
->
-  {hasDate && <DateBadge date={facts.date} />}
+{hasDate ? (
+  <div
+    data-filterable
+    data-tags={filterTags}
+    data-search={searchText}
+    {...extraAttrs}
+    class="flex gap-4 rounded-lg border border-brand-border bg-brand-surface p-4 shadow-sm transition-colors duration-200 ease-interactive hover:border-brand-faint dark:border-brand-border-dark dark:bg-brand-surface-dark dark:hover:border-brand-faint-dark"
+  >
+    <DateBadge date={facts.date} />
 
-  <div class="min-w-0 flex-1">
-    <a href={urls.entity(entity.slug)} class="font-semibold hover:underline">{entity.name}</a>
+    <div class="min-w-0 flex-1">
+      <a href={urls.entity(entity.slug)} class="font-semibold hover:underline">{entity.name}</a>
 
-    {locationLine && <p class="mt-0.5 text-sm text-brand-muted dark:text-brand-muted-dark">{locationLine}</p>}
+      {locationLine && <p class="mt-0.5 text-sm text-brand-muted dark:text-brand-muted-dark">{locationLine}</p>}
 
-    {!hasDate && entity.short_description && (
-      <p class="mt-1 line-clamp-2 text-sm text-brand-muted dark:text-brand-muted-dark">{entity.short_description}</p>
-    )}
-
-    {facts.distance_km?.length > 0 ? (
-      <ValuePills class="mt-3" values={facts.distance_km} categories={categories} unit="km" matchedOnly />
-    ) : (
-      entity.tags?.length > 0 && (
-        <div class="mt-3 flex flex-wrap gap-1.5">
-          {entity.tags.slice(0, 3).map((tag) => <Pill>{tag}</Pill>)}
-        </div>
-      )
-    )}
-
-    <div class="mt-3 flex items-center justify-between gap-3">
-      {availability && (
-        <span class="text-xs font-semibold uppercase tracking-wide text-brand-muted dark:text-brand-muted-dark">
-          {availability === 'open' ? 'Open' : 'Closed'}
-        </span>
+      {facts.distance_km?.length > 0 ? (
+        <ValuePills class="mt-3" values={facts.distance_km} categories={categories} unit="km" matchedOnly />
+      ) : (
+        entity.tags?.length > 0 && (
+          <div class="mt-3 flex flex-wrap gap-1.5">
+            {entity.tags.slice(0, 3).map((tag) => <Pill>{tag}</Pill>)}
+          </div>
+        )
       )}
-      <a href={urls.entity(entity.slug)} class="ml-auto shrink-0 text-sm font-bold link-accent">Details &rarr;</a>
+
+      <div class="mt-3 flex items-center justify-between gap-3">
+        {availability && (
+          <span class="text-xs font-semibold uppercase tracking-wide text-brand-muted dark:text-brand-muted-dark">
+            {availability === 'open' ? 'Open' : 'Closed'}
+          </span>
+        )}
+        <a href={urls.entity(entity.slug)} class="ml-auto shrink-0 text-sm font-bold link-accent">Details &rarr;</a>
+      </div>
     </div>
   </div>
-</div>
+) : (
+  <article data-filterable data-tags={filterTags} data-search={searchText} {...extraAttrs}>
+    <a href={urls.entity(entity.slug)} class={`flex aspect-[4/3] items-center justify-center ${panelClass}`}>
+      <span class="watermark text-7xl text-brand-text/15 dark:text-brand-text-dark/15">{initial}</span>
+    </a>
+    {kicker && <p class="kicker mt-4 text-brand-faint dark:text-brand-faint-dark">{kicker}</p>}
+    <h3 class="mt-1 text-lg font-normal">
+      <a href={urls.entity(entity.slug)} class="hover:text-brand-primary dark:hover:text-brand-primary-hover-dark">{entity.name}</a>
+    </h3>
+    {entity.short_description && (
+      <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-brand-muted dark:text-brand-muted-dark">{entity.short_description}</p>
+    )}
+  </article>
+)}

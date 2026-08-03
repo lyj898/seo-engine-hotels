@@ -4,34 +4,34 @@ import { urls } from '../lib/urls.js';
 const year = new Date().getFullYear();
 ---
 
-<footer class="mt-16 border-t border-brand-divider dark:border-brand-divider-dark">
-  <div class="mx-auto grid max-w-6xl gap-8 px-4 py-10 text-sm sm:grid-cols-3 sm:px-6">
+<footer class="mt-24 border-t border-brand-divider dark:border-brand-divider-dark">
+  <div class="mx-auto grid max-w-6xl gap-10 px-4 py-14 text-sm sm:grid-cols-3 sm:px-6">
     <div>
-      <p class="mb-2 font-semibold">{siteConfig.siteName}</p>
-      <p class="text-brand-muted dark:text-brand-muted-dark">{siteConfig.siteTagline}</p>
+      <p class="font-serif text-lg">{siteConfig.siteName}</p>
+      <p class="mt-2 italic text-brand-muted dark:text-brand-muted-dark">{siteConfig.siteTagline}</p>
     </div>
     <div>
-      <p class="mb-2 font-semibold">Explore</p>
-      <ul class="space-y-1">
-        <li><a href={urls.categoriesIndex()} class="link-muted">Categories</a></li>
-        <li><a href={urls.regionsIndex()} class="link-muted">Regions</a></li>
+      <p class="kicker text-brand-faint dark:text-brand-faint-dark">Explore</p>
+      <ul class="mt-3 space-y-2">
+        <li><a href={urls.categoriesIndex()} class="text-brand-muted transition-colors hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark">Categories</a></li>
+        <li><a href={urls.regionsIndex()} class="text-brand-muted transition-colors hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark">Regions</a></li>
         {siteConfig.enabledFeatures?.listicles && (
-          <li><a href={urls.listiclesIndex()} class="link-muted">Best Of guides</a></li>
+          <li><a href={urls.listiclesIndex()} class="text-brand-muted transition-colors hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark">Best Of guides</a></li>
         )}
       </ul>
     </div>
     <div>
-      <p class="mb-2 font-semibold">About</p>
-      <ul class="space-y-1">
-        <li><a href={urls.about()} class="link-muted">About &amp; Methodology</a></li>
-        <li><a href={urls.privacy()} class="link-muted">Privacy</a></li>
-        <li><a href={urls.terms()} class="link-muted">Terms</a></li>
-        <li><a href={urls.contact()} class="link-muted">Contact</a></li>
+      <p class="kicker text-brand-faint dark:text-brand-faint-dark">About</p>
+      <ul class="mt-3 space-y-2">
+        <li><a href={urls.about()} class="text-brand-muted transition-colors hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark">About &amp; Methodology</a></li>
+        <li><a href={urls.privacy()} class="text-brand-muted transition-colors hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark">Privacy</a></li>
+        <li><a href={urls.terms()} class="text-brand-muted transition-colors hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark">Terms</a></li>
+        <li><a href={urls.contact()} class="text-brand-muted transition-colors hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark">Contact</a></li>
       </ul>
     </div>
   </div>
-  <div class="border-t border-brand-border py-4 text-center text-xs text-brand-muted dark:border-brand-border-dark dark:text-brand-muted-dark">
-    © {year} {siteConfig.siteName}. Data independently researched and verified -- see our
-    <a href={urls.about()} class="link-accent">methodology</a>.
+  <div class="kicker border-t border-brand-divider py-5 text-center text-brand-faint dark:border-brand-divider-dark dark:text-brand-faint-dark">
+    © {year} {siteConfig.siteName} -- see our
+    <a href={urls.about()} class="hover:text-brand-primary dark:hover:text-brand-primary-hover-dark">methodology</a>
   </div>
 </footer>

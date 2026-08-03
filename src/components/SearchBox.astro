@@ -13,9 +13,17 @@
 const { targetSelector = '[data-filterable]', placeholder = 'Search...' } = Astro.props;
 ---
 
-<div class="search-box relative max-w-[540px]" data-target={targetSelector}>
+<!--
+  2026-08-03 editorial redesign: a hairline-underlined inline field replaces
+  the original rounded, shadowed pill input -- matching the mockup's plain
+  "icon + text, one bottom rule" search treatment.
+-->
+<div
+  class="search-box group mx-auto flex max-w-sm items-center gap-2 border-b border-brand-divider pb-2 focus-within:border-brand-text dark:border-brand-divider-dark dark:focus-within:border-brand-text-dark"
+  data-target={targetSelector}
+>
   <svg
-    class="pointer-events-none absolute left-[1.1rem] top-1/2 h-5 w-5 -translate-y-1/2 text-brand-faint dark:text-brand-faint-dark"
+    class="h-4 w-4 shrink-0 text-brand-faint dark:text-brand-faint-dark"
     viewBox="0 0 24 24"
     fill="none"
     stroke="currentColor"
@@ -27,7 +35,7 @@ const { targetSelector = '[data-filterable]', placeholder = 'Search...' } = Astr
   </svg>
   <input
     type="text"
-    class="search-input w-full rounded-lg border-[1.5px] border-brand-border bg-brand-surface py-4 pl-[3.1rem] pr-5 text-base shadow-sm transition-shadow duration-200 ease-interactive placeholder:text-brand-faint focus:border-brand-primary focus:shadow-[0_0_0_4px_theme(colors.brand.primary-highlight)] focus:outline-none dark:border-brand-border-dark dark:bg-brand-surface-dark dark:placeholder:text-brand-faint-dark dark:focus:shadow-[0_0_0_4px_theme(colors.brand.primary-highlight-dark)]"
+    class="search-input w-full border-none bg-transparent p-0 text-sm placeholder:text-brand-faint focus:outline-none focus:ring-0 dark:placeholder:text-brand-faint-dark"
     placeholder={placeholder}
     aria-label={placeholder}
   />
