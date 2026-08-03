@@ -102,25 +102,6 @@ const metaDescription = description ?? siteConfig.siteTagline;
 
     {jsonLd.map((schema) => <script type="application/ld+json" set:html={JSON.stringify(schema)} />)}
 
-    <!--
-      Travelpayouts "Drive" affiliate-monetization tag (added 2026-08-03 at the
-      site owner's request), loaded on every page via this shared layout. It
-      auto-affiliates outbound travel links and is the account's verification
-      step. `is:inline` makes Astro emit the snippet verbatim instead of
-      bundling it. The extra data-*/nowprocket/seraph-accel attributes are the
-      vendor's WordPress-plugin hints -- inert on this Astro site, but kept
-      exactly as pasted from the Travelpayouts dashboard.
-    -->
-    <script is:inline nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
-      (function () {
-        var script = document.createElement("script");
-        script.async = 1;
-        script.setAttribute("data-cmp-ab", "2");
-        script.src = 'https://emrldtp.cc/NTU3OTQ3.js?t=557947';
-        document.head.appendChild(script);
-      })();
-    </script>
-
     <slot name="head" />
   </head>
   <body
