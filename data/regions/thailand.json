@@ -4,12 +4,12 @@
   "label": "Thailand",
   "granularity": "country",
   "parent_region_id": null,
-  "short_description": "Marriott Bonvoy hotels across Thailand, concentrated in Bangkok and the beach resort city of Phuket.",
-  "intro": "Thailand carries one of the deepest Bonvoy footprints in Southeast Asia, split between Bangkok's dense city portfolio -- spanning riverside luxury, CBD business hotels, and midscale properties near the BTS/MRT network -- and Phuket's beach-resort concentration along Patong, Kamala, and the island's southern coast. Elite recognition and lounge access tend to be strongest at the flagship city and resort properties rather than the more compact select-service hotels.",
+  "short_description": "Loyalty-program hotels across Thailand, concentrated in Bangkok and the beach resort city of Phuket.",
+  "intro": "Thailand carries one of the deepest hotel footprints in Southeast Asia, split between Bangkok's dense city portfolio -- spanning riverside luxury, CBD business hotels, and midscale properties near the BTS/MRT network -- and Phuket's beach-resort concentration along Patong, Kamala, and the island's southern coast. Elite recognition and lounge access tend to be strongest at the flagship city and resort properties rather than the more compact select-service hotels.",
   "faqs": [
     {
-      "question": "Which Thai city has more Bonvoy hotel options, Bangkok or Phuket?",
-      "answer": "Bangkok has the larger and more varied Bonvoy portfolio, covering everything from luxury riverside properties to business-district hotels near the BTS Skytrain. Phuket's Bonvoy hotels skew toward beach resorts, so the right city depends on whether the trip is city-based or a beach stay."
+      "question": "Which Thai city has more hotel options, Bangkok or Phuket?",
+      "answer": "Bangkok has the larger and more varied portfolio, covering everything from luxury riverside properties to business-district hotels near the BTS Skytrain. Phuket's hotels skew toward beach resorts, so the right city depends on whether the trip is city-based or a beach stay."
     }
   ],
   "last_updated": "2026-07-31",

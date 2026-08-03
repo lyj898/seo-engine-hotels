@@ -4,8 +4,8 @@
   "label": "Indonesia",
   "granularity": "country",
   "parent_region_id": null,
-  "short_description": "Marriott Bonvoy hotels in Indonesia, split between Bali's resort coastline and Jakarta's business district.",
-  "intro": "Indonesia's Bonvoy coverage in this directory spans two very different markets: Bali's beach and resort-focused properties across the south of the island, and Jakarta's business and shopping-district hotels aimed at corporate travelers and city stays. The two rarely overlap in trip purpose, so most searches land on one city or the other rather than both.",
+  "short_description": "Loyalty-program hotels in Indonesia, concentrated along Bali's resort coastline.",
+  "intro": "Indonesia's coverage in this directory currently focuses on Bali's beach and resort-focused properties across the south of the island -- Nusa Dua's gated resort strip, Seminyak's beach-club scene, and inland stays near Ubud.",
   "faqs": [],
   "last_updated": "2026-07-31",
   "status": "active"
