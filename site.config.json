@@ -1,8 +1,8 @@
 {
-  "siteName": "StayElite",
+  "siteName": "EliteStay",
   "siteTagline": "In-depth loyalty-program hotel reviews across Southeast Asia",
   "heroHeadline": "Find your next *elite* stay across Southeast Asia",
-  "siteDomain": "stayelite.travel",
+  "siteDomain": "elitestay.travel",
   "verticalKey": "hotels",
 
   "entityLabelSingular": "hotel",
@@ -82,10 +82,10 @@
     "affiliateLinks": true
   },
 
-  "contactEmail": "hello@stayelite.travel",
+  "contactEmail": "hello@elitestay.travel",
   "contactFormEmail": "lyj898@gmail.com",
 
-  "_googleAnalyticsId_note": "Not yet provisioned -- create a GA4 property for stayelite.travel and add its measurement ID here before launch (same step runsea.run went through).",
+  "_googleAnalyticsId_note": "Not yet provisioned -- create a GA4 property for elitestay.travel and add its measurement ID here before launch (same step runsea.run went through).",
 
   "aiPromptProfile": "hotels-research-v1",
 
@@ -97,7 +97,7 @@
     "researchIntervalDays": 60,
     "requestDelayMs": 2000,
     "respectRobotsTxt": true,
-    "userAgent": "programmatic-seo-engine/1.0 (+https://stayelite.travel/about)",
+    "userAgent": "programmatic-seo-engine/1.0 (+https://elitestay.travel/about)",
     "discoveryConstraints": "Only include hotels currently enrolled in Marriott Bonvoy (any Bonvoy-participating brand: Ritz-Carlton, St. Regis, W Hotels, JW Marriott, Marriott Hotels, Westin, Sheraton, Le Meridien, Renaissance, Autograph Collection, Courtyard, Four Points, etc.) located in one of the tracked cities. Do not include non-Bonvoy independent hotels, vacation rentals/serviced apartments, or hostels. If a source page mixes Bonvoy and non-Bonvoy properties, extract only the Bonvoy-enrolled ones.",
     "sourcePriority": [
       "official_brand_website",
@@ -112,17 +112,18 @@
       "https://www.marriott.com/en-us/hotels/destinations/asia/thailand/",
       "https://www.marriott.com/en-us/hotels/destinations/asia/malaysia/",
       "https://www.marriott.com/en-us/hotels/destinations/asia/indonesia/",
+      "https://www.marriott.com/en-us/hotels/destinations/asia/vietnam/",
       "https://www.tripadvisor.com/Hotels-g294265-Singapore-Hotels.html",
       "https://www.tripadvisor.com/Hotels-g293916-Bangkok-Hotels.html",
       "https://www.tripadvisor.com/Hotels-g297723-Phuket-Hotels.html",
       "https://www.tripadvisor.com/Hotels-g298570-Kuala_Lumpur_Wilayah_Persekutuan-Hotels.html",
       "https://www.tripadvisor.com/Hotels-g297700-Bali-Hotels.html",
-      "https://www.tripadvisor.com/Hotels-g294229-Jakarta_Java-Hotels.html"
+      "https://www.tripadvisor.com/Hotels-g293925-Ho_Chi_Minh_City-Hotels.html"
     ]
   },
 
-  "regionsSupported": ["Singapore", "Bangkok", "Phuket", "Kuala Lumpur", "Bali", "Jakarta"],
+  "regionsSupported": ["Singapore", "Bangkok", "Phuket", "Kuala Lumpur", "Bali", "Ho Chi Minh City"],
   "categoriesSupported": ["Marriott Bonvoy"],
 
-  "notes": "Vertical instance config for 'hotels' (stayelite.travel). Launch scope: Marriott Bonvoy ONLY, across 6 Southeast Asian cities (Singapore, Bangkok, Phuket, Kuala Lumpur, Bali, Jakarta). Architecture is chain-agnostic by construction (same core-facts-registry pattern as every other vertical) -- adding World of Hyatt, Hilton Honors, or IHG One Rewards later means one new data/categories/*.json file plus real researched entities, never a template or route change. URL structure deliberately stays flat (/hotels/<slug>/, /categories/<slug>/, /regions/<slug>/) rather than nested /[program]/[city]/[slug] -- this is a brand-new domain with no indexed URLs to protect, and the flat model already gets 'add a chain without rebuilding' for free, matching how runsea.run works. The weekly refresh pipeline auto-commits directly to main when validation passes (an intentional deviation from the races instance's PR-only gate, at the site owner's request) -- see refresh workflow comments for the validation conditions that must pass before that happens."
+  "notes": "Vertical instance config for 'hotels' (elitestay.travel -- renamed from StayElite/stayelite.travel on 2026-08-03 at the site owner's request; the repo folder/internal references still say 'stayelite' but that's cosmetic and doesn't affect the live site, which is fully config-driven off this file). Launch scope: Marriott Bonvoy ONLY for now, across 6 Southeast Asian cities spanning 5 countries (Singapore, Bangkok, Phuket, Kuala Lumpur, Bali, Ho Chi Minh City -- Jakarta was dropped from scope and replaced with Ho Chi Minh City on 2026-08-03, at the site owner's request, to broaden country coverage). Architecture is chain-agnostic by construction (same core-facts-registry pattern as every other vertical) -- adding World of Hyatt, Hilton Honors, or IHG One Rewards later means one new data/categories/*.json file plus real researched entities, never a template or route change. Because more loyalty programs are an explicit near-term roadmap item (not a hypothetical), user-facing copy (hero headline/subtext, region hub descriptions, kicker labels) is deliberately written as program-agnostic ('loyalty-program hotels', not 'Marriott Bonvoy hotels') even while Bonvoy is the only program actually live -- only the Marriott Bonvoy category page itself (data/categories/marriott-bonvoy.json) and each hotel's own core_facts should name the program explicitly, since those are correctly scoped to describe that one program. URL structure deliberately stays flat (/hotels/<slug>/, /categories/<slug>/, /regions/<slug>/) rather than nested /[program]/[city]/[slug] -- this is a brand-new domain with no indexed URLs to protect, and the flat model already gets 'add a chain without rebuilding' for free, matching how runsea.run works. The weekly refresh pipeline auto-commits directly to main when validation passes (an intentional deviation from the races instance's PR-only gate, at the site owner's request) -- see refresh workflow comments for the validation conditions that must pass before that happens."
 }
