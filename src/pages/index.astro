@@ -23,6 +23,18 @@ const listicles = loadListicles().map(stripMeta).filter(isPublished);
 const topLevelRegions = regions.filter((r) => !r.parent_region_id);
 const regionsById = new Map(regions.map((r) => [r.region_id, r]));
 
+// City-level regions are this vertical's primary browse unit (the directory
+// is organized by city, e.g. Bali / Bangkok / Singapore -- not by country),
+// so the "City" stat and the "browse by city" list count these rather than
+// the top-level country regions. Counting top-level regions here is what
+// made the homepage read "5 Cities" (4 countries + the Singapore city-state)
+// when six cities are actually tracked. Ordered by coverage so the best-
+// stocked cities lead.
+const cityRegions = regions
+  .filter((r) => r.granularity === 'city')
+  .map((r) => ({ ...r, entityCount: entities.filter((e) => e.region_id === r.region_id).length }))
+  .sort((a, b) => b.entityCount - a.entityCount);
+
 // Resolves any region (including a child region like "Nong Khai") up to its
 // top-level country ancestor, so a race tagged with a city-level region
 // still filters correctly under its country in the country dropdown below.
@@ -39,7 +51,7 @@ function topLevelCountryId(regionId) {
 const stats = [
   { label: `Verified ${siteConfig.entityLabelPlural}`, value: entities.length },
   { label: siteConfig.categoryLabelPlural ?? siteConfig.categoryLabel + 's', value: categories.length },
-  { label: siteConfig.regionLabelPlural ?? siteConfig.regionLabel + 's', value: topLevelRegions.length },
+  { label: siteConfig.regionLabelPlural ?? siteConfig.regionLabel + 's', value: cityRegions.length },
 ];
 
 // A vertical is "date-driven" when every active entity carries a
@@ -103,7 +115,7 @@ const { before: headlineBefore, accent: headlineAccent, after: headlineAfter } =
 
 const heroStats = [
   { value: entities.length, label: `${siteConfig.entityLabelPlural} tracked` },
-  { value: topLevelRegions.length, label: siteConfig.regionLabelPlural ?? `${siteConfig.regionLabel}s` },
+  { value: cityRegions.length, label: siteConfig.regionLabelPlural ?? `${siteConfig.regionLabel}s` },
   // The coverage window the discovery pipeline is configured to keep filled
   // (sourceConfig.discoveryWindowMonths), not a count of whatever months
   // happen to have entries today. Those two drift apart constantly -- a
@@ -139,7 +151,7 @@ const jsonLd = [
     <section class={isDateDriven ? 'mx-auto max-w-3xl border-b border-brand-divider pb-10 dark:border-brand-divider-dark sm:pb-14' : 'mx-auto max-w-2xl text-center'}>
       {!isDateDriven && (
         <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">
-          {siteConfig.regionLabelPlural ?? 'Regions'} &middot; {topLevelRegions.length} countries
+          {cityRegions.length} cities &middot; {topLevelRegions.length} countries
         </p>
       )}
       <h1 class={isDateDriven ? 'text-[clamp(2.1rem,1rem+4.5vw,4.2rem)] font-black leading-[1.05]' : 'mt-5 text-[clamp(2.2rem,1.1rem+4.5vw,4.2rem)] font-light leading-[1.08]'}>
@@ -318,7 +330,7 @@ const jsonLd = [
       <StatsSummary stats={stats} />
     </section>
 
-    {topLevelRegions.length > 0 && (
+    {cityRegions.length > 0 && (
       <section class="mt-20">
         <div class="mb-2 flex items-end justify-between">
           <div>
@@ -328,13 +340,13 @@ const jsonLd = [
           <a href={urls.regionsIndex()} class="kicker hidden text-brand-muted hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark sm:inline">View all &rarr;</a>
         </div>
         <div class="divide-y divide-brand-divider border-t border-brand-divider dark:divide-brand-divider-dark dark:border-brand-divider-dark">
-          {topLevelRegions.map((region, i) => (
+          {cityRegions.map((region, i) => (
             <HubCard
               index={i}
               href={urls.region(region.slug)}
               label={region.label}
               description={region.short_description}
-              count={entities.filter((e) => e.region_id === region.region_id).length}
+              count={region.entityCount}
             />
           ))}
         </div>

@@ -15,9 +15,8 @@
     "discover": "node scripts/discover-entities.js",
     "refresh": "node scripts/refresh-entities.js",
     "research": "node scripts/research-entities.js",
-    "listicles": "node scripts/generate-listicles.js",
     "summaries": "node scripts/generate-summaries.js",
-    "refresh:all": "npm run validate && npm run discover && npm run refresh && npm run research && npm run summaries && npm run listicles && npm run validate"
+    "refresh:all": "npm run validate && npm run discover && npm run refresh && npm run research && npm run summaries && npm run validate"
   },
   "dependencies": {
     "astro": "^4.16.0",

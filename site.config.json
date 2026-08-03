@@ -70,14 +70,8 @@
     }
   },
 
-  "_listicleConfig_note": "minEntities lower than races (4) would let a 3-hotel guide through -- with several dozen hotels spread across 6 cities and one program, a category x city combo can be thin even when the city itself has good coverage.",
-  "listicleConfig": {
-    "minEntities": 3,
-    "perRunLimit": 10
-  },
-
   "enabledFeatures": {
-    "listicles": true,
+    "listicles": false,
     "reviewQueue": true,
     "savedFilters": true,
     "darkMode": true,

@@ -7,7 +7,7 @@
 // shared file) ever containing the literal word "race".
 import siteConfig from '../../lib/config.js';
 import { urls, entityUrlSegment } from '../../lib/urls.js';
-import { loadEntities, loadCategories, loadRegions, loadListicles, stripMeta, isPublished } from '../../lib/data.js';
+import { loadEntities, loadCategories, loadRegions, stripMeta, isPublished } from '../../lib/data.js';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import FactsTable from '../../components/FactsTable.astro';
@@ -18,7 +18,6 @@ import ExternalCoverage from '../../components/ExternalCoverage.astro';
 import FAQSection from '../../components/FAQSection.astro';
 import CTABlock from '../../components/CTABlock.astro';
 import RelatedEntities from '../../components/RelatedEntities.astro';
-import RelatedListicles from '../../components/RelatedListicles.astro';
 import LastUpdated from '../../components/LastUpdated.astro';
 import Pill from '../../components/Pill.astro';
 import { narrowFactsToCategories } from '../../lib/categoryMatch.js';
@@ -39,20 +38,12 @@ const { entity } = Astro.props;
 const categories = loadCategories().map(stripMeta);
 const regions = loadRegions().map(stripMeta);
 const allEntities = loadEntities().map(stripMeta).filter(isPublished);
-const listicles = loadListicles().map(stripMeta).filter(isPublished);
 
 const category = categories.find((c) => c.category_id === entity.category_id);
 const region = regions.find((r) => r.region_id === entity.region_id);
 
 const relatedEntities = allEntities.filter(
   (e) => entity.related_entity_ids?.includes(e.entity_id) && e.entity_id !== entity.entity_id
-);
-
-// A listicle is "related" if it's explicitly pinned to this entity, or its
-// filter targets this entity's category -- covers both editorial pins and
-// filter-driven matches without hand-maintaining a link list per entity.
-const relatedListicles = listicles.filter(
-  (l) => l.manual_entity_ids?.includes(entity.entity_id) || l.filters?.category_id === entity.category_id
 );
 
 const breadcrumbItems = [
@@ -145,10 +136,6 @@ const jsonLd = [
 
     <div class="mt-10">
       <RelatedEntities entities={relatedEntities} categories={categories} heading={`Related ${siteConfig.entityLabelPlural}`} />
-    </div>
-
-    <div class="mt-10">
-      <RelatedListicles listicles={relatedListicles} />
     </div>
 
     <div class="mt-10 flex flex-wrap gap-4 text-sm">
