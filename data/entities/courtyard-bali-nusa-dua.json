@@ -50,6 +50,71 @@
       "answer": "Not on every rate -- as a select-service Courtyard property, breakfast is a frequently praised highlight for guests who purchase it, but it isn't automatically bundled into all room rates, so it's worth checking at booking."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Courtyard Bali Nusa Dua (1 Bedroom Suite)",
+        "source": "Suite Smile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2021/09/05/review-courtyard-bali-nusa-dua-1-bedroom-suite/",
+        "published_date": "2021-09-05",
+        "summary": "Bonvoy-focused stay in a spacious 73sqm suite. Praises elite recognition, complimentary breakfast and balcony views; docks points for no work desk, kids-club noise, non-fresh pastries and a 10-min walk from the beach."
+      },
+      {
+        "title": "Courtyard Marriott Bali Nusa Dua Review",
+        "source": "Trevallog",
+        "author": "Eva",
+        "url": "https://trevallog.com/courtyard-marriott-bali-nusa-dua-review/",
+        "published_date": "2016-08-05",
+        "summary": "Found rooms spacious and the pool a highlight, with a varied Asian/Western breakfast buffet. Flags a frustrating 3pm-only check-in, initial dust and a leaking shower, and that the 'private beach' is an off-property shared facility."
+      },
+      {
+        "title": "Hotel Review: Courtyard by Marriott Bali Nusa Dua Offers Value",
+        "source": "Accidental Travel Writer",
+        "author": "Michael Taylor",
+        "url": "https://accidentaltravelwriter.com/hotel-review-courtyard-marriott-bali-nusa-dua-good-value-four-stars/",
+        "published_date": "2011-12-16",
+        "summary": "Argues the resort gives near-five-star architecture, interiors and landscaping at four-star prices, with free daily activities and a free-form pool. Only gripes are no on-site fine dining and no direct beach access."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Inside the Courtyard by Marriott Nusa Dua: Stunning Room Reveal!",
+        "channel": "The Roaming Roberts",
+        "url": "https://www.youtube.com/watch?v=0tp6cnlxeuY",
+        "video_id": "0tp6cnlxeuY",
+        "published_date": "2025-10-12"
+      },
+      {
+        "title": "BEST Hotel in Nusa Dua Bali: Courtyard by Marriott Full Tour, Honest Review, and Secret Spots",
+        "channel": "Nick Gray",
+        "url": "https://www.youtube.com/watch?v=DvOfg0S_b5w",
+        "video_id": "DvOfg0S_b5w",
+        "published_date": "2024-06-24"
+      },
+      {
+        "title": "One Bedroom Suite (Courtyard Bali Nusa Dua Resort) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=uOpDpEKGBF0",
+        "video_id": "uOpDpEKGBF0",
+        "published_date": "2024-01-13"
+      },
+      {
+        "title": "Courtyard by Marriott Bali Hotel | Nusa Dua Resort (Full Tour 4K)",
+        "channel": "The Hotel Showcase",
+        "url": "https://www.youtube.com/watch?v=OkKwL6GunpQ",
+        "video_id": "OkKwL6GunpQ",
+        "published_date": "2023-09-26"
+      },
+      {
+        "title": "Courtyard by Marriott Bali Nusa Dua Resort; staycation; room tour",
+        "channel": "hobiinspeksi",
+        "url": "https://www.youtube.com/watch?v=m3QH_SJLL34",
+        "video_id": "m3QH_SJLL34",
+        "published_date": "2021-07-03"
+      }
+    ]
+  },
   "tags": ["nusa dua", "select-service", "family resort"],
   "source_mix": [
     {

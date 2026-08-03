@@ -49,6 +49,90 @@
       "answer": "Yes -- it sits on Soi Langsuan close to Lumphini Park, and it's also a walkable distance from BTS Chit Lom and Siam Paragon, making it a convenient boutique base for exploring central Bangkok on foot."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Muse: Review of an Affordable Bangkok Gem",
+        "source": "Jared's Detours",
+        "author": "Jared Dillingham",
+        "url": "https://www.jaredsdetours.com/hotel-muse/",
+        "published_date": "2025-09-18",
+        "summary": "Autograph-era stay praising the 1920s Victorian-colonial design, 19th-floor pool with city views, four dining venues and the Speakeasy rooftop; flags dated room decor and no in-room coffee, but calls it strong value near BTS Chidlom."
+      },
+      {
+        "title": "Hotel Muse Bangkok Langsuan - MGallery Collection",
+        "source": "OutThere magazine",
+        "url": "https://www.outthere.travel/hotel-muse-bangkok-langsuan-mgallery-collection-bangkok-thailand/",
+        "published_date": "2024-06-20",
+        "summary": "Design-focused magazine review of the Langsuan boutique hotel, detailing mahogany-and-marble rooms, roll-top tubs, Venetian-mirror bathrooms and the two-level Speakeasy rooftop with its golden dome and Blind Pig cigar lounge."
+      },
+      {
+        "title": "Hotel Muse Bangkok Review: Funky Hotel With Style",
+        "source": "Wild 'n' Free Diary",
+        "author": "Ian",
+        "url": "https://wnfdiary.com/hotel-muse-bangkok-review-funky-hotel-with-style/",
+        "published_date": "2020-06-15",
+        "summary": "Independent blogger enjoys the theatrical Euro-Asian baroque interiors near Lumphini Park, the multiple restaurants and 1920s-gangster styling, but finds the hidden rooftop speakeasy underwhelming in execution."
+      },
+      {
+        "title": "Hotel Review: Hotel Muse Bangkok Langsuan Makes You Feel Like Royalty In The Thai Capital",
+        "source": "City Nomads",
+        "url": "https://citynomads.com/hotel-review-hotel-muse-bangkok-langsuan-makes-you-feel-like-royalty-in-the-thai-capital/",
+        "published_date": "2019-06-15",
+        "summary": "City Nomads reviews the Langsuan hotel's regal Euro-Thai rooms, roll-top-tub bathrooms and the 24th-floor 1920s jazz Speakeasy rooftop, highlighting Club La Boutique evening cocktail-and-canape privileges."
+      },
+      {
+        "title": "Hotel Muse Review (Bangkok, Thailand)",
+        "source": "pierreblake.com",
+        "author": "Pierre Blake",
+        "url": "https://pierreblake.com/hotel-muse-review-bangkok-thailand/",
+        "published_date": "2016-07-15",
+        "summary": "Blogger recounts welcome cocktails, a suite with a bathtub-view bedroom, the tapas-and-cocktail hour, Medici Italian restaurant and a 'magical' Speakeasy rooftop on Langsuan; rates the stay 8.4/10."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Marriott Bonvoy | Inside Bangkok's Hidden 5-Star Luxury | Hotel Muse Autograph Collection 8K",
+        "channel": "Roaming Roamers",
+        "url": "https://www.youtube.com/watch?v=imMX2OpFV5Y",
+        "video_id": "imMX2OpFV5Y",
+        "published_date": "2026-07-12",
+        "view_count": 407
+      },
+      {
+        "title": "Hotel Muse Bangkok, Autograph Collection | Bangkok, Thailand | Hotel Review",
+        "channel": "Next Hotel Journey",
+        "url": "https://www.youtube.com/watch?v=hRICge2hRxA",
+        "video_id": "hRICge2hRxA",
+        "published_date": "2026-02-05",
+        "view_count": 39
+      },
+      {
+        "title": "Bangkok's Best Boutique Hotel? | The Muse Hotel | Lets Speakeasy about the place",
+        "channel": "Some Bloke Who Travels A Lot",
+        "url": "https://www.youtube.com/watch?v=zktsNEAKt0A",
+        "video_id": "zktsNEAKt0A",
+        "published_date": "2025-07-27",
+        "view_count": 1013
+      },
+      {
+        "title": "Bangkok's Most Elegant Secret? | Hotel Muse Tour",
+        "channel": "SeansEyeView Travel Channel",
+        "url": "https://www.youtube.com/watch?v=7D7xpP_tBm4",
+        "video_id": "7D7xpP_tBm4",
+        "published_date": "2025-05-08",
+        "view_count": 3027
+      },
+      {
+        "title": "Experience Luxury in 4K: A Review of Hotel Muse Bangkok Langsuan - MGallery",
+        "channel": "Some Bloke Who Travels A Lot",
+        "url": "https://www.youtube.com/watch?v=FwjQ2_INqig",
+        "video_id": "FwjQ2_INqig",
+        "published_date": "2023-05-05",
+        "view_count": 10421
+      }
+    ]
+  },
   "tags": ["lumpini", "boutique", "autograph collection"],
   "source_mix": [
     {

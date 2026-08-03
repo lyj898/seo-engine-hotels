@@ -50,6 +50,92 @@
       "answer": "Guest reviews are mixed on this specific point -- several describe pool bar service as slow during busy periods, with delayed or incorrect orders, even though overall resort service and dining are rated highly."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "W Bali Seminyak, Indonesia",
+        "source": "EVRYWHRE",
+        "author": "Micha",
+        "url": "https://getmeevrywhre.com/en/w-bali-en/",
+        "published_date": "2026-03-01",
+        "summary": "After a Nov 2025 stay the reviewer praised breakfast and service but flagged the aging property and disruptive renovation noise, scoring 8/10 and advising travelers to wait until the 2027 refurbishment is done."
+      },
+      {
+        "title": "W Bali: Seminyak Resort for a luxury beach escape",
+        "source": "Zest In A Tote",
+        "author": "Shweta Singhal",
+        "url": "https://zestinatote.com/seminyak-resort-w-bali/",
+        "published_date": "2024-02-12",
+        "summary": "A family-travel take on the 229-room beachfront resort, covering garden rooms through pool villas, WooBar and Starfish Bloo dining, the 24-hour pool and spa, and strong service, calling it ideal for a relaxed family beach holiday."
+      },
+      {
+        "title": "Review: W Bali Seminyak (Marvelous One Bedroom Pool Villa)",
+        "source": "Plane Better",
+        "author": "Joel Sim",
+        "url": "https://planebetter.com/review-w-bali-seminyak-marvelous-one-bedroom-pool-villa/",
+        "published_date": "2023-01-19",
+        "summary": "One of the writer's favorite resorts thanks to its location, service and spacious pool villa with outdoor pool and lounge areas; he notes food quality had slipped a bit since 2018 but the overall vibe stays relaxing."
+      },
+      {
+        "title": "W Hotel Bali Seminyak Picture Review",
+        "source": "Point Hacks",
+        "author": "Greg Stone",
+        "url": "https://www.pointhacks.com.au/reviews/w-hotel-bali-seminyak-picture-review/",
+        "published_date": "2017-09-25",
+        "summary": "A points-focused walkthrough of the Marvellous 1 Bedroom Villa with private plunge pool, highlighting beautifully appointed rooms, standout service and the renowned Starfish Bloo Sunday brunch."
+      },
+      {
+        "title": "W Bali Seminyak: Hotel Review",
+        "source": "Cultured Black Pearl",
+        "author": "Cultured Black Pearl",
+        "url": "http://www.culturedblackpearl.com/w-bali-seminyak-hotel-review/",
+        "published_date": "2017-01-09",
+        "summary": "A solo traveler calls her private villa 'beyond marvelous,' praising the intimate romantic setting, king bed, sound system, spa and beach access at roughly $500/night, and suggests saving loyalty points for the stay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "W Bali - Seminyak - A VIBRANT Luxury Escape",
+        "channel": "Charaf Estate",
+        "url": "https://www.youtube.com/watch?v=v94OrXUXIKo",
+        "video_id": "v94OrXUXIKo",
+        "published_date": "2025-08-23",
+        "view_count": 3661
+      },
+      {
+        "title": "W Bali Seminyak Hotel Review | Luxury Stay in the Heart of Bali",
+        "channel": "Vitalii Grytsenko",
+        "url": "https://www.youtube.com/watch?v=ok7bOquVwMA",
+        "video_id": "ok7bOquVwMA",
+        "published_date": "2025-08-21",
+        "view_count": 7102
+      },
+      {
+        "title": "W Bali - Seminyak - Resort Tour",
+        "channel": "Travel with Ruby",
+        "url": "https://www.youtube.com/watch?v=nhCTMulhlWM",
+        "video_id": "nhCTMulhlWM",
+        "published_date": "2024-05-23",
+        "view_count": 17998
+      },
+      {
+        "title": "Spotlight on W Bali - Seminyak",
+        "channel": "Bali Buddies",
+        "url": "https://www.youtube.com/watch?v=zU1abgVLH-c",
+        "video_id": "zU1abgVLH-c",
+        "published_date": "2022-03-18",
+        "view_count": 17276
+      },
+      {
+        "title": "Hotel W Bali Seminyak Resort and Spa - Hotel Tour and Review",
+        "channel": "Leonard Shea",
+        "url": "https://www.youtube.com/watch?v=RWYjqJkr_VI",
+        "video_id": "RWYjqJkr_VI",
+        "published_date": "2019-10-12",
+        "view_count": 61798
+      }
+    ]
+  },
   "tags": ["seminyak", "pool villas", "lifestyle resort"],
   "source_mix": [
     {

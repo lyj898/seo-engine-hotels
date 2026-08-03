@@ -50,6 +50,84 @@
       "answer": "Not automatically on every rate -- as a select-service Courtyard property, breakfast is a consistently praised highlight for guests who book it, but it isn't guaranteed included on all room rates, so it's worth checking at booking."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Courtyard Bali Seminyak (1 Bedroom Suite)",
+        "source": "Suite Smile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2021/07/08/review-courtyard-bali-seminyak-1-bedroom-suite/",
+        "published_date": "2021-07-08",
+        "summary": "A Marriott points blogger details a 14-night stay in a suite upgraded from a base room, calling it exceptional value with generous elite benefits, free breakfast, spacious rooms and standout service."
+      },
+      {
+        "title": "The Marriott Courtyard Resort in Seminyak, Bali | Hotel Review",
+        "source": "Carl Thompson",
+        "author": "Carl Thompson",
+        "url": "https://www.carlthompson.co.uk/further-reading-blogs/2019/1/24/the-marriott-courtyard-resort-in-seminyak-bali-hotel-review",
+        "published_date": "2019-01-24",
+        "summary": "An independent blogger rates it one of Bali's best stays at GBP 90/night, praising modern decor, attentive staff, a varied breakfast, the kids club, fitness classes and a central location an 8-minute walk from the beach."
+      },
+      {
+        "title": "Tropical Dream: A Review of the Courtyard by Marriott Bali Seminyak Resort",
+        "source": "The Points Guy",
+        "author": "Ravi Ghelani",
+        "url": "https://thepointsguy.com/hotel/reviews/courtyard-bali-seminyak-resort/",
+        "published_date": "2018-07-07",
+        "summary": "A points-and-miles reviewer is surprised by a tropical property defying the typical Courtyard image, highlighting pool-view rooms, fast Wi-Fi, strong elite service, a swim-up-bar pool and good-value on-site seafood dining."
+      },
+      {
+        "title": "Courtyard Marriott Bali Seminyak Review",
+        "source": "Rolling Along With Kids",
+        "author": "Kate",
+        "url": "https://rollingalongwithkids.com/review-courtyard-marriott-seminyak/",
+        "published_date": "2017-09-02",
+        "summary": "A family blogger who won a 3-night stay reviews a 2-bedroom suite, praising the 8am-8pm kids club, big breakfast buffet, pool bar and food truck, while flagging pool-access room safety and crowded breakfasts."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Courtyard by Marriott Bali Seminyak Resort - Recommended Resort",
+        "channel": "Seow Onz Travelogue",
+        "url": "https://www.youtube.com/watch?v=B4h2JmWMudA",
+        "video_id": "B4h2JmWMudA",
+        "published_date": "2026-04-03",
+        "view_count": 1750
+      },
+      {
+        "title": "Courtyard Marriott Seminyak Bali Tour Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=sRmfQU9ijF8",
+        "video_id": "sRmfQU9ijF8",
+        "published_date": "2024-08-04",
+        "view_count": 15686
+      },
+      {
+        "title": "The Courtyard by Marriott, Bali, Resort 2023 - 5* Hotel Review",
+        "channel": "The Elite Leisure Traveller",
+        "url": "https://www.youtube.com/watch?v=adyW01u3LTo",
+        "video_id": "adyW01u3LTo",
+        "published_date": "2023-07-08",
+        "view_count": 6127
+      },
+      {
+        "title": "Courtyard Bali Seminyak Resort by Marriott, Seminyak, Bali, Indonesia",
+        "channel": "Reiner Gebhart",
+        "url": "https://www.youtube.com/watch?v=R7pu5I6Rr7U",
+        "video_id": "R7pu5I6Rr7U",
+        "published_date": "2022-06-28",
+        "view_count": 4814
+      },
+      {
+        "title": "Courtyard by Marriott Bali Seminyak Resort, Full Video",
+        "channel": "Hotel To Hotel",
+        "url": "https://www.youtube.com/watch?v=AxhsOgegQCc",
+        "video_id": "AxhsOgegQCc",
+        "published_date": "2021-04-01",
+        "view_count": 2668
+      }
+    ]
+  },
   "tags": ["seminyak", "select-service", "walkable"],
   "source_mix": [
     {

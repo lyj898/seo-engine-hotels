@@ -55,6 +55,72 @@
       "answer": "Mostly, but not always -- some guest reviews mention limited soundproofing between rooms and corridors, so light sleepers may want to request a room away from elevator banks or high-traffic hallways."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: The Athenee Hotel, a Luxury Collection Hotel, Bangkok",
+        "source": "Prince of Travel",
+        "author": "Jason Lee",
+        "url": "https://princeoftravel.com/reviews/the-athenee-hotel-a-luxury-collection-hotel-bangkok-2026/",
+        "published_date": "2026-02-04",
+        "summary": "A points-focused writer rates the property top marks, singling out the calm-yet-central Wireless Road location near Phloen Chit BTS, comfortable rooms, a solid Royal Club Lounge, and standout breakfast and staff."
+      },
+      {
+        "title": "Hotel Review: The Athenee Hotel, a Luxury Collection Hotel, Bangkok",
+        "source": "Satu Kosong Travels",
+        "author": "Satu Kosong",
+        "url": "https://10satukosong.wpcomstaging.com/2024/07/30/hotel-review-the-athenee-hotel-a-luxury-collection-hotel-bangkok/",
+        "published_date": "2024-07-30",
+        "summary": "Blogger recounts a short Bangkok stay booked via a Hotelux deal, coming away happy despite missing a suite upgrade, and praising the attentive service, Royal Club Lounge, and spacious room."
+      },
+      {
+        "title": "Hotel Review: The Athenee Hotel, a Luxury Collection Hotel, Bangkok (Royal Club King)",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2024/7/4/hotel-review-the-athenee-hotel-a-luxury-collection-hotel-bangkok-royal-club-king",
+        "published_date": "2024-07-04",
+        "summary": "Reviewer finds strong staff service and comfortable rooms but is let down by disappointing food in both the Royal Club Lounge and Rain Tree Cafe, leaving overall value in doubt."
+      },
+      {
+        "title": "Review: The Athenee Hotel, a Luxury Collection Hotel, Bangkok",
+        "source": "Milesopedia",
+        "author": "Etienne Werbinski",
+        "url": "https://milesopedia.com/en/reviews/hotels/the-athenee-hotel-a-luxury-collection-hotel-bangkok/",
+        "published_date": "2023-01-09",
+        "summary": "An enthusiastic 8/10 write-up highlighting professional staff, strong dining, and a well-placed base for exploring Bangkok, with the writer saying the stay was flawless and he'd return."
+      },
+      {
+        "title": "Review: an exceptionally large suite at The Athenee Hotel, Bangkok",
+        "source": "Head for Points",
+        "author": "Sinead Archer",
+        "url": "https://www.headforpoints.com/2022/07/17/review-the-athenee-bangkok-hotel/",
+        "published_date": "2022-07-17",
+        "summary": "The UK points site reviews a stay in the large Vimarn Siam suite, describing the leafy setback from the road, a dramatic double-staircase lobby, and generally excellent service."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Athenee Hotel, A Luxury Collection, Marriott Bonvoy. Bangkok, Thailand",
+        "channel": "Love Flying And Hotels",
+        "url": "https://www.youtube.com/watch?v=nFheVwQvnAc",
+        "video_id": "nFheVwQvnAc",
+        "published_date": "2023-07"
+      },
+      {
+        "title": "THE ATHENEE HOTEL @ BANGKOK, THAILAND | 5-Star Hotel Review",
+        "channel": "MY buffet",
+        "url": "https://www.youtube.com/watch?v=V8NrSvccBeM",
+        "video_id": "V8NrSvccBeM",
+        "published_date": "2022-10"
+      },
+      {
+        "title": "The Athenee Hotel, Bangkok Review",
+        "channel": "Every Corner of World (Pamela Mukherjee)",
+        "url": "https://www.youtube.com/watch?v=bduubam7MVs",
+        "video_id": "bduubam7MVs"
+      }
+    ]
+  },
   "tags": ["luxury", "embassy district", "boutique"],
   "source_mix": [
     {
