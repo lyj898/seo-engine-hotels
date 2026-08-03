@@ -56,15 +56,23 @@ const metaDescription = description ?? siteConfig.siteTagline;
       Font loading is the one place that isn't purely token-driven: which
       CDN serves a given font family varies (Google Fonts vs Fontshare vs
       self-hosted), so this instance's fonts.display/fonts.body values
-      (site.config.json.theme.fonts) are wired to Google Fonts + Fontshare
-      explicitly here. A future vertical instance picking different fonts
-      should update these two <link> tags to match.
+      (site.config.json.theme.fonts) are wired to Google Fonts explicitly
+      here. A future vertical instance picking different fonts should
+      update this <link> tag to match.
+
+      StayElite uses Fraunces (display/serif) + Inter (body/sans) --
+      site.config.json.theme.fonts.display/body. This was previously
+      copied unmodified from the races instance (which loads General Sans
+      + Archivo), so the two <link> tags didn't match the declared theme
+      tokens: Tailwind's font-serif/font-sans classes resolved to
+      "Fraunces"/"Inter" but those font files were never actually fetched,
+      so every heading and body element silently fell back to the browser
+      default serif/sans-serif instead of the intended typefaces. Fixed to
+      load the fonts the theme actually declares.
     -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link rel="preconnect" href="https://api.fontshare.com" />
-    <link href="https://api.fontshare.com/v2/css?f[]=general-sans@400,500,600,700&display=swap" rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500..900&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;600;700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
 
     <!--
       Inline, dependency-free theme init. Must run synchronously in <head>,
