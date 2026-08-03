@@ -67,6 +67,41 @@ export const sentimentScoresSchema = z.object({
   breakdown: z.array(sentimentBreakdownItemSchema).default([]),
 });
 
+// 2026-08-03: curated links to independent, real-world coverage -- a named
+// blogger's written review or a real YouTube creator's video, each found on
+// the open web and linked back to its original source (never rehosted or
+// quoted at length -- see ExternalCoverage.astro). Deliberately separate
+// from source_mix (which is the research pipeline's internal fact-sourcing
+// trail, often including aggregators like TripAdvisor) -- this is reader-
+// facing "see what real people said elsewhere" content, capped and curated
+// for recency (last ~1-2 years) and credibility, not an exhaustive log.
+export const externalReviewSchema = z.object({
+  title: z.string().min(1),
+  source: z.string().min(1), // publication/site name, e.g. "The Travel Temple"
+  author: z.string().optional(),
+  url: z.string().url(),
+  published_date: z.string().min(1), // ISO date, e.g. "2025-06-09"
+  // Our own short paraphrase of what the piece covers -- never a verbatim
+  // excerpt of the source's copyrighted text.
+  summary: z.string().min(1).max(240),
+});
+
+export const externalVideoSchema = z.object({
+  title: z.string().min(1),
+  channel: z.string().min(1),
+  url: z.string().url(),
+  video_id: z.string().min(1), // YouTube video id, used to build the embed
+  published_date: z.string().min(1).optional(), // ISO date if known
+  view_count: z.number().int().nonnegative().optional(),
+});
+
+export const externalCoverageSchema = z
+  .object({
+    reviews: z.array(externalReviewSchema).default([]),
+    videos: z.array(externalVideoSchema).default([]),
+  })
+  .optional();
+
 export const baseEntitySchema = z.object({
   entity_id: z.string().min(1),
   slug: slugSchema,
@@ -84,6 +119,7 @@ export const baseEntitySchema = z.object({
   cons: z.array(z.string().min(1)).default([]),
   sentiment_scores: sentimentScoresSchema.optional(),
   excerpt_quotes: z.array(excerptQuoteSchema).default([]),
+  external_coverage: externalCoverageSchema,
 
   // Output of the web-research stage (scripts/research-entities.js), kept
   // deliberately separate from core_facts. core_facts is what a named
