@@ -83,9 +83,9 @@
   "contactEmail": "hello@elitestay.travel",
   "contactFormEmail": "lyj898@gmail.com",
 
-  "googleAnalyticsId": "",
+  "googleAnalyticsId": "G-FQWW1ER8FE",
   "_googleAnalyticsId_note": "Set to the GA4 Measurement ID (G-XXXXXXXXXX) from the elitestay.travel GA4 property. BaseLayout injects gtag.js on every page when this is non-empty; empty string = analytics off.",
-  "googleSiteVerification": "",
+  "googleSiteVerification": "pMIyBmntSSiE34bpChc2DKxLNjhGjcrKX_qAD_BefvA",
   "_googleSiteVerification_note": "Set to the token (the content=\"...\" value) from Google Search Console's 'HTML tag' verification method. BaseLayout renders the <meta name=google-site-verification> tag when non-empty. Not needed if you verify via DNS or the linked GA4 property instead.",
 
   "aiPromptProfile": "hotels-research-v1",
