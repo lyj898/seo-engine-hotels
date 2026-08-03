@@ -204,6 +204,9 @@ export const regionSchema = z.object({
   parent_region_id: z.string().nullable().optional(),
   short_description: z.string().min(1),
   intro: z.string().min(1).optional(),
+  // Optional hero image for the region hub page (e.g. a city skyline). Same
+  // provider-agnostic shape as entities -- see imageSchema.
+  image: imageSchema.optional(),
   faqs: z.array(faqSchema).default([]),
   last_updated: z.string().min(1),
   status: z.enum(STATUS_VALUES),

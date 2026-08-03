@@ -6,6 +6,12 @@
   "parent_region_id": "indonesia",
   "short_description": "Loyalty-program beach resorts across Bali, from Nusa Dua and Seminyak to Ubud's inland properties.",
   "intro": "Bali's hotels in this directory are concentrated in the resort areas of the island's south -- Nusa Dua's gated resort strip, Seminyak's beach-club scene, and a smaller number of inland properties near Ubud. As with Phuket, the choice of area matters at least as much as the specific hotel, and elite benefits here typically show up as resort credit and spa/pool access rather than an executive lounge.",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tanah-Lot_Bali_Indonesia_Pura-Tanah-Lot-01.jpg/1920px-Tanah-Lot_Bali_Indonesia_Pura-Tanah-Lot-01.jpg",
+    "alt": "Pura Tanah Lot sea temple on the Bali coast",
+    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0 (via Wikimedia Commons)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tanah-Lot_Bali_Indonesia_Pura-Tanah-Lot-01.jpg"
+  },
   "faqs": [],
   "last_updated": "2026-07-31",
   "status": "active"

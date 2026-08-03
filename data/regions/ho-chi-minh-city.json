@@ -6,6 +6,12 @@
   "parent_region_id": "vietnam",
   "short_description": "Loyalty-program hotels across Ho Chi Minh City, from Saigon riverside towers to District 1's business core.",
   "intro": "Ho Chi Minh City's hotels in this directory cluster around District 1 -- the city's commercial and nightlife center -- and the Saigon riverside, with a smaller number of properties further out near Phu Nhuan and the airport corridor. Traffic density makes proximity to District 1 the main practical factor in choosing a base.",
+  "image": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ho_Chi_Minh_City_panorama_2019.jpg/1920px-Ho_Chi_Minh_City_panorama_2019.jpg",
+    "alt": "Ho Chi Minh City skyline panorama along the Saigon River",
+    "credit": "Lê Minh Phát, CC BY 2.0 (via Wikimedia Commons)",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City_panorama_2019.jpg"
+  },
   "faqs": [],
   "last_updated": "2026-08-03",
   "status": "active"

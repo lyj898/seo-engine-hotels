@@ -74,6 +74,28 @@ const jsonLd = [
       <p>{region.intro ?? region.short_description}</p>
     </div>
 
+    {region.image?.url && (
+      <figure class="mt-8">
+        <img
+          src={region.image.url}
+          alt={region.image.alt ?? region.label}
+          width="1152"
+          height="480"
+          decoding="async"
+          class="aspect-[21/9] w-full rounded-xl object-cover"
+        />
+        {region.image.credit && (
+          <figcaption class="mt-2 text-xs text-brand-faint dark:text-brand-faint-dark">
+            {region.image.source_url ? (
+              <a href={region.image.source_url} rel="nofollow noopener" target="_blank" class="link-accent">{region.image.credit}</a>
+            ) : (
+              region.image.credit
+            )}
+          </figcaption>
+        )}
+      </figure>
+    )}
+
     <div class="mt-8">
       <StatsSummary stats={stats} />
     </div>
