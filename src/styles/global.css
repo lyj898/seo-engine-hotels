@@ -64,4 +64,22 @@
   .prose-content p + p {
     @apply mt-4;
   }
+
+  /* Editorial-redesign primitives (2026-08-03). Small-caps, letter-spaced
+     eyebrow label used above headings and as the muted metadata line on
+     cards/nav -- the one recurring typographic signature of the redesign. */
+  .kicker {
+    @apply font-sans text-[11px] font-semibold uppercase tracking-[0.14em];
+  }
+  /* Oversized, low-opacity serif initial standing in for a real photo on
+     EntityCard's duotone placeholder panels until real photography exists. */
+  .watermark {
+    font-family: theme('fontFamily.serif');
+    font-weight: 300;
+  }
+  /* The one filled, gold CTA button -- deliberately used sparingly (never as
+     a card fill), per the redesign's "gold as rare accent" rule. */
+  .btn-primary {
+    @apply inline-block bg-brand-primary px-8 py-3 text-sm font-medium tracking-wide text-brand-primary-ink transition-colors hover:bg-brand-primary-hover dark:bg-brand-primary-hover-dark dark:text-brand-primary-ink-dark dark:hover:brightness-110;
+  }
 }
