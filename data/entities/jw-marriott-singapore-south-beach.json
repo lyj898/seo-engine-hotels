@@ -54,6 +54,38 @@
       "answer": "Very -- it sits on Beach Road between the Civic District and Marina Bay, within walking distance of both, and close to City Hall and Esplanade MRT stations for onward travel."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: JW Marriott Hotel South Beach (Singapore)",
+        "source": "Dania Experiences",
+        "url": "https://daniaexperiences.com/2023/07/12/review-jw-marriott-hotel-south-beach-singapore/",
+        "published_date": "2023-07-12",
+        "summary": "A blogger's stay review of the South Beach property, covering the room, the design-forward interiors, and its central Beach Road location across from Raffles Hotel."
+      },
+      {
+        "title": "Review: JW Marriott Hotel Singapore South Beach Staycation",
+        "source": "The MileLion",
+        "url": "https://milelion.com/2022/02/05/review-jw-marriott-hotel-singapore-south-beach-staycation/",
+        "published_date": "2022-02-05",
+        "summary": "A Singapore points blog's staycation review of the trendy club rooms and the hotel's dining concepts within the South Beach development."
+      }
+    ],
+    "videos": [
+      {
+        "title": "JW Marriott Singapore South Beach Review: Our Favorite Luxury Hotel in Singapore!",
+        "channel": "Ky & Tay",
+        "url": "https://www.youtube.com/watch?v=-i-eK_iwQOc",
+        "video_id": "-i-eK_iwQOc"
+      },
+      {
+        "title": "JW Marriott Hotel Singapore South Beach Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=zVowb4vgbXI",
+        "video_id": "zVowb4vgbXI"
+      }
+    ]
+  },
   "tags": ["premium", "civic district", "marina bay"],
   "source_mix": [
     {

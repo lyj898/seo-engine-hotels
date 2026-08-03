@@ -55,6 +55,31 @@
       "answer": "It's roughly 8 kilometers from Tan Son Nhat International Airport, typically a 15-20 minute drive depending on traffic, which can be significant in central Ho Chi Minh City at peak hours."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Ho Chi Minh Hotel Review: Sheraton Saigon Grand Opera Hotel",
+        "source": "The Munching Traveller",
+        "url": "https://www.themunchingtraveller.com/post/hotel-review-sheraton-saigon-hotel-towers",
+        "published_date": "2025-09-21",
+        "summary": "A three-night stay review praising the District 1 location and the breakfast buffet's variety, while noting it isn't the cheapest option in the city."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Upgrade to Executive Suite @ Sheraton Saigon Grand Opera Hotel — room tour & club lounge review",
+        "channel": "Anita C. First Take. Affordable Luxury Travel.",
+        "url": "https://www.youtube.com/watch?v=kBkDDqWOhKY",
+        "video_id": "kBkDDqWOhKY"
+      },
+      {
+        "title": "Sheraton Saigon Grand Opera Hotel | Ho Chi Minh City, Vietnam | Hotel Review",
+        "channel": "Vietnam Hotel Adventures",
+        "url": "https://www.youtube.com/watch?v=YIBwfRmEcY4",
+        "video_id": "YIBwfRmEcY4"
+      }
+    ]
+  },
   "tags": ["dong khoi", "district 1", "sheraton"],
   "source_mix": [
     {

@@ -56,6 +56,38 @@
       "answer": "The resort has six on-site restaurants and bars spanning indoor and beachfront outdoor settings, giving guests a wide range of dining choices without needing to leave the property. Guest reviews describe the overall dining experience across the resort as consistently positive, a useful convenience given the property's scale."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: The Westin Resort Nusa Dua, Bali, Indonesia",
+        "source": "World Traveller 73",
+        "url": "https://worldtraveller73.com/2021/08/19/review-the-westin-resort-nusa-dua-bali-indonesia/",
+        "published_date": "2021-08-19",
+        "summary": "A detailed resort review covering the lagoon-shaped pools, sheltered beachfront, Heavenly-bed rooms, and the family-friendly facilities at the Nusa Dua property."
+      },
+      {
+        "title": "Review: The Westin Nusa Dua, Bali (Ocean Suite)",
+        "source": "Suite Smile",
+        "url": "https://suitesmile.com/blog/2021/05/30/review-the-westin-nusa-dua-bali-ocean-suite/",
+        "published_date": "2021-05-30",
+        "summary": "An Ocean Suite stay review walking through the suite, the resort's pools and beach, and its Nusa Dua setting."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Westin Resort Nusa Dua Review + Walkthrough Tour — Bali, Indonesia",
+        "channel": "Motivated Travel | Family Reviews, Guides and Tips",
+        "url": "https://www.youtube.com/watch?v=Th2sKAk5xNE",
+        "video_id": "Th2sKAk5xNE"
+      },
+      {
+        "title": "Nusa Dua Bali: Westin Resort HONEST Review",
+        "channel": "Nick Gray",
+        "url": "https://www.youtube.com/watch?v=cgG4s9aCitQ",
+        "video_id": "cgG4s9aCitQ"
+      }
+    ]
+  },
   "tags": ["nusa dua", "beachfront", "wellness"],
   "source_mix": [
     {
