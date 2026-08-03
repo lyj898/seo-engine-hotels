@@ -40,6 +40,12 @@ export default {
           'primary-ink': pick(light.primaryInk, '#ffffff'),
           'primary-highlight': pick(light.primaryHighlight, '#e5f0ea'),
           'primary-hover': pick(light.primaryHover, pick(theme.primaryColor, '#2f6f4f')),
+          // Duotone placeholder-photo panel backgrounds (EntityCard's
+          // editorial "no real photography yet" treatment), alternated per
+          // card. Fall back to surface-offset so a vertical instance that
+          // hasn't set these still renders something reasonable.
+          'panel-a': pick(light.panelA, pick(light.surfaceOffset, '#f0efe9')),
+          'panel-b': pick(light.panelB, pick(light.surfaceOffset, '#f0efe9')),
           success: pick(light.success, '#2f7a3a'),
           'success-highlight': pick(light.successHighlight, '#d7ecd0'),
           warning: pick(light.warning, '#a15c00'),
@@ -57,6 +63,8 @@ export default {
           'primary-ink-dark': pick(dark.primaryInk, '#ffffff'),
           'primary-highlight-dark': pick(dark.primaryHighlight, '#1e2a22'),
           'primary-hover-dark': pick(dark.primaryHover, pick(theme.primaryColor, '#2f6f4f')),
+          'panel-a-dark': pick(dark.panelA, pick(dark.surfaceOffset, '#20231d')),
+          'panel-b-dark': pick(dark.panelB, pick(dark.surfaceOffset, '#20231d')),
           'success-dark': pick(dark.success, '#7ec788'),
           'success-highlight-dark': pick(dark.successHighlight, '#1e3122'),
           'warning-dark': pick(dark.warning, '#e0a752'),
