@@ -135,21 +135,38 @@ const jsonLd = [
 ---
 
 <BaseLayout description={siteConfig.siteTagline} canonicalPath={urls.home()} jsonLd={jsonLd}>
-  <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
-    <section class="mx-auto max-w-3xl border-b border-brand-divider pb-10 dark:border-brand-divider-dark sm:pb-14">
-      <h1 class="text-[clamp(2.1rem,1rem+4.5vw,4.2rem)] font-black leading-[1.05]">
+  <div class="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-20">
+    <section class={isDateDriven ? 'mx-auto max-w-3xl border-b border-brand-divider pb-10 dark:border-brand-divider-dark sm:pb-14' : 'mx-auto max-w-2xl text-center'}>
+      {!isDateDriven && (
+        <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">
+          {siteConfig.regionLabelPlural ?? 'Regions'} &middot; {topLevelRegions.length} countries
+        </p>
+      )}
+      <h1 class={isDateDriven ? 'text-[clamp(2.1rem,1rem+4.5vw,4.2rem)] font-black leading-[1.05]' : 'mt-5 text-[clamp(2.2rem,1.1rem+4.5vw,4.2rem)] font-light leading-[1.08]'}>
         {headlineBefore}
         {headlineAccent && (
-          <em class="not-italic text-transparent [-webkit-text-stroke:2px_theme(colors.brand.text)] dark:[-webkit-text-stroke:2px_theme(colors.brand.text-dark)]">
-            {headlineAccent}
-          </em>
+          isDateDriven ? (
+            <em class="not-italic text-transparent [-webkit-text-stroke:2px_theme(colors.brand.text)] dark:[-webkit-text-stroke:2px_theme(colors.brand.text-dark)]">
+              {headlineAccent}
+            </em>
+          ) : (
+            <em class="font-normal italic text-brand-primary dark:text-brand-primary-hover-dark">{headlineAccent}</em>
+          )
         )}
         {headlineAfter}
       </h1>
 
-      <div class="mt-8">
-        <HeroStats stats={heroStats} />
-      </div>
+      {!isDateDriven && (
+        <p class="mx-auto mt-6 max-w-md text-[15px] leading-relaxed text-brand-muted dark:text-brand-muted-dark">
+          {siteConfig.siteTagline}
+        </p>
+      )}
+
+      {isDateDriven && (
+        <div class="mt-8">
+          <HeroStats stats={heroStats} />
+        </div>
+      )}
 
       {isDateDriven ? (
         /*
@@ -180,7 +197,15 @@ const jsonLd = [
           />
         </div>
       ) : (
-        <SearchBox targetSelector="#featured-grid [data-filterable]" placeholder={`Search by ${siteConfig.entityLabelSingular} name...`} />
+        <div class="mt-10">
+          <SearchBox targetSelector="#featured-grid [data-filterable]" placeholder={`Search by ${siteConfig.entityLabelSingular} name...`} />
+        </div>
+      )}
+
+      {!isDateDriven && (
+        <div class="mt-12">
+          <HeroStats stats={heroStats} />
+        </div>
       )}
     </section>
 
@@ -275,28 +300,37 @@ const jsonLd = [
       </section>
     ) : (
       featured.length > 0 && (
-        <section class="mt-10">
-          <h2 class="mb-4 text-xl font-semibold">Highest-verified {siteConfig.entityLabelPlural}</h2>
-          <div id="featured-grid" class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <section class="mt-4">
+          <div class="mb-10 flex items-end justify-between border-b border-brand-divider pb-4 dark:border-brand-divider-dark">
+            <div>
+              <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">Editor's picks</p>
+              <h2 class="mt-2 text-2xl font-normal sm:text-3xl">Highest-verified {siteConfig.entityLabelPlural}</h2>
+            </div>
+          </div>
+          <div id="featured-grid" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
             {featured.map((entity) => <EntityCard entity={entity} categories={categories} />)}
           </div>
         </section>
       )
     )}
 
-    <section class="mt-14">
+    <section class="mt-20">
       <StatsSummary stats={stats} />
     </section>
 
     {topLevelRegions.length > 0 && (
-      <section class="mt-14">
-        <div class="mb-4 flex items-center justify-between">
-          <h2 class="text-xl font-semibold">Browse by {siteConfig.regionLabel.toLowerCase()}</h2>
-          <a href={urls.regionsIndex()} class="text-sm link-accent">View all</a>
+      <section class="mt-20">
+        <div class="mb-2 flex items-end justify-between">
+          <div>
+            <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">Explore</p>
+            <h2 class="mt-2 text-2xl font-normal sm:text-3xl">Browse by {siteConfig.regionLabel.toLowerCase()}</h2>
+          </div>
+          <a href={urls.regionsIndex()} class="kicker hidden text-brand-muted hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark sm:inline">View all &rarr;</a>
         </div>
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {topLevelRegions.map((region) => (
+        <div class="divide-y divide-brand-divider border-t border-brand-divider dark:divide-brand-divider-dark dark:border-brand-divider-dark">
+          {topLevelRegions.map((region, i) => (
             <HubCard
+              index={i}
               href={urls.region(region.slug)}
               label={region.label}
               description={region.short_description}
@@ -308,14 +342,18 @@ const jsonLd = [
     )}
 
     {categories.length > 0 && (
-      <section class="mt-14">
-        <div class="mb-4 flex items-center justify-between">
-          <h2 class="text-xl font-semibold">Browse by {siteConfig.categoryLabel.toLowerCase()}</h2>
-          <a href={urls.categoriesIndex()} class="text-sm link-accent">View all</a>
+      <section class="mt-20">
+        <div class="mb-2 flex items-end justify-between">
+          <div>
+            <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">Explore</p>
+            <h2 class="mt-2 text-2xl font-normal sm:text-3xl">Browse by {siteConfig.categoryLabel.toLowerCase()}</h2>
+          </div>
+          <a href={urls.categoriesIndex()} class="kicker hidden text-brand-muted hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark sm:inline">View all &rarr;</a>
         </div>
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {categories.map((category) => (
+        <div class="divide-y divide-brand-divider border-t border-brand-divider dark:divide-brand-divider-dark dark:border-brand-divider-dark">
+          {categories.map((category, i) => (
             <HubCard
+              index={i}
               href={urls.category(category.slug)}
               label={category.label}
               description={category.short_description}
@@ -327,21 +365,31 @@ const jsonLd = [
     )}
 
     {siteConfig.enabledFeatures?.listicles && listicles.length > 0 && (
-      <section class="mt-14">
-        <div class="mb-4 flex items-center justify-between">
-          <h2 class="text-xl font-semibold">Best Of guides</h2>
-          <a href={urls.listiclesIndex()} class="text-sm link-accent">View all</a>
+      <section class="mt-20">
+        <div class="mb-2 flex items-end justify-between">
+          <div>
+            <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">Explore</p>
+            <h2 class="mt-2 text-2xl font-normal sm:text-3xl">Best Of guides</h2>
+          </div>
+          <a href={urls.listiclesIndex()} class="kicker hidden text-brand-muted hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark sm:inline">View all &rarr;</a>
         </div>
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {listicles.map((listicle) => (
-            <HubCard href={urls.listicle(listicle.slug)} label={listicle.title} description={listicle.intro} />
+        <div class="divide-y divide-brand-divider border-t border-brand-divider dark:divide-brand-divider-dark dark:border-brand-divider-dark">
+          {listicles.map((listicle, i) => (
+            <HubCard index={i} href={urls.listicle(listicle.slug)} label={listicle.title} description={listicle.intro} />
           ))}
         </div>
       </section>
     )}
 
-    <section class="mt-16">
-      <FAQSection faqs={faqs} />
+    <section class="mt-20">
+      <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">Verified process</p>
+      <div class="mt-2">
+        <FAQSection faqs={faqs} />
+      </div>
+    </section>
+
+    <section class="mt-20 flex justify-center">
+      <a href={urls.categoriesIndex()} class="btn-primary">Explore all {siteConfig.entityLabelPlural}</a>
     </section>
   </div>
 </BaseLayout>
