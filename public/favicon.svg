@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <!-- Exact favicon from runsea.run's live design system (Races/design.html):
-       graphite ring + lime "pulse line" mark. Swap per vertical instance. -->
-  <circle cx="16" cy="16" r="15" stroke="#15170f" stroke-width="2" fill="none" />
-  <path d="M9 21 L14 13 L18 17 L23 9" stroke="#c8ff33" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <!-- EliteStay mark: gold "T" monogram on dark ink, matching the
+       editorial redesign's deep-gold-as-rare-accent treatment
+       (theme.light.primaryInk background, gold #c99a4e stroke). -->
+  <rect width="32" height="32" rx="7" fill="#211a10" />
+  <rect x="8" y="9" width="16" height="3.2" fill="#c99a4e" />
+  <rect x="14.4" y="9" width="3.2" height="14" fill="#c99a4e" />
 </svg>
