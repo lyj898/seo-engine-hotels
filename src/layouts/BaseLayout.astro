@@ -33,6 +33,10 @@ const metaDescription = description ?? siteConfig.siteTagline;
     <title>{pageTitle}</title>
     <meta name="description" content={metaDescription} />
 
+    {siteConfig.googleSiteVerification && (
+      <meta name="google-site-verification" content={siteConfig.googleSiteVerification} />
+    )}
+
     {siteConfig.googleAnalyticsId && (
       <>
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${siteConfig.googleAnalyticsId}`}></script>
