@@ -69,10 +69,16 @@ const metaDescription = description ?? siteConfig.siteTagline;
       so every heading and body element silently fell back to the browser
       default serif/sans-serif instead of the intended typefaces. Fixed to
       load the fonts the theme actually declares.
+
+      The italic (ital,wght@1,...) and light (300) weights were added for
+      the 2026-08-03 editorial redesign, which sets the hero's accent word
+      in italic Fraunces and the headline itself in a light weight -- the
+      original wght-only link never fetched an italic face, so that word
+      would have silently rendered in the browser's synthetic (faux) italic.
     -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;600;700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,400;0,600;0,700;0,900;1,400;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
 
     <!--
       Inline, dependency-free theme init. Must run synchronously in <head>,
