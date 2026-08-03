@@ -2,7 +2,7 @@ import { z } from 'zod';
 
 // core_facts shape for the "hotels" vertical (hotel review / loyalty-program
 // guides). See /config-examples/hotels.site.config.json and
-// site.config.json (stayelite.travel instance).
+// site.config.json (elitestay.travel instance).
 //
 // Note on what's NOT here: sentiment scores, pros/cons, source mix,
 // excerpt quotes, and FAQs are already universal fields on baseEntitySchema
