@@ -102,6 +102,22 @@ export const externalCoverageSchema = z
   })
   .optional();
 
+// A single lead/hero image for an entity. Deliberately provider-agnostic:
+// `url` points at whatever licensed source supplies it (an affiliate image
+// CDN like Hotellook/Expedia, or a CC-licensed source such as Wikimedia).
+// Images are hotlinked from that source per the provider's terms -- never
+// downloaded and rehosted here. `credit`/`source_url` carry attribution for
+// licenses that require it (CC-BY and friends); affiliate-CDN images that
+// don't require visible credit simply omit them. `alt` is required whenever
+// an image is present, so a populated image can never ship without the alt
+// text that both accessibility and image SEO depend on.
+export const imageSchema = z.object({
+  url: z.string().url(),
+  alt: z.string().min(1),
+  credit: z.string().optional(),
+  source_url: z.string().url().optional(),
+});
+
 export const baseEntitySchema = z.object({
   entity_id: z.string().min(1),
   slug: slugSchema,
@@ -120,6 +136,9 @@ export const baseEntitySchema = z.object({
   sentiment_scores: sentimentScoresSchema.optional(),
   excerpt_quotes: z.array(excerptQuoteSchema).default([]),
   external_coverage: externalCoverageSchema,
+  // Optional lead image; entities without one fall back to the duotone
+  // placeholder panel in EntityCard. See imageSchema above.
+  image: imageSchema.optional(),
 
   // Output of the web-research stage (scripts/research-entities.js), kept
   // deliberately separate from core_facts. core_facts is what a named

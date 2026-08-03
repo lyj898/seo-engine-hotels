@@ -83,6 +83,16 @@ export function buildEntitySchema(entity, siteConfig, url) {
   };
   if (url) schema.url = url;
 
+  // Lead image, when present -- schema.org recommends an image on Hotel/
+  // LocalBusiness/Event types and it drives richer image results. Points at
+  // the licensed source URL (same one rendered on the page).
+  if (entity.image?.url) schema.image = entity.image.url;
+
+  // Hotels carry a single free-text address string in core_facts; schema.org
+  // accepts address as Text, so surface it when present (races/other verticals
+  // that use venue/city/country instead are handled by the location block).
+  if (facts.address) schema.address = facts.address;
+
   if (facts.date) schema.startDate = facts.date;
 
   if (facts.venue || facts.city || facts.country) {

@@ -99,8 +99,18 @@ const kicker = [facts.neighborhood, firstTag]
   </div>
 ) : (
   <article data-filterable data-tags={filterTags} data-search={searchText} {...extraAttrs}>
-    <a href={urls.entity(entity.slug)} class={`flex aspect-[4/3] items-center justify-center ${panelClass}`}>
-      <span class="watermark text-7xl text-brand-text/15 dark:text-brand-text-dark/15">{initial}</span>
+    <a href={urls.entity(entity.slug)} class={`flex aspect-[4/3] items-center justify-center overflow-hidden ${panelClass}`}>
+      {entity.image?.url ? (
+        <img
+          src={entity.image.url}
+          alt={entity.image.alt ?? entity.name}
+          loading="lazy"
+          decoding="async"
+          class="h-full w-full object-cover"
+        />
+      ) : (
+        <span class="watermark text-7xl text-brand-text/15 dark:text-brand-text-dark/15">{initial}</span>
+      )}
     </a>
     {kicker && <p class="kicker mt-4 text-brand-faint dark:text-brand-faint-dark">{kicker}</p>}
     <h3 class="mt-1 text-lg font-normal">

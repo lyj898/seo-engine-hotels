@@ -80,6 +80,29 @@ const jsonLd = [
       <LastUpdated date={entity.last_updated} />
     </div>
 
+    {entity.image?.url && (
+      <figure class="mt-8">
+        <img
+          src={entity.image.url}
+          alt={entity.image.alt ?? entity.name}
+          width="768"
+          height="432"
+          loading="lazy"
+          decoding="async"
+          class="aspect-[16/9] w-full rounded-lg object-cover"
+        />
+        {entity.image.credit && (
+          <figcaption class="mt-2 text-xs text-brand-faint dark:text-brand-faint-dark">
+            {entity.image.source_url ? (
+              <a href={entity.image.source_url} rel="nofollow noopener" target="_blank" class="link-accent">{entity.image.credit}</a>
+            ) : (
+              entity.image.credit
+            )}
+          </figcaption>
+        )}
+      </figure>
+    )}
+
     <div class="prose-content mt-8">
       <p>{entity.ai_summary}</p>
     </div>
