@@ -56,6 +56,92 @@
       "answer": "It's within easy walking distance -- the hotel sits on Raffles Avenue in Marina Centre, close to Marina Bay Sands, the Esplanade, and the Suntec convention district."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "The Ritz-Carlton, Millenia Singapore Review: Still the City's Best?",
+        "source": "Rubbish Eat Rubbish Grow",
+        "author": "Celest Tan",
+        "url": "https://rubbisheatrubbishgrow.com/2026/03/18/the-ritz-carlton-millenia-singapore-review/",
+        "published_date": "2026-03-18",
+        "summary": "An older Kevin Roche-designed property that stays relevant through mature, human-centered service. Praises spacious rooms, the octagonal bathroom window, local dishes and the five-presentation Club Lounge; dings weak shower pressure."
+      },
+      {
+        "title": "Hotel Review: The Ritz-Carlton, Millenia Singapore (Club Premier Suite)",
+        "source": "Secret Life of Fatbacks",
+        "author": "Shawn Loh",
+        "url": "https://secretlifeoffatbacks.com/2025/12/hotel-review-the-ritz-carlton-millenia-singapore-club-premier-suite-iconic-bathroom-windows-incredible-bay-views-and-sensational-club-lounge/",
+        "published_date": "2025-12-29",
+        "summary": "Detailed stay in the 72sqm Club Premier Suite with panoramic Marina Bay and Singapore Flyer views. Highlights the iconic octagonal bathroom window, benchmark Colony breakfast and one of Singapore's most luxurious club lounges."
+      },
+      {
+        "title": "Review: The Ritz-Carlton, Millenia Singapore - Worth it?",
+        "source": "Solemate Adventures",
+        "author": "Louise",
+        "url": "https://www.solemateadventures.com/review-ritz-carlton-millenia-singapore/",
+        "published_date": "2024-05-21",
+        "summary": "Booked via Amex Fine Hotels + Resorts and upgraded to a Deluxe Marina Room. Loves the stunning Marina views, gorgeous interiors and exceptional breakfast, but finds service less warm and personalized than peers of similar caliber."
+      },
+      {
+        "title": "Review: The Ritz-Carlton Millenia Hotel - Club Premier Suite (Singapore)",
+        "source": "Dania Experiences",
+        "author": "Dania",
+        "url": "https://daniaexperiences.com/2023/07/22/review-the-ritz-carlton-millenia-hotel-club-premier-suite-singapore/",
+        "published_date": "2023-07-22",
+        "summary": "Level-29 corner Club Premier Suite with Marina Bay and Singapore Flyer views. Rates it 5/5, praising the five-presentation club lounge, attentive smiling staff, and thoughtful touches like a birthday cake and limousine drop-off."
+      },
+      {
+        "title": "The Ritz-Carlton, Millenia Singapore Club room review: The joy of rediscovering the little things in life",
+        "source": "Robb Report Singapore",
+        "author": "Charmaine Tai",
+        "url": "https://robbreport.com.sg/the-ritz-carlton-millenia-singapore-club-room-review-the-joy-of-rediscovering-the-little-things-in-life/",
+        "published_date": "2020-11-11",
+        "summary": "Club-room stay focused on the Club Lounge (open 6:30am-11:30pm) with Marina Bay window seats, the 25m pool, and marble bathrooms offering one of the best tub views in Singapore."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Ritz Carlton Singapore Tour | Exclusive Club Level | Corner Suite",
+        "channel": "Melissa VIP Magic",
+        "url": "https://www.youtube.com/watch?v=36JJ_bUb0AA",
+        "video_id": "36JJ_bUb0AA",
+        "published_date": "2026-05-24",
+        "view_count": 522
+      },
+      {
+        "title": "The Ritz-Carlton Millenia Singapore | Room Tour | Marriott Bonvoy Member",
+        "channel": "Ariel and Ara Studio",
+        "url": "https://www.youtube.com/watch?v=1mEr_AzmlRM",
+        "video_id": "1mEr_AzmlRM",
+        "published_date": "2025-07-25",
+        "view_count": 1728
+      },
+      {
+        "title": "Ritz Carlton Singapore Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=eLGAK37BMyY",
+        "video_id": "eLGAK37BMyY",
+        "published_date": "2024-07-18",
+        "view_count": 8975
+      },
+      {
+        "title": "ROOM TOUR: The Ritz-Carlton Millenia Singapore Deluxe Marina Room + Breakfast Buffet!",
+        "channel": "Solemate Adventures",
+        "url": "https://www.youtube.com/watch?v=qyU3Q8uwZIo",
+        "video_id": "qyU3Q8uwZIo",
+        "published_date": "2024-05-23",
+        "view_count": 6602
+      },
+      {
+        "title": "RITZ CARLTON MILLENIA SINGAPORE ROOM TOUR | Club Level | Bay View",
+        "channel": "Kira Glyn",
+        "url": "https://www.youtube.com/watch?v=ndakn9AmePo",
+        "video_id": "ndakn9AmePo",
+        "published_date": "2023-02-17",
+        "view_count": 4107
+      }
+    ]
+  },
   "tags": ["luxury", "marina bay", "business district"],
   "source_mix": [
     {

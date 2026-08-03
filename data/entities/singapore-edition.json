@@ -48,6 +48,84 @@
       "answer": "Dining is available, but guest reviews note that both breakfast and 24-hour in-room dining come with restrictions -- breakfast orders are capped at two items, and the in-room menu is more limited than the hotel's signature restaurants."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "We review the Singapore EDITION, a haven of calm amidst urban energy",
+        "source": "The Hotel Journal",
+        "author": "Natasha Tang",
+        "url": "https://thehoteljournal.com/singapore-edition-review/",
+        "published_date": "2026-02-02",
+        "summary": "A design-forward review praising Safdie's architecture, suspended gardens and cream-toned Garden King rooms, plus Josh Niland's sustainable FYSH seafood, the rooftop pool and warm personalized service in an urban sanctuary setting."
+      },
+      {
+        "title": "The Singapore Edition: really very good",
+        "source": "TravelGuys",
+        "author": "Bertrand Duperrin",
+        "url": "https://www.travelguys.fr/en/2025/05/23/the-singapore-edition-really-very-good/",
+        "published_date": "2025-05-23",
+        "summary": "Points-focused traveler booked an Urban room, used suite night awards to reach a Cuscaden Suite, and admired the minimalist white-and-wood design, gym, pool, spa and bar, calling it a high-quality property worth recommending."
+      },
+      {
+        "title": "Hotel Review: The Singapore Edition At Cuscaden Road",
+        "source": "The Ranting Panda",
+        "author": "The Ranting Panda",
+        "url": "https://therantingpanda.com/2024/03/05/hotel-review-the-singapore-edition-at-cuscaden-road-gorgeous-lush-marriott-bonvoy-property-near-orchard-road/",
+        "published_date": "2024-03-05",
+        "summary": "Reviewer highlights the elegant lobby with its centerpiece spiral staircase, garden-themed interiors, minimalist wood rooms, FYSH dining and rooftop pool, with the only gripe being a limited a la carte breakfast spread."
+      },
+      {
+        "title": "[Hotel Review] The Singapore EDITION",
+        "source": "Satu Kosong Travels",
+        "author": "Satu Kosong",
+        "url": "https://10satukosong.wpcomstaging.com/2023/12/11/hotel-review-the-singapore-edition/",
+        "published_date": "2023-12-11",
+        "summary": "A Bonvoy member redeemed a free-night award, got a three-tier upgrade to a Garden Premier King, and praised the minimalist design and standout breakfast service, but flagged a closed pool, weak shower pressure and checkout confusion."
+      },
+      {
+        "title": "Hotel Review: The Singapore EDITION (Garden King)",
+        "source": "Secret Life of Fatbacks",
+        "author": "Shawn Loh",
+        "url": "https://secretlifeoffatbacks.com/2023/11/hotel-review-the-singapore-edition-garden-king-ritzy-and-showstoppingly-glamorous-social-destination-along-cuscaden-road/",
+        "published_date": "2023-11-20",
+        "summary": "Reviewer redeemed 40,000 Bonvoy points for a Garden King, admiring the bronze-and-glass facade, FYSH breakfast, Punch Room and Lobby Bar cocktails, a 43m rooftop pool and heartfelt service at this exclusive social destination."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Singapore EDITION, 5-star Marriott Bonvoy Hotel. Deluxe Garden Room FULL REVIEW.",
+        "channel": "Anita C. First Take. Affordable Luxury Travel",
+        "url": "https://www.youtube.com/watch?v=r1v4A2CX7cc",
+        "video_id": "r1v4A2CX7cc",
+        "published_date": "2026-02-15",
+        "view_count": 1007
+      },
+      {
+        "title": "THE SINGAPORE EDITION HOTEL | ROOM TOUR | VLOG",
+        "channel": "Debashri Bisswas",
+        "url": "https://www.youtube.com/watch?v=C6_zyJv-caA",
+        "video_id": "C6_zyJv-caA",
+        "published_date": "2024-12-13",
+        "view_count": 1263
+      },
+      {
+        "title": "Singapore vlog - our first visit & experience at the new Singapore EDITION hotel",
+        "channel": "Jesterrific",
+        "url": "https://www.youtube.com/watch?v=JmrpjK2DwiI",
+        "video_id": "JmrpjK2DwiI",
+        "published_date": "2024-06-27",
+        "view_count": 2918
+      },
+      {
+        "title": "Garden Premier King (The Singapore Edition) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=j3GeOh1fM4w",
+        "video_id": "j3GeOh1fM4w",
+        "published_date": "2023-12-15",
+        "view_count": 7924
+      }
+    ]
+  },
   "tags": ["orchard road", "design hotel", "luxury"],
   "source_mix": [
     {

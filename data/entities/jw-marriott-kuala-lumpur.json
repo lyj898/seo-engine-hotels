@@ -55,6 +55,69 @@
       "answer": "Guest reviews consistently describe the rooms as clean, spacious, and comfortable, with good water pressure in showers, though some reviewers note the breakfast selection is more limited than expected for a hotel of this size and price point."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: JW Marriott Hotel Kuala Lumpur",
+        "source": "PinterPoin",
+        "author": "Paulo",
+        "url": "https://pinterpoin.com/hotel-review-jw-marriott-hotel-kuala-lumpur/",
+        "published_date": "2025-04-12",
+        "summary": "Points blogger relocated here from The Westin covers a Superior Twin room, Executive Club lounge, Shook! breakfast, gym and outdoor pool; praises strong water pressure and Platinum lounge perks, notes street/hallway noise."
+      },
+      {
+        "title": "JW Marriott Hotel Kuala Lumpur",
+        "source": "FamilyTravelGenie",
+        "url": "https://familytravelgenie.com/jw-marriott-hotel-kuala-lumpur/",
+        "published_date": "2024-05-23",
+        "summary": "Family-travel blog reviews the Bintang Walk property: room categories from Executive Deluxe to Presidential Suite, five dining venues, executive lounge hours, fitness and outdoor pool; notes no dedicated kids club but babysitting available."
+      },
+      {
+        "title": "Review: JW Marriott Kuala Lumpur (Junior Suite)",
+        "source": "Suite Smile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2022/09/26/review-jw-marriott-kuala-lumpur-junior-suite/",
+        "published_date": "2022-09-26",
+        "summary": "Bonvoy Titanium member details an upgraded 71sqm Junior Suite: great Bukit Bintang location near Pavilion, oddly-shaped room with limited light, strong executive lounge cocktails, and a hidden complimentary jacuzzi/sauna Wet Lounge."
+      }
+    ],
+    "videos": [
+      {
+        "title": "JW Marriott Kuala Lumpur Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=2ZEp63MZPwE",
+        "video_id": "2ZEp63MZPwE",
+        "published_date": "2024-07"
+      },
+      {
+        "title": "JW MARRIOTT Kuala Lumpur, Malaysia Hotel Review | breakfast buffet, Club Lounge (Twin Room)",
+        "channel": "Monkeymiyu",
+        "url": "https://www.youtube.com/watch?v=RKdWaqXEv98",
+        "video_id": "RKdWaqXEv98",
+        "published_date": "2023-11"
+      },
+      {
+        "title": "JW MARRIOTT Kuala Lumpur: Superior King Room Tour Review Vlog KL Best Hotel 5-stars",
+        "channel": "Red Dot Food & Travel",
+        "url": "https://www.youtube.com/watch?v=bepAJsKPGfo",
+        "video_id": "bepAJsKPGfo",
+        "published_date": "2023-02"
+      },
+      {
+        "title": "JW MARRIOTT Kuala Lumpur, Malaysia [4K Hotel Tour & Review] #FLIPFLOPMAS Ep. 6",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=KsLX1MC1ejk",
+        "video_id": "KsLX1MC1ejk",
+        "published_date": "2022-12"
+      },
+      {
+        "title": "JW Marriott Hotel Kuala Lumpur Malaysia - Full Tour in 4K",
+        "channel": "LivingHotel",
+        "url": "https://www.youtube.com/watch?v=HMXESK6wNis",
+        "video_id": "HMXESK6wNis"
+      }
+    ]
+  },
   "tags": ["luxury", "bukit bintang", "shopping district"],
   "source_mix": [
     {

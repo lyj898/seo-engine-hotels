@@ -49,6 +49,72 @@
       "answer": "Yes -- it carries the brand's signature butler service, which guest reviews consistently cite as a highlight, including personalized attention and touches like daily turndown, though a few reviews note inconsistency in overall service execution."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "The St. Regis Kuala Lumpur, Malaysia, Hotel Review",
+        "source": "The Travel Magazine",
+        "author": "Alex Hoban",
+        "url": "https://www.thetravelmagazine.net/the-st-regis-kuala-lumpur-malaysia-hotel-review/",
+        "published_date": "2026-03-20",
+        "summary": "A press review framing the KL Sentral property as a hotel that reveals itself slowly through hidden galleries, lounges, bars and a spa, praising spacious rooms and interpretive luxury over spectacle."
+      },
+      {
+        "title": "Review: The St. Regis Kuala Lumpur (Upgrade to the St. Regis Suite!)",
+        "source": "Solemate Adventures",
+        "author": "Louise",
+        "url": "https://www.solemateadventures.com/review-the-st-regis-kuala-lumpur/",
+        "published_date": "2024-10-17",
+        "summary": "Blogger recounts a one-night stay upgraded to the St. Regis Suite, calling it among their most memorable; highlights the KL Sentral location and five-star value, with minor notes on service consistency."
+      },
+      {
+        "title": "Review: The St. Regis Kuala Lumpur (Caroline Astor Suite)",
+        "source": "Suite Smile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2022/04/27/review-the-st-regis-kuala-lumpur-caroline-astor-suite/",
+        "published_date": "2022-04-27",
+        "summary": "Detailed points-blogger review of a stay in the Caroline Astor Suite, covering suite layout and butler service, and noting the roughly 10-minute walk to KL Sentral is awkward with luggage."
+      },
+      {
+        "title": "Review: The St. Regis Kuala Lumpur | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Audrey Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/st-regis-kuala-lumpur/",
+        "published_date": "2020-04-01",
+        "summary": "Miles-and-points site reviews a family stay booked with Bonvoy, covering suite amenities, breakfast, pool and overall luxury impressions of the KL Sentral hotel."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ROOM TOUR: The St. Regis Kuala Lumpur | ST. REGIS SUITE & Breakfast Buffet!",
+        "channel": "Solemate Adventures",
+        "url": "https://www.youtube.com/watch?v=elTEmVl-Bvc",
+        "video_id": "elTEmVl-Bvc",
+        "published_date": "2024-10"
+      },
+      {
+        "title": "St Regis Kuala Lumpur Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=JHHmvtsryX8",
+        "video_id": "JHHmvtsryX8",
+        "published_date": "2024-07-07"
+      },
+      {
+        "title": "RM2,400 a night hotel room - St. Regis Kuala Lumpur | Suite Upgrade! | Travel Vlog",
+        "channel": "talkatiffy",
+        "url": "https://www.youtube.com/watch?v=udxHoBNJCX8",
+        "video_id": "udxHoBNJCX8",
+        "published_date": "2024-01-19"
+      },
+      {
+        "title": "Caroline Astor Suite (The St. Regis Kuala Lumpur) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=btaLLBe0-eA",
+        "video_id": "btaLLBe0-eA",
+        "published_date": "2022-04-29"
+      }
+    ]
+  },
   "tags": ["luxury", "kl sentral", "butler service"],
   "source_mix": [
     {

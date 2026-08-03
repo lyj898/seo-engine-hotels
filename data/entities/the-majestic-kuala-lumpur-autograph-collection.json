@@ -55,6 +55,86 @@
       "answer": "It depends on preference -- the historic Majestic Wing offers colonial-era character with features like the Orchid Conservatory and Drawing Room, while the contemporary Tower Wing offers sweeping views of modern Kuala Lumpur, so choose based on whether you want heritage charm or skyline views."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: The Majestic Hotel Kuala Lumpur",
+        "source": "Luxury Travel Magazine",
+        "url": "https://www.luxurytravelmag.com.au/accommodations/review-the-majestic-hotel-kuala-lumpur",
+        "published_date": "2024-07-25",
+        "summary": "The magazine praises how the restored 1930s Majestic Wing and the modern 2012 Tower cleverly intertwine, highlighting the dining venues, spa and the hotel's convenient proximity to KL's key attractions."
+      },
+      {
+        "title": "Review: The Majestic Hotel Kuala Lumpur, Autograph Collection (Junior Suite)",
+        "source": "Suite Smile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2023/04/27/review-the-majestic-hotel-kuala-lumpur-autograph-collection-junior-suite/",
+        "published_date": "2023-04-27",
+        "summary": "A Bonvoy Titanium Elite member got a complimentary Junior Suite upgrade on a Dec 2022 stay. Enjoyed the colonial charm and elite recognition but felt novelty outweighed quality, calling it an average yet pleasant stay."
+      },
+      {
+        "title": "The Majestic Hotel Kuala Lumpur Review",
+        "source": "Wild 'n' Free Diary",
+        "author": "Ian",
+        "url": "https://wnfdiary.com/the-majestic-hotel-kuala-lumpur-review/",
+        "published_date": "2018-10-12",
+        "summary": "A stay in the historic Majestic Wing. The reviewers admire the colonial atmosphere, service and comfortable rooms, while noting food quality and cleanliness had room for improvement."
+      },
+      {
+        "title": "The Majestic Hotel Kuala Lumpur, Malaysia: Romantic Colonial Vibes, Pampering Spa Treatments and a Smashing Afternoon Tea",
+        "source": "City Nomads",
+        "author": "Emily Seow",
+        "url": "https://citynomads.com/the-majestic-hotel-kuala-lumpur-malaysia-romantic-colonial-vibes-pampering-spa-treatments-and-a-smashing-afternoon-tea/",
+        "published_date": "2017-12-29",
+        "summary": "A favourable look at the 1930s heritage property, praising the Colonial Cafe afternoon tea, luxurious spa treatments and the calm atmosphere as a quieter alternative to busier KL districts."
+      },
+      {
+        "title": "Hotel Majestic KL: Kuala Lumpur Luxury Hotel Review",
+        "source": "SETHLUI.com",
+        "author": "Seth Lui",
+        "url": "https://sethlui.com/hotel-majestic-kuala-lumpur-hotel-review/",
+        "published_date": "2015-08-18",
+        "summary": "Covers the Colonial Suite, butler service and dining at Contango and the Colonial Cafe, plus signature spaces like the Smoke House and Orchid Conservatory, framing the hotel as colonial charm meeting modern luxury."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Majestic Hotel Kuala Lumpur (Colonial Suite / Afternoon Tea / Breakfast)",
+        "channel": "Amanda YU",
+        "url": "https://www.youtube.com/watch?v=SascN76nAeU",
+        "video_id": "SascN76nAeU",
+        "published_date": "2024-07"
+      },
+      {
+        "title": "The Majestic Hotel Kuala Lumpur Review: Old School Luxury in Malaysia (Colonial Suite)",
+        "channel": "Freddie's Flight Reviews",
+        "url": "https://www.youtube.com/watch?v=tJ9LptdJxOQ",
+        "video_id": "tJ9LptdJxOQ",
+        "published_date": "2023-07-06"
+      },
+      {
+        "title": "Majestic Hotel Kuala Lumpur, Autograph Collection Marriott Bonvoy",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=GyRuY_rC0wA",
+        "video_id": "GyRuY_rC0wA",
+        "published_date": "2023-07-05"
+      },
+      {
+        "title": "The Majestic Hotel Kuala Lumpur, Autograph Collection (Full Tour in 4k)",
+        "channel": "LivingHotel",
+        "url": "https://www.youtube.com/watch?v=nxKXy-MC27k",
+        "video_id": "nxKXy-MC27k",
+        "published_date": "2022-08-20"
+      },
+      {
+        "title": "THE MAJESTIC HOTEL KL | Hotel & Breakfast Buffet Review 2022",
+        "channel": "MY buffet",
+        "url": "https://www.youtube.com/watch?v=cpGBisbbsks",
+        "video_id": "cpGBisbbsks",
+        "published_date": "2022"
+      }
+    ]
+  },
   "tags": ["heritage", "autograph collection", "near kl sentral"],
   "source_mix": [
     {

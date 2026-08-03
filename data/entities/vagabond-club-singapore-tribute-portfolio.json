@@ -48,6 +48,91 @@
       "answer": "It's within easy walking distance of both -- the hotel sits on Syed Alwi Road in the Jalan Besar area, bordering Little India and Kampong Glam, though it isn't directly connected to an MRT station."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "We review The Vagabond Club, an edgy, art and design-rich haven in Singapore's Little India",
+        "source": "The Hotel Journal",
+        "author": "Michael Cullen",
+        "url": "https://thehoteljournal.com/the-vagabond-club-review-singapore/",
+        "published_date": "2026-06-02",
+        "summary": "Calls the Jacques Garcia-designed boutique an ideal, characterful base and a refreshing alternative to Singapore's conventional hotels, with the whisky bar a standout."
+      },
+      {
+        "title": "The Vagabond Club Singapore: Small Hotel, Big Personality, Very Little Beige",
+        "source": "Rubbish Eat Rubbish Grow",
+        "url": "https://rubbisheatrubbishgrow.com/2026/05/15/the-vagabond-club-singapore-review/",
+        "published_date": "2026-05-15",
+        "summary": "Praises the bold design and location between Little India and Kampong Glam; rooms are compact with few facilities but the property wins on personality over standard luxury."
+      },
+      {
+        "title": "[Hotel Review] Vagabond Club Singapore",
+        "source": "Countryhop",
+        "author": "Lucas",
+        "url": "https://countryhop.wordpress.com/2021/11/06/hotel-review-vagabond-club-singapore/",
+        "published_date": "2021-11-06",
+        "summary": "Liked the art-forward design and the food, especially breakfast and evening canapes, but was frustrated by fiddly in-room tech such as a non-swivel TV and awkward HDMI setup."
+      },
+      {
+        "title": "Review: The Vagabond Club, Singapore, A Tribute Portfolio Hotel",
+        "source": "Milesopedia",
+        "author": "Jean-Maximilien Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/the-vagabond-club-singapore/",
+        "published_date": "2019-10-28",
+        "summary": "Rates the boutique property good value for Marriott Bonvoy members, praising its striking design and location, but frames it as a romantic couples' stay rather than family-friendly."
+      },
+      {
+        "title": "Hotel Review: The Vagabond Club, A Tribute Portfolio Hotel, Singapore (Art Executive Club Suite)",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2017/9/28/hotel-review-the-vagabond-club-a-tribute-portfolio-hotel-singapore-art-executive-club-suite",
+        "published_date": "2017-09-28",
+        "summary": "Admires the hotel's distinctive art and unconventional design, noting boutique stays like this suit travelers chasing novelty more than those wanting conventional comfort."
+      }
+    ],
+    "videos": [
+      {
+        "title": "3 minutes Review vagabond club hotel in Singapore",
+        "channel": "B-inside",
+        "url": "https://www.youtube.com/watch?v=RgxtP9Lmqcs",
+        "video_id": "RgxtP9Lmqcs",
+        "published_date": "2025-07-13",
+        "view_count": 176
+      },
+      {
+        "title": "The Vagabond Club A Tribute Portfolio Hotel Singapore | Holiday with Falguni",
+        "channel": "Holiday with Falguni",
+        "url": "https://www.youtube.com/watch?v=TQuNs8Q5DNM",
+        "video_id": "TQuNs8Q5DNM",
+        "published_date": "2025-04-16",
+        "view_count": 37
+      },
+      {
+        "title": "The Vagabond Club In SINGAPORE",
+        "channel": "Holly and Andrew",
+        "url": "https://www.youtube.com/watch?v=j4uMhxa9yqM",
+        "video_id": "j4uMhxa9yqM",
+        "published_date": "2024-01-28",
+        "view_count": 1323
+      },
+      {
+        "title": "The Vagabond Club Singapore; Junior Suite Room with cocktail hour access",
+        "channel": "Angelo Traveller",
+        "url": "https://www.youtube.com/watch?v=ZJa3l7hD4qw",
+        "video_id": "ZJa3l7hD4qw",
+        "published_date": "2022-05-27",
+        "view_count": 1914
+      },
+      {
+        "title": "Executive Club Suite (The Vagabond Club Singapore) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=ZNSMOf7fvqU",
+        "video_id": "ZNSMOf7fvqU",
+        "published_date": "2021-06-18",
+        "view_count": 2690
+      }
+    ]
+  },
   "tags": ["boutique", "little india", "design hotel"],
   "source_mix": [
     {
