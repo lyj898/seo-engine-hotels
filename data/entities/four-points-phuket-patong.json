@@ -1,0 +1,80 @@
+{
+  "entity_id": "four-points-phuket-patong",
+  "slug": "four-points-phuket-patong",
+  "name": "Four Points by Sheraton Phuket Patong Beach Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A 600-room select-service resort at the north end of Patong Beach, a short walk from Bangla Road's nightlife but on a calmer stretch of sand.",
+  "ai_summary": "Four Points by Sheraton Phuket Patong Beach Resort is a large, 600-room resort at the north end of Patong Beach, positioned as a select-service alternative within walking distance of Patong's restaurants, night markets, and Bangla Road nightlife. It's rated 4 of 5 across roughly 1,700 TripAdvisor reviews and ranks in the upper third of Phuket hotels, with guest feedback consistently praising the breakfast -- especially the Saturday seafood buffet -- along with a large pool area, friendly staff, and a location that's close to the action while still feeling comparatively calm. Two saltwater pools, a beach club, and a 24-hour gym round out the amenity set for a resort at this brand tier. The main watchouts are typical of a large select-service property in a busy tourist area: rooms are described by some guests as a bit small relative to other Phuket hotels in the same price range, and a few reviews mention an unstable hot water system with sudden temperature spikes. For travelers who want Patong's energy within walking distance without staying directly on the busiest part of the strip, this is one of the more consistently well-reviewed Bonvoy options in that location.",
+  "core_facts": {
+    "address": "198/8-9 Thawewong Road, Patong, Kathu, Phuket, Thailand, 83150",
+    "brand_sub_brand": "Four Points",
+    "neighborhood": "Patong (north end)",
+    "distance_from_airport_km": 40,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Walking distance to Patong's restaurants, night markets, and Bangla Road nightlife",
+    "Rated 4 of 5 across roughly 1,700 TripAdvisor reviews, ranking in the upper third of Phuket hotels",
+    "Breakfast and the Saturday seafood buffet draw consistent, specific praise",
+    "Two saltwater pools and a beach club suit families and groups",
+    "Positioned on a comparatively calmer stretch of Patong Beach versus the busiest central strip"
+  ],
+  "cons": [
+    "Rooms are described by some guests as a bit small relative to other Phuket hotels at a similar price point",
+    "A few reviews mention an unstable hot water system with sudden temperature changes",
+    "No complimentary breakfast is included by default per the hotel's own FAQ, despite breakfast being a review highlight for guests who purchased it"
+  ],
+  "research_highlights": [
+    "The breakfast, and specifically the Saturday seafood buffet, is repeatedly called out as excellent value and variety",
+    "Guests describe the location as remarkable -- close to Patong's energy but on a more peaceful stretch of beach",
+    "Staff are consistently described as friendly and welcoming"
+  ],
+  "research_watchouts": [
+    "Rooms are described as comfortable but a bit small compared with other Phuket hotels",
+    "A few reviews report the water system isn't fully stable, with water turning very hot suddenly"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Phuket Patong Beach Resort within walking distance of Bangla Road?",
+      "answer": "Yes -- it sits at the north end of Patong Beach within walking distance of Patong's restaurants, night markets, and Bangla Road nightlife, while occupying a comparatively calmer stretch of beach than the busiest central strip."
+    },
+    {
+      "question": "Does Four Points by Sheraton Phuket Patong Beach Resort include free breakfast?",
+      "answer": "No -- per the hotel's own information, breakfast is not included by default, though guests who purchase it consistently praise its quality and variety, especially the Saturday seafood buffet."
+    }
+  ],
+  "tags": ["patong", "select-service", "beachfront"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktfp-four-points-phuket-patong-beach-resort/overview/",
+      "label": "Official Four Points by Sheraton Phuket Patong Beach Resort overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297930-d19819026-Reviews-Four_Points_by_Sheraton_Phuket_Patong_Beach_Resort-Patong_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktfp-four-points-phuket-patong-beach-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["courtyard-phuket-patong", "phuket-marriott-merlin-beach"],
+  "reliability_score": 64,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

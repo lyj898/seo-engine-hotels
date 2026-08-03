@@ -1,0 +1,80 @@
+{
+  "entity_id": "westin-siray-bay-phuket",
+  "slug": "westin-siray-bay-phuket",
+  "name": "The Westin Siray Bay Resort & Spa, Phuket",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A wellness-focused Westin resort overlooking Siray Bay near Phuket Town, currently mid-renovation with several outlets temporarily closed through mid-2026.",
+  "ai_summary": "The Westin Siray Bay Resort & Spa overlooks Siray Bay near Phuket Town, on the island's quieter east side away from the main west-coast beach strip. It leans on Westin's wellness positioning with Heavenly Beds, a WestinWORKOUT fitness studio, and Heavenly Spa by Westin, and is rated 4 of 5 across more than 3,100 TripAdvisor reviews. Guests consistently praise cleanliness, spacious and well-maintained rooms, stunning views over the bay, and friendly staff. As of mid-2026 the resort is undergoing a significant renovation, with its own site confirming several restaurants, pool bars, and the Kids' Club are temporarily closed, relocated, or operating on reduced hours through at least June 2026 -- prospective guests should confirm current facility status directly before booking. Location is the other recurring theme in reviews: the private beach is described as rocky and not well suited to swimming, and the Siray Bay setting is a genuine drive from Phuket's more famous beaches, which some guests find isolating and others value as a quieter alternative to the west coast. Some reviewers also describe the property as overpriced given the limited on-site dining during the renovation period.",
+  "core_facts": {
+    "address": "21/1, 21/3, 21/4, 21/6 Moo 1, T.Rasada, A.Muang, Phuket, Thailand, 83000",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Siray Bay, near Phuket Town",
+    "distance_from_airport_km": 37,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Rated 4 of 5 across more than 3,100 TripAdvisor reviews",
+    "Cleanliness, spacious rooms, and bay views draw consistent praise",
+    "Westin's full wellness amenity set: Heavenly Beds, WestinWORKOUT studio, Heavenly Spa",
+    "Quieter east-side Phuket Town location, an alternative to the crowded west-coast beach strip"
+  ],
+  "cons": [
+    "Undergoing significant renovation as of mid-2026, with several restaurants, pool bars, and the Kids' Club temporarily closed or relocated",
+    "The private beach is described by guests as rocky and not well suited to swimming",
+    "A genuine drive from Phuket's most popular beaches; some guests find the location isolating and dining limited during renovation"
+  ],
+  "research_highlights": [
+    "Guests consistently praise cleanliness, spacious and well-maintained rooms, and stunning views",
+    "Friendly and helpful staff are repeatedly mentioned",
+    "The WestinWORKOUT fitness studio, three outdoor pools, and Heavenly Spa are called out as strong wellness amenities"
+  ],
+  "research_watchouts": [
+    "The resort's own site confirms a major renovation is underway, with several restaurants and the Kids' Club temporarily closed or relocated through at least June 2026 -- confirm current facility status before booking",
+    "The private beach is described as rocky and not good for swimming",
+    "Some guests find the property overpriced given its seclusion and reduced dining options during renovation"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is The Westin Siray Bay Resort & Spa, Phuket under renovation?",
+      "answer": "Yes -- as of mid-2026 the resort's own site confirms major renovation work is underway, with several restaurants, pool bars, and the Kids' Club temporarily closed, relocated, or operating on reduced hours. Confirm current facility status directly with the hotel before booking."
+    },
+    {
+      "question": "Is there a good swimming beach at The Westin Siray Bay Resort & Spa, Phuket?",
+      "answer": "Guest reviews describe the resort's private beach as rocky and not well suited to swimming; the three outdoor pools are the more practical option for a swim during your stay."
+    }
+  ],
+  "tags": ["siray bay", "under renovation", "wellness resort"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktwi-the-westin-siray-bay-resort-and-spa-phuket/overview/",
+      "label": "Official Westin Siray Bay Resort & Spa, Phuket overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1215781-d1741460-Reviews-The_Westin_Siray_Bay_Resort_Spa_Phuket-Phuket_Town_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktwi-the-westin-siray-bay-resort-and-spa-phuket/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["courtyard-phuket-town", "veranda-resort-phuket-autograph-collection"],
+  "reliability_score": 61,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

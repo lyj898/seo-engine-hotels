@@ -1,0 +1,80 @@
+{
+  "entity_id": "phuket-marriott-merlin-beach",
+  "slug": "phuket-marriott-merlin-beach",
+  "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A large family resort on Tri-Trang Beach (Merlin Beach) just south of Patong, with its own house reef, butterfly sanctuary, and swim-up bar.",
+  "ai_summary": "Phuket Marriott Resort & Spa, Merlin Beach occupies a secluded stretch of Tri-Trang Beach less than 5 km from the Patong entertainment district, giving guests beach access and quiet without being inside the busiest part of the strip. It's one of the larger family resorts in this directory's Phuket set, with ten restaurants and bars, three pools, an on-site coral house reef with a Reef Education Center, and the Merlin Butterfly Sanctuary as a distinctive conservation-themed amenity. Guest feedback is broadly positive: reviewers consistently praise the facilities, a strong breakfast buffet, a well-priced and well-regarded spa, and a kids' club with activities like pizza-making and guided beach walks. Deluxe rooms with pool or sea views and comfortably sized balconies also draw specific praise. The clearest watchouts in guest feedback are administrative rather than experiential -- at least one account describes a reservation mix-up over included breakfast that the resort then wanted to charge for, and another flags air-conditioning issues in a specific room -- alongside the practical note that despite its proximity to Patong, the resort itself sits on a quieter, separate beach reached by road rather than being directly on the main Patong strip.",
+  "core_facts": {
+    "address": "99 Muen-Ngoen Road, Tri-Trang Beach, Patong, Phuket, Thailand, 83150",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Tri-Trang Beach (Merlin Beach), near Patong",
+    "distance_from_airport_km": 45,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Secluded Tri-Trang Beach setting less than 5 km from Patong's restaurants and nightlife",
+    "On-site coral house reef with a Reef Education Center and the Merlin Butterfly Sanctuary are distinctive family amenities",
+    "Ten restaurants and bars plus three pools support longer family stays",
+    "Breakfast, spa treatments, and the kids' club draw consistent praise in guest reviews",
+    "Deluxe rooms with pool or sea views and balconies are specifically well regarded"
+  ],
+  "cons": [
+    "At roughly 45 km, it's one of the farthest Phuket Bonvoy resorts from the airport",
+    "At least one account describes a reservation/billing mix-up over included breakfast",
+    "A guest reported air-conditioning issues in their room, suggesting maintenance can be inconsistent"
+  ],
+  "research_highlights": [
+    "The on-site house reef, Reef Education Center, and Merlin Butterfly Sanctuary draw specific praise as differentiated family activities",
+    "The kids' club is described as excellent, with activities including pizza-making, Thai boxing, and guided beach walks",
+    "The spa is described as very good and reasonably priced, with some guests returning multiple times during a stay"
+  ],
+  "research_watchouts": [
+    "At least one review describes a reservation mix-up over included breakfast that the resort then tried to charge for",
+    "A guest reported air-conditioning problems in their room, worth flagging with the front desk promptly if it recurs"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is Phuket Marriott Resort & Spa, Merlin Beach close to Patong?",
+      "answer": "Yes -- it sits on Tri-Trang Beach less than 5 km from Patong's restaurants, shopping, and nightlife, but on a quieter, more secluded stretch of sand reached by a short drive rather than being in the middle of the Patong strip."
+    },
+    {
+      "question": "What makes Merlin Beach resort different from other Phuket Marriott properties?",
+      "answer": "Its on-site coral house reef with a dedicated Reef Education Center and the Merlin Butterfly Sanctuary are distinctive conservation-themed amenities not found at the other Bonvoy resorts on the island, making it a standout choice for families interested in marine and wildlife activities."
+    }
+  ],
+  "tags": ["near patong", "family resort", "house reef"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktmb-phuket-marriott-resort-and-spa-merlin-beach/overview/",
+      "label": "Official Phuket Marriott Resort & Spa, Merlin Beach overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Feature-g297930-d315568-zft9156-Phuket_Marriott_Resort_Spa_Merlin_Beach.html",
+      "label": "TripAdvisor guest reviews and photos",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktmb-phuket-marriott-resort-and-spa-merlin-beach/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-phuket-patong", "courtyard-phuket-patong"],
+  "reliability_score": 63,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

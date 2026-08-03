@@ -1,0 +1,80 @@
+{
+  "entity_id": "courtyard-phuket-patong",
+  "slug": "courtyard-phuket-patong",
+  "name": "Courtyard by Marriott Phuket, Patong Beach Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A 445-room beachfront Courtyard resort directly on Patong Beach, steps from Bangla Road, Jungceylon, and Central Patong.",
+  "ai_summary": "Courtyard by Marriott Phuket, Patong Beach Resort sits directly on Patong Beach -- Phuket's most visited beach -- with 445 rooms and suites and direct beachfront access, putting guests within walking distance of Jungceylon and Central Patong malls, Bangla Road nightlife, and the beach itself. It's rated 4 of 5 across roughly 1,900 TripAdvisor reviews and ranks strongly among Phuket hotels overall (guest reviews cite a top-15 island ranking), with feedback consistently praising the breakfast, four pool areas including two swim-up bars and a water slide, and a location guests describe as perfectly placed -- close enough to Patong's energy to walk everywhere, but calm enough inside the resort not to feel like the middle of the strip. A dedicated Kids Club and 24-hour fitness center support families and business travelers alike. As a select-service Courtyard property, per-stay breakfast isn't automatically included for all rate types, something worth checking at booking despite breakfast being a strong point in guest reviews. The main watchout tied to the location itself is Patong's reputation for noise and crowds nearby, though guests specifically credit the resort's design and setback for keeping the property itself feeling calmer than the surrounding strip.",
+  "core_facts": {
+    "address": "44 Thawewong Road, Patong Sub-District, Patong Beach, Thailand, 83150",
+    "brand_sub_brand": "Courtyard",
+    "neighborhood": "Patong",
+    "distance_from_airport_km": 37.6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Directly on Patong Beach with walking access to Jungceylon, Central Patong, and Bangla Road",
+    "Rated 4 of 5 across roughly 1,900 TripAdvisor reviews, ranking among the top hotels in Phuket overall",
+    "Four pool areas including two swim-up bars, a water slide, and play structures",
+    "Breakfast draws consistently strong praise from guests",
+    "Guests describe the resort as calmer inside than the surrounding Patong strip despite the central location"
+  ],
+  "cons": [
+    "Breakfast is not automatically included on all rate types, despite being a review highlight for guests who purchased it",
+    "Patong's noise, crowds, and nightlife are immediately outside the resort, which won't suit travelers wanting full quiet",
+    "445 rooms is a large inventory, and peak-season pool and beach areas can get busy"
+  ],
+  "research_highlights": [
+    "Breakfast is described by multiple reviewers as excellent (\"five stars\")",
+    "The resort is described as very clean, well equipped, with a great multi-pool area and several restaurants and bars",
+    "The location is repeatedly praised as perfectly placed -- a short walk to Patong Beach and Bangla Road, yet calm inside the resort itself"
+  ],
+  "research_watchouts": [
+    "Confirm whether breakfast is included in your specific rate, since it's not automatic on all bookings despite strong guest praise for it",
+    "Patong's nightlife and crowds are immediately adjacent, which is a plus for some travelers and a minus for those wanting quiet"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is Courtyard by Marriott Phuket, Patong Beach Resort directly on the beach?",
+      "answer": "Yes -- it sits directly on Patong Beach with beachfront access, and is within walking distance of Jungceylon, Central Patong, and Bangla Road nightlife."
+    },
+    {
+      "question": "Does Courtyard by Marriott Phuket, Patong Beach Resort include free breakfast?",
+      "answer": "Not automatically on every rate -- check your specific booking, since breakfast is not guaranteed included per the hotel's own information, even though it's a consistently praised highlight among guests who purchased it."
+    }
+  ],
+  "tags": ["patong", "beachfront", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktcp-courtyard-phuket-patong-beach-resort/overview/",
+      "label": "Official Courtyard by Marriott Phuket, Patong Beach Resort overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297930-d26797773-Reviews-Courtyard_by_Marriott_Phuket_Patong_Beach_Resort-Patong_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktcp-courtyard-phuket-patong-beach-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-phuket-patong", "phuket-marriott-merlin-beach", "courtyard-phuket-town"],
+  "reliability_score": 64,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

@@ -1,0 +1,80 @@
+{
+  "entity_id": "renaissance-phuket",
+  "slug": "renaissance-phuket",
+  "name": "Renaissance Phuket Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A Renaissance-brand beachfront resort on Mai Khao Beach bordering Sirinat National Park, about 19 km from Phuket International Airport.",
+  "ai_summary": "Renaissance Phuket Resort & Spa sits on Mai Khao Beach alongside Sirinat National Park, one of three Bonvoy resorts clustered on this quiet, protected stretch of Phuket's northwest coast. It's rated 4 of 5 across more than 5,300 TripAdvisor reviews and ranks near the top of Mai Khao-area hotels, with guests repeatedly describing it as a beautiful, quiet property hidden away from Phuket's busier tourist zones, with large, well-maintained rooms and immaculate grounds. Quan Spa is a particular highlight, with reviewers praising its atmosphere, cleanliness, and attentive treatments across eight treatment rooms and an outdoor massage sala, and staff are described as consistently going above and beyond for guests. The resort leans into brand-specific 'Navigator' local-discovery programming and R-branded evening social events, and offers family amenities including a Kids' World, cooking school, and diving lessons. The main watchouts are minor and centered on food and evening energy rather than the core stay: some reviewers found the food plentiful but occasionally hit-or-miss in quality, and the resort was noted as light on nightlife and entertainment options, consistent with its quieter Mai Khao setting.",
+  "core_facts": {
+    "address": "555, Moo 3, Mai Khao, Talang, Phuket, Thailand, 83110",
+    "brand_sub_brand": "Renaissance",
+    "neighborhood": "Mai Khao Beach",
+    "distance_from_airport_km": 19,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Rated 4 of 5 across more than 5,300 TripAdvisor reviews, ranking near the top of Mai Khao-area hotels",
+    "Quiet, beautiful Mai Khao Beach setting bordering Sirinat National Park",
+    "Quan Spa draws consistent praise for atmosphere, cleanliness, and treatment quality",
+    "Staff are repeatedly described as going above and beyond for guests",
+    "Family amenities include Kids' World, a cooking school, and diving lessons"
+  ],
+  "cons": [
+    "Some reviewers describe the food as plentiful but occasionally hit-or-miss in quality",
+    "Light on nightlife and evening entertainment compared with Patong-area resorts",
+    "Mai Khao's quiet, remote setting means fewer off-property dining and shopping options nearby"
+  ],
+  "research_highlights": [
+    "Guests describe the property as beautiful and quiet, with large, well-maintained rooms and immaculate grounds",
+    "Quan Spa is a standout amenity, praised for its atmosphere, cleanliness, style, and attentiveness",
+    "Staff are consistently described as going above and beyond to ensure a good stay"
+  ],
+  "research_watchouts": [
+    "Some reviews note the food, while plentiful, was occasionally hit-or-miss in quality",
+    "The resort was noted as lacking nightlife and entertainment options relative to busier parts of the island"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is Renaissance Phuket Resort & Spa a good choice for a quiet beach stay?",
+      "answer": "Yes -- it sits on Mai Khao Beach next to Sirinat National Park, and guest reviews consistently describe it as quiet and beautiful, though this comes with fewer nightlife and off-property dining options than resorts closer to Patong."
+    },
+    {
+      "question": "What is the spa like at Renaissance Phuket Resort & Spa?",
+      "answer": "Quan Spa is a consistent highlight in guest reviews, with eight treatment rooms and an outdoor massage sala, and reviewers specifically praise its atmosphere, cleanliness, and attentive service."
+    }
+  ],
+  "tags": ["mai khao beach", "spa resort", "quiet"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktbr-renaissance-phuket-resort-and-spa/overview/",
+      "label": "Official Renaissance Phuket Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1223683-d1634352-Reviews-Renaissance_Phuket_Resort_Spa-Mai_Khao_Thalang_District_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktbr-renaissance-phuket-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-phuket", "le-meridien-phuket-mai-khao", "phuket-marriott-nai-yang-beach"],
+  "reliability_score": 66,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

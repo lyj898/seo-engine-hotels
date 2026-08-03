@@ -1,0 +1,80 @@
+{
+  "entity_id": "le-meridien-phuket-mai-khao",
+  "slug": "le-meridien-phuket-mai-khao",
+  "name": "Le Méridien Phuket Mai Khao Beach Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A newer, mid-century-modern-styled Le Méridien resort on Mai Khao Beach, about 13 km from the airport, with a private beach and family kids' club.",
+  "ai_summary": "Le Méridien Phuket Mai Khao Beach Resort is a newer addition to Phuket's Mai Khao Beach cluster, blending mid-century modern design with local craftsmanship across 14 room and suite types. It's rated 4 of 5 across roughly 860 TripAdvisor reviews and ranks well within Mai Khao's hotel set, with guests praising a private beach described as feeling like an uninhabited island, lovely and attentive family-friendly staff, a well-zoned beachfront pool, and a dedicated Family Kids' Club with daily programming. Junior suites draw specific praise for space and comfort. As a newer, more compact property (14 room types versus the larger inventories at JW Marriott or Renaissance next door), it's positioned as an intimate, design-forward alternative on the same beach. The main watchouts in guest feedback are inconsistency at the margins rather than fundamental problems: at least one review describes basic service with limited attentiveness on room orders and towels, and another flagged buffet food quality as below expectations -- worth weighing against the otherwise strong staff and setting reviews. At roughly 13 km from the airport, it's one of the more convenient Mai Khao-area resorts for arrivals and departures.",
+  "core_facts": {
+    "address": "81 Moo.3 T.Maikhao A.Thalang, Mai Khao, Phuket, Thailand, 83110",
+    "brand_sub_brand": "Le Méridien",
+    "neighborhood": "Mai Khao Beach",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Rated 4 of 5 across roughly 860 TripAdvisor reviews, ranking well among Mai Khao-area hotels",
+    "Private beach described by guests as feeling secluded and uninhabited",
+    "Family Kids' Club and a well-zoned beachfront pool support longer family stays",
+    "Junior suites specifically praised as luxurious and spacious",
+    "About 13 km from Phuket International Airport, convenient for arrivals and departures"
+  ],
+  "cons": [
+    "A newer, more design-boutique property with fewer restaurants than the larger neighboring Mai Khao resorts",
+    "At least one review describes basic service with limited proactive attentiveness (room orders, towels)",
+    "One guest reported the complimentary buffet food quality was below expectations"
+  ],
+  "research_highlights": [
+    "Staff are described as lovely, family-friendly, and super attentive, with at least one account of staff going above and beyond to secure a better room",
+    "The private beach is repeatedly described as quiet, clean, and giving a feeling of staying on an uninhabited island",
+    "Junior suite rooms are called out as luxurious and spacious"
+  ],
+  "research_watchouts": [
+    "At least one review describes disappointingly basic service with limited proactive check-ins on orders or towels",
+    "A guest reported the complimentary buffet food quality was poor -- worth confirming current dining standards before relying heavily on included breakfast"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "How far is Le Méridien Phuket Mai Khao Beach Resort from the airport?",
+      "answer": "It's about 13 km from Phuket International Airport, roughly a 15-minute drive, making it one of the more convenient Mai Khao Beach resorts for arrivals and departures."
+    },
+    {
+      "question": "Is Le Méridien Phuket Mai Khao Beach Resort good for families?",
+      "answer": "Yes -- it has a dedicated Family Kids' Club, family rooms with bunk beds, and a beachfront pool with kid-friendly zones, and guest reviews specifically praise the staff as attentive with families."
+    }
+  ],
+  "tags": ["mai khao beach", "family resort", "boutique design"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktmm-le-meridien-phuket-mai-khao-beach-resort/overview/",
+      "label": "Official Le Méridien Phuket Mai Khao Beach Resort overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1223683-d26687225-Reviews-Le_Meridien_Phuket_Mai_Khao_Beach_Resort-Mai_Khao_Thalang_District_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktmm-le-meridien-phuket-mai-khao-beach-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-phuket", "renaissance-phuket"],
+  "reliability_score": 63,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

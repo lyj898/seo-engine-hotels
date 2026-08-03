@@ -1,0 +1,79 @@
+{
+  "entity_id": "courtyard-phuket-town",
+  "slug": "courtyard-phuket-town",
+  "name": "Courtyard by Marriott Phuket Town",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A select-service Courtyard hotel in the heart of Old Phuket Town, blending traditional Thai design with modern amenities near local markets and heritage architecture.",
+  "ai_summary": "Courtyard by Marriott Phuket Town is an inland, select-service hotel in Old Phuket Town's Talat Yai district, designed around traditional Thai arts and crafts contrasted with modern amenities, and positioned for travelers who want to be based in the island's cultural and culinary center rather than on a beach. It's rated 4 of 5 across roughly 330 TripAdvisor reviews, a smaller review base than the island's beach resorts reflecting its more recent opening and non-beachfront positioning. Guests consistently describe rooms as cozy, spacious, and clean, praise a varied and delicious breakfast, and specifically call out the Cantonese dim sum lunch at the hotel's Yue Restaurant & Bar as authentic and fresh. One repeat Marriott Titanium Elite guest described the staff as uniformly professional and genuinely committed to service quality. Its location is a short walk or ride to Old Town's markets, heritage shophouses, and restaurants, at around 33 km from the airport. The main trade-off versus this directory's beach resorts is the obvious one: there's no beach access on-site, and amenities are more limited (four restaurants, one pool, a fitness center) in keeping with the select-service Courtyard brand tier.",
+  "core_facts": {
+    "address": "1 Soi Surin, Talat Yai, A. Muang Phuket, Phuket, Thailand, 83000",
+    "brand_sub_brand": "Courtyard",
+    "neighborhood": "Phuket Town (Old Town)",
+    "distance_from_airport_km": 33,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Located in the heart of Old Phuket Town, walkable to heritage architecture, markets, and restaurants",
+    "Rooms are consistently described as cozy, spacious, and clean",
+    "Breakfast and the Yue Restaurant & Bar dim sum lunch draw specific praise",
+    "One repeat Titanium Elite guest described service as professional and genuinely committed throughout their stay"
+  ],
+  "cons": [
+    "No beach access on-site -- this is an inland, city-center hotel, not a beach resort",
+    "Smaller amenity set (four restaurants, one pool) in keeping with the select-service Courtyard tier",
+    "Smaller review base (roughly 330 reviews) than the island's established beach resorts, reflecting its more recent opening"
+  ],
+  "research_highlights": [
+    "Rooms are described as super cozy and quiet, with modern amenities and appealing views",
+    "Breakfast is described as delicious with lots of variety, and the Yue Restaurant dim sum lunch is called authentic and fresh",
+    "A repeat Titanium Elite Marriott guest described the hotel as exceeding expectations, with every staff member professional and committed to service"
+  ],
+  "research_watchouts": [
+    "This is a city-center hotel with no beach access, unlike most other Bonvoy properties in this directory's Phuket set",
+    "Its review base is smaller than the island's beach resorts, so sentiment patterns here are based on a thinner sample"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Does Courtyard by Marriott Phuket Town have beach access?",
+      "answer": "No -- it's located inland in Old Phuket Town, about 33 km from the airport, and is best suited to travelers who want to be based near Old Town's markets, heritage architecture, and restaurants rather than directly on a beach."
+    },
+    {
+      "question": "What is the dining like at Courtyard by Marriott Phuket Town?",
+      "answer": "The hotel has four restaurants including Yue Restaurant & Bar, known for Cantonese dim sum that guest reviews describe as authentic and fresh, plus Krua Talad Yai for Thai and international dishes and the Talung Lounge overlooking the Phuket Clock Tower."
+    }
+  ],
+  "tags": ["phuket town", "select-service", "old town"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktct-courtyard-phuket-town/overview/",
+      "label": "Official Courtyard by Marriott Phuket Town overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2315818-d23280699-Reviews-Courtyard_by_Marriott_Phuket_Town-Talat_Yai_Phuket_Town_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktct-courtyard-phuket-town/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["westin-siray-bay-phuket", "courtyard-phuket-patong", "courtyard-phuket-chalong-bay"],
+  "reliability_score": 58,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

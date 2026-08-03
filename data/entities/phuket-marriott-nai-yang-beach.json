@@ -1,0 +1,79 @@
+{
+  "entity_id": "phuket-marriott-nai-yang-beach",
+  "slug": "phuket-marriott-nai-yang-beach",
+  "name": "Phuket Marriott Resort & Spa, Nai Yang Beach",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A quiet, family-oriented Marriott Hotels beach resort on Nai Yang Beach, just minutes from Phuket International Airport in the island's northwest.",
+  "ai_summary": "Phuket Marriott Resort & Spa, Nai Yang Beach sits on the sands of Nai Yang Beach in Phuket's northwest, one of the closest full-service Bonvoy resorts to Phuket International Airport at roughly 4.6 km. It offers 180 rooms and suites plus 15 private beachfront pool villas, a 400-meter lagoon pool, Quan Spa, and a Kids' Club, positioning it as a quieter, family-oriented alternative to the island's busier west-coast resorts. Rated 4 of 5 across roughly 1,900 TripAdvisor reviews, guest feedback consistently praises spacious, clean rooms with occasional villa upgrades, a generous and well-executed breakfast buffet, and staff described as cheerful, kind, and professional. The tranquil setting is itself a selling point for families with young children, though a handful of reviewers note it's a distance from Phuket's busier attractions and nightlife, and that extras (spa treatments, à la carte dining) run at a premium relative to the room rate. Overall this is one of the more consistently well-reviewed mid-to-upper-tier Bonvoy resorts on the island, trading proximity to Patong's energy for quiet, beachfront calm and genuine airport convenience.",
+  "core_facts": {
+    "address": "92, 92/1 Moo 3, Tambol Sakoo, Amphur, Talang, Phuket, Thailand, 83110",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Nai Yang Beach",
+    "distance_from_airport_km": 4.6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "One of the closest full-service Bonvoy resorts to Phuket International Airport, at about 4.6 km",
+    "Beachfront pool villas and a 400-meter lagoon pool set it apart from standard resort-room-only properties",
+    "Rated 4 of 5 across roughly 1,900 TripAdvisor reviews with consistently positive breakfast and service feedback",
+    "Quiet, family-oriented Nai Yang Beach setting suits travelers prioritizing calm over nightlife"
+  ],
+  "cons": [
+    "Distant from Patong, Old Town, and the island's busier attractions and restaurants",
+    "Some guests flag the cost of spa treatments and à la carte dining as high relative to the room rate",
+    "Service is generally praised but a few reviews note occasional inconsistency"
+  ],
+  "research_highlights": [
+    "The breakfast buffet draws consistent praise for its size, quality, and fresh juice selection",
+    "Staff are repeatedly described as cheerful, kind, and professional across front desk and management roles",
+    "Rooms are described as spacious and clean, with some guests receiving villa or pool-access upgrades"
+  ],
+  "research_watchouts": [
+    "Several reviews note the resort's distance from Phuket's busier attractions, restaurants, and nightlife",
+    "Spa treatments and à la carte dining are flagged by some guests as expensive relative to the room rate"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "How close is Phuket Marriott Resort & Spa, Nai Yang Beach to the airport?",
+      "answer": "It's about 4.6 km from Phuket International Airport, making it one of the closest full-service Marriott Bonvoy resorts on the island to arrivals and departures."
+    },
+    {
+      "question": "Is Phuket Marriott Resort & Spa, Nai Yang Beach good for families?",
+      "answer": "Yes -- guest reviews consistently describe it as quiet and relaxed, with a Kids' Club, a large lagoon pool, and beachfront pool villas that suit families with young children better than busier west-coast resorts."
+    }
+  ],
+  "tags": ["nai yang beach", "near airport", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktnb-phuket-marriott-resort-and-spa-nai-yang-beach/overview/",
+      "label": "Official Phuket Marriott Resort & Spa, Nai Yang Beach overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1215773-d566487-Reviews-Phuket_Marriott_Resort_and_Spa_Nai_Yang_Beach-Nai_Yang_Sakhu_Thalang_District_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktnb-phuket-marriott-resort-and-spa-nai-yang-beach/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["jw-marriott-phuket", "renaissance-phuket"],
+  "reliability_score": 64,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

@@ -1,0 +1,80 @@
+{
+  "entity_id": "naka-island-luxury-collection-phuket",
+  "slug": "naka-island-luxury-collection-phuket",
+  "name": "The Naka Island, a Luxury Collection Resort & Spa, Phuket",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "Bonvoy's only offshore Phuket resort, on private Naka Yai Island reached by a five-minute speedboat transfer from Ao Por Marina.",
+  "ai_summary": "The Naka Island, a Luxury Collection Resort & Spa is the only hotel on Naka Yai Island, a small island off Phuket's east coast reached by a roughly 30-minute drive to Ao Por Grand Marina followed by a five-minute private speedboat transfer -- a genuinely different access model from every other Bonvoy property on the main island. That isolation is the point: it's rated 4 of 5 across more than 2,100 TripAdvisor reviews, with guests consistently describing highly personalized, attentive service (staff learning and using guest names), immaculate housekeeping, spacious and stylish villas and rooms, and a spa built on the site of a former Six Senses property that reviewers call among the best in the country. Daily complimentary homemade ice cream, mangrove kayaking, and a Naka Kids Club round out the experience. The clear trade-off is logistics and cost: reaching the resort requires the marina transfer and speedboat rather than a direct taxi, off-property dining options are essentially nonexistent given the island's seclusion, and as a top-tier Luxury Collection property it commands a premium price point. For travelers prioritizing privacy and a genuine 'private island' feel within reach of Phuket, it's one of the most distinctive properties in this directory.",
+  "core_facts": {
+    "address": "32 Moo 5, Tambol Paklok, Amphur Thalang, Naka Yai Island, Phuket, Thailand, 83110",
+    "brand_sub_brand": "Luxury Collection",
+    "neighborhood": "Naka Yai Island (offshore, via speedboat from Ao Por Marina)",
+    "distance_from_airport_km": 22,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "The only Bonvoy resort on its own private island, reached by a five-minute speedboat transfer from Ao Por Marina",
+    "Rated 4 of 5 across more than 2,100 TripAdvisor reviews",
+    "Spa Naka by HARNN, built on a former Six Senses spa site, is called among the best in the country by reviewers",
+    "Highly personalized service is a consistent theme, with staff reported to learn and use guests' names",
+    "Immaculate housekeeping and spacious, stylish villas draw repeated praise"
+  ],
+  "cons": [
+    "Access requires a roughly 30-minute drive to Ao Por Marina plus a speedboat transfer -- not a direct taxi or car journey",
+    "Off-property dining is essentially nonexistent given the island's isolation; guests are dependent on the resort's own restaurants",
+    "As a top-tier Luxury Collection property, it commands a significant premium over other Phuket Bonvoy resorts"
+  ],
+  "research_highlights": [
+    "Staff are described as attentive and personable, with specific mentions of guests being greeted by name",
+    "The spa, on the site of a former Six Senses property, is called one of the best in Thailand by reviewers",
+    "Housekeeping, pool and gym quality, and daily complimentary homemade ice cream are specifically praised"
+  ],
+  "research_watchouts": [
+    "Reaching the resort requires a marina transfer plus speedboat, adding time and logistics versus a direct road transfer",
+    "The island's seclusion means no off-property dining options -- factor this into meal-plan and budget decisions"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "How do you get to The Naka Island, a Luxury Collection Resort & Spa, Phuket?",
+      "answer": "Guests are driven roughly 30 minutes from the airport area to Ao Por Grand Marina, where the resort's own lobby lounge hosts a brief check-in before a five-minute private speedboat transfer to Naka Yai Island."
+    },
+    {
+      "question": "Is there anywhere to eat off-property near The Naka Island resort?",
+      "answer": "No -- as the only resort on Naka Yai Island, dining is limited to the property's own restaurants and bars, so guests should plan meals around the resort's dining program rather than expecting nearby alternatives."
+    }
+  ],
+  "tags": ["private island", "luxury collection", "speedboat access"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/pyxlc-the-naka-island-a-luxury-collection-resort-and-spa-phuket/overview/",
+      "label": "Official The Naka Island, a Luxury Collection Resort & Spa, Phuket overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1182823-d2337076-Reviews-The_Naka_Island_a_Luxury_Collection_Resort_Spa_Phuket-Ko_Nakha_Yai_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/pyxlc-the-naka-island-a-luxury-collection-resort-and-spa-phuket/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["veranda-resort-phuket-autograph-collection", "westin-siray-bay-phuket"],
+  "reliability_score": 65,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

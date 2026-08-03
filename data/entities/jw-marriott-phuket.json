@@ -1,0 +1,80 @@
+{
+  "entity_id": "jw-marriott-phuket",
+  "slug": "jw-marriott-phuket",
+  "name": "JW Marriott Phuket Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A JW Marriott beachfront resort on Mai Khao Beach in northwest Phuket, next to Sirinat National Park's sea turtle nesting grounds, about 15 minutes from the airport.",
+  "ai_summary": "JW Marriott Phuket Resort & Spa sits directly on Mai Khao Beach, Phuket's longest and quietest stretch of sand, within Sirinat National Park and close to a protected sea turtle nesting habitat that the resort supports through an on-site conservation program. It is one of the larger full-service Bonvoy resorts on the island, with three pools, twelve restaurants and bars, and a Mandara Spa, and it holds a 4-of-5 TripAdvisor rating across more than 8,000 reviews -- a substantial review base for this directory. Guests consistently praise spacious, well-maintained rooms across a wide range of categories from garden-view to private pool suites, a clean beach with strong sunset views, attentive and genuinely warm staff, and a busy slate of family and kids' programming built around the turtle conservation theme. The clearest watchout is crowding: with three pools serving a large room inventory, the two family pools draw complaints of being noisy and crowded during peak periods, and guests who want quiet tend to seek out the smaller adult-only pool instead. At roughly 15 km from Phuket International Airport, it's one of the more airport-convenient full-service resorts in this directory, trading Mai Khao's remoteness from Patong's nightlife for a quieter, more nature-oriented setting.",
+  "core_facts": {
+    "address": "231 Moo 3 Mai Khao, Talang, Phuket, Thailand, 83110",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "Mai Khao Beach",
+    "distance_from_airport_km": 15,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Directly on Mai Khao Beach, Phuket's longest and quietest beach, inside Sirinat National Park",
+    "One of the largest full-service Bonvoy resorts on the island, with 12 restaurants and bars and 3 pools",
+    "Rated 4 of 5 across more than 8,000 TripAdvisor reviews -- a large, consistent review base",
+    "Sea turtle conservation program and extensive kids' activities draw specific family praise",
+    "Only about 15 km / 15 minutes from Phuket International Airport"
+  ],
+  "cons": [
+    "The two main family pools are frequently described as crowded and noisy during peak season",
+    "Mai Khao is remote from Patong's nightlife and central Phuket attractions",
+    "Some premium dining outlets and the South Pool have rotated through temporary closures"
+  ],
+  "research_highlights": [
+    "Guests consistently describe rooms as spacious and well maintained across categories from garden-view to private-pool suites",
+    "The beach is repeatedly praised as clean with strong sunset views, and Mandara Spa treatments draw specific praise",
+    "Staff are described as friendly, helpful, and genuinely engaged, and the turtle conservation program stands out for families"
+  ],
+  "research_watchouts": [
+    "The main and family pools are frequently described as crowded and noisy; guests seeking quiet gravitate to the adult-only pool",
+    "A few dining and pool facilities (e.g. Ginja Taste, South Pool) have rotated through temporary closures per the resort's own site"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "How far is JW Marriott Phuket Resort & Spa from Phuket International Airport?",
+      "answer": "It's about 15 km, roughly a 15-minute drive, making it one of the more airport-convenient full-service resorts on the island despite its quiet, remote-feeling Mai Khao Beach setting."
+    },
+    {
+      "question": "Are the pools at JW Marriott Phuket Resort & Spa crowded?",
+      "answer": "The two main family pools can get crowded and noisy during peak periods, according to repeated guest reports; the resort also operates a smaller adult-only pool that guests seeking quiet tend to prefer."
+    }
+  ],
+  "tags": ["mai khao beach", "family resort", "beachfront"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktjw-jw-marriott-phuket-resort-and-spa/overview/",
+      "label": "Official JW Marriott Phuket Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1223683-d519702-Reviews-JW_Marriott_Phuket_Resort_Spa-Mai_Khao_Thalang_District_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktjw-jw-marriott-phuket-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["renaissance-phuket", "le-meridien-phuket-mai-khao", "phuket-marriott-nai-yang-beach"],
+  "reliability_score": 68,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

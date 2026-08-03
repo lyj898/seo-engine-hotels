@@ -1,0 +1,80 @@
+{
+  "entity_id": "le-meridien-phuket-beach-resort",
+  "slug": "le-meridien-phuket-beach-resort",
+  "name": "Le Méridien Phuket Beach Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A large, long-running Le Méridien resort on a secluded cove near Karon and Relax Bay, currently mid-renovation, about 42 km from the airport.",
+  "ai_summary": "Le Méridien Phuket Beach Resort occupies a secluded 40-acre cove near Karon (Relax Bay / Karon Noi), one of the island's older large-scale resorts, open since 1987 with roughly 470 rooms and suites across ten restaurants and bars. Guest reviews describe genuinely strong hospitality, a standout private beach with light waves, a large pool, and a wide range of sports and activities, and it's consistently one of the most-booked hotels in Phuket. The clear caveat as of mid-2026 is that the resort is undergoing renovation: guest reports describe some rooms as dated and in need of refurbishment, a 'mass-tourism' atmosphere with average-quality food at its more casual restaurants, and -- during renovation phases -- guests paying full price while only part of the pools and restaurants are open. Prospective bookers should check current renovation status and which facilities are operating before committing, since the beach and grounds are consistently well-reviewed but the physical product is older than the newer Mai Khao-area Bonvoy resorts. At roughly 42 km from the airport, it's also one of the farther Phuket properties in this directory, reflecting its more central west-coast location near Patong and Karon rather than the northern beaches.",
+  "core_facts": {
+    "address": "29 Soi Karon Nui, Tambon Karon, Amphur Muang, Phuket, Thailand, 83100",
+    "brand_sub_brand": "Le Méridien",
+    "neighborhood": "Karon (Relax Bay / Karon Noi)",
+    "distance_from_airport_km": 41.6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Secluded 40-acre private cove near Karon with a beach guests describe as clean with light waves",
+    "One of the most-booked hotels in Phuket, with a wide range of sports and land/water activities",
+    "Ten restaurants and bars, a large pool, and a nine-hole mini golf course",
+    "Excellent hospitality and service consistently mentioned in guest reviews"
+  ],
+  "cons": [
+    "The resort is mid-renovation as of 2026, with some facilities temporarily closed or operating on reduced hours",
+    "Some rooms are described by guests as dated and in need of refurbishment",
+    "Food at the more casual restaurants is described as average quality despite reasonable prices"
+  ],
+  "research_highlights": [
+    "The private beach is repeatedly singled out as the best part of the resort, described as clean with light waves",
+    "The resort offers a huge variety of sports and activities plus newly renovated rooms in some categories",
+    "It is one of the most-booked hotels in Phuket over recent periods, per TripAdvisor booking data"
+  ],
+  "research_watchouts": [
+    "The property is currently undergoing renovation, with some guests reporting closed pools and only a fraction of restaurants open while still paying full price",
+    "Some rooms and public areas are described as dated; ask about current renovation status and which rooms have been refreshed before booking",
+    "The overall atmosphere is described by some reviewers as mass-tourism in feel, with average food at casual outlets"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is Le Méridien Phuket Beach Resort currently under renovation?",
+      "answer": "As of mid-2026, guest reports describe ongoing renovation work with some facilities, pools, and restaurants temporarily closed or reduced in scope. Confirm current renovation status directly with the hotel before booking if facility access is a priority."
+    },
+    {
+      "question": "Where exactly is Le Méridien Phuket Beach Resort located?",
+      "answer": "It sits on a secluded cove near Karon (also referred to as Relax Bay or Karon Noi) on Phuket's west coast, roughly 42 km from Phuket International Airport and a short distance from Patong."
+    }
+  ],
+  "tags": ["karon", "under renovation", "beachfront"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktmd-le-meridien-phuket-beach-resort/overview/",
+      "label": "Official Le Méridien Phuket Beach Resort overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1215780-d33988620-Reviews-Le_Meridien_Phuket_Beach_Resort-Karon_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktmd-le-meridien-phuket-beach-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-phuket-patong", "westin-siray-bay-phuket"],
+  "reliability_score": 61,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

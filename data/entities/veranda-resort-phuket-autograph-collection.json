@@ -1,0 +1,80 @@
+{
+  "entity_id": "veranda-resort-phuket-autograph-collection",
+  "slug": "veranda-resort-phuket-autograph-collection",
+  "name": "Veranda Resort Phuket, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A design-forward Autograph Collection resort on Ao Yon Bay in the Cape Panwa area, roughly an hour from the airport on Phuket's quieter southeast coast.",
+  "ai_summary": "Veranda Resort Phuket, Autograph Collection sits on Ao Yon Bay in the Cape Panwa area, an up-and-coming, comparatively trendy part of Phuket's southeast coast near Phuket Old Town, roughly an hour's drive from the airport. As an Autograph Collection property, it emphasizes distinctive, art-inspired design -- a 'Fluid Wonder' architectural concept, a Flower Sky Garden, and an Instagram-oriented layout -- across 159 rooms with ocean views, private pools, or family suites. It's rated 4 of 5 across more than 700 TripAdvisor reviews and ranks near the top of hotels in the Cape Panwa area, with guests consistently praising the clean, beautiful, and new-feeling design, a well-regarded breakfast, a stunning beachfront setting, and attentive service. Because the resort has only recently opened under this branding, its review base is smaller than the island's longer-established Bonvoy properties, so guest sentiment here, while positive, rests on a thinner track record. The main practical trade-off is location: Cape Panwa is quieter and more residential than Patong or the northern beaches, and the roughly 60-minute drive from the airport is one of the longer transfers among Phuket's Bonvoy portfolio.",
+  "core_facts": {
+    "address": "998 Moo 8, Vichit District, Mueng, Phuket, Thailand, 83000",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Cape Panwa (Ao Yon Bay)",
+    "distance_from_airport_km": 42.6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Rated 4 of 5 and ranked near the top of hotels in the Cape Panwa area on TripAdvisor",
+    "Distinctive, art-inspired Autograph Collection design with a beachfront pool and Flower Sky Garden",
+    "Breakfast quality and variety draw consistent praise",
+    "Quieter, more residential southeast-coast setting near Phuket Old Town and Cape Panwa viewpoints",
+    "Excellent service is a repeated theme in guest reviews"
+  ],
+  "cons": [
+    "Recently opened under this branding, so its guest review base is smaller than longer-established Phuket Bonvoy resorts",
+    "Roughly an hour's drive from Phuket International Airport, one of the longer transfers in this directory",
+    "Cape Panwa is farther from Patong's restaurants, shopping, and nightlife than west-coast resorts"
+  ],
+  "research_highlights": [
+    "Guests describe the design as beautiful, new, and clean, with very clean rooms and comfortable beds",
+    "Breakfast draws praise for good quality and variety, with specific mentions of excellent staff service",
+    "The beachfront setting and Cape Panwa's quieter character are repeatedly called out as strengths"
+  ],
+  "research_watchouts": [
+    "As a recently rebranded/opened property, the review base is smaller and shorter-tenured than other Phuket Bonvoy resorts, so patterns are less established",
+    "The roughly 60-minute airport transfer is longer than most other properties in this directory"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Where is Veranda Resort Phuket, Autograph Collection located?",
+      "answer": "It sits on Ao Yon Bay in the Cape Panwa area on Phuket's southeast coast, near Phuket Old Town and roughly an hour's drive from Phuket International Airport -- a quieter, more residential setting than the west-coast beach resorts."
+    },
+    {
+      "question": "Is Veranda Resort Phuket, Autograph Collection a new hotel?",
+      "answer": "It has only recently opened under the Autograph Collection banner, so while early guest reviews are strongly positive on design, cleanliness, and breakfast, the review base is smaller than at longer-established Phuket Bonvoy resorts."
+    }
+  ],
+  "tags": ["cape panwa", "autograph collection", "boutique design"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktvk-veranda-resort-phuket-autograph-collection/overview/",
+      "label": "Official Veranda Resort Phuket, Autograph Collection overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1182846-d32867706-Reviews-Veranda_Resort_Phuket_Autograph_Collection-Cape_Panwa_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktvk-veranda-resort-phuket-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["westin-siray-bay-phuket", "naka-island-luxury-collection-phuket"],
+  "reliability_score": 60,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}

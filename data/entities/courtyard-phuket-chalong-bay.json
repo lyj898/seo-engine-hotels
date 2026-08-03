@@ -1,0 +1,79 @@
+{
+  "entity_id": "courtyard-phuket-chalong-bay",
+  "slug": "courtyard-phuket-chalong-bay",
+  "name": "Courtyard by Marriott Phuket Chalong Bay Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phuket",
+  "short_description": "A newly opened, 280-room Courtyard resort near Chalong Pier, positioned between Phuket Old Town and the southern beaches as an island-hopping base.",
+  "ai_summary": "Courtyard by Marriott Phuket Chalong Bay Resort is one of the newest Bonvoy properties on the island, opened near Chalong Pier -- a popular gateway for island-hopping day trips -- and roughly midway between Phuket Old Town and the Kata-Karon beach area. It offers 280 rooms with private balconies, two pools, a Kids' Club, and a small dining set built around an all-day bistro, a swim-up bar, and a bakery-café. Early guest feedback, drawn from a still-small base of roughly 140 TripAdvisor reviews given how recently the resort opened, is positive: reviewers describe an excellent location and atmosphere, well-maintained and comfortable rooms, attentive staff, and a relaxing setting away from the busiest tourist zones, with the seafood restaurant and beachside breakfast singled out for praise. Because it's such a new property, this sentiment should be treated as an early signal rather than an established pattern -- there simply isn't yet the volume of reviews that exists for the island's longer-running resorts. Minor guest notes include overly thick pillows and the fact that not all rooms have sea views, consistent with an inland-adjacent Chalong Bay location rather than a beachfront one.",
+  "core_facts": {
+    "address": "111 Moo 3 Chalong, Mueang, Phuket, Thailand, 83130",
+    "brand_sub_brand": "Courtyard",
+    "neighborhood": "Chalong Bay",
+    "distance_from_airport_km": 42,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Convenient base near Chalong Pier for island-hopping day trips",
+    "280 rooms all with private balconies, plus two pools and a Kids' Club",
+    "Early guest reviews consistently praise the location, atmosphere, and room comfort",
+    "A relaxing setting away from Phuket's busiest tourist zones"
+  ],
+  "cons": [
+    "A very new property with a small review base (roughly 140 TripAdvisor reviews), so guest sentiment patterns are less established than at older resorts",
+    "Not directly beachfront -- some rooms lack sea views, and Chalong Bay itself is more of a marina/pier area than a swimming beach",
+    "At roughly 42 km, it's one of the farther properties in this directory from the airport"
+  ],
+  "research_highlights": [
+    "Early reviews describe the location and overall atmosphere as excellent and pleasant",
+    "Rooms are described as very well maintained, clean, and comfortable",
+    "The on-site restaurant is praised for seafood, with breakfast served near the beach specifically mentioned"
+  ],
+  "research_watchouts": [
+    "As a newly opened resort, the review volume is still small, so early positive sentiment should be treated as a preliminary signal rather than an established track record",
+    "Some guests note pillows are too thick and that sea views aren't available from all rooms"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-07-31",
+  "faqs": [
+    {
+      "question": "Is Courtyard by Marriott Phuket Chalong Bay Resort on the beach?",
+      "answer": "Not directly -- it's located near Chalong Pier and Chalong Bay, a popular gateway for island-hopping trips, rather than on a swimming beach itself, and not all rooms have sea views."
+    },
+    {
+      "question": "Is Courtyard by Marriott Phuket Chalong Bay Resort a new hotel?",
+      "answer": "Yes -- it's one of the newest Marriott Bonvoy properties on the island, which means its guest review base is still small (roughly 140 reviews) compared with Phuket's longer-established resorts, even though early feedback is positive."
+    }
+  ],
+  "tags": ["chalong bay", "new hotel", "island-hopping base"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hktpc-courtyard-phuket-chalong-bay-resort/overview/",
+      "label": "Official Courtyard by Marriott Phuket Chalong Bay Resort overview",
+      "type": "official",
+      "last_checked": "2026-07-31"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1389361-d34028678-Reviews-Courtyard_By_Marriott_Phuket_Chalong_Bay_Resort-Chalong_Phuket_Town_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-07-31"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hktpc-courtyard-phuket-chalong-bay-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["courtyard-phuket-town", "courtyard-phuket-patong"],
+  "reliability_score": 55,
+  "last_updated": "2026-07-31",
+  "status": "active"
+}
