@@ -103,7 +103,18 @@ const quickDistanceCategories = categories
   .filter((c) => Array.isArray(c.matchRange))
   .sort((a, b) => b.matchRange[0] - a.matchRange[0]);
 
-const featured = [...entities].sort((a, b) => b.reliability_score - a.reliability_score).slice(0, 6);
+// Editor's picks: highest-verified hotels, but a hotel that has a real photo
+// wins any reliability tie/near-tie so the featured grid never shows a bare
+// placeholder card. With enough photographed hotels this makes every pick
+// photographed; reliability still orders within the photographed set.
+const featured = [...entities]
+  .sort((a, b) => {
+    const aHasImage = a.image?.url ? 1 : 0;
+    const bHasImage = b.image?.url ? 1 : 0;
+    if (aHasImage !== bHasImage) return bHasImage - aHasImage;
+    return b.reliability_score - a.reliability_score;
+  })
+  .slice(0, 6);
 
 // Hero headline: site.config.json.heroHeadline marks one word with
 // *asterisks*; that word renders with the outlined "stroke" treatment from
