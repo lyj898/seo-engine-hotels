@@ -50,6 +50,77 @@
       "answer": "Quan Spa is a consistent highlight in guest reviews, with eight treatment rooms and an outdoor massage sala, and reviewers specifically praise its atmosphere, cleanliness, and attentive service."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Renaissance Phuket Resort Review",
+        "source": "dobbernationLOVES",
+        "author": "Andrew Dobson",
+        "url": "https://dobbernationloves.com/travel-resorts/renaissance-phuket-resort-review/",
+        "published_date": "2023-01-23",
+        "summary": "A three-night pool-villa stay covering the turtle-shell-inspired architecture, TokyoMilk-stocked villas with plunge pools, four restaurants led by award-listed Takieng, and the koi-pond Quan Spa."
+      },
+      {
+        "title": "Review: Renaissance Phuket Resort & Spa | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Etienne Werbinski",
+        "url": "https://milesopedia.com/en/reviews/hotels/renaissance-phuket-resort-spa/",
+        "published_date": "2022-12-23",
+        "summary": "A points-focused write-up rating the resort 9/10, detailing Bonvoy redemption value around 31k-42k points, the split lap pool, eight-room spa, Kids World program, and standout Takieng and Sand Box dining."
+      },
+      {
+        "title": "Review: Renaissance Phuket Resort & Spa | Mai Khao Beach Resort",
+        "source": "The Luxe Destination",
+        "author": "Agnes Lina Gianto",
+        "url": "https://theluxedestination.com/renaissance-phuket-resort-spa/",
+        "published_date": "2022-08-15",
+        "summary": "A couples-oriented review of a one-bedroom plunge-pool villa, praising the tranquil Mai Khao setting, Loca Vore breakfasts, and especially the Thai restaurant Takieng; scored 8.9/10."
+      },
+      {
+        "title": "Relaxing in Thailand: Review of the Renaissance Phuket Resort & Spa",
+        "source": "The Roving Gypsy",
+        "author": "Left Lane",
+        "url": "https://therovingypsy.com/2022/02/14/relaxing-in-thailand-review-of-the-renaissance-phuket-resort-spa/",
+        "published_date": "2022-02-14",
+        "summary": "A personal stay recap of seaside plunge-pool villas, the main pool and monitor-lizard lagoon, spa, and beach access, with dining notes on Loca Vore and Sand Box favorites like the crispy fish sandwich."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Renaissance Phuket Resort & Spa Mai Khao",
+        "channel": "ThePanzoAdventures",
+        "url": "https://www.youtube.com/watch?v=YCLXEmpyi-w",
+        "video_id": "YCLXEmpyi-w",
+        "published_date": "2024-03-17"
+      },
+      {
+        "title": "Renaissance Phuket Resort & Spa Mai Khao Beach - PARADISE!",
+        "channel": "Love Flying And Hotels",
+        "url": "https://www.youtube.com/watch?v=0a_5De2TOmA",
+        "video_id": "0a_5De2TOmA",
+        "published_date": "2023-07-27"
+      },
+      {
+        "title": "Renaissance Phuket Resort Mai Khao, Review of a Pool Villa.",
+        "channel": "aeroAdvocate Luxury Travel",
+        "url": "https://www.youtube.com/watch?v=qEUDITPFiy4",
+        "video_id": "qEUDITPFiy4"
+      },
+      {
+        "title": "The Renaissance Resort & Spa Mai Khao Beach Phuket",
+        "channel": "Bald and Bored Eats",
+        "url": "https://www.youtube.com/watch?v=l_HTBBL5XSY",
+        "video_id": "l_HTBBL5XSY"
+      },
+      {
+        "title": "RENAISSANCE PHUKET RESORT (Luxury Escape at 5 Star Marriott Resort in Maikhao)",
+        "channel": "The Lost Dew | Marc & Ying",
+        "url": "https://www.youtube.com/watch?v=y2zW78bL1_U",
+        "video_id": "y2zW78bL1_U",
+        "published_date": "2021-12-11"
+      }
+    ]
+  },
   "tags": ["mai khao beach", "spa resort", "quiet"],
   "source_mix": [
     {

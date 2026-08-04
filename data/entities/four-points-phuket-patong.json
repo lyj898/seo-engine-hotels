@@ -50,6 +50,58 @@
       "answer": "No -- per the hotel's own information, breakfast is not included by default, though guests who purchase it consistently praise its quality and variety, especially the Saturday seafood buffet."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Four Points by Sheraton Phuket Patong Beach Resort",
+        "source": "Metro Staycation",
+        "author": "Ramil Delos Reyes",
+        "url": "https://www.metrostaycation.com/2024/07/four-points-by-sheraton-phuket-patong-beach-resort.html",
+        "published_date": "2024-07-25",
+        "summary": "Blogger review of the beachfront Patong resort covering its 600 rooms, two pools, multiple dining venues, direct Patong Beach access and Marriott Bonvoy perks."
+      },
+      {
+        "title": "Four Points by Sheraton Phuket Beach | Phuket, Thailand",
+        "source": "The Brief Review",
+        "author": "AB",
+        "url": "https://thebriefreview.com/four-points-by-sheraton-phuket-beach-phuket-thailand/",
+        "published_date": "2022-10-27",
+        "summary": "Independent review praising modern, welcoming rooms and an expansive quality breakfast; notes convenient beach/nightlife location but long check-in waits at peak, recommending the Marriott app virtual key."
+      }
+    ],
+    "videos": [
+      {
+        "title": "PATONGS BEST BEACH HOTEL Four Points Sheraton Patong Review | Is This Phuket Hotel Worth It?",
+        "channel": "See Shaun Vlog",
+        "url": "https://www.youtube.com/watch?v=W6GyDhs-p-k",
+        "video_id": "W6GyDhs-p-k"
+      },
+      {
+        "title": "Four Points by Sheraton Patong Phuket Resort [Holiday VLOG]",
+        "channel": "Jackie Journey",
+        "url": "https://www.youtube.com/watch?v=ZrfoaIbFpvg",
+        "video_id": "ZrfoaIbFpvg"
+      },
+      {
+        "title": "Four Points by Sheraton Phuket Patong Beach Resort | Full Tour",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=SGAB0HWXKbU",
+        "video_id": "SGAB0HWXKbU"
+      },
+      {
+        "title": "One-Bedroom Suite at Four Points by Sheraton Phuket Patong Beach Resort | Hotel Room Tour",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=oUPgbMGDn5M",
+        "video_id": "oUPgbMGDn5M"
+      },
+      {
+        "title": "Four Points by Sheraton Phuket Resort Tour | Patong Beach | Phuket Series Ep. 3",
+        "channel": "Maryel Travels",
+        "url": "https://www.youtube.com/watch?v=6wLRL1aISAY",
+        "video_id": "6wLRL1aISAY"
+      }
+    ]
+  },
   "tags": ["patong", "select-service", "beachfront"],
   "source_mix": [
     {

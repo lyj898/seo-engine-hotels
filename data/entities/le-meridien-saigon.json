@@ -49,6 +49,76 @@
       "answer": "It's roughly 8 kilometers from Tan Son Nhat International Airport, about a 20-minute drive depending on traffic, and within easy walking distance of downtown District 1's Dong Khoi shopping and dining strip."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Le Meridien Saigon: Staying in Ho Chi Minh City for the First Time (Full Review)",
+        "source": "Food Travel Babe",
+        "author": "Eunice",
+        "url": "https://foodtravelbabe.com/le-meridien-saigon/",
+        "published_date": "2024-03-14",
+        "summary": "First-timer's take on a spacious 38sqm river-view room, four dining venues including Chef Sam Aisbett's AKUNA, plus spa, gym and infinity pool, all walkable to Ben Thanh Market and Notre Dame Cathedral."
+      },
+      {
+        "title": "Hotel Review: Le Meridien Saigon (Studio Suite)",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2024/1/8/hotel-review-le-meridien-saigon-studio-suite-district-1-hotel-near-saigon-river-with-great-club-lounge-and-decent-location",
+        "published_date": "2024-01-08",
+        "summary": "Points-stay review of a 55sqm Studio Suite, rating the Level 22 Club Lounge among the best he'd seen; praises the pho-station breakfast but notes dated interiors, motorbike noise and no river view from the suite."
+      },
+      {
+        "title": "Review: Le Meridien Saigon, Ho Chi Minh, Vietnam",
+        "source": "The Local Travel Guide",
+        "author": "LivingHotel",
+        "url": "https://thelocaltravelguide.com/le-meridien-saigon/",
+        "published_date": "2023-03-19",
+        "summary": "Marriott Titanium member scores the hotel 7.5/10 after a points stay with a 22nd-floor river-view upgrade and lounge access; loves the service, gym and beef pho but finds furniture aging and the lounge crowded."
+      },
+      {
+        "title": "Le Meridien Review: Saigon's Best Hotel",
+        "source": "Pierre Blake",
+        "author": "Pierre Blake",
+        "url": "https://pierreblake.com/le-meridien-review-saigons-best-hotel/",
+        "published_date": "2017-08-07",
+        "summary": "Calls it Ho Chi Minh City's finest hotel, rating it 9.3/10; highlights a corner suite with river views and the 22nd-floor club lounge, described as the biggest he'd seen in the city, plus spa, pool and gym."
+      },
+      {
+        "title": "Review: Le Meridien Saigon, Ho Chi Minh City Vietnam",
+        "source": "Travel Codex",
+        "author": "James Dozer",
+        "url": "https://www.travelcodex.com/review-le-meridien-saigon-ho-chi-minh-city-vietnam/",
+        "published_date": "2016-12-09",
+        "summary": "Early review of the then-new 22-story riverfront hotel; praises a spacious Premier Classic room, above-and-beyond service, ninth-floor pool and breakfast, recommending it over the nearby Sheraton for SPG members."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Le Meridien Saigon Ho Chi Minh Vietnam | Junior Suite King bedroom | Marriott Hotel",
+        "channel": "Jason Mushroom",
+        "url": "https://www.youtube.com/watch?v=tZ4mvN3o3Lc",
+        "video_id": "tZ4mvN3o3Lc",
+        "published_date": "2025-04-18",
+        "view_count": 1427
+      },
+      {
+        "title": "Le Meridien Saigon Hotel Tour Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=GkZE5WkHI5k",
+        "video_id": "GkZE5WkHI5k",
+        "published_date": "2023-09-17",
+        "view_count": 8634
+      },
+      {
+        "title": "Le Meridien Saigon hotel room tour",
+        "channel": "Dave Brett",
+        "url": "https://www.youtube.com/watch?v=64t5q-QZBSo",
+        "video_id": "64t5q-QZBSo",
+        "published_date": "2016-09-16",
+        "view_count": 805
+      }
+    ]
+  },
   "tags": ["district 1", "riverside", "le meridien"],
   "source_mix": [
     {
