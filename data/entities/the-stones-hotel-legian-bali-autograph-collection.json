@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["sheraton-bali-kuta-resort", "four-points-bali-kuta"],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 89 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
   "reliability_score": 65,
   "last_updated": "2026-08-03",
   "status": "active"

@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["hotel-muse-bangkok-autograph-collection", "moxy-bangkok-ratchaprasong", "westin-grande-sukhumvit-bangkok"],
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 83 },
+      { "label": "Rooms", "score": 83 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 79 }
+    ]
+  },
   "reliability_score": 63,
   "last_updated": "2026-08-03",
   "status": "active"

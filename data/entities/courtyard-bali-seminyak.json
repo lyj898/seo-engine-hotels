@@ -152,6 +152,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["w-bali-seminyak", "four-points-bali-seminyak"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 83 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 65,
   "last_updated": "2026-08-03",
   "status": "active"

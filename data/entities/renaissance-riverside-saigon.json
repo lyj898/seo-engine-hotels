@@ -154,6 +154,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["le-meridien-saigon", "sheraton-saigon-grand-opera", "jw-marriott-saigon"],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 87 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 79 },
+      { "label": "Food & breakfast", "score": 83 },
+      { "label": "Value", "score": 83 }
+    ]
+  },
   "reliability_score": 67,
   "last_updated": "2026-08-03",
   "status": "active"

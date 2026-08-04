@@ -139,6 +139,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["le-meridien-kuala-lumpur", "aloft-kuala-lumpur-sentral", "the-majestic-kuala-lumpur-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 81 }
+    ]
+  },
   "reliability_score": 65,
   "last_updated": "2026-08-03",
   "status": "active"

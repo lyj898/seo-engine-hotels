@@ -136,6 +136,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["bangkok-marriott-marquis-queens-park", "sheraton-grande-sukhumvit-bangkok", "marriott-executive-apartments-bangkok-sukhumvit-50"],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 85 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 87 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
   "reliability_score": 70,
   "last_updated": "2026-07-31",
   "status": "active"

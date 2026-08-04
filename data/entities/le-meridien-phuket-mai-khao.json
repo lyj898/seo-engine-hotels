@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["jw-marriott-phuket", "renaissance-phuket"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 81 }
+    ]
+  },
   "reliability_score": 63,
   "last_updated": "2026-07-31",
   "status": "active"

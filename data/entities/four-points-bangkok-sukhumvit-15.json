@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["four-points-bangkok-sukhumvit-22", "aloft-bangkok-sukhumvit-11", "bangkok-marriott-sukhumvit"],
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 79 }
+    ]
+  },
   "reliability_score": 62,
   "last_updated": "2026-08-03",
   "status": "active"

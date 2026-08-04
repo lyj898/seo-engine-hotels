@@ -98,6 +98,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["le-meridien-saigon", "renaissance-riverside-saigon", "jw-marriott-saigon"],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 89 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 81 },
+      { "label": "Food & breakfast", "score": 81 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 67,
   "last_updated": "2026-08-03",
   "status": "active"

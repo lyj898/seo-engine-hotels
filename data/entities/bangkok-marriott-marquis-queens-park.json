@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["jw-marriott-bangkok", "sheraton-grande-sukhumvit-bangkok"],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 66,
   "last_updated": "2026-07-31",
   "status": "active"

@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["aloft-singapore-novena"],
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
   "reliability_score": 64,
   "last_updated": "2026-07-31",
   "status": "active"

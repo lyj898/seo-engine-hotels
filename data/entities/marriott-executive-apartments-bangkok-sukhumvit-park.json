@@ -72,6 +72,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["marriott-executive-apartments-bangkok-sukhumvit-50", "bangkok-marriott-sukhumvit", "aloft-bangkok-sukhumvit-11"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 83 }
+    ]
+  },
   "reliability_score": 67,
   "last_updated": "2026-08-03",
   "status": "active"

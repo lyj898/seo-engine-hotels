@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["w-kuala-lumpur", "ritz-carlton-kuala-lumpur", "ac-hotel-kuala-lumpur"],
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 63,
   "last_updated": "2026-08-03",
   "status": "active"

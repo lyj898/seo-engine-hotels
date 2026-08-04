@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["westin-resort-spa-ubud-bali", "sthala-tribute-portfolio-ubud-bali", "jw-marriott-bali-ubud"],
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 85 }
+    ]
+  },
   "reliability_score": 60,
   "last_updated": "2026-08-03",
   "status": "active"

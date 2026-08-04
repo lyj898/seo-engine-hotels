@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["ritz-carlton-bangkok", "athenee-luxury-collection-bangkok", "jw-marriott-bangkok"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 87 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
   "reliability_score": 66,
   "last_updated": "2026-08-03",
   "status": "active"

@@ -106,18 +106,22 @@ const quickDistanceCategories = categories
 // Editor's picks: one hotel per city, so the featured grid spans all six
 // cities rather than clustering in whichever city happens to have the
 // highest scores. The site is image-free, so the pick is simply the
-// highest-reliability hotel in each city; the resulting one-per-city set is
-// ordered by reliability so the strongest pick leads.
+// highest-scoring hotel in each city; the resulting one-per-city set is
+// ordered by score so the strongest pick leads. Ranking is by the
+// research-derived guest quality score (sentiment_scores.overall) -- i.e.
+// "best hotel", not "best-verified record" -- falling back to
+// reliability_score only for any entity not yet scored.
+const pickRank = (e) => e.sentiment_scores?.overall ?? e.reliability_score;
 const bestByCity = new Map();
 for (const e of entities) {
-  const rank = e.reliability_score;
+  const rank = pickRank(e);
   const cur = bestByCity.get(e.region_id);
   if (!cur || rank > cur.rank) bestByCity.set(e.region_id, { entity: e, rank });
 }
 const featured = cityRegions
   .map((r) => bestByCity.get(r.region_id)?.entity)
   .filter(Boolean)
-  .sort((a, b) => b.reliability_score - a.reliability_score);
+  .sort((a, b) => pickRank(b) - pickRank(a));
 
 // Hero headline: site.config.json.heroHeadline marks one word with
 // *asterisks*; that word renders with the outlined "stroke" treatment from

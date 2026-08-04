@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["st-regis-kuala-lumpur", "le-meridien-kuala-lumpur", "the-majestic-kuala-lumpur-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
   "reliability_score": 63,
   "last_updated": "2026-08-03",
   "status": "active"

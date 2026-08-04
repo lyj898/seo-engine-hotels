@@ -139,6 +139,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["ritz-carlton-bangkok", "st-regis-bangkok"],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      { "label": "Location", "score": 85 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 85 }
+    ]
+  },
   "reliability_score": 70,
   "last_updated": "2026-07-31",
   "status": "active"

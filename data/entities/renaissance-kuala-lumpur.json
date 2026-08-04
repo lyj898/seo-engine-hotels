@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["sheraton-imperial-kuala-lumpur", "westin-kuala-lumpur", "w-kuala-lumpur"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 64,
   "last_updated": "2026-08-03",
   "status": "active"

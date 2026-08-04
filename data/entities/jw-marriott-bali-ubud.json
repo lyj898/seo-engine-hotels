@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["mandapa-ritz-carlton-reserve-ubud", "westin-resort-spa-ubud-bali", "element-bali-ubud"],
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 72 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 58,
   "last_updated": "2026-08-03",
   "status": "active"

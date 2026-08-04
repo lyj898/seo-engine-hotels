@@ -152,6 +152,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["ritz-carlton-millenia-singapore"],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 83 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 68,
   "last_updated": "2026-07-31",
   "status": "active"

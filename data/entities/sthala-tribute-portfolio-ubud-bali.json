@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["westin-resort-spa-ubud-bali", "cicada-resort-bali-ubud-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
   "reliability_score": 63,
   "last_updated": "2026-08-03",
   "status": "active"

@@ -72,6 +72,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["hotel-muse-bangkok-autograph-collection", "metropole-bangkok-tribute-portfolio", "bangkok-marriott-sukhumvit"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 85 },
+      { "label": "Value", "score": 85 }
+    ]
+  },
   "reliability_score": 60,
   "last_updated": "2026-08-03",
   "status": "active"

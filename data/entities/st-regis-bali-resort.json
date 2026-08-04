@@ -154,6 +154,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["ritz-carlton-bali", "amarterra-villas-bali-nusa-dua-autograph-collection", "courtyard-bali-nusa-dua"],
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 91 },
+      { "label": "Rooms", "score": 90 },
+      { "label": "Food & breakfast", "score": 85 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 67,
   "last_updated": "2026-08-03",
   "status": "active"

@@ -72,6 +72,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["singapore-edition", "jw-marriott-singapore-south-beach"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 81 }
+    ]
+  },
   "reliability_score": 66,
   "last_updated": "2026-08-03",
   "status": "active"

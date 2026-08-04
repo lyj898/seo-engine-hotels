@@ -2,15 +2,20 @@
 // sentiment: { overall: number, breakdown: [{ label, score }] } -- see
 // sentimentScoresSchema in src/lib/schema/base.js. Breakdown labels are
 // entirely seed-data-driven, never hardcoded per vertical.
-const { sentiment } = Astro.props;
+// showOverall defaults true (standalone use). The detail page passes false
+// because the masthead already carries the headline overall number, so the
+// section below it shows only the per-category bars.
+const { sentiment, showOverall = true } = Astro.props;
 ---
 
 {sentiment && (
   <div>
-    <div class="mb-3 flex items-baseline gap-2">
-      <span class="text-3xl font-semibold">{sentiment.overall}</span>
-      <span class="text-sm text-brand-muted dark:text-brand-muted-dark">/ 100 overall</span>
-    </div>
+    {showOverall && (
+      <div class="mb-3 flex items-baseline gap-2">
+        <span class="text-3xl font-semibold">{sentiment.overall}</span>
+        <span class="text-sm text-brand-muted dark:text-brand-muted-dark">/ 100 overall</span>
+      </div>
+    )}
     {sentiment.breakdown?.length > 0 && (
       <ul class="space-y-2.5">
         {sentiment.breakdown.map((item) => (

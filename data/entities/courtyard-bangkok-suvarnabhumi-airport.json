@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": [],
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 81 }
+    ]
+  },
   "reliability_score": 64,
   "last_updated": "2026-07-31",
   "status": "active"

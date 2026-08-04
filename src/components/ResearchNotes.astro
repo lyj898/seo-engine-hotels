@@ -1,0 +1,67 @@
+---
+// The recurring-themes verdict block. Distinct from ProsCons on purpose:
+// ProsCons is feature-level ("walking distance to X", "premium-priced area"),
+// whereas these are the patterns the research stage saw REPEATED across many
+// independent reviews -- carried on the entity as research_highlights /
+// research_watchouts, with a research_confidence that tells the reader how
+// strongly the sources agreed. Replaces the old (never-populated)
+// sentiment_scores breakdown.
+const { highlights = [], watchouts = [], confidence } = Astro.props;
+const hasContent = highlights.length > 0 || watchouts.length > 0;
+
+// Confidence -> tint. high = sources strongly agree; medium = a solid but
+// thinner read; low = directional only. Tokens keep it theme/config-driven.
+const CONFIDENCE = {
+  high: { label: 'High confidence', cls: 'bg-brand-success-highlight text-brand-success dark:bg-brand-success-highlight-dark dark:text-brand-success-dark' },
+  medium: { label: 'Medium confidence', cls: 'bg-brand-warning-highlight text-brand-warning dark:bg-brand-warning-highlight-dark dark:text-brand-warning-dark' },
+  low: { label: 'Low confidence', cls: 'bg-brand-surface-offset text-brand-muted dark:bg-brand-surface-offset-dark dark:text-brand-muted-dark' },
+};
+const conf = confidence ? CONFIDENCE[confidence] : null;
+---
+
+{hasContent && (
+  <section>
+    <div class="flex flex-wrap items-center justify-between gap-3">
+      <div>
+        <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">The research view</p>
+        <h2 class="mt-2 font-serif text-xl font-normal sm:text-2xl">What the research keeps finding</h2>
+      </div>
+      {conf && (
+        <span class={`kicker inline-flex items-center rounded-full px-3 py-1 ${conf.cls}`}>{conf.label}</span>
+      )}
+    </div>
+    <p class="mt-2 max-w-2xl text-sm text-brand-muted dark:text-brand-muted-dark">
+      Themes that came up again and again across independent reviews &mdash; not a single opinion, but the patterns that
+      repeat.
+    </p>
+
+    <div class="mt-6 grid gap-6 sm:grid-cols-2">
+      {highlights.length > 0 && (
+        <div class="rounded-lg border border-brand-divider bg-brand-surface p-5 dark:border-brand-divider-dark dark:bg-brand-surface-dark">
+          <p class="kicker text-brand-success dark:text-brand-success-dark">Consistently praised</p>
+          <ul class="mt-3 space-y-3 text-sm">
+            {highlights.map((h) => (
+              <li class="flex gap-2.5">
+                <span aria-hidden="true" class="mt-0.5 shrink-0 font-semibold text-brand-success dark:text-brand-success-dark">+</span>
+                <span class="leading-relaxed">{h}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+      {watchouts.length > 0 && (
+        <div class="rounded-lg border border-brand-divider bg-brand-surface p-5 dark:border-brand-divider-dark dark:bg-brand-surface-dark">
+          <p class="kicker text-brand-warning dark:text-brand-warning-dark">Worth knowing before you book</p>
+          <ul class="mt-3 space-y-3 text-sm">
+            {watchouts.map((w) => (
+              <li class="flex gap-2.5">
+                <span aria-hidden="true" class="mt-0.5 shrink-0 font-semibold text-brand-warning dark:text-brand-warning-dark">!</span>
+                <span class="leading-relaxed">{w}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </div>
+  </section>
+)}

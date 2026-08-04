@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["sthala-tribute-portfolio-ubud-bali", "cicada-resort-bali-ubud-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 85 },
+      { "label": "Value", "score": 83 }
+    ]
+  },
   "reliability_score": 61,
   "last_updated": "2026-08-03",
   "status": "active"

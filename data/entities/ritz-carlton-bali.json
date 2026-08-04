@@ -147,6 +147,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["st-regis-bali-resort", "amarterra-villas-bali-nusa-dua-autograph-collection", "courtyard-bali-nusa-dua"],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 90 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 68,
   "last_updated": "2026-08-03",
   "status": "active"

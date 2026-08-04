@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["st-regis-kuala-lumpur", "aloft-kuala-lumpur-sentral", "the-majestic-kuala-lumpur-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 83 },
+      { "label": "Value", "score": 79 }
+    ]
+  },
   "reliability_score": 64,
   "last_updated": "2026-08-03",
   "status": "active"

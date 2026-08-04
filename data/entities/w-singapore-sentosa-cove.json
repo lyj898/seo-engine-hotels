@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["le-meridien-singapore-sentosa"],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 79 }
+    ]
+  },
   "reliability_score": 66,
   "last_updated": "2026-07-31",
   "status": "active"

@@ -150,6 +150,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["jw-marriott-saigon", "sheraton-saigon-grand-opera", "renaissance-riverside-saigon"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 87 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 81 }
+    ]
+  },
   "reliability_score": 67,
   "last_updated": "2026-08-03",
   "status": "active"

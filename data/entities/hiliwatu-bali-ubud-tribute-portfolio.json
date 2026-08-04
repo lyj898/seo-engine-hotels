@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["jw-marriott-bali-ubud", "mandapa-ritz-carlton-reserve-ubud", "westin-resort-spa-ubud-bali"],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 55,
   "last_updated": "2026-08-03",
   "status": "active"

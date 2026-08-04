@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["four-points-phuket-patong", "westin-siray-bay-phuket"],
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
   "reliability_score": 61,
   "last_updated": "2026-07-31",
   "status": "active"

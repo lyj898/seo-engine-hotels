@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["sthala-tribute-portfolio-ubud-bali", "westin-resort-spa-ubud-bali"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 56,
   "last_updated": "2026-08-03",
   "status": "active"

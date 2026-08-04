@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["four-points-kuala-lumpur-chinatown", "ac-hotel-kuala-lumpur", "courtyard-kuala-lumpur-south"],
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 79 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 61,
   "last_updated": "2026-08-03",
   "status": "active"

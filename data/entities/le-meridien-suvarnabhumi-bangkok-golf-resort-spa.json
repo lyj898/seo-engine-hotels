@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["courtyard-bangkok-suvarnabhumi-airport", "le-meridien-bangkok", "bangkok-marriott-marquis-queens-park"],
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 60,
   "last_updated": "2026-08-03",
   "status": "active"

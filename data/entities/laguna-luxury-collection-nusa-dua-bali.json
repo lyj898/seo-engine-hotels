@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["westin-resort-nusa-dua-bali", "ritz-carlton-bali", "courtyard-bali-nusa-dua"],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 87 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 63,
   "last_updated": "2026-08-03",
   "status": "active"

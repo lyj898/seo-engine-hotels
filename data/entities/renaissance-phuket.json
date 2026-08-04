@@ -145,6 +145,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["jw-marriott-phuket", "le-meridien-phuket-mai-khao", "phuket-marriott-nai-yang-beach"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 83 }
+    ]
+  },
   "reliability_score": 66,
   "last_updated": "2026-07-31",
   "status": "active"

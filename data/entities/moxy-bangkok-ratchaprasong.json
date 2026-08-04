@@ -152,6 +152,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["hotel-muse-bangkok-autograph-collection", "four-points-bangkok-ploenchit", "renaissance-bangkok-ratchaprasong"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 68,
   "last_updated": "2026-08-03",
   "status": "active"

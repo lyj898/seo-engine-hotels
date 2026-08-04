@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["hotel-stripes-kuala-lumpur-autograph-collection", "four-points-kuala-lumpur-chinatown", "element-kuala-lumpur"],
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 79 }
+    ]
+  },
   "reliability_score": 60,
   "last_updated": "2026-08-03",
   "status": "active"

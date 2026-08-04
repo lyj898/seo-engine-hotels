@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["fairfield-bali-kuta-sunset-road", "fairfield-bali-legian", "four-points-bali-kuta"],
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 81 }
+    ]
+  },
   "reliability_score": 60,
   "last_updated": "2026-08-03",
   "status": "active"

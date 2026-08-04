@@ -139,6 +139,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["renaissance-phuket", "le-meridien-phuket-mai-khao", "phuket-marriott-nai-yang-beach"],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 87 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
   "reliability_score": 68,
   "last_updated": "2026-07-31",
   "status": "active"

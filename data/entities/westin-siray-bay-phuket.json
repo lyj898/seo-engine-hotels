@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["courtyard-phuket-town", "veranda-resort-phuket-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
   "reliability_score": 61,
   "last_updated": "2026-07-31",
   "status": "active"

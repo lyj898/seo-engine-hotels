@@ -149,6 +149,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["st-regis-bangkok", "athenee-luxury-collection-bangkok"],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
   "reliability_score": 68,
   "last_updated": "2026-07-31",
   "status": "active"

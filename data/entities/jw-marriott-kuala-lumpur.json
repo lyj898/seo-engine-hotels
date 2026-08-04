@@ -136,6 +136,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["westin-kuala-lumpur", "w-kuala-lumpur", "hotel-stripes-kuala-lumpur-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
   "reliability_score": 66,
   "last_updated": "2026-08-03",
   "status": "active"

@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["jw-marriott-bangkok", "madi-paidi-bangkok-autograph-collection", "aloft-bangkok-sukhumvit-11"],
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
   "reliability_score": 65,
   "last_updated": "2026-08-03",
   "status": "active"

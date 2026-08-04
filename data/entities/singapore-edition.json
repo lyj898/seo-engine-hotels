@@ -150,6 +150,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["ritz-carlton-millenia-singapore", "st-regis-singapore"],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 92 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
   "reliability_score": 70,
   "last_updated": "2026-08-03",
   "status": "active"

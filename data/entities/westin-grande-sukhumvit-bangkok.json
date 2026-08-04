@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["sheraton-grande-sukhumvit-bangkok", "jw-marriott-bangkok", "bangkok-marriott-marquis-queens-park"],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 85 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 85 },
+      { "label": "Value", "score": 81 }
+    ]
+  },
   "reliability_score": 68,
   "last_updated": "2026-08-03",
   "status": "active"

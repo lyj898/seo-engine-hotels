@@ -128,6 +128,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["veranda-resort-phuket-autograph-collection", "westin-siray-bay-phuket"],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 72 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 65,
   "last_updated": "2026-07-31",
   "status": "active"

@@ -13,8 +13,9 @@ import Breadcrumb from '../../components/Breadcrumb.astro';
 import FactsTable from '../../components/FactsTable.astro';
 import ProsCons from '../../components/ProsCons.astro';
 import SentimentBreakdown from '../../components/SentimentBreakdown.astro';
-import ExcerptQuotes from '../../components/ExcerptQuotes.astro';
+import ResearchNotes from '../../components/ResearchNotes.astro';
 import ExternalCoverage from '../../components/ExternalCoverage.astro';
+import SourceMix from '../../components/SourceMix.astro';
 import FAQSection from '../../components/FAQSection.astro';
 import CTABlock from '../../components/CTABlock.astro';
 import RelatedEntities from '../../components/RelatedEntities.astro';
@@ -49,6 +50,13 @@ const region = regions.find((r) => r.region_id === entity.region_id);
 // which FactsTable already renders below.
 const brand = brandPresentation(entity);
 const reg = brand ? TIER_REGISTER[brand.tier] : null;
+
+// The headline metric is now the research-derived guest quality score
+// (sentiment_scores.overall), not reliability_score -- reliability is an
+// internal data-freshness signal and no longer shown to readers. Falls back
+// to null so a not-yet-scored entity simply shows no number rather than a
+// misleading one.
+const guestScore = entity.sentiment_scores?.overall ?? null;
 
 const relatedEntities = allEntities.filter(
   (e) => entity.related_entity_ids?.includes(e.entity_id) && e.entity_id !== entity.entity_id
@@ -86,7 +94,7 @@ const jsonLd = [
       <div class="mt-4">
         {/* Image-free masthead: the tinted tier register IS the hero. Adopts
             the hotel's tier colour (black-tie for luxury, gold for premium,
-            pale for select), carries the name + reliability score, and the
+            pale for select), carries the name + guest quality score, and the
             short description sits in the surface strip below. */}
         <div class={`relative overflow-hidden rounded-t-xl p-6 sm:p-8 ${reg.panel}`}>
           {reg.tex && <span class="tier-tex" aria-hidden="true"></span>}
@@ -98,10 +106,12 @@ const jsonLd = [
                 <p class="mt-2 text-sm opacity-90">{entity.core_facts.neighborhood}</p>
               )}
             </div>
-            <div class="flex-none text-center">
-              <div class="font-serif text-4xl leading-none tabular-nums sm:text-5xl">{entity.reliability_score}</div>
-              <p class="kicker mt-1 opacity-80">Reliability</p>
-            </div>
+            {guestScore != null && (
+              <div class="flex-none text-center">
+                <div class="font-serif text-4xl leading-none tabular-nums sm:text-5xl">{guestScore}</div>
+                <p class="kicker mt-1 opacity-80">Guest score</p>
+              </div>
+            )}
           </div>
         </div>
         <p class="rounded-b-xl border border-t-0 border-brand-divider bg-brand-surface px-6 py-4 text-brand-muted dark:border-brand-divider-dark dark:bg-brand-surface-dark sm:px-8">
@@ -122,6 +132,15 @@ const jsonLd = [
       <p>{entity.ai_summary}</p>
     </div>
 
+    {entity.sentiment_scores?.breakdown?.length > 0 && (
+      <section class="mt-8">
+        {/* The headline overall sits in the masthead; this section shows the
+            per-category guest-score breakdown (showOverall={false}). */}
+        <h2 class="mb-4 text-xl font-semibold">How guests rate it</h2>
+        <SentimentBreakdown sentiment={entity.sentiment_scores} showOverall={false} />
+      </section>
+    )}
+
     <div class="mt-8">
       <FactsTable facts={narrowFactsToCategories(entity.core_facts, categories)} />
     </div>
@@ -130,27 +149,25 @@ const jsonLd = [
       <ProsCons pros={entity.pros} cons={entity.cons} />
     </div>
 
-    {entity.sentiment_scores && (
-      <section class="mt-8">
-        <h2 class="mb-4 text-xl font-semibold">Sentiment breakdown</h2>
-        <SentimentBreakdown sentiment={entity.sentiment_scores} />
-      </section>
-    )}
-
-    {entity.excerpt_quotes?.length > 0 && (
-      <section class="mt-8">
-        {/* "What people say", not "What sources say": these are now
-            first-hand participant quotes gathered by the research stage, and
-            framing them as sourcing evidence undersells them as well as
-            reminding the reader they're reading a compiled page. */}
-        <h2 class="mb-4 text-xl font-semibold">What people say</h2>
-        <ExcerptQuotes quotes={entity.excerpt_quotes} />
-      </section>
+    {(entity.research_highlights?.length > 0 || entity.research_watchouts?.length > 0) && (
+      <div class="mt-10">
+        <ResearchNotes
+          highlights={entity.research_highlights}
+          watchouts={entity.research_watchouts}
+          confidence={entity.research_confidence}
+        />
+      </div>
     )}
 
     {entity.external_coverage && (
       <div class="mt-10">
         <ExternalCoverage reviews={entity.external_coverage.reviews} videos={entity.external_coverage.videos} />
+      </div>
+    )}
+
+    {entity.source_mix?.length > 0 && (
+      <div class="mt-10">
+        <SourceMix sources={entity.source_mix} lastUpdated={entity.research_last_updated} />
       </div>
     )}
 

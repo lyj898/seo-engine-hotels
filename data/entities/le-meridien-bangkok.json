@@ -71,6 +71,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["w-bangkok"],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 83 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
   "reliability_score": 66,
   "last_updated": "2026-07-31",
   "status": "active"

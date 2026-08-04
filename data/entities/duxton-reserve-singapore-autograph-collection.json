@@ -135,6 +135,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["ritz-carlton-millenia-singapore", "vagabond-club-singapore-tribute-portfolio"],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 83 }
+    ]
+  },
   "reliability_score": 68,
   "last_updated": "2026-08-03",
   "status": "active"

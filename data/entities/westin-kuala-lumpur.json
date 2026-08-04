@@ -133,6 +133,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["jw-marriott-kuala-lumpur", "sheraton-imperial-kuala-lumpur", "renaissance-kuala-lumpur"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 83 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 83 },
+      { "label": "Value", "score": 81 }
+    ]
+  },
   "reliability_score": 65,
   "last_updated": "2026-08-03",
   "status": "active"

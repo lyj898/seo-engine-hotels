@@ -127,6 +127,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["ritz-carlton-bali", "st-regis-bali-resort", "courtyard-bali-nusa-dua"],
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 93 },
+      { "label": "Rooms", "score": 92 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
   "reliability_score": 62,
   "last_updated": "2026-08-03",
   "status": "active"

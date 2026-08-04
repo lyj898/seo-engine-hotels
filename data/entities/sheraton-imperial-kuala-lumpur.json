@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["renaissance-kuala-lumpur", "westin-kuala-lumpur", "le-meridien-kuala-lumpur"],
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 85 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 79 },
+      { "label": "Value", "score": 79 }
+    ]
+  },
   "reliability_score": 64,
   "last_updated": "2026-08-03",
   "status": "active"

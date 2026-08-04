@@ -73,6 +73,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["courtyard-phuket-town", "courtyard-phuket-patong"],
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 55,
   "last_updated": "2026-07-31",
   "status": "active"

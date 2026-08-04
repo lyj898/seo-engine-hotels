@@ -72,6 +72,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["ritz-carlton-millenia-singapore", "duxton-reserve-singapore-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 83 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 65,
   "last_updated": "2026-08-03",
   "status": "active"

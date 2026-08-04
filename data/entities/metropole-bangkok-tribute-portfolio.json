@@ -72,6 +72,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["madi-paidi-bangkok-autograph-collection", "bangkok-marriott-sukhumvit", "hotel-muse-bangkok-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
   "reliability_score": 56,
   "last_updated": "2026-08-03",
   "status": "active"

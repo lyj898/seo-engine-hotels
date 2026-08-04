@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["four-points-bali-kuta", "fairfield-bali-south-kuta", "sheraton-bali-kuta-resort"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 85 }
+    ]
+  },
   "reliability_score": 61,
   "last_updated": "2026-08-03",
   "status": "active"

@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["renaissance-bali-uluwatu"],
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 57,
   "last_updated": "2026-08-03",
   "status": "active"

@@ -72,6 +72,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["sheraton-towers-singapore"],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 89 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
   "reliability_score": 66,
   "last_updated": "2026-07-31",
   "status": "active"

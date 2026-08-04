@@ -126,6 +126,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["courtyard-phuket-patong", "phuket-marriott-merlin-beach"],
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 85 },
+      { "label": "Service", "score": 83 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 83 }
+    ]
+  },
   "reliability_score": 64,
   "last_updated": "2026-07-31",
   "status": "active"

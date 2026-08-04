@@ -72,6 +72,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["ritz-carlton-bangkok", "athenee-luxury-collection-bangkok", "renaissance-bangkok-ratchaprasong"],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 85 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 87 },
+      { "label": "Value", "score": 83 }
+    ]
+  },
   "reliability_score": 66,
   "last_updated": "2026-07-31",
   "status": "active"

@@ -74,6 +74,16 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["w-bali-seminyak", "courtyard-bali-seminyak", "four-points-bali-seminyak"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 89 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 81 },
+      { "label": "Value", "score": 85 }
+    ]
+  },
   "reliability_score": 60,
   "last_updated": "2026-08-03",
   "status": "active"
