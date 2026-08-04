@@ -11,48 +11,56 @@ const regions = loadRegions().map(stripMeta).filter(isPublished);
 const entities = loadEntities().map(stripMeta).filter(isPublished);
 const ancestryMap = buildRegionAncestryMap(regions);
 
-// Only top-level regions here -- child regions are reached by drilling down
-// from their parent's hub page, keeping this index page uncluttered.
-const topLevelRegions = regions.filter((r) => !r.parent_region_id);
-
 function entityCountIncludingDescendants(region) {
   return entities.filter((e) => (ancestryMap.get(e.region_id) ?? [e.region_id]).includes(region.region_id)).length;
 }
 
+// The directory's primary browse unit is the city (Bali / Bangkok / Singapore),
+// not the top-level country -- so this index lists city-granularity regions,
+// ordered by coverage, mirroring the homepage's "browse by city" list. Listing
+// top-level regions instead made this page read as countries ("Indonesia",
+// "Thailand") under an "All Cities" heading.
+const cityRegions = regions
+  .filter((r) => r.granularity === 'city')
+  .map((r) => ({ ...r, entityCount: entityCountIncludingDescendants(r) }))
+  .sort((a, b) => b.entityCount - a.entityCount);
+
+const regionLabelPlural = siteConfig.regionLabelPlural ?? `${siteConfig.regionLabel}s`;
+
 const breadcrumbItems = [
   { label: siteConfig.siteName, href: urls.home() },
-  { label: `All ${siteConfig.regionLabel}s`, href: urls.regionsIndex() },
+  { label: `All ${regionLabelPlural}`, href: urls.regionsIndex() },
 ];
 
 const jsonLd = [buildBreadcrumbListSchema(breadcrumbItems, Astro.site)].filter(Boolean);
 ---
 
 <BaseLayout
-  title={`All ${siteConfig.regionLabel}s`}
+  title={`All ${regionLabelPlural}`}
   description={`Every ${siteConfig.regionLabel.toLowerCase()} covered by ${siteConfig.siteName}.`}
   canonicalPath={urls.regionsIndex()}
   jsonLd={jsonLd}
 >
   <div class="mx-auto max-w-6xl px-4 py-10 sm:px-6">
     <Breadcrumb items={breadcrumbItems} />
-    <h1 class="mt-4 font-serif text-3xl font-semibold sm:text-4xl">All {siteConfig.regionLabel}s</h1>
+    <h1 class="mt-4 font-serif text-3xl font-semibold sm:text-4xl">All {regionLabelPlural}</h1>
     <p class="mt-3 max-w-2xl text-brand-muted dark:text-brand-muted-dark">
       Browse every {siteConfig.entityLabelSingular} on {siteConfig.siteName} grouped by {siteConfig.regionLabel.toLowerCase()}.
     </p>
 
-    {topLevelRegions.length > 0 ? (
+    {cityRegions.length > 0 ? (
       <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {topLevelRegions.map((region) => (
+        {cityRegions.map((region) => (
           <HubCard
             href={urls.region(region.slug)}
             label={region.label}
             description={region.short_description}
-            count={entityCountIncludingDescendants(region)}
+            count={region.entityCount}
           />
         ))}
       </div>
     ) : (
-      <p class="mt-8 text-brand-muted dark:text-brand-muted-dark">No regions published yet.</p>
+      <p class="mt-8 text-brand-muted dark:text-brand-muted-dark">No {regionLabelPlural.toLowerCase()} published yet.</p>
     )}
   </div>
 </BaseLayout>

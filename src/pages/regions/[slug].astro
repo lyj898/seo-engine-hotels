@@ -47,7 +47,7 @@ const categoryFilterOptions = allCategories
 
 const breadcrumbItems = [
   { label: siteConfig.siteName, href: urls.home() },
-  { label: `All ${siteConfig.regionLabel}s`, href: urls.regionsIndex() },
+  { label: `All ${siteConfig.regionLabelPlural ?? `${siteConfig.regionLabel}s`}`, href: urls.regionsIndex() },
   ...(parentRegion ? [{ label: parentRegion.label, href: urls.region(parentRegion.slug) }] : []),
   { label: region.label, href: urls.region(region.slug) },
 ];
