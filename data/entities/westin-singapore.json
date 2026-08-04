@@ -48,6 +48,79 @@
       "answer": "No -- self-parking within Asia Square Tower 2 is chargeable rather than complimentary. Guests arriving by taxi should also confirm the Asia Square address in advance, as some drivers are unfamiliar with the building's entrance."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: The Westin Singapore (Guest Room, Mid-Level Floor) - Sky-high Bayside Tranquility in Downtown Singapore",
+        "source": "Secret Life of Fatbacks",
+        "author": "Shawn Loh",
+        "url": "https://secretlifeoffatbacks.com/2025/04/hotel-review-the-westin-singapore-guest-room-mid-level-floor-sky-high-bayside-tranquility-in-downtown-singapore/",
+        "published_date": "2025-04-20",
+        "summary": "A stay in a 40sqm mid-level room high in Asia Square Tower 2, praising the light-filled space and Marina Bay outlook. Flags the semi-frosted bathroom divider as a privacy quirk but rates the breakfast highly."
+      },
+      {
+        "title": "Hotel Review: The Westin Singapore (Grand Premier Room) - Quiet Retreat in Marina Bay",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2021/1/19/hotel-review-the-westin-singapore-grand-premier-room-quiet-retreat-in-marina-bay",
+        "published_date": "2021-01-19",
+        "summary": "Calls a 46sqm Grand Premier corner room one of his best post-COVID stays: spacious, well soundproofed, with a standout tub against floor-to-ceiling glass, a Nespresso machine, Heavenly Bed and a nightly F&B credit."
+      },
+      {
+        "title": "Review: The Westin Singapore",
+        "source": "World Traveller 73",
+        "author": "Mark LePage",
+        "url": "https://worldtraveller73.com/2021/07/01/review-the-westin-singapore/",
+        "published_date": "2021-07-01",
+        "summary": "A business-traveller take highlighting the rooftop infinity pool as arguably the nicest downtown, plus quality bedding and a panoramic gym. Notes rooms feel compact and the CBD location suits short stays over sightseeing."
+      },
+      {
+        "title": "Review: The Westin Singapore Hotel",
+        "source": "JakartaPotato",
+        "author": "Raymond",
+        "url": "https://www.jakartapotato.com/2023/03/19/review-the-westin-singapore/",
+        "published_date": "2023-03-19",
+        "summary": "A critical 2/5 assessment that acknowledges comfortable beds and roomy layouts but faults dated design, a leaking bathtub tap and see-through bathroom screens, finding rates steep for the office-heavy location."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Westin Singapore Hotel Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=m-212S_gNzY",
+        "video_id": "m-212S_gNzY",
+        "published_date": "2024-07-01"
+      },
+      {
+        "title": "A short & sweet stay at The Westin Singapore.  Room Tour + Club Lounge FULL REVIEW",
+        "channel": "Anita C.  First Take.  Affordable Luxury Travel.",
+        "url": "https://www.youtube.com/watch?v=FBuQ1wAJFXI",
+        "video_id": "FBuQ1wAJFXI",
+        "published_date": "2025-07-01"
+      },
+      {
+        "title": "Is The Westin Singapore Worth It? | Luxury Hotel with Marina Bay Views | 5-Star Hotel Room Tour | 4K",
+        "channel": "Everything WOW | Gauri Nigudkar",
+        "url": "https://www.youtube.com/watch?v=VLHOGdPChpY",
+        "video_id": "VLHOGdPChpY",
+        "published_date": "2026-02-01"
+      },
+      {
+        "title": "The Westin Singapore - 1 King Bed Suite - Breakfast - Lounge tour and review",
+        "channel": "Adventures on the Road (CarRentalGuy)",
+        "url": "https://www.youtube.com/watch?v=v6FsvUbn_9o",
+        "video_id": "v6FsvUbn_9o",
+        "published_date": "2023-04-01"
+      },
+      {
+        "title": "[360 Room Tour] Westin Club Room | The Westin Singapore",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=9bmQZlgL-TY",
+        "video_id": "9bmQZlgL-TY",
+        "published_date": "2021-03-01"
+      }
+    ]
+  },
   "tags": ["marina bay", "cbd", "infinity pool"],
   "source_mix": [
     {

@@ -49,6 +49,57 @@
       "answer": "It runs a free, frequent shuttle to Novena MRT station, which guest reviews describe as a reliable way to reach the rest of the city, though check-in staff don't always proactively explain the shuttle schedule -- ask at the front desk on arrival."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Aloft Singapore Novena Review: A tale of two towers",
+        "source": "The MileLion",
+        "author": "Aaron Wong",
+        "url": "https://milelion.com/2024/03/27/aloft-singapore-novena-review-a-tale-of-two-towers/",
+        "published_date": "2024-03-27",
+        "summary": "A detailed review of the world's largest Aloft, whose 785 rooms span two buildings. Argues it outperforms its 4-star billing, but warns a guest's experience hinges heavily on which of the two wings they're assigned."
+      },
+      {
+        "title": "Hotel Review: Aloft Singapore Novena, Your Modern Singapore Escape",
+        "source": "The Rod Magaru Show",
+        "author": "Rod Magaru",
+        "url": "https://rodmagaru.com/2024/01/hotel-review-aloft-singapore-novena-your-modern-singapore-escape/",
+        "published_date": "2024-01-15",
+        "summary": "An upbeat write-up framing the hotel as a sleek, social base for younger and business travellers: contemporary floor-to-ceiling-window rooms, a pool, 24/7 gym, W XYZ bar and the Yue Chinese restaurant. A strong modern pick."
+      },
+      {
+        "title": "Aloft Singapore Novena Hotel by Marriott staycay review: Good food, well-equipped gym, friendly staff",
+        "source": "Yahoo Life Singapore",
+        "author": "Cadence Loh",
+        "url": "https://sg.style.yahoo.com/aloft-singapore-novena-hotel-by-marriott-staycay-review-good-food-well-equipped-gym-friendly-staff-084359992.html",
+        "published_date": "2024-01-08",
+        "summary": "A staycation review singling out warm staff, quality food and a well-equipped gym. Especially praises dining at Yue as memorable enough to justify a return, and notes the music-themed design across the East and West wings."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Aloft Hotel Novena Singapore Review | Urban Room Tour, Breakfast & Amenities – Pros & Cons",
+        "channel": "Veg Stroller",
+        "url": "https://www.youtube.com/watch?v=WvuQKDKPJS0",
+        "video_id": "WvuQKDKPJS0",
+        "published_date": "2025-09-24"
+      },
+      {
+        "title": "Aloft Hotel Singapore in Novena Tour Review ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=VxeY_Hui-w8",
+        "video_id": "VxeY_Hui-w8",
+        "published_date": "2025-01-30"
+      },
+      {
+        "title": "Aloft Singapore Novena 2024 Hotel Review",
+        "channel": "Epic Travel Journeys",
+        "url": "https://www.youtube.com/watch?v=AsRTAjF5Ak8",
+        "video_id": "AsRTAjF5Ak8",
+        "published_date": "2024-08-01"
+      }
+    ]
+  },
   "tags": ["select-service", "novena", "budget-lifestyle"],
   "source_mix": [
     {

@@ -49,6 +49,79 @@
       "answer": "Yes -- it sits on Scotts Road directly next to Newton MRT station, a short walk from Orchard Road's main shopping and dining strip."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Sheraton Towers Singapore (ft. waterfall views!)",
+        "source": "Hotel Hobby",
+        "url": "https://www.hotelhobby.com/2021/04/review-sheraton-towers-singapore-waterfall-views.html",
+        "published_date": "2021-04-01",
+        "summary": "A 30sqm Deluxe King stay framed as one of the more affordable Bonvoy options in Singapore. Highlights the dramatic lobby water feature and waterfall views, the 5th-floor pool and lounge cocktail hour: a solid budget staycation pick."
+      },
+      {
+        "title": "To Singapore for the Grand Prix! Sheraton Towers Singapore – Deluxe Room review",
+        "source": "Point Hacks",
+        "author": "Keith",
+        "url": "https://www.pointhacks.com.au/reviews/sheraton-towers-singapore-review/",
+        "published_date": "2015-10-13",
+        "summary": "Reviews a Deluxe Room booked at 12,000 Starpoints, calling it excellent value against a AUD 450+ cash rate. Praises comfortable beds, high ceilings and floor space despite dated decor, plus convenient MRT access. Rated 4/5."
+      },
+      {
+        "title": "Review: Executive Suite at the Sheraton Towers Singapore",
+        "source": "Travel Codex",
+        "author": "Brad",
+        "url": "https://www.travelcodex.com/executive-suite-at-the-sheraton-towers-singapore-award/",
+        "published_date": "2013-01-01",
+        "summary": "Covers a Cambridge Towers Executive Suite booked on an award during a layover. Notes the property is not new but has renovated public spaces, dated-but-kept furnishings and a well-stocked club lounge: a decent, return-worthy option."
+      },
+      {
+        "title": "Hotel Review: Sheraton Towers Singapore (Pool King Room)",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2015/1/10/hotel-review-sheraton-towers-singapore",
+        "published_date": "2015-01-10",
+        "summary": "Details a 32sqm Towers Pool King with club benefits after the hotel's S$20M refurbishment: plush bed, sitting area and strong breakfast buffet, while flagging slow, understaffed lounge service and a property that still shows its age."
+      },
+      {
+        "title": "The Hotel Life: Sheraton Towers Singapore Executive Suite Review",
+        "source": "Seeing The World In Steps",
+        "author": "Dennison Wee",
+        "url": "https://seeingtheworldinsteps.com/2020/10/09/the-hotel-life-sheraton-towers-singapore-executive-suite/",
+        "published_date": "2020-10-09",
+        "summary": "A Wanderlust Escape package upgraded to a 60sqm Beijing Executive Suite via Platinum status. Praises the spacious suite and fresh breakfast but criticises a gloomy lobby, lacklustre check-in and disappointing lounge."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ROOM TOUR OF SHERATON TOWERS SINGAPORE",
+        "channel": "Titing Kulot",
+        "url": "https://www.youtube.com/watch?v=U4VVIxO567E",
+        "video_id": "U4VVIxO567E",
+        "published_date": "2022-01-01"
+      },
+      {
+        "title": "Sheraton Towers Singapore Hotel Review Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=ncTXJ2jSjpo",
+        "video_id": "ncTXJ2jSjpo",
+        "published_date": "2023-07-17"
+      },
+      {
+        "title": "SHERATON TOWERS SINGAPORE Tour and Review",
+        "channel": "jesgbc",
+        "url": "https://www.youtube.com/watch?v=F6H2VUk_6ts",
+        "video_id": "F6H2VUk_6ts",
+        "published_date": "2021-01-10"
+      },
+      {
+        "title": "Sheraton Tower Singapore - Executive Suite Room 1907 (Oxford Suite) #staycation #marriotbonvoy",
+        "channel": "Follow Us",
+        "url": "https://www.youtube.com/watch?v=HPg55exFfPE",
+        "video_id": "HPg55exFfPE",
+        "published_date": "2021-04-01"
+      }
+    ]
+  },
   "tags": ["orchard road", "mid-premium", "mrt access"],
   "source_mix": [
     {

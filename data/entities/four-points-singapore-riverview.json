@@ -48,6 +48,70 @@
       "answer": "Yes -- the hotel has an outdoor pool along with a 24-hour fitness centre, an on-site mall, three restaurants, and a rooftop garden, positioning it as a value-oriented, select-service option in the Robertson Quay area."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Four Points by Sheraton Singapore, Riverview",
+        "source": "Milesopedia",
+        "author": "Jean-François Léveillé",
+        "url": "https://milesopedia.com/en/reviews/hotels/four-points-by-sheraton-singapore-riverview/",
+        "published_date": "2025-03-28",
+        "summary": "Rates it 9/10 and frames it as the most affordable central Marriott, bookable around 34,000 Bonvoy points. Praises the peaceful riverside setting, four restaurants, riverside pool and 24/7 gym, while noting compact 23sqm rooms."
+      },
+      {
+        "title": "Four Points by Sheraton Singapore Riverview: Honest Hotel Review",
+        "source": "Rubbish Eat Rubbish Grow",
+        "author": "Rubbish Eat Rubbish Grow Editorial Team",
+        "url": "https://rubbisheatrubbishgrow.com/2026/01/29/four-points-by-sheraton-singapore-riverview-honest-review/",
+        "published_date": "2026-01-29",
+        "summary": "A candid 3.5/5 calling it the 'Honda Civic of hotels': dependable and functional. Highlights the Robertson Quay location near Havelock MRT and roomy-for-Singapore rooms with firm beds, offset by decor overdue for a refresh."
+      },
+      {
+        "title": "Hotel Review: Four Points by Sheraton Singapore, Riverview (Premium Room) — Cheap Property for Mattress Runs",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2019/9/11/hotel-review-four-points-by-sheraton-singapore-riverview-premium-room-cheap-property-for-mattress-runs",
+        "published_date": "2019-09-11",
+        "summary": "Reviews the Premium Room from an elite-value angle, noting rates from ~S$146++ make it the cheapest Marriott in Singapore. Flags Platinum perks like evening drinks and 4pm checkout, and the a la carte Old Time Bak Kut Teh."
+      },
+      {
+        "title": "Staycation Review: Four Points by Sheraton Singapore, Riverview",
+        "source": "Hotel Hobby",
+        "url": "https://www.hotelhobby.com/2020/11/four-points-sheraton-singapore-riverview-staycation-review.html",
+        "published_date": "2020-11-01",
+        "summary": "A staycation review of the 476-room hotel as one of Marriott's most budget-friendly Singapore stays. Notes angled windows giving broad river or city views from higher floors, plus dining at Four Points Eatery and food-credit deals."
+      }
+    ],
+    "videos": [
+      {
+        "title": "🏨 Four Points by Sheraton Singapore, Riverview | Interconnecting Room Tour",
+        "channel": "Catch you on the roundabout 👋",
+        "url": "https://www.youtube.com/watch?v=tDYWQ264KBw",
+        "video_id": "tDYWQ264KBw",
+        "published_date": "2026-01-22"
+      },
+      {
+        "title": "Four Points by Sheraton Singapore, Riverview Hotel Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=j3ww41VG_LM",
+        "video_id": "j3ww41VG_LM",
+        "published_date": "2023-07-14"
+      },
+      {
+        "title": "BEST Hotel in Singapore: Four Points by Sheraton FULL Hotel Review Gym, Room, Buffet, and More",
+        "channel": "Nick Gray",
+        "url": "https://www.youtube.com/watch?v=8pEDzN-BsfE",
+        "video_id": "8pEDzN-BsfE",
+        "published_date": "2024-06-26"
+      },
+      {
+        "title": "Four Points By Sheraton, Singapore || RiverView Room || Hotel Tour",
+        "channel": "Deepak Bhandari",
+        "url": "https://www.youtube.com/watch?v=GShR9t0OANY",
+        "video_id": "GShR9t0OANY"
+      }
+    ]
+  },
   "tags": ["robertson quay", "select-service", "river view"],
   "source_mix": [
     {

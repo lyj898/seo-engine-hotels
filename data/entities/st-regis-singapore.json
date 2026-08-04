@@ -48,6 +48,78 @@
       "answer": "Yes -- it's a short walk from the Singapore Botanic Gardens, a UNESCO World Heritage Site, at the quieter end of Orchard Road near the city's embassy district."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: St. Regis Singapore",
+        "source": "Prince of Travel",
+        "author": "Ricky Zhang",
+        "url": "https://princeoftravel.com/reviews/st-regis-singapore/",
+        "published_date": "2023-04-06",
+        "summary": "A Marriott Titanium member's points booking walks through the room categories, dining and Remede Spa, praising exceptional service and a top score, though the decor felt a touch dated at the time."
+      },
+      {
+        "title": "Review: The St. Regis Singapore Staycation",
+        "source": "The MileLion",
+        "author": "Aaron Wong",
+        "url": "https://milelion.com/2021/09/19/review-st-regis-singapore-staycation/",
+        "published_date": "2021-09-19",
+        "summary": "A staycation review centred on the ornate Caroline Astor Suite, its dining, spa and signature butler service. A strong recommendation for a posh stay, with the only caveat that the interiors could use a refresh."
+      },
+      {
+        "title": "St. Regis Singapore Review: Slightly Dated, But Totally Luxurious",
+        "source": "Breaking Eighty",
+        "author": "Sean Ogle",
+        "url": "https://breakingeighty.com/st-regis-singapore-review",
+        "published_date": "2024-03-20",
+        "summary": "Frames the hotel as classic luxury that leans slightly dated yet delivers spacious rooms, standout service and a world-class spa. Praises the Orchard Road location and finds pricing reasonable for a five-star property."
+      },
+      {
+        "title": "The St. Regis Singapore Review: Our Anniversary Staycation Experience",
+        "source": "Spring Tomorrow",
+        "url": "https://www.springtomorrow.com/the-st-regis-singapore-review/",
+        "published_date": "2025-07-01",
+        "summary": "An anniversary staycation that singles out the bespoke butler service as the highlight worth the splurge, balancing praise for the room and overall luxury against a check-in that felt less warm than expected."
+      }
+    ],
+    "videos": [
+      {
+        "title": "St. Regis Singapore Hotel Tour and Honest Review",
+        "channel": "Nick Gray",
+        "url": "https://www.youtube.com/watch?v=ZWHO95KU0-U",
+        "video_id": "ZWHO95KU0-U",
+        "published_date": "2023-08-01"
+      },
+      {
+        "title": "St Regis Singapore Hotel Tour & Review ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=kb2_ai9f_s0",
+        "video_id": "kb2_ai9f_s0",
+        "published_date": "2025-01-01"
+      },
+      {
+        "title": "St Regis Singapore Penthouse Room & Property Tour",
+        "channel": "A Life's Journeys",
+        "url": "https://www.youtube.com/watch?v=wd3BUJYDOJ8",
+        "video_id": "wd3BUJYDOJ8",
+        "published_date": "2019-05-01"
+      },
+      {
+        "title": "[360 Room Tour] Executive Deluxe Room | The St. Regis Singapore",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=s66yyTB8St4",
+        "video_id": "s66yyTB8St4",
+        "published_date": "2021-05-01"
+      },
+      {
+        "title": "Room Tour: The St.Regis Singapore | Executive Deluxe Room",
+        "channel": "Aga Kozmic (a matter of taste)",
+        "url": "https://www.youtube.com/watch?v=VpBUbhvcK7I",
+        "video_id": "VpBUbhvcK7I",
+        "published_date": "2017-07-01"
+      }
+    ]
+  },
   "tags": ["luxury", "orchard road", "botanic gardens"],
   "source_mix": [
     {

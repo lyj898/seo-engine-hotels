@@ -50,6 +50,75 @@
       "answer": "Yes -- the hotel is built directly on top of Novena MRT station, making it one of the most transit-connected Bonvoy properties in this directory's Singapore list."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Courtyard by Marriott Singapore Novena (Premier Skyline Room)",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2018/1/24/hotel-review-courtyard-by-marriott-singapore-novena-premier-skyline-room",
+        "published_date": "2018-01-24",
+        "summary": "A room-focused review of the Premier Skyline Room, praising the 22sqm layout, big windows and standout skyline views. Notes a Nespresso machine and USB charging, but flags an open bathroom with no door lock and a steep price."
+      },
+      {
+        "title": "Courtyard by Marriott Novena in Singapore – a Hotel Review",
+        "source": "Quirrow",
+        "author": "Quirrow",
+        "url": "https://quirrow.wordpress.com/2019/04/24/courtyard-by-marriott-novena/",
+        "published_date": "2019-04-24",
+        "summary": "A New Year stay in a Premier Skyline King above Royal Square mall by Novena MRT. Praises the Sky22 breakfast and rooftop pool with Marina Bay Sands glimpses, but finds the compact rooms overpriced near S$300 a night."
+      },
+      {
+        "title": "Review: Courtyard By Marriott Hotel Novena (Singapore)",
+        "source": "Dania Experiences",
+        "author": "Dania",
+        "url": "https://daniaexperiences.com/2024/02/22/review-courtyard-by-marriott-hotel-novena-singapore/",
+        "published_date": "2024-02-22",
+        "summary": "Rates it 4/5, highlighting elegant common areas, a rooftop infinity pool, the Las Palmas bar and high-floor views. Rooms are clean but amenities limited; disliked the soft mattress topper, tiny gym and no turndown. Decent value."
+      },
+      {
+        "title": "Courtyard by Marriott Singapore Novena Review: Sensible City Stay",
+        "source": "Rubbish Eat Rubbish Grow",
+        "author": "Rubbish Eat Rubbish Grow Editorial Team",
+        "url": "https://rubbisheatrubbishgrow.com/2026/06/22/courtyard-by-marriott-singapore-novena-review/",
+        "published_date": "2026-06-22",
+        "summary": "Frames it as a practical, well-connected pick away from the Orchard crowds. Compact modern rooms with skyline windows and a photogenic rooftop pool are highlights, while Sky22 breakfast is serviceable: clean, comfortable, sensible."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Courtyard Marriott Novena Singapore Hotel Tour ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=qj15aqtd050",
+        "video_id": "qj15aqtd050",
+        "published_date": "2024-07-14"
+      },
+      {
+        "title": "Courtyard Singapore Novena | Premier Room",
+        "channel": "Lonely Travelog Media",
+        "url": "https://www.youtube.com/watch?v=8FWhkDRy0-o",
+        "video_id": "8FWhkDRy0-o"
+      },
+      {
+        "title": "Courtyard by Marriott Singapore Novena | Singapore hotel vlog",
+        "channel": "Chia Shu Wei",
+        "url": "https://www.youtube.com/watch?v=6BDw9CBtjUU",
+        "video_id": "6BDw9CBtjUU"
+      },
+      {
+        "title": "Courtyard by Marriott Singapore Novena | Travel With Bhavya",
+        "channel": "Travel With Bhavya",
+        "url": "https://www.youtube.com/watch?v=EapZ1qTyfss",
+        "video_id": "EapZ1qTyfss"
+      },
+      {
+        "title": "Sky22 - Buffet Restaurant At Courtyard by Marriott Singapore Novena With Stunning Views",
+        "channel": "DanielFoodDiary",
+        "url": "https://www.youtube.com/watch?v=Ha_JQnZW7AI",
+        "video_id": "Ha_JQnZW7AI"
+      }
+    ]
+  },
   "tags": ["select-service", "novena", "medical district"],
   "source_mix": [
     {

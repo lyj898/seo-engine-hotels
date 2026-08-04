@@ -134,8 +134,9 @@ Output ONLY the JSON object.`;
  * from the aggregator pipeline and are re-verified weekly. What's missing is
  * everything a person would actually want to know before signing up, which
  * only exists in race reports, forum threads and reviews. The output feeds
- * excerpt_quotes/sentiment_scores, which buildSummaryPrompt then writes
- * from -- so improving this prompt improves every listing's prose.
+ * research highlights/watchouts and sentiment_scores, which
+ * buildSummaryPrompt then writes from -- so improving this prompt improves
+ * every listing's prose.
  *
  * Quotes must carry a real source_url. That's the guard against the model
  * paraphrasing its own priors into something that looks like a review: an
@@ -234,10 +235,6 @@ Search for what people say about this ${entityLabelSingular} -- participant race
 
 Return a JSON object with:
 
-- excerpt_quotes (array of 0-5 objects {"quote": string (under 300 chars, verbatim), "attribution": string ` +
-    `(who said it and where, e.g. "Runner review on AhoTu"), "source_url": string (the actual page URL)}): ` +
-    `direct quotes carrying real information -- course conditions, organisation, atmosphere, heat, crowd ` +
-    `support, value. Skip anything purely promotional. Omit any quote you cannot attribute to a real URL.
 - highlights (array of 0-5 short strings): concrete, useful things a prospective participant should know, ` +
     `each grounded in what you found (e.g. course profile, weather at that time of year, cut-off times, ` +
     `logistics). Not marketing language.
@@ -266,20 +263,12 @@ export function buildSummaryPrompt({ siteConfig, entity }) {
     'unannounced or pending; simply leave it out. Lead with what is distinctive rather than restating the ' +
     'name, date and location in order. Respond with ONLY valid JSON -- no markdown code fences, no commentary.';
 
-  const quotesBlock =
-    entity.excerpt_quotes?.length > 0
-      ? entity.excerpt_quotes.map((q) => `- "${q.quote}" -- ${q.attribution}`).join('\n')
-      : '(none available)';
-
   const highlightsBlock = entity.research_highlights?.length > 0 ? entity.research_highlights.map((h) => `- ${h}`).join('\n') : '(none available)';
   const watchoutsBlock = entity.research_watchouts?.length > 0 ? entity.research_watchouts.map((w) => `- ${w}`).join('\n') : '(none available)';
 
   const prompt = `${entityLabelSingular} name: ${entity.name}
 Tags: ${(entity.tags ?? []).join(', ') || '(none)'}
 core_facts: ${JSON.stringify(entity.core_facts)}
-
-What people report about it (from web research):
-${quotesBlock}
 
 Reported highlights:
 ${highlightsBlock}
@@ -304,7 +293,7 @@ Using ONLY the information above, produce a JSON object with:
     `the research material can actually answer ("Is the course hilly?", "How hot does it get?") over ones that ` +
     `just restate the facts back.
 - sentiment_scores (object {"overall": number 0-100, "breakdown": [{"label": string, "score": number 0-100}]}, ` +
-    `or null): only if the quotes above actually convey opinion. Use null rather than guessing.
+    `or null): only if the highlights and watchouts above actually convey opinion. Use null rather than guessing.
 
 Output ONLY the JSON object.`;
 

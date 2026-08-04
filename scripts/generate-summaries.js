@@ -5,7 +5,7 @@
  * Calls the Claude API to generate ai_summary, short_description, pros,
  * cons, faqs, and (optionally) sentiment_scores for entities that still
  * carry discover-entities.js's PENDING_SUMMARY_MARKER placeholder --
- * strictly from that entity's own core_facts, tags, and excerpt_quotes.
+ * strictly from that entity's own core_facts, tags, and research highlights/watchouts.
  * Never invents facts (see scripts/lib/prompts.js's NO_INVENTION_RULE).
  *
  * Retries once (bounded) on a response that fails validation -- either

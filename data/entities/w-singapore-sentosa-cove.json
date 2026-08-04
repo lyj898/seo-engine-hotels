@@ -50,6 +50,72 @@
       "answer": "Sentosa Cove requires a short causeway drive, the Sentosa Express monorail, or a cable car from mainland Singapore -- it's not walkable, so factor in extra transit time compared to a downtown hotel."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "W Singapore – Sentosa Cove Review",
+        "source": "The Hotel Journal",
+        "author": "Dawn Wong",
+        "url": "https://thehoteljournal.com/w-singapore-sentosa-cove-review/",
+        "published_date": "2026-01-24",
+        "summary": "A post-refresh look praising contemporary rooms with coral accents, marina views and Nespresso machines. Spotlights the 24/7 WET Deck pool, AWAY Spa and SKIRT grill, plus sustainability upgrades like removing single-use plastics."
+      },
+      {
+        "title": "W Singapore Sentosa Cove hotel by Marriott review – Asian hospitality at its best",
+        "source": "Turning Left For Less",
+        "author": "Michele",
+        "url": "https://www.turningleftforless.com/w-singapore-sentosa-cove-hotel-by-marrriott-review-asian-hospitality-at-its-best/",
+        "published_date": "2022-08-14",
+        "summary": "A Marriott Platinum member arrives skeptical of the W brand but leaves won over: a spacious marina-view Spectacular King, standout chilli-crab-omelette breakfast, a huge pool and proactive service including a late checkout."
+      },
+      {
+        "title": "Review of the W Singapore – Sentosa Cove",
+        "source": "Once in a Lifetime Journey",
+        "author": "Mar",
+        "url": "https://www.onceinalifetimejourney.com/lux-singapore/review-of-the-w-singapore-sentosa-cove/",
+        "published_date": "2018-09-09",
+        "summary": "A mixed take admiring the rooms' bold design and mood lighting but finding value lacking above S$500. Criticises a chaotic breakfast, weak concierge and family-heavy pool, plus an isolated location reliant on pricey taxis."
+      },
+      {
+        "title": "Hotel Review: W Singapore, Sentosa Cove",
+        "source": "We Are Travel Girls",
+        "author": "Becky van Dijk",
+        "url": "https://wearetravelgirls.com/w-singapore-sentosa-cove/",
+        "published_date": "2018-01-22",
+        "summary": "An enthusiastic take framing the W as the fun, funky sibling among Singapore's luxury hotels: purple-orchid design, comfortable Spectacular rooms with mood lighting, and a huge pool with underwater speakers and weekend parties."
+      }
+    ],
+    "videos": [
+      {
+        "title": "W Singapore Hotel - Sentosa Cove | Room Tour | Marriott Bonvoy Member",
+        "channel": "Ariel and Ara Studio",
+        "url": "https://www.youtube.com/watch?v=9-_K1JkhGXQ",
+        "video_id": "9-_K1JkhGXQ",
+        "published_date": "2025-07-25"
+      },
+      {
+        "title": "Room Tour: W Singapore - Sentosa Cove | Fabulous Room + pool",
+        "channel": "Aga Kozmic (a matter of taste)",
+        "url": "https://www.youtube.com/watch?v=vZtJFMJzUj0",
+        "video_id": "vZtJFMJzUj0",
+        "published_date": "2017-06-15"
+      },
+      {
+        "title": "W SINGAPORE FANTASTIC SUITE ROOM TOUR | Fifiliciousify",
+        "channel": "fifiliciousify",
+        "url": "https://www.youtube.com/watch?v=vN-go8T6tzA",
+        "video_id": "vN-go8T6tzA",
+        "published_date": "2018-03-15"
+      },
+      {
+        "title": "Spectacular AWAY Room at the W Singapore Sentosa Cove",
+        "channel": "Jamison N",
+        "url": "https://www.youtube.com/watch?v=xgwxmpNVrYw",
+        "video_id": "xgwxmpNVrYw",
+        "published_date": "2014-02-15"
+      }
+    ]
+  },
   "tags": ["resort", "sentosa", "lifestyle"],
   "source_mix": [
     {

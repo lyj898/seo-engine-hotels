@@ -48,6 +48,57 @@
       "answer": "Reviews are mixed -- while staff and cleanliness draw praise, several guests describe guest rooms and corridors as dated, and elevators are frequently called out as slow, particularly during morning peak periods. Budget extra time accordingly."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Singapore Marriott Tang Plaza Hotel",
+        "source": "Milesopedia",
+        "author": "Audrey Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/singapore-marriott-tang-plaza-hotel/",
+        "published_date": "2020-07-03",
+        "summary": "A Milesopedia co-founder's family stay valuing the Orchard Road location and large rooms with separate living areas. As Titanium elites they got breakfast and lounge dining, and rate the pool, gym and overall value highly."
+      },
+      {
+        "title": "Singapore Marriott Tang Plaza Hotel Review: Orchard Road Still Wins",
+        "source": "Rubbish Eat Rubbish Grow",
+        "author": "Celeste Tan",
+        "url": "https://rubbisheatrubbishgrow.com/2026/07/08/singapore-marriott-tang-plaza-hotel-review/",
+        "published_date": "2026-07-08",
+        "summary": "An Executive Room with M Club access frames the hotel as a practical, well-located Orchard base rather than a design retreat. Flags slow lifts and dated finishes, but credits roomy rooms, lounge service, a 24h gym and rooftop pool."
+      },
+      {
+        "title": "Hotel Review: Singapore Marriott Tang Plaza Hotel (Premier Suite) - Oasis Calm in the Heart of Orchard Road",
+        "source": "Secret Life of Fatbacks",
+        "author": "Shawn Loh",
+        "url": "https://secretlifeoffatbacks.com/2025/12/hotel-review-singapore-marriott-tang-plaza-hotel-premier-suite-oasis-calm-in-the-heart-of-orchard-road/",
+        "published_date": "2025-12-13",
+        "summary": "A November 2025 Premier Suite stay highlighting the 60sqm layout with private verandah and outdoor whirlpool under the landmark pagoda roof. The pool reads as a genuine resort-calm escape, with strong breakfast and M Club cocktails."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Singapore Marriott Tang Plaza (Executive Suite) Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=5oe0MeOxuBo",
+        "video_id": "5oe0MeOxuBo",
+        "published_date": "2020-10-08"
+      },
+      {
+        "title": "Room 907 tour | Guest Room @ Singapore Marriott Tang Plaza Hotel, Singapore",
+        "channel": "alexlovesmac",
+        "url": "https://www.youtube.com/watch?v=mvMXhngdv5w",
+        "video_id": "mvMXhngdv5w",
+        "published_date": "2024-07-16"
+      },
+      {
+        "title": "Marriott Tang Plaza Review and Tour - Best Singapore Hotels",
+        "channel": "Chris Stead",
+        "url": "https://www.youtube.com/watch?v=PspQJ5gvsqs",
+        "video_id": "PspQJ5gvsqs",
+        "published_date": "2024-05-29"
+      }
+    ]
+  },
   "tags": ["orchard road", "full-service", "business"],
   "source_mix": [
     {

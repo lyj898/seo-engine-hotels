@@ -22,12 +22,6 @@ export const sourceRefSchema = z.object({
   last_checked: z.string().min(1).optional(), // ISO date string, e.g. "2026-07-20"
 });
 
-export const excerptQuoteSchema = z.object({
-  quote: z.string().min(1).max(400),
-  attribution: z.string().min(1),
-  source_url: z.string().url().optional(),
-});
-
 export const faqSchema = z.object({
   question: z.string().min(1),
   // SEO requirement: every FAQ answer should open with a direct 40-60 word
@@ -134,7 +128,6 @@ export const baseEntitySchema = z.object({
   pros: z.array(z.string().min(1)).default([]),
   cons: z.array(z.string().min(1)).default([]),
   sentiment_scores: sentimentScoresSchema.optional(),
-  excerpt_quotes: z.array(excerptQuoteSchema).default([]),
   external_coverage: externalCoverageSchema,
   // Optional lead image; entities without one fall back to the duotone
   // placeholder panel in EntityCard. See imageSchema above.

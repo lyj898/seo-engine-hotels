@@ -4,7 +4,7 @@
  *
  * Third stage of the weekly pipeline, sitting between `refresh` and
  * `summaries`: goes out to the open web and gathers first-hand commentary
- * about each published entity -- quotes, highlights, caveats, sentiment --
+ * about each published entity -- highlights, caveats, sentiment --
  * and stores it on the entity for the summary writer to build prose from.
  *
  * WHY THIS EXISTS
@@ -107,33 +107,13 @@ async function run() {
       continue;
     }
 
-    // Attribution gate: a quote we cannot point at is dropped, not stored.
-    const quotes = Array.isArray(result?.excerpt_quotes)
-      ? result.excerpt_quotes
-          .filter((q) => q && typeof q.quote === 'string' && q.quote.trim() && typeof q.attribution === 'string')
-          .filter((q) => {
-            if (typeof q.source_url !== 'string') return false;
-            try {
-              new URL(q.source_url);
-              return true;
-            } catch {
-              return false;
-            }
-          })
-          .map((q) => ({
-            quote: q.quote.trim().slice(0, 400),
-            attribution: q.attribution.trim(),
-            source_url: q.source_url,
-          }))
-      : [];
-
     const strings = (value, max) =>
       Array.isArray(value) ? value.filter((s) => typeof s === 'string' && s.trim()).map((s) => s.trim()).slice(0, max) : [];
 
     const highlights = strings(result?.highlights, 5);
     const watchouts = strings(result?.watchouts, 4);
 
-    if (quotes.length === 0 && highlights.length === 0 && watchouts.length === 0) {
+    if (highlights.length === 0 && watchouts.length === 0) {
       // Still stamp the date: without it this entity would be retried on
       // every single run, spending a search each time to learn the same
       // nothing. It will come round again after the normal interval.
@@ -150,7 +130,6 @@ async function run() {
 
     const updated = {
       ...entity,
-      excerpt_quotes: quotes.length > 0 ? quotes : entity.excerpt_quotes,
       research_highlights: highlights,
       research_watchouts: watchouts,
       ...(sentiment ? { sentiment_scores: sentiment } : {}),
@@ -162,7 +141,7 @@ async function run() {
     if (writeIfValid(item.__file, updated, entitySchema)) {
       stats.researched++;
       console.log(
-        `[research-entities] ${entity.slug}: ${quotes.length} quote(s), ${highlights.length} highlight(s), ${watchouts.length} watchout(s).`
+        `[research-entities] ${entity.slug}: ${highlights.length} highlight(s), ${watchouts.length} watchout(s).`
       );
     } else {
       stats.invalidSkipped++;

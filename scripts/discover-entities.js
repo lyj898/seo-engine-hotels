@@ -223,7 +223,6 @@ async function run() {
         core_facts: coreFactsResult.data,
         pros: [],
         cons: [],
-        excerpt_quotes: [],
         faqs: [],
         reliability_score: DRAFT_RELIABILITY_SCORE,
         tags: Array.isArray(candidate.tags) ? candidate.tags.filter((t) => typeof t === 'string' && t.trim()) : [],
