@@ -16,6 +16,7 @@
     "refresh": "node scripts/refresh-entities.js",
     "research": "node scripts/research-entities.js",
     "summaries": "node scripts/generate-summaries.js",
+    "audit": "node scripts/audit-entities.js",
     "refresh:all": "npm run validate && npm run discover && npm run refresh && npm run research && npm run summaries && npm run validate"
   },
   "dependencies": {

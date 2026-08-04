@@ -299,3 +299,41 @@ Output ONLY the JSON object.`;
 
   return { system, prompt };
 }
+
+/**
+ * Asks the model to verify a single entity is still a live property under
+ * its stated loyalty-program brand -- the closure/rebrand side of catalogue
+ * integrity that discovery (new hotels) doesn't cover. Deliberately
+ * conservative: the wording pushes "uncertain" over a false "closed" so the
+ * audit never retires an operating hotel on thin evidence. Consumed by
+ * scripts/audit-entities.js, which only ever flags needs_review, never
+ * auto-archives.
+ */
+export function buildAuditPrompt({ siteConfig, entity }) {
+  const { entityLabelSingular } = siteConfig;
+  const facts = entity.core_facts ?? {};
+  const location = [facts.neighborhood, facts.city, facts.country].filter(Boolean).join(', ');
+  const brand = facts.brand_sub_brand ? ` (${facts.brand_sub_brand})` : '';
+
+  const system =
+    `You verify whether a specific ${entityLabelSingular} is still open and operating under its stated ` +
+    'loyalty-program brand. Be CONSERVATIVE: only report "closed_or_left" when you find clear, specific ' +
+    'evidence the property has permanently closed or no longer operates under that brand (rebranded to a ' +
+    'non-program operator, or removed from the brand). A pre-opening / under-construction property is NOT ' +
+    '"open" but is also NOT "closed_or_left" -- use "not_open" for those. If you cannot find clear evidence ' +
+    'either way, report "uncertain" -- never guess "closed_or_left" from a mere lack of information. Respond ' +
+    'with ONLY valid JSON -- no markdown, no commentary.';
+
+  const prompt = `${entityLabelSingular}: ${entity.name}${brand}
+${location ? `Location: ${location}\n` : ''}
+Search the web and determine this ${entityLabelSingular}'s CURRENT status. Is it open and bookable right now under the brand above? Look for: its official/brand page and whether it can be booked for near-future dates; recent (last ~12 months) first-hand guest stays; and any news of permanent closure, rebrand, ownership change, or still-under-construction status.
+
+Return a JSON object with:
+- status: one of "open" (operating and bookable now), "closed_or_left" (permanently closed OR no longer under this brand), "not_open" (pre-opening / under construction, not yet operating), or "uncertain" (no clear evidence either way).
+- detail (string, 1-2 sentences): what you found that supports the status.
+- source_url (string): a URL supporting the finding, or "" if none.
+
+Output ONLY the JSON object.`;
+
+  return { system, prompt };
+}

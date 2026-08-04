@@ -79,6 +79,13 @@ Goal: the weekly automation should **catch new AND closed/rebranded hotels** so 
 
 ---
 
+## Status
+
+- ✅ **WS3 done** — JW Marriott Bali Ubud confirmed NOT open (halted Payangan construction, ~2027); set `status: draft` (unpublished). Revisit when it actually opens.
+- ✅ **WS5 done** — `scripts/audit-entities.js` + `npm run audit` added and wired into `weekly-refresh.yml` (runs after summaries). Flags suspected closed/rebranded/not-open hotels as `needs_review` (never auto-archives); rate-limited by `sourceConfig.auditPerRunLimit`/`auditIntervalDays`.
+- ✅ **WS7 done** — dead/mis-calibrated `ReliabilityBadge.astro` removed. (Westin Siray Bay → Ritz monitoring still open.)
+- ⬜ Remaining: **WS1** (add 17 missing hotels), **WS2** (coverage backfill ~68), **WS4** (hotel-native research prompt so pipeline emits guest scores), **WS6** (affiliate monetization).
+
 ## Done in the 2026-08-04 session (for reference)
 - Guest quality score system: scored all 102, masthead + picks switched to it, reliability made internal. (commit 14cc097)
 - Weekly action retargeted to discover+build new hotels only (dropped refresh/listicles). (dc7c449)

@@ -1,14 +1,16 @@
 name: Weekly discovery (new hotels)
 
-# Grows the catalogue only: discovers NEW hotels on a schedule and builds a
-# page for each (discover -> research -> summaries), then commits. It
-# deliberately does NOT run the "refresh existing entities" maintenance pass,
-# so existing hotels -- including their hand-set guest scores -- are left
-# untouched. Research and summaries only act on entities that need them (the
-# newly discovered ones): research skips anything researched in the last
-# researchIntervalDays, and summaries only touches entities still carrying
-# the pending-summary placeholder. Supports a manual on-demand run from the
-# Actions tab.
+# Keeps the catalogue current: discovers NEW hotels and builds a page for
+# each (discover -> research -> summaries), then audits EXISTING hotels for
+# closures/rebrands (audit), then commits. It deliberately does NOT run the
+# "refresh existing entities" content-maintenance pass, so existing hotels --
+# including their hand-set guest scores -- keep their content untouched.
+# Research and summaries only act on newly discovered entities (research skips
+# anything researched within researchIntervalDays; summaries only touch the
+# pending-summary placeholder). The audit only ever stamps audit_last_checked
+# or flags a suspected-closed hotel as needs_review for a human -- it never
+# rewrites content and never auto-archives. Supports a manual on-demand run
+# from the Actions tab.
 #
 # Deviation from the races engine (see site.config.json's `notes` field --
 # this is a deliberate, explicit product decision for this vertical, not an
@@ -80,6 +82,18 @@ jobs:
         run: npm run summaries
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Audit existing hotels (closure / rebrand detection)
+        run: npm run audit
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        # Re-checks a rolling batch of published hotels still exist as live
+        # Bonvoy properties, and flags suspected closures/rebrands/pre-opening
+        # as needs_review for a human (never auto-archives). Rate-limited by
+        # sourceConfig.auditPerRunLimit / auditIntervalDays so the whole
+        # catalogue is swept ~monthly at flat weekly cost. This is the guard
+        # against the catalogue silently drifting (e.g. Le Meridien Sentosa,
+        # which left Marriott in 2020 but stayed listed for years).
 
       - name: Validate data (post-run)
         run: npm run validate

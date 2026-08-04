@@ -148,6 +148,9 @@ export const baseEntitySchema = z.object({
   // ISO date of the last web-research pass. Drives the re-research
   // interval, and is separate from last_updated (which any stage bumps).
   research_last_updated: z.string().min(1).optional(),
+  // ISO date audit-entities.js last verified this property still exists as a
+  // Marriott/Bonvoy hotel. Drives the audit cadence, independent of research.
+  audit_last_checked: z.string().min(1).optional(),
   faqs: z.array(faqSchema).default([]),
   reliability_score: z.number().min(0).max(100),
   tags: z.array(z.string().min(1)).default([]),
