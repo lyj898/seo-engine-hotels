@@ -1,0 +1,118 @@
+{
+  "entity_id": "marriott-executive-apartments-bangkok-townhall-sukhumvit",
+  "slug": "marriott-executive-apartments-bangkok-townhall-sukhumvit",
+  "name": "Marriott Executive Apartments, Bangkok Townhall Sukhumvit",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "Upscale long-stay Marriott Executive Apartments on leafy Sukhumvit 49 near Thong Lo, offering studios to three-bedroom penthouses with full kitchens, laundry and a resort-style pool.",
+  "ai_summary": "Opened in August 2024, Marriott Executive Apartments, Bangkok Townhall Sukhumvit is a 15-storey long-stay serviced-apartment property set on quiet Soi Sukhumvit 49, minutes from Thong Lo's bars, The Commons and the EmDistrict malls. Its 264 apartments and three penthouses (267 keys total) span studio to three-bedroom layouts, each with a full kitchen, hob, dishwasher, full-size fridge, washer/dryer and balcony, geared to executives and families settling in for weeks or months. Guests consistently praise the spacious, spotless, contemporary units, attentive and friendly staff, a large garden-framed outdoor pool, a 24-hour gym and the adjacent Townhall Lifestyle Park. On-site dining centres on Seva (Thai and international, with a well-liked breakfast buffet) plus the poolside Tree House lounge, and a complimentary shuttle links Thong Lo and Phrom Phong BTS. Reception is strong: TripAdvisor shows a 5.0 rating, ranking it roughly #20 of 1,384 Bangkok hotels across about 225 reviews. Watchouts are typical of a new, premium address: it is among the priciest MEAs in Bangkok, restaurant food can arrive lukewarm and unremarkable, and the soi is a 15-18 minute walk from the nearest BTS.",
+  "core_facts": {
+    "address": "88/8 Soi Sukhumvit 49, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Marriott Executive Apartments",
+    "neighborhood": "Sukhumvit 49 / Thong Lo",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Spacious, brand-new contemporary apartments with full kitchen, washer/dryer, dishwasher and balcony, ideal for long stays",
+    "Friendly, polite and genuinely helpful staff repeatedly singled out by guests",
+    "Resort-style garden pool, 24-hour gym, sauna and adjacent Townhall Lifestyle Park",
+    "Quiet Sukhumvit 49 setting close to Thong Lo, The Commons and the EmDistrict malls"
+  ],
+  "cons": [
+    "Among the most expensive Marriott Executive Apartments in Bangkok",
+    "Restaurant food can be lukewarm and unremarkable at dinner",
+    "About a 15-18 minute walk to the nearest BTS station (shuttle provided)"
+  ],
+  "research_highlights": [
+    "Consistent praise for spacious, immaculate, well-equipped apartments",
+    "Warm, attentive service noted across many guest reviews",
+    "Strong pool, gym and family-friendly long-stay facilities"
+  ],
+  "research_watchouts": [
+    "Premium pricing relative to other Bangkok serviced apartments",
+    "Inconsistent restaurant food quality / temperature"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Is Marriott Executive Apartments Townhall Sukhumvit good for long stays?",
+      "answer": "Yes. It is a dedicated Marriott Executive Apartments (long-stay) property where every unit has a full kitchen, hob, dishwasher, full-size fridge, washer/dryer and balcony, plus a pool, 24-hour gym and monthly rates, making it well suited to extended stays."
+    },
+    {
+      "question": "Where is the hotel and how far is the airport?",
+      "answer": "It sits on Soi Sukhumvit 49 in the Thong Lo area of Bangkok, near the EmDistrict malls. Suvarnabhumi Airport (BKK) is roughly a 35-minute drive (about 30 km), and a complimentary shuttle serves Thong Lo and Phrom Phong BTS stations."
+    },
+    {
+      "question": "When did it open?",
+      "answer": "The property opened in August 2024, making it one of Bangkok's newest Marriott Executive Apartments."
+    },
+    {
+      "question": "What dining is on site?",
+      "answer": "The main restaurant, Seva, serves Thai and international dishes and a breakfast buffet, complemented by the poolside Tree House lounge for light refreshments."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Marriott Executive Apartments, Bangkok Townhall Sukhumvit opens in the heart of Thai capital",
+        "source": "Great Travel Magazine",
+        "author": "gtcontentsteam",
+        "url": "https://greattravelmagazine.com/2024/08/08/marriott-executive-apartments-bangkok-townhall-sukhumvit-opens-in-the-heart-of-thai-capital/",
+        "published_date": "2024-08-08",
+        "summary": "Opening feature on the new Sukhumvit 49 long-stay property: 264 studio-to-three-bedroom apartments plus 175 sqm penthouses, dining at Seva and the poolside Tree House, a gym and outdoor pool, roughly 35 minutes from Suvarnabhumi."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Marriott Executive Apartments, Bangkok Townhall Sukhumvit",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=rzx-MNu24VM",
+        "video_id": "rzx-MNu24VM",
+        "published_date": "2025-08-01"
+      }
+    ]
+  },
+  "tags": ["sukhumvit", "serviced-apartments", "long-stay"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkts-marriott-executive-apartments-bangkok-townhall-sukhumvit/overview/",
+      "label": "Official Townhall Sukhumvit Marriott Executive Apartments overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d28150223-Reviews-Marriott_Executive_Apartments_Bangkok_Townhall_Sukhumvit-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkts-marriott-executive-apartments-bangkok-townhall-sukhumvit/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["marriott-executive-apartments-bangkok-sukhumvit-50", "sathorn-vista-bangkok-marriott-executive-apartments", "mayfair-bangkok-marriott-executive-apartments"],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      { "label": "Location", "score": 87 },
+      { "label": "Service", "score": 92 },
+      { "label": "Rooms", "score": 93 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}

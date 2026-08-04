@@ -1,0 +1,120 @@
+{
+  "entity_id": "sathorn-vista-bangkok-marriott-executive-apartments",
+  "slug": "sathorn-vista-bangkok-marriott-executive-apartments",
+  "name": "Sathorn Vista, Bangkok - Marriott Executive Apartments",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A long-stay Marriott Executive Apartments tower in Sathorn offering spacious one- to three-bedroom serviced residences with full kitchens and in-unit laundry, built for extended stays.",
+  "ai_summary": "Sathorn Vista is a Marriott Executive Apartments property, meaning it is a long-stay serviced residence rather than a standard hotel: guests book fully furnished one-, two- and three-bedroom apartments (roughly 65-165 sqm) with full kitchens, stainless-steel appliances, marble bathrooms and in-unit washer/dryers, supported by residential services and housekeeping. The 32-story tower sits just off South Sathorn Road in Bangkok's central business district, a quiet, residential pocket about a 10-15 minute walk from Sala Daeng BTS and Lumphini/Silom MRT. It carries a 4.0/5 TripAdvisor rating (ranked around #167 of 1,384 Bangkok hotels) and roughly 8.8/10 on booking platforms. Reviewers consistently praise the generous apartment size, the home-away-from-home feel for families and relocating expats, attentive staff, and amenities including an outdoor saltwater pool, 24-hour gym, sauna, kids' club and the MoMo Cafe restaurant; the property is also pet-friendly. Common criticisms note that finishes and furnishings feel dated in places, breakfast is fairly basic, and Wi-Fi and gym-equipment reliability can be inconsistent. It is best suited to multi-week or multi-month stays where space, kitchens and value outweigh boutique polish.",
+  "core_facts": {
+    "address": "1 Sathorn Soi 3, South Sathorn Road, Thung Maha Mek, Sathon, Bangkok 10120, Thailand",
+    "brand_sub_brand": "Marriott Executive Apartments",
+    "neighborhood": "Sathorn (near Soi Suan Plu / Yen Akat)",
+    "distance_from_airport_km": 31,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Large one- to three-bedroom apartments (65-165 sqm) with full kitchens, washer/dryers and separate living areas",
+    "Genuine home-away-from-home for families, relocating expats and long-stay business guests",
+    "Strong extended-stay amenities: saltwater pool, 24-hour gym, sauna, kids' club and pet-friendly policy",
+    "Good value for the space compared with standard Sathorn/Silom hotels"
+  ],
+  "cons": [
+    "Furnishings and finishes feel dated in places and could use modernizing",
+    "Breakfast is basic and inconsistent for the price point",
+    "Wi-Fi reliability and some gym/pool equipment maintenance can disappoint"
+  ],
+  "research_highlights": [
+    "Spacious, apartment-style residences ideal for longer stays",
+    "Attentive, professional staff and family-friendly atmosphere",
+    "Quiet residential setting within the Sathorn business district"
+  ],
+  "research_watchouts": [
+    "Aging decor and occasional maintenance/upkeep lapses",
+    "Nearest BTS/MRT stations are a 10-15 minute walk, not on the doorstep"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Is Sathorn Vista a hotel or a serviced apartment?",
+      "answer": "It is a Marriott Executive Apartments property, a long-stay serviced residence. Units are fully furnished one- to three-bedroom apartments with full kitchens, in-unit laundry and residential services, so it suits extended stays more than one-night hotel visits."
+    },
+    {
+      "question": "How far is it from Suvarnabhumi Airport and the nearest train stations?",
+      "answer": "It is roughly 31 km from Suvarnabhumi Airport (about 30-50 minutes by car depending on traffic). Sala Daeng BTS and Lumphini/Silom MRT stations are a 10-15 minute walk away."
+    },
+    {
+      "question": "Is it a good choice for families and long stays?",
+      "answer": "Yes. Guests consistently highlight the large apartments, full kitchens, kids' club, pool and gym, and pet-friendly policy, making it popular with families, relocating expats and business travelers on multi-week stays."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Sathorn Vista, Bangkok - Marriott Executive Apartments",
+        "source": "Milesopedia",
+        "author": "Jean-Maximilien Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/sathorn-vista-bangkok/",
+        "published_date": "2023-04-14",
+        "summary": "Detailed stay review praising spacious apartments with full kitchens, a good gym and kids-friendly pool, but flagging dated decor, unreliable Wi-Fi, a weak breakfast and some maintenance lapses; rated good value for long stays."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sathorn Vista, Bangkok Marriott Executive Apartments Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=8NMCLiU_310",
+        "video_id": "8NMCLiU_310",
+        "published_date": "2024-11-16"
+      },
+      {
+        "title": "Marriott Executive Apartments Sathorn Vista Review 🇹🇭 | Bangkok Extended Stay Guide",
+        "channel": "Travsight",
+        "url": "https://www.youtube.com/watch?v=JIXCThmejgE",
+        "video_id": "JIXCThmejgE"
+      }
+    ]
+  },
+  "tags": ["sathorn", "serviced-apartments", "long-stay"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkea-sathorn-vista-bangkok-marriott-executive-apartments/overview/",
+      "label": "Official Sathorn Vista Marriott Executive Apartments overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1226462-Reviews-Sathorn_Vista_Bangkok_Marriott_Executive_Apartments-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkea-sathorn-vista-bangkok-marriott-executive-apartments/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mayfair-bangkok-marriott-executive-apartments", "marriott-executive-apartments-bangkok-townhall-sukhumvit", "marriott-executive-apartments-bangkok-sukhumvit-park"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 85 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 85 },
+      { "label": "Food & breakfast", "score": 75 },
+      { "label": "Value", "score": 87 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}

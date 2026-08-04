@@ -86,7 +86,8 @@ Goal: the weekly automation should **catch new AND closed/rebranded hotels** so 
 - ✅ **WS7 done** — dead/mis-calibrated `ReliabilityBadge.astro` removed. (Westin Siray Bay → Ritz monitoring still open.)
 - ✅ **WS4 done** — `scripts/lib/prompts.js` research + summary prompts rewritten hotel-native and now emit `sentiment_scores` with the fixed 5-cat breakdown (`HOTEL_SCORE_LABELS`); `research-entities.js` gained a `--force` flag. So the pipeline now scores new hotels automatically. NOTE: existing 102 hand-set scores are still protected by research-entities.js's null-fallback, but a **forced** re-research WILL now overwrite them — decide before running `npm run research -- --force` broadly.
 - ✅ **Coverage toolkit committed** — `scripts/coverage/` (verify + insert PS scripts + README with the subagent prompt) makes WS2 repeatable.
-- ⬜ Remaining: **WS1** (add 17 missing hotels), **WS2** (coverage backfill ~68 — use `scripts/coverage/`), **WS6** (affiliate monetization).
+- 🚧 **WS1 in progress** — Bangkok **5/5 done** (2026-08-04): `courtyard-bangkok-ratchadamri`, `public-house-bangkok-design-hotels`, `sathorn-vista-bangkok-marriott-executive-apartments`, `marriott-executive-apartments-bangkok-townhall-sukhumvit`, `mayfair-bangkok-marriott-executive-apartments` — full entities incl. hand-judged guest scores + **verified external_coverage** (oEmbed gate passed). Catalogue 102 → 107. Remaining WS1: **Singapore 5, KL 5, Bali 2** (12 hotels).
+- ⬜ Remaining: **WS1** (12 hotels: SG 5 / KL 5 / Bali 2), **WS2** (coverage backfill ~68 — use `scripts/coverage/`), **WS6** (affiliate monetization).
 
 ## Done in the 2026-08-04 session (for reference)
 - Guest quality score system: scored all 102, masthead + picks switched to it, reliability made internal. (commit 14cc097)

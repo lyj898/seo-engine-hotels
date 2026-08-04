@@ -1,0 +1,137 @@
+{
+  "entity_id": "courtyard-bangkok-ratchadamri",
+  "slug": "courtyard-bangkok-ratchadamri",
+  "name": "Courtyard by Marriott Bangkok",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "A 316-room select-service Courtyard on a quiet lane off Ratchadamri Road in central Bangkok, a short walk from BTS Skytrain and the CentralWorld shopping district.",
+  "ai_summary": "Courtyard by Marriott Bangkok is a 316-room, select-service hotel that opened in 2013 on Soi Mahadlekluang, a tucked-away lane off Ratchadamri Road in Bangkok's central Ratchaprasong shopping district. Positioned as Marriott's mid-tier brand, it is rated 4 of 5 on TripAdvisor across more than 4,800 reviews. Guests consistently praise the location -- a five-minute walk to Ratchadamri BTS and within reach of CentralWorld, Siam Paragon and Lumphini Park, backed by a free tuk-tuk shuttle to nearby Skytrain stations. Reviewers repeatedly single out attentive, polite staff and an unusually generous MoMo Cafe breakfast buffet that several rate above expectations for the brand. Renovated rooms with marble bathrooms, dark-wood furnishings and soundproofed windows are called comfortable and clean, though some note they are not the most spacious, especially with large luggage. The main watchouts are the lack of an executive lounge -- Bonvoy elites are instead given evening vouchers at the cafe -- and a location down a side soi that some find slightly removed from the main-street bustle. Overall it reads as a dependable, good-value city-break base rather than a resort-style property.",
+  "core_facts": {
+    "address": "155/1 Soi Mahadlekluang 1, Ratchadamri Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Courtyard by Marriott",
+    "neighborhood": "Ratchadamri / Pathum Wan",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Central Ratchaprasong location, a short walk to Ratchadamri BTS, CentralWorld and Lumphini Park",
+    "Free complimentary tuk-tuk shuttle to nearby BTS Skytrain stations",
+    "Attentive, polite and professional service noted across many reviews",
+    "Generous, high-quality MoMo Cafe breakfast buffet praised above brand norms"
+  ],
+  "cons": [
+    "Rooms are comfortable but some find them not especially spacious",
+    "No executive lounge; Bonvoy elites receive cafe vouchers instead",
+    "Tucked down a side soi, a little removed from the main road"
+  ],
+  "research_highlights": [
+    "Excellent central location with easy BTS and shopping access",
+    "Friendly, helpful staff and reliable Marriott service",
+    "Standout breakfast buffet for a select-service hotel"
+  ],
+  "research_watchouts": [
+    "Room size can feel tight for some guests",
+    "No dedicated lounge for elite members"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "How do I get to the BTS Skytrain from the hotel?",
+      "answer": "Ratchadamri BTS station is about a five-minute walk away. The hotel also runs a complimentary tuk-tuk shuttle to Ratchadamri and Chit Lom BTS stations and CentralWorld during daytime hours."
+    },
+    {
+      "question": "Is the breakfast worth it?",
+      "answer": "Yes. The MoMo Cafe buffet is a recurring highlight in reviews, with Western, Thai and international dishes plus made-to-order items. Several guests rate it as generous and above expectations for a Courtyard property."
+    },
+    {
+      "question": "Does the hotel have an executive lounge?",
+      "answer": "No, there is no separate executive lounge. Marriott Bonvoy Platinum and above members are typically given vouchers to use at the MoMo Cafe restaurant in the evening instead."
+    },
+    {
+      "question": "How far is the hotel from Suvarnabhumi Airport?",
+      "answer": "It is roughly 30 km from Suvarnabhumi (BKK) Airport, generally 40 to 60 minutes by taxi depending on traffic. Don Mueang Airport is farther to the north."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Courtyard by Marriott Bangkok is the Quintessential City Break Hotel",
+        "source": "City Nomads",
+        "author": "Jessica Chan",
+        "url": "https://citynomads.com/hotel-review-courtyard-by-marriott-bangkok-is-the-quintessential-city-break-hotel/",
+        "published_date": "2019-06-24",
+        "summary": "Calls the Ratchadamri hotel a fuss-free city-break base, praising its walkable location near the Erawan Shrine and malls, warm dark-wood rooms with marble baths, a pool with bar, and MoMo Cafe's Thai-European menu."
+      },
+      {
+        "title": "Courtyard Marriott Bangkok Review",
+        "source": "The Brief Review",
+        "author": "AB",
+        "url": "https://thebriefreview.com/courtyard-marriott-bangkok-review-bangkok-thailand/",
+        "published_date": "2025-02-07",
+        "summary": "Rates the hotel great value as a mid-range Marriott, praising attentive staff and a standout MoMo Cafe breakfast, but flags that rooms are well-appointed yet not the most spacious for larger luggage."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Courtyard Marriott Bangkok Room Tour & Review",
+        "channel": "The Brief Review",
+        "url": "https://www.youtube.com/watch?v=enyPL5XPujg",
+        "video_id": "enyPL5XPujg"
+      },
+      {
+        "title": "Courtyard Marriott Bangkok Hotel Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=CRuCqKuY1_0",
+        "video_id": "CRuCqKuY1_0"
+      },
+      {
+        "title": "Courtyard Marriott - Full Room Tour",
+        "channel": "Nick Gray",
+        "url": "https://www.youtube.com/watch?v=qYJiEZgXLqo",
+        "video_id": "qYJiEZgXLqo"
+      }
+    ]
+  },
+  "tags": ["ratchadamri", "select-service", "shopping-district"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkcy-courtyard-bangkok/overview/",
+      "label": "Official Courtyard by Marriott Bangkok overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d657774-Reviews-Courtyard_by_Marriott_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkcy-courtyard-bangkok/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["courtyard-bangkok-sukhumvit-20", "moxy-bangkok-ratchaprasong", "renaissance-bangkok-ratchaprasong"],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 91 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 87 },
+      { "label": "Value", "score": 85 }
+    ]
+  },
+  "reliability_score": 66,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}

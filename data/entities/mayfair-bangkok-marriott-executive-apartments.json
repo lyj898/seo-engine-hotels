@@ -1,0 +1,127 @@
+{
+  "entity_id": "mayfair-bangkok-marriott-executive-apartments",
+  "slug": "mayfair-bangkok-marriott-executive-apartments",
+  "name": "Mayfair, Bangkok - Marriott Executive Apartments",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bangkok",
+  "short_description": "Long-stay serviced apartments on Langsuan Road in central Bangkok, a short walk from Lumphini Park and Chit Lom BTS, offering one- to three-bedroom suites with full kitchens.",
+  "ai_summary": "Mayfair, Bangkok is a Marriott Executive Apartments property, a long-stay serviced-apartment format aimed at families and relocating professionals rather than short-break tourists. Set on quiet Soi Langsuan in Pathum Wan, it sits within a 7-10 minute walk of Chit Lom BTS, Ratchadamri BTS and Lumphini Park, with Central Chidlom and CentralWorld shopping close by. The 162 units span one-, two- and three-bedroom apartments roughly 54-186 sqm, each with a fully equipped kitchen, washer/dryer, work desk and separate living and dining areas. A 25th-floor saltwater rooftop pool with a pool bar, a 24-hour fitness centre, spa, kids' area and the Bistro M restaurant round out the amenities. Independent reviews and TripAdvisor feedback (rated around 4.5/5 and consistently ranking among Bangkok's better-reviewed stays) repeatedly praise spacious, well-serviced apartments, warm and attentive front-desk staff, and strong value for extended stays. Common watchouts are dated decor in some units, uninspiring city-office views from lower floors, and the loyalty caveat that Executive Apartments earn reduced Marriott Bonvoy points and night credits versus standard hotels. Overall it reads as a reliable, homely base for anyone spending a week or more in central Bangkok.",
+  "core_facts": {
+    "address": "60 Langsuan Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Marriott Executive Apartments",
+    "neighborhood": "Langsuan / Lumphini (Pathum Wan)",
+    "distance_from_airport_km": 35,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Spacious apartments with full kitchens, washer/dryer and separate living areas, well suited to families and long stays",
+    "Central Langsuan location within a short walk of Lumphini Park, Chit Lom and Ratchadamri BTS, and major malls",
+    "Warm, attentive service with quick check-in and helpful front-desk staff repeatedly noted in reviews",
+    "25th-floor saltwater rooftop pool, 24-hour gym and on-site dining add hotel-grade amenities"
+  ],
+  "cons": [
+    "Decor and furnishings in some apartments feel dated and could use refreshing",
+    "Lower-floor units can look onto neighbouring office buildings rather than open views",
+    "As a Marriott Executive Apartments brand it earns reduced Bonvoy points and night credit versus standard hotels"
+  ],
+  "research_highlights": [
+    "Consistently praised as spacious and family-friendly with home-like kitchens",
+    "Attentive, friendly staff and smooth service",
+    "Strong value and prime, walkable central location"
+  ],
+  "research_watchouts": [
+    "Somewhat dated interiors in parts of the property",
+    "Limited views from lower floors and reduced loyalty earning"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Is Mayfair, Bangkok a hotel or a serviced apartment?",
+      "answer": "It is a Marriott Executive Apartments property, meaning long-stay serviced apartments with full kitchens, washer/dryers and living areas, backed by hotel-style services such as housekeeping, a front desk, a pool and a fitness centre."
+    },
+    {
+      "question": "How far is it from the BTS Skytrain and Lumphini Park?",
+      "answer": "The apartments sit on Langsuan Road, roughly a 7-10 minute walk from Chit Lom and Ratchadamri BTS stations and about the same walk to Lumphini Park, with Central Chidlom and CentralWorld shopping nearby."
+    },
+    {
+      "question": "What apartment sizes are available?",
+      "answer": "One-, two- and three-bedroom apartments ranging roughly from 54 to about 186 square metres, each with a fully equipped kitchen, dedicated work area and multiple bathrooms in the larger layouts."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Mayfair, Bangkok - Marriott Executive Apartments Review: What To REALLY Expect If You Stay",
+        "source": "Oyster.com",
+        "url": "https://www.oyster.com/bangkok/hotels/mayfair-bangkok-marriott-executive-apartments/",
+        "published_date": "",
+        "summary": "Independent review site rates it a strong pick for families wanting serviced apartments with hotel amenities: rooftop saltwater pool, roomy kitchens, gym and kids' club. Flags dated decor and Wi-Fi fees for non-members."
+      },
+      {
+        "title": "[Accommodation Review] - Mayfair Bangkok - Marriott Executive Apartments (2 Bedroom Suite)",
+        "source": "Zephyrous Travels",
+        "author": "kktong76",
+        "url": "https://zephyroustravels.com/2016/12/19/hotel-review-mayfair-bangkok-marriott-executive-apartments-2-bedroom-suite-bangkok-thailand-9-11-dec-16/",
+        "published_date": "2016-12-19",
+        "summary": "Blogger review of a spacious 100 sqm two-bedroom suite with full kitchen and quality bedding. Praises warm service, varied breakfast and the 25th-floor pool; downsides: odd master-bedroom TV placement, office outlook and a walk to the BTS."
+      },
+      {
+        "title": "Mayfair, Bangkok - Marriott Executive Apartments",
+        "source": "Savour BlackBookAsia",
+        "url": "https://savourblackbookasia.com/mayfair-bangkok-marriott-executive-apartments/",
+        "published_date": "2018-11-01",
+        "summary": "Lifestyle feature on the central-yet-quiet Langsuan setting near the BTS and nightlife: a saltwater rooftop pool, spacious one-bedroom suites with leather sofas and full kitchens, plus casual dining at Bistro M and the Sky Pool Bar."
+      }
+    ],
+    "videos": [
+      {
+        "title": "MARRIOTT EXECUTIVE APARTMENTS MAYFAIR BANGKOK",
+        "channel": "Hotels in Asia",
+        "url": "https://www.youtube.com/watch?v=5I3nnJJPIB4",
+        "video_id": "5I3nnJJPIB4"
+      }
+    ]
+  },
+  "tags": ["langsuan", "serviced-apartments", "long-stay"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkker-mayfair-bangkok-marriott-executive-apartments/overview/",
+      "label": "Official Mayfair Bangkok Marriott Executive Apartments overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d299780-Reviews-Mayfair_Bangkok_Marriott_Executive_Apartments-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkker-mayfair-bangkok-marriott-executive-apartments/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["marriott-executive-apartments-bangkok-sukhumvit-park", "sathorn-vista-bangkok-marriott-executive-apartments", "marriott-executive-apartments-bangkok-townhall-sukhumvit"],
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 91 },
+      { "label": "Rooms", "score": 85 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 88 }
+    ]
+  },
+  "reliability_score": 59,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}
