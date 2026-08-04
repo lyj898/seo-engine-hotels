@@ -1,8 +1,14 @@
-name: Weekly data refresh
+name: Weekly discovery (new hotels)
 
-# Runs the discover -> refresh -> summaries pipeline on a schedule (matching
-# site.config.json's sourceConfig.refreshIntervalDays: 7), plus supports a
-# manual on-demand run from the Actions tab.
+# Grows the catalogue only: discovers NEW hotels on a schedule and builds a
+# page for each (discover -> research -> summaries), then commits. It
+# deliberately does NOT run the "refresh existing entities" maintenance pass,
+# so existing hotels -- including their hand-set guest scores -- are left
+# untouched. Research and summaries only act on entities that need them (the
+# newly discovered ones): research skips anything researched in the last
+# researchIntervalDays, and summaries only touches entities still carrying
+# the pending-summary placeholder. Supports a manual on-demand run from the
+# Actions tab.
 #
 # Deviation from the races engine (see site.config.json's `notes` field --
 # this is a deliberate, explicit product decision for this vertical, not an
@@ -59,11 +65,6 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Refresh existing entities
-        run: npm run refresh
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-
       - name: Research entities on the web
         run: npm run research
         env:
@@ -80,20 +81,9 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
-      - name: Generate Best Of guides
-        run: npm run listicles
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        # Creates a guide for any category x country combination that has
-        # crossed the minimum-entries threshold since last week. New guides
-        # land as status: draft -- draft is not published per isPublished()
-        # semantics, so even though this workflow auto-commits to main, a
-        # new listicle stays invisible on the live site until someone
-        # manually flips it to active. Existing guides are never overwritten.
-
       - name: Validate data (post-run)
         run: npm run validate
-        # If discover/refresh/summaries produced anything schema-invalid,
+        # If discover/research/summaries produced anything schema-invalid,
         # duplicate, or cross-reference-broken, fail the whole job here.
         # No PR gets opened from a run that ends in known-bad data -- you'll
         # see a red X in Actions instead, which is the correct failure mode.
@@ -113,7 +103,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git commit -m "chore(data): weekly refresh (discover + refresh + summaries) [automated]"
+          git commit -m "chore(data): weekly discover + build new hotels [automated]"
           git push origin HEAD:main
         # Both pre- and post-run `npm run validate` passed at this point, so
         # every changed file is schema-valid and cross-reference-clean --
