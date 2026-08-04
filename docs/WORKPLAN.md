@@ -84,7 +84,9 @@ Goal: the weekly automation should **catch new AND closed/rebranded hotels** so 
 - ✅ **WS3 done** — JW Marriott Bali Ubud confirmed NOT open (halted Payangan construction, ~2027); set `status: draft` (unpublished). Revisit when it actually opens.
 - ✅ **WS5 done** — `scripts/audit-entities.js` + `npm run audit` added and wired into `weekly-refresh.yml` (runs after summaries). Flags suspected closed/rebranded/not-open hotels as `needs_review` (never auto-archives); rate-limited by `sourceConfig.auditPerRunLimit`/`auditIntervalDays`.
 - ✅ **WS7 done** — dead/mis-calibrated `ReliabilityBadge.astro` removed. (Westin Siray Bay → Ritz monitoring still open.)
-- ⬜ Remaining: **WS1** (add 17 missing hotels), **WS2** (coverage backfill ~68), **WS4** (hotel-native research prompt so pipeline emits guest scores), **WS6** (affiliate monetization).
+- ✅ **WS4 done** — `scripts/lib/prompts.js` research + summary prompts rewritten hotel-native and now emit `sentiment_scores` with the fixed 5-cat breakdown (`HOTEL_SCORE_LABELS`); `research-entities.js` gained a `--force` flag. So the pipeline now scores new hotels automatically. NOTE: existing 102 hand-set scores are still protected by research-entities.js's null-fallback, but a **forced** re-research WILL now overwrite them — decide before running `npm run research -- --force` broadly.
+- ✅ **Coverage toolkit committed** — `scripts/coverage/` (verify + insert PS scripts + README with the subagent prompt) makes WS2 repeatable.
+- ⬜ Remaining: **WS1** (add 17 missing hotels), **WS2** (coverage backfill ~68 — use `scripts/coverage/`), **WS6** (affiliate monetization).
 
 ## Done in the 2026-08-04 session (for reference)
 - Guest quality score system: scored all 102, masthead + picks switched to it, reliability made internal. (commit 14cc097)

@@ -58,12 +58,14 @@ function argValue(name, fallback) {
   const parsed = Number(process.argv[i + 1]);
   return Number.isFinite(parsed) ? parsed : fallback;
 }
+const hasFlag = (name) => process.argv.includes(`--${name}`);
 
 async function run() {
   const { verticalKey, sourceConfig } = siteConfig;
   const entitySchema = getEntitySchema(verticalKey);
   const intervalDays = sourceConfig?.researchIntervalDays ?? 90;
   const limit = argValue('limit', sourceConfig?.researchPerRunLimit ?? 25);
+  const force = hasFlag('force');
 
   const raw = loadEntities();
   const stats = { considered: 0, researched: 0, skippedFresh: 0, noMaterial: 0, failed: 0, invalidSkipped: 0 };
@@ -81,7 +83,7 @@ async function run() {
     const entity = stripMeta(item);
     stats.considered++;
     const lastResearched = entity.research_last_updated;
-    if (lastResearched && daysBetween(lastResearched, today()) < intervalDays) {
+    if (!force && lastResearched && daysBetween(lastResearched, today()) < intervalDays) {
       stats.skippedFresh++;
       continue;
     }
@@ -91,7 +93,7 @@ async function run() {
 
   console.log(
     `[research-entities] ${stats.considered} published, ${stats.skippedFresh} still fresh ` +
-      `(< ${intervalDays} days), researching ${queue.length} this run (limit ${limit}).`
+      `(< ${intervalDays} days), researching ${queue.length} this run (limit ${limit}${force ? ', --force' : ''}).`
   );
 
   for (const item of queue) {

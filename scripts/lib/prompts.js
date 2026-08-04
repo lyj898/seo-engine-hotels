@@ -215,34 +215,42 @@ Output ONLY the JSON object.`;
   return { system, prompt };
 }
 
+// Fixed guest-score breakdown for hotels, in display order. Both the research
+// and summary prompts request EXACTLY these labels so every entity's
+// sentiment_scores.breakdown is comparable and the detail page renders a
+// consistent set of bars.
+const HOTEL_SCORE_LABELS = '"Location", "Service", "Rooms", "Food & breakfast", "Value"';
+
 export function buildResearchPrompt({ siteConfig, entity }) {
   const { entityLabelSingular } = siteConfig;
   const facts = entity.core_facts ?? {};
-  const location = [facts.city, facts.country].filter(Boolean).join(', ');
+  const location = [facts.neighborhood, facts.city, facts.country].filter(Boolean).join(', ');
+  const brand = facts.brand_sub_brand ? ` (${facts.brand_sub_brand})` : '';
 
   const system =
-    `You are a research assistant gathering first-hand public commentary about a specific ${entityLabelSingular} ` +
-    `for a directory listing. Search the web and read what participants, reviewers and reporters have actually ` +
-    `written. ${NO_INVENTION_RULE} Every quote you return must be something you genuinely found at a URL you ` +
-    'can cite -- never compose, paraphrase into quotation marks, or reconstruct a plausible-sounding review. ' +
-    'Returning an empty list is the correct answer when the web has nothing substantive to say. Respond with ' +
-    'ONLY valid JSON -- no markdown code fences, no commentary.';
+    `You are a research assistant gathering first-hand guest commentary about a specific ${entityLabelSingular} ` +
+    'for a directory listing. Search the web and read what real guests, reviewers and travel writers have ' +
+    `actually written -- reviews, blog stay reports, forum threads. ${NO_INVENTION_RULE} Ground every point in ` +
+    'what you genuinely found; never invent a detail or a score. Returning empty arrays / null is the correct ' +
+    'answer when the web has nothing substantive to say. Respond with ONLY valid JSON -- no markdown, no commentary.';
 
-  const prompt = `${entityLabelSingular}: ${entity.name}
-${location ? `Location: ${location}\n` : ''}${facts.date ? `Date: ${facts.date}\n` : ''}${facts.organizer ? `Organizer: ${facts.organizer}\n` : ''}
-Search for what people say about this ${entityLabelSingular} -- participant race reports, reviews, news coverage, ` +
-    `running-community discussion. Prioritise recent editions of this same event.
+  const prompt = `${entityLabelSingular}: ${entity.name}${brand}
+${location ? `Location: ${location}\n` : ''}
+Search for what guests actually say about this ${entityLabelSingular} -- recent reviews and stay reports across the web. Focus on the lived experience: location and getting around, service and staff, rooms and cleanliness, food and breakfast, and value for money.
 
 Return a JSON object with:
 
-- highlights (array of 0-5 short strings): concrete, useful things a prospective participant should know, ` +
-    `each grounded in what you found (e.g. course profile, weather at that time of year, cut-off times, ` +
-    `logistics). Not marketing language.
-- watchouts (array of 0-4 short strings): genuine caveats reported by participants.
-- sentiment_scores (object {"overall": number 0-100, "breakdown": [{"label": string, "score": number 0-100}]} ` +
-    `or null): only if you found enough opinion to justify it. Use null rather than guessing. Breakdown labels ` +
-    `should reflect what people actually commented on.
-- research_confidence ("high" | "medium" | "low"): how much substantive material you actually found.
+- highlights (array of 0-5 short strings): concrete things guests consistently praise, grounded in what you found ` +
+    `(e.g. "Staff remember returning guests by name", "Rooftop pool with bay views"). Not marketing language.
+- watchouts (array of 0-4 short strings): genuine, recurring caveats guests report (e.g. "Breakfast gets ` +
+    `crowded with long waits", "Some rooms feel dated").
+- sentiment_scores (object or null): a guest-quality read. Shape {"overall": number 0-100, "breakdown": ` +
+    `[{"label": string, "score": number 0-100}, ...]}. Use EXACTLY these five breakdown labels, in this order: ` +
+    `${HOTEL_SCORE_LABELS}. Base each score on what guests actually report; make "overall" a holistic read (not ` +
+    `necessarily the mean). PRODUCE this whenever you found a reasonable body of guest opinion -- use null only ` +
+    `if the web genuinely has almost nothing to say. Let research_confidence carry your uncertainty rather than ` +
+    `withholding the score.
+- research_confidence ("high" | "medium" | "low"): how much substantive guest material you actually found.
 
 Output ONLY the JSON object.`;
 
@@ -253,15 +261,14 @@ export function buildSummaryPrompt({ siteConfig, entity }) {
   const { entityLabelSingular } = siteConfig;
 
   const system =
-    `You are writing the listing copy for one ${entityLabelSingular} on a directory site. Write for someone ` +
-    `deciding whether this is right for them -- not for someone auditing your sources. ${NO_INVENTION_RULE} ` +
-    'Ground every sentence strictly in the material given below; do not add outside knowledge even if you ' +
-    "believe it to be true.\n\n" +
-    'Style rules: never describe the listing process itself. Do not mention verification, sources, ' +
-    'aggregators, refresh schedules, confidence, or "as of the last check" -- a reader came for the ' +
-    `${entityLabelSingular}, not for how the page was assembled. Never state that something is unknown, ` +
-    'unannounced or pending; simply leave it out. Lead with what is distinctive rather than restating the ' +
-    'name, date and location in order. Respond with ONLY valid JSON -- no markdown code fences, no commentary.';
+    `You are writing the listing copy for one ${entityLabelSingular} on a directory site. Write for a traveller ` +
+    `deciding whether to book -- not for someone auditing your sources. ${NO_INVENTION_RULE} Ground every ` +
+    'sentence strictly in the material given below; do not add outside knowledge even if you believe it true.\n\n' +
+    'Style rules: never describe the listing process itself. Do not mention verification, sources, aggregators, ' +
+    'refresh schedules, confidence, or "as of the last check" -- a reader came for the hotel, not for how the ' +
+    'page was assembled. Never state that something is unknown, unannounced or pending; simply leave it out. ' +
+    'Lead with what is distinctive rather than restating name and location in order. Respond with ONLY valid ' +
+    'JSON -- no markdown code fences, no commentary.';
 
   const highlightsBlock = entity.research_highlights?.length > 0 ? entity.research_highlights.map((h) => `- ${h}`).join('\n') : '(none available)';
   const watchoutsBlock = entity.research_watchouts?.length > 0 ? entity.research_watchouts.map((w) => `- ${w}`).join('\n') : '(none available)';
@@ -270,30 +277,32 @@ export function buildSummaryPrompt({ siteConfig, entity }) {
 Tags: ${(entity.tags ?? []).join(', ') || '(none)'}
 core_facts: ${JSON.stringify(entity.core_facts)}
 
-Reported highlights:
+Reported guest highlights:
 ${highlightsBlock}
 
-Reported watchouts:
+Reported guest watchouts:
 ${watchoutsBlock}
 
 Using ONLY the information above, produce a JSON object with:
 
-- ai_summary (string, 2-4 sentences, roughly 40-90 words): what this ${entityLabelSingular} is actually like. ` +
-    `Where research material exists, lead with it -- terrain, conditions, atmosphere, how it's run -- and treat ` +
-    `the structured facts as supporting detail. Where there is no research material, write a plain factual ` +
-    `overview from the facts and keep it short rather than padding it.
+- ai_summary (string, 2-4 sentences, roughly 40-90 words): what this ${entityLabelSingular} is actually like to ` +
+    `stay at. Where guest research exists, lead with it -- location and neighbourhood, service, rooms, dining, ` +
+    `atmosphere -- and treat the structured facts as supporting detail. Where there is no research material, ` +
+    `write a plain factual overview from the facts and keep it short rather than padding it.
 - short_description (string, one sentence, under 220 characters): a direct-answer opening line.
-- pros (array of 2-5 short strings): concrete positives. Prefer ones drawn from reported experience over ones ` +
-    `restating a fact (e.g. "Flat, fast course along the river" beats "Offers a full marathon distance").
-- cons (array of 1-4 short strings): genuine caveats a participant would want warned about, drawn from the ` +
-    `watchouts and quotes. Return an empty array rather than inventing one, and never use "registration ` +
-    `details not yet announced" or similar as a con -- missing information is not a drawback.
-- faqs (array of 2-4 objects, each {"question": string, "answer": string}): questions someone would genuinely ` +
-    `search for about this ${entityLabelSingular}, each answer a direct 40-60 word response. Prefer questions ` +
-    `the research material can actually answer ("Is the course hilly?", "How hot does it get?") over ones that ` +
-    `just restate the facts back.
-- sentiment_scores (object {"overall": number 0-100, "breakdown": [{"label": string, "score": number 0-100}]}, ` +
-    `or null): only if the highlights and watchouts above actually convey opinion. Use null rather than guessing.
+- pros (array of 2-5 short strings): concrete positives, drawn from reported guest experience over restating a ` +
+    `fact (e.g. "Walkable to the bay and the convention centre" beats "Located in the Marina district").
+- cons (array of 1-4 short strings): genuine caveats a guest would want warned about, drawn from the watchouts. ` +
+    `Return an empty array rather than inventing one, and never use "details not yet announced" or similar as a ` +
+    `con -- missing information is not a drawback.
+- faqs (array of 2-4 objects, each {"question": string, "answer": string}): questions a traveller would ` +
+    `genuinely search about this ${entityLabelSingular}, each answer a direct 40-60 word response. Prefer ` +
+    `questions the research can answer ("Is breakfast worth it?", "How far is it from the airport?") over ones ` +
+    `that just restate the facts.
+- sentiment_scores (object or null): a guest-quality read. Shape {"overall": number 0-100, "breakdown": ` +
+    `[{"label": string, "score": number 0-100}, ...]} using EXACTLY these five labels, in this order: ` +
+    `${HOTEL_SCORE_LABELS}. Produce it whenever the highlights/watchouts convey real guest opinion; use null ` +
+    `only if there is genuinely nothing to base it on.
 
 Output ONLY the JSON object.`;
 
