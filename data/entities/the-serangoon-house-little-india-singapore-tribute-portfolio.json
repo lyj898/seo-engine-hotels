@@ -1,0 +1,123 @@
+{
+  "entity_id": "the-serangoon-house-little-india-singapore-tribute-portfolio",
+  "slug": "the-serangoon-house-little-india-singapore-tribute-portfolio",
+  "name": "The Serangoon House Little India, Singapore, a Tribute Portfolio Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A 90-room boutique Tribute Portfolio hotel on Serangoon Road in Little India, styled in lavish Indo-colonial decor with signature double-tiered canopy beds and Indian dining.",
+  "ai_summary": "The Serangoon House is an intimate 90-room boutique hotel that opened in 2023 on the historic stretch of Serangoon Road in the heart of Little India, three minutes' walk from Farrer Park MRT. It carries an approximate 4.0 of 5 TripAdvisor rating, and reviews are genuinely polarized. Guests consistently praise the theatrical Indo-colonial design, with hand-painted wallpaper, porcelain chandeliers, marble mosaic flooring and bespoke double-tiered canopy (bunk) beds, plus the vibrant, walkable location among Little India's temples, shops and hawker food. Bloggers repeatedly flag it as one of the cheapest Marriott Bonvoy free-night redemptions in an expensive city, making it strong value for points travelers and families of up to four. The trade-offs are real: rooms are compact (around 18 sqm), the signature bunk beds obstruct the TV and feel cramped for some, bathrooms are tight, and there is no pool or gym. Service is friendly and often greets guests by name, but reviewers note inconsistent housekeeping follow-through, weak breakfast coffee, and limited amenities. Dining centers on the Gup Shup restaurant serving Indian and Western fare. Best for design-minded, independent travelers who value location and character over resort facilities.",
+  "core_facts": {
+    "address": "301 Serangoon Road, Singapore 218224",
+    "brand_sub_brand": "Tribute Portfolio",
+    "neighborhood": "Little India / Serangoon Road",
+    "distance_from_airport_km": 18,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Striking, characterful Indo-colonial interior design unlike any other Marriott property",
+    "Prime, walkable Little India location three minutes from Farrer Park MRT",
+    "Excellent value, frequently cited as the cheapest Bonvoy points redemption in Singapore",
+    "Family-friendly canopy/bunk beds sleeping up to four"
+  ],
+  "cons": [
+    "Compact rooms (~18 sqm) with tight bathrooms; bunk beds obstruct the TV",
+    "No pool, gym, or executive lounge on site",
+    "Inconsistent service touches and weak breakfast coffee"
+  ],
+  "research_highlights": [
+    "Opened 2023 as an intimate 90-room Tribute Portfolio boutique in the heart of Little India",
+    "Points bloggers repeatedly rank it the best-value / cheapest Bonvoy free-night hotel in Singapore",
+    "Distinctive design: hand-painted wallpaper, porcelain chandeliers, marble mosaics, canopy bunk beds"
+  ],
+  "research_watchouts": [
+    "Guest sentiment is sharply split; recent TripAdvisor reviews include harsh complaints about tiny rooms and bathrooms",
+    "No pool or gym and reports of quirky payment handling and inconsistent housekeeping"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Does The Serangoon House have a pool or gym?",
+      "answer": "No. The hotel is an intimate boutique property with no on-site pool, gym, or executive lounge. Guests trade resort facilities for a central Little India location, distinctive design, and strong value."
+    },
+    {
+      "question": "How far is the hotel from Changi Airport and the nearest MRT?",
+      "answer": "The Serangoon House sits at 301 Serangoon Road, roughly 18 km (about 25 to 35 minutes by car) from Singapore Changi Airport, and just a three-minute walk from Farrer Park MRT on the North East Line."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "The Serangoon House, Singapore, a Tribute Portfolio Hotel [In-Depth Review]",
+        "source": "Upgraded Points",
+        "author": "Ryan Smith",
+        "url": "https://upgradedpoints.com/travel/hotels/the-serangoon-house-singapore-review/",
+        "published_date": "2025-01-24",
+        "summary": "Detailed points-redemption review of a suite with bunk-style beds. Praises the Little India location and free-night value; notes a compact bathroom, inconsistent service, limited breakfast and no pool or gym. Would stay again."
+      },
+      {
+        "title": "[Hotel Review] The Serangoon House, Singapore, A Tribute Portfolio Hotel",
+        "source": "Satu Kosong Travels",
+        "author": "Satu Kosong",
+        "url": "https://10satukosong.wpcomstaging.com/2023/02/13/hotel-review-the-serangoon-house-singapore-a-tribute-portfolio-hotel/",
+        "published_date": "2023-02-13",
+        "summary": "A Bonvoy elite reviews an 18 sqm Royal Deluxe with a firm, TV-obstructing bunk bed. Calls it the cheapest Bonvoy property in Singapore; liked the Indian breakfast at Gup Shup but found the coffee weak and card-only payment awkward."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Serangoon House, Singapore, a Tribute Portfolio Hotel - Royal Maharani",
+        "channel": "Follow Us",
+        "url": "https://www.youtube.com/watch?v=4yfaL4z01Ls",
+        "video_id": "4yfaL4z01Ls"
+      },
+      {
+        "title": "The Serangoon House, Singapore, a Tribute Portfolio Hotel - Breakfast - Review",
+        "channel": "Adventures on the Road (CarRentalGuy)",
+        "url": "https://www.youtube.com/watch?v=VTX00w0wf2E",
+        "video_id": "VTX00w0wf2E"
+      }
+    ]
+  },
+  "tags": ["little-india", "boutique", "heritage-shophouse"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sintg-the-serangoon-house-little-india-singapore-a-tribute-portfolio-hotel/overview/",
+      "label": "Official The Serangoon House overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d25164312-Reviews-The_Serangoon_House_Little_India_Singapore_a_Tribute_Portfolio_Hotel-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sintg-the-serangoon-house-little-india-singapore-a-tribute-portfolio-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["vagabond-club-singapore-tribute-portfolio", "varel-singapore-tribute-portfolio", "duxton-reserve-singapore-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 72 },
+      { "label": "Rooms", "score": 60 },
+      { "label": "Food & breakfast", "score": 65 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}

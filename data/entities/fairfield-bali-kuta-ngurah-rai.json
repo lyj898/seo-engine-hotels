@@ -1,0 +1,117 @@
+{
+  "entity_id": "fairfield-bali-kuta-ngurah-rai",
+  "slug": "fairfield-bali-kuta-ngurah-rai",
+  "name": "Fairfield by Marriott Bali Kuta Ngurah Rai",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A reliable 166-room select-service Fairfield opened mid-2025 on Jalan Bypass Ngurah Rai, minutes from Bali's airport and central Kuta, with a pool, restaurant and free breakfast.",
+  "ai_summary": "Fairfield by Marriott Bali Kuta Ngurah Rai is Marriott's newest Fairfield in Bali, opened around June 2025 on the busy Jalan Bypass Ngurah Rai at the Simpang Siur roundabout. As a select-service Fairfield it delivers dependable, no-surprises value rather than resort frills: 166 clean, spacious rooms (147 Superior, 13 Deluxe, 6 Suites) with smart TVs, sofa seating and work desks, plus an outdoor pool with a kids' pool, a 24/7 fitness centre, the Sun Rice all-day restaurant, a lobby bar and meeting space for up to 500. Its standout advantage is transit convenience: roughly 10-15 minutes by road from I Gusti Ngurah Rai (DPS) International Airport and about half a kilometre from central Kuta, making it a practical stopover or Kuta base. TripAdvisor early feedback is positive (around 4/5, though the review count is still small for a recently opened property). Guests and a first-hand blogger review consistently praise attentive staff, strong Bonvoy Elite recognition, comfortable beds and a breakfast several called the best they'd had at a Fairfield. The most common gripe is early-morning noise from a nearby mosque and the busy road for street-side rooms.",
+  "core_facts": {
+    "address": "Jl. Bypass Ngurah Rai Simpang Siur No. 8, Kuta, Badung Regency, Bali 80361, Indonesia",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "Simpang Siur / Kuta, near Ngurah Rai airport",
+    "distance_from_airport_km": 3,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Very close to Ngurah Rai (DPS) airport and central Kuta -- ideal stopover or transit base",
+    "Attentive, friendly staff with strong Marriott Bonvoy Elite recognition",
+    "Recently opened (2025) property with spacious, spotlessly clean rooms and comfortable beds",
+    "Breakfast repeatedly praised as a highlight with Asian, Western and local options"
+  ],
+  "cons": [
+    "Early-morning noise from a nearby mosque and busy bypass road can disturb light sleepers in street-side rooms",
+    "Basic select-service design and amenities -- not a resort experience",
+    "Not beachfront; you need transport to reach the sand and main attractions"
+  ],
+  "research_highlights": [
+    "Marriott's newest Bali Fairfield (opened ~June 2025), the 8th Fairfield in Indonesia and 4th in Bali",
+    "First-hand blogger stay (Upgraded Points, 2026) confirmed a pool-view upgrade, comfortable rooms and a standout breakfast",
+    "166 rooms plus pool, kids' pool, 24/7 gym, Sun Rice restaurant and meeting space for up to 500"
+  ],
+  "research_watchouts": [
+    "Recently opened, so the independent-review base is thin and the TripAdvisor rating may shift as volume grows",
+    "Not beachfront and on a busy bypass; best as a transit/stopover or budget Kuta base rather than a resort stay"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "How far is Fairfield by Marriott Bali Kuta Ngurah Rai from the airport?",
+      "answer": "It sits on Jalan Bypass Ngurah Rai at the Simpang Siur roundabout, roughly 3 km and about 10-15 minutes by car from I Gusti Ngurah Rai (Denpasar/DPS) International Airport, making it a convenient stopover hotel."
+    },
+    {
+      "question": "Does the hotel have a pool and free breakfast?",
+      "answer": "Yes. There is an outdoor swimming pool plus a dedicated kids' pool, and Fairfield includes breakfast at the Sun Rice all-day restaurant, which guests frequently single out as a highlight."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "3 Select Marriott Hotels in Bali Reviewed: Which Ones Impressed?",
+        "source": "Upgraded Points",
+        "author": "Ehsan Haque",
+        "url": "https://upgradedpoints.com/travel/hotels/aloft-fairfield-four-points-marriott-bali-review/",
+        "published_date": "2026-05-05",
+        "summary": "First-hand 3-night stay (~$153) with a king pool-view upgrade. Praises the best Fairfield breakfast the author has had, comfortable bedding and a handy location ~15 min from the airport; notes basic standard-Fairfield design."
+      },
+      {
+        "title": "Fairfield by Marriott expands its presence in Bali with the opening of Fairfield by Marriott Bali Kuta Ngurah Rai",
+        "source": "Great Travel Magazine",
+        "author": "gtcontentsteam",
+        "url": "https://greattravelmagazine.com/2025/06/26/fairfield-by-marriott-expands-its-presence-in-bali-with-the-opening-of-fairfield-by-marriott-bali-kuta-ngurah-rai/",
+        "published_date": "2025-06-26",
+        "summary": "Launch coverage: 166 rooms (147 Superior, 13 Deluxe, 6 Suites), Sun Rice all-day restaurant, lobby bar, 24/7 gym, outdoor and kids' pools, and meeting/wedding venues, minutes from Ngurah Rai airport on Jalan Bypass Ngurah Rai."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Fairfield by Marriott Bali Kuta Ngurah Rai ; Deluxe Room with Breakfast",
+        "channel": "Angelo Traveller",
+        "url": "https://www.youtube.com/watch?v=ZyGKq4BafIk",
+        "video_id": "ZyGKq4BafIk"
+      }
+    ]
+  },
+  "tags": ["kuta", "select-service", "near-airport"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsnf-fairfield-bali-kuta-ngurah-rai/overview/",
+      "label": "Official Fairfield Bali Kuta Ngurah Rai overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297697-d33228429-Reviews-Fairfield_by_Marriott_Bali_Kuta_Ngurah_Rai-Kuta_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews (early, small sample)",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsnf-fairfield-bali-kuta-ngurah-rai/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairfield-bali-kuta-sunset-road", "four-points-bali-kuta", "aloft-bali-kuta-beachwalk"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 87 }
+    ]
+  },
+  "reliability_score": 59,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}

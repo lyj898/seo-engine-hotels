@@ -1,0 +1,117 @@
+{
+  "entity_id": "varel-singapore-tribute-portfolio",
+  "slug": "varel-singapore-tribute-portfolio",
+  "name": "Varel Singapore, a Tribute Portfolio Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A newly opened 128-room boutique Tribute Portfolio hotel on Selegie Road, blending Singaporean heritage design with a rooftop infinity pool, cocktail bar and Southeast Asian dining.",
+  "ai_summary": "Varel Singapore, a Tribute Portfolio Hotel, is a brand-new 128-room boutique property that opened in mid-April 2026 on the former Selegie Centre site, at the crossroads of Selegie Road and Mount Sophia. Designed by architecture firm FDAT, the hotel draws on the childhood memories of its owner, who grew up in Selegie, reinterpreting heritage details such as louvred windows, metal gates and chendol-inspired patterns through a contemporary lens; sky terraces and guestroom balconies are conceived as suspended gardens. Rooms come in light and dark palettes across seven categories up to the Varel Suite, with roughly 90% offering city views from private balconies. Facilities include an eighth-floor rooftop infinity pool, a fitness centre, and four food-and-beverage venues: Hathaway Autograph (all-day Southeast Asian and British-influenced dining and breakfast), Vernacular Coffee (specialty coffee and in-house roasting), Saga Bar (cocktail lounge) and a rooftop pool bar. A signature scent, Chai Noir, was created with Maison 21G. As a hotel only months old, it has very few independent guest reviews and no established TripAdvisor aggregate rating yet; early write-ups from travel media and points bloggers are positive on design, service and value, while noting compact room sizes and typical new-opening teething issues.",
+  "core_facts": {
+    "address": "189 Selegie Road, Singapore 188332",
+    "brand_sub_brand": "Tribute Portfolio",
+    "neighborhood": "Selegie (between Little India and Dhoby Ghaut / Bras Basah)",
+    "distance_from_airport_km": 19,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Distinctive heritage-inspired boutique design by architecture firm FDAT, with a bespoke signature scent (Chai Noir)",
+    "Central Selegie location within a short walk of Little India MRT and close to Dhoby Ghaut, Bugis and Orchard Road",
+    "Rooftop infinity pool plus four F&B venues including all-day dining, specialty coffee and a cocktail bar",
+    "Early reviews highlight strong value and attentive, personable service"
+  ],
+  "cons": [
+    "Brand-new (opened April 2026) and still settling in, with early reports of minor operational inconsistencies",
+    "Rooms are compact compared with larger city hotels",
+    "Very limited independent guest-review history to date"
+  ],
+  "research_highlights": [
+    "Confirmed open since mid-April 2026 (press launch dated 15-16 April 2026); 128 rooms across seven categories",
+    "Four named F&B outlets and an eighth-floor rooftop infinity pool; ~90% of rooms have private balconies with city views"
+  ],
+  "research_watchouts": [
+    "No verified TripAdvisor aggregate rating available yet given how recently the hotel opened",
+    "Some specifics rely on press releases and independent reviews rather than the brand site directly"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Is Varel Singapore open, and when did it open?",
+      "answer": "Yes. Varel Singapore, a Tribute Portfolio Hotel, opened in mid-April 2026 on Selegie Road, on the former Selegie Centre site."
+    },
+    {
+      "question": "How far is the hotel from Changi Airport?",
+      "answer": "It is roughly 19 km from Singapore Changi Airport (SIN), about a 20-25 minute drive depending on traffic. Little India MRT is a short walk away for public transport."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "First Look at the New Varel Singapore, a Tribute Portfolio Hotel From Marriott Bonvoy",
+        "source": "Upgraded Points",
+        "author": "Ehsan Haque",
+        "url": "https://upgradedpoints.com/news/first-look-varel-singapore-tribute-portfolio-hotel/",
+        "published_date": "2026-04-05",
+        "summary": "A first-look review praising the newly opened hotel's prime Selegie/Little India location, modern rooms, rooftop pool and dining, calling it excellent value especially on a Marriott free-night certificate."
+      },
+      {
+        "title": "Varel Singapore Hotel Review (2026): New Charming Indie-inspired Boutique Hotel in Singapore",
+        "source": "Deenise Glitz",
+        "author": "Deenise Glitz",
+        "url": "https://deeniseglitz.com/2026/05/varel-singapore/",
+        "published_date": "2026-05-01",
+        "summary": "Independent review admiring the modern heritage-led design, signature scent and comfortable rooms for short stays, while flagging compact room sizes and an inconveniently located gym as drawbacks."
+      },
+      {
+        "title": "Hotel Review: Varel Singapore, A Tribute Portfolio (Marriott Bonvoy)",
+        "source": "PinterPoin",
+        "author": "Paulo",
+        "url": "https://pinterpoin.com/hotel-review-varel-singapore-a-tribute-portfolio-marriott-bonvoy/",
+        "published_date": "2026-06-23",
+        "summary": "Reviewer highlights generous complimentary offerings, impeccable service and modern design, but notes no on-site gym, repetitive breakfast across days and minor operational inconsistencies typical of a new opening."
+      }
+    ],
+    "videos": []
+  },
+  "tags": ["selegie", "boutique", "design"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sintx-varel-singapore-a-tribute-portfolio-hotel/overview/",
+      "label": "Official Varel Singapore overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://upgradedpoints.com/news/first-look-varel-singapore-tribute-portfolio-hotel/",
+      "label": "Upgraded Points first-look review",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sintx-varel-singapore-a-tribute-portfolio-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["the-serangoon-house-little-india-singapore-tribute-portfolio", "vagabond-club-singapore-tribute-portfolio", "duxton-reserve-singapore-autograph-collection"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 85 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-04",
+  "status": "needs_review"
+}

@@ -1,0 +1,144 @@
+{
+  "entity_id": "moxy-kuala-lumpur-chinatown",
+  "slug": "moxy-kuala-lumpur-chinatown",
+  "name": "Moxy Kuala Lumpur Chinatown",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A playful lifestyle hotel set in the restored 1970s Oriental Bank building in KL's Chinatown, with compact smart-design rooms, a rooftop pool and Bar Moxy.",
+  "ai_summary": "Moxy Kuala Lumpur Chinatown is Moxy's first Kuala Lumpur property, opened in 2025 by YTL Hotels inside the adaptively reused 1970s Oriental Bank building on Jalan Hang Lekiu. As a Moxy, it delivers the brand's playful, select-service lifestyle formula: a loud, colourful lobby (\"Zone In\") doubling as a check-in bar, self-service lockers instead of room service, and a young, design-forward feel across roughly 320 compact rooms on 21 storeys. Reviewers consistently praise the unbeatable Chinatown location -- walkable to Petaling Street, Masjid Jamek LRT and Pasar Seni -- plus friendly staff, a level-9 rooftop pool and Bar Moxy with skyline views of KL Tower and the Twin Towers, and a solid breakfast. TripAdvisor rates it around 4 of 5. The recurring watchouts are equally clear: rooms are small with clever wall-peg storage and an open basin in the bedroom, and noise carries -- from the lobby music, nearby bars late into the night, and thin doors. Rooftop bar prices run high, parking is paid, and the immediate streets can feel quiet and dim after dark. Best for younger, design-minded travellers prioritising location and vibe over space and quiet.",
+  "core_facts": {
+    "address": "1 Jalan Hang Lekiu, City Centre, 50100 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Moxy Hotels",
+    "neighborhood": "Chinatown / Petaling Street",
+    "distance_from_airport_km": 55,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Prime Chinatown location, walkable to Petaling Street, Masjid Jamek LRT and Pasar Seni",
+    "Distinctive adaptive reuse of a historic bank building, including a vault-themed space",
+    "Rooftop pool and Bar Moxy with skyline views of KL Tower and the Twin Towers",
+    "Friendly, helpful staff and a well-regarded breakfast"
+  ],
+  "cons": [
+    "Rooms are compact with limited storage and an open basin placed in the bedroom",
+    "Noise from lobby music, adjacent bars late at night and thin doors",
+    "High rooftop bar prices and paid parking; no traditional room service"
+  ],
+  "research_highlights": [
+    "First Moxy in Kuala Lumpur, opened 2025 by YTL Hotels in the restored 1970s Oriental Bank building",
+    "Multiple independent stay reviews converge on strong location, playful design and attentive staff"
+  ],
+  "research_watchouts": [
+    "Compact rooms and recurring noise complaints (bars/lobby/doors) appear across several reviews",
+    "Immediate neighbourhood reported as quiet and dim after dark, with some solo-traveller safety notes"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Where is Moxy Kuala Lumpur Chinatown located and how do I get around?",
+      "answer": "It sits at 1 Jalan Hang Lekiu in KL's Chinatown, a short walk from Petaling Street, Masjid Jamek LRT and Pasar Seni stations, so most central attractions and street food are easily reached on foot or by rail. Kuala Lumpur International Airport (KUL) is roughly 55 km away."
+    },
+    {
+      "question": "What is the vibe and room style at this Moxy?",
+      "answer": "As a Moxy lifestyle hotel it is playful and social, with a lively lobby-bar check-in, rooftop pool and Bar Moxy. Rooms are intentionally compact and smartly designed with wall-peg storage, a fold-down desk and an open basin in the bedroom; there is no traditional room service, with self-service lockers instead."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Moxy Chinatown Kuala Lumpur Review",
+        "source": "Plus Size Kitten",
+        "author": "Tammy Lim",
+        "url": "https://www.plusizekitten.com/2025/04/moxy-chinatown-kuala-lumpur-review.html",
+        "published_date": "2025-04-20",
+        "summary": "Stay in an Executive Corner Room with KL Tower, Twin Towers and TRX views. Praises the adaptive-reuse bank building, city views, breakfast and staff; flags a tiny fridge, high rooftop-bar prices and a dim, quiet neighbourhood after dark."
+      },
+      {
+        "title": "Moxy KL Chinatown: Gen-Z Hotel, Adult Common Sense",
+        "source": "Rubbish Eat Rubbish Grow",
+        "author": "Rubbish Eat Rubbish Grow Editorial Team",
+        "url": "https://rubbisheatrubbishgrow.com/2026/07/17/moxy-kuala-lumpur-chinatown-review/",
+        "published_date": "2026-07-17",
+        "summary": "Rates it 4/5 for short KL stays. Loves the central Jalan Hang Lekiu location and smart, compact rooms with excellent wall storage; downsides are loud lobby music, risky bedroom sink placement, limited TV channels and paid parking."
+      },
+      {
+        "title": "Moxy Kuala Lumpur Chinatown - Kuala Lumpur",
+        "source": "Pixie Tail (pixietail78 blog)",
+        "author": "pixietail78",
+        "url": "http://pixietail78.blogspot.com/2025/08/moxy-kuala-lumpur-chinatown-kuala-lumpur.html",
+        "published_date": "2025-08-30",
+        "summary": "Stayed on the 16th floor (RM315 incl. breakfast) for the Masjid Jamek LRT access. Liked the modern minimalist room, level-8 coin laundry and level-9 gym/pool, but was kept awake by nearby-bar noise at 3am and noted few towel hooks."
+      },
+      {
+        "title": "Moxy Kuala Lumpur, Chinatown's Coolest New Hotel In The City",
+        "source": "Grazia Malaysia",
+        "url": "https://www.grazia.my/culture/moxy-kuala-lumpur-chinatown-new-hotel-launch/",
+        "published_date": "2025-04-01",
+        "summary": "Launch feature on Moxy's first KL hotel in the restored Oriental Bank building, highlighting its playful design, Chinatown-inspired murals and neon, Zone In/Zone Out social spaces and rooftop Bar Moxy with pool."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Is Moxy KL Chinatown Worth It? Small Room, Smart Design",
+        "channel": "Crash Course Hotels",
+        "url": "https://www.youtube.com/watch?v=jJdLEaa0viA",
+        "video_id": "jJdLEaa0viA",
+        "published_date": "2026-02-05"
+      },
+      {
+        "title": "Moxy Hotel China Town Review 2025 | Kuala Lumpur | Malaysia #marriott #travel #hotel",
+        "channel": "The Elite Leisure Traveller",
+        "url": "https://www.youtube.com/watch?v=i-J-UkxDpX0",
+        "video_id": "i-J-UkxDpX0"
+      },
+      {
+        "title": "Moxy KL Chinatown Hotel Full Tour & Review",
+        "channel": "In That Postcard",
+        "url": "https://www.youtube.com/watch?v=S9TDhha0I30",
+        "video_id": "S9TDhha0I30"
+      }
+    ]
+  },
+  "tags": ["chinatown", "lifestyle", "select-service"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulok-moxy-kuala-lumpur-chinatown/overview/",
+      "label": "Official Moxy Kuala Lumpur Chinatown overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d33077096-Reviews-Moxy_Kuala_Lumpur_Chinatown-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulok-moxy-kuala-lumpur-chinatown/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-kuala-lumpur-chinatown", "ac-hotel-kuala-lumpur", "aloft-kuala-lumpur-sentral"],
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 62,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}

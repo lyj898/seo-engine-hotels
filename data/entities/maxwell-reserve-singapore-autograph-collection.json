@@ -1,0 +1,133 @@
+{
+  "entity_id": "maxwell-reserve-singapore-autograph-collection",
+  "slug": "maxwell-reserve-singapore-autograph-collection",
+  "name": "Maxwell Reserve Singapore, Autograph Collection",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A boutique Autograph Collection hotel in a restored 1929 colonial landmark in Tanjong Pagar, with Jacques Garcia interiors, steps from Maxwell Food Centre and Chinatown.",
+  "ai_summary": "Set in Murray Terrace, a century-old British colonial building in Tanjong Pagar, Maxwell Reserve is an intimate roughly 127-room Autograph Collection property styled by French designer Jacques Garcia for the Garcha Group. Interiors lean theatrical and richly coloured, layered with museum-quality family artefacts, and reviewers consistently call the property atmospheric, clean and characterful. It holds a 4.0/5 rating on TripAdvisor (roughly 328 reviews). The location is the standout: a short walk to Maxwell Food Centre, Chinatown temples and bars, with Maxwell, Tanjong Pagar and Telok Ayer MRT stations close by and Changi Airport about 25 minutes away. Service draws mostly warm reviews, with staff remembering names and offering practical gestures, though some TripAdvisor guests report billing errors and inconsistent, understaffed evenings. Rooms are the recurring caveat: beautifully dressed but compact, with heritage quirks such as steps and lower lighting, though spacious bathrooms with premium toiletries earn praise. Dining is a strength, spanning Cultivate, Isabel Brasserie, Shikar and Polo Bar Steakhouse, with the plant-forward breakfast generally liked. Value is debated, with premium pricing that suits travellers prioritising heritage character and personal service over floor space.",
+  "core_facts": {
+    "address": "2 Cook Street, Singapore 078857",
+    "brand_sub_brand": "Autograph Collection",
+    "neighborhood": "Tanjong Pagar / Maxwell (Chinatown)",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Exceptional walkable location beside Maxwell Food Centre and Chinatown with multiple MRT stations nearby",
+    "Distinctive Jacques Garcia heritage design with atmospheric, richly decorated interiors",
+    "Warm, personal service that reviewers note by name, plus strong Marriott Bonvoy elite recognition",
+    "Well-regarded dining across several venues and a praised plant-forward breakfast at Cultivate"
+  ],
+  "cons": [
+    "Rooms are consistently described as small with heritage-building quirks (steps, limited views, low lighting)",
+    "Premium pricing that several guests feel is not fully justified by the value delivered",
+    "Inconsistent service reports on TripAdvisor, including billing errors and understaffed evenings"
+  ],
+  "research_highlights": [
+    "Rare Jacques Garcia-designed boutique property in a restored 1929 colonial landmark",
+    "Prime Tanjong Pagar/Chinatown position with hawker food and MRT on the doorstep",
+    "Multiple independent reviews single out genuinely warm, name-remembering service"
+  ],
+  "research_watchouts": [
+    "Compact rooms and heritage quirks disappoint guests expecting larger luxury accommodations",
+    "Service and billing consistency is uneven per aggregate reviews despite strong individual reports"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "How far is Maxwell Reserve from Changi Airport?",
+      "answer": "It is about 20 km from Singapore Changi Airport (SIN), roughly a 25-minute taxi ride, in the Tanjong Pagar district near Chinatown."
+    },
+    {
+      "question": "Is the location good for exploring Singapore?",
+      "answer": "Yes. It sits beside Maxwell Food Centre and Chinatown, within a short walk of Maxwell, Tanjong Pagar and Telok Ayer MRT stations and close to the financial district."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "The Maxwell Reserve Singapore, Autograph Collection: A Heritage Hotel With Very Human Service",
+        "source": "Rubbish Eat Rubbish Grow",
+        "author": "Celest Tan",
+        "url": "https://rubbisheatrubbishgrow.com/2026/05/13/maxwell-reserve-singapore-review/",
+        "published_date": "2026-05-13",
+        "summary": "Praises the walkable Chinatown location and unusually warm, name-remembering service. Rooms are compact with heritage quirks like steps and low lighting; Cultivate's plant-based breakfast is liked but coffee disappoints."
+      },
+      {
+        "title": "[Hotel Review] Maxwell Reserve Singapore, Autograph Collection",
+        "source": "Satu Kosong Travels",
+        "author": "Satu Kosong",
+        "url": "https://10satukosong.wpcomstaging.com/2022/05/04/hotel-review-maxwell-reserve-singapore-autograph-collection/",
+        "published_date": "2022-05-04",
+        "summary": "Early-opening stay in a 24 sqm club room: strong dining, generous Cultivate club lounge and breakfast, and a stackable $60 dining credit, offset by understaffed evenings, a leaking bathtub and minor finish flaws."
+      },
+      {
+        "title": "Maxwell Reserve Autograph Collection | Singapore, Singapore",
+        "source": "The Brief Review",
+        "author": "AB",
+        "url": "https://thebriefreview.com/maxwell-reserve-autograph-collection-singapore-singapore/",
+        "published_date": "2022-10-29",
+        "summary": "Boutique Chinatown property with compact but well-designed rooms and a standout large bathroom with Diptyque toiletries. Notes a 25m pool, gym, elite lounge breakfast, and strong Bonvoy elite benefits; about 25 minutes from Changi."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Maxwell Reserve Singapore Club Suite Tour",
+        "channel": "The Brief Review",
+        "url": "https://www.youtube.com/watch?v=3JMzsFu4YYw",
+        "video_id": "3JMzsFu4YYw",
+        "published_date": "2022-10-27"
+      },
+      {
+        "title": "Maxwell Reserve Singapore - Junior Suite",
+        "channel": "Follow Us",
+        "url": "https://www.youtube.com/watch?v=KzUC-jBkgJU",
+        "video_id": "KzUC-jBkgJU",
+        "published_date": "2024-12-18"
+      }
+    ]
+  },
+  "tags": ["tanjong-pagar", "boutique", "heritage"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinam-maxwell-reserve-singapore-autograph-collection/overview/",
+      "label": "Official Maxwell Reserve Singapore overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d14758770-Reviews-Maxwell_Reserve_Singapore_Autograph_Collection-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinam-maxwell-reserve-singapore-autograph-collection/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["duxton-reserve-singapore-autograph-collection", "vagabond-club-singapore-tribute-portfolio", "singapore-marriott-tang-plaza"],
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 91 },
+      { "label": "Service", "score": 77 },
+      { "label": "Rooms", "score": 71 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 67 }
+    ]
+  },
+  "reliability_score": 63,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}

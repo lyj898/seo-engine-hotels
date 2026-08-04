@@ -1,0 +1,101 @@
+{
+  "entity_id": "petaling-jaya-marriott-hotel",
+  "slug": "petaling-jaya-marriott-hotel",
+  "name": "Petaling Jaya Marriott Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "Rebranded from the long-running Eastin Hotel, this 393-room Marriott sits in central Petaling Jaya's Section 16, west of Kuala Lumpur, near the Phileo Damansara MRT and SPRINT Highway.",
+  "ai_summary": "The Petaling Jaya Marriott Hotel is the former Eastin Hotel Kuala Lumpur, a Klang Valley landmark operating since 1998, which joined the Marriott Hotels portfolio in December 2025 under owner TSM Global with Marriott as operator. The 393-room property (occasionally cited as 388) sits in Section 16 of Petaling Jaya, west of Kuala Lumpur, beside the SPRINT Highway and within reach of the Phileo Damansara MRT station and Jaya One lifestyle enclave. The conversion is backed by a large multi-phase renovation intended to complete by December 2026, beginning with a full lobby redesign and phased guest-room refresh, plus new additions including an M Club Lounge for Bonvoy Elite and Club members, a Chinese restaurant, and a Kids Club. Because the Marriott era is only months old, guest-experience data is thin and should be read with care: existing high aggregate scores on OTAs largely reflect the Eastin years, and the TripAdvisor Marriott listing is newly created with limited volume. The single strong Marriott-era independent review notes a genuinely fresh renovation and generous multi-cuisine breakfast, but flags very restricted M Club Lounge hours. Expect a solid, well-located business and staycation base still settling into Marriott standards while renovation continues.",
+  "core_facts": {
+    "address": "13 Jalan 16/11, Section 16, 46350 Petaling Jaya, Selangor, Malaysia",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Petaling Jaya / Section 16 (near Jaya One and Phileo Damansara MRT)",
+    "distance_from_airport_km": 52,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Central Petaling Jaya location in Section 16, near Phileo Damansara MRT, SPRINT Highway and Jaya One",
+    "Fresh Marriott renovation with redesigned lobby and updated rooms",
+    "Wide multi-cuisine breakfast and multiple on-site dining outlets",
+    "Marriott Bonvoy program access plus new M Club Lounge for Elite/Club members"
+  ],
+  "cons": [
+    "Phased renovation ongoing through 2026, so some areas and services may still be transitioning",
+    "M Club Lounge reported to keep very limited operating hours",
+    "Far from KLIA (~52 km), on the western side of the Klang Valley"
+  ],
+  "research_highlights": [
+    "Rebrand widely confirmed by Malaysian business press: Eastin joined Marriott Dec 2025, full renovation targeted for Dec 2026",
+    "Official marriott.com page live and bookable under property code KULPJ with 393 rooms and a new M Club Lounge",
+    "At least one substantive Marriott-era independent review exists (Frugal Flyer, late July 2026) confirming the property is open post-renovation-start"
+  ],
+  "research_watchouts": [
+    "OTA aggregate scores mostly reflect the pre-rebrand Eastin era, not current Marriott operations",
+    "TripAdvisor Marriott listing is newly created; do not treat any aggregate rating as an established Marriott-era signal, and renovation is still underway"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Is the Petaling Jaya Marriott the same as the old Eastin Hotel?",
+      "answer": "Yes. The property operated as the Eastin Hotel Kuala Lumpur from 1998 and was rebranded as the Petaling Jaya Marriott Hotel in December 2025, with owner TSM Global retaining ownership and Marriott taking over operations."
+    },
+    {
+      "question": "Is the hotel fully renovated yet?",
+      "answer": "Not entirely. A phased renovation began with the lobby and guest rooms and is scheduled to complete by December 2026, so some spaces and services may still be transitioning during a stay."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Petaling Jaya Marriott Hotel",
+        "source": "Frugal Flyer",
+        "url": "https://frugalflyer.ca/blog/review-petaling-jaya-marriott-hotel/",
+        "published_date": "2026-07-29",
+        "summary": "Marriott-era stay at the newly rebranded, freshly renovated ex-Eastin PJ hotel. Praises the wide multi-cuisine breakfast and amenities; notes the M Club Lounge kept very limited hours. A convenient base just west of KL."
+      }
+    ],
+    "videos": []
+  },
+  "tags": ["petaling-jaya", "business", "rebrand"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulpj-petaling-jaya-marriott-hotel/overview/",
+      "label": "Official Petaling Jaya Marriott Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298313-d33956175-Reviews-Petaling_Jaya_Marriott_Hotel-Petaling_Jaya_Petaling_District_Selangor.html",
+      "label": "TripAdvisor guest reviews (new Marriott-era listing)",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulpj-petaling-jaya-marriott-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sheraton-petaling-jaya-hotel", "renaissance-kuala-lumpur", "courtyard-kuala-lumpur-south"],
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 74 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-04",
+  "status": "needs_review"
+}

@@ -1,0 +1,101 @@
+{
+  "entity_id": "four-points-singapore-jurong",
+  "slug": "four-points-singapore-jurong",
+  "name": "Four Points by Sheraton Singapore, Jurong",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A newly rebranded 557-room Four Points in Jurong Lake District, steps from Jurong East MRT and the Jem, Westgate and IMM malls, with a shuttle to Resorts World Sentosa.",
+  "ai_summary": "Four Points by Sheraton Singapore, Jurong opened on 22 July 2026 as the rebranded and refurbished former Genting Hotel Jurong, which first opened in 2015 as the district's first major hotel. Operated under a Marriott agreement with Resorts World Sentosa, the 15-storey, 557-room property is the first internationally branded hotel in the Jurong Lake District, Singapore's largest planned mixed-use business precinct outside the central city. It sits in the Jurong Gateway area beside Jurong East MRT and the Jem, Westgate and IMM malls, with Science Centre Singapore, Snow City and the Chinese and Japanese Gardens nearby. Facilities reflect Four Points' reliable select-service standard: contemporary guestrooms across four categories with work desks and complimentary Wi-Fi, the all-day Festive Cafe, an outdoor pool, 24-hour fitness centre, self-service laundromat, roof gardens and sky terraces, plus a complimentary shuttle to Resorts World Sentosa. Around 850 sqm of function space includes the 426 sqm Genting Ballroom (up to 330 guests) and a rooftop Sky Lounge, positioning it for both business and leisure guests. As a very new conversion there is not yet a meaningful body of guest reviews, so no aggregate rating is cited here and its guest score is provisional.",
+  "core_facts": {
+    "address": "2 Town Hall Link, Singapore 608516",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Jurong East / Jurong Lake District",
+    "distance_from_airport_km": 33,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Directly beside Jurong East MRT and the Jem, Westgate and IMM malls for easy transit and dining",
+    "Fully rebranded and refurbished in 2026 with contemporary Four Points rooms and refreshed facilities",
+    "Strong meetings offering: ~850 sqm function space, Genting Ballroom and rooftop Sky Lounge",
+    "Complimentary shuttle to Resorts World Sentosa plus pool, 24-hour gym and roof gardens"
+  ],
+  "cons": [
+    "Far from the city centre and Changi Airport (~33 km), in Singapore's western business district",
+    "Select-service brand: no in-room dining and a limited single all-day restaurant",
+    "Brand-new conversion with very few independent guest reviews to date"
+  ],
+  "research_highlights": [
+    "Confirmed open since 22 July 2026; official Marriott page live under property code SINSP",
+    "First internationally branded hotel in the Jurong Lake District, converted from Genting Hotel Jurong (opened 2015)"
+  ],
+  "research_watchouts": [
+    "Almost no independent stay reviews exist yet; sentiment is inferred from brand standard and the former Genting Hotel's reputation",
+    "No dedicated TripAdvisor aggregate page confirmed for the Four Points brand yet"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Singapore, Jurong open?",
+      "answer": "Yes. It opened on 22 July 2026 as the rebranded and refurbished former Genting Hotel Jurong, and is operating with 557 rooms."
+    },
+    {
+      "question": "How far is the hotel from Changi Airport and the city centre?",
+      "answer": "It is roughly 33 km from Singapore Changi Airport in the western Jurong Lake District, but sits directly beside Jurong East MRT for fast connections across the island."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Four Points by Sheraton Singapore, Jurong opens, elevating hospitality in the Jurong Lake District",
+        "source": "Great Travel Magazine",
+        "author": "gtcontentsteam",
+        "url": "https://greattravelmagazine.com/2026/07/24/four-points-by-sheraton-singapore-jurong-opens-elevating-hospitality-in-the-jurong-lake-district/",
+        "published_date": "2026-07-24",
+        "summary": "Independent editorial coverage of the opening of the 557-room Four Points, converted from Genting Hotel Jurong. Notes contemporary rooms, Festive Cafe dining, pool, ~850 sqm event space including the Genting Ballroom and rooftop Sky Lounge."
+      }
+    ],
+    "videos": []
+  },
+  "tags": ["jurong", "select-service", "lake-district"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinsp-four-points-singapore-jurong/overview/",
+      "label": "Official Four Points Singapore Jurong overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://greattravelmagazine.com/2026/07/24/four-points-by-sheraton-singapore-jurong-opens-elevating-hospitality-in-the-jurong-lake-district/",
+      "label": "Great Travel Magazine opening coverage",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinsp-four-points-singapore-jurong/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["four-points-singapore-riverview", "courtyard-singapore-novena", "aloft-singapore-novena"],
+  "sentiment_scores": {
+    "overall": 77,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 79 },
+      { "label": "Food & breakfast", "score": 73 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-04",
+  "status": "needs_review"
+}

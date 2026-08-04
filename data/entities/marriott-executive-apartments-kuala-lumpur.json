@@ -1,0 +1,125 @@
+{
+  "entity_id": "marriott-executive-apartments-kuala-lumpur",
+  "slug": "marriott-executive-apartments-kuala-lumpur",
+  "name": "Marriott Executive Apartments Kuala Lumpur",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "New long-stay serviced apartments beside KLCC Park, offering studios to three-bedroom units with full kitchens and in-unit laundry, steps from the Petronas Twin Towers.",
+  "ai_summary": "Marriott Executive Apartments Kuala Lumpur opened in August 2025 as the brand's largest Asia Pacific property outside China, with 353 serviced apartments spanning studios to three-bedroom units. Built for the Marriott Executive Apartments long-stay format, every apartment includes a residential-style kitchen with a full-size fridge and cooking equipment, a separate living and dining area, and an in-unit washer/dryer, making it suited to relocations, project assignments and extended family visits as well as shorter stays. The 37-floor tower sits at 17 Jalan Kia Peng in the KLCC precinct, a short walk from KLCC Park, the Petronas Twin Towers and Suria KLCC, with direct rail links nearby. On-site facilities include Bistro Kia Peng serving modern Malaysian cuisine, a 24-hour fitness centre, a lap pool, a kids' club and splash zone, and a rooftop event space with skyline views. Because the property is very new, independent feedback is still limited; early guest commentary is mixed, praising the spacious, new, well-equipped apartments and central location while noting that service consistency does not always match Marriott expectations at the price point. Travelers should treat any aggregate rating as an early, small-sample signal rather than a settled reputation.",
+  "core_facts": {
+    "address": "17 Jalan Kia Peng, 50450 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Marriott Executive Apartments",
+    "neighborhood": "KLCC / Jalan Kia Peng",
+    "distance_from_airport_km": 55,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Spacious, brand-new apartments with full residential kitchens and in-unit washer/dryer, ideal for long stays and families",
+    "Prime KLCC location steps from KLCC Park, the Petronas Twin Towers and Suria KLCC shopping",
+    "Strong family and long-stay facilities: lap pool, kids' club and splash zone, 24-hour gym, rooftop event space",
+    "On-site Bistro Kia Peng for modern Malaysian dining plus breakfast"
+  ],
+  "cons": [
+    "Very new property, so service and operations are still settling and early feedback on consistency is mixed",
+    "Some early guests felt service and housekeeping did not fully match Marriott standards for the price point",
+    "Serviced-apartment format is best value for longer stays rather than a single overnight"
+  ],
+  "research_highlights": [
+    "Opened 14 August 2025; largest Marriott Executive Apartments in Asia Pacific excluding China with 353 units",
+    "Independent November 2025 family review rated the stay 9/10, praising the kitchen, family amenities and a strong service recovery",
+    "Central KLCC address at 17 Jalan Kia Peng with direct access to nearby LRT/MRT stations"
+  ],
+  "research_watchouts": [
+    "TripAdvisor aggregate sits around 3.0/5 on a small early sample, dragged by service-consistency complaints rather than the rooms",
+    "As a 2025 opening, the review base is thin and skewed toward opening-period experiences"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Is Marriott Executive Apartments Kuala Lumpur open?",
+      "answer": "Yes. The property opened on 14 August 2025 and is operating, with 353 serviced apartments ranging from studios to three-bedroom units in the KLCC district."
+    },
+    {
+      "question": "Do the apartments have kitchens and laundry for long stays?",
+      "answer": "Yes. As a Marriott Executive Apartments property, every unit is designed for extended stays with a residential-style kitchen (full-size fridge and cooking equipment), separate living and dining space, and an in-unit washer/dryer."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Marriott Executive Apartments Kuala Lumpur Review: Our 2-Night Family Stay",
+        "source": "ShinyVisa",
+        "author": "Derek",
+        "url": "https://www.shinyvisa.com/marriott-executive-apartments-kuala-lumpur-review/",
+        "published_date": "2025-11-18",
+        "summary": "Independent family review (9/10) of a 2-bedroom stay: praises the modern, clean apartments, fully equipped kitchen, kids' club, pools and gym, buffet breakfast, and a strong service recovery over a room odour issue."
+      },
+      {
+        "title": "Marriott opens largest Executive Apartments in Southeast Asia",
+        "source": "Serviced Apartment News",
+        "author": "Claudia Schergna",
+        "url": "https://servicedapartmentnews.com/news/property/marriott-executive-apartments-kuala-lumpur/",
+        "published_date": "2025-08-15",
+        "summary": "Trade coverage of the opening: 353 serviced apartments (studios to three-bedroom), each with a kitchen, living/dining area and in-room laundry; amenities include a rooftop venue, Bistro Kia Peng, gym, lap pool and kids' zone."
+      },
+      {
+        "title": "Asia Pacific's Largest Marriott Executive Apartments Opens In KL",
+        "source": "Hype Malaysia",
+        "author": "Features Desk",
+        "url": "https://hype.my/asia-pacifics-largest-marriott-executive-apartments-opens-in-kl/",
+        "published_date": "2025-08-18",
+        "summary": "Malaysian media feature on the launch: the brand's largest Asia Pacific property excluding China, with 353 units near KLCC Park, residential kitchens and in-unit laundry, Bistro Kia Peng, a 24/7 gym, lap pool and rooftop venues."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Marriott Executive Apartments Opens in Kuala Lumpur",
+        "channel": "eRayn3 Channel",
+        "url": "https://www.youtube.com/watch?v=kBXSZP8KiYg",
+        "video_id": "kBXSZP8KiYg"
+      }
+    ]
+  },
+  "tags": ["klcc", "serviced-apartments", "long-stay"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/kulea-marriott-executive-apartments-kuala-lumpur/overview/",
+      "label": "Official Marriott Executive Apartments Kuala Lumpur overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d33010746-Reviews-Marriott_Executive_Apartments_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews (early, small sample)",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/kulea-marriott-executive-apartments-kuala-lumpur/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["element-kuala-lumpur", "ac-hotel-kuala-lumpur", "aloft-kuala-lumpur-sentral"],
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 91 },
+      { "label": "Service", "score": 68 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 71 }
+    ]
+  },
+  "reliability_score": 57,
+  "last_updated": "2026-08-04",
+  "status": "needs_review"
+}

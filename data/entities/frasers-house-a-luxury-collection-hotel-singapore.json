@@ -1,0 +1,128 @@
+{
+  "entity_id": "frasers-house-a-luxury-collection-hotel-singapore",
+  "slug": "frasers-house-a-luxury-collection-hotel-singapore",
+  "name": "Frasers House, a Luxury Collection Hotel, Singapore",
+  "category_id": "marriott-bonvoy",
+  "region_id": "singapore",
+  "short_description": "A five-star Luxury Collection hotel above Bugis MRT, converted in January 2026 from the former InterContinental Singapore, blending Peranakan-inspired heritage design with 406 rooms and suites.",
+  "ai_summary": "Frasers House, a Luxury Collection Hotel, Singapore opened on 7 January 2026 as the rebrand of the long-running InterContinental Singapore in the Bugis district, following a partnership between Frasers Hospitality and Marriott International. It is Singapore's second Luxury Collection property and the first in the city-centre Bugis precinct, sitting directly above Bugis MRT and integrated with Bugis Junction, steps from Kampong Glam, Arab Street and the Bras Basah arts belt. The hotel offers 406 rooms and suites, split between light-filled Main Tower accommodations and an intimate Heritage Wing inspired by traditional Singapore shophouse living and Peranakan artistry. Dining carries over well-regarded venues including the award-winning Cantonese restaurant Man Fu Yuan and Italian restaurant LUCE, alongside The Lobby Lounge, plus a club lounge, outdoor pool, sauna, 24-hour gym and roughly 1,000 square metres of event space anchored by a grand ballroom. Because the brand is only months old, independent Frasers House-era guest reviews are still sparse; the TripAdvisor listing (rated about 4 of 5) mostly reflects carried-over InterContinental reviews rather than the new brand. Early first-hand write-ups praise the calm central location, the executive lounge and friendly service.",
+  "core_facts": {
+    "address": "80 Middle Road, Singapore 188966",
+    "brand_sub_brand": "Luxury Collection",
+    "neighborhood": "Bugis / Middle Road",
+    "distance_from_airport_km": 18,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Exceptional location directly above Bugis MRT and linked to Bugis Junction, minutes from Kampong Glam and Arab Street",
+    "Distinctive Peranakan / shophouse-inspired heritage design in the Heritage Wing",
+    "Strong dining pedigree carried over from the InterContinental, including award-winning Cantonese venue Man Fu Yuan and Italian restaurant LUCE",
+    "Well-regarded club lounge, outdoor pool and 24-hour gym praised in early stays"
+  ],
+  "cons": [
+    "Brand-new under the Luxury Collection flag (opened January 2026), so the property is still settling and independent guest reviews are very limited",
+    "Cash and points rates rose noticeably versus the former InterContinental, so value can feel premium",
+    "TripAdvisor rating largely reflects legacy InterContinental reviews rather than the new brand experience"
+  ],
+  "research_highlights": [
+    "Confirmed open and operating: rebranded from InterContinental Singapore and opened as Frasers House on 7 January 2026",
+    "Address and positioning verified across multiple trade and blog sources (80 Middle Road, above Bugis MRT)",
+    "At least one genuine first-hand stay review already published (April 2026) plus verified room-tour videos"
+  ],
+  "research_watchouts": [
+    "TripAdvisor listing carries over thousands of legacy InterContinental reviews, so its aggregate rating is not a clean signal for the new brand",
+    "Room count cited as 403 in one source and 406 in others; Marriott/official materials use 406"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Is Frasers House the former InterContinental Singapore?",
+      "answer": "Yes. The InterContinental Singapore in Bugis closed under the IHG flag in late 2025 and reopened on 7 January 2026 as Frasers House, a Luxury Collection Hotel, Singapore, following a partnership between Frasers Hospitality and Marriott International."
+    },
+    {
+      "question": "Where is Frasers House located and how far is Changi Airport?",
+      "answer": "It sits at 80 Middle Road in the Bugis district, directly above Bugis MRT and integrated with Bugis Junction. Singapore Changi Airport (SIN) is roughly 18 km away, about a 20-minute drive."
+    },
+    {
+      "question": "What dining and facilities does the hotel offer?",
+      "answer": "The hotel keeps well-known venues including the Cantonese restaurant Man Fu Yuan and Italian restaurant LUCE, plus The Lobby Lounge, a club lounge, an outdoor pool, sauna, a 24-hour gym and around 1,000 square metres of event space with a grand ballroom."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Frasers House Singapore Review: Bugis Luxury With Mall-Adjacent Honesty",
+        "source": "Rubbish Eat Rubbish Grow",
+        "author": "Celest Tan",
+        "url": "https://rubbisheatrubbishgrow.com/2026/04/10/frasers-house-singapore-review/",
+        "published_date": "2026-04-10",
+        "summary": "First-hand stay at the rebranded former InterContinental in Bugis: a calm 'pause button' above the MRT, with well-kept Peranakan-styled rooms. The extended-hours executive lounge is the highlight and dining is varied."
+      },
+      {
+        "title": "Marriott Quietly Adds Another Luxury Collection Property in Singapore: Frasers House Now Open",
+        "source": "You Are Travel",
+        "author": "blackbeard",
+        "url": "https://youare.travel/marriott-adds-another-luxury-collection-property-in-singapore-frasers-house/",
+        "published_date": "2026-02-17",
+        "summary": "Points-and-miles write-up confirming the former InterContinental Singapore reopened as the ~403-room Frasers House in Bugis, with three restaurants, two bars, a club lounge and pool; award rates from around 55,000 Bonvoy points."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Frasers House, A luxury Collection Hotel, Singapore Marriott Room Tour  Review 1218 & 1220",
+        "channel": "The Tee Lyfe",
+        "url": "https://www.youtube.com/watch?v=2NmuiBPlO6I",
+        "video_id": "2NmuiBPlO6I",
+        "published_date": "2026-03-25"
+      },
+      {
+        "title": "Frasers House Singapore - Room Tour",
+        "channel": "Luxury Nirvana",
+        "url": "https://www.youtube.com/watch?v=FIueyXxudOk",
+        "video_id": "FIueyXxudOk"
+      }
+    ]
+  },
+  "tags": ["bugis", "luxury", "heritage"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/sinlb-frasers-house-a-luxury-collection-hotel-singapore/overview/",
+      "label": "Official Frasers House Singapore overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d299199-Reviews-Frasers_House_a_Luxury_Collection_Hotel_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews (includes legacy InterContinental reviews)",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/sinlb-frasers-house-a-luxury-collection-hotel-singapore/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["st-regis-singapore", "singapore-edition", "jw-marriott-singapore-south-beach"],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 87 },
+      { "label": "Food & breakfast", "score": 89 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-04",
+  "status": "needs_review"
+}

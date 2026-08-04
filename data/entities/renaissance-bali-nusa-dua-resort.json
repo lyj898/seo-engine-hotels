@@ -1,0 +1,157 @@
+{
+  "entity_id": "renaissance-bali-nusa-dua-resort",
+  "slug": "renaissance-bali-nusa-dua-resort",
+  "name": "Renaissance Bali Nusa Dua Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bali",
+  "short_description": "A design-led Renaissance resort in the hills of Nusa Dua, Bali, with four pools, Balinese-theatre-inspired interiors, and a free shuttle to its shared beach club.",
+  "ai_summary": "Opened in late 2021/early 2022, the Renaissance Bali Nusa Dua Resort is a roughly 307-room, design-driven resort perched on a hillside just outside the gated ITDC Nusa Dua enclave, on Jalan Siligita. It holds a 4.0/5 rating on TripAdvisor (ranked around #15 of 55 Nusa Dua hotels). Interiors by P49 Deesign draw on Balinese theatre and dance, giving rooms an eccentric, almost W-hotel character with soaking tubs, balconies, and bold color. Independent reviewers consistently praise the four distinct pools (the social Atomic 17, an artsy Jungle Pool, a long lap pool, and a kids pool), an exceptional Backstage breakfast buffet, the Lion X Chinese restaurant, a strong spa and gym, and warm, attentive service that skews family-friendly. The most repeated caveat is that this is not a beachfront hotel: it sits on a hill and runs a complimentary hourly shuttle to a shared beach club on Nusa Dua Beach, which some find underwhelming versus true beachfront rivals. A few guests also note the somewhat desolate walk from the gate to the main road and occasional inconsistency in rooms or service. Overall it reads as a well-rounded, good-value large resort.",
+  "core_facts": {
+    "address": "Kawasan Pariwisata Lot SW 4 & 5, Jl. Nusa Dua (driveway on Jl. Siligita), Benoa, Nusa Dua, South Kuta, Badung Regency, Bali 80363, Indonesia",
+    "brand_sub_brand": "Renaissance",
+    "neighborhood": "Nusa Dua",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Distinctive Balinese-theatre-inspired design with spacious, quirky rooms and soaking tubs",
+    "Four varied pools that rarely feel crowded, plus a strong spa and gym",
+    "Highly rated Backstage breakfast buffet and diverse dining (Lion X Chinese, pool bar, beach club)",
+    "Warm, attentive, family-friendly service at generally good value"
+  ],
+  "cons": [
+    "Not beachfront: hillside location relies on a complimentary hourly shuttle to a shared beach club",
+    "Surrounding area is somewhat quiet/undeveloped, with an unappealing walk from the gate to the main road",
+    "Occasional inconsistency in room quality or service noted by some guests"
+  ],
+  "research_highlights": [
+    "Design by P49 Deesign / Carl Almeida themed on Balinese dance (Pendet, Barong) throughout lobby, bars and rooms",
+    "Four pools including the social Atomic 17 and photogenic Jungle Pool, plus Lava Land kids club",
+    "Consistently praised breakfast at the Backstage Food Theatre and strong overall value for a large upscale resort"
+  ],
+  "research_watchouts": [
+    "Frequently confused with the separate Renaissance Bali Uluwatu Resort & Spa; this entry is the Nusa Dua property (hillside, Jl. Siligita)",
+    "Marketed as a resort but is not beachfront; beach access is via shared shuttle to a beach club"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "Is the Renaissance Bali Nusa Dua Resort on the beach?",
+      "answer": "No. The resort sits on a hillside just outside the gated Nusa Dua complex, not on the sand. It runs a complimentary hourly shuttle to a shared beach club on Nusa Dua Beach, roughly 2 km away."
+    },
+    {
+      "question": "How far is the resort from the airport?",
+      "answer": "It is about 13 km from Ngurah Rai (Denpasar/DPS) International Airport, typically a 20-30 minute drive depending on traffic."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Renaissance Bali Nusa Dua Resort",
+        "source": "JakartaPotato",
+        "author": "Raymond",
+        "url": "https://www.jakartapotato.com/2024/03/22/review-renaissance-bali-nusa-dua-resort/",
+        "published_date": "2024-03-22",
+        "summary": "Detailed stay review calling it a near-perfect large Nusa Dua resort. Praises the eccentric 49 sqm rooms, four pools, extensive Backstage breakfast and warm service; notes it sits on a hill and needs a shuttle to the beach club."
+      },
+      {
+        "title": "Renaissance Bali Nusa Dua Resort, a next-level lifestyle experience",
+        "source": "World Luxury Hotel Awards",
+        "author": "Linda Cooper",
+        "url": "https://www.luxuryhotelawards.com/renaissance-bali-nusa-dua-resort-a-next-level-lifestyle-experience/",
+        "published_date": "2024-11-14",
+        "summary": "First-person review of an Executive Suite with direct pool access and a round soaking tub. Highlights the infinity lap pool, gym with free juices, Lion X Chinese dining and Backstage breakfast, plus hourly shuttles to the beach."
+      },
+      {
+        "title": "Bali but not as you know it: designing Renaissance Bali Nusa Dua",
+        "source": "Hotel Designs",
+        "author": "Hamish Kilburn",
+        "url": "https://hoteldesigns.net/2023/bali-but-not-as-you-know-it-designing-renaissance-bali-nusa-dua/",
+        "published_date": "2023-10-03",
+        "summary": "Design feature on how P49 Deesign's Carl Almeida themed the hillside resort on Balinese theatre and dance, from a Pendet-inspired lobby to a Barong-referencing R Bar, using lava-stone architecture, pitched roofs and walled gardens."
+      },
+      {
+        "title": "Renaissance Bali Nusa Dua Resort - Fun for Everyone!",
+        "source": "Indonesia Design",
+        "author": "Vira",
+        "url": "https://indonesiadesign.com/story/renaissance-bali-nusa-dua-resort-fun-for-everyone",
+        "published_date": "2022-06-07",
+        "summary": "Overview of the resort's Balinese-dance-inspired interiors, four pools (Main, Lap, Jungle with a wedding venue, and Kiddie), Backstage dining, spa, kids club and roughly 310 rooms across two wings with garden or ocean views."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Renaissance Bali Nusa Dua Resort Is Many Things. But is It Too Many?",
+        "channel": "The Tourist",
+        "url": "https://www.youtube.com/watch?v=RS4Z4SEBJBk",
+        "video_id": "RS4Z4SEBJBk"
+      },
+      {
+        "title": "LUXURY RESORT REVIEW | Relaxing Renaissance Bali Nusa Dua Resort",
+        "channel": "Titus Feliciano",
+        "url": "https://www.youtube.com/watch?v=p4kZRgQtF1w",
+        "video_id": "p4kZRgQtF1w"
+      },
+      {
+        "title": "Renaissance Bali Nusa Dua Resort, Bali | Hotel Review 2023 | Suite room | Marriott Travel",
+        "channel": "The Elite Leisure Traveller",
+        "url": "https://www.youtube.com/watch?v=vS9td_dmiWI",
+        "video_id": "vS9td_dmiWI"
+      },
+      {
+        "title": "Renaissance Bali Nusa Dua Hotel Review | Discover a brand new hotel in Bali!",
+        "channel": "Pippa & Hugo Travel Reviews",
+        "url": "https://www.youtube.com/watch?v=JjsH25fNKqA",
+        "video_id": "JjsH25fNKqA"
+      },
+      {
+        "title": "LUXURY HOTEL & RESORT IN BALI❗️ RENAISSANCE BALI NUSA DUA RESORT | HOTEL DAN RESORT TERMEWAH DI BALI",
+        "channel": "Friska Yeni",
+        "url": "https://www.youtube.com/watch?v=Xtt3WZScvbw",
+        "video_id": "Xtt3WZScvbw"
+      }
+    ]
+  },
+  "tags": ["nusa-dua", "resort", "family-friendly"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dpsnd-renaissance-bali-nusa-dua-resort/overview/",
+      "label": "Official Renaissance Bali Nusa Dua Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297698-d23198574-Reviews-Renaissance_Bali_Nusa_Dua_Resort-Nusa_Dua_Benoa_South_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dpsnd-renaissance-bali-nusa-dua-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["courtyard-bali-nusa-dua", "laguna-luxury-collection-nusa-dua-bali", "westin-resort-nusa-dua-bali"],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 72 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 85 }
+    ]
+  },
+  "reliability_score": 63,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}

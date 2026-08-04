@@ -1,0 +1,168 @@
+{
+  "entity_id": "sheraton-petaling-jaya-hotel",
+  "slug": "sheraton-petaling-jaya-hotel",
+  "name": "Sheraton Petaling Jaya Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kuala-lumpur",
+  "short_description": "A modern 253-room Sheraton in the heart of Petaling Jaya, PJ's tallest hotel, with a Level 33 rooftop infinity pool, a large Club Lounge and six dining outlets west of Kuala Lumpur.",
+  "ai_summary": "Opened in October 2017, the Sheraton Petaling Jaya is a 253-room high-rise business hotel in central Petaling Jaya, roughly 20 minutes west of downtown Kuala Lumpur and about 45 minutes from KLIA. It holds a 4.0/5 rating on TripAdvisor (ranked #6 of 52 PJ hotels across 700+ reviews). Guests and bloggers consistently praise spacious, contemporary rooms with the Sheraton Signature Sleep Experience, panoramic city views from high floors, and a standout Level 33 rooftop infinity pool overlooking the skyline. The Club Lounge, on level 31, draws especially strong reviews for its unusually large, elegant space and generous evening cocktail spread with local bites like satay; FEAST all-day dining and Link Cafe are cited for good buffets and a la carte breakfasts. Service is generally described as friendly and professional, making it a reliable pick for both business travelers and families doing a city staycation. Reported watchouts are inconsistent housekeeping and maintenance in some rooms (one reviewer flagged a bathroom drainage issue and another a lingering smoke smell), plus occasional complaints about slow deposit refunds and internal communication. Overall it reads as a solid, good-value upper-upscale option in the Klang Valley, best suited to travelers whose base is PJ rather than central KL.",
+  "core_facts": {
+    "address": "Jalan Utara C, Section 52, 46200 Petaling Jaya, Selangor, Malaysia",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Petaling Jaya / Section 52 (PJ central business district)",
+    "distance_from_airport_km": 55,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Large, elegant Club Lounge with generous evening cocktails and local bites",
+    "Level 33 rooftop infinity pool with panoramic Klang Valley / KL skyline views",
+    "Spacious, contemporary rooms with the Sheraton Signature Sleep Experience",
+    "Good-value rates for an upper-upscale property, with strong buffet breakfasts"
+  ],
+  "cons": [
+    "Located in Petaling Jaya, west of KL and far (~45 min) from KLIA and central-KL attractions",
+    "Inconsistent housekeeping/maintenance in some rooms (drainage, smoke smell reported)",
+    "Occasional complaints about slow deposit refunds and internal communication"
+  ],
+  "research_highlights": [
+    "PJ's tallest hotel; multiple independent bloggers rate the Club Lounge as a highlight",
+    "Rooftop infinity pool, kids' club and fitness centre clustered on Level 33",
+    "4.0/5 on TripAdvisor, ranked #6 of 52 hotels in Petaling Jaya"
+  ],
+  "research_watchouts": [
+    "Room quality is variable -- isolated reports of poor bathroom drainage and lingering smoke odor",
+    "Guest reports of delayed security-deposit refunds and weak internal communication"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-04",
+  "faqs": [
+    {
+      "question": "How far is the Sheraton Petaling Jaya from Kuala Lumpur International Airport (KLIA)?",
+      "answer": "It is roughly 55 km and about a 45-minute drive from KLIA (KUL). The hotel sits in Petaling Jaya, west of Kuala Lumpur, so it is closer to the PJ/Klang Valley business area than to central-KL attractions, which are about 20 minutes away."
+    },
+    {
+      "question": "Does the Sheraton Petaling Jaya have a swimming pool and Club Lounge?",
+      "answer": "Yes. There is an outdoor rooftop infinity pool on Level 33 (plus a children's pool, kids' club and fitness centre), and a large Club Lounge on level 31 offering complimentary breakfast and evening cocktails with local snacks for eligible guests."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Sheraton Petaling Jaya",
+        "source": "GoodyFoodies",
+        "author": "Baby Sumo",
+        "url": "https://goodyfoodies.blogspot.com/2019/01/sheraton-petaling-jaya-hotel-review.html",
+        "published_date": "2019-01-23",
+        "summary": "Family stay in a spacious Sheraton Club Twin room with plush beds and panoramic city views; praised the hospitality, food and 31st-floor Club Lounge with complimentary cocktails and breakfast, plus the Level 33 infinity pool."
+      },
+      {
+        "title": "Review: Sheraton Petaling Jaya Hotel, Malaysia (Executive Suite & Club Lounge)",
+        "source": "HotelHobby",
+        "url": "https://www.hotelhobby.com/2019/07/review-sheraton-petaling-jaya-hotel-malaysia.html",
+        "published_date": "2019-07-01",
+        "summary": "Praises a spacious 76 sqm Executive Suite with marble bathroom; the standout is the expansive level-31 Club Lounge with excellent evening cocktails and local bites like satay. About 45 min from KLIA, 20 from KL city."
+      },
+      {
+        "title": "Hotel Staycation Review: Sheraton Petaling Jaya Executive Suite",
+        "source": "Crisp of Life",
+        "author": "eepin",
+        "url": "https://www.crispoflife.com/2021/12/Sheraton-petaling-jaya-staycation-hotel-review.html",
+        "published_date": "2021-12-27",
+        "summary": "Discounted 3-day stay with a complimentary upgrade to a high-floor corner Executive Suite; loved the comfortable bed, city views, rooftop infinity pool over KL and a la carte breakfast, concluding rooms are comfortable and rates are good."
+      },
+      {
+        "title": "Sheraton PJ Hotel Club Room Review",
+        "source": "Tekkaus",
+        "author": "Tekkaus",
+        "url": "https://www.tekkaus.com/2022/12/sheraton-pj-hotel-club-room-review.html",
+        "published_date": "2022-12-21",
+        "summary": "Family enjoyed spacious upgraded Club Rooms with Club Lounge access (complimentary food and drinks 6-9pm), excellent sleep from Sheraton bedding and luxurious bathrooms; rated one of the best hotels for a PJ-area stay."
+      },
+      {
+        "title": "Hotel Review: Sheraton Petaling Jaya",
+        "source": "The Seat in the Middle",
+        "author": "Andrew",
+        "url": "https://www.theseatinthemiddle.com/2023/09/10/hotel-review-sheraton-petaling-jaya/",
+        "published_date": "2023-09-10",
+        "summary": "Received a one-bedroom suite upgrade and highlighted the quiet, peaceful Sheraton Club; noted above-average amenities including the rooftop pool, fitness centre and an elaborate breakfast buffet at the Feast restaurant."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Petaling Jaya | Suite Room Tour, Lounge Preview and Hotel Highlights",
+        "channel": "Let's Go",
+        "url": "https://www.youtube.com/watch?v=Jd0Q7DpGnHc",
+        "video_id": "Jd0Q7DpGnHc",
+        "published_date": "2025-03-26"
+      },
+      {
+        "title": "Sheraton Petaling Jaya Hotel - 1 Bedroom Suite",
+        "channel": "Follow Us",
+        "url": "https://www.youtube.com/watch?v=eaqEJmQCU84",
+        "video_id": "eaqEJmQCU84"
+      },
+      {
+        "title": "Hotel Review - Sheraton Petaling Jaya - Sheraton Suite & Executive Club Suite Review - 2021",
+        "channel": "Eric & Leonard Explores Hotels",
+        "url": "https://www.youtube.com/watch?v=fe6uebKA9GM",
+        "video_id": "fe6uebKA9GM",
+        "published_date": "2021-04-11"
+      },
+      {
+        "title": "Hotel Review - Sheraton Petaling Jaya - Sheraton Suite - September 2019",
+        "channel": "Eric & Leonard Explores Hotels",
+        "url": "https://www.youtube.com/watch?v=izcBeS6x1PA",
+        "video_id": "izcBeS6x1PA",
+        "published_date": "2019-11-14"
+      },
+      {
+        "title": "REVIEW: Sheraton PJ Hotel in Kuala Lumpur Malaysia",
+        "channel": "Dazzlin & travellin",
+        "url": "https://www.youtube.com/watch?v=xG7jVgra0i4",
+        "video_id": "xG7jVgra0i4",
+        "published_date": "2024-08-11"
+      }
+    ]
+  },
+  "tags": ["petaling-jaya", "business", "suburban"],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/szbsi-sheraton-petaling-jaya-hotel/overview/",
+      "label": "Official Sheraton Petaling Jaya overview",
+      "type": "official",
+      "last_checked": "2026-08-04"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298313-d12834097-Reviews-Sheraton_Petaling_Jaya_Hotel-Petaling_Jaya_Petaling_District_Selangor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-04"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/szbsi-sheraton-petaling-jaya-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sheraton-imperial-kuala-lumpur", "petaling-jaya-marriott-hotel", "courtyard-kuala-lumpur-south"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 83 }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-04",
+  "status": "active"
+}
