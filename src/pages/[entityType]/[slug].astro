@@ -82,26 +82,41 @@ const jsonLd = [
   <div class="mx-auto max-w-3xl px-4 py-10 sm:px-6">
     <Breadcrumb items={breadcrumbItems} />
 
-    <h1 class="mt-4 font-serif text-3xl font-semibold sm:text-4xl">{entity.name}</h1>
-    <p class="mt-3 text-lg text-brand-muted dark:text-brand-muted-dark">{entity.short_description}</p>
-    <div class="mt-2">
+    {brand ? (
+      <div class="mt-4">
+        {/* Image-free masthead: the tinted tier register IS the hero. Adopts
+            the hotel's tier colour (black-tie for luxury, gold for premium,
+            pale for select), carries the name + reliability score, and the
+            short description sits in the surface strip below. */}
+        <div class={`relative overflow-hidden rounded-t-xl p-6 sm:p-8 ${reg.panel}`}>
+          {reg.tex && <span class="tier-tex" aria-hidden="true"></span>}
+          <p class={`kicker relative z-10 ${reg.label}`}>{brand.label} &middot; {tierLabel(brand.tier)}</p>
+          <div class="relative z-10 mt-2 flex items-end justify-between gap-5">
+            <div class="min-w-0">
+              <h1 class="font-serif text-3xl font-normal leading-tight sm:text-4xl">{entity.name}</h1>
+              {entity.core_facts?.neighborhood && (
+                <p class="mt-2 text-sm opacity-90">{entity.core_facts.neighborhood}</p>
+              )}
+            </div>
+            <div class="flex-none text-center">
+              <div class="font-serif text-4xl leading-none tabular-nums sm:text-5xl">{entity.reliability_score}</div>
+              <p class="kicker mt-1 opacity-80">Reliability</p>
+            </div>
+          </div>
+        </div>
+        <p class="rounded-b-xl border border-t-0 border-brand-divider bg-brand-surface px-6 py-4 text-brand-muted dark:border-brand-divider-dark dark:bg-brand-surface-dark sm:px-8">
+          {entity.short_description}
+        </p>
+      </div>
+    ) : (
+      <Fragment>
+        <h1 class="mt-4 font-serif text-3xl font-semibold sm:text-4xl">{entity.name}</h1>
+        <p class="mt-3 text-lg text-brand-muted dark:text-brand-muted-dark">{entity.short_description}</p>
+      </Fragment>
+    )}
+    <div class="mt-3">
       <LastUpdated date={entity.last_updated} />
     </div>
-
-    {brand && (
-      <div class={`mt-8 flex items-center justify-between gap-4 rounded-lg p-5 ${reg.panel}`}>
-        <div class="min-w-0">
-          <p class={`kicker ${reg.label}`}>{brand.label} &middot; {tierLabel(brand.tier)}</p>
-          {entity.core_facts?.neighborhood && (
-            <p class="mt-1 truncate font-serif text-lg leading-snug">{entity.core_facts.neighborhood}</p>
-          )}
-        </div>
-        <div class="flex-none text-center">
-          <div class="font-serif text-4xl leading-none tabular-nums">{entity.reliability_score}</div>
-          <p class="kicker mt-1 opacity-80">Reliability</p>
-        </div>
-      </div>
-    )}
 
     <div class="prose-content mt-8">
       <p>{entity.ai_summary}</p>

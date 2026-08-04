@@ -64,24 +64,29 @@ export function tierLabel(tier) {
 }
 
 // Tailwind class strings for each tier's panel register, shared by the card
-// panel and the detail-page band so there is one source of truth. This file
-// is inside Tailwind's content globs, so these classes are picked up in the
-// build. Every colour is a brand-* token -> the palette stays config-driven:
-// gold wash for luxury, ink for a premium/Collection brand, neutral with a
-// gold hairline for select-service. `tex` toggles the faint engraved overlay.
+// panel and the detail-page masthead so there is one source of truth. This
+// file is inside Tailwind's content globs, so the classes are picked up in
+// the build. Palette = "black-tie": darker reads as higher tier.
+//   luxury  -> near-black + gold (a black-tie plate; dark in both themes so
+//              it stays "luxury" rather than flipping to a light panel)
+//   premium -> gold wash
+//   select  -> pale neutral + a gold hairline
+// Colours are brand-* tokens so the palette stays config-driven; the two
+// non-flipping tokens (text-brand-primary-ink cream, primary-hover-dark
+// gold) are used as fixed values on the always-dark luxury plate.
 export const TIER_REGISTER = {
   luxury: {
+    panel: 'bg-brand-text text-brand-primary-ink dark:bg-black',
+    label: 'text-brand-primary-hover-dark',
+    tex: true,
+  },
+  premium: {
     panel: 'bg-brand-primary text-brand-primary-ink dark:bg-brand-primary-hover-dark dark:text-brand-primary-ink-dark',
     label: '',
     tex: true,
   },
-  premium: {
-    panel: 'bg-brand-text text-brand-bg dark:bg-black dark:text-brand-text-dark',
-    label: 'text-brand-primary dark:text-brand-primary-hover-dark',
-    tex: true,
-  },
   select: {
-    panel: 'border-t-[3px] border-brand-primary bg-brand-panel-b text-brand-text dark:bg-brand-panel-b-dark dark:text-brand-text-dark',
+    panel: 'border-t-[3px] border-brand-primary bg-brand-panel-b text-brand-text dark:border-brand-primary-hover-dark dark:bg-brand-panel-b-dark dark:text-brand-text-dark',
     label: 'text-brand-primary-hover dark:text-brand-primary-hover-dark',
     tex: false,
   },

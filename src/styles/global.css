@@ -82,4 +82,19 @@
   .btn-primary {
     @apply inline-block bg-brand-primary px-8 py-3 text-sm font-medium tracking-wide text-brand-primary-ink transition-colors hover:bg-brand-primary-hover dark:bg-brand-primary-hover-dark dark:text-brand-primary-ink-dark dark:hover:brightness-110;
   }
+  /* Faint engraved (guilloché) overlay for the tier-coded panels + detail
+     masthead. currentColor picks up each register's own text colour; the
+     mask is a soft vignette that scales for both the 4:3 card and the wide
+     masthead. Theme-agnostic -- no token references. */
+  .tier-tex {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.12;
+    background:
+      repeating-linear-gradient(45deg, currentColor 0 1px, transparent 1px 9px),
+      repeating-linear-gradient(-45deg, currentColor 0 1px, transparent 1px 9px);
+    -webkit-mask-image: radial-gradient(130% 150% at 50% 42%, #000 26%, transparent 82%);
+    mask-image: radial-gradient(130% 150% at 50% 42%, #000 26%, transparent 82%);
+  }
 }
