@@ -49,6 +49,70 @@
       "answer": "Yes -- guest reviews consistently describe it as quiet and relaxed, with a Kids' Club, a large lagoon pool, and beachfront pool villas that suit families with young children better than busier west-coast resorts."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "A Review of the Phuket Marriott Resort and Spa Nai Yang",
+        "source": "The Points Guy",
+        "author": "Eric Rosen",
+        "url": "https://thepointsguy.com/hotel/reviews/phuket-marriott-resort-and-spa/",
+        "published_date": "2019-01-06",
+        "summary": "Points-and-miles review calling the resort a pleasant but unremarkable Bonvoy option with fresh rooms and handy airport access, though quieter and less lively than hotels near Phuket's main attractions."
+      },
+      {
+        "title": "We review Phuket Marriott Resort and Spa, Nai Yang Beach: a secluded escape from the crowds",
+        "source": "The Hotel Journal",
+        "author": "Andre Neveling",
+        "url": "https://thehoteljournal.com/phuket-marriott-resort-and-spa-nai-yang-beach-review/",
+        "published_date": "2026-06-02",
+        "summary": "Reviews the beachfront five-star on Phuket's quieter northwest coast, praising the peace and airport proximity while noting swimming depends on dramatic tidal shifts."
+      },
+      {
+        "title": "Thailand Hotel Review: Phuket Marriott Resort and Spa, Nai Yang Beach",
+        "source": "Accidental Travel Writer",
+        "author": "Michael Taylor",
+        "url": "https://accidentaltravelwriter.com/thailand-hotel-review-phuket-marriott-resort-and-spa-nai-yang-beach/",
+        "published_date": "2018-06-27",
+        "summary": "Detailed two-night stay review highlighting the resort's distinctive loop swimming pool, beachfront villas, dining venues and amenities."
+      },
+      {
+        "title": "Phuket Marriott Resort and Spa Nai Yang Beach Hotel Review",
+        "source": "dobbernationLOVES",
+        "author": "Andrew Dobson",
+        "url": "https://dobbernationloves.com/travel-resorts/phuket-marriott-resort-and-spa-nai-yang-beach-hotel-review/",
+        "published_date": "2024-01-17",
+        "summary": "In-depth villa-stay review by a Toronto travel writer covering the accommodations, pools, dining, kids' facilities and Quan Spa."
+      },
+      {
+        "title": "Phuket Marriott Resort and Spa Nai Yang Beach, my honest review",
+        "source": "Fat Mum Slim",
+        "author": "Chantelle Ellem",
+        "url": "https://fatmumslim.com.au/phuket-marriott-resort-and-spa-nai-yang-beach/",
+        "published_date": "2026-01-25",
+        "summary": "Family-travel blogger frames the beachfront resort as a calm full-stop to a busy Phuket trip, praising the relaxed atmosphere, dining and pool access over nightlife."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Phuket Marriott Resort and Spa, Nai Yang Beach Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=VZD-xg9gCSg",
+        "video_id": "VZD-xg9gCSg"
+      },
+      {
+        "title": "Phuket Marriott Resort & Spa Nai Yang Beach - 2 Bedroom Suite & Resort Tour (Family Friendly Resort)",
+        "channel": "Luxe Hotel Reviews",
+        "url": "https://www.youtube.com/watch?v=fow9X7c5xls",
+        "video_id": "fow9X7c5xls"
+      },
+      {
+        "title": "MARRIOTT NAI YANG Phuket, Thailand 🇹🇭【4K Hotel Tour & Honest Review】Way too GENERIC?",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=po9srkACnCo",
+        "video_id": "po9srkACnCo"
+      }
+    ]
+  },
   "tags": ["nai yang beach", "near airport", "family resort"],
   "source_mix": [
     {

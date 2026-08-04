@@ -50,6 +50,68 @@
       "answer": "Guest reviews describe the resort's private beach as rocky and not well suited to swimming; the three outdoor pools are the more practical option for a swim during your stay."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Westin Phuket Siray Bay Resort Review",
+        "source": "dobbernationLOVES",
+        "author": "Andrew Dobson",
+        "url": "https://dobbernationloves.com/travel-resorts/westin-phuket-siray-bay-resort-review/",
+        "published_date": "2023-01-16",
+        "summary": "Four-night pool-villa stay: praises Heavenly Beds, three pools, warm service, and three dining venues. Peaceful setting 15 minutes from Phuket Town; recommended for couples and honeymooners."
+      },
+      {
+        "title": "Westin Siray Bay Phuket Review",
+        "source": "One Mile at a Time",
+        "author": "Ben Schlappig",
+        "url": "https://onemileatatime.com/beaches-and-mountains-westin-siray-bay-phuket/",
+        "published_date": "2011-10-22",
+        "summary": "Points-blogger stay with a suite upgrade at a bargain rate. Likes the grounds, pools and Platinum breakfast, but faults the uninviting beach and overpriced spa. A pool resort, not a beach hotel."
+      },
+      {
+        "title": "The Westin Phuket Siray Bay hotel review",
+        "source": "Fat Mum Slim",
+        "author": "Chantelle Ellem",
+        "url": "https://fatmumslim.com.au/the-westin-phuket-siray-bay/",
+        "published_date": "2026-01-28",
+        "summary": "Hosted family stay: four pools, hillside sea views, free buggy transport and five dining options. Rooms comfortable but a bit dated; a calm, resort-style base good for first-time Phuket visitors."
+      },
+      {
+        "title": "Review of the Westin Siray Bay Phuket",
+        "source": "Sarah Sees The World",
+        "author": "Sarah Kennerley",
+        "url": "https://sarahseestheworld.com/westin-siray-bay-phuket/",
+        "published_date": "2015-11-01",
+        "summary": "Booked a 50sqm Deluxe Sea View room and wasn't disappointed. Highlights friendly, characterful staff, three distinct pools and reasonable shuttles. A peaceful alternative to busy Patong."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Westin Siray Bay Phuket Deluxe Seaview Room tour - perfect for families ❤️#hosted #travel #thailand",
+        "channel": "Ankush Bahuguna",
+        "url": "https://www.youtube.com/watch?v=6Z-cr8M93IU",
+        "video_id": "6Z-cr8M93IU"
+      },
+      {
+        "title": "Review of the Westin Siray Bay Resort Phuket",
+        "channel": "Travelreview Guy",
+        "url": "https://www.youtube.com/watch?v=zybHuMNgxUk",
+        "video_id": "zybHuMNgxUk"
+      },
+      {
+        "title": "The Westin Siray Bay Resort & Spa, Phuket",
+        "channel": "My DNA Traveller",
+        "url": "https://www.youtube.com/watch?v=IxsiYP70JYI",
+        "video_id": "IxsiYP70JYI"
+      },
+      {
+        "title": "The Westin Siray Bay Resort & Spa, Phuket(Sola Pool Villa Seaview)",
+        "channel": "Amanda YU",
+        "url": "https://www.youtube.com/watch?v=m8-agBuQAhM",
+        "video_id": "m8-agBuQAhM"
+      }
+    ]
+  },
   "tags": ["siray bay", "under renovation", "wellness resort"],
   "source_mix": [
     {
