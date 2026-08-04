@@ -4,6 +4,7 @@ import { simplifyAvailabilityStatus } from '../lib/text.js';
 import DateBadge from './DateBadge.astro';
 import ValuePills from './ValuePills.astro';
 import Pill from './Pill.astro';
+import { brandPresentation, TIER_REGISTER } from '../lib/brand.js';
 
 // THE card for an entity in any list -- hub grids, listicle pages,
 // RelatedEntities and the home page calendar all render this one
@@ -60,6 +61,20 @@ const kicker = [facts.neighborhood, firstTag]
   .filter(Boolean)
   .map((s, i) => (i === 1 ? s.charAt(0).toUpperCase() + s.slice(1) : s))
   .join(' · ');
+
+// 2026-08-03 image-free redesign: an entity carrying a Bonvoy sub-brand
+// (i.e. a hotel) gets a tier-coded typographic panel in place of a photo.
+// brandPresentation() returns null for anything else, so other verticals
+// keep the generic serif-initial card in the final branch below.
+const brand = brandPresentation(entity);
+const cityLabel = (entity.region_id ?? '')
+  .split('-')
+  .filter(Boolean)
+  .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+  .join(' ');
+const place = brand ? [cityLabel, facts.neighborhood].filter(Boolean).join(' · ') : '';
+// Tier -> panel register (shared source of truth in lib/brand.js).
+const reg = brand ? TIER_REGISTER[brand.tier] : null;
 ---
 
 {hasDate ? (
@@ -97,6 +112,28 @@ const kicker = [facts.neighborhood, firstTag]
       </div>
     </div>
   </div>
+) : brand ? (
+  <article data-filterable data-tags={filterTags} data-search={searchText} {...extraAttrs}>
+    <a
+      href={urls.entity(entity.slug)}
+      aria-label={entity.name}
+      class={`group relative flex aspect-[4/3] flex-col overflow-hidden rounded-lg p-4 no-underline transition-shadow duration-200 ease-interactive hover:shadow-md ${reg.panel}`}
+    >
+      {reg.tex && <span class="ec-tex" aria-hidden="true"></span>}
+      <span class="pointer-events-none absolute inset-2 rounded border border-current opacity-25" aria-hidden="true"></span>
+      <div class="relative z-10 flex items-center justify-between gap-2">
+        <span class={`kicker ${reg.label}`}>{brand.label}</span>
+        <span class="flex h-7 w-7 flex-none items-center justify-center rounded-full border border-current font-serif text-sm leading-none opacity-80">{brand.monogram}</span>
+      </div>
+      <div class="relative z-10 flex flex-1 items-center py-2">
+        <h3 class="line-clamp-3 font-serif text-xl font-normal leading-tight">{brand.displayName}</h3>
+      </div>
+      {place && <p class="relative z-10 truncate text-xs tracking-wide opacity-90">{place}</p>}
+    </a>
+    {entity.short_description && (
+      <p class="mt-3 line-clamp-2 text-sm leading-relaxed text-brand-muted dark:text-brand-muted-dark">{entity.short_description}</p>
+    )}
+  </article>
 ) : (
   <article data-filterable data-tags={filterTags} data-search={searchText} {...extraAttrs}>
     <a href={urls.entity(entity.slug)} class={`flex aspect-[4/3] items-center justify-center overflow-hidden ${panelClass}`}>
@@ -121,3 +158,21 @@ const kicker = [facts.neighborhood, firstTag]
     )}
   </article>
 )}
+
+<style>
+  /* Faint engraved (guilloché) overlay for the luxury/premium panels.
+     currentColor picks up each register's own text colour, masked to a soft
+     vignette so it reads as texture rather than a grid. Theme-agnostic --
+     no token references needed. */
+  .ec-tex {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.13;
+    background:
+      repeating-linear-gradient(45deg, currentColor 0 1px, transparent 1px 9px),
+      repeating-linear-gradient(-45deg, currentColor 0 1px, transparent 1px 9px);
+    -webkit-mask-image: radial-gradient(circle at 50% 52%, #000 34%, transparent 74%);
+    mask-image: radial-gradient(circle at 50% 52%, #000 34%, transparent 74%);
+  }
+</style>

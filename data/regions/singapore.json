@@ -6,12 +6,6 @@
   "parent_region_id": null,
   "short_description": "Loyalty-program hotels across Singapore, from Marina Bay towers to Orchard Road and Sentosa.",
   "intro": "Singapore's coverage in this directory spans the full range, from flagship city hotels around Marina Bay and the Civic District to Orchard Road shopping-district properties and resort-style stays on Sentosa Island. As a compact, transit-connected city-state, the choice between neighborhoods usually comes down to proximity to Changi Airport, the Central Business District, or leisure attractions rather than raw distance.",
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Singapore_Marina_Bay_Dusk_2018-02-27.jpg/1920px-Singapore_Marina_Bay_Dusk_2018-02-27.jpg",
-    "alt": "Marina Bay and the Singapore skyline at dusk",
-    "credit": "Benh LIEU SONG, CC BY-SA 4.0 (via Wikimedia Commons)",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dusk_2018-02-27.jpg"
-  },
   "faqs": [],
   "last_updated": "2026-07-31",
   "status": "active"

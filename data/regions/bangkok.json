@@ -6,12 +6,6 @@
   "parent_region_id": "thailand",
   "short_description": "Loyalty-program hotels across Bangkok, from riverside luxury to Sukhumvit business towers.",
   "intro": "Bangkok's hotels in this directory cluster into a few distinct pockets: riverside luxury and resort-style properties along the Chao Phraya, business and shopping-district towers around Sukhumvit and Sathorn, and hotels closer to Suvarnabhumi Airport for short layovers or early departures. Traffic can be significant at street level, so proximity to a BTS or MRT station matters more for getting around than straight-line distance.",
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg/1920px-Templo_Wat_Arun%2C_Bangkok%2C_Tailandia%2C_2013-08-22%2C_DD_30.jpg",
-    "alt": "Wat Arun temple on the Chao Phraya River, Bangkok",
-    "credit": "Diego Delso, CC BY-SA 3.0 (via Wikimedia Commons)",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Templo_Wat_Arun,_Bangkok,_Tailandia,_2013-08-22,_DD_30.jpg"
-  },
   "faqs": [],
   "last_updated": "2026-07-31",
   "status": "active"

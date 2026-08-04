@@ -104,13 +104,13 @@ const quickDistanceCategories = categories
   .sort((a, b) => b.matchRange[0] - a.matchRange[0]);
 
 // Editor's picks: one hotel per city, so the featured grid spans all six
-// cities rather than clustering in whichever city happens to have the highest
-// scores. Within each city, prefer a hotel that has a real photo (so no pick
-// is a bare placeholder), then the highest reliability score. The resulting
-// one-per-city set is ordered by reliability so the strongest pick leads.
+// cities rather than clustering in whichever city happens to have the
+// highest scores. The site is image-free, so the pick is simply the
+// highest-reliability hotel in each city; the resulting one-per-city set is
+// ordered by reliability so the strongest pick leads.
 const bestByCity = new Map();
 for (const e of entities) {
-  const rank = (e.image?.url ? 1000 : 0) + e.reliability_score;
+  const rank = e.reliability_score;
   const cur = bestByCity.get(e.region_id);
   if (!cur || rank > cur.rank) bestByCity.set(e.region_id, { entity: e, rank });
 }

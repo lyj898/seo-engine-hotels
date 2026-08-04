@@ -21,6 +21,7 @@ import RelatedEntities from '../../components/RelatedEntities.astro';
 import LastUpdated from '../../components/LastUpdated.astro';
 import Pill from '../../components/Pill.astro';
 import { narrowFactsToCategories } from '../../lib/categoryMatch.js';
+import { brandPresentation, tierLabel, TIER_REGISTER } from '../../lib/brand.js';
 import { buildEntitySchema, buildFaqPageSchema, buildBreadcrumbListSchema } from '../../lib/schema-jsonld.js';
 
 export function getStaticPaths() {
@@ -41,6 +42,13 @@ const allEntities = loadEntities().map(stripMeta).filter(isPublished);
 
 const category = categories.find((c) => c.category_id === entity.category_id);
 const region = regions.find((r) => r.region_id === entity.region_id);
+
+// Image-free hero: a hotel (any entity with a Bonvoy sub-brand) gets a
+// tier-coded "verdict band" where the photo used to be -- brand, tier and
+// the reliability score. Deliberately does not restate the granular facts,
+// which FactsTable already renders below.
+const brand = brandPresentation(entity);
+const reg = brand ? TIER_REGISTER[brand.tier] : null;
 
 const relatedEntities = allEntities.filter(
   (e) => entity.related_entity_ids?.includes(e.entity_id) && e.entity_id !== entity.entity_id
@@ -80,27 +88,19 @@ const jsonLd = [
       <LastUpdated date={entity.last_updated} />
     </div>
 
-    {entity.image?.url && (
-      <figure class="mt-8">
-        <img
-          src={entity.image.url}
-          alt={entity.image.alt ?? entity.name}
-          width="768"
-          height="432"
-          loading="lazy"
-          decoding="async"
-          class="aspect-[16/9] w-full rounded-lg object-cover"
-        />
-        {entity.image.credit && (
-          <figcaption class="mt-2 text-xs text-brand-faint dark:text-brand-faint-dark">
-            {entity.image.source_url ? (
-              <a href={entity.image.source_url} rel="nofollow noopener" target="_blank" class="link-accent">{entity.image.credit}</a>
-            ) : (
-              entity.image.credit
-            )}
-          </figcaption>
-        )}
-      </figure>
+    {brand && (
+      <div class={`mt-8 flex items-center justify-between gap-4 rounded-lg p-5 ${reg.panel}`}>
+        <div class="min-w-0">
+          <p class={`kicker ${reg.label}`}>{brand.label} &middot; {tierLabel(brand.tier)}</p>
+          {entity.core_facts?.neighborhood && (
+            <p class="mt-1 truncate font-serif text-lg leading-snug">{entity.core_facts.neighborhood}</p>
+          )}
+        </div>
+        <div class="flex-none text-center">
+          <div class="font-serif text-4xl leading-none tabular-nums">{entity.reliability_score}</div>
+          <p class="kicker mt-1 opacity-80">Reliability</p>
+        </div>
+      </div>
     )}
 
     <div class="prose-content mt-8">
