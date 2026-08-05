@@ -50,6 +50,68 @@
       "answer": "Yes -- guest reviews frequently describe generous upgrades for Platinum Elite and above, with some travelers reporting upgrades to multi-room suites, though the separate executive lounge breakfast is rated more modestly than the main restaurant's spread."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: The Excellent Marriott Surawongse - Bangkok, Thailand",
+        "source": "God Save The Points",
+        "author": "Gilbert Ott",
+        "url": "https://www.godsavethepoints.com/bangkok-marriott-surawongse-review-five-star-pool/",
+        "published_date": "2018-07-19",
+        "summary": "Rates the property exceptional five-star value at around $150 a night, singling out the standout infinity pool, modern rooms and dining as equal or better than pricier Bangkok hotels."
+      },
+      {
+        "title": "Hotel REVIEW: Bangkok Marriott Surawongse",
+        "source": "Pierre Blake",
+        "author": "Pierre Blake",
+        "url": "https://pierreblake.com/bangkok-marriott-hotel-the-surawongse-review-impeccable-location/",
+        "published_date": "2019-05-31",
+        "summary": "Stay in an Executive Room with M Club access; praises the location between the river and Silom, the 18th-floor infinity pool and lounge sunset views, scoring it 8.6/10."
+      },
+      {
+        "title": "Bangkok Marriott Hotel The Surawongse, Thailand - unique Rooftop-Bar right at Chao Phraya river",
+        "source": "getmeevrywhre",
+        "author": "Micha",
+        "url": "https://getmeevrywhre.com/en/marriott-the-surawongse-2/",
+        "published_date": "2025-04-15",
+        "summary": "Upgraded to a one-bedroom suite on the 12th floor; loved the rooftop bar, service and riverside location but flagged worn pool loungers and limited family amenities, rating it 9/10."
+      },
+      {
+        "title": "Bangkok Marriott The Surowongse review",
+        "source": "The Travel Temple",
+        "author": "Tiana Templeman",
+        "url": "https://www.thetraveltemple.com.au/bangkok-marriott-the-surowongse-review/",
+        "published_date": "2018-08-01",
+        "summary": "Highlights how the hotel blends Thai culture with five-star amenities in the Bangrak neighbourhood, praising the rooms, M Club lounge, spa and rooftop bar as standout features."
+      }
+    ],
+    "videos": [
+      {
+        "title": "BEST Hotel in Bangkok: Marriott Hotel The Surawongse Room Tour, Gym, Spa, and More",
+        "channel": "Nick Gray",
+        "url": "https://www.youtube.com/watch?v=cxAcdzYA6LY",
+        "video_id": "cxAcdzYA6LY"
+      },
+      {
+        "title": "New Luxury Hotel - Bangkok Marriott Hotel The Surawongse (full tour)",
+        "channel": "Choco Travel Guide",
+        "url": "https://www.youtube.com/watch?v=t90h7IdLTEA",
+        "video_id": "t90h7IdLTEA"
+      },
+      {
+        "title": "Suite Room Bangkok Marriott Hotel the Surawongse🇹🇭 Breakfast, Lounge, Pool review 4K",
+        "channel": "Taiyaki Japan Travel vlog",
+        "url": "https://www.youtube.com/watch?v=r3SbACCz6rE",
+        "video_id": "r3SbACCz6rE"
+      },
+      {
+        "title": "MARRIOTT THE SURAWONGSE BANGKOK | BEST POOL OF BANGKOK | HOTEL REVIEW 4K UHD",
+        "channel": "AeroTravel",
+        "url": "https://www.youtube.com/watch?v=B1f-KoOPgEE",
+        "video_id": "B1f-KoOPgEE"
+      }
+    ]
+  },
   "tags": ["bangrak", "silom", "heritage district"],
   "source_mix": [
     {

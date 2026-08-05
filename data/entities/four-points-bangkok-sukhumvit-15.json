@@ -49,6 +49,64 @@
       "answer": "Not typically -- guest reviews note that most rooms face neighboring buildings rather than open skyline views, so travelers prioritizing a view may want to check room categories carefully or consider a different property."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Four Points by Sheraton Bangkok, Sukhumvit 15",
+        "source": "Building My Bento",
+        "author": "JapanAtoZee",
+        "url": "https://buildingmybento.wordpress.com/2022/07/05/hotel-review-four-points-by-sheraton-bangkok-sukhumvit-15/",
+        "published_date": "2022-07-05",
+        "summary": "Two-night stay near BTS Asok. Praises the very comfortable bed, quiet rooms and a solid breakfast buffet with Thai options; dings unreliable Wi-Fi and a slow key-card fix but would return."
+      },
+      {
+        "title": "Four Points by Sheraton Bangkok, Sukhumvit 15 Review",
+        "source": "The Brief Review",
+        "author": "AB",
+        "url": "https://thebriefreview.com/four-points-by-sheraton-bangkok-sukhumvit-15-review-bangkok-thailand/",
+        "published_date": "2024-11-08",
+        "summary": "Favorable Marriott Bonvoy-focused review: spacious rooms with city views, rooftop pool and bar, all-day dining. Advises taking the free breakfast-for-two benefit; no on-site lounge but easy BTS/MRT access."
+      },
+      {
+        "title": "Four Points by Sheraton Bangkok, Sukhumvit 15",
+        "source": "Travelwerke",
+        "url": "https://travelwerke.wordpress.com/reviews/hotels/four-points-by-sheraton-bangkok-sukhumvit-15/",
+        "summary": "Balanced blog review calling out the fantastic location and spacious rooms plus multiple bars (amBar, BeerVault), while noting inconsistent service, some bathroom wear and paid Wi-Fi. Rated good value."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Our Review of Four Points By Sheraton Bangkok Sukhumvit 15 (Thailand) 2023",
+        "channel": "Adventurous Alex and Ukrainian Girl Olena",
+        "url": "https://www.youtube.com/watch?v=pF3MTCYgFqw",
+        "video_id": "pF3MTCYgFqw"
+      },
+      {
+        "title": "Four Points by Sheraton Bangkok, Sukhumvit 15 | Bangkok, Thailand | Hotel Review 🌟",
+        "channel": "Travel Spark Hotels",
+        "url": "https://www.youtube.com/watch?v=2AHxKb1a3Kc",
+        "video_id": "2AHxKb1a3Kc"
+      },
+      {
+        "title": "Four Points by Sheraton Bangkok, Sukhumvit 15 - Terrace Suite",
+        "channel": "Follow Us",
+        "url": "https://www.youtube.com/watch?v=6MVuLwJSTb0",
+        "video_id": "6MVuLwJSTb0"
+      },
+      {
+        "title": "Review: Four Points by Sheraton Bangkok Sukhumvit 15 in Thailand",
+        "channel": "Hotelhoppers",
+        "url": "https://www.youtube.com/watch?v=gQm82rW_gNA",
+        "video_id": "gQm82rW_gNA"
+      },
+      {
+        "title": "Four Points Sheraton Bangkok Sukhumvit 15",
+        "channel": "Mike Abroad",
+        "url": "https://www.youtube.com/watch?v=uUE9lkrsRpo",
+        "video_id": "uUE9lkrsRpo"
+      }
+    ]
+  },
   "tags": ["sukhumvit", "asoke", "select-service"],
   "source_mix": [
     {

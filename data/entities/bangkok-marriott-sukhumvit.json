@@ -49,6 +49,76 @@
       "answer": "Yes -- it houses an award-winning steakhouse, a rooftop bar, and an in-house dessert shop, and its Executive Lounge is repeatedly praised by guests for food variety and sunset skyline views."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Marriott Hotel Sukhumvit, Bangkok, Thailand",
+        "source": "Grown-up Travel Guide",
+        "author": "Andy Higgs",
+        "url": "https://grownuptravelguide.com/hotel-review-bangkok-marriott-hotel-sukhumvit-bangkok-thailand/",
+        "published_date": "2014-06-01",
+        "summary": "Seven-night stay review of the Soi 57/Thonglor property (295 rooms, 42 floors), covering rooms, dining venues, the Octave rooftop bar, and pool facilities."
+      },
+      {
+        "title": "Review: Bangkok Marriott Hotel Sukhumvit",
+        "source": "Traveling For Miles",
+        "author": "Ziggy",
+        "url": "https://travelingformiles.com/review-bangkok-marriott-hotel-sukhumvit/",
+        "published_date": "2019-02-18",
+        "summary": "Points-focused stay review noting the sub-five-minute walk to Thong Lo BTS, with detailed notes on the room, breakfast, executive lounge, rooftop bars and pool."
+      },
+      {
+        "title": "Bangkok Marriott Hotel Sukhumvit Review",
+        "source": "dobbernationLOVES",
+        "author": "Andrew Dobson",
+        "url": "https://dobbernationloves.com/travel-resorts/bangkok-marriott-hotel-sukhumvit-review/",
+        "published_date": "2025-03-05",
+        "summary": "Two-night suite stay at 2 Sukhumvit Soi 57, reviewing accommodations, the Anne Semonin Spa, five dining venues, the Executive Lounge and rooftop infinity pool."
+      },
+      {
+        "title": "Review: Bangkok Marriott Sukhumvit Soi 57 - Thonglor",
+        "source": "TopMiles",
+        "author": "Sam Huang",
+        "url": "https://topmiles.com/2017/03/08/review-bangkok-marriott-sukhumvit-soi-57-thonglor/",
+        "published_date": "2017-03-08",
+        "summary": "Week-long Marriott Gold member stay covering the room, 48th-floor rooftop bar and 40th-floor lounge, plus a plumbing issue that prompted a room change."
+      },
+      {
+        "title": "Marriott Sukhumvit Hotel Review (Bangkok, Thailand)",
+        "source": "Pierre Blake",
+        "author": "Pierre Blake",
+        "url": "https://pierreblake.com/marriott-sukhumvit-hotel-review-bangkok-thailand/",
+        "published_date": "2017-08-16",
+        "summary": "First-hand review from a 27th-floor room near Thong Lo BTS, covering the Octave rooftop bar, 7th-floor pool and gym, and ground-floor breakfast buffet; rated 7.8/10."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Bangkok Marriott Hotel Sukhumvit is a Solid 5-Star Choice in Thong Lor",
+        "channel": "The Tourist",
+        "url": "https://www.youtube.com/watch?v=ET2kiI-l62I",
+        "video_id": "ET2kiI-l62I"
+      },
+      {
+        "title": "Bangkok Marriott Hotel Sukhumvit Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=MPuH18tiFwc",
+        "video_id": "MPuH18tiFwc"
+      },
+      {
+        "title": "Bangkok Marriott Sukhumvit (Review & Tour of Room) The Hotel Inspector #hotelinspector",
+        "channel": "Hotel Quality Inspector",
+        "url": "https://www.youtube.com/watch?v=0LCUWj3s1qU",
+        "video_id": "0LCUWj3s1qU"
+      },
+      {
+        "title": "Marriott Bangkok Sukhumvit Tour: 5 Star Luxury Hotel in the Thai Capital",
+        "channel": "Andrew Dobson",
+        "url": "https://www.youtube.com/watch?v=p3nBib2wze8",
+        "video_id": "p3nBib2wze8"
+      }
+    ]
+  },
   "tags": ["thonglor", "sukhumvit", "full-service"],
   "source_mix": [
     {

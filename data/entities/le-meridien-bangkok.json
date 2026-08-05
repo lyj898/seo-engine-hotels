@@ -47,6 +47,75 @@
       "answer": "Yes -- the hotel sits on Surawong Road in Bang Rak, close to the Chao Phraya riverside and its river-cruise piers, as well as a short walk from the Patpong night market."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Le Méridien Bangkok Hotel Review",
+        "source": "dobbernationLOVES",
+        "author": "Andrew Dobson",
+        "url": "https://dobbernationloves.com/travel-resorts/le-meridien-bangkok-hotel-review/",
+        "published_date": "2023-11-21",
+        "summary": "Two-night luxury suite stay at the design-focused Silom property; praises the renovated rooms with circular beds, spa and Japanese onsen wellness facilities, dining venues and central location."
+      },
+      {
+        "title": "A Royal (dis)HHonor: Le Meridien Bangkok",
+        "source": "One Mile at a Time",
+        "author": "Ben Schlappig",
+        "url": "https://onemileatatime.com/a-royal-dishhonor-le-meridien-bangkok/",
+        "published_date": "2013-05-20",
+        "summary": "Upgraded to a circular 22nd-floor room the reviewer found architecturally interesting but impractical to sleep in; criticizes the gimmicky round bed yet praises the breakfast buffet and value."
+      },
+      {
+        "title": "Review: Le Méridien Bangkok | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Jean-Maximilien Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/le-meridien-bangkok/",
+        "published_date": "2023-04-12",
+        "summary": "Executive room booked for 30,000 Bonvoy points; found the renovated hotel well-appointed with quality breakfast and club lounge access, worth the points value despite a steep ~$380 cash rate."
+      },
+      {
+        "title": "Review: Le Meridien Bangkok",
+        "source": "Travel Codex",
+        "author": "Scott Mackenzie",
+        "url": "https://www.travelcodex.com/review-le-meridien-bangkok/",
+        "published_date": "2026-07-28",
+        "summary": "Three-night Starpoints stay in a spacious, modern room; appreciated the separate shower and large tub plus attentive service, though room-service breakfast was merely adequate."
+      },
+      {
+        "title": "Review: Le Meridien Bangkok",
+        "source": "Luxury Travel Diary",
+        "url": "https://www.luxurytraveldiary.com/2025/07/review-le-meridien-bangkok/",
+        "published_date": "2025-07-22",
+        "summary": "Genuine stay review praising the hotel's artistic design and central Silom location, with spacious light-filled rooms, diverse dining venues and thoughtful service for a contemporary stay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Le Meridien Bangkok: Hotel Tour 2025",
+        "channel": "Teleporter",
+        "url": "https://www.youtube.com/watch?v=QxiyUMxs4Jo",
+        "video_id": "QxiyUMxs4Jo"
+      },
+      {
+        "title": "Le Meridian Hotel Bangkok Tour Review ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=yvBBYFVhrtY",
+        "video_id": "yvBBYFVhrtY"
+      },
+      {
+        "title": "Le Meridien Bangkok Thailand: Full Hotel Tour and HONEST Review",
+        "channel": "Nick Gray",
+        "url": "https://www.youtube.com/watch?v=RIWbf0upQKY",
+        "video_id": "RIWbf0upQKY"
+      },
+      {
+        "title": "Inside Le Méridien Bangkok: Honest Luxury Hotel Review",
+        "channel": "Always More 2 See",
+        "url": "https://www.youtube.com/watch?v=quMvBYhw054",
+        "video_id": "quMvBYhw054"
+      }
+    ]
+  },
   "tags": ["silom", "riverside", "design-led"],
   "source_mix": [
     {

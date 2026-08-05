@@ -49,6 +49,46 @@
       "answer": "Breakfast is a consistent highlight, with guests specifically praising its variety, including a Japanese-inspired spread some travelers mention returning for. It's a notable strength for a select-service property in this price category."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Courtyard by Marriott Bangkok Sukhumvit 20",
+        "source": "Hotel Hoppers",
+        "author": "Timo Uustal",
+        "url": "https://hotelhoppers.org/p/review-courtyard-by-marriott-bangkok-s20",
+        "published_date": "2024-05-17",
+        "summary": "Stay review of the 2023-opened property: shuttle to BTS, Bonvoy elite breakfast and happy hour, comfy but tight room, spacious bathroom, above-average breakfast; weak WiFi and feels a bit overpriced."
+      },
+      {
+        "title": "Bangkok Courtyard by Marriott Sukhumvit 20: Near Asoke Station, Marriott mid-range star hotel",
+        "source": "iTravelBlog (Love Travel)",
+        "author": "Anja",
+        "url": "https://en.itravelblog.net/courtyard-by-marriott-bangkok-sukhumvit-20/",
+        "published_date": "2023-11-01",
+        "summary": "Detailed review covering room types, amenities and transport. Praises responsive service, comfy bedding and free shuttle; notes compact 24-27 sqm rooms and pool noise from AC units. 235 rooms over 8 floors."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Review: Courtyard by Marriott Bangkok Sukhumvit 20 - Deluxe Room with Bathtub",
+        "channel": "Hotelhoppers",
+        "url": "https://www.youtube.com/watch?v=SSw0pc_uZPM",
+        "video_id": "SSw0pc_uZPM"
+      },
+      {
+        "title": "Courtyard by Marriott Bangkok Sukhumvit 20 / Delux with Bathtub Room / Emsphere",
+        "channel": "Sky High Journey",
+        "url": "https://www.youtube.com/watch?v=UD4rVc57BK8",
+        "video_id": "UD4rVc57BK8"
+      },
+      {
+        "title": "Stay In Bangkok Like A Pro! Courtyard Marriott Bangkok Sukhumvit 20",
+        "channel": "Ben Discovers The World",
+        "url": "https://www.youtube.com/watch?v=rUfV6nsuHCQ",
+        "video_id": "rUfV6nsuHCQ"
+      }
+    ]
+  },
   "tags": ["sukhumvit", "select-service", "asok"],
   "source_mix": [
     {
