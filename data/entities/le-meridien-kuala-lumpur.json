@@ -49,6 +49,65 @@
       "answer": "Some guests describe certain room categories as small or claustrophobic, and a few reviews mention dated bathrooms without a separate shower, so travelers who prioritize space may want to book a higher room category or check room details before booking."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Le Méridien Kuala Lumpur, Le Meridien Suite",
+        "source": "Suitesmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2024/07/17/review-le-meridien-kuala-lumpur-le-meridien-suite/",
+        "published_date": "2024-07-17",
+        "summary": "Points-stay review of a 69sqm Le Meridien Suite. Praises the location by KL Sentral, fresh modern rooms, a bright club lounge with city views, strong cocktail and breakfast spreads, and good elite recognition."
+      },
+      {
+        "title": "Hotel Review: Le Meridien Kuala Lumpur (Le Meridien Club Room)",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2018/8/23/hotel-review-le-meridien-kuala-lumpur-le-meridien-club-room-conveniently-located-in-kl-sentral",
+        "published_date": "2018-08-23",
+        "summary": "Reviews a 36sqm Club Room after a 2016 renovation. Highlights the KL Sentral connection, the large club lounge with free-flow evening cocktails, rain shower and Malin+Goetz amenities, and on-site Italian dining."
+      },
+      {
+        "title": "Hotel Review: Le Meridien Kuala Lumpur",
+        "source": "Flavorful Escape",
+        "url": "https://flavorfulescape.blogspot.com/2018/09/hotel-review-le-meridien-kuala-lumpur.html",
+        "published_date": "2018-09-01",
+        "summary": "One-night stopover review of a corner Premier Room. Notes the 10-minute covered walk from the train, bright contemporary room, plush bedding and beloved Malin+Goetz toiletries; found breakfast pleasant but unmemorable."
+      }
+    ],
+    "videos": [
+      {
+        "title": "King Club Guest Room Le Meridien Kuala Lumpur Hotel Review Room Tour 20230731",
+        "channel": "Fellow Neighbour",
+        "url": "https://www.youtube.com/watch?v=ZSGrqdJ2Kts",
+        "video_id": "ZSGrqdJ2Kts"
+      },
+      {
+        "title": "Insider Review - Le Méridien Kuala Lumpur (Upgraded Room Tour) I Vlog #25",
+        "channel": "exploreaswego",
+        "url": "https://www.youtube.com/watch?v=nWG9gMK5LEE",
+        "video_id": "nWG9gMK5LEE"
+      },
+      {
+        "title": "Le Meridien Kuala Lumpur, Review of a Corner Room",
+        "channel": "aeroAdvocate Luxury Travel",
+        "url": "https://www.youtube.com/watch?v=xJNxU0NchwM",
+        "video_id": "xJNxU0NchwM"
+      },
+      {
+        "title": "Hotel Review - Le Méridien Kuala Lumpur - Premier Room",
+        "channel": "Eric & Leonard Explores Hotels",
+        "url": "https://www.youtube.com/watch?v=Eiza9FbAb1M",
+        "video_id": "Eiza9FbAb1M"
+      },
+      {
+        "title": "ROOM TOUR LE MERIDIEN HOTEL KUALA LUMPUR | Suite Room And Club Lounge",
+        "channel": "Ag You",
+        "url": "https://www.youtube.com/watch?v=VE-QsJKl-1o",
+        "video_id": "VE-QsJKl-1o"
+      }
+    ]
+  },
   "tags": ["kl sentral", "transit hub", "upscale"],
   "source_mix": [
     {

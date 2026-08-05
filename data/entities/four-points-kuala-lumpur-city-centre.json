@@ -49,6 +49,38 @@
       "answer": "Yes -- it's one of the more family-oriented Bonvoy properties in Kuala Lumpur, with one of the city's largest hotel pools, water slides, a dedicated kids' zone, and family suites, though its location away from downtown means more reliance on cars or ride-hailing."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "[HOTEL REVIEW] A Night Stay at Four Points by Sheraton Kuala Lumpur, City Centre",
+        "source": "HazelDiary",
+        "author": "Hazel",
+        "url": "https://hazeldiary.com/2024/10/hotel-review-stay-four-points-by-sheraton-kuala-lumpur-city-centre/",
+        "published_date": "2024-10-31",
+        "summary": "A stay in a Deluxe King room with a Twin Towers view. Praises the modern room with rain shower, one of KL's largest pools with water slides, Kids Club, spa and central location near KLCC."
+      },
+      {
+        "title": "[Review] Four Points by Sheraton KLCC workcation services",
+        "source": "Vulcan Post",
+        "url": "https://vulcanpost.com/850766/four-points-by-sheraton-kuala-lumpur-city-centre-workcation/",
+        "summary": "A workcation-focused review finding the property best suited to remote workers travelling with children, thanks to the huge pool, water slides, playground and Kids Club, though the compact bathroom is noted."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Four Points by Sheraton Kuala Lumpur – 2 bedroom suite Room Tour, Pool, Dining & Cost Breakdown",
+        "channel": "Colour me in style | Travel & Fashion Blog",
+        "url": "https://www.youtube.com/watch?v=zeHY1Xr06js",
+        "video_id": "zeHY1Xr06js"
+      },
+      {
+        "title": "FOUR POINTS KLCC HOTEL",
+        "channel": "The Hendranantha",
+        "url": "https://www.youtube.com/watch?v=FKy2D_9A2rI",
+        "video_id": "FKy2D_9A2rI"
+      }
+    ]
+  },
   "tags": ["select-service", "family-friendly", "bukit kiara"],
   "source_mix": [
     {

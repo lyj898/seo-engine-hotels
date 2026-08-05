@@ -49,6 +49,38 @@
       "answer": "Some rooms facing the nearby train tracks can pick up noise from passing trains, so guests sensitive to this may want to request a room on the side away from the railway when booking or at check-in."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: AC Hotel Kuala Lumpur (Deluxe Room)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2023/04/16/review-ac-hotel-kuala-lumpur-deluxe-room/",
+        "published_date": "2023-04-16",
+        "summary": "A Marriott Platinum member's stay in a Deluxe Room. Renovation noise led to a 5,000-point refund, and the AC Lounge tapas and service underwhelmed; concludes it's fair value but an unmemorable stay in Chow Kit."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Room 1307 tour | Prime Deluxe Twin @ AC Hotel Kuala Lumpur, Kuala Lumpur, Malaysia",
+        "channel": "alexlovesmac",
+        "url": "https://www.youtube.com/watch?v=1w_tB61gVX8",
+        "video_id": "1w_tB61gVX8"
+      },
+      {
+        "title": "Ac hotel Kuala Lumpur; executive room with KL tower view",
+        "channel": "Angelo Traveller",
+        "url": "https://www.youtube.com/watch?v=M6Dkfo3dm1I",
+        "video_id": "M6Dkfo3dm1I"
+      },
+      {
+        "title": "AC Hotel by Marriott Kuala Lumpur - Deluxe room",
+        "channel": "Follow Us",
+        "url": "https://www.youtube.com/watch?v=ydnpbcc4aOA",
+        "video_id": "ydnpbcc4aOA"
+      }
+    ]
+  },
   "tags": ["select-service", "titiwangsa", "design hotel"],
   "source_mix": [
     {

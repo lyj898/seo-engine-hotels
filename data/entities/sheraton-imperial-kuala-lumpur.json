@@ -49,6 +49,63 @@
       "answer": "Some areas of the hotel are described by guests as feeling dated given its age, though rooms are still frequently praised for their size and comfort, with king-size beds and views of landmarks like Merdeka 118, KL Tower, or the Petronas Twin Towers."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Sheraton Imperial Kuala Lumpur (King Room)",
+        "source": "Suitesmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2023/04/29/review-sheraton-imperial-kuala-lumpur-king-room/",
+        "published_date": "2023-04-29",
+        "summary": "Points-stay review of a 42sqm King Room on the 35th floor. Praises the fresh post-renovation decor and Club Lounge, but dings the lack of an in-room coffee machine. Rated a solid Marriott property."
+      },
+      {
+        "title": "Hotel Review: Sheraton Imperial Kuala Lumpur, Malaysia",
+        "source": "Ware on the Globe",
+        "author": "wareontheglobe",
+        "url": "https://wareontheglobe.com/2018/03/09/hotel-review-sheraton-imperial-kuala-lumpur-malaysia/",
+        "published_date": "2018-03-09",
+        "summary": "Honeymoon stay booked on SPG points. Pleasantly surprised by a spacious suite, central location and a generous 37th-floor Club Lounge with breakfast and evening happy hour. Would return."
+      },
+      {
+        "title": "The Sheraton Imperial Kuala Lumpur (Review): Best Anniversary Ever!",
+        "source": "Travelling Weasels",
+        "author": "Laura Cody",
+        "url": "https://www.travellingweasels.com/2017/04/sheraton-imperial-kuala-lumpur-review.html",
+        "published_date": "2017-04-16",
+        "summary": "Anniversary stay in a corner Club Suite on the 33rd floor with 90-degree city views. Loved the space, Club floor perks and vegan-friendly dining at Celestial Court and Villa Danieli."
+      },
+      {
+        "title": "Sheraton Imperial Kuala Lumpur hotel review",
+        "source": "Passport & Palmtree",
+        "author": "Lea",
+        "url": "https://www.passportandpalmtree.com/sheraton-imperial-kuala-lumpur-hotel-review/",
+        "published_date": "2017-10-01",
+        "summary": "SPG Platinum club upgrade with sweeping views from the 38th-floor lounge. Praised room size, breakfast and location, but noted minor cleanliness lapses and slightly dated decor."
+      }
+    ],
+    "videos": [
+      {
+        "title": "This Hotel in Kuala Lumpur Has The GRANDEST Lobby! - Sheraton Imperial Kuala Lumpur (Full Review)",
+        "channel": "Travel With Design",
+        "url": "https://www.youtube.com/watch?v=uHeYHsyl6iQ",
+        "video_id": "uHeYHsyl6iQ"
+      },
+      {
+        "title": "Sheraton Imperial Kuala Lumpur Hotel Malaysia【Full Tour in 4k】",
+        "channel": "LivingHotel",
+        "url": "https://www.youtube.com/watch?v=OjUaIKX9FZk",
+        "video_id": "OjUaIKX9FZk",
+        "published_date": "2022-10-29"
+      },
+      {
+        "title": "Room Tour of Luxury Hotel Sheraton Imperial Kuala Lumpur Malaysia",
+        "channel": "Erin - Travel Photographer & Content Creator",
+        "url": "https://www.youtube.com/watch?v=VOEA1dNfuAg",
+        "video_id": "VOEA1dNfuAg"
+      }
+    ]
+  },
   "tags": ["golden triangle", "transit access", "long-established"],
   "source_mix": [
     {

@@ -49,6 +49,65 @@
       "answer": "Not always -- while guest reviews praise the rooftop Wet Deck bar and pool and overall service, several reviews specifically mention noise from renovation work or nighttime street disturbances outside the hotel as a recurring drawback."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: the W Kuala Lumpur hotel",
+        "source": "Head for Points",
+        "author": "Rhys Jones",
+        "url": "https://www.headforpoints.com/2022/05/18/review-w-kuala-lumpur-hotel/",
+        "published_date": "2022-05-18",
+        "summary": "Detailed walkthrough of a Spectacular Room stay, covering the KLCC location, breakfast and dinner at Flock, the spa and the rooftop Wet Deck pool with Petronas Towers views."
+      },
+      {
+        "title": "Stay: W Kuala Lumpur",
+        "source": "Spirited Asia",
+        "author": "Joel Lim",
+        "url": "https://www.spiritedasia.com/2025/08/stay-w-kuala-lumpur/",
+        "published_date": "2025-08-03",
+        "summary": "A design-led take on the property's jungle-glam interiors, rooftop party scene and maximalist Malaysiana aesthetic, positioning it as a livelier alternative to the city's traditional luxury hotels."
+      },
+      {
+        "title": "W Kuala Lumpur Marvelous Suite Review",
+        "source": "UponArriving",
+        "author": "Daniel Gillaspia",
+        "url": "https://www.uponarriving.com/W-Kuala-Lumpur-Marvelous-Suite/",
+        "published_date": "2020-12-21",
+        "summary": "A two-night Marvelous Suite report praising the suite's design, huge bathroom, dining and service, with the writer saying he would return in a heartbeat."
+      },
+      {
+        "title": "Review : W Kuala Lumpur | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Audrey Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/w-kuala-lumpur/",
+        "published_date": "2020-02-17",
+        "summary": "A family's Marvelous Suite stay as Titanium Bonvoy elites during a round-the-world trip, covering the suite, breakfast and concierge, and rating the hotel 9/10."
+      }
+    ],
+    "videos": [
+      {
+        "title": "W Hotel Kuala Lumpur @ KLCC 5-Star Hotel | Mega Room | Hotel full review",
+        "channel": "Wander-Wonder-Winder",
+        "url": "https://www.youtube.com/watch?v=sIJk6RyCyXs",
+        "video_id": "sIJk6RyCyXs",
+        "published_date": "2024-12-08"
+      },
+      {
+        "title": "W Hotel Kuala Lumpur Tour Review 4K",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=rEfZMUZX_-s",
+        "video_id": "rEfZMUZX_-s",
+        "published_date": "2025-03-28"
+      },
+      {
+        "title": "Hotel Room Tour 📍W Hotel Kuala Lumpur 🇲🇾",
+        "channel": "Joyce Flang",
+        "url": "https://www.youtube.com/watch?v=aSurT2ZsEgg",
+        "video_id": "aSurT2ZsEgg",
+        "published_date": "2025-01-20"
+      }
+    ]
+  },
   "tags": ["design hotel", "klcc", "rooftop bar"],
   "source_mix": [
     {
