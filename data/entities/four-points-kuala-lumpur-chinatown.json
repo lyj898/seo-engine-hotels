@@ -49,6 +49,47 @@
       "answer": "Yes -- it has a rooftop pool and bar with views of landmarks including KL Tower and the Petronas Twin Towers, which guest reviews consistently cite as one of the property's best features."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Four Points by Sheraton Kuala Lumpur, Chinatown (Premier Suite)",
+        "source": "Suitesmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2020/12/03/review-four-points-by-sheraton-kuala-lumpur-chinatown-premier-suite/",
+        "published_date": "2020-12-03",
+        "summary": "A Titanium Elite member reviews a Premier Suite stay, praising the Chinatown-themed decor and elite perks while noting breakfast was only okay. Rates and points detailed."
+      },
+      {
+        "title": "Four Points by Sheraton Kuala Lumpur Chinatown review: One King Bed Guest Room",
+        "source": "Happy High Life",
+        "url": "https://www.happyhighlife.com/four-points-by-sheraton-kuala-lumpur-kl-chinatown-review-one-king-bed-guest-room/",
+        "published_date": "2025-07-16",
+        "summary": "A 2-night points stay in a 28sqm King room. Highlights the walkable Chinatown location, the JANN cocktail bar and Quan's Kitchen breakfast; no upgrade as the hotel was full."
+      },
+      {
+        "title": "In the Heart of Chinatown: Four Points by Sheraton Kuala Lumpur Hotel Review",
+        "source": "The Weekly Fix",
+        "author": "Afiqah",
+        "url": "https://isometimeswritesite.wordpress.com/2021/12/28/in-the-heart-of-chinatown-four-points-by-sheraton-hotel-review/",
+        "published_date": "2021-12-28",
+        "summary": "A one-night self-booked stay with a smooth check-in. Balanced take praising the location and room but noting the bathroom was simple with no bathtub."
+      }
+    ],
+    "videos": [
+      {
+        "title": "FOUR POINTS by SHERATON Kuala Lumpur, Chinatown || Hotel Review",
+        "channel": "GoAnywhere",
+        "url": "https://www.youtube.com/watch?v=RrR43wMXW1Y",
+        "video_id": "RrR43wMXW1Y"
+      },
+      {
+        "title": "Four Points Sheraton KL Chinatown Tour | Is it worth it?",
+        "channel": "SeansEyeView Travel Channel",
+        "url": "https://www.youtube.com/watch?v=sKDJqX3F7UE",
+        "video_id": "sKDJqX3F7UE"
+      }
+    ]
+  },
   "tags": ["select-service", "chinatown", "rooftop pool"],
   "source_mix": [
     {
