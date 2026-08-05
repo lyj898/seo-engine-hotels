@@ -50,6 +50,63 @@
       "answer": "It's roughly 18 km from Ngurah Rai Airport, farther out on the Bukit Peninsula than Nusa Dua, Seminyak, or Kuta, so trips to and from those areas take longer than transfers between properties within the same resort zone."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Our Stay At Renaissance Bali Uluwatu Resort & Spa",
+        "source": "Almost Landing - Bali",
+        "author": "Mandy",
+        "url": "https://almostlanding-bali.com/renaissance-bali-uluwatu-resort-spa/",
+        "published_date": "2019-12-04",
+        "summary": "Firsthand Junior Suite stay review covering the generous room, jungle views, the two pools, on-site dining at Clay Craft and Double Ikat, and the complimentary shuttle to Roosterfish Beach Club."
+      },
+      {
+        "title": "Review: Renaissance Bali Uluwatu Resort & Spa | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Audrey Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/renaissance-bali-uluwatu-resort-spa/",
+        "published_date": "2020-07-14",
+        "summary": "Marriott Bonvoy Platinum member's family stay on the Uluwatu cliffs, detailing rooms, dining, pools, kids club and service, with an 8/10 rating and recommendation."
+      },
+      {
+        "title": "Review: Renaissance Bali Uluwatu Resort & Spa",
+        "source": "Luxury Travel Diary",
+        "url": "https://www.luxurytraveldiary.com/2024/06/review-renaissance-bali-uluwatu-resort-spa/",
+        "published_date": "2024-06-11",
+        "summary": "Independent review of the cliff-top Uluwatu resort's otherworldly setting, jungle and ocean views, multiple pools, spa, dining venues and family-friendly amenities."
+      },
+      {
+        "title": "Renaissance Bali Uluwatu Resort & Spa Review | Rooms, Dining & Beach",
+        "source": "The Luxe Destination (Agnes Lina Gianto)",
+        "author": "Agnes Lina Gianto",
+        "url": "https://theluxedestination.com/stays/renaissance-bali-uluwatu-resort-spa/",
+        "published_date": "2019-03-01",
+        "summary": "Independent review praising the then-new Uluwatu property's stylish suite design, standout breakfast buffet and scenic pools, scoring it 8.9/10 as a polished, easy-going stay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "RENAISSANCE BALI ULUWATU RESORT Room Tour | Deluxshionist Stay Review",
+        "channel": "@HerdianaHS",
+        "url": "https://www.youtube.com/watch?v=-cPNJXAkb_I",
+        "video_id": "-cPNJXAkb_I",
+        "published_date": "2021-01-22"
+      },
+      {
+        "title": "A Hidden Gem in Uluwatu, Bali 🇮🇩 - Renaissance Bali Uluwatu Resort & Spa",
+        "channel": "Two Hungry Diners",
+        "url": "https://www.youtube.com/watch?v=DGOXKKYs90k",
+        "video_id": "DGOXKKYs90k",
+        "published_date": "2022-11-06"
+      },
+      {
+        "title": "Spotlight on Renaissance Bali Uluwatu Resort & Spa",
+        "channel": "Bali Buddies",
+        "url": "https://www.youtube.com/watch?v=LlAitS7vuQk",
+        "video_id": "LlAitS7vuQk"
+      }
+    ]
+  },
   "tags": ["uluwatu", "clifftop", "spa"],
   "source_mix": [
     {

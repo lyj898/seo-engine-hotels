@@ -50,6 +50,62 @@
       "answer": "Yes -- it has more than 19,000 square feet of event space, including one of Uluwatu's largest pillarless ballrooms and a glass-enclosed chapel overlooking Jimbaran Bay, making it a popular choice for weddings and business events."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Four Points by Sheraton Bali, Ungasan",
+        "source": "10xTravel",
+        "author": "Charlie Lewis",
+        "url": "https://10xtravel.com/hotel-review-four-points-by-sheraton-bali-ungasan/",
+        "published_date": "2024-12-13",
+        "summary": "Detailed points-redemption stay review: five nights for 26,000 Bonvoy points, with notes on the room, bay views, service, dining and value at the Ungasan property."
+      },
+      {
+        "title": "Review: Four Points by Sheraton Bali, Ungasan (Executive Suite)",
+        "source": "Suitesmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2019/11/21/review-four-points-by-sheraton-bali-ungasan-executive-suite/",
+        "published_date": "2019-11-21",
+        "summary": "Firsthand Executive Suite stay (upgraded via Suite Night Awards), rating room, service, breakfast and shuttle; praises fast WiFi but flags the early 10am breakfast cut-off."
+      },
+      {
+        "title": "Four Points by Sheraton Ungasan | Bali, Indonesia",
+        "source": "The Brief Review",
+        "author": "AB",
+        "url": "https://thebriefreview.com/four-points-by-sheraton-ungasan-bali-indonesia/",
+        "published_date": "2022-11-22",
+        "summary": "Stay review with video tour and photos of an island-view room; covers the Ungasan location, refreshed rooms, Evolution restaurant, pool and spa, plus nearby beach clubs."
+      },
+      {
+        "title": "Review Four Points Hotel by Sheraton Ungasan, Bali",
+        "source": "Melalak Cantik",
+        "author": "Ririn Wandes",
+        "url": "https://www.melalakcantik.com/2023/07/review-four-points-hotel-ungasan-bali.html",
+        "published_date": "2023-07-02",
+        "summary": "Travel blogger's 7-night stay on the 9th floor, describing the hillside location near GWK, Evolution Restaurant, two pools, chapel and spa, with many photos from the stay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Four Points Bali Ungasan Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=9KuFXjSFbKU",
+        "video_id": "9KuFXjSFbKU"
+      },
+      {
+        "title": "Four Points by Sheraton Bali, Ungasan, Indonesia (Room Tour)",
+        "channel": "Sagar Agarwal",
+        "url": "https://www.youtube.com/watch?v=j-AD1KPPy1s",
+        "video_id": "j-AD1KPPy1s"
+      },
+      {
+        "title": "FOUR POINTS BY SHERATON BALI UNGASAN, 5 MENIT KE GWK BALI",
+        "channel": "Traveler Jakarta",
+        "url": "https://www.youtube.com/watch?v=BZBbBmoSjHM",
+        "video_id": "BZBbBmoSjHM"
+      }
+    ]
+  },
   "tags": ["ungasan", "jimbaran bay", "select-service"],
   "source_mix": [
     {

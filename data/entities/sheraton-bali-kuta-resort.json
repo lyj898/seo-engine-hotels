@@ -50,6 +50,74 @@
       "answer": "Yes -- it sits directly on Kuta Beach next to Beachwalk Mall's shops and cineplex, in the center of Kuta with most malls and restaurants reachable on foot."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sheraton Bali Kuta Resort review",
+        "source": "The Travel Temple",
+        "author": "Dr Tiana Templeman",
+        "url": "https://www.thetraveltemple.com.au/sheraton-bali-kuta-resort-review/",
+        "published_date": "2015-07",
+        "summary": "Family-focused stay review praising the luxurious rooms, Sheraton Signature beds, breakfast variety, pool and beachfront Kuta location. Discloses a hosted stay."
+      },
+      {
+        "title": "Hotel Review: Sheraton Bali Kuta Resort",
+        "source": "Out of Town Blog",
+        "author": "Melo Villareal",
+        "url": "https://outoftownblog.com/hotel-review-sheraton-bali-kuta-resort/",
+        "published_date": "2018-04-02",
+        "summary": "Firsthand review covering room 4027, dining and facilities on a hosted fam trip; notes the Beachwalk-linked location and attentive service. Discloses sponsorship."
+      },
+      {
+        "title": "Review: Sheraton Bali Kuta (Ocean Front Suite)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2021/09/08/review-sheraton-bali-kuta-ocean-front-suite/",
+        "published_date": "2021-09-08",
+        "summary": "Independent, self-paid stay by a Bonvoy Titanium member in a 100sqm ocean-front suite (room 4011); details rate, upgrade, photos and video tour."
+      },
+      {
+        "title": "Hotel Review: Sheraton Bali Kuta Resort",
+        "source": "Miles Points Travel",
+        "author": "milespointstravel",
+        "url": "https://www.milespointstravel.com/2015/02/27/hotel-review-sheraton-bali-kuta-resort/",
+        "published_date": "2015-02-27",
+        "summary": "Points-focused stay booked on SPG Cash + Points; covers room upgrade, welcome amenities, on-site dining and staff, with original photos."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Bali Kuta Resort Tour ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=bLD28gCci1o",
+        "video_id": "bLD28gCci1o"
+      },
+      {
+        "title": "SHERATON BALI KUTA RESORT - ROOM TOUR & REVIEW DURING THE PANDEMIC ♥️  #sheratonbalikuta #balihotel",
+        "channel": "indah nuria Savitri",
+        "url": "https://www.youtube.com/watch?v=W5vpwPSNyww",
+        "video_id": "W5vpwPSNyww"
+      },
+      {
+        "title": "Sheraton Kuta, Bali, Indonesia - Review of Oceanfront Suite 3011",
+        "channel": "LoyaltyLobby",
+        "url": "https://www.youtube.com/watch?v=TMmNLqrWNGg",
+        "video_id": "TMmNLqrWNGg"
+      },
+      {
+        "title": "Sheraton Bali Kuta Resort | Bali, Indonesia | Hotel Review 🏩",
+        "channel": "Top Indonesia Hotels",
+        "url": "https://www.youtube.com/watch?v=sSHK86EVNzA",
+        "video_id": "sSHK86EVNzA"
+      },
+      {
+        "title": "Sheraton Bali Kuta Resort, Indonesia - Review of Deluxe Ocean View Suite 2057",
+        "channel": "LoyaltyLobby",
+        "url": "https://www.youtube.com/watch?v=KkBKZ1quWG0",
+        "video_id": "KkBKZ1quWG0"
+      }
+    ]
+  },
   "tags": ["kuta", "beachfront", "ocean view"],
   "source_mix": [
     {
