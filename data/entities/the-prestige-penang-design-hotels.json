@@ -1,0 +1,166 @@
+{
+  "entity_id": "the-prestige-penang-design-hotels",
+  "slug": "the-prestige-penang-design-hotels",
+  "name": "The Prestige Hotel, a Member of Design Hotels",
+  "category_id": "marriott-bonvoy",
+  "region_id": "penang",
+  "short_description": "A 162-room Design Hotels member in George Town's UNESCO heritage zone, built on the site of a century-old maritime godown. Its playful modern-Victorian interiors riff on stage magic and illusion, paired with a rooftop saltwater infinity pool and the Glasshouse conservatory restaurant.",
+  "ai_summary": "The Prestige Hotel is a 162-room Design Hotels member set in the heart of George Town's UNESCO World Heritage zone, one block from the Church Street Pier waterfront. Opened in 2019 and designed by Singapore's Ministry of Design, it reinterprets 19th-century Victorian colonial style through a whimsical lens inspired by stage magic and illusion: geometric monochrome interiors, brass and champagne-bronze accents, projected lattice corridors, dome ceilings and suites with beds that appear to levitate and 'peek-a-boo' glass showers. Guests consistently praise the striking, Instagram-ready design, spotless and spacious rooms, an excellent breakfast buffet at the Glasshouse restaurant (local Malaysian, Chinese, Indian and continental dishes in a conservatory setting), a fourth-floor saltwater rooftop infinity pool overlooking the quay, and strong value for a five-star heritage-district stay (often around US$100-125/night). Service is generally warm and attentive, though a few reviewers noted minor inconsistencies. TripAdvisor shows roughly a 4.0/5 rating across about 500 reviews, ranking it near the top tier of George Town hotels. Dining also includes the fine-dining venue gen and San Francisco Coffee. The walkable location puts street art, clan jetties, temples and hawker food within minutes, making it a strong design-forward heritage base.",
+  "core_facts": {
+    "address": "8, Gat Lebuh Gereja (Church Street Ghaut), 10300 George Town, Penang, Malaysia",
+    "brand_sub_brand": "Design Hotels",
+    "neighborhood": "George Town UNESCO World Heritage core, near Beach Street / Weld Quay",
+    "distance_from_airport_km": 16,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Bold, award-winning modern-Victorian design with genuine wow factor (levitating beds, illusion-themed details)",
+    "Prime, walkable George Town heritage-core location one block from the waterfront",
+    "Excellent, extensive breakfast buffet at the Glasshouse conservatory restaurant",
+    "Strong value for a five-star property; rooftop saltwater infinity pool with quay views"
+  ],
+  "cons": [
+    "Service can be slightly inconsistent on local requests despite friendly staff",
+    "Glass 'peek-a-boo' showers require a privacy curtain and won't suit everyone",
+    "Style-forward rooms occasionally prioritize aesthetics over practicality (e.g. minor housekeeping/mattress notes)"
+  ],
+  "research_highlights": [
+    "Multiple independent blogs and design press corroborate 162 rooms, 2019 opening, Ministry of Design architecture and the magic/illusion theme",
+    "Consistently cited excellent Glasshouse breakfast and rooftop saltwater infinity pool overlooking Church Street Pier",
+    "Widely rated as strong value in the UNESCO heritage core (~US$100-125/night in reviewer accounts)"
+  ],
+  "research_watchouts": [
+    "TripAdvisor rating (~4.0/5, ~500 reviews, ranked ~#11 of 194 George Town hotels) taken from search snippets; direct TripAdvisor and Marriott pages returned HTTP 403 and could not be independently fetched",
+    "Room-count sources mostly cite 162, but one blog said 160; treat exact count as approximate"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "What makes The Prestige Hotel's design unique?",
+      "answer": "It reinterprets 19th-century Victorian colonial style through a stage-magic and illusion theme. Designed by Ministry of Design and built on a former maritime godown, it features monochrome geometry, brass and champagne-bronze accents, projected lattice corridors, dome ceilings, suites with beds that appear to levitate and glass 'peek-a-boo' showers."
+    },
+    {
+      "question": "Where is The Prestige Hotel located and how far is the airport?",
+      "answer": "It sits at Gat Lebuh Gereja (Church Street Ghaut) in George Town's UNESCO World Heritage core, one block from the waterfront and walkable to street art, clan jetties, temples and hawker food. Penang International Airport is roughly 16 km (about a 25-minute drive) away."
+    },
+    {
+      "question": "What dining and facilities are available?",
+      "answer": "The Glasshouse is the all-day conservatory restaurant known for an extensive breakfast buffet; the hotel also has the gen fine-dining venue and San Francisco Coffee. Facilities include a fourth-floor saltwater rooftop infinity pool with quay views, plus fitness and spa amenities."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "The Prestige Hotel: Victorian-Style Hotel In Penang With Mind-Boggling Levitated Beds & A Glasshouse Restaurant",
+        "source": "TheSmartLocal Malaysia",
+        "author": "Jia-Ju",
+        "url": "https://thesmartlocal.my/the-prestige-hotel/",
+        "published_date": "2024-02-19",
+        "summary": "Feature on the George Town design hotel, inspired by the 2006 film The Prestige. Highlights the illusion theme: levitating-look beds, cage-like glass showers and hidden bars. Praises the Glasshouse restaurant and rooftop infinity pool."
+      },
+      {
+        "title": "Hotel Review: The Prestige Hotel, Penang",
+        "source": "Rebecca Goes Rendezvous",
+        "author": "Rebecca",
+        "url": "https://rebeccagoesrendezvous.com/2024/09/25/hotel-review-the-prestige-hotel-penang/",
+        "published_date": "2024-09-25",
+        "summary": "First-person review of a 30 sqm Deluxe King rates location 5/5 and service 3.5/5. Praises the all-white marble look and value (~US$100/night); gripes about a peek-a-boo glass shower and unrefilled toiletries. Overall 18/20."
+      },
+      {
+        "title": "The Prestige Hotel @ George Town, Penang",
+        "source": "Mimi's Dining Room (choiyen.com)",
+        "author": "Choi Yen",
+        "url": "https://www.choiyen.com/the-prestige-hotel-george-town-penang/",
+        "published_date": "2021-10-29",
+        "summary": "Review of a 30 sqm Deluxe King with Victorian wainscoting, pastel decor and strong showers. Notes the saltwater infinity pool and Glasshouse restaurant. Praises the design and swift check-in; only con was mattress firmness."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Prestige Hotel | George Town, Penang | 槟城人气网红酒店",
+        "channel": "miruku Travel",
+        "url": "https://www.youtube.com/watch?v=gwMdopTGWjw",
+        "video_id": "gwMdopTGWjw",
+        "published_date": "2020-06-23"
+      },
+      {
+        "title": "The Prestige Hotel Penang Malaysia Tour ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=OoFKh8Q9c9A",
+        "video_id": "OoFKh8Q9c9A",
+        "published_date": "2025-03-22"
+      },
+      {
+        "title": "The Prestige Penang | Hotel & Room Tour",
+        "channel": "Angela Carson",
+        "url": "https://www.youtube.com/watch?v=Z_gCbH-42ZY",
+        "video_id": "Z_gCbH-42ZY"
+      }
+    ]
+  },
+  "tags": [
+    "george-town",
+    "design-hotels",
+    "heritage"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/pentp-the-prestige-hotel-a-member-of-design-hotels/overview/",
+      "label": "Official The Prestige Hotel, a Member of Design Hotels overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298303-d17530797-Reviews-The_Prestige_Hotel_Penang-George_Town_Penang_Island_Penang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/pentp-the-prestige-hotel-a-member-of-design-hotels/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "macalister-mansion-george-town-design-hotels",
+    "the-millen-penang-autograph-collection",
+    "courtyard-penang"
+  ],
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 95
+      },
+      {
+        "label": "Service",
+        "score": 82
+      },
+      {
+        "label": "Rooms",
+        "score": 88
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 86
+      },
+      {
+        "label": "Value",
+        "score": 90
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

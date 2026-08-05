@@ -1,0 +1,155 @@
+{
+  "entity_id": "ac-hotel-penang",
+  "slug": "ac-hotel-penang",
+  "name": "AC Hotel Penang",
+  "category_id": "marriott-bonvoy",
+  "region_id": "penang",
+  "short_description": "A 423-room European-style select-service hotel in Bukit Jambul, converted from the former Vistana Penang and rebranded as AC Hotels by Marriott. Handy for the airport, the Bayan Lepas Free Industrial Zone, Queensbay Mall and SPICE Arena, though about 20-25 minutes from George Town.",
+  "ai_summary": "AC Hotel Penang is an AC Hotels by Marriott property in Bukit Jambul, Bayan Lepas, occupying the former Vistana Penang tower (423 rooms over 28 floors) that YTL Hotels refurbished and rebranded as one of the first AC Hotels in Asia-Pacific. True to the AC concept, it is European-influenced select-service: clean, minimalist design, an AC Kitchen restaurant for the Asian-Western breakfast buffet, and an AC Lounge for signature cocktails and light dining, plus an outdoor pool with a kids' section and a 24-hour gym. Guest sentiment across TripAdvisor (roughly 500 reviews), Booking.com (near 2,000 reviews) and Trip.com skews positive-but-mixed. Reviewers consistently praise the spacious, freshly renovated rooms and family suites, friendly front-desk staff, easy airport access and good value; complaints cluster around an inconsistent, sometimes basic breakfast, occasional slow room-readiness or service lapses, small shower stalls in some rooms, and a location well removed from George Town's heritage core. The complimentary shuttle to Queensbay Mall and the Bayan Lepas industrial zone makes it practical for both business travellers and families seeking a suburban staycation base rather than a beach or old-town setting.",
+  "core_facts": {
+    "address": "213 Jalan Bukit Gambir, Bukit Jambul, 11950 Bayan Lepas, Penang, Malaysia",
+    "brand_sub_brand": "AC Hotels by Marriott",
+    "neighborhood": "Bukit Jambul / Bayan Lepas (near Penang International Airport, Bukit Jambul Complex and Queensbay Mall)",
+    "distance_from_airport_km": 6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Spacious, recently refurbished rooms and family-friendly multi-room suites",
+    "Convenient for Penang airport, Bukit Jambul Complex, Queensbay Mall, SPICE Arena and the Bayan Lepas industrial zone",
+    "Friendly front-desk service and good value for a Marriott Bonvoy property",
+    "Outdoor pool with a kids' section, 24-hour gym, and a free shuttle to Queensbay"
+  ],
+  "cons": [
+    "Breakfast is inconsistent and described by some guests as basic or average",
+    "Well away from George Town's heritage attractions (about 20-25 minutes' drive)",
+    "Occasional service lapses reported, including slow room readiness and small shower stalls"
+  ],
+  "research_highlights": [
+    "Converted from Vistana Penang Bukit Jambul; among the first AC Hotels by Marriott in Asia-Pacific, franchised/operated by YTL Hotels",
+    "423 rooms over 28 floors, including spacious 2-3 bedroom family suites with living/dining areas",
+    "Two named outlets: AC Kitchen (international restaurant/breakfast) and AC Lounge (cocktails and light dining)"
+  ],
+  "research_watchouts": [
+    "Frequently confused with the separate seafront Penang Marriott Hotel (Batu Ferringhi); some 'Penang Marriott' videos/articles are NOT this property",
+    "Exact numeric TripAdvisor star rating could not be verified (TripAdvisor and marriott.com returned HTTP 403); review counts are drawn from listing titles"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "Was AC Hotel Penang previously another hotel?",
+      "answer": "Yes. The property was formerly Vistana Penang Bukit Jambul and was refurbished and rebranded as AC Hotels by Marriott by YTL Hotels, making it one of the first AC Hotels in the Asia-Pacific region."
+    },
+    {
+      "question": "How far is AC Hotel Penang from the airport and George Town?",
+      "answer": "It is roughly a 10-minute drive (about 6 km) from Penang International Airport and around 5 minutes from the First Penang Bridge exit. George Town's heritage core is farther away, about a 20-25 minute drive depending on traffic."
+    },
+    {
+      "question": "What dining and facilities does the hotel offer?",
+      "answer": "AC Kitchen serves an international breakfast buffet and all-day dining, while the AC Lounge offers signature cocktails and light bites. Facilities include an outdoor pool with a children's section, a 24-hour fitness centre, meeting space, and a complimentary shuttle to Queensbay Mall and the Bayan Lepas industrial zone."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "New Hotel in Penang - AC Hotel by Marriott Penang",
+        "source": "Crisp of Life",
+        "author": "Ee Pin",
+        "url": "https://www.crispoflife.com/2023/11/AC-Marriott-Hotel-Penang-Bukit-Jambul.html",
+        "published_date": "2023-11-23",
+        "summary": "Blog review of the rebranded former Vistana praises minimalist rooms, a comfy sofa-bed, studio units for longer stays, a gym and pool, and a varied breakfast. Location suits the Bayan Lepas industrial zone but is far from George Town."
+      }
+    ],
+    "videos": [
+      {
+        "title": "AC Hotel by Marriott Penang Staycation Tour #achotels #marriottbonvoy #penanghotels",
+        "channel": "Discover with Timothy",
+        "url": "https://www.youtube.com/watch?v=7xkMiGGUUPM",
+        "video_id": "7xkMiGGUUPM",
+        "published_date": "2023-11-19"
+      },
+      {
+        "title": "【Home Trip 2024】Part 2: Staycation @ AC Hotel Penang",
+        "channel": "ALABA+MA+LAYSIA",
+        "url": "https://www.youtube.com/watch?v=J1aMM_aRObg",
+        "video_id": "J1aMM_aRObg"
+      },
+      {
+        "title": "Penang Vlog | AC Marriott Penang + Wantan Mee Hawker Breakfast",
+        "channel": "Chngy's World",
+        "url": "https://www.youtube.com/watch?v=qFibx5u0qLA",
+        "video_id": "qFibx5u0qLA"
+      },
+      {
+        "title": "AC Hotel Penang, no thank you..",
+        "channel": "The Wandering Chirish",
+        "url": "https://www.youtube.com/watch?v=FizB6cYx5so",
+        "video_id": "FizB6cYx5so"
+      }
+    ]
+  },
+  "tags": [
+    "bayan-lepas",
+    "bukit-jambul",
+    "select-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/penar-ac-hotel-penang/overview/",
+      "label": "Official AC Hotel Penang overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1193625-d630452-Reviews-Ac_Hotel_Penang-Bayan_Lepas_Penang_Island_Penang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/penar-ac-hotel-penang/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-penang",
+    "iconic-marjorie-penang-tribute-portfolio",
+    "penang-marriott-hotel"
+  ],
+  "sentiment_scores": {
+    "overall": 77,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 78
+      },
+      {
+        "label": "Rooms",
+        "score": 80
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 68
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

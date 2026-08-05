@@ -1,0 +1,174 @@
+{
+  "entity_id": "penang-marriott-hotel",
+  "slug": "penang-marriott-hotel",
+  "name": "Penang Marriott Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "penang",
+  "short_description": "A modern 223-room Marriott high-rise on Gurney Drive in George Town, offering sea-view rooms, an infinity pool and multiple dining venues overlooking the Gurney Bay seafront.",
+  "ai_summary": "Opened in February 2024 as Penang's first Marriott Hotels-branded property, the Penang Marriott occupies part of a 55-storey tower on iconic Gurney Drive and holds a roughly 4.0/5 TripAdvisor rating, ranking around #22 of nearly 200 George Town hotels. Independent reviewers consistently single out the service as the standout: staff are described as attentive, personable and quick to remember preferences, and Bonvoy elites report generous upgrades and a well-stocked M Club lounge serving cooked-to-order Malaysian dishes and evening cocktails. Rooms are modern and spacious, with floor-to-ceiling windows framing Gurney Bay and Penang Hill, and bathrooms are frequently praised. Dining spans Sago (local and international buffet, strong for Penang breakfast specialties), Kucina (Italian), The Great Room lobby bar and Lava Java cafe; a Level 2/3 infinity pool and 24-hour gym round out the facilities. Watch-outs from reviewers include premium pricing and mixed dining value, a somewhat small pool, and the busy, construction-heavy urban surroundings that lack heritage charm; some also note the pool is reached through public restaurant areas. Overall the property reads as a polished, service-led modern base rather than a heritage-district stay.",
+  "core_facts": {
+    "address": "Persiaran Gurney, Georgetown, 10250 George Town, Penang, Malaysia",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Gurney Drive, George Town",
+    "distance_from_airport_km": 16,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Attentive, personalized service repeatedly highlighted by guests and elites",
+    "Modern, spacious rooms with floor-to-ceiling sea and Gurney Bay views",
+    "Strong M Club lounge with cooked-to-order Malaysian food and evening cocktails",
+    "Varied dining including local-focused Sago breakfast and Italian at Kucina"
+  ],
+  "cons": [
+    "Premium pricing and inconsistent dining value",
+    "Busy, construction-heavy urban location lacking heritage charm",
+    "Pool is fairly small and accessed via public restaurant areas"
+  ],
+  "research_highlights": [
+    "Penang's first Marriott Hotels-branded property, opened 7 February 2024 in a landmark 55-storey Gurney Drive tower",
+    "Independent reviews and TripAdvisor (~4.0/5) converge on service and modern rooms as the strongest points"
+  ],
+  "research_watchouts": [
+    "Value/price is the most common criticism; RM1,000+ nightly rates are justified largely through M Club lounge benefits",
+    "Distance to airport (~16 km) is an estimate; verify exact figure before publishing"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "When did the Penang Marriott Hotel open?",
+      "answer": "The hotel opened to guests on 7 February 2024 as Penang's first Marriott Hotels-branded property, with a formal grand opening of the wider Penang Marriott Complex in September 2024."
+    },
+    {
+      "question": "Where is the Penang Marriott Hotel located?",
+      "answer": "It sits on iconic Gurney Drive in George Town, overlooking Gurney Bay and the Gurney Bay Seafront Park, roughly 16 km from Penang International Airport (PEN) in Bayan Lepas."
+    },
+    {
+      "question": "What dining options does the hotel have?",
+      "answer": "Venues include Sago (all-day local and international buffet), Kucina (Italian), The Great Room lobby bar and Lava Java cafe and bakery. Sago's breakfast is noted for Penang specialties like white curry mee and Hokkien mee."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Penang Marriott Hotel Review: The Human Side of New Penang",
+        "source": "Nacre",
+        "author": "Bryan Yap",
+        "url": "https://nacre.asia/2026/02/21/penang-marriott-hotel-review/",
+        "published_date": "2026-02-21",
+        "summary": "A Club King stay praised for staff who remember preferences, standout bathroom, and dining across Sago, Kucina and The Great Room; downsides are limited pool privacy and a congested, non-heritage urban setting."
+      },
+      {
+        "title": "Lunch at Sago, Penang Marriott Hotel",
+        "source": "Adrian Cheah",
+        "author": "Adrian Cheah",
+        "url": "https://www.adriancheah.com/great-penang/glorious-food/42-foreign-flavours/631-lunch-at-sago-penang-marriott-hotel",
+        "published_date": "2025-10-28",
+        "summary": "A local writer tests Sago's RM30 three-course lunch: a delectable seafood marinara pasta but a disappointing durian mille-feuille and uneven service, in a tastefully designed, pork-free dining space."
+      },
+      {
+        "title": "Penang Marriott M Club Staycation - Incredible Value for a 5-Star Escape",
+        "source": "The Penangite",
+        "url": "https://thepenangite.com/penang-marriott-hotel-staycation",
+        "published_date": "2026-04-09",
+        "summary": "A Club Guest Room staycation centered on the Level 20 M Club lounge, with Malaysian and Western breakfast plus evening cocktails; the reviewer frames RM1,000+ rates as good value thanks to lounge food and drink."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Penang Marriott Hotel Tour & Review ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=mQdJf-RDEuE",
+        "video_id": "mQdJf-RDEuE"
+      },
+      {
+        "title": "Penang Marriott Hotel Club room with sea view",
+        "channel": "Follow Us",
+        "url": "https://www.youtube.com/watch?v=97JsipuloAc",
+        "video_id": "97JsipuloAc"
+      },
+      {
+        "title": "Room 2217 tour | Guest Room @ Penang Marriott Hotel, Penang, Malaysia",
+        "channel": "alexlovesmac",
+        "url": "https://www.youtube.com/watch?v=5A8E2crnciE",
+        "video_id": "5A8E2crnciE"
+      },
+      {
+        "title": "Room 2229 tour | Guest Room @ Penang Marriott Hotel, Penang, Malaysia",
+        "channel": "alexlovesmac",
+        "url": "https://www.youtube.com/watch?v=jjew2B2lrFU",
+        "video_id": "jjew2B2lrFU"
+      },
+      {
+        "title": "Penang Marriott Hotel - what to see and do there",
+        "channel": "Discover with Timothy",
+        "url": "https://www.youtube.com/watch?v=Tjw4MEnLv8U",
+        "video_id": "Tjw4MEnLv8U"
+      }
+    ]
+  },
+  "tags": [
+    "gurney-drive",
+    "george-town",
+    "sea-view"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/penmc-penang-marriott-hotel/overview/",
+      "label": "Official Penang Marriott Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298303-d27110847-Reviews-Penang_Marriott_Hotel-George_Town_Penang_Island_Penang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/penmc-penang-marriott-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "marriott-executive-apartments-penang",
+    "the-millen-penang-autograph-collection",
+    "courtyard-penang"
+  ],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 87
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 87
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 74
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}
