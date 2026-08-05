@@ -48,6 +48,25 @@
       "answer": "Some guests have reported unexpected charges appearing on their final bill that weren't clearly explained at booking or check-in. It's worth confirming what's included in your rate directly with the property before you arrive."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+
+    ],
+    "videos": [
+      {
+        "title": "SUKHUMVIT PARK - BANGKOK MARRIOTT EXECUTIVE APARTMENTS, 1-BEDROOM SKYLINE SUITE",
+        "channel": "Roamin’ Reymon: Your Pinoy Splurge Traveler",
+        "url": "https://www.youtube.com/watch?v=q2aMP6f_Ly4",
+        "video_id": "q2aMP6f_Ly4"
+      },
+      {
+        "title": "Sukhumvit Park, Bangkok - Marriott Executive Apartments | Bangkok, Thailand | Hotel Review ⭐",
+        "channel": "ThaiHotels Now",
+        "url": "https://www.youtube.com/watch?v=BNV7pmRHomo",
+        "video_id": "BNV7pmRHomo"
+      }
+    ]
+  },
   "tags": ["sukhumvit", "executive apartments", "family"],
   "source_mix": [
     {

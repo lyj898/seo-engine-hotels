@@ -49,6 +49,56 @@
       "answer": "Kisso is the hotel's award-winning Japanese restaurant, recognized in local dining awards. It's repeatedly cited by guests as one of the property's dining highlights, alongside the Seasonal Tastes international buffet restaurant."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review – The Westin Grande Sukhumvit, Bangkok",
+        "source": "Miles Points Travel",
+        "author": "milespointstravel",
+        "url": "https://www.milespointstravel.com/2025/04/17/hotel-review-the-westin-grande-sukhumvit-bangkok/",
+        "published_date": "2025-04-17",
+        "summary": "Points blogger's one-night stay on a free Marriott night certificate, checking in Christmas Eve. Praises the location by Asok BTS but flags dated bathrooms and dull room decor."
+      },
+      {
+        "title": "The Westin Grande Sukhumvit Bangkok Hotel Review",
+        "source": "dobbernationLOVES",
+        "author": "Andrew Dobson",
+        "url": "https://dobbernationloves.com/travel-resorts/the-westin-grande-sukhumvit-bangkok-hotel-review/",
+        "published_date": "2025-02-19",
+        "summary": "Detailed 3-night suite stay covering rooms, dining venues, spa and rooftop pool, with firsthand notes on amenities and the central Sukhumvit location near Terminal 21."
+      },
+      {
+        "title": "Hotel Review: Westin Grande Sukhumvit, Bangkok",
+        "source": "The Travel Magazine",
+        "author": "Martino Matijevic",
+        "url": "https://www.thetravelmagazine.net/hotel-review-westin-grande-sukhumvit-bangkok/",
+        "published_date": "2015-11-26",
+        "summary": "First-person stay in a Double Executive Deluxe Room on the 22nd floor, praising bay-window city views, natural light and the anniversary dining menu sampled during the visit."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Westin Grande Sukhumvit Tour: 5 Star Bangkok Hotel (Rooms, Spa, Rooftop Pool & Restaurants)",
+        "channel": "Andrew Dobson",
+        "url": "https://www.youtube.com/watch?v=Kil59Za8s7E",
+        "video_id": "Kil59Za8s7E",
+        "published_date": "2025-01-11"
+      },
+      {
+        "title": "Westin Grande Sukhumvit Hotel Bangkok | Comparing Deluxe King with Deluxe corner King rooms",
+        "channel": "Jason Mushroom",
+        "url": "https://www.youtube.com/watch?v=htfjmGXfYYM",
+        "video_id": "htfjmGXfYYM",
+        "published_date": "2024-08-10"
+      },
+      {
+        "title": "【Hotel Report】The Westin Grande Sukhumvit : Bangkok, Thailand [4K]",
+        "channel": "999 Travel",
+        "url": "https://www.youtube.com/watch?v=S5EOcKuYxEM",
+        "video_id": "S5EOcKuYxEM"
+      }
+    ]
+  },
   "tags": ["sukhumvit", "asoke", "westin"],
   "source_mix": [
     {

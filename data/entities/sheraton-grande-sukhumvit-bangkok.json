@@ -48,6 +48,62 @@
       "answer": "Yes -- it has covered, direct access to both BTS Asoke and MRT Sukhumvit stations, making it one of the best-connected Bonvoy hotels in Bangkok for reaching the rest of the city without a taxi."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sheraton Grande Sukhumvit Review: A Grand Stay in Bangkok!",
+        "source": "Sand In My Suitcase",
+        "author": "Janice and George",
+        "url": "https://sandinmysuitcase.com/grande-sheraton-sukhumvit-bangkok/",
+        "published_date": "2026-04-05",
+        "summary": "Firsthand stay praising the spacious renovated rooms, dining, and tropical resort-style pool, plus the handy location near shopping and the BTS Skytrain."
+      },
+      {
+        "title": "'My Favourite Hotel' review – Sheraton Grande Sukhumvit, Bangkok",
+        "source": "Head for Points",
+        "author": "Michael",
+        "url": "https://www.headforpoints.com/2020/04/30/review-sheraton-grande-sukhumvit-bangkok/",
+        "published_date": "2020-04-30",
+        "summary": "Guest review highlighting the family-friendly pool, multiple dining venues, four-hour happy hour, and prime spot by Terminal 21 and the BTS, noting no riverside setting."
+      },
+      {
+        "title": "Review: Sheraton Grande Sukhumvit, A Luxury Collection Hotel, Bangkok (Rama Suite)",
+        "source": "Suitesmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2021/03/04/review-sheraton-grande-sukhumvit-a-luxury-collection-hotel-bangkok-rama-suite/",
+        "published_date": "2021-03-04",
+        "summary": "One-night stay with an unexpected upgrade to the Thai-themed Rama Suite, with detailed notes on the outdoor garden, jacuzzi, dining, facilities, and service."
+      },
+      {
+        "title": "Sheraton Grande Sukhumvit Hotel Review: The Best of Bangkok",
+        "source": "Pierre Blake",
+        "author": "Pierre Blake",
+        "url": "https://pierreblake.com/sheraton-grande-sukhumvit-hotel-review-the-best-of-bangkok/",
+        "published_date": "2017-08-14",
+        "summary": "Review of a Rama suite with private garden and hot tub, praising the Asoke BTS location, dining including Rossini's, spa, and resort-style pool; rated 9.3/10."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Grande Sukhumvit Bangkok Hotel Review | Luxury Stay in Bangkok",
+        "channel": "TheTravelExplorersAT",
+        "url": "https://www.youtube.com/watch?v=7ugUZK2QM-M",
+        "video_id": "7ugUZK2QM-M"
+      },
+      {
+        "title": "Sheraton Grande Sukhumvit Bangkok Review: Grande Room",
+        "channel": "Hotelhoppers",
+        "url": "https://www.youtube.com/watch?v=HdthJDLN67Y",
+        "video_id": "HdthJDLN67Y"
+      },
+      {
+        "title": "Bangkok Sheraton Hotel Review & Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=L4ENENGiGwE",
+        "video_id": "L4ENENGiGwE"
+      }
+    ]
+  },
   "tags": ["sukhumvit", "transit hub", "luxury collection"],
   "source_mix": [
     {

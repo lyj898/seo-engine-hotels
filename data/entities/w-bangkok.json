@@ -49,6 +49,75 @@
       "answer": "The 6th-floor pool and bar is one of the most consistently praised features in guest reviews, cited as a highlight of the stay alongside the hotel's modern, design-forward rooms."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: W Bangkok",
+        "source": "Prince of Travel",
+        "author": "T.J. Dunn",
+        "url": "https://princeoftravel.com/reviews/w-bangkok/",
+        "published_date": "2023-05-31",
+        "summary": "First-person Marriott Bonvoy stay review covering multiple room types, the Muay Thai-themed design, dining at The Kitchen Table and The House on Sathorn, and pool/facilities."
+      },
+      {
+        "title": "Review: W Bangkok | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Jean-Maximilien Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/w-bangkok/",
+        "published_date": "2024-11-22",
+        "summary": "Points-and-miles stay review of a Spectacular room, noting ~$400/night or 30,000 Bonvoy points value, the Muay Thai theme, breakfast, pool and gym."
+      },
+      {
+        "title": "W Bangkok Hotel Review",
+        "source": "The Walking Critic",
+        "url": "https://www.thewalkingcritic.com/blog-reviews/w-bangkok-hotel-review/",
+        "summary": "Detailed firsthand review from room 2415 covering arrival, staff, in-room cocktail experience, spa treatments and the hotel's restaurants over a multi-day stay."
+      },
+      {
+        "title": "W Bangkok Hotel Review: A Stylish Luxury Stay in Bangkok",
+        "source": "Fancy Nancista",
+        "author": "Nancy",
+        "url": "https://www.fancynancista.com/hotel-review-w-bangkok/",
+        "summary": "First-person review of a Cool Corner Room praising the glamorous arrival, spa massage and facial, pool and a standout breakfast buffet; discloses a hosted stay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "W Bangkok Hotel Tour & Review Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=AeTEH1Mh-yc",
+        "video_id": "AeTEH1Mh-yc",
+        "published_date": "2024-11"
+      },
+      {
+        "title": "Wonderful Room at W Bangkok | Hotel Room Tour 🇹🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=rjhaDLQMXJU",
+        "video_id": "rjhaDLQMXJU",
+        "published_date": "2024-09"
+      },
+      {
+        "title": "Spectacular Room at W Bangkok | Hotel Room Tour 🇹🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=kJYIhQxwUUA",
+        "video_id": "kJYIhQxwUUA"
+      },
+      {
+        "title": "W Bangkok | Full Tour 🇹🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=CT_VTmcdnLk",
+        "video_id": "CT_VTmcdnLk",
+        "published_date": "2024-09"
+      },
+      {
+        "title": "W Hotel Bangkok - Spectacular Room tour",
+        "channel": "Aga Kozmic (a matter of taste)",
+        "url": "https://www.youtube.com/watch?v=3MW85Ft-HRY",
+        "video_id": "3MW85Ft-HRY",
+        "published_date": "2017-02"
+      }
+    ]
+  },
   "tags": ["lifestyle", "silom", "financial district"],
   "source_mix": [
     {
