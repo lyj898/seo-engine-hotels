@@ -50,6 +50,45 @@
       "answer": "Reviews describe on-site food beyond breakfast as fairly average -- acceptable for a quick meal but not a standout, while breakfast itself draws specific praise for its healthy options."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Four Points by Sheraton Bali, Seminyak (Vasanti Suite)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2019/11/20/review-four-points-by-sheraton-bali-seminyak-vasanti-suite/",
+        "published_date": "2019-11-20",
+        "summary": "Detailed paid-stay review of the 80sqm Vasanti Suite (with balcony jacuzzi), praising breakfast and rooftop views while noting the dated gym and that it is the cheapest Bonvoy option in Seminyak."
+      },
+      {
+        "title": "A Remarkable Stay At The Four Points By Sheraton Bali Seminyak",
+        "source": "enSquaredAired",
+        "author": "Nancy",
+        "url": "https://www.ensquaredaired.com/four-points-by-sheraton-bali-seminyak/",
+        "summary": "Personal narrative of a deluxe pool-view room upgrade at the start of a long travel year, highlighting standout staff, the rooftop lounge, and beach access alongside the tucked-away alley location and Wi-Fi gripes."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Four Points Seminyak Bali Hotel Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=aGOuHw8Fqjw",
+        "video_id": "aGOuHw8Fqjw"
+      },
+      {
+        "title": "Four Points By Sheraton Bali Hotel in Seminyak: Hotel and Room Tour",
+        "channel": "Nick Gray",
+        "url": "https://www.youtube.com/watch?v=93MTwTTKJ48",
+        "video_id": "93MTwTTKJ48"
+      },
+      {
+        "title": "Four Points - Full Room Tour",
+        "channel": "Nick Gray",
+        "url": "https://www.youtube.com/watch?v=NGJxUWZog8E",
+        "video_id": "NGJxUWZog8E"
+      }
+    ]
+  },
   "tags": ["seminyak", "select-service", "petitenget"],
   "source_mix": [
     {

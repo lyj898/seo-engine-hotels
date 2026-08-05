@@ -50,6 +50,74 @@
       "answer": "The lagoon-style pool draws consistent praise in reviews as spacious and enjoyable, and it's frequently mentioned alongside the hotel's breakfast buffet as one of the property's strongest features."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Four Points by Sheraton Bali, Kuta | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Audrey Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/four-points-by-sheraton-bali-kuta/",
+        "published_date": "2022-12-05",
+        "summary": "A family of four found the Category 3 Bonvoy hotel well located for Kuta nightlife, but rated the rooms cramped and short on privacy; breakfast, the kids' club and dining were the highlights."
+      },
+      {
+        "title": "Review: Four Points By Sheraton Bali, Kuta (Family Suite)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2021/09/12/review-four-points-by-sheraton-bali-kuta-family-suite/",
+        "published_date": "2021-09-12",
+        "summary": "Upgraded to a Family Suite, the reviewer was let down by dark, poorly maintained rooms with privacy issues and musty-smelling bedsheets, and asked to change rooms."
+      },
+      {
+        "title": "3 Select Marriott Hotels in Bali Reviewed: Which Ones Impressed?",
+        "source": "Upgraded Points",
+        "author": "Ehsan Haque",
+        "url": "https://upgradedpoints.com/travel/hotels/aloft-fairfield-four-points-marriott-bali-review/",
+        "published_date": "2026-05-05",
+        "summary": "The writer enjoyed a spacious lagoon-access suite and standout service, including an anniversary touch, though noted some wear and a crowded breakfast with flies."
+      },
+      {
+        "title": "Four Points by Sheraton Bali Kuta Review: Breakfast, Pool, and Location",
+        "source": "Sinae Travel",
+        "author": "Sinae",
+        "url": "https://sinaetravel.com/four-points-by-sheraton-bali-kuta-review/",
+        "published_date": "2026-04-23",
+        "summary": "At roughly USD 70 a night the four-star property offered strong value, with a generous breakfast and accommodating staff offsetting minor gripes like the narrow access road."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Walking tour of Four Points by Sheraton Hotel Kuta Bali",
+        "channel": "Aussie Travel Gal",
+        "url": "https://www.youtube.com/watch?v=Qmscfq3eBYw",
+        "video_id": "Qmscfq3eBYw"
+      },
+      {
+        "title": "Bali Kuta Hotel Four Points by Sheraton Walking Tour Jalan Benesari",
+        "channel": "Bali by Gary",
+        "url": "https://www.youtube.com/watch?v=-_pDvKwwS84",
+        "video_id": "-_pDvKwwS84"
+      },
+      {
+        "title": "Pool Access Room Tour: Four Points by Sheraton Kuta Bali",
+        "channel": "Aussie Travel Gal",
+        "url": "https://www.youtube.com/watch?v=LV0xGX2NPO8",
+        "video_id": "LV0xGX2NPO8"
+      },
+      {
+        "title": "Sheraton Four Points Bali Kuta Beach Legian Hotel Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=-B2mPJm0GhI",
+        "video_id": "-B2mPJm0GhI"
+      },
+      {
+        "title": "Four Points by Sheraton Bali, Kuta - Marriott; room tour",
+        "channel": "@hobiinspeksi",
+        "url": "https://www.youtube.com/watch?v=YBRvMRZcE2Y",
+        "video_id": "YBRvMRZcE2Y"
+      }
+    ]
+  },
   "tags": ["kuta", "select-service", "central location"],
   "source_mix": [
     {

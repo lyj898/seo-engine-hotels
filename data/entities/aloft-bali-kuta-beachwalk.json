@@ -50,6 +50,57 @@
       "answer": "Yes -- guest reviews consistently highlight reasonable rates relative to the quality of rooms, service, and the central beachfront/mall location, making it one of the better-reviewed value picks in Kuta."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Aloft Bali Kuta At Beachwalk (Aloft Pool View)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2022/05/17/review-aloft-bali-kuta-at-beachwalk-aloft-pool-view/",
+        "published_date": "2022-05-17",
+        "summary": "First-hand stay in a Pool View room at the newly opened property, praising the spacious lobby and bar, strong service and breakfast, and its convenient location beside Beachwalk mall near Kuta Beach."
+      },
+      {
+        "title": "Review: Aloft Bali Kuta at Beachwalk (new hotel!)",
+        "source": "HotelHobby",
+        "url": "https://www.hotelhobby.com/2023/01/review-aloft-bali-kuta-at-beachwalk.html",
+        "published_date": "2023-01",
+        "summary": "Detailed trip report on the 175-room hotel covering the loft-style rooms, Depot restaurant, W XYZ bar and bean-shaped pool, with notes on the mall-connected Beachwalk location."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Aloft Pool View King Room at Aloft Bali Kuta at Beachwalk | Hotel Room Tour 🇮🇩",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=bqJ350WVkXo",
+        "video_id": "bqJ350WVkXo"
+      },
+      {
+        "title": "Aloft Kuta Beachwalk Hotel Bali Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=GvtCkTFhoVk",
+        "video_id": "GvtCkTFhoVk"
+      },
+      {
+        "title": "Aloft Beachwalk Hotel Tour - Kuta Bali - Indonesia [4K]",
+        "channel": "Seamata",
+        "url": "https://www.youtube.com/watch?v=xUI7rKlmDlw",
+        "video_id": "xUI7rKlmDlw"
+      },
+      {
+        "title": "ROOM TOUR, ALOFT BALI KUTA AT BEACHWALK",
+        "channel": "Hotel To Hotel",
+        "url": "https://www.youtube.com/watch?v=DJ8QyF0LgEI",
+        "video_id": "DJ8QyF0LgEI"
+      },
+      {
+        "title": "Aloft Bali Kuta Beachwalk, Review of a Pool View Room",
+        "channel": "aeroAdvocate Luxury Travel",
+        "url": "https://www.youtube.com/watch?v=AnRLL0jatfA",
+        "video_id": "AnRLL0jatfA"
+      }
+    ]
+  },
   "tags": ["kuta", "beachwalk", "select-service"],
   "source_mix": [
     {

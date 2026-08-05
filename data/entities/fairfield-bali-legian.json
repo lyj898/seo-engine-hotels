@@ -50,6 +50,74 @@
       "answer": "Not automatically -- as a select-service Fairfield property, breakfast isn't bundled into every rate, though guests who add it consistently describe the food quality and variety as a strong point of the stay."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Fairfield by Marriott Bali Legian",
+        "source": "10xTravel",
+        "author": "Charlie Lewis",
+        "url": "https://10xtravel.com/hotel-review-fairfield-by-marriott-bali-legian/",
+        "published_date": "2024-12-13",
+        "summary": "Award stay in a ground-floor pool-view king (323 sq ft) booked with Bonvoy points using the fifth-night-free promo. Clean, spacious, family-friendly; poolside room got noisy but overall an excellent value."
+      },
+      {
+        "title": "Review: Fairfield by Marriott Bali Legian (Deluxe King)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2021/05/05/review-fairfield-by-marriott-bali-legian-deluxe-king/",
+        "published_date": "2021-05-05",
+        "summary": "Detailed stay review: loud poolside music forced several room changes, but base non-pool rooms were quiet with identical size at a lower rate. Big pool and elite breakfast, though breakfast and gym underwhelmed."
+      },
+      {
+        "title": "Review: Fairfield by Marriott Bali Legian | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Audrey Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/fairfield-by-marriott-bali-legian/",
+        "published_date": "2020-08-10",
+        "summary": "Category 2 Bonvoy property from 10,000 points/night in Legian. Highlights a two-level family pool, direct-terrace pool access, elite upgrades, welcome drinks and warm, smiling staff service."
+      },
+      {
+        "title": "Hotel Review: Fairfield by Marriott Bali Legian, Cocok Untuk Mattress Run",
+        "source": "PinterPoin",
+        "author": "Vincent",
+        "url": "https://pinterpoin.com/hotel-review-fairfield-by-marriott-bali-legian-cocok-untuk-mattress-run/",
+        "published_date": "2019-12-04",
+        "summary": "Three-night budget stay near 600k IDR/night with a Platinum upgrade to a Junior Suite (whirlpool tub). Praises free hot breakfast, pool and valet parking; concludes it exceeds budget-hotel expectations."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hotel Review 2022: Fairfield by Marriott Bali, Legian Indonesia",
+        "channel": "The Millennial Digital Nomad",
+        "url": "https://www.youtube.com/watch?v=uNlU49oXkhU",
+        "video_id": "uNlU49oXkhU"
+      },
+      {
+        "title": "FAIRFIELD INN by Marriott in Legian BALI || Hotel Tour",
+        "channel": "GoAnywhere",
+        "url": "https://www.youtube.com/watch?v=aJtKufF3R9I",
+        "video_id": "aJtKufF3R9I"
+      },
+      {
+        "title": "Fairfield by Marriott Bali Legian, Deluxe Room With Pool Access",
+        "channel": "Hotel To Hotel",
+        "url": "https://www.youtube.com/watch?v=OCs9W2cBuLI",
+        "video_id": "OCs9W2cBuLI"
+      },
+      {
+        "title": "Fairfield by Marriott Legian Bali; Junior Suite Room",
+        "channel": "Angelo Traveller",
+        "url": "https://www.youtube.com/watch?v=vwb2_S2TCx8",
+        "video_id": "vwb2_S2TCx8"
+      },
+      {
+        "title": "Fairfield Bali Legian Honest Review | Room Tour, Amenities & Staff Service",
+        "channel": "Crash Course Hotels",
+        "url": "https://www.youtube.com/watch?v=7_Ai0eTrO5M",
+        "video_id": "7_Ai0eTrO5M"
+      }
+    ]
+  },
   "tags": ["legian", "select-service", "walkable"],
   "source_mix": [
     {
