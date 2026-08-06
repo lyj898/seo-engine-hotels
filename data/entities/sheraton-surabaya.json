@@ -1,0 +1,160 @@
+{
+  "entity_id": "sheraton-surabaya",
+  "slug": "sheraton-surabaya",
+  "name": "Sheraton Surabaya Hotel & Towers",
+  "category_id": "marriott-bonvoy",
+  "region_id": "surabaya",
+  "short_description": "Sheraton hotel in central Surabaya connected directly to Tunjungan Plaza mall, with 348 rooms, a 25th-floor club lounge and business/MICE-focused facilities in the heart of the city.",
+  "ai_summary": "Sheraton Surabaya Hotel & Towers is a long-established, business- and MICE-oriented five-star property in the heart of central Surabaya, connected directly to the sprawling Tunjungan Plaza mall. Independent guests and forum reviewers consistently praise the location above all else: with the mall attached, dining, shopping and groceries are steps away and there is little need to brave city traffic. Service is the other standout, with staff repeatedly described as warm, attentive and quick to help, and elite Marriott Bonvoy members reporting generous complimentary upgrades to spacious suites. The 25th-floor club lounge draws positive mention for its city views, evening cocktails and efficient check-in, though some note its food selection is limited. The hotel offers 348 rooms and suites, multiple restaurants (including Kafe Bromo for Indonesian fare and Kawi Lounge), a spa, tennis courts and two pool areas, and a large ballroom for conferences and weddings. The main watch-out is age: while renovated Deluxe and Premium rooms are comfortable, several reviewers describe older rooms and corridors as dated and in need of refurbishment. Breakfast is generally well regarded for variety, though a few guests found the spread repetitive over longer stays, and parking is shared with the mall for an added fee. Overall it reads as a dependable, convenience-driven city hotel with strong service, best enjoyed in an upgraded or recently renovated room.",
+  "core_facts": {
+    "address": "Jl. Embong Malang 25-31, Surabaya 60261, East Java, Indonesia",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Tegalsari / central Surabaya (Tunjungan Plaza area)",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Tunjungan Plaza (connected)",
+        "km": 0.1
+      },
+      {
+        "label": "Tugu Pahlawan (Heroes Monument)",
+        "km": 2.5
+      }
+    ]
+  },
+  "pros": [
+    "Unbeatable central location connected directly to Tunjungan Plaza mall",
+    "Warm, attentive service and generous elite upgrades reported by Bonvoy members",
+    "25th-floor club lounge with city views and evening cocktails",
+    "Varied breakfast buffet spanning Indonesian and international dishes"
+  ],
+  "cons": [
+    "Parts of the property feel dated and in need of renovation",
+    "Breakfast selection can feel repetitive over multiple nights",
+    "Parking is shared with the mall and carries an extra fee"
+  ],
+  "research_highlights": [
+    "Long-established international hotel operating since the 1990s in central Surabaya",
+    "348 rooms and suites directly connected to Tunjungan Plaza, one of Indonesia's largest malls",
+    "Business/MICE oriented with a grand ballroom, club lounge and recently renovated room categories"
+  ],
+  "research_watchouts": [
+    "Room quality varies noticeably between renovated and older, un-refreshed rooms",
+    "No dedicated hotel parking; guests share the mall car park with an additional fee"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Is Sheraton Surabaya connected to Tunjungan Plaza?",
+      "answer": "Yes. The hotel connects directly into Tunjungan Plaza, one of Indonesia's largest shopping malls, giving guests indoor access to dozens of restaurants, shops and a cinema without stepping outside. This attached-mall convenience is the feature guests praise most consistently in reviews."
+    },
+    {
+      "question": "How far is the hotel from Juanda International Airport?",
+      "answer": "Sheraton Surabaya sits in the central Embong Malang district, roughly 20 km from Juanda International Airport (SUB). Driving typically takes around 30 to 45 minutes depending on Surabaya's traffic. The hotel can arrange airport transfers, and taxis and ride-hailing services are readily available."
+    },
+    {
+      "question": "Does the hotel have a club lounge for elite members?",
+      "answer": "Yes. A club lounge on the 25th floor offers city views, breakfast, evening cocktails and efficient check-in, and is accessible via club room bookings or eligible Marriott Bonvoy status. Reviewers rate the service and views highly, though some note the food selection can be limited."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Sheraton Surabaya Hotels & Towers",
+        "source": "Discover Book Travel",
+        "url": "http://google-maps-discoverbooktravel.blogspot.com/2013/04/hotel-review-sheraton-surabaya-hotels.html",
+        "published_date": "2013-04-14",
+        "summary": "First-person account of a three-night stay: grand lobby with a back door into Tunjungan Plaza, friendly staff, strong security screening, and clean if somewhat aged, worn facilities that still feel high-class."
+      },
+      {
+        "title": "Sheraton Surabaya Hotel & Towers, East Java, Indonesia [Master Thread]",
+        "source": "FlyerTalk",
+        "url": "https://www.flyertalk.com/forum/marriott-marriott-bonvoy/650990-sheraton-surabaya-hotel-towers-east-java-indonesia-master-thread.html",
+        "summary": "Long-running Marriott Bonvoy community thread where members compare the Sheraton favourably on location and club lounge, report suite upgrades on cheap rates, and debate its dated rooms versus rival Surabaya properties."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Hotel Surabaya, Executive Suite - Room Tour",
+        "channel": "Stan jalanjalan",
+        "url": "https://www.youtube.com/watch?v=7N6zb4Udc0w",
+        "video_id": "7N6zb4Udc0w"
+      },
+      {
+        "title": "SHERATON SURABAYA HOTEL & TOWERS - HOTEL MEWAH SURABAYA AKSES TUNJUNGAN PLAZA",
+        "channel": "Traveler Jakarta",
+        "url": "https://www.youtube.com/watch?v=wMF1fx6VZ38",
+        "video_id": "wMF1fx6VZ38"
+      }
+    ]
+  },
+  "tags": [
+    "central-surabaya",
+    "connected-to-tunjungan-plaza",
+    "club-lounge",
+    "business-mice",
+    "family-friendly"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/subsi-sheraton-surabaya-hotel-and-towers/overview/",
+      "label": "Official Sheraton Surabaya Hotel & Towers overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297715-d301785-Reviews-Sheraton_Surabaya_Hotel_Towers-Surabaya_East_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/subsi-sheraton-surabaya-hotel-and-towers/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "jw-marriott-surabaya",
+    "four-points-surabaya-tunjungan-plaza",
+    "the-westin-surabaya"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 93
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 79
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

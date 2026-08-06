@@ -1,0 +1,174 @@
+{
+  "entity_id": "sheraton-samui-resort",
+  "slug": "sheraton-samui-resort",
+  "name": "Sheraton Samui Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "ko-samui",
+  "short_description": "Sheraton beachfront resort on Ko Samui's quiet Chaweng Noi Beach, set on a tiered hillside with a free-form beachfront pool, Glow Spa and a Star Kids Club for families.",
+  "ai_summary": "Sheraton Samui Resort is a 141-room, Mediterranean-style property terraced across a lush hillside above Chaweng Noi Beach, a quieter and scenic stretch that many reviewers rate among the island's best swimming beaches and a short drive from busier Chaweng. Independent reviews consistently praise the setting: a free-form beachfront infinity pool, a salt-water garden pool, warm and attentive service from reception through housekeeping, and a generous breakfast buffet with strong Thai and international variety. Families are well served by the Star Kids Club, multiple pools and connecting rooms, while the Glow Spa, 24/7 fitness centre and tennis court round out the amenities. Rooms are spacious with private balconies and ocean or garden views. The honest watch-outs are consistent across sources: the steep, tiered layout means plenty of stairs and slopes, with guests relying on golf-cart buggies to reach the beach, pools and restaurants; rooms and bathrooms feel dated and are awaiting a major renovation; and restaurant dining is seen as pricey and less impressive than breakfast. Elite and lounge touches, such as complimentary lounge check-in, are noted but modest. Overall it reads as a relaxed, family-friendly beach resort with a standout location and service, best suited to travellers who value a quiet beach over polished, contemporary interiors.",
+  "core_facts": {
+    "address": "86 Moo 3, Chaweng Noi Beach, Bophut, Ko Samui, Surat Thani 84320, Thailand",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Chaweng Noi Beach, Bophut",
+    "distance_from_airport_km": 9,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Chaweng Beach",
+        "km": 3
+      }
+    ]
+  },
+  "pros": [
+    "Quiet, scenic Chaweng Noi Beach, often cited as one of Samui's best swimming beaches and away from the crowds",
+    "Warm, attentive service consistently praised from reception to housekeeping",
+    "Generous breakfast buffet with strong Thai and international variety",
+    "Family-friendly with a Star Kids Club, multiple pools and connecting rooms"
+  ],
+  "cons": [
+    "Steep, tiered hillside layout with many stairs and slopes; relies on golf-cart buggies to get around",
+    "Rooms and bathrooms feel dated and tired, awaiting a major renovation",
+    "Restaurant dining seen as pricey and inconsistent compared with the strong breakfast"
+  ],
+  "research_highlights": [
+    "141 rooms and suites on a Mediterranean-style hillside above Chaweng Noi Beach",
+    "Ranked around #4 of 10 hotels in Bo Put on TripAdvisor with a 4 of 5 rating across roughly 1,200 reviews",
+    "Signature facilities include a free-form beachfront infinity pool, salt-water garden pool, Glow Spa and Star Kids Club"
+  ],
+  "research_watchouts": [
+    "Hillside terrain means a lot of walking and stairs; not ideal for limited mobility, though buggy service is available",
+    "The property is aging, with some dated rooms and occasional reported maintenance issues"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is Sheraton Samui Resort from Samui International Airport?",
+      "answer": "The resort is roughly 9 kilometres from Samui International Airport (USM), about a 15-minute drive. It sits on Chaweng Noi Beach, around a five-minute drive south of the busier Chaweng Beach district, making it convenient yet noticeably quieter than central Chaweng."
+    },
+    {
+      "question": "Is Sheraton Samui Resort good for families?",
+      "answer": "Yes. The resort offers a Star Kids Club with indoor and outdoor play areas, multiple pools including a beachfront infinity pool and a salt-water garden pool, connecting rooms and a calm, safe beach. Golf-cart buggies help families move around the large hillside property with young children."
+    },
+    {
+      "question": "What should I know about the resort's hillside layout?",
+      "answer": "The property is terraced across a hillside above the beach, so reaching the beach, pools and restaurants can involve stairs and slopes. Complimentary golf-cart buggies run throughout the resort, but guests with mobility limitations should request a room located closer to the facilities they plan to use."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sheraton Samui Resort Review: Our Stay Experience and Guide",
+        "source": "TripZilla",
+        "author": "TripZilla Travel",
+        "url": "https://stays.tripzilla.com/en/koh-samui/hotels/sheraton-samui-resort-review",
+        "published_date": "2019-02-22",
+        "summary": "Guide-style review highlighting the quiet Chaweng Noi Beach setting, contemporary Thai design, family-friendly Star Kids Club, multiple pools and 141 rooms across a landscaped hillside."
+      },
+      {
+        "title": "Sheraton Samui review",
+        "source": "The MileLion",
+        "author": "Fred Ee",
+        "url": "https://milelion.com/2016/01/05/sheraton-samui-review/",
+        "published_date": "2016-01-05",
+        "summary": "Mixed first-person stay: praises the beach, beachfront pool and lounge check-in, but flags weak breakfast, service slips, shower and maintenance issues after a recent rebrand."
+      },
+      {
+        "title": "Sheraton Samui Resort Review: What To REALLY Expect If You Stay",
+        "source": "Oyster.com",
+        "url": "https://www.oyster.com/thailand/hotels/sheraton-samui-resort/",
+        "summary": "Independent inspector review of the 141-room hillside resort: free-form beachfront infinity pool and salt-water garden pool, gorgeous quiet beach, with age and dated decor noted as watch-outs."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Samui Resort Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=kvGDMJjoRn4",
+        "video_id": "kvGDMJjoRn4",
+        "published_date": "2023-06-08"
+      },
+      {
+        "title": "SHERATON SAMUI RESORT ░ Koh Samui, Thailand ░ Samui's Best Value 5-Star Resort? ░ A 4K Honest Review",
+        "channel": "Wanderlust Reports",
+        "url": "https://www.youtube.com/watch?v=H3B8Gwwd5A4",
+        "video_id": "H3B8Gwwd5A4",
+        "published_date": "2024-08-03"
+      },
+      {
+        "title": "SHERATON Ko Samui, Thailand (2024). Mixed Feelings, and a STORM",
+        "channel": "Forgot My Passport",
+        "url": "https://www.youtube.com/watch?v=mF1RcJdXEiE",
+        "video_id": "mF1RcJdXEiE",
+        "published_date": "2024-07-03"
+      }
+    ]
+  },
+  "tags": [
+    "chaweng-noi-beach",
+    "beachfront",
+    "family-friendly",
+    "hillside-resort",
+    "kids-club"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/usmss-sheraton-samui-resort/overview/",
+      "label": "Official Sheraton Samui Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g21003132-d302443-Reviews-Sheraton_Samui_Resort-Bo_Put_Bophut_Ko_Samui_Surat_Thani_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/usmss-sheraton-samui-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "renaissance-koh-samui-resort",
+    "vana-belle-koh-samui-luxury-collection",
+    "w-koh-samui"
+  ],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 76
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

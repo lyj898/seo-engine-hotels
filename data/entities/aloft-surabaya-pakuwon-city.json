@@ -1,0 +1,183 @@
+{
+  "entity_id": "aloft-surabaya-pakuwon-city",
+  "slug": "aloft-surabaya-pakuwon-city",
+  "name": "Aloft Surabaya Pakuwon City",
+  "category_id": "marriott-bonvoy",
+  "region_id": "surabaya",
+  "short_description": "Aloft Surabaya Pakuwon City is a select-service lifestyle hotel connected to Pakuwon City Mall in East Surabaya, topped by rooftop Echo Lounge and the Splash pool with skyline views.",
+  "ai_summary": "Opened in August 2025, Aloft Surabaya Pakuwon City is the brand's first hotel in Surabaya and one of its newest in Indonesia, a 233-room select-service lifestyle property in the fast-growing East Surabaya corridor. It sits directly beside (and connected to) Pakuwon City Mall, a practical anchor for dining and shopping in a district well away from the historic downtown. The design leans into Aloft's industrial-chic, loft-inspired template: high ceilings, platform beds, 55-inch smart TVs and fast Wi-Fi, plus local touches such as murals drawn from Surabaya's Suro-and-Baya folklore. Signature spaces include VIBE restaurant on Level 10, the rooftop Splash pool, a 24-hour Re:charge gym with city views, the W XYZ Bar and the Echo Lounge, promoted as East Surabaya's highest indoor lounge. Over 1,000 square metres of meeting space and a 489-square-metre ballroom position it as a MICE venue. Because the hotel is very new, independent coverage is thin and skews to opening announcements; the small pool of early guest feedback is strongly positive, praising fresh, spacious rooms, attentive service for a new team, and a generous breakfast, with some rating facilities above typical four-star Aloft standards. The main honest watch-outs are location rather than quality: the property is roughly 18 km from Juanda International Airport and a fair distance from central Surabaya, so it suits mall-oriented and business stays more than sightseeing. Aloft does not offer an executive lounge, so elite members take breakfast at VIBE.",
+  "core_facts": {
+    "address": "Jl. Laguna Kejawan Putih Mutiara No. 17B, Mulyorejo, Surabaya, East Java, Indonesia",
+    "brand_sub_brand": "Aloft",
+    "neighborhood": "Pakuwon City, Mulyorejo (East Surabaya)",
+    "distance_from_airport_km": 18,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Pakuwon City Mall (directly connected)",
+        "km": 0.1
+      },
+      {
+        "label": "Suramadu Bridge",
+        "km": 9
+      },
+      {
+        "label": "Kenjeran Beach",
+        "km": 7
+      }
+    ]
+  },
+  "pros": [
+    "Direct connection to Pakuwon City Mall for easy dining, shopping and entertainment",
+    "Brand-new, modern loft-style rooms described as spacious, spotless and well designed",
+    "Strong rooftop amenities: Splash pool, 24-hour Re:charge gym and Echo Lounge with skyline views",
+    "Attentive, friendly service and a well-regarded breakfast noted by early guests"
+  ],
+  "cons": [
+    "Located in East Surabaya, far from the historic downtown and roughly 18 km from Juanda airport",
+    "No executive/club lounge, so Bonvoy elites use VIBE restaurant for breakfast",
+    "Very new property with limited independent reviews to gauge long-term consistency"
+  ],
+  "research_highlights": [
+    "Opened August 2025 as Aloft's first hotel in Surabaya",
+    "233 loft-inspired rooms and suites over 13 floors, connected to Pakuwon City Mall",
+    "Over 1,065 sqm of event space including a 489 sqm ballroom, positioned as a MICE destination"
+  ],
+  "research_watchouts": [
+    "Coverage is dominated by opening press releases rather than independent trip reports, so guest-experience data is still thin",
+    "The East Surabaya location favours mall and business stays over city sightseeing"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Aloft Surabaya Pakuwon City located?",
+      "answer": "The hotel sits in Pakuwon City, a lifestyle development in the Mulyorejo area of East Surabaya, and is directly connected to Pakuwon City Mall. It is roughly 18 km from Juanda International Airport and a fair distance from the historic city centre."
+    },
+    {
+      "question": "What dining and facilities does the hotel offer?",
+      "answer": "Outlets include VIBE restaurant on Level 10, the W XYZ Bar and the rooftop Echo Lounge, promoted as East Surabaya's highest indoor lounge. Facilities feature a rooftop Splash pool, a 24-hour Re:charge fitness centre and over 1,000 square metres of meeting and event space."
+    },
+    {
+      "question": "Is there an executive lounge for Bonvoy elite members?",
+      "answer": "No. As a select-service Aloft, the hotel does not have an executive or club lounge. Marriott Bonvoy elite members instead receive their breakfast benefit at VIBE restaurant, and the property emphasises social spaces like the W XYZ Bar and Echo Lounge rather than a dedicated lounge."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Aloft Hotels turns up the volume in East Java with the opening of Aloft Surabaya Pakuwon City",
+        "source": "Great Travel Magazine",
+        "url": "https://greattravelmagazine.com/2025/08/23/aloft-hotels-turns-up-the-volume-in-east-java-with-the-opening-of-aloft-surabaya-pakuwon-city/",
+        "published_date": "2025-08-23",
+        "summary": "Opening coverage of Aloft's first Surabaya hotel: 233 loft-style rooms, VIBE restaurant, rooftop Splash pool, Re:charge gym and Echo Lounge, with murals drawn from local Suro-and-Baya folklore."
+      },
+      {
+        "title": "Indonesia Sets New Hospitality Standard with Aloft Surabaya Pakuwon City's 233 Rooms And Rooftop Lounge",
+        "source": "Travel And Tour World",
+        "url": "https://www.travelandtourworld.com/news/article/indonesia-sets-new-hospitality-standard-with-aloft-surabaya-pakuwon-citys-233-rooms-and-rooftop-lounge/",
+        "summary": "Trade-magazine feature on the new East Surabaya hotel, detailing its 233 rooms, rooftop Echo Lounge, mall connection and more than 1,000 sqm of meeting space aimed at business and MICE guests."
+      },
+      {
+        "title": "Aloft Surabaya Pakuwon City Debuts as East Surabaya's Newest MICE Destination",
+        "source": "The Korea Herald",
+        "url": "https://www.koreaherald.com/article/10575725",
+        "published_date": "2025-09-15",
+        "summary": "Debut report framing the hotel as an East Surabaya MICE venue: 233 rooms, a 489 sqm ballroom, seven meeting rooms, VIBE dining, W XYZ Bar and a direct link to Pakuwon City Mall."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Aloft hotel - Savvy Suite room tour di Pakuwon City Surabaya",
+        "channel": "Farhana Family",
+        "url": "https://www.youtube.com/watch?v=OxWyMS5DT20",
+        "video_id": "OxWyMS5DT20"
+      },
+      {
+        "title": "Lantai Tertinggi - Room Tour Hotel Aloft by Marriott Surabaya - Aqilla Liburan Nih 🤣 Aqilla's Diary",
+        "channel": "Aqilla Diary",
+        "url": "https://www.youtube.com/watch?v=GZnM67SYQlU",
+        "video_id": "GZnM67SYQlU"
+      },
+      {
+        "title": "🔥 Kirana & Bunga Staycation di Hotel Aloft Surabaya ! Kolam Renangnya Keren Banget ! ",
+        "channel": "Kirana Bunga Fun",
+        "url": "https://www.youtube.com/watch?v=olRojFOwv7U",
+        "video_id": "olRojFOwv7U"
+      },
+      {
+        "title": "Surabaya : Aloft Hotel Surabaya. January 2026",
+        "channel": "Fan Joy PARIS",
+        "url": "https://www.youtube.com/watch?v=rfwtB1JB1SY",
+        "video_id": "rfwtB1JB1SY"
+      }
+    ]
+  },
+  "tags": [
+    "pakuwon-city",
+    "east-surabaya",
+    "mall-connected",
+    "rooftop-pool",
+    "lifestyle-hotel"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/subal-aloft-surabaya-pakuwon-city/overview/",
+      "label": "Official Aloft Surabaya Pakuwon City overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297715-d25389613-Reviews-Aloft_by_Marriott_Surabaya_Pakuwon_City-Surabaya_East_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/subal-aloft-surabaya-pakuwon-city/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-surabaya-pakuwon-indah",
+    "the-westin-surabaya",
+    "fairfield-surabaya"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 90
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 86
+      },
+      {
+        "label": "Value",
+        "score": 85
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-06",
+  "status": "needs_review"
+}

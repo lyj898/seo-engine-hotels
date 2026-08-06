@@ -1,0 +1,186 @@
+{
+  "entity_id": "fairfield-surabaya",
+  "slug": "fairfield-surabaya",
+  "name": "Fairfield by Marriott Surabaya",
+  "category_id": "marriott-bonvoy",
+  "region_id": "surabaya",
+  "short_description": "Indonesia's first Fairfield by Marriott, a 270-room high-rise select-service hotel on Jalan Mayjend Sungkono in West Surabaya, minutes from Ciputra World and geared to business and long stays.",
+  "ai_summary": "Fairfield by Marriott Surabaya opened in 2016 as the brand's first property in Indonesia, occupying a slim 30-storey tower on Jalan Mayjend Sungkono in the city's western business belt. Independent reviewers consistently describe it as a reliable, sensibly priced select-service base rather than a resort: rooms are spacious with comfortable beds and, from the upper floors, genuinely good views over a fairly congested city. Service draws the strongest praise across blogs and guest reviews, with front desk, security and housekeeping repeatedly singled out for warmth and for accommodating early check-in. The all-day Kava restaurant and its buffet breakfast (Indonesian, Asian and Western, with an egg station) earn solid marks, and the location suits business travellers, being close to Ciputra World mall and the CBD. Watch-outs are real for the price point: reviewers note the building can be hard to walk out of on foot, with limited paved pedestrian access to the mall, half-height rather than floor-to-ceiling windows, and occasional lapses in room upkeep such as tired carpets and maintenance niggles. Some points-focused guests feel the nearby JW Marriott is a better use of money if rates are close, and there is no executive lounge. Overall it holds a broadly positive reputation as a dependable four-star business hotel with friendly service and fair value, best for travellers prioritising a Marriott standard and location over resort facilities.",
+  "core_facts": {
+    "address": "Jalan Mayjend Sungkono No. 178, Dukuh Pakis, Surabaya 60225, Indonesia",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "Mayjend Sungkono / West Surabaya (Dukuh Pakis)",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Ciputra World mall",
+        "km": 2.7
+      },
+      {
+        "label": "Surabaya CBD / business district",
+        "km": 2
+      }
+    ]
+  },
+  "pros": [
+    "Consistently friendly, attentive service from front desk, security and housekeeping, with easy early check-in",
+    "Spacious, comfortable rooms with good city views from the high-rise upper floors",
+    "Well-regarded Kava buffet breakfast spanning Indonesian, Asian and Western options",
+    "Fair value for a Marriott-branded four-star, close to Ciputra World and the West Surabaya CBD"
+  ],
+  "cons": [
+    "Poor pedestrian access outside the building, so reaching the nearby mall usually means a car",
+    "Occasional room-upkeep lapses reported, including tired carpets and maintenance issues",
+    "No executive lounge and half-height windows; some guests feel the JW Marriott is better value if rates are close"
+  ],
+  "research_highlights": [
+    "Opened November 2016 as the first Fairfield by Marriott in Indonesia",
+    "270 rooms and suites across a roughly 30-storey tower with the all-day Kava restaurant and Kava Bar",
+    "Holds about a 4.0/5 TripAdvisor rating across 400-plus guest reviews"
+  ],
+  "research_watchouts": [
+    "Select-service positioning: no lounge and limited resort facilities, so set expectations accordingly",
+    "The building sits on a busy arterial road with weak walkability; plan on ride-hailing for most trips"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is Fairfield by Marriott Surabaya from Juanda International Airport?",
+      "answer": "The hotel sits in West Surabaya on Jalan Mayjend Sungkono, roughly 20 kilometres from Juanda International Airport (SUB). Depending on traffic the drive typically takes around 45 minutes, so it is convenient but not immediately airport-adjacent. Ride-hailing and taxis are the easiest way to make the transfer."
+    },
+    {
+      "question": "Is breakfast included and what is the food like?",
+      "answer": "Breakfast is served at the all-day Kava restaurant and is included on many rate plans, though some rates are room-only, so check when booking. Reviewers praise the spread, which mixes Indonesian, Asian and Western dishes and includes a cooked-to-order egg station. Kava also serves lunch and dinner daily."
+    },
+    {
+      "question": "Is the hotel a good base for exploring Surabaya?",
+      "answer": "It suits business travellers and longer stays, sitting close to Ciputra World mall and the western business district with reliable Marriott service. However, pedestrian access around the building is limited, so most guests rely on cars or ride-hailing. Upper floors reward you with wide views over the city skyline."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Fairfield by Marriott Surabaya, Indonesia",
+        "source": "Hotel Hobby",
+        "url": "https://www.hotelhobby.com/2020/03/review-fairfield-marriott-surabaya-indonesia.html",
+        "published_date": "2020-03-01",
+        "summary": "Stay in a Junior Suite praising the high-rise city views and brand reliability, but flagging half-height windows, a doorless wet-room shower, modest amenities and awkward walkability to the nearby mall."
+      },
+      {
+        "title": "Dato Sri Tahir Gunting Pita pada Grand Opening Hotel Fairfield by Marriott",
+        "source": "vickyfahmi.com",
+        "url": "https://vickyfahmi.com/fairfield/",
+        "published_date": "2016-11-07",
+        "summary": "Indonesian blog covering the 2016 grand opening: a 270-room business-focused tower on Jalan Mayjend Sungkono with professional lobby and attentive staff, though GPS signal drops inside the building complicate pickups."
+      },
+      {
+        "title": "Fairfield Inn - Surabaya Indonesia (master thread)",
+        "source": "FlyerTalk",
+        "url": "https://www.flyertalk.com/forum/marriott-marriott-bonvoy/1801401-fairfield-inn-surabaya-indonesia.html",
+        "summary": "Points-community discussion of the property: okay rooms and a strategic location near Ciputra World, but members debate whether the nearby JW Marriott is better value and note breakfast could improve."
+      },
+      {
+        "title": "Fairfield by Marriott, Surabaya Stated the First Fairfield in Indonesia",
+        "source": "Hospitality Net",
+        "url": "https://www.hospitalitynet.org/news/4079248.html",
+        "published_date": "2016-11-01",
+        "summary": "Industry news marking the hotel as Marriott's first Fairfield in Indonesia, a West Surabaya high-rise near Ciputra World aimed at the midscale business segment with easy highway access."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Review Hotel Fairfield By Marriott Surabaya | Hotel Brand Fairfield pertama di Indonesia",
+        "channel": "Geret Koper Yuk",
+        "url": "https://www.youtube.com/watch?v=ED1DN8vFNY4",
+        "video_id": "ED1DN8vFNY4"
+      },
+      {
+        "title": "REVIEW HOTEL DI SURABAYA ! FAIRFIELD MARRIOT SURABAYA",
+        "channel": "JooUpdate",
+        "url": "https://www.youtube.com/watch?v=yRXDsN5u-9s",
+        "video_id": "yRXDsN5u-9s"
+      },
+      {
+        "title": "Interior Lobby of FAIRFIELD by MARRIOTT Surabaya ~ Fransira #interiorhotel #architecture",
+        "channel": "Fransira Home Interior",
+        "url": "https://www.youtube.com/watch?v=nwNA23e8lbU",
+        "video_id": "nwNA23e8lbU"
+      },
+      {
+        "title": "fairfield hotel Surabaya",
+        "channel": "Yurika Rianti",
+        "url": "https://www.youtube.com/watch?v=MghNSB1b9Gw",
+        "video_id": "MghNSB1b9Gw"
+      }
+    ]
+  },
+  "tags": [
+    "west-surabaya",
+    "business-hotel",
+    "long-stay",
+    "near-ciputra-world",
+    "select-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/subfi-fairfield-surabaya/overview/",
+      "label": "Official Fairfield by Marriott Surabaya overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297715-d11638402-Reviews-Fairfield_by_Marriott_Surabaya-Surabaya_East_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/subfi-fairfield-surabaya/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "aloft-surabaya-pakuwon-city",
+    "four-points-surabaya-pakuwon-indah",
+    "four-points-surabaya-tunjungan-plaza"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 78
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 82
+      },
+      {
+        "label": "Value",
+        "score": 84
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

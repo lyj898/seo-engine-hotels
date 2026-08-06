@@ -1,0 +1,12 @@
+{
+  "region_id": "ko-samui",
+  "slug": "ko-samui",
+  "label": "Ko Samui",
+  "granularity": "city",
+  "parent_region_id": "thailand",
+  "short_description": "Loyalty-program beach resorts across Ko Samui, from the busy Chaweng coast to the quieter Lamai, Mae Nam and western shores.",
+  "intro": "Ko Samui's hotels in this directory are all beach resorts spread around the Gulf island's coast: the Chaweng and Chaweng Noi strip on the east side -- the island's busiest beach and nightlife hub -- plus Lamai to the southeast and the quieter Mae Nam and western coves. The portfolio skews luxury, with private-pool villas, destination spas and fine dining the norm rather than the exception. The island is reached via Samui International Airport (USM) in the northeast, a short drive from the Chaweng resorts.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

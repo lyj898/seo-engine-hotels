@@ -1,0 +1,185 @@
+{
+  "entity_id": "renaissance-koh-samui-resort",
+  "slug": "renaissance-koh-samui-resort",
+  "name": "Renaissance Koh Samui Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "ko-samui",
+  "short_description": "Renaissance beachfront resort on Ko Samui's Laem Nan peninsula near Lamai Beach, known for private pool villas, two pools and the Quan Spa.",
+  "ai_summary": "The Renaissance Koh Samui Resort & Spa is an upscale Marriott Bonvoy beachfront property perched on the Laem Nan peninsula at the southern end of Lamai Beach, on Ko Samui's southeast coast. Independent reviewers describe a low-density, village-like layout of walled gardens and private villas, many with plunge pools, four-poster beds draped in mosquito netting and generous open-plan living space. Guests consistently praise the warm, attentive Thai service, strong elite recognition for Bonvoy members (breakfast and villa upgrades reported), a small but scenic boulder-framed beach with good sunset views, and the tranquil setting. Dining draws favourable notes across Banana Leaf (all-day and buffet), the seafood-focused tawaNN and beachside barbecues, with breakfast singled out for quality and variety. The Quan Spa, a 50-metre lap pool and a beachfront pool round out the facilities. Watch-outs recur in the coverage: the property shows its age in places, with dated in-room technology (few bedside outlets, no master switch), villa furniture wear, mosquitoes near plunge pools, a large tidal range that limits swimming for much of the day, and a second pool that feels underused. Limited shuttle service is also noted. Overall it reads as a relaxed, characterful villa resort that trades polish for privacy and hospitality.",
+  "core_facts": {
+    "address": "208/1 Moo 4, Tambon Maret, Lamai Beach, Ko Samui, Surat Thani 84310, Thailand",
+    "brand_sub_brand": "Renaissance",
+    "neighborhood": "Lamai Beach / Laem Nan Peninsula, southeast coast",
+    "distance_from_airport_km": 22,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Lamai Beach main strip",
+        "km": 1.5
+      },
+      {
+        "label": "Chaweng Beach",
+        "km": 13
+      }
+    ]
+  },
+  "pros": [
+    "Private pool villas with strong privacy, high ceilings and four-poster beds",
+    "Warm, personal Thai service with solid Bonvoy elite recognition (breakfast, upgrades)",
+    "Scenic boulder-framed beach and sunset views on a quiet peninsula",
+    "Well-reviewed dining and breakfast across Banana Leaf and seafood-focused tawaNN"
+  ],
+  "cons": [
+    "Property shows its age; dated in-room tech (few bedside outlets, no master switch) and villa furniture wear",
+    "Large tidal range leaves the beach shallow and hard to swim for much of the day",
+    "Mosquitoes near villa plunge pools and an underused, sometimes deserted second pool"
+  ],
+  "research_highlights": [
+    "Ranked around #6 in the Lamai Beach area on TripAdvisor with roughly 1,800 traveller reviews",
+    "Villa accommodation ranges from about 130 to 215 square metres, many with private plunge pools",
+    "Facilities include Quan Spa, a 50-metre lap pool and a separate beachfront pool"
+  ],
+  "research_watchouts": [
+    "Best experienced as a relaxed villa retreat; swimming from the hotel beach is tide-dependent and often limited",
+    "Rooms and some furnishings feel dated, so travellers wanting a brand-new, high-tech resort may be disappointed"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Renaissance Koh Samui Resort & Spa located?",
+      "answer": "It sits on the Laem Nan peninsula at the southern end of Lamai Beach on Ko Samui's southeast coast, in Tambon Maret. The main Lamai strip is a short walk or drive, and Samui International Airport is roughly a 30-minute, about 22-kilometre transfer to the northeast."
+    },
+    {
+      "question": "What are the rooms and villas like?",
+      "answer": "Accommodation ranges from deluxe rooms, some with private whirlpools, to spacious villas of roughly 130 to 215 square metres. Many villas feature private plunge pools, four-poster beds with mosquito netting, open-plan living areas and garden or beachfront settings, though reviewers note the decor and technology feel somewhat dated."
+    },
+    {
+      "question": "Is the beach good for swimming?",
+      "answer": "The resort has a small, scenic beach framed by boulders with excellent sunset views, but reviewers repeatedly note a large tidal range that leaves the water shallow for much of the day. Two swimming pools, including a 50-metre lap pool and a beachfront pool, provide reliable alternatives for swimming."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Renaissance Koh Samui Resort & Spa",
+        "source": "Head for Points",
+        "author": "Rhys Jones",
+        "url": "https://www.headforpoints.com/2026/02/08/review-renaissance-koh-samui-resort-spa/",
+        "published_date": "2026-02-08",
+        "summary": "Praises the village-like villa layout, superior beach and attentive staff; flags dated tech (few bedside outlets), mosquitoes by plunge pools and an underused second pool."
+      },
+      {
+        "title": "Review: Renaissance Koh Samui Resort & Spa | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Etienne Werbinski",
+        "url": "https://milesopedia.com/en/reviews/hotels/review-renaissance-koh-samui-resort-spa-marriott-bonvoy/",
+        "published_date": "2023-04-12",
+        "summary": "Rates it 8/10 for tranquil setting, attentive service and strong breakfast; notes some villa furniture wear, tide-dependent beach and limited once-daily shuttle. Good villa point value for elites."
+      },
+      {
+        "title": "Review: Renaissance Koh Samui Resort & Spa, Thailand",
+        "source": "A Luxury Travel Blog",
+        "author": "Jared Ruttenberg",
+        "url": "https://www.aluxurytravelblog.com/2025/05/12/review-renaissance-koh-samui-resort-spa-thailand/",
+        "published_date": "2025-05-12",
+        "summary": "Glowing account of a pool villa, Thai hospitality and standout Massaman curry at Banana Leaf; highlights the 50-metre pool, Quan Spa and a favourite granite rock with sunset views."
+      },
+      {
+        "title": "Review: Renaissance Koh Samui Resort & Spa",
+        "source": "Frugal Flyer",
+        "url": "https://frugalflyer.ca/blog/review-renaissance-koh-samui-resort-and-spa/",
+        "summary": "Independent points-focused review of a stay at the resort, covering the villa accommodation, dining, beach and Marriott Bonvoy elite experience on Ko Samui's Lamai coast."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Renaissance Koh Samui Resort & Spa Tour Review ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=QXpaTDSL4dA",
+        "video_id": "QXpaTDSL4dA",
+        "published_date": "2024-10-12"
+      },
+      {
+        "title": "Renaissance Koh Samui Resort & Spa - Detailed Hotel Review",
+        "channel": "Scottsdale Travel Chick",
+        "url": "https://www.youtube.com/watch?v=yob08OFxm0c",
+        "video_id": "yob08OFxm0c",
+        "published_date": "2024-11-02"
+      },
+      {
+        "title": "Renaissance Koh Samui Resort and Spa | Villa and Resort Tour",
+        "channel": "Allow me",
+        "url": "https://www.youtube.com/watch?v=Sq6iUMZ0T_c",
+        "video_id": "Sq6iUMZ0T_c"
+      }
+    ]
+  },
+  "tags": [
+    "lamai-beach",
+    "beachfront",
+    "pool-villa",
+    "spa",
+    "family-friendly"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/usmbr-renaissance-koh-samui-resort-and-spa/overview/",
+      "label": "Official Renaissance Koh Samui Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1188000-d448279-Reviews-Renaissance_Koh_Samui_Resort_Spa-Lamai_Beach_Maret_Ko_Samui_Surat_Thani_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/usmbr-renaissance-koh-samui-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "w-koh-samui",
+    "sheraton-samui-resort",
+    "vana-belle-koh-samui-luxury-collection"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 85
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 79
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 80
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

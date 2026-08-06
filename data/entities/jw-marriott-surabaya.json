@@ -1,0 +1,196 @@
+{
+  "entity_id": "jw-marriott-surabaya",
+  "slug": "jw-marriott-surabaya",
+  "name": "JW Marriott Hotel Surabaya",
+  "category_id": "marriott-bonvoy",
+  "region_id": "surabaya",
+  "short_description": "A long-established 5-star JW Marriott flagship in central Surabaya's Embong Malang/Tunjungan CBD, known for warm service, a strong dining lineup and a well-regarded Level 21 Executive Lounge.",
+  "ai_summary": "JW Marriott Hotel Surabaya is a long-established luxury flagship in the heart of the Embong Malang/Tunjungan business and shopping district, a short walk from Tunjungan Plaza. Opened in 1996 as The Westin Surabaya and rebranded JW Marriott in 2002, the 25-storey tower holds 407 rooms, including extended-stay apartments. Independent reviewers consistently single out the service as the property's biggest strength, describing staff as warm, attentive and genuinely personable, particularly at breakfast and in guest areas. The Executive Lounge on Level 21 draws heavy praise for a generous evening spread that can substitute for dinner, all-day snacks and afternoon tea. Dining is a highlight, with Pavilion buffet, Uppercut Steakhouse, Tang Palace (Cantonese) and Imari (Japanese), plus a bakery and lobby wine bar. Reviewers also flag strong value, calling it one of the more reasonably priced JW Marriott properties, and note family touches like the fourth-floor pool and Family by JW program. The most common watch-out is age: while spacious, clean and well maintained, rooms and public areas read as classic rather than contemporary, and renovation quality varies by room. Some guests mention inconsistent breakfast produce and occasional lingering smoke odour despite the non-smoking policy. Getting there is the other caveat, as Juanda International Airport is a lengthy, traffic-dependent transfer and Surabaya generally requires connecting flights. Overall it holds a solid TripAdvisor standing (roughly 4 of 5 from over 1,300 reviews) and suits travellers prioritising service, dining and a central location over cutting-edge design.",
+  "core_facts": {
+    "address": "Jl. Embong Malang 85-89, Surabaya 60261, East Java, Indonesia",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "Embong Malang / Tunjungan, Surabaya city centre",
+    "distance_from_airport_km": 18,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Tunjungan Plaza",
+        "km": 0.5
+      },
+      {
+        "label": "Tugu Pahlawan (Heroes Monument)",
+        "km": 2.5
+      },
+      {
+        "label": "House of Sampoerna",
+        "km": 4
+      }
+    ]
+  },
+  "pros": [
+    "Central location steps from Tunjungan Plaza and the Surabaya CBD, walkable to shopping and dining",
+    "Consistently warm, attentive service repeatedly singled out by independent reviewers",
+    "Well-regarded Executive Lounge on Level 21 with a generous evening spread and afternoon tea",
+    "Strong dining lineup (Pavilion buffet, Uppercut Steakhouse, Tang Palace, Imari) at good value for a JW Marriott"
+  ],
+  "cons": [
+    "Building and rooms feel dated despite being clean and well maintained",
+    "Juanda Airport transfer is a long, traffic-dependent drive",
+    "Occasional gripes about breakfast produce consistency and lingering smoke odour in some rooms"
+  ],
+  "research_highlights": [
+    "Opened 1996 as The Westin Surabaya; rebranded JW Marriott Hotel Surabaya in 2002",
+    "407 rooms across a 25-storey, ~105m tower, including extended-stay apartments",
+    "Signature Level 21 Executive Lounge plus five dining outlets including Uppercut Steakhouse"
+  ],
+  "research_watchouts": [
+    "Property is roughly three decades old; renovation and room condition vary by category",
+    "Surabaya usually needs connecting flights and Juanda Airport is a lengthy traffic-dependent transfer"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is JW Marriott Hotel Surabaya located?",
+      "answer": "The hotel sits on Jl. Embong Malang in central Surabaya's Tunjungan business and shopping district, roughly half a kilometre from Tunjungan Plaza. Juanda International Airport is about 18 km away, typically a lengthy transfer through heavy city traffic depending on the time of day."
+    },
+    {
+      "question": "Does the hotel have an Executive Lounge and what does it offer?",
+      "answer": "Yes. The Executive Lounge on Level 21 is open to Platinum Elite members and above or guests booking club-access rooms. Reviewers praise its breakfast, all-day snacks, afternoon tea and a generous evening cocktail service with hot dishes substantial enough to serve as dinner."
+    },
+    {
+      "question": "What dining options are available at JW Marriott Surabaya?",
+      "answer": "The property has five outlets: Pavilion for the international breakfast buffet, Uppercut Steakhouse for Australian Wagyu, Tang Palace for Cantonese dim sum and Imari for Japanese cuisine, plus the Surabaya Baking Company and a lobby wine bar. Dining is frequently cited as a highlight by guests."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "JW Marriott Surabaya Review: One of the Best Hotels in Surabaya",
+        "source": "Sinae Travel",
+        "author": "Sinae",
+        "url": "https://sinaetravel.com/jw-marriott-surabaya-review/",
+        "published_date": "2026-05-16",
+        "summary": "Titanium Elite reviewer got a spacious corner-room upgrade with Aromatherapy Associates amenities, praised the palace-like breakfast and generous lounge happy hour, and called it one of the best-value JW Marriotts."
+      },
+      {
+        "title": "Hotel Review: JW Marriott Surabaya",
+        "source": "PinterPoin",
+        "author": "Vincent",
+        "url": "https://pinterpoin.com/hotel-review-jw-marriott-surabaya/",
+        "published_date": "2020-01-20",
+        "summary": "Stayed in an 11th-floor studio corner room; notes the Level 21 lounge, elite upgrade, 4pm late checkout and local Lapis Surabaya welcome gift, with strong overall value for the rate paid."
+      },
+      {
+        "title": "JW Marriott Surabaya Review: Luxury family hotel in Tunjungan",
+        "source": "Vanilla Luxury",
+        "author": "Natasha Tulsi",
+        "url": "https://www.vanillaluxury.sg/jw-marriott-hotel-surabaya-review",
+        "published_date": "2025-09-04",
+        "summary": "Highlights East-meets-West interiors, the fourth-floor family pool, Family by JW kids program, Javanese spa and four restaurants including Uppercut Steakhouse, Tang Palace and Imari omakase."
+      },
+      {
+        "title": "JW Marriott Surabaya with virtual tour",
+        "source": "Traveling with Rob",
+        "author": "Robert Clouse Jr.",
+        "url": "https://travelingwithrob.com/hotels/jws/jwsub.jsp",
+        "summary": "Upgraded to an enormous one-bedroom suite; praises five dining venues, huge gym and pool, and a well-staffed lounge, arguing the service beats far pricier US hotels despite a long airport drive."
+      }
+    ],
+    "videos": [
+      {
+        "title": "HOTEL MEWAH DI PUSAT KOTA SURABAYA - JW MARRIOTT SURABAYA",
+        "channel": "Traveler Jakarta",
+        "url": "https://www.youtube.com/watch?v=gNJrILrvxPo",
+        "video_id": "gNJrILrvxPo",
+        "published_date": "2024-08-10"
+      },
+      {
+        "title": "JW Marriott Hotel Surabaya Tour Review ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=fZQCtFeAGqE",
+        "video_id": "fZQCtFeAGqE"
+      },
+      {
+        "title": "jw marriott surabaya",
+        "channel": "@hobiinspeksi",
+        "url": "https://www.youtube.com/watch?v=84vMNpl7AVY",
+        "video_id": "84vMNpl7AVY"
+      },
+      {
+        "title": "JW Marriott Hotel Surabaya | Meeting Room",
+        "channel": "Multimo Furniture",
+        "url": "https://www.youtube.com/watch?v=Yl_d4ak5naA",
+        "video_id": "Yl_d4ak5naA",
+        "published_date": "2022-12-02"
+      }
+    ]
+  },
+  "tags": [
+    "embong-malang",
+    "tunjungan-cbd",
+    "executive-lounge",
+    "city-centre",
+    "dining"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/subjw-jw-marriott-hotel-surabaya/overview/",
+      "label": "Official JW Marriott Hotel Surabaya overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297715-d307082-Reviews-JW_Marriott_Hotel_Surabaya-Surabaya_East_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/subjw-jw-marriott-hotel-surabaya/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "the-westin-surabaya",
+    "sheraton-surabaya",
+    "four-points-surabaya-tunjungan-plaza"
+  ],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 91
+      },
+      {
+        "label": "Rooms",
+        "score": 81
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 86
+      },
+      {
+        "label": "Value",
+        "score": 88
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,195 @@
+{
+  "entity_id": "ritz-carlton-koh-samui",
+  "slug": "ritz-carlton-koh-samui",
+  "name": "The Ritz-Carlton, Koh Samui",
+  "category_id": "marriott-bonvoy",
+  "region_id": "ko-samui",
+  "short_description": "The Ritz-Carlton, Koh Samui is a luxury resort across a 58-acre former coconut plantation on a private northern bay, with hillside suites, private-pool villas and Spa Village.",
+  "ai_summary": "The Ritz-Carlton, Koh Samui is a large luxury resort set on a 58-acre former coconut plantation on a private bay at the island's northern tip in Bophut. Its roughly 175 accommodations run from spacious 93-plus-square-metre suites to private-pool villas, most terraced up a hillside with garden or Gulf of Thailand views. Independent reviewers consistently praise the setting, the generous size and design of the rooms, and warm, attentive individual staff, along with signature southern Thai dining at Pak Tai and multiple restaurants including Sea Breeze Grill and the hilltop View Dining. Spa Village Koh Samui, Muay Thai classes and extensive grounds add resort depth. Reviews are more divided on execution: several note maintenance lapses for a property of its age, coarse-sand and uneven beach conditions, pool crowding at peak times, and dining and overall pricing that some feel outpaces the experience, with the nearby Conrad often cited as strong competition. Service quality reads as inconsistent across reviewers rather than uniformly excellent. Marriott elite members with Platinum-and-above status report complimentary breakfast and a nightly hospitality hour. Overall it is a scenic, well-appointed flagship that rewards those who value space, views and villa privacy, provided expectations account for its beach and value trade-offs.",
+  "core_facts": {
+    "address": "9/123 Moo 5, Tambon Bophut, Koh Samui, Surat Thani 84320, Thailand",
+    "brand_sub_brand": "The Ritz-Carlton",
+    "neighborhood": "Bophut, northern Koh Samui",
+    "distance_from_airport_km": 6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Spacious, well-designed suites and private-pool villas with garden or Gulf of Thailand views",
+    "Scenic 58-acre hillside setting on a private northern bay",
+    "Strong signature Thai dining at Pak Tai plus varied restaurants and Spa Village",
+    "Warm, attentive individual service moments and complimentary breakfast for higher-tier elites"
+  ],
+  "cons": [
+    "Maintenance and upkeep lapses noted for the property's age (rust, wear, damaged fittings)",
+    "Coarse-sand, uneven beach and pool crowding at busy times",
+    "Dining and overall pricing that several reviewers feel outpaces the experience"
+  ],
+  "research_highlights": [
+    "Set on a 58-acre former coconut plantation with roughly 175 suites and private-pool villas",
+    "Spa Village Koh Samui offers 8 treatment suites drawing on regional healing traditions",
+    "Signature southern Thai restaurant Pak Tai is a consistent reviewer favourite"
+  ],
+  "research_watchouts": [
+    "Beach is coarse-sand and modest; guests seeking a classic swimming beach may be disappointed",
+    "Value is questioned relative to the nearby Conrad; execution can be inconsistent"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is The Ritz-Carlton, Koh Samui from the airport?",
+      "answer": "The resort sits in Bophut on the island's northern side, about 6 kilometres from Samui International Airport (USM). That translates to roughly a 15-minute drive, and the property can arrange airport transfers on request, making arrivals and departures straightforward for most guests."
+    },
+    {
+      "question": "Does the resort have private-pool villas?",
+      "answer": "Yes. Alongside spacious suites starting around 93 square metres, the resort offers private-pool villas terraced up the hillside. Most accommodations face gardens or the Gulf of Thailand, and villas add a private plunge or pool for guests wanting extra seclusion and outdoor space during their stay."
+    },
+    {
+      "question": "What dining is available at The Ritz-Carlton, Koh Samui?",
+      "answer": "Multiple venues operate on site, led by Pak Tai for southern Thai cuisine, Sea Breeze Grill for charcoal-grilled seafood, and the hilltop View Dining for Mediterranean fare. Reviewers praise Pak Tai in particular, though some find pricing high and seasonal closures can limit choice."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: The Ritz Carlton Koh Samui, Thailand",
+        "source": "The Luxeologist",
+        "author": "Zoe Bowker",
+        "url": "https://theluxeologist.com/ritz-carlton-koh-samui-review/",
+        "published_date": "2019-11-15",
+        "summary": "Praises sublime southern Thai dining at Pak Tai, extensive facilities and spacious pool villas with Gulf views, but flags firm bedding, missing USB ports and steep fine-dining prices."
+      },
+      {
+        "title": "Ritz-Carlton Koh Samui Review: Luxury Resort Reality Check",
+        "source": "The Wander Traveller",
+        "author": "TheWanderer",
+        "url": "https://www.thewandertraveller.com/hotels/ritz-carlton-koh-samui-review-5-star-price-for-3-5-star-experience/",
+        "published_date": "2025-12-12",
+        "summary": "Finds a beautiful 58-acre resort with standout dinner at Pak Tai and strong staff moments, undercut by maintenance issues, pool crowding and pricing that outpaces execution."
+      },
+      {
+        "title": "Ritz-Carlton Koh Samui Review",
+        "source": "Points Talk Squad",
+        "author": "Pam",
+        "url": "https://pointstalksquad.com/ritz-carlton-koh-samui-review/",
+        "published_date": "2025-05-14",
+        "summary": "Redeemed with Marriott free-night certificates as Platinum; loved the large rooms, breakfast and nightly hospitality hour, but felt decor was dated and the resort trailed the nearby Conrad."
+      },
+      {
+        "title": "Resort Review: Ritz Carlton, Koh Samui",
+        "source": "The Local Postcards",
+        "author": "Dhairya Sathvara",
+        "url": "https://www.thelocalpostcards.com/resort-review-ritz-carlton-koh-samui/",
+        "published_date": "2023-01-01",
+        "summary": "Highlights incredible staff hospitality, fast buggy service and ocean-view suites, while noting a smaller-than-expected bathtub, limited breakfast variety and coarse beach sand."
+      },
+      {
+        "title": "Review: Ritz Carlton Koh Samui - Excellent Rooms, but Poor Service",
+        "source": "TopMiles",
+        "author": "Sam Huang",
+        "url": "https://topmiles.com/2018/02/16/review-ritz-carlton-koh-samui-excellent-rooms-but-poor-service/",
+        "published_date": "2018-02-16",
+        "summary": "Admires the spacious, beautifully designed rooms and pool, but criticizes understaffed and slow service, a dirty beach, weak internet and overpriced dining better suited to award stays."
+      }
+    ],
+    "videos": [
+      {
+        "title": "THE RITZ-CARLTON KOH SAMUI Hotel Review. Select Terrace Suite Room Tour. Luxury Resort Thailand",
+        "channel": "Wetravel Maldives",
+        "url": "https://www.youtube.com/watch?v=EoHfu3LPUWA",
+        "video_id": "EoHfu3LPUWA"
+      },
+      {
+        "title": "THE RITZ CARLTON SAMUI Koh Samui, Thailand【4K Tour & Review】DREARY \"5-Star Resort\"",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=E5q34CxjGXU",
+        "video_id": "E5q34CxjGXU"
+      },
+      {
+        "title": "The Ritz Carlton Koh Samui : Ultimate Pool Villa : Room No. 9111 Room Tour",
+        "channel": "Soratas Maneerojchai",
+        "url": "https://www.youtube.com/watch?v=_aRIBM9xH-w",
+        "video_id": "_aRIBM9xH-w"
+      },
+      {
+        "title": "The Ritz Carlton Koh Samui, 5 Star Hotel Tour in Koh Samui Thailand",
+        "channel": "MAD Videos",
+        "url": "https://www.youtube.com/watch?v=TcWZLPYknsw",
+        "video_id": "TcWZLPYknsw"
+      },
+      {
+        "title": "The Ritz-Carlton, Koh Samui, Ultimate Pool Villa room tour #roomtour #thailand",
+        "channel": "Room Cougar",
+        "url": "https://www.youtube.com/watch?v=3q4P61uMXEo",
+        "video_id": "3q4P61uMXEo"
+      }
+    ]
+  },
+  "tags": [
+    "bophut",
+    "private-pool-villas",
+    "luxury-resort",
+    "spa-village",
+    "gulf-views"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.ritzcarlton.com/en/hotels/usmrz-the-ritz-carlton-koh-samui/overview/",
+      "label": "Official The Ritz-Carlton, Koh Samui overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1179396-d12504573-Reviews-The_Ritz_Carlton_Koh_Samui-Bophut_Ko_Samui_Surat_Thani_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ritzcarlton.com/en/hotels/usmrz-the-ritz-carlton-koh-samui/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "vana-belle-koh-samui-luxury-collection",
+    "w-koh-samui",
+    "renaissance-koh-samui-resort"
+  ],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 80
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 74
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}
