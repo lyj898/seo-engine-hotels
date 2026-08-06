@@ -1,0 +1,176 @@
+{
+  "entity_id": "sheraton-kota-kinabalu",
+  "slug": "sheraton-kota-kinabalu",
+  "name": "Sheraton Kota Kinabalu",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kota-kinabalu",
+  "short_description": "Sheraton hotel in central Kota Kinabalu occupying one of Borneo's tallest towers, steps from Gaya Street and the waterfront, with a rooftop infinity pool and rooftop bar over the South China Sea.",
+  "ai_summary": "Sheraton Kota Kinabalu is a 307-room city hotel that opened in late December 2025 inside a 24-storey tower billed as one of the tallest in Borneo, on Jalan Albert Kwok in the Kampung Air waterfront district of Sabah's capital. It is a design-forward flagship for the reimagined Sheraton brand, built around a large communal lobby with a Community Table, wireless charging and work booths meant to double as a social hub. Independent launch coverage and early guest feedback consistently spotlight the rooftop, where an infinity pool and a rooftop bar sit roughly 100 metres above sea level with sweeping views of the South China Sea and, on clear days, the Mount Kinabalu range. Rooms are new, spacious and well soundproofed, with extra-large windows and sea or city views, and Sheraton Club and elite guests get lounge access. Dining spans the all-day Daily Social, the &More by Sheraton cafe-bar, The Burger Box and the rooftop bar, with early reviewers rating the breakfast spread among the best in the city. A 703 sqm grand ballroom, wedding pavilion, spa and 24-hour fitness centre round out the offer. Honest watch-outs: the hotel is only months old, so service and operations are still settling and long-term independent reviews are limited; it sits about 8 km from the airport and is a high-rise city hotel rather than a beach resort, with island beaches reached by ferry.",
+  "core_facts": {
+    "address": "Jalan Albert Kwok, Kampung Air, 88000 Kota Kinabalu, Sabah, Malaysia",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Kampung Air, central Kota Kinabalu waterfront",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Gaya Street",
+        "km": 0.5
+      },
+      {
+        "label": "Jesselton Point ferry terminal (islands)",
+        "km": 1.5
+      }
+    ]
+  },
+  "pros": [
+    "Rooftop infinity pool and rooftop bar about 100m up with panoramic South China Sea and sunset views",
+    "Central location steps from Gaya Street and the Kota Kinabalu waterfront",
+    "Brand-new, spacious rooms with large sea-view windows and strong soundproofing",
+    "Well-regarded breakfast with wide variety at the all-day Daily Social restaurant"
+  ],
+  "cons": [
+    "Very new (opened December 2025), so service and operations are still settling with a thin track record",
+    "About 8 km from Kota Kinabalu International Airport, requiring a taxi or transfer",
+    "A high-rise city hotel rather than a beach resort; island beaches require a ferry from Jesselton Point"
+  ],
+  "research_highlights": [
+    "Opened 29 December 2025 as a flagship for the reimagined Sheraton brand",
+    "24-storey tower, one of the tallest in Borneo, with 307 rooms and suites",
+    "Rooftop infinity pool and rooftop bar roughly 100m above sea level, plus a 703 sqm grand ballroom"
+  ],
+  "research_watchouts": [
+    "Coverage is dominated by launch/opening articles; few genuine long-stay independent reviews exist yet",
+    "City-centre tower with no direct beach; sea views are the draw rather than beachfront access"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Is Sheraton Kota Kinabalu open yet?",
+      "answer": "Yes. The hotel opened on 29 December 2025 as a 307-room Marriott Bonvoy property in central Kota Kinabalu. Because it is only months old, guest experiences are strong but the operation is still new, and long-term independent reviews remain limited compared with established city hotels."
+    },
+    {
+      "question": "How far is the hotel from Kota Kinabalu airport?",
+      "answer": "Kota Kinabalu International Airport (BKI) sits roughly 8 km from the hotel, about a 15 to 20 minute drive depending on traffic. The property is on Jalan Albert Kwok in the Kampung Air waterfront area, within easy reach of the city centre by taxi or ride-hailing."
+    },
+    {
+      "question": "What are the standout features at Sheraton Kota Kinabalu?",
+      "answer": "The headline draw is the rooftop, with an infinity pool and rooftop bar around 100 metres above sea level overlooking the South China Sea. Guests also praise the breakfast, spacious sea-view rooms, a social communal lobby, Sheraton Club lounge, spa and a 703 sqm grand ballroom for events."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sheraton Kota Kinabalu Launch | Luxury Hotel in Malaysian Borneo",
+        "source": "The Arts Shelf",
+        "url": "https://theartsshelf.com/2025/12/31/sheraton-kota-kinabalu-luxury-hotel-sabah-borneo/",
+        "published_date": "2025-12-31",
+        "summary": "Feature on the newly opened tower hotel, spotlighting the communal lobby with Community Table, rooftop infinity pool, Sheraton Club lounge and four dining venues from all-day dining to a sunset rooftop bar."
+      },
+      {
+        "title": "Sheraton Hotels & Resorts Unveils Sheraton Kota Kinabalu - A New Chapter for Hospitality in Sabah's Coastal Capital",
+        "source": "Asian Journeys",
+        "url": "https://asianjourneys.com.sg/29-Dec-2025/sheraton-hotels-resorts-unveils-sheraton-kota-kinabalu-a-new-chapter-for-hospitality-in-sabah-s-coastal-capital",
+        "published_date": "2025-12-29",
+        "summary": "Opening report on the 307-room property on Jalan Albert Kwok, covering its communal lobby, elite Club Lounge, rooftop infinity pool, wedding pavilion and dining line-up including a bar about 100m above sea level."
+      },
+      {
+        "title": "Sheraton Kota Kinabalu Opens, Redefining Contemporary Hospitality in Sabah",
+        "source": "Varnam Malaysia",
+        "author": "Shangkari",
+        "url": "https://varnam.my/112975/sheraton-kota-kinabalu-opens-redefining-contemporary-hospitality-in-sabah/",
+        "published_date": "2026-01-04",
+        "summary": "Malaysian outlet's opening coverage describing Sabah-inspired guestrooms, the social communal lobby, 703 sqm grand ballroom, rooftop infinity pool and multiple dining outlets at the new Marriott Bonvoy tower."
+      },
+      {
+        "title": "Kicking Off 2026 With The Opening of Sheraton Kota Kinabalu",
+        "source": "The Grid Asia",
+        "author": "Aufa Eslah",
+        "url": "https://thegridasia.com/kicking-off-2026-with-the-opening-of-sheraton-kota-kinabalu/",
+        "summary": "Lifestyle magazine's look at the new hotel's sea-view rooms and suites, rooftop bar and infinity pool, spa, 24/7 fitness centre and varied dining, framing it as a headline 2026 luxury opening for Kota Kinabalu."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Kota Kinabalu is Now Officially Open! | Kota Kinabalu, Sabah, North Borneo, Malaysia",
+        "channel": "Kota Kinabalu Explorer",
+        "url": "https://www.youtube.com/watch?v=kVgqfaiRa4A",
+        "video_id": "kVgqfaiRa4A"
+      },
+      {
+        "title": "Kota Kinabalu 2025: Latest Update on Sheraton Hotel | What's New?",
+        "channel": "Fendy Amil",
+        "url": "https://www.youtube.com/watch?v=OhBlr07QEF4",
+        "video_id": "OhBlr07QEF4"
+      }
+    ]
+  },
+  "tags": [
+    "kampung-air",
+    "waterfront",
+    "rooftop-infinity-pool",
+    "sea-view",
+    "new-opening"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkisi-sheraton-kota-kinabalu/overview/",
+      "label": "Official Sheraton Kota Kinabalu overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298307-d33228479-Reviews-Sheraton_Kota_Kinabalu-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Division_Sabah.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkisi-sheraton-kota-kinabalu/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "kota-kinabalu-marriott",
+    "le-meridien-kota-kinabalu",
+    "luma-kota-kinabalu-design-hotels"
+  ],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 87
+      },
+      {
+        "label": "Rooms",
+        "score": 89
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 87
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-06",
+  "status": "needs_review"
+}

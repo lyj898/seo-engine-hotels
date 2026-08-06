@@ -1,0 +1,197 @@
+{
+  "entity_id": "westin-langkawi",
+  "slug": "westin-langkawi",
+  "name": "The Westin Langkawi Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "langkawi",
+  "short_description": "Westin beachfront resort near Kuah on Langkawi, with 221 sea-view rooms, suites and villas, four pools, a private Andaman Sea beach and Malaysia's only Heavenly Spa by Westin.",
+  "ai_summary": "The Westin Langkawi Resort & Spa is a five-star beachfront resort set on a secluded private stretch near Kuah town on Langkawi, a short taxi ride from the island's ferry jetty and Eagle Square. Independent reviewers consistently praise its 221 ocean-inspired rooms, suites and villas, many with sweeping Andaman Sea views, and the property's spacious family-friendly layout. Standout strengths include four resort-style pools (among them an infinity pool with a swim-up bar and a large toddler pool), a private beach, six restaurants ranging from buffet dining to the overwater Float pavilion, and the award-winning Heavenly Spa by Westin, said to be the only one of its kind in Malaysia. Families single out the well-run kids' club, resident dusky leaf monkeys, and the signature Heavenly Bed. Points-and-miles writers rate it good value as a mid-category Bonvoy redemption. Watch-outs recur across reviews: some rooms show wear (worn closets, stained fittings, occasionally a mattress or air-conditioning issue), dinner and breakfast service can be inconsistent and dishes underwhelming, and a few guests found the beach and overall experience pleasant rather than spectacular. Wi-Fi reliability drew occasional complaints. Its Kuah-side setting is peaceful and scenic but sits well away from the Pantai Cenang nightlife and dining strip, so guests wanting a lively base should factor in transfers. Overall it reads as a relaxing, uncrowded resort that appeals strongly to couples and families seeking beachfront calm.",
+  "core_facts": {
+    "address": "Jalan Pantai Dato Syed Omar, 07000 Langkawi, Kedah, Malaysia",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Kuah",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Kuah town / Langkawi Jetty",
+        "km": 4
+      },
+      {
+        "label": "Eagle Square (Dataran Lang)",
+        "km": 4
+      }
+    ]
+  },
+  "pros": [
+    "Secluded private beachfront with sweeping Andaman Sea views from many rooms",
+    "Four pools including an infinity pool with swim-up bar plus a spacious toddler pool",
+    "Excellent for families: well-run kids' club, roomy suites/villas and resident dusky leaf monkeys",
+    "Award-winning Heavenly Spa by Westin and the signature Heavenly Bed"
+  ],
+  "cons": [
+    "Some rooms show wear (worn closets, stained fittings, occasional mattress or A/C issues)",
+    "Dining and breakfast service can be inconsistent and dishes underwhelming",
+    "Kuah-side location is calm but far from Pantai Cenang's nightlife and dining"
+  ],
+  "research_highlights": [
+    "221 guestrooms, suites and villas with ocean-inspired decor and Heavenly Beds",
+    "Ranked #23 of 132 Langkawi hotels on TripAdvisor with a 4.0/5 aggregate from ~4,400 reviews",
+    "Home to the only Heavenly Spa by Westin in Malaysia plus six dining venues"
+  ],
+  "research_watchouts": [
+    "Room condition varies by unit; request a refurbished or higher-floor sea-view room",
+    "Set near Kuah, roughly 20 km from the airport and away from Cenang, so budget for taxis"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is The Westin Langkawi Resort & Spa located?",
+      "answer": "It sits on a private beachfront along Jalan Pantai Dato Syed Omar near Kuah town in the southeast of Langkawi island, Malaysia. Langkawi International Airport is about 20 km away, roughly a 25-minute drive, and the Kuah ferry jetty and Eagle Square are only a few minutes by taxi."
+    },
+    {
+      "question": "What facilities and dining does the resort offer?",
+      "answer": "The resort has four pools, a private Andaman Sea beach, a kids' club, the WestinWORKOUT fitness studio and the award-winning Heavenly Spa by Westin. Six restaurants and bars span buffet dining, all-day cafe fare and the overwater Float pavilion, giving guests varied breakfast, lunch and sunset options on site."
+    },
+    {
+      "question": "Is the Westin Langkawi good for families?",
+      "answer": "Yes. Reviewers repeatedly highlight its family-friendly design, with spacious suites and villas, connecting rooms, a well-run kids' club with attentive staff, a large toddler pool and even resident dusky leaf monkeys. The layout lets families spread out while staying close to pools, the beach and dining."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "A Review of The Westin Langkawi Resort & Spa in Malaysia",
+        "source": "The Points Guy",
+        "author": "Katie Genter",
+        "url": "https://thepointsguy.com/hotel/reviews/westin-langkawi-resort-spa/",
+        "published_date": "2019-03-24",
+        "summary": "Praises the resort's secluded setting, multiple pools, strong breakfast buffet and attentive check-in, but flags an uncomfortable mattress, room wear, weak shower pressure and bland dinners."
+      },
+      {
+        "title": "The Westin Langkawi Resort & Spa Review",
+        "source": "Point Hacks",
+        "author": "Keith",
+        "url": "https://www.pointhacks.com.au/reviews/westin-langkawi-resort-spa-malaysia/",
+        "published_date": "2013-01-13",
+        "summary": "Rates the complex a stunning, well-maintained setting with good points value and a feast of a BBQ dinner, but notes little wow-factor, patchy breakfast service and an unremarkable beach."
+      },
+      {
+        "title": "Review: The Westin Langkawi Resort & Spa",
+        "source": "GoodyFoodies",
+        "author": "Baby Sumo",
+        "url": "https://goodyfoodies.blogspot.com/2019/09/review-westin-langkawi-resort-spa.html",
+        "published_date": "2019-09-10",
+        "summary": "A glowing family stay in a spacious two-bedroom Renewal Suite, praising the Heavenly Bed, ocean views, six restaurants, four pools, kids' club and Heavenly Spa treatments."
+      },
+      {
+        "title": "A wonderful stay at The Westin Langkawi Resort & Spa, Langkawi Island, Malaysia",
+        "source": "Globalmouse Travels",
+        "author": "Nichola",
+        "url": "https://www.globalmousetravels.com/a-wonderful-stay-at-the-westin-langkawi-resort-spa-langkawi-island-malaysia/",
+        "published_date": "2026-04-29",
+        "summary": "A family reviewer calls it a truly wonderful hotel, loving the stunning ocean-view suite, four varied pools with a swim-up bar, delightful kids' club staff and balcony visits from dusky leaf monkeys."
+      }
+    ],
+    "videos": [
+      {
+        "title": "WESTIN Resort & Spa, Langkawi, Malaysia: OUTSTANDING 5-Star Resort - 4K Tour & Review",
+        "channel": "Wanderlust Reports",
+        "url": "https://www.youtube.com/watch?v=OBrjeO2IoQ0",
+        "video_id": "OBrjeO2IoQ0"
+      },
+      {
+        "title": "The Westin Langkawi Resort & Spa Malaysia【Full Tour in 4k】",
+        "channel": "LivingHotel",
+        "url": "https://www.youtube.com/watch?v=R3wpMemsnNY",
+        "video_id": "R3wpMemsnNY"
+      },
+      {
+        "title": "The Westin Langkawi Resort & Spa: Complete Review",
+        "channel": "Luxury travel & Global business  ",
+        "url": "https://www.youtube.com/watch?v=lPpnxfNr8RQ",
+        "video_id": "lPpnxfNr8RQ"
+      },
+      {
+        "title": "THE WESTIN LANGKAWI 🇲🇾 Langkawi, Malaysia  ❰ Resort Tour & Review ❱  A Tempting Offer",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=i-MGlxOqGAM",
+        "video_id": "i-MGlxOqGAM"
+      },
+      {
+        "title": "THE WESTIN LANGKAWI - Room review | The Superior Room 1 King Bed [Garden View]",
+        "channel": "SomeRandomlyDude",
+        "url": "https://www.youtube.com/watch?v=ihqcRTvhMiY",
+        "video_id": "ihqcRTvhMiY"
+      }
+    ]
+  },
+  "tags": [
+    "kuah",
+    "beachfront",
+    "family-friendly",
+    "spa-resort",
+    "sea-view"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/lgkwi-the-westin-langkawi-resort-and-spa/overview/",
+      "label": "Official The Westin Langkawi Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d301798-Reviews-The_Westin_Langkawi_Resort_Spa-Langkawi_Langkawi_District_Kedah.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/lgkwi-the-westin-langkawi-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "aloft-langkawi",
+    "ritz-carlton-langkawi",
+    "st-regis-langkawi"
+  ],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 86
+      },
+      {
+        "label": "Service",
+        "score": 83
+      },
+      {
+        "label": "Rooms",
+        "score": 80
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

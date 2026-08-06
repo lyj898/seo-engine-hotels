@@ -1,0 +1,199 @@
+{
+  "entity_id": "aloft-langkawi",
+  "slug": "aloft-langkawi",
+  "name": "Aloft Langkawi Pantai Tengah",
+  "category_id": "marriott-bonvoy",
+  "region_id": "langkawi",
+  "short_description": "Lifestyle Aloft beach hotel on Pantai Tengah near Pantai Cenang, with loft-style sea-view rooms and a rooftop infinity pool overlooking the Andaman Sea.",
+  "ai_summary": "Aloft Langkawi Pantai Tengah is a 208-room lifestyle beach hotel occupying eight floors on Pantai Tengah, within a short walk of the buzzier Pantai Cenang strip. Reviewers consistently praise the loft-inspired rooms, which feature high ceilings, bold colour palettes, spacious balconies and views of the Andaman Sea, garden or rainforest, plus tech-smart touches, plush platform beds and a complimentary mini-bar. The signature Splash rooftop pool, an infinity pool with whirlpools set in metal birdcage structures, is repeatedly singled out as a superb sunset-viewing spot, and a complimentary pink buggy shuttles guests to the beach. Dining centres on Nook restaurant, with a generous breakfast buffet, and the energetic W XYZ Bar for cocktails and live entertainment. The location earns strong marks for walkability to beach, restaurants and watersports, with the airport roughly 20 minutes away. Watch-outs are operational rather than structural: the breakfast buffet draws crowds at peak times, with slow refills, long egg-station queues and dishes running out, so early arrival is advised. Some guests note thin soundproofing between rooms and hallways, an open-air non-air-conditioned lobby, and limited vegetarian options. As a select-service Aloft there is no executive lounge, but staff are widely described as friendly and helpful, and pricing is considered competitive for a beachfront property.",
+  "core_facts": {
+    "address": "Lot PT 701, Jalan Pantai Tengah, Mukim Kedawang, 07000 Langkawi, Kedah, Malaysia",
+    "brand_sub_brand": "Aloft",
+    "neighborhood": "Pantai Tengah",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Pantai Cenang Beach",
+        "km": 1.5
+      },
+      {
+        "label": "Underwater World Langkawi",
+        "km": 1.5
+      },
+      {
+        "label": "Langkawi Cable Car (SkyCab)",
+        "km": 21
+      }
+    ]
+  },
+  "pros": [
+    "Loft-style rooms with high ceilings, bold decor, sea-view balconies and complimentary mini-bar",
+    "Rooftop Splash infinity pool with whirlpools and standout Andaman Sea sunset views",
+    "Walkable Pantai Tengah location near Pantai Cenang beach, dining and watersports, plus free beach buggy",
+    "Friendly, helpful staff and a generous breakfast buffet at Nook"
+  ],
+  "cons": [
+    "Breakfast gets very busy at peak times with slow refills, long egg-station queues and dishes running out",
+    "Noticeable noise transfer between rooms and hallways",
+    "Open-air, non-air-conditioned lobby and limited vegetarian/vegan dining options"
+  ],
+  "research_highlights": [
+    "Opened 2018 as one of the first Aloft resorts in Malaysia, with 208 loft-inspired rooms and suites over eight floors",
+    "Signature rooftop Splash infinity pool with birdcage whirlpools, popular for sunset viewing",
+    "Walking distance to Pantai Tengah and Pantai Cenang beaches; roughly 20 minutes from Langkawi International Airport"
+  ],
+  "research_watchouts": [
+    "Select-service brand with no executive lounge; elite recognition is limited versus full-service Marriott resorts",
+    "Arrive early for breakfast, as the buffet is crowded and slow to replenish at peak periods"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is Aloft Langkawi Pantai Tengah from the airport?",
+      "answer": "The hotel sits in Pantai Tengah, roughly 8 kilometres and about a 20-minute drive from Langkawi International Airport (LGK). Grab ride-hailing and hotel transfers are readily available, and the property also runs a complimentary beach buggy for guests heading to the nearby shore."
+    },
+    {
+      "question": "Does Aloft Langkawi have a beach and a pool?",
+      "answer": "It is not directly beachfront but is a short walk from Pantai Tengah beach, with a free pink buggy shuttling guests there. The rooftop Splash area features an infinity pool with whirlpools set in metal birdcage structures, prized for its Andaman Sea sunset views."
+    },
+    {
+      "question": "Is Aloft Langkawi good for families?",
+      "answer": "Yes. Reviewers highlight family-friendly touches including a children's pool, a Camp Aloft setup for kids and spacious rooms with balconies. Its walkable location near Pantai Cenang restaurants, shops and watersports also makes exploring easy, though the breakfast buffet can be crowded at peak family hours."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Aloft Langkawi Pantai Tengah",
+        "source": "GoodyFoodies",
+        "author": "Baby Sumo",
+        "url": "https://goodyfoodies.blogspot.com/2019/08/hotel-review-aloft-langkawi-pantai-tengah.html",
+        "published_date": "2019-08-14",
+        "summary": "Detailed stay review praising the chic 8th-floor sea-view room, complimentary mini-bar, infinity pool with birdcage whirlpools, free pink beach buggy, and a generous Nook breakfast buffet."
+      },
+      {
+        "title": "Aloft Langkawi Pantai Tengah Review, Malaysia",
+        "source": "Forever Break",
+        "author": "Josh Bender",
+        "url": "https://foreverbreak.com/travel/malaysia/langkawi/aloft/",
+        "published_date": "2026-01-01",
+        "summary": "Professional review noting competitive pricing, complimentary mini-bar and beach buggy, multiple pool options and family plus romance packages, but flags thin soundproofing and few vegetarian dining choices."
+      },
+      {
+        "title": "Aloft Langkawi Pantai Tengah Hotel Review",
+        "source": "Chapters of Escapism",
+        "author": "Alvin Sim",
+        "url": "https://chaptersofescapism.com/aloft-langkawi-pantai-tengah-hotel-review/",
+        "published_date": "2023-12-18",
+        "summary": "Balanced review praising the walkable location, helpful staff, clean rooms with sea-view balconies and spacious bathrooms, but criticising the open-air lobby and slow, crowded breakfast buffet with long egg-counter queues."
+      },
+      {
+        "title": "A Sassy Stay Experience at Aloft Langkawi Pantai Tengah",
+        "source": "Gaya Travel Magazine",
+        "url": "https://www.gayatravel.com.my/a-sassy-stay-experience-at-aloft-langkawi-pantai-tengah/",
+        "summary": "Malaysian travel magazine feature on the 208-room lifestyle hotel, highlighting its loft-inspired rooms, sunset-facing Splash rooftop pool and walkable proximity to Pantai Tengah and Pantai Cenang."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ALoft Langkawi Pantai Tengah....Hotel and Room tour.",
+        "channel": "Raidzwan Bin Haji Abdul Rahim",
+        "url": "https://www.youtube.com/watch?v=Z8JyHi0KBGA",
+        "video_id": "Z8JyHi0KBGA"
+      },
+      {
+        "title": "🇲🇾STAY HERE! Aloft Langkawi Pantai Tengah: 1 King Bed Sea View Experience w/Balcony! 🏝️",
+        "channel": "TripAway2Day",
+        "url": "https://www.youtube.com/watch?v=6C1TkgoAZ3w",
+        "video_id": "6C1TkgoAZ3w"
+      },
+      {
+        "title": "Aloft Hotel Langkawi Tour & Review ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=jhatMGT2Oto",
+        "video_id": "jhatMGT2Oto"
+      },
+      {
+        "title": "Aloft Langkawi Pantai Tengah - Full Tour & Review",
+        "channel": "IH Aviation and Travel",
+        "url": "https://www.youtube.com/watch?v=xzXlyDVRFAg",
+        "video_id": "xzXlyDVRFAg"
+      },
+      {
+        "title": "Aloft Langkawi Pantai Tengah",
+        "channel": "LivetoTravel by Saniya Puri",
+        "url": "https://www.youtube.com/watch?v=3fMFY_32LiE",
+        "video_id": "3fMFY_32LiE"
+      }
+    ]
+  },
+  "tags": [
+    "pantai-tengah",
+    "beach",
+    "rooftop-pool",
+    "lifestyle",
+    "family-friendly"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/lgkal-aloft-langkawi-pantai-tengah/overview/",
+      "label": "Official Aloft Langkawi Pantai Tengah overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d15213191-Reviews-Aloft_Langkawi_Pantai_Tengah-Langkawi_Langkawi_District_Kedah.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/lgkal-aloft-langkawi-pantai-tengah/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "ritz-carlton-langkawi",
+    "st-regis-langkawi",
+    "westin-langkawi"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 84
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

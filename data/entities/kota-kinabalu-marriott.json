@@ -1,0 +1,174 @@
+{
+  "entity_id": "kota-kinabalu-marriott",
+  "slug": "kota-kinabalu-marriott",
+  "name": "Kota Kinabalu Marriott Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kota-kinabalu",
+  "short_description": "Waterfront Marriott Hotels property in central Kota Kinabalu with South China Sea-view rooms, an 8th-floor infinity pool and the rooftop Stylo bar.",
+  "ai_summary": "Opened in 2018, the 332-room Kota Kinabalu Marriott Hotel is a modern waterfront tower in the Sabah state capital, set beside the South China Sea and within walking distance of the Imago and Centre Point malls. Independent reviewers consistently single out the views: sea-facing rooms with balconies, an 8th-floor infinity pool overlooking fishing boats and islands, and a top-floor M Club lounge and Stylo rooftop bar that catch sunset panoramas. Rooms are contemporary and generously sized (guest rooms around 40 sqm, Ocean Suites up to 91 sqm), and elite recognition draws praise, with several Titanium members reporting suite upgrades and a well-regarded club lounge offering breakfast and happy-hour spreads. Dining spans Big Fish (seafood), Teppan Table (Japanese), Kitchen@8 (local) and rooftop Stylo. Watch-outs recur across reviews: breakfast variety is good but some found items not fresh, pool-deck and tile cleanliness drew complaints, in-room coffee/beverage provision is thin, and one points blogger felt the property trails the nearby Hyatt Regency on service and overall value at its price point. TripAdvisor rates it 4.0 of 5 (roughly 316 reviews), ranked around #24 of 131 hotels in Sabah, reflecting a strong but not flawless reputation. Best suited to travellers who prize sea views, pool time and central access over a resort-beach setting.",
+  "core_facts": {
+    "address": "Lot G-23A, Jalan Tun Fuad Stephens, 88000 Kota Kinabalu, Sabah, Malaysia",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Kota Kinabalu city centre (waterfront, near Imago and Centre Point malls)",
+    "distance_from_airport_km": 7,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Imago Shopping Mall",
+        "km": 0.7
+      },
+      {
+        "label": "Kota Kinabalu city centre / waterfront",
+        "km": 1
+      },
+      {
+        "label": "Kota Kinabalu International Airport (BKI)",
+        "km": 7
+      }
+    ]
+  },
+  "pros": [
+    "Excellent South China Sea views from balcony rooms, the 8th-floor infinity pool and the rooftop lounge",
+    "Central location within walking distance of Imago and Centre Point malls and only ~7 km from BKI airport",
+    "Strong Marriott Bonvoy elite recognition, with reported suite upgrades and a well-liked M Club lounge",
+    "Modern, spacious rooms and multiple on-site restaurants including Big Fish, Teppan Table and rooftop Stylo"
+  ],
+  "cons": [
+    "Breakfast has good variety but some guests found items not fresh",
+    "Pool-deck and bathroom cleanliness (stained tiles, furniture marks) drew recurring complaints",
+    "Thin in-room beverage provision and mixed value perception versus nearby competitors at its price point"
+  ],
+  "research_highlights": [
+    "Opened in 2018 with 332 rooms; a fairly new, modern high-rise",
+    "TripAdvisor 4.0/5, ranked around #24 of 131 hotels in Sabah",
+    "Signature 8th-floor infinity pool and rooftop Stylo bar with panoramic sea views"
+  ],
+  "research_watchouts": [
+    "It is a city waterfront hotel, not a beach resort; the sea frontage is a working harbour view rather than a swimming beach",
+    "Cleanliness and freshness consistency (pool deck, breakfast) can vary, and value is debated against nearby rivals"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is the Kota Kinabalu Marriott from the airport?",
+      "answer": "Kota Kinabalu International Airport (BKI) sits about 7 km from the hotel, roughly a 10 to 15 minute drive depending on traffic. The property is in the central waterfront district, so most city-centre attractions, malls and the seafront are within a short taxi ride or walk."
+    },
+    {
+      "question": "Does the hotel have sea-view rooms and a pool?",
+      "answer": "Yes. Many rooms and suites face the South China Sea with balconies, and higher categories such as the Ocean Suite offer wide sea views. There is an 8th-floor outdoor infinity pool overlooking the water, plus a children's pool and a fitness centre."
+    },
+    {
+      "question": "Is the Marriott a good choice for Bonvoy elite members?",
+      "answer": "Reviewers report strong elite recognition, including suite upgrades for Titanium members and access to a well-regarded top-floor M Club lounge serving breakfast and evening food and drinks. Elite members can typically take breakfast in the lounge or the pool-side restaurant."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Kota Kinabalu Marriott (Ocean Suite)",
+        "source": "Suitesmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2022/09/17/review-kota-kinabalu-marriott-ocean-suite/",
+        "published_date": "2022-09-17",
+        "summary": "Points-focused stay in a 91 sqm Ocean Suite: praises modern rooms, sea views, gym and elite upgrade, but flags furniture stains, pool-side noise, weak in-room coffee and value trailing the nearby Hyatt."
+      },
+      {
+        "title": "[M'SIA HOTEL REVIEW] Kota Kinabalu Marriott Hotel 2D1N Stay Review",
+        "source": "HazelDiary",
+        "author": "Hazel",
+        "url": "https://hazeldiary.com/2023/05/kota-kinabalu-marriott-hotel-stay-review/",
+        "published_date": "2023-05-17",
+        "summary": "Loves the spacious 40 sqm sea-view guest room, comfortable bed and infinity pool, and rates rooftop Stylo well. Notes limited TV channels, some outside noise and distance from the town centre."
+      },
+      {
+        "title": "Hotel Marriott Kota Kinabalu: A Review of Your Stay",
+        "source": "Backpack Beyond Borders",
+        "url": "https://en.dulichdau.com/2026/03/hotel-marriott-kota-kinabalu-review-of.html",
+        "published_date": "2026-03-18",
+        "summary": "Central king room booked at RM388 via the Bonvoy app; praises the Level 8 infinity pool, sea views and location, but criticises grubby pool tiles and slow-to-arrive hot water."
+      }
+    ],
+    "videos": [
+      {
+        "title": "MARRIOTT KOTA KINABALU,SABAH (The Room Tour - Ocean Suite/Larger Suite)",
+        "channel": "Mujahid Halpi",
+        "url": "https://www.youtube.com/watch?v=4-xfJ-Djr5M",
+        "video_id": "4-xfJ-Djr5M"
+      },
+      {
+        "title": "Marriott Kota Kinabalu | Room Tour | Little Italy",
+        "channel": "Lukistulis Wanderlog",
+        "url": "https://www.youtube.com/watch?v=Sjf61SfGbjA",
+        "video_id": "Sjf61SfGbjA"
+      }
+    ]
+  },
+  "tags": [
+    "kota-kinabalu-waterfront",
+    "sea-view",
+    "infinity-pool",
+    "rooftop-bar",
+    "city-centre"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkikk-kota-kinabalu-marriott-hotel/overview/",
+      "label": "Official Kota Kinabalu Marriott Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298307-d14016456-Reviews-Kota_Kinabalu_Marriott_Hotel-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Division.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkikk-kota-kinabalu-marriott-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "le-meridien-kota-kinabalu",
+    "luma-kota-kinabalu-design-hotels",
+    "sheraton-kota-kinabalu"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 84
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 79
+      },
+      {
+        "label": "Value",
+        "score": 77
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

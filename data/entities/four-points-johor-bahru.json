@@ -1,0 +1,162 @@
+{
+  "entity_id": "four-points-johor-bahru",
+  "slug": "four-points-johor-bahru",
+  "name": "Four Points by Sheraton Johor Bahru",
+  "category_id": "marriott-bonvoy",
+  "region_id": "johor-bahru",
+  "short_description": "Four Points by Sheraton Johor Bahru is a 150-room select-service hotel in the Bandar Seri Alam township near Masai, with an all-day restaurant and a large ballroom aimed at business travellers.",
+  "ai_summary": "Four Points by Sheraton Johor Bahru opened in April 2026 as the brand's debut in Bandar Seri Alam, a fast-growing commercial and industrial township east of Johor Bahru. Created through the refurbishment and rebranding of the former AmanSari Residence Resort under a franchise between SKS Group and Marriott, it offers 150 rooms across Twin, King and unusually spacious three-bedroom duplex categories, plus an all-day restaurant called The Mesh, a lobby bar, an outdoor pool, a fitness centre and a large ballroom with extensive function space. Early guest feedback across booking platforms is generally positive, clustering around an 8/10 aggregate. Reviewers consistently single out warm, attentive service and a well-regarded breakfast spread, including weekend live cooking stations, and note that the rooms feel new, clean and roomy. The property is positioned for business and MICE demand given its proximity to the Pasir Gudang and Tanjung Langsat industrial hubs. Watch-outs recur: the location is relatively remote from central Johor Bahru attractions and dining, ride-hailing can be inconsistent, some rooms catch road or equipment noise, and several guests flagged an awkward bathroom layout with few shelves for toiletries. As a brand-new conversion it has extensive OTA ratings but very little independent long-form review coverage so far, so expectations should be calibrated to a solid, functional select-service hotel rather than a full-service resort.",
+  "core_facts": {
+    "address": "Jalan Persiaran Seri Alam, Bandar Baru Seri Alam, 81750 Masai, Johor, Malaysia",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Bandar Seri Alam, Masai",
+    "distance_from_airport_km": 35,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Johor Bahru city centre",
+        "km": 25
+      },
+      {
+        "label": "Pasir Gudang Industrial Area",
+        "km": 10
+      }
+    ]
+  },
+  "pros": [
+    "Warm, attentive front-desk and restaurant service repeatedly praised by early guests",
+    "Well-rated breakfast with variety and weekend live cooking stations",
+    "New, clean and comparatively spacious rooms, including large three-bedroom duplexes",
+    "Ample meeting and ballroom space plus a pool and gym, suiting business and family stays"
+  ],
+  "cons": [
+    "Remote location well outside central Johor Bahru, far from major attractions and dining",
+    "Ride-hailing (Grab) can be hard to get to and from the property",
+    "Some rooms affected by road traffic or equipment noise, and bathroom layouts drew complaints"
+  ],
+  "research_highlights": [
+    "Opened April 2026 as the Four Points brand's debut in Bandar Seri Alam, converting the former AmanSari Residence Resort",
+    "150 rooms plus roughly 1,770 sqm of function space including a large divisible grand ballroom",
+    "Positioned for industrial and MICE demand near Pasir Gudang and Tanjung Langsat"
+  ],
+  "research_watchouts": [
+    "Very new property with abundant OTA ratings but almost no independent long-form review coverage yet",
+    "Location is business/industrial and far from tourist areas; transport and dining options nearby are limited"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Four Points by Sheraton Johor Bahru located?",
+      "answer": "It sits in Bandar Seri Alam, a township near Masai east of Johor Bahru, close to the Pasir Gudang and Tanjung Langsat industrial areas. The city centre is roughly a 30-minute drive and Senai International Airport is about 35 kilometres away, making it convenient for business rather than sightseeing."
+    },
+    {
+      "question": "Is Four Points by Sheraton Johor Bahru a new hotel?",
+      "answer": "Yes. It opened in April 2026 as the Four Points brand's first property in Bandar Seri Alam, created by refurbishing and rebranding the former AmanSari Residence Resort under a franchise agreement between SKS Group and Marriott International. Facilities and rooms are new or recently renovated."
+    },
+    {
+      "question": "What dining and facilities does the hotel offer?",
+      "answer": "The hotel has The Mesh all-day restaurant with live cooking stations, a lobby bar, an outdoor pool and a 24-hour fitness centre. It also provides substantial meeting and event space, including a large divisible grand ballroom, making it suitable for corporate functions and social events."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Four Points by Sheraton Johor Bahru opens doors in Bandar Seri Alam, Johor",
+        "source": "Great Travel Magazine",
+        "url": "https://greattravelmagazine.com/2026/04/01/four-points-by-sheraton-johor-bahru-opens-doors-in-bandar-seri-alam-johor/",
+        "published_date": "2026-04-01",
+        "summary": "Opening report detailing the hotel's 150 rooms, The Mesh restaurant and bar, pool and 24-hour gym, and its large Wau Merak ballroom, positioning it near Pasir Gudang's industrial hubs."
+      },
+      {
+        "title": "Marriott International and SKS Group Announce Four Points by Sheraton Johor Bahru",
+        "source": "The Iskandarian",
+        "url": "https://theiskandarian.com/marriott-international-and-sks-group-announce-four-points-by-sheraton-johor-bahru/",
+        "published_date": "2025-08-07",
+        "summary": "Announcement of SKS Group's first franchise with Marriott, converting AmanSari Residence Resort into a 150-room hotel with 1,770 sqm of function space, including deluxe twins, kings and duplexes."
+      },
+      {
+        "title": "Four Points by Sheraton debuts in Johor Bahru with new business-focused property",
+        "source": "TravelDailyNews Asia",
+        "url": "https://www.traveldailynews.asia/hotels-lodging/four-points-by-sheraton-debuts-in-johor-bahru-with-new-business-focused-property/",
+        "summary": "Trade coverage of the debut, framing the property as a business-focused hotel serving Bandar Seri Alam's commercial district and highlighting its rooms, dining and meeting facilities."
+      },
+      {
+        "title": "Johor Bahru's getting a Four Points by Sheraton in 2026",
+        "source": "Meetings & Conventions Asia",
+        "url": "https://www.meetings-conventions-asia.com/News/Hotels-and-Resorts/Johor-Bahru-s-getting-a-Four-Points-by-Sheraton-in-2026",
+        "summary": "MICE-trade preview of the conversion from AmanSari Residence Resort, outlining the 150-room count, all-day dining and lobby bar seating, and the property's event and meeting capacity."
+      }
+    ],
+    "videos": [
+
+    ]
+  },
+  "tags": [
+    "bandar-seri-alam",
+    "masai",
+    "business-hotel",
+    "ballroom",
+    "new-opening"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jhbap-four-points-johor-bahru/overview/",
+      "label": "Official Four Points by Sheraton Johor Bahru overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2368228-d34063841-Reviews-Four_Points_by_Sheraton_Johor_Bahru-Masai_Johor_Bahru_District_Johor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jhbap-four-points-johor-bahru/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "renaissance-johor-bahru",
+    "sheraton-johor-bahru",
+    "aloft-langkawi"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 73
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 83
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 87
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-06",
+  "status": "needs_review"
+}

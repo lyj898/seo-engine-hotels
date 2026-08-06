@@ -1,0 +1,200 @@
+{
+  "entity_id": "sheraton-johor-bahru",
+  "slug": "sheraton-johor-bahru",
+  "name": "Sheraton Johor Bahru",
+  "category_id": "marriott-bonvoy",
+  "region_id": "johor-bahru",
+  "short_description": "Sheraton's first Johor Bahru hotel, a 345-room city property in Bukit Senyum minutes from the CIQ causeway, connected to SKS City Mall and built around a family-focused pool complex.",
+  "ai_summary": "Opened in October 2025, the Sheraton Johor Bahru is the brand's debut in the city and sits atop Menara SKS in Bukit Senyum, directly connected to SKS City Mall and only a short Grab ride from the CIQ causeway to Singapore. Independent reviewers consistently praise the 345 spacious, Scandinavian-inspired rooms and suites, the generous buffet breakfast at Daily Social, and a well-equipped gym paired with a lap pool, cabanas and one of JB's largest kids' pools. Family Suites with bunk-bed kids' rooms and water-slide access make it a strong family pick, while Bonvoy elites report solid upgrades (several to Executive Suites) and a comfortable Sheraton Club lounge with an outdoor terrace. Service earns warm reviews for friendliness and thoughtful touches such as birthday decorations. Watch-outs reflect its newness: the earliest post-opening review flagged unpolished service, minor room defects and a thin lounge spread, and the pool is repeatedly described as smaller than expected for a five-star property. The Club lounge can also fill quickly on busy weekends. As a brand-new opening the property is still finding its rhythm, but the overall trajectory from later 2025 into 2026 is positive.",
+  "core_facts": {
+    "address": "Menara SKS, Jalan Storey, Bukit Senyum, 80300 Johor Bahru, Johor, Malaysia",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Bukit Senyum, central Johor Bahru",
+    "distance_from_airport_km": 29,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "SKS City Mall (direct connection)",
+        "km": 0
+      },
+      {
+        "label": "CIQ / Causeway to Singapore",
+        "km": 2
+      },
+      {
+        "label": "JB Sentral",
+        "km": 2
+      }
+    ]
+  },
+  "pros": [
+    "Spacious, modern Scandinavian-styled rooms and two-bedroom Family Suites with bunk beds",
+    "Extensive, well-regarded buffet breakfast at Daily Social with local and international stations",
+    "Family-friendly pool complex including one of Johor Bahru's largest kids' pools and water slides",
+    "Direct connection to SKS City Mall and a quick Grab ride from the CIQ causeway to Singapore"
+  ],
+  "cons": [
+    "Pool described by several guests as small with limited deck space for a five-star hotel",
+    "Early post-opening reviews noted unpolished service and minor room defects as it ramped up",
+    "Sheraton Club lounge is compact and can get crowded on busy weekend evenings"
+  ],
+  "research_highlights": [
+    "Opened October 2025 as Sheraton's first hotel in Johor Bahru, with 345 rooms and suites",
+    "Ranked around #17 of 140 Johor Bahru hotels on TripAdvisor with a 4/5 aggregate early on",
+    "Built above and connected to SKS City Mall with eight event spaces totalling over 2,295 sqm"
+  ],
+  "research_watchouts": [
+    "Very new property (opened late 2025); service and operations were still stabilising in early reviews",
+    "Pool is compact and the Club lounge fills up quickly at peak times"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is Sheraton Johor Bahru from the Singapore causeway (CIQ)?",
+      "answer": "The hotel sits in Bukit Senyum, roughly two kilometres from the CIQ complex and Causeway to Singapore. Reviewers report reaching CIQ in about a five-minute Grab ride costing only a few ringgit, making it convenient for cross-border travellers heading to or from Woodlands checkpoint."
+    },
+    {
+      "question": "Is Sheraton Johor Bahru good for families?",
+      "answer": "Yes. It offers two-bedroom Family Suites with a king master bedroom and a kids' room with bunk beds, plus one of Johor Bahru's largest kids' pools with water slides. Direct access to SKS City Mall and spacious rooms make it a practical choice for families."
+    },
+    {
+      "question": "Do Marriott Bonvoy elites get lounge access and upgrades?",
+      "answer": "Yes. Platinum Elite members and above receive Sheraton Club lounge access, and reviewers report generous upgrades, several to Executive Suites. The lounge offers breakfast, evening canapes and cocktails plus an outdoor terrace, though it can fill up on busy weekend evenings."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "[Hotel Review] Sheraton Johor Bahru",
+        "source": "Satu Kosong Travels",
+        "author": "Satu Kosong",
+        "url": "https://10satukosong.wpcomstaging.com/2025/10/14/hotel-review-sheraton-johor-bahru/",
+        "published_date": "2025-10-14",
+        "summary": "A family stay two weeks after opening: spacious Premier Club rooms and a big breakfast spread, but jammed plumbing, unpolished service and a thin evening lounge left the reviewer feeling it was overpriced until it matures."
+      },
+      {
+        "title": "Sheraton Johor Bahru: Luxury 5-Star Hotel with Family Suites Near CIQ",
+        "source": "Luxe Food & Travel",
+        "url": "https://travelrestauranthotel.com/blog/sheraton-johor-bahru-luxury-hotel/",
+        "published_date": "2025-12-04",
+        "summary": "A design-focused look at the new hotel: Scandinavian-inspired rooms, ocean-themed two-bedroom Family Suites with bunk beds and water slides, plus dining at Daily Social, Soo Noodles (open to 1am) and cabana-lined pool."
+      },
+      {
+        "title": "Review: Sheraton Johor Bahru",
+        "source": "The Quiet Vacationer",
+        "author": "The Quiet Vacationer",
+        "url": "https://quietvacationer.com/2025/12/20/review-sheraton-johor-bahru/",
+        "published_date": "2025-12-20",
+        "summary": "Praises spacious modern rooms, a standout Daily Social breakfast, a proper lap pool with cabanas and separate kids' pool, plus fast Platinum check-in; notes the compact Club lounge fills up on busy weekends."
+      },
+      {
+        "title": "Hotel Review: Sheraton Johor Bahru Hotel",
+        "source": "The Seat in the Middle",
+        "author": "Andrew",
+        "url": "https://www.theseatinthemiddle.com/2026/04/27/hotel-review-sheraton-johor-bahru-hotel/",
+        "published_date": "2026-04-27",
+        "summary": "A Bonvoy Platinum guest upgraded to an Executive Suite highlights spacious quiet rooms, a large Club lounge with outdoor terrace, excellent breakfast and friendly service; the main letdown was a small swimming pool."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Newly Opened! Sheraton Johor Bahru Deluxe King bedroom Skyline view | Sheraton Club access",
+        "channel": "Jason Mushroom",
+        "url": "https://www.youtube.com/watch?v=-ih2TaJiecw",
+        "video_id": "-ih2TaJiecw"
+      },
+      {
+        "title": "Sheraton Johor Bahru (New 5 Star Hotel) | Marriott",
+        "channel": "SG Yap",
+        "url": "https://www.youtube.com/watch?v=Ig5lATZ38UU",
+        "video_id": "Ig5lATZ38UU"
+      },
+      {
+        "title": "JB's Newest 5-Star Hotel - $250 Worth It? | Sheraton Johor Bahru Full Tour & Review",
+        "channel": "Singapore Daily",
+        "url": "https://www.youtube.com/watch?v=Sde89j7O_Y0",
+        "video_id": "Sde89j7O_Y0"
+      },
+      {
+        "title": "Executive Suite (Sheraton Johor Bahru Hotel) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=kbCCAou3JS0",
+        "video_id": "kbCCAou3JS0"
+      },
+      {
+        "title": "Brand New Sheraton Johor Bahru Hotel Review — Is It Worth Staying Yet? 🤔",
+        "channel": "Reeve Cheong Luen Sng",
+        "url": "https://www.youtube.com/watch?v=En8e7W6etrU",
+        "video_id": "En8e7W6etrU"
+      }
+    ]
+  },
+  "tags": [
+    "bukit-senyum",
+    "family-friendly",
+    "near-ciq-causeway",
+    "mall-connected",
+    "new-opening"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jhbsj-sheraton-johor-bahru/overview/",
+      "label": "Official Sheraton Johor Bahru overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298278-d33311916-Reviews-Sheraton_Johor_Bahru-Johor_Bahru_Johor_Bahru_District_Johor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jhbsj-sheraton-johor-bahru/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-johor-bahru",
+    "renaissance-johor-bahru",
+    "aloft-langkawi"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 83
+      },
+      {
+        "label": "Rooms",
+        "score": 88
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 86
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,205 @@
+{
+  "entity_id": "westin-desaru-coast",
+  "slug": "westin-desaru-coast",
+  "name": "The Westin Desaru Coast Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "desaru",
+  "short_description": "Large Westin beach resort on Johor's Desaru Coast with 275 sea-facing rooms, a private beach and big pool, minutes from the Desaru waterpark and Els Club golf.",
+  "ai_summary": "The Westin Desaru Coast Resort is a 275-room beachfront resort on Johor's southeast Desaru Coast, part of an integrated development that includes a waterpark and championship golf, and reachable from Singapore by ferry or roughly a 1.5-hour drive from Johor Bahru. Independent reviewers consistently praise the spacious, airy rooms fitted with Westin's Heavenly beds, the wide balconies with South China Sea views, and a private beach that is clean, sandy and rarely crowded. The buffet breakfast draws strong marks, Bonvoy elite recognition (including generous suite upgrades) is repeatedly noted as a highlight, and the property is regarded as excellent value on points. Families single out the Westin Kids Club, the large pool and easy access to the adjacent Desaru Coast Adventure Waterpark. The honest watch-outs are recurring: several guests feel the build quality and furnishings feel dated for a 2019 property, air-conditioning performance and general maintenance can be inconsistent, and the remote location means limited dining beyond the resort and unreliable ride-hailing (Grab), so a car or arranged transfers help. There is no dedicated executive club lounge, which some elite members miss, and both pool and beach can get busy during peak holiday periods. Overall it reads as a relaxing, family-friendly seaside resort that trades big-city convenience for tranquillity and beach access.",
+  "core_facts": {
+    "address": "Jalan Pantai 3, Desaru Coast, 81930 Bandar Penawar, Johor, Malaysia",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Desaru Coast, Bandar Penawar (Kota Tinggi District)",
+    "distance_from_airport_km": 88,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Desaru Coast Adventure Waterpark",
+        "km": 2
+      },
+      {
+        "label": "The Els Club Desaru Coast (golf)",
+        "km": 2
+      },
+      {
+        "label": "Desaru Coast Ferry Terminal (to Singapore)",
+        "km": 5
+      }
+    ]
+  },
+  "pros": [
+    "Spacious rooms with wide sea-view balconies and Westin Heavenly beds",
+    "Clean, uncrowded private beach with loungers and a beach bar",
+    "Strong buffet breakfast and generous Bonvoy elite upgrades / value on points",
+    "Family-friendly with Kids Club, big pool and waterpark next door"
+  ],
+  "cons": [
+    "Furnishings and build quality feel dated for a 2019 resort",
+    "Remote location with limited dining options and unreliable ride-hailing",
+    "No executive club lounge, and pool/beach get crowded in peak season"
+  ],
+  "research_highlights": [
+    "Opened 2019 as a 275-room Westin resort within the Desaru Coast development",
+    "Private South China Sea beach plus adjacent waterpark and Els Club golf",
+    "Rated 4.0/5 on TripAdvisor across ~520+ traveller reviews"
+  ],
+  "research_watchouts": [
+    "Isolated coastal setting — plan transfers/car hire as Grab is often unavailable",
+    "Interiors and A/C can feel tired; no dedicated club lounge for elites"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How do I get to The Westin Desaru Coast Resort from Singapore?",
+      "answer": "Most guests arrive by the Desaru Coast Ferry Terminal, a short drive from the resort, or drive across from Johor Bahru in roughly 1.5 hours. Senai International Airport is about 88 km away. Ride-hailing is unreliable locally, so arrange a private transfer or hire a car."
+    },
+    {
+      "question": "Is the resort good for families?",
+      "answer": "Yes. Reviewers highlight the Westin Kids Club, a large swimming pool and a clean private beach with loungers. The adjacent Desaru Coast Adventure Waterpark is a short hop away, and rooms are spacious enough for families, making it a popular family-friendly beach getaway."
+    },
+    {
+      "question": "Does the resort have a club lounge for Bonvoy elites?",
+      "answer": "No, there is no dedicated executive club lounge, which some elite members note as a drawback. However, guests consistently report strong Bonvoy recognition, including generous suite upgrades and welcome amenities, and the property is regarded as very good value on Marriott points."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: The Westin Desaru Coast (Sea View 1 Bedroom Suite)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2024/08/04/review-the-westin-desaru-coast-sea-view-1-bedroom-suite/",
+        "published_date": "2024-08-04",
+        "summary": "Praises strong Bonvoy recognition with a suite upgrade, a good breakfast buffet and a clean, uncrowded beach; excellent value on 17k points, but finds the 2019-built rooms already dated with weak air-conditioning."
+      },
+      {
+        "title": "Review: Westin Desaru Coast Resort, Johor, Malaysia",
+        "source": "Hotel Hobby",
+        "url": "https://www.hotelhobby.com/2020/01/review-westin-desaru-coast-resort-johor-malaysia.html",
+        "summary": "Highlights a spacious Executive Suite with South China Sea views, comfortable Heavenly bed, clean fine-sand beach and attentive staff, but flags the remote location, unreliable Grab, mosquitoes at the beach bar and no club lounge."
+      },
+      {
+        "title": "Hotel Review: The Westin Desaru Coast Resort",
+        "source": "GoodyFoodies",
+        "author": "Baby Sumo",
+        "url": "https://goodyfoodies.blogspot.com/2019/08/hotel-review-westin-desaru-coast-resort.html",
+        "published_date": "2019-08-09",
+        "summary": "A largely glowing family stay: warm welcome amenities, a spacious Premier Seaview room with Heavenly bed, pristine Desaru beach, Prego Italian dining and a Westin Kids Club with activities for children."
+      },
+      {
+        "title": "(Seaview Room) 2D1N Westin Desaru Coast Resort Review",
+        "source": "SGMYTAXI",
+        "author": "SGMYTAXI",
+        "url": "https://www.sgmytaxi.com/westin-desaru-review/",
+        "published_date": "2024-07-05",
+        "summary": "Loves the spacious sea-view rooms, quality mattress and superior breakfast buffet, plus a clean, well-maintained public beach; notes limited leisure options beyond beach and pool, a hot midday pool and peak-season crowds."
+      },
+      {
+        "title": "Westin Desaru Coast Resort Review: Probably the Best Hotel in Desaru!",
+        "source": "2bearbear",
+        "url": "https://www.2bearbear.com/westin-desaru-coast-resort-review-probably-the-best-hotel-in-desaru/",
+        "summary": "Rates it among Desaru's best options, praising the beachfront setting, spacious rooms and family facilities while noting the isolated location as the main trade-off for a relaxed seaside stay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "[Room Review] - The Westin Desaru Coast Resort",
+        "channel": "Malaysia Rooms Review",
+        "url": "https://www.youtube.com/watch?v=MCKPVpd_wKQ",
+        "video_id": "MCKPVpd_wKQ"
+      },
+      {
+        "title": "The Westin Desaru Coast Resort | Room Tour",
+        "channel": "Mrs Wong’s Diary",
+        "url": "https://www.youtube.com/watch?v=QLF_mLNHwUE",
+        "video_id": "QLF_mLNHwUE"
+      },
+      {
+        "title": "One Bedroom Suite (The Westin Desaru Coast Resort) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=kn3JzJQebVI",
+        "video_id": "kn3JzJQebVI"
+      },
+      {
+        "title": "The Westin Desaru Coast Resort • Room Tour - Sea View |  Johor , MALAYSIA",
+        "channel": "LuShGaL",
+        "url": "https://www.youtube.com/watch?v=m0ifEHwp5Bw",
+        "video_id": "m0ifEHwp5Bw"
+      },
+      {
+        "title": "THE WESTIN DESARU RESORT IN MALAYSIA l Full Tour and Review",
+        "channel": "Three Things",
+        "url": "https://www.youtube.com/watch?v=N281P6mvSTc",
+        "video_id": "N281P6mvSTc"
+      }
+    ]
+  },
+  "tags": [
+    "desaru-coast",
+    "beachfront",
+    "family-friendly",
+    "sea-view",
+    "golf-resort"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jhbwi-the-westin-desaru-coast-resort/overview/",
+      "label": "Official The Westin Desaru Coast Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g4564007-d15149070-Reviews-The_Westin_Desaru_Coast_Resort-Bandar_Penawar_Kota_Tinggi_District_Johor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jhbwi-the-westin-desaru-coast-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-desaru",
+    "aloft-langkawi",
+    "four-points-johor-bahru"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 80
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 86
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

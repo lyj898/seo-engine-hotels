@@ -1,0 +1,191 @@
+{
+  "entity_id": "le-meridien-kota-kinabalu",
+  "slug": "le-meridien-kota-kinabalu",
+  "name": "Le Méridien Kota Kinabalu",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kota-kinabalu",
+  "short_description": "Le Méridien Kota Kinabalu is an established waterfront hotel in central Sabah, steps from the night market and island jetty, with sea-view rooms and a sunset rooftop bar.",
+  "ai_summary": "Le Méridien Kota Kinabalu is a large upscale waterfront hotel of roughly 412 rooms set in the heart of downtown Kota Kinabalu, directly across from the buzzing night and handicraft markets and a short walk from Jesselton Point, the jetty for day trips to Gaya Island and the Tunku Abdul Rahman marine park. Independent reviewers consistently single out the location as the property's biggest strength, along with an outdoor rooftop pool and a top-floor bar delivering panoramic South China Sea sunsets. The sea-view rooms, refreshed in a 2016 renovation, are described as spacious, modern and quiet, with the higher categories and Club Lounge access earning particular praise for their island views. Dining draws steady approval: Latest Recipe for an elaborate international-and-Sabahan breakfast spread, Favola for Italian and the Azure Pool Bar & Cafe alfresco. Service and check-in generally read as warm and efficient, and bloggers repeatedly flag the hotel as strong value for a full-service city property. Watch-outs are modest: the pool is on the small side for the hotel's scale, some standard rooms and public areas show their age between refurbishments, and city-view rooms miss the sea vista that defines the stay. Overall it presents as a reliable, well-located base for exploring Kota Kinabalu and the surrounding islands rather than a resort destination in itself.",
+  "core_facts": {
+    "address": "Jalan Tun Fuad Stephens, Sinsuran, 88000 Kota Kinabalu, Sabah, Malaysia",
+    "brand_sub_brand": "Le Méridien",
+    "neighborhood": "Sinsuran, central Kota Kinabalu waterfront",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Kota Kinabalu Night Market",
+        "km": 0.2
+      },
+      {
+        "label": "Gaya Street",
+        "km": 0.7
+      },
+      {
+        "label": "Jesselton Point ferry jetty",
+        "km": 1.1
+      },
+      {
+        "label": "Imago Shopping Mall",
+        "km": 1.5
+      }
+    ]
+  },
+  "pros": [
+    "Unbeatable central waterfront location opposite the night market and a short walk to the Jesselton Point island jetty",
+    "Sea-view rooms are spacious, modern and quiet with panoramic views toward Gaya Island and sunsets",
+    "Rooftop bar and outdoor pool deliver standout South China Sea sunset views",
+    "Elaborate international-and-Sabahan breakfast at Latest Recipe and solid value for a full-service hotel"
+  ],
+  "cons": [
+    "Outdoor pool is fairly small for a hotel of this size",
+    "Some standard rooms and public areas look dated between refurbishments",
+    "City-view rooms lack the sea vista that is the property's main draw"
+  ],
+  "research_highlights": [
+    "Large ~412-room upscale hotel with a 2016 room renovation",
+    "Rates around 4.0/5 on TripAdvisor across 3,100+ reviews and ranks among the top hotels in the Kota Kinabalu area",
+    "Signature sunset rooftop bar plus a panoramic sea-view Club Lounge"
+  ],
+  "research_watchouts": [
+    "Book a sea-view or Club category deliberately — city-view rooms miss the views most reviewers rave about",
+    "Pool is modest in size, so this is a city base rather than a resort-style property"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Le Méridien Kota Kinabalu located?",
+      "answer": "It sits on Jalan Tun Fuad Stephens in the Sinsuran area of central Kota Kinabalu, directly across from the night and handicraft markets on the waterfront. Kota Kinabalu International Airport is about 8 km away, and the Jesselton Point island jetty is a roughly ten-minute walk."
+    },
+    {
+      "question": "Does the hotel have sea-view rooms and a rooftop bar?",
+      "answer": "Yes. Many rooms offer panoramic South China Sea and Gaya Island views, and higher categories add Club Lounge access with sea vistas. A top-floor rooftop bar serves cocktails with sunset views, alongside an outdoor pool and the alfresco Azure Pool Bar & Cafe."
+    },
+    {
+      "question": "Is Le Méridien Kota Kinabalu good for visiting the islands?",
+      "answer": "Very much so. Jesselton Point, the main jetty for ferries to Gaya Island and the Tunku Abdul Rahman marine park, is only about a kilometre away, making the hotel a convenient base for snorkelling and island day trips before returning to the city."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Le Méridien Kota Kinabalu Review: Everything You Need To Know About Staying Here",
+        "source": "Malaysia Uncovered",
+        "author": "Sharon Gourlay",
+        "url": "https://malaysiauncovered.com/le-meridien-kota-kinabalu-review/",
+        "published_date": "2024-04-07",
+        "summary": "Detailed stay review praising the waterfront location near the night market, spacious sea-view king rooms, rooftop pool and strong value, with multiple on-site dining options and helpful check-in service."
+      },
+      {
+        "title": "Hotel Review: Le Meridien Kota Kinabalu - Superb Downtown Location",
+        "source": "I Wander",
+        "url": "https://iwandered.net/le-meridien-kota-kinabalu-review/",
+        "summary": "Points-and-miles blogger review highlighting the central downtown setting across from the markets, modern post-renovation rooms and sought-after panoramic sea and Gaya Island views."
+      },
+      {
+        "title": "Hotel Review: Le Meridien, Kota Kinabalu",
+        "source": "The Seat in the Middle",
+        "author": "Andrew",
+        "url": "https://www.theseatinthemiddle.com/2023/08/15/hotel-review-le-meridien-kota-kinabalu/",
+        "published_date": "2023-08-15",
+        "summary": "Suite and Club Lounge review noting a spacious South China Sea-view lounge, comfortable one-bedroom suite, elaborate breakfast and prompt staff, with the pool area small but inviting."
+      },
+      {
+        "title": "Where to stay in Sabah, Borneo - Le Meridien Kota Kinabalu",
+        "source": "Mr & Mrs Romance",
+        "author": "Christina and Jim Butcher",
+        "url": "https://mrandmrsromance.com/stay-sabah-borneo-le-meridian-kota-kinabalu/",
+        "published_date": "2016-12-29",
+        "summary": "Couple's review praising rooms with floor-to-ceiling harbour windows and sunsets, a renovated ocean-themed lobby, one of the best breakfast spreads seen, and a pool with sea views."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Le Meridien Kota Kinabalu【Full Tour in 4k】",
+        "channel": "LivingHotel",
+        "url": "https://www.youtube.com/watch?v=wuvjzou9HVM",
+        "video_id": "wuvjzou9HVM"
+      },
+      {
+        "title": "Hotel Review - Le Meridien Kota Kinabalu - Bi-level Suite Sea View",
+        "channel": "Eric & Leonard Explores Hotels",
+        "url": "https://www.youtube.com/watch?v=zL-RCWOiP00",
+        "video_id": "zL-RCWOiP00"
+      },
+      {
+        "title": "2 Twin Beds Sea View Room Le Meridien Kota Kinabalu KK Sabah @exploresabah @explorehotel",
+        "channel": "Explore Malaysia",
+        "url": "https://www.youtube.com/watch?v=sEjJb0z9a_4",
+        "video_id": "sEjJb0z9a_4"
+      }
+    ]
+  },
+  "tags": [
+    "waterfront",
+    "sea-view",
+    "rooftop-bar",
+    "central-kota-kinabalu",
+    "island-access"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkimd-le-meridien-kota-kinabalu/overview/",
+      "label": "Official Le Méridien Kota Kinabalu overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298307-d582314-Reviews-Le_Meridien_Kota_Kinabalu-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Division_Saba.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkimd-le-meridien-kota-kinabalu/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "kota-kinabalu-marriott",
+    "luma-kota-kinabalu-design-hotels",
+    "sheraton-kota-kinabalu"
+  ],
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 93
+      },
+      {
+        "label": "Service",
+        "score": 87
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 89
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

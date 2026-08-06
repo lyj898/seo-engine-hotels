@@ -1,0 +1,187 @@
+{
+  "entity_id": "four-points-desaru",
+  "slug": "four-points-desaru",
+  "name": "Four Points by Sheraton Desaru",
+  "category_id": "marriott-bonvoy",
+  "region_id": "desaru",
+  "short_description": "Select-service Four Points by Sheraton in Bandar Penawar, a 10-minute drive from Desaru Beach, with spacious rooms, a saltwater pool and the Malaysian-inspired Mesh restaurant.",
+  "ai_summary": "Four Points by Sheraton Desaru is a select-service hotel that opened in November 2021 in the township of Bandar Penawar, roughly ten minutes' drive inland from the Desaru Coast beach strip. Independent reviewers consistently praise the spacious, clean and comfortable rooms, the brand's signature Comfort Bed, and warm, attentive service with solid Bonvoy elite recognition. The Mesh restaurant, led by its culinary team with a Malaysian-heritage-meets-modern approach, and the buffet breakfast draw repeated compliments, as do the outdoor saltwater pool, a separate kids' pool and play area, and the 24-hour fitness centre, making it a comfortable family and business base. The lobby's rattan-and-timber, seaside-inspired design is a frequent highlight. The most common watch-out is location: this is not a beachfront resort like the neighbouring Westin Desaru Coast, so guests must drive to the beach, waterpark and golf. Reviewers also flag that published cash rates (often MYR 300+) feel steep for a select-service property, while the hotel is widely regarded as a Marriott Bonvoy award sweet spot where points redemptions offer strong value. Overall it reads as a dependable, well-run option best enjoyed by travellers happy to drive to the coast or who book on points.",
+  "core_facts": {
+    "address": "Jalan Kempas 2, Taman Desaru Utama, 81930 Bandar Penawar, Johor, Malaysia",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Taman Desaru Utama, Bandar Penawar (Desaru Coast area)",
+    "distance_from_airport_km": 90,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Desaru Beach",
+        "km": 7
+      },
+      {
+        "label": "Desaru Coast Adventure Waterpark",
+        "km": 9
+      },
+      {
+        "label": "The ELS Club Desaru Coast",
+        "km": 10
+      }
+    ]
+  },
+  "pros": [
+    "Spacious, clean, well-appointed rooms with the signature Comfort Bed and plush pillows",
+    "Friendly, attentive service with good Marriott Bonvoy elite recognition",
+    "Strong buffet breakfast and well-regarded Mesh restaurant serving Malaysian-inspired cuisine",
+    "Family-friendly facilities: outdoor saltwater pool, kids' pool and play area, 24-hour gym"
+  ],
+  "cons": [
+    "Not beachfront — a 10-minute drive is needed to reach Desaru Beach, waterpark and golf",
+    "Published cash rates (MYR 300+) feel high for a select-service hotel",
+    "Located in a small township rather than a resort setting, with limited dining beyond the hotel"
+  ],
+  "research_highlights": [
+    "Opened November 2021; 311 contemporary rooms across five room types",
+    "Ranked #3 of 11 hotels in Bandar Penawar on TripAdvisor (4.0/5)",
+    "Widely cited as a Marriott Bonvoy award sweet spot with low points redemption rates"
+  ],
+  "research_watchouts": [
+    "It is an inland select-service hotel, not the adjacent beachfront Westin Desaru Coast resort",
+    "Reaching the beach and coast attractions requires a car or the hotel shuttle"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Desaru on the beach?",
+      "answer": "No. The hotel sits inland in Bandar Penawar's Taman Desaru Utama township, about a ten-minute drive from Desaru Beach. It is a select-service hotel rather than a beachfront resort, so guests use a car or the hotel shuttle to reach the coast, waterpark and golf courses."
+    },
+    {
+      "question": "How far is the hotel from Senai International Airport?",
+      "answer": "Four Points by Sheraton Desaru is roughly 90 kilometres from Senai International Airport in Johor Bahru, about a 75 to 90 minute drive via the Senai-Desaru Expressway. Many guests also arrive by car from Singapore, which is a convenient road trip away."
+    },
+    {
+      "question": "Is the hotel good value for Marriott Bonvoy members?",
+      "answer": "Reviewers frequently call it a Bonvoy award sweet spot, noting points redemptions offer strong value versus the cash rate. Published cash rates can feel steep for a select-service property, so booking on points and using elite benefits is often the best-value approach for members."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Four Points By Sheraton Desaru (Premium King Room)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2024/08/04/review-four-points-by-sheraton-desaru-premium-king-room/",
+        "published_date": "2024-08-04",
+        "summary": "Detailed stay in a 38 sqm Premium King corner room praising the breakfast, service and Bonvoy recognition; notes the inland location needs a drive to the beach and cash rates feel overpriced versus points."
+      },
+      {
+        "title": "Hotel Review 2022 – Four Points by Sheraton Desaru",
+        "source": "Live Life Lah",
+        "author": "Miera Nadhirah",
+        "url": "https://livelifelah.com/2022/07/21/hotel-review-2022-four-points-by-sheraton-desaru/",
+        "published_date": "2022-07-21",
+        "summary": "Warmly positive review highlighting the rattan-and-timber lobby, spacious Premium King rooms, family-oriented stay packages and shuttle service, with the only gripe being the lack of direct beach views."
+      },
+      {
+        "title": "Desaru scores with Four Points by Sheraton",
+        "source": "My Johor Stories",
+        "author": "Peggy Loh",
+        "url": "http://ppunlimited.blogspot.com/2022/01/desaru-scores-with-four-points-by.html",
+        "published_date": "2022-01-06",
+        "summary": "Local blogger covers the November 2021 opening and an overnight stay, describing the seaside-inspired design, saltwater pools, gym and games room, and Mesh restaurant dishes led by the culinary team."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Premium King Room (Four Points by Sheraton Desaru) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=oxCE1DYNydI",
+        "video_id": "oxCE1DYNydI"
+      },
+      {
+        "title": "Four Points by Sheraton Desaru | Desaru, Malaysia | Hotel Review 🏨",
+        "channel": "Malaysia Hotels App",
+        "url": "https://www.youtube.com/watch?v=ZTut6uchlUE",
+        "video_id": "ZTut6uchlUE"
+      },
+      {
+        "title": "[Hotel Review] Four Point By Sheraton Desaru, Malaysia | Family Room | 2 Double Bed",
+        "channel": "忙碌妈妈乐",
+        "url": "https://www.youtube.com/watch?v=e7lU_7uQlaI",
+        "video_id": "e7lU_7uQlaI"
+      },
+      {
+        "title": "Four Point by Sheraton Desaru, 10 min Drive to Desaru Beach",
+        "channel": "Dine & Leisure",
+        "url": "https://www.youtube.com/watch?v=kqjKWihRCFQ",
+        "video_id": "kqjKWihRCFQ"
+      }
+    ]
+  },
+  "tags": [
+    "desaru-coast",
+    "family-friendly",
+    "outdoor-pool",
+    "select-service",
+    "bonvoy-sweet-spot"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jhbfp-four-points-desaru/overview/",
+      "label": "Official Four Points by Sheraton Desaru overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g4564007-d23371598-Reviews-Four_Points_by_Sheraton_Desaru-Bandar_Penawar_Kota_Tinggi_District_Johor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jhbfp-four-points-desaru/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "westin-desaru-coast",
+    "aloft-langkawi",
+    "four-points-johor-bahru"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 77
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 87
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 85
+      },
+      {
+        "label": "Value",
+        "score": 76
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

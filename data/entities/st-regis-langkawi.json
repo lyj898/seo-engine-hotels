@@ -1,0 +1,203 @@
+{
+  "entity_id": "st-regis-langkawi",
+  "slug": "st-regis-langkawi",
+  "name": "The St. Regis Langkawi",
+  "category_id": "marriott-bonvoy",
+  "region_id": "langkawi",
+  "short_description": "St. Regis beachfront luxury resort on Langkawi's Andaman coast near Kuah, with sunset overwater villas, private-pool suites and signature 24-hour butler service.",
+  "ai_summary": "The St. Regis Langkawi is a five-star beachfront resort on the Andaman Sea near Kuah, backed by rainforest and opened in 2016 as one of Langkawi's flagship luxury properties. Reviewers consistently praise the setting: a private white-sand beach, cascading infinity pools and dramatic sunset overwater villas with private plunge pools, alongside spacious garden-pool and St. Regis suites. The signature 24-hour butler service draws frequent acclaim, with guests noting staff who remember names and preferences and handle everything from coffee runs to packing, though a few report occasional inconsistency. Dining is a highlight, especially the overwater Kayuputi restaurant with Andaman Sea views and the champagne breakfast at L'Orangerie, while the Iridium Spa is repeatedly called excellent value versus European equivalents. A dedicated airport lounge and BMW transfers reinforce the arrival experience. On the honest side, some writers flag signs of wear and tear in rooms (marble cracks, water stains) suggesting the property could use a refresh, food quality that can be uneven, and pricing that feels steep, with one points-and-miles reviewer describing it as a more budget-feeling St. Regis relative to the neighbouring Ritz-Carlton. Beach conditions at low tide also draw occasional comment. Overall the resort earns strong marks for service, romance and scenery, and holds a solid TripAdvisor base ranking around the mid-teens among Langkawi hotels, making it a dependable pick for honeymooners and Bonvoy elites seeking overwater luxury.",
+  "core_facts": {
+    "address": "Jalan Pantai Beringin, 07000 Langkawi, Kedah, Malaysia",
+    "brand_sub_brand": "St. Regis",
+    "neighborhood": "Kuah",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Eagle Square (Dataran Lang), Kuah",
+        "km": 3
+      },
+      {
+        "label": "Kuah Jetty / ferry terminal",
+        "km": 4
+      }
+    ]
+  },
+  "pros": [
+    "Sunset overwater villas and private-pool suites with direct beach access and infinity plunge pools",
+    "Signature 24-hour St. Regis butler service that remembers guest preferences",
+    "Overwater Kayuputi restaurant and champagne breakfast with Andaman Sea views",
+    "Iridium Spa widely rated excellent value, plus dedicated airport lounge and BMW transfers"
+  ],
+  "cons": [
+    "Some rooms show signs of wear and tear (marble cracks, water stains), hinting at a needed refresh",
+    "Food quality can be uneven and dining is pricey",
+    "Beach can look less appealing at low tide"
+  ],
+  "research_highlights": [
+    "Opened April 2016 as a St. Regis flagship on Langkawi's Andaman coast",
+    "Four overwater villas including Sunset Overwater Villas and a Sunset Royal Villa with private pools",
+    "Ranked around #15 of ~132 Langkawi hotels on TripAdvisor from 1,200+ reviews"
+  ],
+  "research_watchouts": [
+    "Butler and floor service can be inconsistent; set expectations if service matters most",
+    "It sits near Kuah town rather than the west-coast beach strip, about 20 km from Langkawi International Airport"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Does The St. Regis Langkawi have overwater villas?",
+      "answer": "Yes. The resort offers four overwater villas, including three Sunset Overwater Villas and a Sunset Royal Villa, each with a private terrace, plunge or infinity pool and direct Andaman Sea views. Garden-pool suites and St. Regis suites with private plunge pools are also available for guests wanting beach-level accommodation."
+    },
+    {
+      "question": "How far is the resort from Langkawi International Airport?",
+      "answer": "The St. Regis Langkawi sits on Jalan Pantai Beringin near Kuah, roughly 20 km from Langkawi International Airport (LGK), about a 25 to 30 minute drive. The resort arranges private transfers, often in BMW vehicles, and maintains a dedicated lounge at the airport for arriving and departing guests."
+    },
+    {
+      "question": "What is included with St. Regis butler service?",
+      "answer": "The signature 24-hour butler service is complimentary for all guests. Butlers handle unpacking and packing, garment pressing, twice-daily beverage delivery such as iced tea or coffee, restaurant and activity reservations, and personalised requests. Reviewers highlight staff remembering names and preferences, though a few note the service quality can occasionally vary between stays."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: St. Regis Langkawi",
+        "source": "Prince of Travel",
+        "author": "Ricky Zhang",
+        "url": "https://princeoftravel.com/reviews/st-regis-langkawi/",
+        "published_date": "2022-05-16",
+        "summary": "Points-and-miles review praising the Pool Suite's large plunge pool, private beach, butler service and airport lounge, but flagging room wear-and-tear and a comparatively budget feel versus other St. Regis resorts."
+      },
+      {
+        "title": "The St. Regis Langkawi: Exceptional Nautical Riviera Getaway",
+        "source": "Asia 361",
+        "author": "Frey",
+        "url": "https://asia361.com/2017/06/27/st-regis-langkawi-exceptional-getaway/",
+        "published_date": "2017-06-27",
+        "summary": "Favourable review highlighting the Pool Suite with private garden pool, Kayuputi's overwater dining, L'Orangerie champagne breakfast, Iridium Spa Malay massage and naturalist-led nature walks."
+      },
+      {
+        "title": "The St. Regis Langkawi - Review",
+        "source": "Sassy Urbanite's Diary",
+        "author": "Allison Wong",
+        "url": "https://urbanitediary.com/2017/11/st-regis-langkawi-review.html",
+        "published_date": "2017-11-01",
+        "summary": "Enthusiastic review praising the BMW airport transfer, spacious St. Regis Suite, proactive name-recognising staff and champagne breakfast, calling it among the best hotel experiences the author had had."
+      },
+      {
+        "title": "The St. Regis Langkawi",
+        "source": "Bangsar Babe",
+        "author": "Suelynn",
+        "url": "https://www.bangsarbabe.com/2016/08/st-regis-langkawi.html",
+        "published_date": "2016-08-05",
+        "summary": "Early review lauding the butler service, 90 sqm suite, Iridium Spa and one of the island's nicest beachfronts, but noting average food and teething service issues at the newly opened resort."
+      },
+      {
+        "title": "The St. Regis Langkawi's sunset over-water villas make for a wonderfully underrated weekend jaunt",
+        "source": "Vogue Singapore",
+        "url": "https://vogue.sg/the-st-regis-langkawi-hotel-review/",
+        "summary": "Feature review spotlighting the sunset overwater villas with private pools and in-villa BBQ service, framing the resort as an underrated luxury weekend escape on Langkawi."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The St. Regis - Langkawi, Malaysia | Full Review (4K tour) | Luxury without limits!",
+        "channel": "Travel Destinasians",
+        "url": "https://www.youtube.com/watch?v=HuXFLAug6wQ",
+        "video_id": "HuXFLAug6wQ"
+      },
+      {
+        "title": "St Regis Suite (The St Regis Langkawi) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=5_HmRXbHlS4",
+        "video_id": "5_HmRXbHlS4"
+      },
+      {
+        "title": "The St Regis Langkawi Room & Facilities Tour | The Penangite",
+        "channel": "Tipsycation",
+        "url": "https://www.youtube.com/watch?v=1PqDLdl8Soo",
+        "video_id": "1PqDLdl8Soo"
+      },
+      {
+        "title": "The St Regis Langkawi 🇲🇾 | Premier Andaman Ocean View Room",
+        "channel": "Tipsycation",
+        "url": "https://www.youtube.com/watch?v=BmrE_ti6ZnI",
+        "video_id": "BmrE_ti6ZnI"
+      },
+      {
+        "title": "St. Regis Langkawi: Hotel Tour",
+        "channel": "Travel with Jules",
+        "url": "https://www.youtube.com/watch?v=zEcti-4dbDo",
+        "video_id": "zEcti-4dbDo"
+      }
+    ]
+  },
+  "tags": [
+    "kuah",
+    "overwater-villa",
+    "butler-service",
+    "beachfront",
+    "honeymoon"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/lgkxr-the-st-regis-langkawi/overview/",
+      "label": "Official The St. Regis Langkawi overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d8523437-Reviews-The_St_Regis_Langkawi-Langkawi_Langkawi_District_Kedah.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/lgkxr-the-st-regis-langkawi/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "aloft-langkawi",
+    "ritz-carlton-langkawi",
+    "westin-langkawi"
+  ],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 89
+      },
+      {
+        "label": "Rooms",
+        "score": 84
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 82
+      },
+      {
+        "label": "Value",
+        "score": 79
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

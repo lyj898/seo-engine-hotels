@@ -1,0 +1,177 @@
+{
+  "entity_id": "luma-kota-kinabalu-design-hotels",
+  "slug": "luma-kota-kinabalu-design-hotels",
+  "name": "The LUMA Hotel, Kota Kinabalu, a Member of Design Hotels",
+  "category_id": "marriott-bonvoy",
+  "region_id": "kota-kinabalu",
+  "short_description": "Borneo's first creative Design Hotels member, a boutique art-led property on Sutera Avenue in central Kota Kinabalu with a signature Sabahan-wood spiral staircase and street-level dining.",
+  "ai_summary": "The LUMA Hotel is Kota Kinabalu's first creative design hotel, opened in January 2022 and enrolled in Marriott Bonvoy as a Design Hotels member. Occupying floors of a mixed-use office and apartment block on Sutera Avenue, it leans hard into design: a lobby spiral staircase built from local Sabahan wood inlaid with white marble, greenery, jewel-toned modular furniture, rotating local art and playlists by Sabahan musicians. Guestrooms carry nature-inspired names and a minimalist, earthy palette with wood panelling and raffia headboards. Independent reviewers and guests consistently praise the interior design, spotless rooms, silent and effective air-conditioning, warm attentive staff, and the convenient location a short covered walk from Imago Shopping Mall with cafes and restaurants at street level, including Flow Coffee by roaster Crack Inc. and JoJo Gastrobar. Watch-outs are real: because the hotel sits inside a larger building, several room categories lack proper windows or views; guests report the lobby-cafe breakfast is overpriced, Wi-Fi can be slow, and some note noise. As a Design Hotels affiliate, Bonvoy elite recognition is limited compared with full-service Marriott brands. Overall a stylish, well-located boutique stay best suited to design-minded short city trips rather than resort-style holidays.",
+  "core_facts": {
+    "address": "Lot 2-5, Block A, Sutera Avenue, Jalan Sembulan, 88100 Kota Kinabalu, Sabah, Malaysia",
+    "brand_sub_brand": "Design Hotels",
+    "neighborhood": "Sutera Avenue, Central Business District (Sembulan)",
+    "distance_from_airport_km": 7,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Imago Shopping Mall",
+        "km": 0.5
+      },
+      {
+        "label": "KK Waterfront / Esplanade",
+        "km": 1.5
+      },
+      {
+        "label": "Centre Point Sabah",
+        "km": 1.5
+      }
+    ]
+  },
+  "pros": [
+    "Distinctive, award-worthy design with a signature Sabahan-wood spiral staircase and local art throughout",
+    "Spotlessly clean rooms with silent, efficient air-conditioning and comfortable beds",
+    "Warm, attentive reception and service noted repeatedly by guests",
+    "Central Sutera Avenue location with street-level cafes and a short covered walk to Imago Shopping Mall"
+  ],
+  "cons": [
+    "Several room categories lack windows or views as the hotel sits inside a larger office/apartment building",
+    "Lobby-cafe breakfast is widely described as overpriced",
+    "Wi-Fi can be slow and some guests report noise"
+  ],
+  "research_highlights": [
+    "Opened 30 January 2022 as Borneo's first creative design hotel",
+    "Member of Design Hotels within Marriott Bonvoy",
+    "Multiple street-level dining concepts including Flow Coffee (Crack Inc.) and JoJo Gastrobar"
+  ],
+  "research_watchouts": [
+    "As a Design Hotels affiliate, Bonvoy elite benefits are limited versus full-service Marriott brands",
+    "Confirm a room with a window at booking, as some categories are windowless"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is The LUMA Hotel located and how far is the airport?",
+      "answer": "The hotel is on Sutera Avenue (Jalan Sembulan) in Kota Kinabalu's central business district, about a five-to-eight minute covered walk from Imago Shopping Mall. Kota Kinabalu International Airport (BKI) is roughly 7 km away, around a 10-minute drive depending on traffic."
+    },
+    {
+      "question": "Is The LUMA Hotel part of Marriott Bonvoy?",
+      "answer": "Yes. It is a Member of Design Hotels bookable through Marriott Bonvoy, so members earn and redeem points. As a Design Hotels affiliate rather than a full Marriott brand, elite recognition and benefits are more limited than at standard Marriott properties."
+    },
+    {
+      "question": "What should I know about the rooms before booking?",
+      "answer": "Rooms are minimalist and design-led with wood panelling, earthy tones and clean, quiet air-conditioning that guests praise. Because the hotel occupies part of a larger office and apartment building, some room categories have no window or view, so request a windowed room when you book."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review 2022 - The LUMA Hotel, Kota Kinabalu, Sabah",
+        "source": "Live Life Lah",
+        "author": "Miera Nadhirah",
+        "url": "https://livelifelah.com/2022/07/04/hotel-review-2022-the-luma-hotel-kota-kinabalu-sabah/",
+        "published_date": "2022-07-04",
+        "summary": "A design-focused walkthrough praising the waterfall-like spiral staircase, green rainforest-themed rooms, stylish bathrooms, in-house Flow Coffee and JoJo Gastrobar, and eco touches; only note is the gym not yet open at visit."
+      },
+      {
+        "title": "The LUMA - travellers' 'home away from home'",
+        "source": "Daily Express Malaysia",
+        "url": "https://www.dailyexpress.com.my/news/186112/the-luma-travellers-home-away-from-home-/",
+        "summary": "Sabah news feature on Borneo's first creative design hotel, describing its nature-inspired urban architecture, dark-green schemes and organic furnishings, and its aim to give guests a first-class 'home away from home' stay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Luma Hotel - Borneo's first creative-design hotel",
+        "channel": "Daily Express Malaysia",
+        "url": "https://www.youtube.com/watch?v=7ZxW4AooeOc",
+        "video_id": "7ZxW4AooeOc"
+      },
+      {
+        "title": "Discover Kota Kinabalu's Newest Hotel, The Luma Hotel | 10 mins away from Kota Kinabalu Airport",
+        "channel": "Travelereve",
+        "url": "https://www.youtube.com/watch?v=m0cGF6AD6qE",
+        "video_id": "m0cGF6AD6qE"
+      },
+      {
+        "title": "Breakfast at the Luma Hotel, Sutera Avenue, Kota Kinabalu",
+        "channel": "Hotel hopper",
+        "url": "https://www.youtube.com/watch?v=Fh9YqCdvqBM",
+        "video_id": "Fh9YqCdvqBM"
+      },
+      {
+        "title": "THE LUMA HOTEL. First Borneo's creative design hotel. located at sutera Avenue . kk city, sabah.",
+        "channel": "william chiang",
+        "url": "https://www.youtube.com/watch?v=ve43sq98I-c",
+        "video_id": "ve43sq98I-c"
+      }
+    ]
+  },
+  "tags": [
+    "sutera-avenue",
+    "design-hotel",
+    "boutique",
+    "city-centre",
+    "art-led"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkilh-the-luma-hotel-kota-kinabalu-a-member-of-design-hotels/overview/",
+      "label": "Official The LUMA Hotel, Kota Kinabalu, a Member of Design Hotels overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298307-d23025452-Reviews-The_LUMA_Hotel_A_Member_of_Design_Hotels-Kota_Kinabalu_Kota_Kinabalu_District_West_Co.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkilh-the-luma-hotel-kota-kinabalu-a-member-of-design-hotels/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "kota-kinabalu-marriott",
+    "le-meridien-kota-kinabalu",
+    "sheraton-kota-kinabalu"
+  ],
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 81
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 75
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-06",
+  "status": "needs_review"
+}

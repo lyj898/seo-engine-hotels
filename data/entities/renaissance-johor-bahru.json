@@ -1,0 +1,199 @@
+{
+  "entity_id": "renaissance-johor-bahru",
+  "slug": "renaissance-johor-bahru",
+  "name": "Renaissance Johor Bahru Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "johor-bahru",
+  "short_description": "Upscale Renaissance-brand hotel in Johor Bahru's Permas Jaya, the city's only Marriott Bonvoy property, with spacious rooms, an Executive Club Lounge and Cantonese dining at Wan Li.",
+  "ai_summary": "The Renaissance Johor Bahru Hotel is an upscale, 345-room property that opened around 2013 in the Bandar Baru Permas Jaya district east of the city centre, and reviewers consistently note it as the only Marriott Bonvoy hotel in Johor Bahru. Independent bloggers and points-focused writers single out the rooms as the clear strength: deluxe and club rooms of roughly 34–36 square metres are described as spacious, comfortable and well maintained for the building's age, with good work desks and beds. Dining draws steady praise, particularly the wide Cafe BLD breakfast buffet and the Cantonese cooking at Wan Li, while the Level 16 Executive Club Lounge is a repeated highlight for its sunset views, evening cocktail hour and staff who remember returning guests. The property is widely rated as strong value, especially for Singapore-based travellers and elite members chasing upgrades and lounge access. The recurring watch-outs are location and consistency: the hotel sits away from JB's main shopping and tourist belt, so Grab rides are needed to reach malls and attractions. Some guests report understaffed or slow breakfast service, occasional check-in queues with no dedicated elite desk, mediocre late-night room service, and welcome-amenity mix-ups. Standard rooms lack coffee machines. Overall the picture is of a solid, good-value business and family hotel with excellent rooms and a pleasant lounge, let down mainly by its out-of-centre setting and uneven service on the margins.",
+  "core_facts": {
+    "address": "No. 2, Jalan Permas 11, Bandar Baru Permas Jaya, 81750 Masai, Johor Bahru, Malaysia",
+    "brand_sub_brand": "Renaissance",
+    "neighborhood": "Bandar Baru Permas Jaya (Masai)",
+    "distance_from_airport_km": 35,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Toppen Shopping Centre / IKEA Tebrau",
+        "km": 5
+      },
+      {
+        "label": "Johor Bahru City Square",
+        "km": 13
+      },
+      {
+        "label": "Johor Bahru–Singapore Causeway",
+        "km": 14
+      },
+      {
+        "label": "Legoland Malaysia",
+        "km": 35
+      }
+    ]
+  },
+  "pros": [
+    "Spacious, well-maintained 34–36 sqm rooms with comfortable beds and good work desks",
+    "Level 16 Executive Club Lounge with sunset views, evening cocktail hour and attentive staff",
+    "Strong value for the room quality, especially for Singapore-based and Marriott Bonvoy elite guests",
+    "Wide Cafe BLD breakfast buffet plus well-regarded Cantonese dining at Wan Li restaurant"
+  ],
+  "cons": [
+    "Located in Permas Jaya, away from JB's main shopping and tourist belt, so Grab rides are needed",
+    "Breakfast and check-in service can be understaffed or slow, with no dedicated elite desk at busy times",
+    "Late-night room service is limited and hit-or-miss, and standard rooms lack coffee machines"
+  ],
+  "research_highlights": [
+    "Opened around 2013; a 345-room, 17-floor property and the only Marriott Bonvoy hotel in Johor Bahru",
+    "Signature facilities include the Level 16 Executive Club Lounge, outdoor pool with jacuzzi and 24-hour fitness centre",
+    "Wan Li Cantonese restaurant and the Cafe BLD international buffet are consistently praised in independent reviews"
+  ],
+  "research_watchouts": [
+    "The out-of-centre Permas Jaya location means most shopping, dining and attractions require a short drive or Grab",
+    "Service consistency varies — expect possible slow breakfast service, check-in queues and occasional amenity mix-ups"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is the Renaissance Johor Bahru Hotel located?",
+      "answer": "It sits in Bandar Baru Permas Jaya, a residential district east of Johor Bahru's centre. It is roughly 13 km from JB City Square and about 14 km from the Singapore Causeway, so guests typically use Grab to reach malls, restaurants and city attractions."
+    },
+    {
+      "question": "Is the hotel a good choice for Marriott Bonvoy elite members?",
+      "answer": "Yes. It is the only Marriott Bonvoy property in Johor Bahru, and reviewers report that Platinum Elite members regularly receive room upgrades plus access to the Level 16 Executive Club Lounge, which offers breakfast, all-day refreshments and an evening cocktail hour with snacks."
+    },
+    {
+      "question": "How far is the hotel from Senai International Airport?",
+      "answer": "Senai International Airport is roughly 35 km away, about a 30 to 40 minute drive depending on traffic. Because the hotel is in the Permas Jaya area on the eastern side of the city, most guests arrive by car, private transfer or ride-hailing rather than public transport."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Renaissance Johor Bahru Hotel: Malaysia Staycation Review",
+        "source": "Seth Lui",
+        "author": "Yu Liang Sin",
+        "url": "https://sethlui.com/renaissance-johor-bahru-hotel-malaysia-review/",
+        "summary": "Staycation review praising service-oriented staff, spacious Junior Suites and Deluxe Rooms, Wan Li Cantonese cuisine, Cafe BLD buffet, pool with jacuzzi and the Club Lounge, with only minor food quibbles."
+      },
+      {
+        "title": "Hotel Review: Renaissance Johor Bahru Hotel (Club Room) - Great Value for Marriott Bonvoy Members in Johor Bahru",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2019/4/20/hotel-review-renaissance-johor-bahru-hotel-club-room-great-value-for-marriott-bonvoy-members-in-johor-bahru",
+        "published_date": "2019-04-20",
+        "summary": "Club Room review calling it great value for Singapore travellers and Bonvoy members, with spacious rooms and lounge access, but noting the out-of-centre location and slightly understaffed breakfast service."
+      },
+      {
+        "title": "Review: Renaissance Johor Bahru Hotel, Malaysia",
+        "source": "Hotel Hobby",
+        "url": "https://www.hotelhobby.com/2019/11/review-renaissance-johor-bahru-malaysia.html",
+        "published_date": "2019-11-01",
+        "summary": "Review highlighting the Club Lounge cocktail hour and sunset views, a strong Cafe BLD breakfast and Wan Li dim sum, while criticising a mediocre late-night steak and the hotel's non-walkable location."
+      },
+      {
+        "title": "[Hotel Review] Renaissance Johor Bahru",
+        "source": "Satu Kosong Travels",
+        "author": "Satu Kosong",
+        "url": "https://10satukosong.wpcomstaging.com/2024/03/06/hotel-review-renaissance-johor-bahru/",
+        "published_date": "2024-03-06",
+        "summary": "2024 review noting a spacious, well-kept 34 sqm room, a peaceful Executive Club Lounge and excellent breakfast fried chicken, offset by check-in queues, welcome-amenity mix-ups and a location away from the shopping belt."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Renaissance Johor Bahru Hotel Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=EIZVzTrdHaw",
+        "video_id": "EIZVzTrdHaw"
+      },
+      {
+        "title": "Renaissance Johor Bahru 5 Stars Hotel  Full Tour  | Pool Terrace Deluxe Room | Executive Club Lounge",
+        "channel": "TPosition Travelogue",
+        "url": "https://www.youtube.com/watch?v=96YJWx3bJoE",
+        "video_id": "96YJWx3bJoE",
+        "published_date": "2025-11-01"
+      },
+      {
+        "title": "RENAISSANCE HOTEL JOHOR BAHRU | DELUXE ROOM + BREAKFAST BUFFET✨& HOTEL TOUR",
+        "channel": "Vitamin Ch'ng",
+        "url": "https://www.youtube.com/watch?v=tZwwkre-7hM",
+        "video_id": "tZwwkre-7hM",
+        "published_date": "2022-11-26"
+      },
+      {
+        "title": "Renaissance Hotel Johor Bahru Room Tour | Deluxe King Room",
+        "channel": "BigBagSmallBag",
+        "url": "https://www.youtube.com/watch?v=2vt6Iibqcic",
+        "video_id": "2vt6Iibqcic"
+      }
+    ]
+  },
+  "tags": [
+    "permas-jaya",
+    "executive-club-lounge",
+    "family-friendly",
+    "marriott-bonvoy",
+    "great-value"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jhbbr-renaissance-johor-bahru-hotel/overview/",
+      "label": "Official Renaissance Johor Bahru Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298278-d4227651-Reviews-Renaissance_Johor_Bahru_Hotel-Johor_Bahru_Johor_Bahru_District_Johor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jhbbr-renaissance-johor-bahru-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-johor-bahru",
+    "sheraton-johor-bahru",
+    "aloft-langkawi"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 74
+      },
+      {
+        "label": "Service",
+        "score": 82
+      },
+      {
+        "label": "Rooms",
+        "score": 88
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 82
+      },
+      {
+        "label": "Value",
+        "score": 87
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}
