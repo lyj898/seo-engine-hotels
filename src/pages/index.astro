@@ -103,25 +103,45 @@ const quickDistanceCategories = categories
   .filter((c) => Array.isArray(c.matchRange))
   .sort((a, b) => b.matchRange[0] - a.matchRange[0]);
 
-// Editor's picks: one hotel per city, so the featured grid spans all six
-// cities rather than clustering in whichever city happens to have the
-// highest scores. The site is image-free, so the pick is simply the
-// highest-scoring hotel in each city; the resulting one-per-city set is
-// ordered by score so the strongest pick leads. Ranking is by the
-// research-derived guest quality score (sentiment_scores.overall) -- i.e.
-// "best hotel", not "best-verified record" -- falling back to
-// reliability_score only for any entity not yet scored.
+// Editor's picks: the FEATURED_COUNT best hotels by guest quality score
+// (sentiment_scores.overall), spread across different cities so the marquee
+// showcases the strongest stays in the directory rather than clustering in
+// whichever city scores highest. We rank every eligible hotel by score, then
+// walk the list taking the first hotel from each city we haven't featured yet
+// -- with a dozen cities tracked that yields FEATURED_COUNT distinct cities.
+// Only `active` hotels are eligible; needs_review entries (thin/provisional
+// data) are held back from the marquee even if their provisional score is
+// high. Ranking is by the research-derived guest quality score -- i.e. "best
+// hotel", not "best-verified record" -- falling back to reliability_score for
+// any entity not yet guest-scored, with reliability then name as tie-breakers
+// for a stable, deterministic build.
+const FEATURED_COUNT = 6;
 const pickRank = (e) => e.sentiment_scores?.overall ?? e.reliability_score;
-const bestByCity = new Map();
-for (const e of entities) {
-  const rank = pickRank(e);
-  const cur = bestByCity.get(e.region_id);
-  if (!cur || rank > cur.rank) bestByCity.set(e.region_id, { entity: e, rank });
+const rankedPicks = entities
+  .filter((e) => e.status === 'active')
+  .sort(
+    (a, b) =>
+      pickRank(b) - pickRank(a) ||
+      b.reliability_score - a.reliability_score ||
+      a.name.localeCompare(b.name)
+  );
+const featured = [];
+const featuredCities = new Set();
+for (const e of rankedPicks) {
+  if (featuredCities.has(e.region_id)) continue; // one per city -> distinct cities
+  featuredCities.add(e.region_id);
+  featured.push(e);
+  if (featured.length === FEATURED_COUNT) break;
 }
-const featured = cityRegions
-  .map((r) => bestByCity.get(r.region_id)?.entity)
-  .filter(Boolean)
-  .sort((a, b) => pickRank(b) - pickRank(a));
+// Fallback: if there are fewer than FEATURED_COUNT cities, top up with the
+// next-highest-scoring hotels regardless of city so the grid still fills.
+if (featured.length < FEATURED_COUNT) {
+  for (const e of rankedPicks) {
+    if (featured.includes(e)) continue;
+    featured.push(e);
+    if (featured.length === FEATURED_COUNT) break;
+  }
+}
 
 // Hero headline: site.config.json.heroHeadline marks one word with
 // *asterisks*; that word renders with the outlined "stroke" treatment from
@@ -334,7 +354,7 @@ const jsonLd = [
           <div class="mb-10 flex items-end justify-between border-b border-brand-divider pb-4 dark:border-brand-divider-dark">
             <div>
               <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">Editor's picks</p>
-              <h2 class="mt-2 text-2xl font-normal sm:text-3xl">A standout in every city</h2>
+              <h2 class="mt-2 text-2xl font-normal sm:text-3xl">The six highest-rated stays</h2>
             </div>
           </div>
           <div id="featured-grid" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
