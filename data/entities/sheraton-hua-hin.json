@@ -1,0 +1,177 @@
+{
+  "entity_id": "sheraton-hua-hin",
+  "slug": "sheraton-hua-hin",
+  "name": "Sheraton Hua Hin Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "hua-hin",
+  "short_description": "Beachfront Sheraton resort between Cha-Am and Hua Hin, built around a 560-metre lagoon-style pool — one of the largest in Thailand — with several rooms offering direct pool access.",
+  "ai_summary": "Sheraton Hua Hin Resort & Spa is a sprawling beachfront property on the Gulf of Siam, set among lush gardens between Cha-Am and Hua Hin town. Its defining feature is a 560-metre lagoon-style swimming pool that winds through nine low-rise buildings, with the most sought-after rooms offering direct walk-in access to the water. Independent reviewers consistently rate it among the best pools in the Hua Hin/Cha-Am area, and praise the spacious rooms with signature Sheraton beds, balconies and large bathrooms, plus friendly, attentive service. Dining draws positive notes for a generous breakfast spread and multiple restaurants, including the long-running InAzia Asian restaurant and the beachfront Luna Lanai. The resort is well suited to families, with a kids' club, multiple children's pools and plenty of space to roam. Watch-outs are consistent across reviews: the location is isolated, with no restaurants, bars or shops within walking distance and a paid shuttle into town, so it functions more as a self-contained retreat than a base for exploring. The beach itself is shallow and rocky and not ideal for swimming, and some guests find rooms and facilities showing their age. Elite loyalty members historically valued generous upgrades and lounge access. Overall it delivers strong value as a relaxed pool-focused escape roughly three hours from Bangkok.",
+  "core_facts": {
+    "address": "1573 Phetkasem Road, Cha-Am, Phetchaburi 76120, Thailand",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Cha-Am / Nong Kae beachfront, north of Hua Hin town",
+    "distance_from_airport_km": 15,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Hua Hin town centre",
+        "km": 11
+      },
+      {
+        "label": "Mrigadayavan Palace",
+        "km": 4
+      },
+      {
+        "label": "Cha-Am Beach",
+        "km": 6
+      }
+    ]
+  },
+  "pros": [
+    "560-metre lagoon-style pool widely rated the best in the Hua Hin/Cha-Am area, with direct-access rooms",
+    "Spacious rooms with signature Sheraton beds, balconies and large bathrooms",
+    "Friendly, attentive service consistently praised across reviews",
+    "Very family-friendly with kids' club, children's pools and generous breakfast"
+  ],
+  "cons": [
+    "Isolated location with no dining, bars or shops within walking distance and a paid shuttle into town",
+    "Beach is shallow, rocky and not ideal for swimming",
+    "Some rooms and facilities feel dated and dining can be pricey"
+  ],
+  "research_highlights": [
+    "Built around a 560-metre lagoon-style pool spanning nine buildings — among the largest in Thailand",
+    "Ranked #5 of 73 hotels in Cha-Am on TripAdvisor (4.0/5 from ~2,250 reviews)",
+    "240 rooms plus award-winning InAzia restaurant and beachfront Luna Lanai"
+  ],
+  "research_watchouts": [
+    "Address is in Cha-Am, north of Hua Hin town — not the separate Sheraton Hua Hin Pranburi Villas to the south",
+    "Set away from town, so plan on the resort shuttle or a taxi for off-site dining and shopping"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Sheraton Hua Hin Resort & Spa located?",
+      "answer": "It sits on a beachfront stretch in Cha-Am, north of Hua Hin town in Phetchaburi province, roughly three hours' drive south of Bangkok. The area is quiet and residential, with no restaurants, bars or shops within walking distance, so most guests rely on the resort's shuttle or taxis."
+    },
+    {
+      "question": "What is the pool like at Sheraton Hua Hin?",
+      "answer": "The resort's signature feature is a 560-metre lagoon-style pool that winds through the property in several loops, widely regarded as one of the largest and best in the Hua Hin area. Many rooms offer direct walk-in access from the balcony straight into the pool, and there are separate children's pools."
+    },
+    {
+      "question": "Is Sheraton Hua Hin good for families?",
+      "answer": "Yes. Reviewers highlight it as very family-friendly, with a kids' club, playground, multiple children's pools and plenty of open garden space. Rooms are spacious, breakfast is generous, and the calm, self-contained setting suits families wanting a relaxed base rather than a lively town location."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sheraton Hua Hin Resort & Spa Review: What To REALLY Expect If You Stay",
+        "source": "Oyster.com",
+        "url": "https://www.oyster.com/thailand/hotels/sheraton-hua-hin-resort-and-spa/",
+        "summary": "Editorial review calling it one of the finest properties in the area: 240 colourful rooms, signature beds and a huge lagoon pool with direct-access rooms, but an isolated location with nothing walkable nearby."
+      },
+      {
+        "title": "Review: Sheraton Hua Hin Resort & Spa",
+        "source": "Zerothman",
+        "author": "Zerothman",
+        "url": "https://zerothman.wordpress.com/2017/09/12/review-sheraton-hua-hin/",
+        "published_date": "2017-09-12",
+        "summary": "Blogger's stay report praising strong value, a suite upgrade, large lagoon pool and attentive staff, while noting a cramped club lounge, weak turndown service and thinner breakfast variety than a prior visit."
+      },
+      {
+        "title": "Sheraton Hua Hin Resort & Spa",
+        "source": "Wanderlog",
+        "url": "https://wanderlog.com/place/details/1637891",
+        "summary": "Curated review guide highlighting spacious modern-Thai rooms, the large lagoon pool and beachfront setting, strong breakfast and service, with the out-of-town location a common caveat."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Hua Hin Resort & Spa / Ocean Front View Room / Pool Side Lagoon Access Room",
+        "channel": "Sky High Journey",
+        "url": "https://www.youtube.com/watch?v=wIINENWrW6I",
+        "video_id": "wIINENWrW6I"
+      },
+      {
+        "title": "Sheraton Hua Hin Hotel Tour Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=TkUNPMQ7gdc",
+        "video_id": "TkUNPMQ7gdc"
+      },
+      {
+        "title": "Sheraton Hua Hin Resort - Quick video tour of whole resort",
+        "channel": "Hotelhoppers",
+        "url": "https://www.youtube.com/watch?v=OUE-C8iSvLo",
+        "video_id": "OUE-C8iSvLo"
+      }
+    ]
+  },
+  "tags": [
+    "cha-am-beachfront",
+    "lagoon-pool",
+    "family-friendly",
+    "resort",
+    "spa"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hhqsi-sheraton-hua-hin-resort-and-spa/overview/",
+      "label": "Official Sheraton Hua Hin Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297919-d647975-Reviews-Sheraton_Hua_Hin_Resort_Spa-Cha_am_Cha_am_District_Phetchaburi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hhqsi-sheraton-hua-hin-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "hua-hin-marriott",
+    "sheraton-hua-hin-pranburi",
+    "chiang-mai-marriott"
+  ],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 79
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 85
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

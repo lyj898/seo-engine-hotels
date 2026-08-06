@@ -1,0 +1,12 @@
+{
+  "region_id": "krabi",
+  "slug": "krabi",
+  "label": "Krabi",
+  "granularity": "city",
+  "parent_region_id": "thailand",
+  "short_description": "Loyalty-program resort in Krabi, the Andaman coast of limestone cliffs, islands and quiet coves.",
+  "intro": "Krabi's coverage in this directory is on Thailand's Andaman coast, a landscape of dramatic limestone karsts, mangroves and island-hopping beaches around Ao Nang, Railay and the offshore isles. Quieter and more scenic than Phuket across the bay, Krabi suits secluded beach-and-nature stays and is reached via Krabi International Airport (KBV).",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

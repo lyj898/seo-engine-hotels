@@ -1,0 +1,12 @@
+{
+  "region_id": "rayong",
+  "slug": "rayong",
+  "label": "Rayong",
+  "granularity": "city",
+  "parent_region_id": "thailand",
+  "short_description": "Loyalty-program beach resort in Rayong, the quieter Eastern Seaboard coast beyond Pattaya.",
+  "intro": "Rayong's coverage in this directory is a beach resort on Thailand's Eastern Seaboard, southeast of Pattaya along the Gulf coast toward Ban Phe and the Ko Samet ferry. Quieter and more nature-oriented than Pattaya, the area suits a relaxed beach stay and is reached via U-Tapao (UTP) airport or the motorway from Bangkok.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

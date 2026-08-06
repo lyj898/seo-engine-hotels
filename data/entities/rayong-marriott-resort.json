@@ -1,0 +1,177 @@
+{
+  "entity_id": "rayong-marriott-resort",
+  "slug": "rayong-marriott-resort",
+  "name": "Rayong Marriott Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "rayong",
+  "short_description": "Beachfront Marriott Hotels resort on Wang Kaew Beach in Klaeng, on Thailand's Eastern Seaboard, with three pools, a private beach and Quan Spa.",
+  "ai_summary": "The Rayong Marriott Resort & Spa is a low-rise beachfront property on Wang Kaew Beach in Klaeng, roughly an hour east of Pattaya on Thailand's quieter Eastern Seaboard. Independent reviewers consistently frame it as an all-in-one family and couples' escape rather than a base for sightseeing, and the setting is its biggest draw: a long private beach, sea-facing rooms with floor-to-ceiling windows and balconies, and three outdoor pools headlined by a lagoon-style pool with a viewing-window aquarium wall stocked with small fish. Rooms and suites are described as spacious, clean and comfortable, many with soaking tubs and ocean views. Dining spans several venues including a breakfast buffet praised for its international and Thai variety, a beachfront seafood spot, a bakery-café and lounge bars, and Quan Spa plus a kids' club, water sports and organized activities round out the facilities. Watch-outs recur across reviews: the resort is remote, so a car is effectively needed and there is little walkable dining or nightlife nearby; on-site food is pricier than local options; and some guests report aging facilities, occasional room maintenance issues and slower service or long breakfast queues at peak occupancy. A handful of harsher TripAdvisor reviews cite cleanliness and food-safety lapses. Overall the property reads as a strong, relaxed beach resort that rewards guests planning to stay put.",
+  "core_facts": {
+    "address": "98-99 Moo 2, Pae-Klaeng-Kram Road, Chak Phong, Klaeng, Rayong 21190, Thailand",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Wang Kaew Beach, Chak Phong (Klaeng District)",
+    "distance_from_airport_km": 65,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Rayong city center",
+        "km": 48
+      }
+    ]
+  },
+  "pros": [
+    "Long private beach with a genuinely quiet, uncrowded Eastern Seaboard setting",
+    "Three pools including a lagoon-style pool with an aquarium viewing wall",
+    "Spacious, clean ocean-view rooms and suites with balconies and soaking tubs",
+    "Strong family offering: kids' club, water sports, yoga and bike tours"
+  ],
+  "cons": [
+    "Remote location needs a car; little walkable dining or nightlife nearby",
+    "On-site food and drink priced well above local restaurants",
+    "Some aging facilities with occasional room-maintenance and service lapses"
+  ],
+  "research_highlights": [
+    "Beachfront resort on Wang Kaew Beach, about an hour's drive from Pattaya",
+    "Signature lagoon pool with an aquarium wall plus a private beach and Quan Spa",
+    "Positioned as an all-in-one family and couples' staycation destination"
+  ],
+  "research_watchouts": [
+    "Isolated setting means you are largely committed to the resort for meals and activities",
+    "Property shows some age; verify recent maintenance and pool condition before booking"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is the Rayong Marriott Resort & Spa located?",
+      "answer": "It sits on Wang Kaew Beach in Chak Phong, Klaeng District, Rayong Province, on Thailand's Eastern Seaboard. The beachfront resort is roughly an hour's drive from Pattaya and about 65 km from U-Tapao Rayong-Pattaya International Airport, making it a secluded, car-dependent escape."
+    },
+    {
+      "question": "Is the resort good for families?",
+      "answer": "Yes. Reviewers repeatedly highlight it as an all-in-one family stay, with three outdoor pools including a kids' pool and a lagoon pool with an aquarium wall, a kids' club, a private beach with water sports, and spacious suites. Its remoteness suits families planning to stay on-site."
+    },
+    {
+      "question": "What dining is available on-site?",
+      "answer": "The resort has several venues, including an all-day restaurant serving a varied international and Thai breakfast buffet, a beachfront seafood outlet, a bakery-café and lounge and poolside bars. Guests praise the food quality but note on-site prices run notably higher than nearby local restaurants."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Rayong Marriott Resort & Spa review",
+        "source": "That Bangkok Life",
+        "author": "Katie",
+        "url": "https://www.thatbangkoklife.com/rayong-marriott-resort-spa-review/",
+        "published_date": "2025-07-22",
+        "summary": "First-hand week-long stay rating the resort 8.8/10: praises the beachfront setting, lagoon pool with baby-shark aquarium wall, breakfast variety and kids' club, but flags the remote location and pricey on-site dining."
+      },
+      {
+        "title": "Review Rayong Marriott Resort & Spa",
+        "source": "Traveltomtom",
+        "author": "Tom",
+        "url": "https://www.traveltomtom.net/destinations/asia/thailand/marriott-rayong",
+        "published_date": "2019-02-04",
+        "summary": "Blogger calls the area an undiscovered, quieter alternative to Pattaya, highlighting ocean-view rooms, the aquarium pool, Quan Spa and Fish Bar seafood; only gripe was late luggage delivery."
+      },
+      {
+        "title": "Rayong Marriott Resort & Spa, Thailand [Master Thread]",
+        "source": "FlyerTalk (Marriott Bonvoy forum)",
+        "url": "https://www.flyertalk.com/forum/marriott-marriott-bonvoy/1215006-rayong-marriott-resort-spa-thailand-master-thread-3.html",
+        "summary": "Long-running points-community thread where Bonvoy members compare stays at the resort, covering elite recognition, room upgrades, pool and beach condition and value across multiple visits."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Room Tour : Deluxe Ocean View, Rayong Marriott Resort & Spa",
+        "channel": "1916's family",
+        "url": "https://www.youtube.com/watch?v=0HzA6B52S5w",
+        "video_id": "0HzA6B52S5w"
+      },
+      {
+        "title": "Room Tour : One Bedroom Ocean Suite High Floor, Rayong Marriott Resort & Spa",
+        "channel": "1916's family",
+        "url": "https://www.youtube.com/watch?v=n8-rX0Q_G0I",
+        "video_id": "n8-rX0Q_G0I"
+      },
+      {
+        "title": "Room Tour : Studio Corner Suite - Rayong Marriott Resrt and Spa",
+        "channel": "1916's family",
+        "url": "https://www.youtube.com/watch?v=G8PUTOfCb3k",
+        "video_id": "G8PUTOfCb3k"
+      },
+      {
+        "title": "Thailand Travel Vlog Review Rayong Marriott and Spa",
+        "channel": "PaPa's TraVeL Channel",
+        "url": "https://www.youtube.com/watch?v=5AFAU6wP6JE",
+        "video_id": "5AFAU6wP6JE"
+      }
+    ]
+  },
+  "tags": [
+    "wang-kaew-beach",
+    "beachfront",
+    "family-resort",
+    "private-beach",
+    "pools"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bkkrr-rayong-marriott-resort-and-spa/overview/",
+      "label": "Official Rayong Marriott Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g3226169-d2557841-Reviews-Rayong_Marriott_Resort_Spa-Chak_Phong_Klaeng_Rayong_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bkkrr-rayong-marriott-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "chiang-mai-marriott",
+    "courtyard-north-pattaya",
+    "hua-hin-marriott"
+  ],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 87
+      },
+      {
+        "label": "Service",
+        "score": 83
+      },
+      {
+        "label": "Rooms",
+        "score": 82
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

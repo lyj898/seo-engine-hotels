@@ -4,8 +4,8 @@
   "label": "Thailand",
   "granularity": "country",
   "parent_region_id": null,
-  "short_description": "Loyalty-program hotels across Thailand, from Bangkok's city portfolio to the island beach resorts of Phuket and Ko Samui.",
-  "intro": "Thailand carries one of the deepest hotel footprints in Southeast Asia, split between Bangkok's dense city portfolio -- spanning riverside luxury, CBD business hotels, and midscale properties near the BTS/MRT network -- Phuket's beach-resort concentration along Patong, Kamala, and the island's southern coast, and the Gulf island of Ko Samui, whose largely luxury resorts cluster around the Chaweng beach strip and the quieter northern and western coves. Elite recognition and lounge access tend to be strongest at the flagship city and resort properties rather than the more compact select-service hotels.",
+  "short_description": "Loyalty-program hotels across Thailand -- Bangkok, the beach islands of Phuket, Ko Samui and Krabi, the Gulf resorts of Pattaya, Rayong and Hua Hin, and northern Chiang Mai.",
+  "intro": "Thailand carries one of the deepest hotel footprints in Southeast Asia. It spans Bangkok's dense city portfolio -- riverside luxury, CBD business hotels and midscale properties near the BTS/MRT network; the Andaman beach resorts of Phuket and the limestone-cliff coast of Krabi; the Gulf islands of Ko Samui; the Eastern Seaboard beach cities of Pattaya and quieter Rayong and the royal seaside town of Hua Hin; and the northern cultural capital, Chiang Mai. Elite recognition and lounge access tend to be strongest at the flagship city and resort properties rather than the more compact select-service hotels.",
   "faqs": [
     {
       "question": "Which Thai city has more hotel options, Bangkok or Phuket?",

@@ -1,0 +1,197 @@
+{
+  "entity_id": "hua-hin-marriott",
+  "slug": "hua-hin-marriott",
+  "name": "Hua Hin Marriott Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "hua-hin",
+  "short_description": "A Marriott Hotels beachfront resort in central Hua Hin on Phetkasem Road, near the night market, with 322 rooms, five outdoor pools, a waterslide and Quan Spa.",
+  "ai_summary": "Opened in 2016, the Hua Hin Marriott Resort & Spa is a large, modern beachfront property on Phetkasem Road, a few minutes from central Hua Hin and its night market. Independent reviewers consistently praise its 322 spacious contemporary rooms, many with balconies and garden, pool or sea views, plus a sprawling pool complex with five outdoor pools, a waterslide and a separate adults-only zone. Families are a core audience thanks to a beachfront kids' club, kids' pool and tree house. Dining and the breakfast buffet earn steady praise, including well-regarded vegetarian and vegan options, and Quan Spa rounds out the wellness offering. The resort is a popular Bonvoy points redemption, often described as strong value for a five-star beach resort, and Marriott elites report upgrades and benefits being honoured. It holds a TripAdvisor Travelers' Choice Best of the Best 2024 award and has ranked among Thailand's top hotels. Watch-outs are real, though: because the resort runs at high family occupancy, some guests find common areas and the lobby crowded, the waterslide and pool areas noisy during the day, and service occasionally impersonal or processed rather than warm. Ground-floor pool-access rooms can also feel short on privacy with foot traffic passing by.",
+  "core_facts": {
+    "address": "107/1 Phetkasem Road, Hua Hin, Prachuap Khiri Khan 77110, Thailand",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Central Hua Hin beachfront, along Phetkasem Road near the town centre",
+    "distance_from_airport_km": 6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Hua Hin Night Market",
+        "km": 3
+      },
+      {
+        "label": "BluPort Hua Hin Resort Mall",
+        "km": 2
+      },
+      {
+        "label": "Hua Hin Railway Station",
+        "km": 3
+      },
+      {
+        "label": "Khao Takiab Beach",
+        "km": 3
+      }
+    ]
+  },
+  "pros": [
+    "Spacious, modern 39 sqm-plus rooms with balconies and garden, pool or sea views",
+    "Extensive pool complex with five outdoor pools, a waterslide and an adults-only area",
+    "Strong, varied breakfast buffet with well-regarded vegetarian and vegan options",
+    "Excellent value five-star beach resort and a popular Bonvoy points redemption"
+  ],
+  "cons": [
+    "High family occupancy can make the lobby and common areas feel crowded",
+    "Daytime pool and waterslide noise detracts from a relaxing atmosphere",
+    "Service can feel impersonal or processed rather than warm and attentive"
+  ],
+  "research_highlights": [
+    "Opened in 2016 with 322 rooms and suites, each 39 sqm or larger",
+    "TripAdvisor Travelers' Choice Best of the Best 2024; ranked around #4 of 178 Hua Hin hotels",
+    "Signature family facilities: beachfront kids' club, kids' pool, waterslide and tree house"
+  ],
+  "research_watchouts": [
+    "It is a busy family resort, so expect crowds and pool noise rather than a quiet retreat",
+    "Some ground-floor pool-access rooms have limited privacy from passing foot traffic"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is the Hua Hin Marriott Resort & Spa located?",
+      "answer": "It sits on the beachfront at 107/1 Phetkasem Road in central Hua Hin, Prachuap Khiri Khan. The town centre, night market, BluPort mall and railway station are all within a few minutes, and Hua Hin Airport is roughly six kilometres away."
+    },
+    {
+      "question": "Is the resort good for families?",
+      "answer": "Yes. It is designed as a family beach resort, with a beachfront kids' club, dedicated kids' pool, a waterslide and a tree house. There are five outdoor pools plus a separate adults-only area, though expect lively crowds and daytime pool noise during school holidays."
+    },
+    {
+      "question": "Can I book with Marriott Bonvoy points?",
+      "answer": "Yes, the resort is Marriott Bonvoy enrolled and is a popular points redemption. Independent reviewers report good value for a five-star property, and Marriott elite members note that status benefits and upgrades are generally honoured during their stays."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hua Hin Marriott Resort & Spa | Vegan Luxury Hotel Review",
+        "source": "Vegan Food Quest",
+        "author": "Vegan Food Quest",
+        "url": "https://www.veganfoodquest.com/hotel-resort-reviews/thailand/hua-hin-marriott-resort-spa/",
+        "published_date": "2020-01-31",
+        "summary": "A 2016-opened beachfront resort with 322 stylish rooms, attentive service even at full occupancy, a quiet adults-only pool, and a strong breakfast buffet with excellent vegan and vegetarian options."
+      },
+      {
+        "title": "Marriott Hua Hin Resort Review",
+        "source": "Paul the Sheep",
+        "author": "Paul",
+        "url": "https://www.paulthesheep.com/hotel-reviews/thai-hotels/marriott-hua-hin-08nov-2/",
+        "summary": "A candid Ambassador Elite account: modern renovated rooms and honoured benefits, but service felt robotic, pool-access rooms lacked privacy, and daytime waterslide noise made it feel more like a busy family club than an upscale retreat."
+      },
+      {
+        "title": "Hua Hin Marriott Review: Luxury on a Budget",
+        "source": "OneStep4Ward",
+        "author": "Johnny Ward",
+        "url": "https://onestep4ward.com/a-review-of-the-hua-hin-marriott-thailand/",
+        "published_date": "2019-07-01",
+        "summary": "Praises the resort as a great-value five-star family stay near the beach, with beautiful spacious rooms, five pools, five restaurants, a spa and kid-friendly facilities, all around a modest nightly rate."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hua Hin Marriott Resort and Spa | Room Tour and a Walk Through | Part 1",
+        "channel": "Allow me",
+        "url": "https://www.youtube.com/watch?v=lZVHOphIYXs",
+        "video_id": "lZVHOphIYXs",
+        "published_date": "2022-03-04"
+      },
+      {
+        "title": "Marriott Resort Hua Hin Tour",
+        "channel": "Island Hopper TV Travel Highlights",
+        "url": "https://www.youtube.com/watch?v=su1kJCTJUXQ",
+        "video_id": "su1kJCTJUXQ"
+      },
+      {
+        "title": "The Perfect VACATION RESORT : HUA HIN MARRIOTT Resort & Spa!",
+        "channel": "Wanderlust Reports",
+        "url": "https://www.youtube.com/watch?v=F_Am74C5U_k",
+        "video_id": "F_Am74C5U_k"
+      },
+      {
+        "title": "Marriott Hua Hin Hotel Tour Review ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=Omud37Cl_2M",
+        "video_id": "Omud37Cl_2M"
+      },
+      {
+        "title": "Taking A Break at the Hua Hin Marriott Resort (Ep.  38) - Family Travel Channel",
+        "channel": "FAMtastic4",
+        "url": "https://www.youtube.com/watch?v=2NhtD6vjFYM",
+        "video_id": "2NhtD6vjFYM"
+      }
+    ]
+  },
+  "tags": [
+    "hua-hin-beachfront",
+    "family-friendly",
+    "pools-and-waterslide",
+    "spa",
+    "points-redemption"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hhqmr-hua-hin-marriott-resort-and-spa/overview/",
+      "label": "Official Hua Hin Marriott Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297922-d299781-Reviews-Hua_Hin_Marriott_Resort_Spa-Hua_Hin_Prachuap_Khiri_Khan_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hhqmr-hua-hin-marriott-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "sheraton-hua-hin-pranburi",
+    "sheraton-hua-hin",
+    "chiang-mai-marriott"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 80
+      },
+      {
+        "label": "Rooms",
+        "score": 88
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 87
+      },
+      {
+        "label": "Value",
+        "score": 85
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

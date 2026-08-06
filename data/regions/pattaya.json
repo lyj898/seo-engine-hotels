@@ -1,0 +1,12 @@
+{
+  "region_id": "pattaya",
+  "slug": "pattaya",
+  "label": "Pattaya",
+  "granularity": "city",
+  "parent_region_id": "thailand",
+  "short_description": "Loyalty-program beach hotels across Pattaya, from North Pattaya and Wong Amat to the Jomtien coast on Thailand's Eastern Seaboard.",
+  "intro": "Pattaya's hotels in this directory line the Eastern Seaboard beach city about two hours southeast of Bangkok: North Pattaya and the quieter Wong Amat headland, plus resorts toward the Jomtien coast. A long-established resort and convention destination, Pattaya suits beach, family and MICE stays, and is reached via U-Tapao (UTP) airport or the motorway from Bangkok and Suvarnabhumi.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

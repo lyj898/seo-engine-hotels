@@ -1,0 +1,205 @@
+{
+  "entity_id": "chiang-mai-marriott",
+  "slug": "chiang-mai-marriott",
+  "name": "Chiang Mai Marriott Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "chiang-mai",
+  "short_description": "A high-rise Marriott Hotels property in Chiang Mai's Night Bazaar District, known for its rooftop infinity pool with Doi Suthep mountain views and MICHELIN Guide-recommended Italian dining.",
+  "ai_summary": "The Chiang Mai Marriott Hotel is a 383-room high-rise created when Marriott rebranded the former Le Meridien Chiang Mai in late 2023, following a phased renovation begun in 2021. It sits on Chang Klan Road in the lively Night Bazaar District, within walking distance of Tha Phae Gate, the Old City moat and the Ping River, and roughly a 15-minute drive from Chiang Mai International Airport. Independent reviewers consistently single out the rooftop infinity pool and its sweeping views of Doi Suthep as the property's signature feature, alongside service that guests repeatedly describe as attentive and going above and beyond. The dining lineup earns strong marks: Favola holds a MICHELIN Guide recommendation for Italian, Han serves Chinese cuisine, and Gaj Kitchen anchors all-day dining with a well-regarded breakfast buffet. Elite travellers highlight the M Club lounge on the 21st and 22nd floors, with panoramic views, breakfast, refreshments and evening cocktails, plus generous suite upgrades reported by Bonvoy members. Rooms are described as spacious and comfortable with big windows, separate tubs and rain showers, and Northern Thai design touches from the refurbishment. Watch-outs are modest: breakfast is frequently excluded from the base rate, the reworked business-hotel layout feels less resort-like than some expect, and the busy central location brings traffic. Overall it reads as a reliable, well-located upscale city hotel that suits both leisure sightseers and business travellers.",
+  "core_facts": {
+    "address": "108 Chang Klan Road, Chang Khlan, Mueang Chiang Mai District, Chiang Mai 50100, Thailand",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Night Bazaar District (Chang Khlan)",
+    "distance_from_airport_km": 4,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Chiang Mai Night Bazaar",
+        "km": 0.2
+      },
+      {
+        "label": "Ping River",
+        "km": 0.6
+      },
+      {
+        "label": "Tha Phae Gate",
+        "km": 1
+      },
+      {
+        "label": "Old City moat",
+        "km": 1.5
+      }
+    ]
+  },
+  "pros": [
+    "Standout rooftop infinity pool with sweeping Doi Suthep mountain and city views",
+    "Consistently attentive service, with staff frequently reported to go above and beyond",
+    "Strong dining, led by MICHELIN Guide-recommended Favola and a well-regarded breakfast buffet",
+    "Prime Night Bazaar location within walking distance of Tha Phae Gate, the Old City and Ping River"
+  ],
+  "cons": [
+    "Breakfast is often not included in the base room rate and costs extra",
+    "As a renovated former Le Meridien, some layouts and finishes read more business-hotel than resort",
+    "The central Night Bazaar setting can be busy and traffic-heavy"
+  ],
+  "research_highlights": [
+    "Rebranded from Le Meridien to Chiang Mai Marriott Hotel in late 2023 after a phased renovation begun in 2021",
+    "383 rooms and suites in a high-rise, with an M Club lounge on the 21st and 22nd floors",
+    "Flagship Favola restaurant holds a MICHELIN Guide recommendation"
+  ],
+  "research_watchouts": [
+    "Confirm whether breakfast is included when booking, as many rates exclude it",
+    "M Club lounge access is limited to Platinum Elite and above or eligible Club-level room bookings"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is the Chiang Mai Marriott Hotel located?",
+      "answer": "It sits at 108 Chang Klan Road in central Chiang Mai's Night Bazaar District, about one kilometre from Tha Phae Gate and the Old City moat, with the Ping River a short walk east. Chiang Mai International Airport is roughly a 15-minute drive to the southwest."
+    },
+    {
+      "question": "Does the hotel have an M Club lounge and who can access it?",
+      "answer": "Yes. The M Club lounge occupies the 21st and 22nd floors with panoramic city views, offering breakfast, all-day refreshments and evening cocktails. Access is complimentary for Marriott Bonvoy Platinum, Titanium and Ambassador Elite members, or for guests booking eligible Club-level rooms."
+    },
+    {
+      "question": "What dining options are available at the hotel?",
+      "answer": "The hotel runs several venues, including MICHELIN Guide-recommended Favola for Italian, Han for Chinese cuisine, and Gaj Kitchen for all-day dining and a strong breakfast buffet. The Pool House bar serves cocktails and light snacks beside the rooftop infinity pool overlooking Doi Suthep."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Chiang Mai Marriott Hotel",
+        "source": "Frugal Flyer",
+        "url": "https://frugalflyer.ca/blog/review-marriott-chiang-mai-hotel/",
+        "summary": "A points-and-miles blogger details a confirmed suite upgrade, praising the large Executive Suite, attentive service, the M Club lounge and the renovated rooftop pool as highlights of a recent Bonvoy stay."
+      },
+      {
+        "title": "Chiang Mai Marriott Hotel: New 2026 Review, Photos & Map",
+        "source": "The Gay Passport",
+        "url": "https://thegaypassport.com/venue/le-meridien-chiang-mai/",
+        "summary": "A travel guide rates the hotel very good, highlighting big-window rooms, marble bathrooms, the mountain-view infinity pool, a strong breakfast spread and an unusually well-equipped gym in a central location."
+      },
+      {
+        "title": "Marriott Hotels & Resorts Makes Its Mark in Chiang Mai",
+        "source": "Elite Plus Magazine",
+        "url": "https://www.eliteplusmagazine.com/Article/1076/Marriott_Hotels___Resorts_Makes_Its_Mark_in_Chiang_Mai",
+        "summary": "A Thai lifestyle magazine covers the rebrand of the former Le Meridien into the Marriott, noting 383 renovated rooms with Northern Thai touches, Doi Suthep views and dining led by the award-winning Favola."
+      },
+      {
+        "title": "Chiang Mai Marriott Hotel Dining | Favola, Han, Gaj Kitchen & More",
+        "source": "Chiang Mai Ambassador",
+        "url": "https://chiangmaiambassador.com/food/chiang-mai-marriott-hotel-dining",
+        "summary": "A local guide breaks down the hotel's dining: MICHELIN-recognised Favola for Italian, Han for Chinese, Gaj Kitchen's all-day dining and breakfast buffet, and the Pool House bar beside the rooftop infinity pool."
+      },
+      {
+        "title": "Chiang Mai Marriott Review: An Outstanding Hotel in the Heart of It All",
+        "source": "Destinations & Desserts",
+        "author": "Adrienne",
+        "url": "https://destinationsanddesserts.com/chiang-mai-marriott/",
+        "published_date": "2026-03-27",
+        "summary": "A travel blogger recommends the hotel for its excellent service, a complimentary Executive Suite upgrade, comfortable rooms and a city-view pool, in a prime location for exploring the Night Bazaar and Old City."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Chiang Mai MARRIOTT HOTEL, Thailand 🇹🇭 5 stars!【Hotel Tour and Honest Review】I LOVE IT!",
+        "channel": "Travel Experience TV",
+        "url": "https://www.youtube.com/watch?v=WQ52KaVhOoo",
+        "video_id": "WQ52KaVhOoo"
+      },
+      {
+        "title": "Executive Suite at Chiang Mai Marriott Hotel | Hotel Room Tour 🇹🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=j0mLN4mkEWQ",
+        "video_id": "j0mLN4mkEWQ"
+      },
+      {
+        "title": "Marriott Chiang Mai Executive Suite One Bedroom - Room and M Club Lounge Tour",
+        "channel": "Global Nomads",
+        "url": "https://www.youtube.com/watch?v=ty3cDoN4nr0",
+        "video_id": "ty3cDoN4nr0"
+      },
+      {
+        "title": "Marriott Hotel Chiang Mai, Thailand | Good, Bad, Worst Review",
+        "channel": "The Empty Nester Diaries",
+        "url": "https://www.youtube.com/watch?v=sCnlROStQTw",
+        "video_id": "sCnlROStQTw"
+      },
+      {
+        "title": "2024 Review Marriott Hotel Chiang Mai, Thailand",
+        "channel": "Side Gig Guy",
+        "url": "https://www.youtube.com/watch?v=wHZmCW7z1w8",
+        "video_id": "wHZmCW7z1w8"
+      }
+    ]
+  },
+  "tags": [
+    "night-bazaar",
+    "rooftop-infinity-pool",
+    "m-club-lounge",
+    "michelin-dining",
+    "old-city"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/cnxmc-chiang-mai-marriott-hotel/overview/",
+      "label": "Official Chiang Mai Marriott Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293917-d1147512-Reviews-Chiang_Mai_Marriott_Hotel-Chiang_Mai.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/cnxmc-chiang-mai-marriott-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-north-pattaya",
+    "hua-hin-marriott",
+    "pattaya-marriott-resort"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 89
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

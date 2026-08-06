@@ -1,0 +1,191 @@
+{
+  "entity_id": "courtyard-north-pattaya",
+  "slug": "courtyard-north-pattaya",
+  "name": "Courtyard by Marriott North Pattaya",
+  "category_id": "marriott-bonvoy",
+  "region_id": "pattaya",
+  "short_description": "Modern select-service Courtyard by Marriott in quieter North Pattaya, a short walk from Terminal 21 and Naklua beach, with a rooftop pool and bar overlooking Pattaya Bay.",
+  "ai_summary": "Courtyard by Marriott North Pattaya is a 233-room, four-star select-service hotel that opened in 2022 in the quieter Naklua district of North Pattaya, a few minutes' walk from Terminal 21 mall and Wongamut Beach. Guests consistently single out the rooftop pool and bar, which offer city and Pattaya Bay views and a relaxed family-friendly ambience, alongside notably attentive, friendly service that recurs across independent guest feedback. Rooms are described as modern, bright and clean with comfortable beds and marble bathrooms, ranging from 28sqm Superior rooms to 44sqm Courtyard Suites. The buffet breakfast at all-day restaurant Café 22 is often praised as among the better ones in Pattaya, and value for money is seen as strong. Facilities include a 24-hour fitness centre with bay views, a kids' club and around 230-280sqm of meeting space, plus free parking. As a Courtyard, this is a functional business-and-leisure property rather than a full resort, so amenities are lighter than at higher Marriott tiers. The main watch-out is location: the Naklua setting is peaceful but feels removed from central Pattaya's beach road, restaurants and nightlife, requiring a short songthaew or taxi ride. A few guests have flagged occasional check-in delays and weak breakfast coffee. Overall it reads as a reliable, well-run modern base that trades walkable buzz for calm and good service.",
+  "core_facts": {
+    "address": "240/44-45 Naklua Road, Naklua, North Pattaya, Chonburi 20150, Thailand",
+    "brand_sub_brand": "Courtyard by Marriott",
+    "neighborhood": "Naklua, North Pattaya",
+    "distance_from_airport_km": 45,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Wongamut (Naklua) Beach",
+        "km": 0.3
+      },
+      {
+        "label": "Terminal 21 Pattaya",
+        "km": 0.8
+      },
+      {
+        "label": "Sanctuary of Truth",
+        "km": 2
+      },
+      {
+        "label": "Central Pattaya Beach",
+        "km": 2.5
+      }
+    ]
+  },
+  "pros": [
+    "Rooftop pool and bar with Pattaya Bay and city views, praised for a relaxed family and couples ambience",
+    "Attentive, friendly staff highlighted repeatedly in guest feedback",
+    "Modern, clean rooms with comfortable beds and marble bathrooms",
+    "Buffet breakfast at Café 22 rated among the better ones in Pattaya, with good overall value"
+  ],
+  "cons": [
+    "Quiet Naklua location feels removed from central Pattaya's beach road, dining and nightlife",
+    "Occasional check-in delays reported by some guests",
+    "Select-service Courtyard, so facilities are lighter than a full resort and some rooms lack views"
+  ],
+  "research_highlights": [
+    "Opened in 2022 as a 233-room Courtyard in North Pattaya's Naklua district",
+    "Rooftop pool and bar plus all-day restaurant Café 22 are the signature facilities",
+    "Ranked in the top ~10% of Pattaya hotels on TripAdvisor (around #48-59 of 600+, 4.0/5)"
+  ],
+  "research_watchouts": [
+    "Genuine independent written reviews are thin; available written coverage is largely sponsored opening features",
+    "Naklua setting requires a short taxi or songthaew ride to reach central Pattaya's main attractions"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Courtyard by Marriott North Pattaya located?",
+      "answer": "It sits in the Naklua district of North Pattaya, Chonburi, about a three-minute walk from Wongamut Beach and roughly 800 metres from Terminal 21 mall. The setting is calmer than central Pattaya, so reaching the main beach road and nightlife needs a short taxi or songthaew ride."
+    },
+    {
+      "question": "What are the standout facilities at the hotel?",
+      "answer": "The signature feature is a rooftop pool and bar with views over Pattaya Bay and the city. The hotel also has an all-day restaurant, Café 22, a 24-hour fitness centre, a kids' club and around 230 to 280 square metres of meeting space, plus complimentary parking for guests."
+    },
+    {
+      "question": "Is this hotel suitable for families?",
+      "answer": "Yes. Guests frequently praise the family-friendly rooftop pool, which includes a children's area, and the hotel operates a dedicated kids' club with games and activities. Rooms and suites range up to 44 square metres, and the well-regarded buffet breakfast at Café 22 caters to families looking for variety."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Courtyard by Marriott North Pattaya opens its doors",
+        "source": "Time Out Bangkok",
+        "url": "https://www.timeout.com/bangkok/news/courtyard-marriott-north-pattaya-032922",
+        "published_date": "2022-03-29",
+        "summary": "Feature on the new 233-room North Pattaya hotel near Wongamut Beach, covering its rooftop pool and bar, all-day restaurant Cafe 22, 24-hour gym, kids' club and event space."
+      },
+      {
+        "title": "Courtyard by Marriott North Pattaya opens its doors at Thailand's dynamic Eastern Seaboard",
+        "source": "Khaosod English",
+        "url": "https://www.khaosodenglish.com/sponsored/2022/03/24/courtyard-by-marriott-north-pattaya-opens-its-doors-at-thailands-dynamic-eastern-seaboard/",
+        "published_date": "2022-03-24",
+        "summary": "Opening announcement detailing the hotel's 233 rooms and suites from 28 to 44 sqm, Naklua location near Wongamut Beach, rooftop pool, dining outlets and business-and-leisure positioning."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Room Tour : Courtyard Suite - Courtyard by Marriott North Pattaya",
+        "channel": "1916's family",
+        "url": "https://www.youtube.com/watch?v=hPeNEcaKsCY",
+        "video_id": "hPeNEcaKsCY",
+        "published_date": "2023-03-04"
+      },
+      {
+        "title": "Courtyard by Marriott North Pattaya | Pattaya, Thailand | Hotel Review ⭐",
+        "channel": "Sophia Travel Hotels",
+        "url": "https://www.youtube.com/watch?v=pxT8h1yGuh8",
+        "video_id": "pxT8h1yGuh8"
+      },
+      {
+        "title": "Hotel Tour | COURTYARD by Marriott North Pattaya Thailand",
+        "channel": "TodsaGun All Around",
+        "url": "https://www.youtube.com/watch?v=BWnpw0XilIY",
+        "video_id": "BWnpw0XilIY",
+        "published_date": "2023-09-07"
+      },
+      {
+        "title": "Review of the hotel \"COURTYARD BY MARRIOTT NORTH PATTAYA\" Pattaya Thailand",
+        "channel": "TOURIST ACCOMMODATION",
+        "url": "https://www.youtube.com/watch?v=tHrfXzGjNhw",
+        "video_id": "tHrfXzGjNhw",
+        "published_date": "2023-06-29"
+      },
+      {
+        "title": "Courtyard North Pattaya, Pattaya, Thailand | Hotel review 4K  🇹🇭",
+        "channel": "SWEET PLACES",
+        "url": "https://www.youtube.com/watch?v=gApTFbFAr9c",
+        "video_id": "gApTFbFAr9c",
+        "published_date": "2025-03-22"
+      }
+    ]
+  },
+  "tags": [
+    "naklua",
+    "north-pattaya",
+    "rooftop-pool",
+    "family-friendly",
+    "select-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/pyxnp-courtyard-north-pattaya/overview/",
+      "label": "Official Courtyard by Marriott North Pattaya overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293919-d20099293-Reviews-Courtyard_by_Marriott_North_Pattaya-Pattaya_Chonburi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/pyxnp-courtyard-north-pattaya/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "pattaya-marriott-resort",
+    "renaissance-pattaya",
+    "chiang-mai-marriott"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 85
+      },
+      {
+        "label": "Value",
+        "score": 86
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+  "region_id": "chiang-mai",
+  "slug": "chiang-mai",
+  "label": "Chiang Mai",
+  "granularity": "city",
+  "parent_region_id": "thailand",
+  "short_description": "Loyalty-program hotels in Chiang Mai, the northern Thai cultural capital of temples, night markets and mountains.",
+  "intro": "Chiang Mai's coverage in this directory is centered on Thailand's northern cultural capital -- a city of walled Old Town temples, riverside night markets along the Ping, and a mountain-and-hill-tribe hinterland. Cooler and more laid-back than Bangkok, it suits culture, food and nature travel, and is reached via Chiang Mai International Airport (CNX) just southwest of the centre.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

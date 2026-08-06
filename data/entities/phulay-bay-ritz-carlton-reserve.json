@@ -1,0 +1,195 @@
+{
+  "entity_id": "phulay-bay-ritz-carlton-reserve",
+  "slug": "phulay-bay-ritz-carlton-reserve",
+  "name": "Phulay Bay, a Ritz-Carlton Reserve",
+  "category_id": "marriott-bonvoy",
+  "region_id": "krabi",
+  "short_description": "The world's first Ritz-Carlton Reserve, an ultra-luxury 54-key retreat of private pavilions and pool villas with butler service on Krabi's Andaman coast north of Ao Nang.",
+  "ai_summary": "Phulay Bay, a Ritz-Carlton Reserve opened in 2009 as the first property in Ritz-Carlton's rarefied Reserve collection, and independent reviewers still treat it as a benchmark for barefoot luxury in Thailand. Set on the Andaman coast in Nong Thale, north of Ao Nang, the resort comprises just 54 pavilions and villas, many with private plunge pools, double-height ceilings and traditional Thai design touches. Writers consistently single out the personalized 'Ton Hong' butler service as a genuine standout, alongside dramatic open-air architecture, a much-photographed infinity pool overlooking limestone islands, and a spa with vitality pools and jungle-lagoon views. Dining across multiple outlets and an extensive breakfast buffet draw praise, and unique experiences such as Thai cooking classes, batik and shadow-puppet workshops, and a complimentary boat shuttle to Koh Hong round out the appeal. Honest watch-outs recur: the property fronts a mangrove-lined shore rather than a swimmable beach, so guests rely on the island shuttle for classic sand-and-sea time; pricing is firmly ultra-luxury; and reviewers redeeming Marriott points have reported breakfast being charged separately. Minor room quibbles (few bedside outlets, no towel rails) surface in older reviews. On balance the consensus is that the experience justifies the steep rates, and the resort is ranked #1 of 18 hotels in Krabi on TripAdvisor.",
+  "core_facts": {
+    "address": "111 Moo 3, Nongthalay, Muang, Krabi, Thailand, 81180",
+    "brand_sub_brand": "The Ritz-Carlton Reserve",
+    "neighborhood": "Nong Thale, Mueang Krabi (Andaman coast north of Ao Nang)",
+    "distance_from_airport_km": 40,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Ao Nang Beach",
+        "km": 13
+      },
+      {
+        "label": "Krabi Town",
+        "km": 20
+      }
+    ]
+  },
+  "pros": [
+    "Private pavilions and pool villas (84-121 sqm) with plunge pools, high ceilings and 24-hour butler service",
+    "Personalized 'Ton Hong' butler service repeatedly rated as exceptional by independent reviewers",
+    "Dramatic open-air Thai architecture and an infinity pool overlooking Andaman limestone islands",
+    "Unique on-site experiences: Thai cooking classes, batik and shadow-puppet workshops, spa, and free Koh Hong island shuttle"
+  ],
+  "cons": [
+    "No natural swimmable beach on-site; guests use a boat shuttle to nearby islands for sand and sea",
+    "Ultra-luxury pricing, and reviewers redeeming Marriott points have been charged separately for breakfast",
+    "Older reviews note minor in-room gaps such as few bedside power outlets and no towel rails"
+  ],
+  "research_highlights": [
+    "Opened in 2009 as the world's first Ritz-Carlton Reserve",
+    "Intimate scale of just 54 pavilions and villas",
+    "Ranked #1 of 18 hotels in Krabi on TripAdvisor with roughly 1,470+ reviews"
+  ],
+  "research_watchouts": [
+    "The shoreline is mangrove-lined, not a classic swim beach; plan on the island shuttle for beach time",
+    "Award (points) stays may not include breakfast, which is expensive to add given the remote location"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Does Phulay Bay have its own swimming beach?",
+      "answer": "Not really. The resort fronts a scenic mangrove-lined Andaman shore rather than a classic sandy swimming beach. Guests use the resort's complimentary boat shuttle to nearby Koh Hong island for sand, snorkeling and open-sea swimming, and enjoy the infinity pool and private villa plunge pools on-site."
+    },
+    {
+      "question": "How far is the resort from Krabi International Airport?",
+      "answer": "Phulay Bay sits in Nong Thale, north of Ao Nang, roughly 40 km from Krabi International Airport (KBV), around a 40-to-50-minute drive depending on traffic. The resort can arrange private airport transfers with butler coordination, and Ao Nang's beach and shops are about 13 km away."
+    },
+    {
+      "question": "What makes Phulay Bay a Ritz-Carlton 'Reserve' rather than a standard Ritz-Carlton?",
+      "answer": "Reserve is Ritz-Carlton's most exclusive tier, with only a handful of properties worldwide. Phulay Bay, which opened in 2009, was the first. Expect a small 54-key footprint, private pavilions and pool villas, dedicated 'Ton Hong' butlers and bespoke local experiences rather than a large conventional resort."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Phulay Bay, a Ritz Carlton Reserve resort, Krabi, Thailand",
+        "source": "Head for Points",
+        "author": "Rhys Jones",
+        "url": "https://www.headforpoints.com/2022/03/28/review-phulay-bay-ritz-carlton-krabi-thailand/",
+        "published_date": "2022-03-28",
+        "summary": "Praises expansive private villas, striking open-air design and impeccable butler service, comparing it to Four Seasons Langkawi; notes small gaps like few bedside outlets and no towel rails, concluding you get what you pay for."
+      },
+      {
+        "title": "Review: Phulay Bay, a Ritz-Carlton Reserve Hotel",
+        "source": "Travel Codex",
+        "author": "Kevin Hanson",
+        "url": "https://www.travelcodex.com/review-phulay-bay-a-ritz-carlton-reserve/",
+        "summary": "Calls it the nicest hotel the author has stayed at, citing luxurious villas, attentive butlers, an infinity pool over island views and a baby-elephant happy hour; main gripe is breakfast charged separately on points redemptions."
+      },
+      {
+        "title": "Hotel review: Phulay Bay, a Ritz-Carlton Reserve, Krabi",
+        "source": "Business Traveller",
+        "url": "https://www.businesstraveller.com/tried-tested/hotel-review-phulay-bay-a-ritz-carlton-reserve-krabi/",
+        "summary": "A tried-and-tested review of the Krabi Reserve property covering villa accommodations, service and facilities for a mostly business-and-leisure luxury audience."
+      },
+      {
+        "title": "Phulay Bay, a Ritz-Carlton Reserve - Review",
+        "source": "The Luxury Editor",
+        "url": "https://theluxuryeditor.com/review/phulay-bay-a-ritz-carlton-reserve-review/",
+        "summary": "Independent luxury-travel review of Phulay Bay in Krabi, covering the villas, dining, spa and overall Reserve experience on the Andaman coast."
+      },
+      {
+        "title": "Review: Putting on the Ritz at Phulay Bay in Krabi",
+        "source": "Remote Lands",
+        "url": "https://www.remotelands.com/travelogues/review-putting-on-the-ritz-at-phulay-bay-in-thailands-krabi/",
+        "summary": "Travelogue-style review of Phulay Bay, describing the resort's setting, villa stays and personalized service as a benchmark luxury experience in Thailand's Krabi province."
+      }
+    ],
+    "videos": [
+      {
+        "title": "PHULAY BAY A Ritz-Carlton Reserve Review: The Real Deal! 🇹🇭",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=IwINJWzc6wY",
+        "video_id": "IwINJWzc6wY",
+        "published_date": "2024-11-28"
+      },
+      {
+        "title": "Phulay Bay - a review of the Ritz Carlton Reserve",
+        "channel": "Dr. Angelique Barbara",
+        "url": "https://www.youtube.com/watch?v=kufiehVeHhM",
+        "video_id": "kufiehVeHhM",
+        "published_date": "2024-11-21"
+      },
+      {
+        "title": "Ritz Carlton Phulay Bay: Best Room Yet...The Catch?",
+        "channel": "Don's Swank Guide",
+        "url": "https://www.youtube.com/watch?v=_EN61jKGv60",
+        "video_id": "_EN61jKGv60",
+        "published_date": "2025-06-29"
+      },
+      {
+        "title": "Phulay Bay, a Ritz-Carlton Reserve | Krabi, Thailand | Hotel Review 🏩",
+        "channel": "Next Hotel Journey",
+        "url": "https://www.youtube.com/watch?v=PBwwyYPyGiA",
+        "video_id": "PBwwyYPyGiA"
+      }
+    ]
+  },
+  "tags": [
+    "ao-nang",
+    "andaman-coast",
+    "pool-villas",
+    "butler-service",
+    "ultra-luxury"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.ritzcarlton.com/en/hotels/kbvrz-phulay-bay-a-ritz-carlton-reserve/overview/",
+      "label": "Official Phulay Bay, a Ritz-Carlton Reserve overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g3175953-d447492-Reviews-Phulay_Bay_a_Ritz_Carlton_Reserve-Nong_Thale_Krabi_Town_Krabi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ritzcarlton.com/en/hotels/kbvrz-phulay-bay-a-ritz-carlton-reserve/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "chiang-mai-marriott",
+    "courtyard-north-pattaya",
+    "hua-hin-marriott"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 84
+      },
+      {
+        "label": "Service",
+        "score": 93
+      },
+      {
+        "label": "Rooms",
+        "score": 92
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 82
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

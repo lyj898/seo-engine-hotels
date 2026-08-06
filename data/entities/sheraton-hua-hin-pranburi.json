@@ -1,0 +1,183 @@
+{
+  "entity_id": "sheraton-hua-hin-pranburi",
+  "slug": "sheraton-hua-hin-pranburi",
+  "name": "Sheraton Hua Hin Pranburi Villas",
+  "category_id": "marriott-bonvoy",
+  "region_id": "hua-hin",
+  "short_description": "All-villa Sheraton resort in quiet Pranburi, roughly 30 km south of Hua Hin, where every one of the 53 accommodations is a private-pool villa set in lush gardens near the Gulf of Thailand.",
+  "ai_summary": "Sheraton Hua Hin Pranburi Villas is an all-villa resort tucked into a tranquil stretch of Pak Nam Pran, about a 30-minute drive south of Hua Hin and a longer haul from Bangkok, making it a genuine get-away-from-it-all base rather than a see-and-be-seen beach hotel. Formerly a Six Senses-managed property, it comprises 53 spacious pool villas ranging from roughly 248 to nearly 400 sqm, each with its own private pool, sun terrace, lounging pavilion and open-air bathroom set among palms and tropical greenery. Independent reviewers consistently single out the staff as the standout: warm, attentive and quick to recognise Bonvoy elites with upgrades and welcome touches. The extensive breakfast buffet at Dalah, with live stations and both Western and Asian options, and Thai dining at Luna La Pran draw repeated praise, alongside free bicycles, a spa and daily activities. TripAdvisor guests rate it 4 of 5 across more than 570 reviews and rank it #1 in Pranburi. Watch-outs are honest: the hardware shows its age and reviewers say it is due a refresh, on-property dining choices are limited given the isolated setting, and the remote location means transport into Hua Hin or Bangkok can be slow and pricey. It suits couples and families wanting quiet, private, pool-villa relaxation over nightlife or a lively beach scene.",
+  "core_facts": {
+    "address": "9/22 Moo 5, Pak Nam Pran, Pranburi, Prachuap Khiri Khan 77220, Thailand",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Pak Nam Pran, Pranburi (about 30 km south of Hua Hin)",
+    "distance_from_airport_km": 40,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Pranburi Beach",
+        "km": 1
+      },
+      {
+        "label": "Pranburi Forest Park",
+        "km": 9
+      },
+      {
+        "label": "Pranburi Railway Station",
+        "km": 10
+      },
+      {
+        "label": "Hua Hin town centre",
+        "km": 30
+      }
+    ]
+  },
+  "pros": [
+    "Every accommodation is a large private-pool villa (roughly 248-400 sqm) with sun terrace and open-air bathroom",
+    "Warm, attentive service repeatedly called the property's biggest strength, with genuine Bonvoy elite recognition",
+    "Extensive breakfast buffet at Dalah with live stations plus quality Thai dining at Luna La Pran",
+    "Secluded, tranquil Pranburi setting ideal for privacy, relaxation and unwinding away from crowds"
+  ],
+  "cons": [
+    "Villa hardware feels dated and reviewers say the property is due for a full renovation",
+    "Isolated location makes getting to Hua Hin or Bangkok slow and transport can be expensive",
+    "On-property dining and evening options are limited compared with larger resorts"
+  ],
+  "research_highlights": [
+    "All-villa resort with 53 private-pool villas, formerly a Six Senses-managed property",
+    "TripAdvisor 4 of 5 across 570+ reviews and ranked #1 in Pranburi",
+    "Signature large private pools (over 10 m in the biggest villas) with lounging pavilions"
+  ],
+  "research_watchouts": [
+    "Property is aging and reviewers flag it as needing a refresh; check for any active renovation before booking",
+    "Remote Pranburi location means limited transport and dining nearby; plan car transfers in advance"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is Sheraton Hua Hin Pranburi Villas from Hua Hin and Bangkok?",
+      "answer": "The resort sits in Pak Nam Pran, Pranburi, about 30 km (a 30-minute drive) south of Hua Hin town and roughly 40 km from Hua Hin Airport. From Bangkok it is around a 3.5-hour drive, so most guests arrange a private transfer or minivan."
+    },
+    {
+      "question": "What are the rooms like at this resort?",
+      "answer": "There are no standard rooms; all 53 accommodations are private-pool villas from about 248 up to nearly 400 sqm. Each has its own outdoor pool, sun terrace, lounging pavilion and an open-air bathroom, set within lush tropical gardens for maximum privacy and seclusion."
+    },
+    {
+      "question": "Is it a good choice for a quiet, relaxing stay?",
+      "answer": "Yes. Guests consistently praise the tranquil, secluded setting, private pool villas and attentive staff for unwinding. It suits couples and families wanting relaxation over nightlife, though the remote location means fewer dining and entertainment options than busier Hua Hin resorts."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sheraton Pranburi Villas Review",
+        "source": "Paul the Sheep",
+        "author": "Paul",
+        "url": "https://www.paulthesheep.com/hotel-reviews/thai-hotels/sheraton-pranburi-villas-12nov22/",
+        "published_date": "2022-11-12",
+        "summary": "A detailed stay report praising the huge private-pool villas, green oasis grounds, standout service and Bonvoy upgrade, while noting aging hardware in need of renovation and only a basic gym."
+      },
+      {
+        "title": "Sheraton Hua Hin Pranburi Villas Review: What To REALLY Expect If You Stay",
+        "source": "Oyster.com",
+        "url": "https://www.oyster.com/prachuap-khiri-khan-province/hotels/sheraton-hua-hin-pranburi-villas/",
+        "summary": "An independent review of the 53 private-pool villas, highlighting the modern villa design, secluded beachfront setting a 30-minute drive south of Hua Hin, and attentive personalised service."
+      },
+      {
+        "title": "Sheraton Hua Hin Pranburi Villas: An Amazing & Relaxing Hotel to Stay in Hua Hin",
+        "source": "VinaTraveler's Blog",
+        "author": "VinaTraveler",
+        "url": "https://olympusgirlinsg.blogspot.com/2018/08/sheraton-hua-hin-pranburi-villas.html",
+        "published_date": "2018-08-25",
+        "summary": "A photo-heavy account of a 248 sqm pool villa with private pool and open-air bathroom, praising the extensive Dalah breakfast and professional staff, but flagging the remote location and limited transport."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Review: 2 Bedroom Pool Villa at Sheraton Hua Hin Pranburi Villas",
+        "channel": "Hotelhoppers",
+        "url": "https://www.youtube.com/watch?v=wn4GtPVn6CY",
+        "video_id": "wn4GtPVn6CY"
+      },
+      {
+        "title": "Hotel Review :  Sheraton Hua Hin Pranburi Villas",
+        "channel": "TheMLife",
+        "url": "https://www.youtube.com/watch?v=OylcHC1XV8c",
+        "video_id": "OylcHC1XV8c"
+      },
+      {
+        "title": "Sheraton Hua Hin Pranburi Villas | Ep.2 Dream Collector",
+        "channel": "Dream Collector",
+        "url": "https://www.youtube.com/watch?v=XB3quNd4KvI",
+        "video_id": "XB3quNd4KvI"
+      }
+    ]
+  },
+  "tags": [
+    "pranburi",
+    "private-pool-villas",
+    "all-villa-resort",
+    "beach-getaway",
+    "quiet-retreat"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hhqps-sheraton-hua-hin-pranburi-villas/overview/",
+      "label": "Official Sheraton Hua Hin Pranburi Villas overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g667502-d5029102-Reviews-Sheraton_Hua_Hin_Pranburi_Villas-Pranburi_Prachuap_Khiri_Khan_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hhqps-sheraton-hua-hin-pranburi-villas/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "hua-hin-marriott",
+    "sheraton-hua-hin",
+    "chiang-mai-marriott"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 92
+      },
+      {
+        "label": "Rooms",
+        "score": 84
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 86
+      },
+      {
+        "label": "Value",
+        "score": 84
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

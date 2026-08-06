@@ -1,0 +1,195 @@
+{
+  "entity_id": "renaissance-pattaya",
+  "slug": "renaissance-pattaya",
+  "name": "Renaissance Pattaya Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "pattaya",
+  "short_description": "Renaissance's beachfront resort on Na Jomtien's quieter coast south of central Pattaya, with 257 sea-view rooms, direct beach access and two large pools including an adults-only ocean-view infinity pool.",
+  "ai_summary": "Renaissance Pattaya Resort & Spa is a 257-room, five-star beachfront property set on the tranquil Na Jomtien coast about 18 km south of central Pattaya, deliberately positioned as a calm retreat away from the city's nightlife. Independent write-ups consistently describe a surprising sense of serenity on arrival, with contemporary design drawing on local fishing-village motifs and natural materials. Accommodation spans seven-plus categories from spacious sea-view balcony rooms to pool-access rooms and beachfront villas, widely praised as clean, modern and generously sized with strong ocean and pool views. The resort's two large outdoor pools, including an adults-only infinity pool overlooking the sea, direct beach access, day spa, fitness center and kids' club draw families and couples alike. Dining centers on 609 Kitchen for all-day international and seafood buffets and Pebbles Bar & Grill for grilled dishes, with breakfast variety and quality frequently singled out. Marriott Bonvoy guests report generous elite recognition, with reliable upgrades and complimentary breakfast for Platinum members, a rare perk among area resorts. The most common watch-out is the remote location: reaching central Pattaya, restaurants or convenience stores requires a drive or taxi, so it suits travelers wanting a self-contained beach base rather than easy access to the city's bars and attractions. TripAdvisor rates it 4.0 of 5 across roughly 1,300 reviews, ranking it around fourth of thirty hotels in Na Chom Thian.",
+  "core_facts": {
+    "address": "9/9 Moo 3, Na Jomtien, Sattahip District, Chon Buri 20250, Thailand",
+    "brand_sub_brand": "Renaissance",
+    "neighborhood": "Na Jomtien",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Central Pattaya (Walking Street)",
+        "km": 18
+      },
+      {
+        "label": "Suvarnabhumi Airport (Bangkok)",
+        "km": 120
+      }
+    ]
+  },
+  "pros": [
+    "Spacious, clean, modern rooms with sea and infinity-pool views praised across reviews",
+    "Two large outdoor pools including an adults-only ocean-view infinity pool, plus direct beach access",
+    "Warm, attentive service with generous Marriott Bonvoy elite recognition and Platinum breakfast",
+    "Quiet, tranquil Na Jomtien beachfront setting well away from central Pattaya's crowds"
+  ],
+  "cons": [
+    "Remote location: central Pattaya, dining and convenience stores need a drive or taxi",
+    "Nearest 7-Eleven is a 10–15 minute walk, limiting easy off-property options",
+    "Self-contained resort feel means on-site dining and drinks can add up over a stay"
+  ],
+  "research_highlights": [
+    "Opened 2017 as Renaissance Hotels' fourth Thailand property, with 257 rooms and villas",
+    "Rated 4.0/5 on TripAdvisor across ~1,300 reviews, ranked around #4 of 30 in Na Chom Thian",
+    "Adults-only ocean-view infinity pool plus a second family pool and direct beach frontage"
+  ],
+  "research_watchouts": [
+    "Location is quiet and isolated; not suited to travelers wanting Pattaya nightlife within walking distance",
+    "Several published reviews are sponsored or brand collaborations, so temper promotional tone"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Renaissance Pattaya Resort & Spa located?",
+      "answer": "The resort sits beachfront on the quieter Na Jomtien coast in Sattahip District, about 18 km south of central Pattaya. It is roughly a 30-minute drive from U-Tapao Rayong-Pattaya International Airport and around 120 km southeast of Bangkok's Suvarnabhumi Airport."
+    },
+    {
+      "question": "What are the pools and beach like?",
+      "answer": "The resort has direct access to a calm stretch of Na Jomtien beach plus two large outdoor pools. One is an adults-only infinity pool overlooking the ocean, while the second is family-friendly. Some rooms and villas offer direct pool access from their patios."
+    },
+    {
+      "question": "Is it good for Marriott Bonvoy elite members?",
+      "answer": "Yes. Guests report generous elite recognition, including reliable room upgrades and complimentary breakfast for Platinum members, which is uncommon among resorts in the area. The property is fully Bonvoy-enrolled, so stays earn and redeem points and elite night credit as normal."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: A Re-Experience of Pattaya with Renaissance Pattaya Resort & Spa, Thailand",
+        "source": "City Nomads",
+        "author": "Narisa Pokunchanan",
+        "url": "https://citynomads.com/renaissance-pattaya-resort-spa-a-re-experience-of-pattaya-thailand/",
+        "published_date": "2018-06-04",
+        "summary": "Lifestyle-magazine review praising the Na Jomtien resort's unexpected serenity, fishing-village-inspired design, seven room categories, spa and beachfront Pebbles Bar & Grill dining as an elegant escape from central Pattaya."
+      },
+      {
+        "title": "Hotel News: Renaissance Opens Resort in Pattaya, Thailand",
+        "source": "Accidental Travel Writer",
+        "author": "Michael Taylor",
+        "url": "https://accidentaltravelwriter.com/hotel-review-renaissance-pattaya-resort-and-spa/",
+        "published_date": "2017-11-27",
+        "summary": "Opening feature detailing the 257-room resort's launch as Renaissance's fourth Thailand property, with P49-designed interiors, nine room types up to 157 sqm, five dining venues, two pools and a kids' club."
+      },
+      {
+        "title": "Renaissance Pattaya Resort & Spa Review",
+        "source": "The Gay Passport",
+        "author": "nic__su",
+        "url": "https://thegaypassport.com/venue/renaissance-pattaya-resort-spa/",
+        "published_date": "2025-01-01",
+        "summary": "Branded review of a two-story villa stay with welcome champagne and rose-petal bath, highlighting the beachfront setting, private pool villas, three pools, spa and 15-minute drive to Jomtien."
+      },
+      {
+        "title": "Renaissance Pattaya Resort & Spa, Thailand [Master Thread]",
+        "source": "FlyerTalk",
+        "url": "https://www.flyertalk.com/forum/marriott-marriott-bonvoy/1855597-renaissance-pattaya-resort-spa-thailand-master-thread.html",
+        "summary": "Long-running Marriott Bonvoy community thread where members compare elite recognition, upgrades, breakfast benefits and value at the Na Jomtien resort over multiple stays."
+      }
+    ],
+    "videos": [
+      {
+        "title": "5-Star Stay: Renaissance Pattaya Resort & Spa | Luxury Beachfront Escape in Thailand",
+        "channel": "Papol and Litta",
+        "url": "https://www.youtube.com/watch?v=M0zyJAceqcI",
+        "video_id": "M0zyJAceqcI"
+      },
+      {
+        "title": "Escape the Chaos | Renaissance Pattaya Resort Full Tour",
+        "channel": "SeansEyeView Travel Channel",
+        "url": "https://www.youtube.com/watch?v=Ls6pK54Qk6c",
+        "video_id": "Ls6pK54Qk6c"
+      },
+      {
+        "title": "Renaissance Resort & Spa, Pattaya, Thailand",
+        "channel": "Love Flying And Hotels",
+        "url": "https://www.youtube.com/watch?v=DUyn225jfGk",
+        "video_id": "DUyn225jfGk"
+      },
+      {
+        "title": "Renaissance Pattaya Resort and Spa โรงแรมเรเนซองพัทยา  #ที่พักพัทยา #พัทยา #รีวิวโรงแรม #โรงแรมพัทยา",
+        "channel": "Aof world wide",
+        "url": "https://www.youtube.com/watch?v=sGyWdPggVNQ",
+        "video_id": "sGyWdPggVNQ"
+      },
+      {
+        "title": "270663 Awaycation Ep169 RENAISSANCE PATTAYA RESORT & SPA",
+        "channel": "KanClub",
+        "url": "https://www.youtube.com/watch?v=FKvZIY_gG4Q",
+        "video_id": "FKvZIY_gG4Q"
+      }
+    ]
+  },
+  "tags": [
+    "na-jomtien",
+    "beachfront",
+    "infinity-pool",
+    "family-friendly",
+    "spa"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/pyxbr-renaissance-pattaya-resort-and-spa/overview/",
+      "label": "Official Renaissance Pattaya Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2005201-d12455681-Reviews-Renaissance_Pattaya_Resort_Spa-Na_Chom_Thian_Sattahip_Chonburi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/pyxbr-renaissance-pattaya-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-north-pattaya",
+    "pattaya-marriott-resort",
+    "chiang-mai-marriott"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 88
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 86
+      },
+      {
+        "label": "Value",
+        "score": 84
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}
