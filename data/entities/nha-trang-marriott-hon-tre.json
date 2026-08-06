@@ -1,0 +1,188 @@
+{
+  "entity_id": "nha-trang-marriott-hon-tre",
+  "slug": "nha-trang-marriott-hon-tre",
+  "name": "Nha Trang Marriott Resort & Spa, Hon Tre Island",
+  "category_id": "marriott-bonvoy",
+  "region_id": "nha-trang",
+  "short_description": "Marriott Hotels beachfront resort on Hon Tre Island off Nha Trang, reached by boat or cable car, with 403 rooms plus 426 private pool villas, seven pools and a long private beach.",
+  "ai_summary": "The Nha Trang Marriott Resort & Spa is a large island resort on Hon Tre Island off Nha Trang, a former Vinpearl property converted to Marriott and reachable only by boat or cable car across the bay. It is one of Marriott's biggest resorts in Vietnam, pairing 403 rooms and suites with 426 two- to four-bedroom villas, many with private plunge pools. Independent reviewers consistently praise the spacious, private villa layout, the attentive and friendly staff, efficient boat and cable-car transfers, and the sheer breadth of facilities: seven pools, a long stretch of private beach, Quan Spa, tennis and newer pickleball courts, and a kids' club. Dining draws steady praise, with a diverse breakfast buffet spanning Vietnamese, Western and Korean dishes and several themed restaurants. The island setting is a genuine draw, delivering a quiet, traffic-free rhythm while keeping VinWonders and Nha Trang city within easy reach. Watch-outs are fair and recurring: as a conversion, some villas show wear, with reports of subpar shower fixtures, poor shower drainage and tired pool decks, and occasional lapses in cleanliness and beach upkeep. Value is debated, with several guests feeling rates run high for what is delivered. Like other Marriott resorts, there is no executive/club lounge, so elite members should not expect lounge access. Overall it suits families and couples wanting a self-contained, private island escape with room to spread out.",
+  "core_facts": {
+    "address": "Hon Tre Island, Vinh Nguyen Ward, Nha Trang City, Khanh Hoa Province, Vietnam",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Hon Tre Island (off Nha Trang Bay)",
+    "distance_from_airport_km": 40,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "VinWonders Nha Trang",
+        "km": 1
+      },
+      {
+        "label": "Vinpearl Golf Club Nha Trang",
+        "km": 2
+      },
+      {
+        "label": "Nha Trang city center (across the bay)",
+        "km": 5
+      }
+    ]
+  },
+  "pros": [
+    "Spacious two-to-four-bedroom pool villas with private plunge pools, widely described as gorgeous and very private",
+    "Attentive, friendly service and efficient 24-hour boat and cable-car transfers to the mainland",
+    "Extensive facilities: seven pools, a long private beach, Quan Spa, tennis and pickleball courts, and a kids' club",
+    "Diverse, well-regarded breakfast buffet and several restaurants spanning Vietnamese, Western and Korean cuisine"
+  ],
+  "cons": [
+    "As a conversion, some villas show wear, with reports of subpar shower fixtures, poor drainage and tired pool decks",
+    "Value is debated, with guests feeling rates can run high relative to the experience delivered",
+    "Island-only access by boat or cable car adds a transfer step and can feel isolating from the mainland"
+  ],
+  "research_highlights": [
+    "One of Marriott's largest resorts in Vietnam: 403 rooms and suites plus 426 pool villas on Hon Tre Island",
+    "A former Vinpearl property converted to Marriott, reachable only by boat or cable car across Nha Trang Bay",
+    "Recognized in 2024 hospitality awards as a leading Vietnam family resort"
+  ],
+  "research_watchouts": [
+    "No dedicated executive/club lounge (standard for Marriott resorts) — elite members should not expect lounge access",
+    "Being a conversion, some fixtures and finishes show wear, so confirm villa condition and category at booking"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How do you get to the resort?",
+      "answer": "The resort sits on Hon Tre Island and is reached only from the mainland, either by the resort's boat shuttle or by cable car. The mainland pier is about 15 minutes from central Nha Trang and roughly 40 minutes from Cam Ranh International Airport; transfers run around the clock."
+    },
+    {
+      "question": "Is the resort good for families?",
+      "answer": "Yes. It is built for families, with multi-bedroom pool villas, a supervised kids' club, several pools, a long private beach and water activities. VinWonders theme and water park is only a few minutes away, and the quiet, traffic-free island setting makes it easy to relax with children."
+    },
+    {
+      "question": "Is there a club lounge for Bonvoy elites?",
+      "answer": "No. Like most Marriott resorts, this property does not operate an executive or club lounge, so elite members should not expect lounge access as a benefit. Recognition is typically delivered through points, breakfast and room upgrades where available rather than a dedicated lounge space."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Nha Trang Marriott Resort & Spa, Hon Tre Island: Island Luxury Escape",
+        "source": "Lilla Green",
+        "url": "https://lillagreen.com/nha-trang-marriott-resort-spa-hon-tre-island-review/",
+        "published_date": "2026-02-11",
+        "summary": "A detailed stay review praising the spacious villa layout, diverse dining and calm island rhythm, with the setting separating guests from mainland traffic while keeping Nha Trang close."
+      },
+      {
+        "title": "Nha Trang Marriott Resort & Spa, Hon Tre Island, Vietnam [Master Thread]",
+        "source": "FlyerTalk",
+        "url": "https://www.flyertalk.com/forum/marriott-marriott-bonvoy/2155080-nha-trang-marriott-resort-spa-hon-tre-island-vietnam-master-thread.html",
+        "summary": "Points-community discussion covering boat and cable-car access, villa impressions and the resort-standard lack of a club lounge, with practical notes on elite recognition and value."
+      },
+      {
+        "title": "Nha Trang Marriott Resort & Spa, Hon Tre Island: Vietnam's Leading Family Resort 2024",
+        "source": "Best Hotels & Resorts Awards",
+        "url": "https://besthotelsresortsawards.com/nominee/nha-trang-marriott-resort-spa-hon-tre-island/",
+        "summary": "Awards profile recognizing the resort as a leading Vietnam family property, highlighting beachfront setting, kids' club, pools and dining, with high marks for location, service and facilities."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Nha Trang Marriott Resort | 3 Bedroom Villa Private Pool | Vietnam, Hòn Tre Island #marriottbonvoy",
+        "channel": "The Elite Leisure Traveller",
+        "url": "https://www.youtube.com/watch?v=wlZ6T4b_qa8",
+        "video_id": "wlZ6T4b_qa8"
+      },
+      {
+        "title": "NHA TRANG MARRIOTT RESORT & SPA HON TRE ISLAND - 4K CINEMATIC FOOTAGE DJI MINI 3",
+        "channel": "BOTVND",
+        "url": "https://www.youtube.com/watch?v=rC-Q24US1lA",
+        "video_id": "rC-Q24US1lA"
+      },
+      {
+        "title": "Nha Trang Marriott Resort & Spa: A Resort Paradise on Hon Tre Island",
+        "channel": "Vnadventures",
+        "url": "https://www.youtube.com/watch?v=zBhl3CN3jBE",
+        "video_id": "zBhl3CN3jBE"
+      },
+      {
+        "title": "🌴 Vietnam Luxury Island Getaway | Hon Tam Resort & Marriott Nha Trang Vlog 🇻🇳✨",
+        "channel": "Nikita Spires Art",
+        "url": "https://www.youtube.com/watch?v=9WzETz1D7bA",
+        "video_id": "9WzETz1D7bA"
+      },
+      {
+        "title": "Nha Trang Marriott Resort & Spa Hòn Tre Island Và Vinpearl Harbour | Điểm đến mới tinh tại Nha Trang",
+        "channel": "WE around",
+        "url": "https://www.youtube.com/watch?v=UWOtK91RYEw",
+        "video_id": "UWOtK91RYEw"
+      }
+    ]
+  },
+  "tags": [
+    "hon-tre-island",
+    "island-resort",
+    "pool-villas",
+    "private-beach",
+    "family-resort"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/cxrht-nha-trang-marriott-resort-and-spa-hon-tre-island/overview/",
+      "label": "Official Nha Trang Marriott Resort & Spa, Hon Tre Island overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293928-d23088717-Reviews-Nha_Trang_Marriott_Resort_Spa_Hon_Tre_Island-Nha_Trang_Khanh_Hoa_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/cxrht-nha-trang-marriott-resort-and-spa-hon-tre-island/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-nha-trang",
+    "jw-marriott-cam-ranh-bay",
+    "sheraton-nha-trang"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 80
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

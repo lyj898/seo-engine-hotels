@@ -1,0 +1,184 @@
+{
+  "entity_id": "jw-marriott-cam-ranh-bay",
+  "slug": "jw-marriott-cam-ranh-bay",
+  "name": "JW Marriott Cam Ranh Bay Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "nha-trang",
+  "short_description": "JW Marriott's beachfront resort on Bai Dai (Long Beach) in Cam Ranh near Nha Trang, with Champa-inspired design, private-pool villas and a long stretch of exclusive white sand.",
+  "ai_summary": "Opened in late September 2025, the JW Marriott Cam Ranh Bay Resort & Spa is a 203-room beachfront resort set across roughly 22 hectares on Bai Dai (Long Beach), a short 15-minute drive south of Cam Ranh International Airport and around 35 km from Nha Trang. Independent reviewers describe a design narrative rooted in Champa and Vietnamese heritage, with earth-toned interiors, locally crafted ceramics and a working garden that supplies the kitchens. The grounds read as surprisingly lush and mature for a new property, with direct access to a long, clean and largely private beach, a large pool with a lazy river, kids' and teens' clubs, and Spa by JW. Guests consistently praise the spacious rooms (many around 70 sq m), the generous breakfast buffet, the tranquil low-density setting and warm, attentive staff. Dining highlights include an all-day venue with a pottery studio and a well-regarded seafood grill, plus 27 villas, ten of them beachfront with private infinity pools. Honest watch-outs recur across reviews: as a very new resort, service can be slow and some operational and housekeeping wrinkles remain; à la carte dining is limited, small in portion and pricey; some rooms have awkward proportions or views blocked by neighbouring blocks; and the remote location leaves few options outside the property. Several reviewers felt elite recognition was underwhelming and that the resort currently leans upper-upscale rather than true luxury.",
+  "core_facts": {
+    "address": "Lot D4C, Cam Lam Peninsula, Cam Hai Dong, Cam Lam District, Khanh Hoa Province, Vietnam",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "Cam Ranh / Bai Dai Beach",
+    "distance_from_airport_km": 12,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Cam Ranh International Airport (CXR)",
+        "km": 12
+      },
+      {
+        "label": "Nha Trang city center",
+        "km": 35
+      }
+    ]
+  },
+  "pros": [
+    "Long, clean, largely private stretch of Bai Dai beach with lifeguards and a big pool with lazy river",
+    "Spacious rooms (many ~70 sq m) with high ceilings and quality furnishings",
+    "Generous, varied breakfast buffet that reviewers rate as a highlight",
+    "Lush, well-maintained 22-hectare grounds and a warm, attentive staff"
+  ],
+  "cons": [
+    "À la carte dining is limited, small in portion and relatively pricey",
+    "As a brand-new resort, service can be slow with occasional operational and housekeeping lapses",
+    "Remote setting with very few dining or entertainment options outside the resort"
+  ],
+  "research_highlights": [
+    "Opened late September 2025 as a 203-room, 27-villa beachfront resort across ~22 hectares",
+    "Champa- and Vietnamese-heritage design with a pottery studio, JW garden farm and Spa by JW",
+    "Named among Vietnam's best beach resorts and Top 3 at the Travel + Leisure Luxury Awards Asia Pacific 2026"
+  ],
+  "research_watchouts": [
+    "Very new property (opened 2025) so service polish and some operations are still settling",
+    "Isolated location around 35 km from Nha Trang means limited off-property dining and activities"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is the resort from the airport and Nha Trang?",
+      "answer": "The resort sits on Bai Dai Beach about a 15-minute drive south of Cam Ranh International Airport, roughly 12 km away. Nha Trang city center is farther north, about 35 km, so most guests reach the resort quickly from the airport but plan a longer transfer for city sightseeing."
+    },
+    {
+      "question": "What dining is available at the resort?",
+      "answer": "The property offers several restaurants and bars, including an all-day venue with a live pottery studio, a well-regarded seafood grill, a bistro and pool and ocean bars. Breakfast draws strong praise, though reviewers note à la carte options can be limited, small in portion and pricey given the remote setting."
+    },
+    {
+      "question": "Is JW Marriott Cam Ranh Bay good for families?",
+      "answer": "Yes. The resort has a large pool with a lazy river, kids' and teens' clubs, a long private beach with lifeguards and family-oriented villas up to four bedrooms. The spacious grounds and low-density layout suit families, though the isolated location means most activities happen on the property itself."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "JW Marriott Cam Ranh Bay Review: Newly Opened in 2025",
+        "source": "Delightful Travel Notes",
+        "author": "Sophie",
+        "url": "https://delightfultravelnotes.com/jw-marriott-cam-ranh-bay-resort-review/",
+        "published_date": "2025-11-12",
+        "summary": "A detailed early stay in a Premium King room: praises the lush grounds, spacious rooms and breakfast, but flags a blocked view, awkward room proportions, thin in-room dining and underwhelming Gold elite recognition."
+      },
+      {
+        "title": "Vietnam: JW Marriott Cam Ranh Bay Resort, Where Immersive Wellness Meets Vietnamese Heritage",
+        "source": "Accidental Travel Writer",
+        "author": "Michael Taylor",
+        "url": "https://accidentaltravelwriter.com/vietnam-jw-marriott-cam-ranh-bay-resort/",
+        "published_date": "2025-10-28",
+        "summary": "Focuses on the resort's wellness program and Champa-inspired design: Spa by JW, pottery workshops, locally crafted ceramics and seafood-forward dining across a 203-room property linking forest and sea."
+      },
+      {
+        "title": "JW Marriott Cam Ranh Bay: Vietnam's New Luxury Resort Debut on Central Coast",
+        "source": "Gold Coast Magazine",
+        "author": "Owen George",
+        "url": "https://gcmag.com.au/jw-marriott-cam-ranh-bay-vietnams-new-luxury-resort-debut-on-central-coast/",
+        "published_date": "2025-10-02",
+        "summary": "Opening feature detailing the 22-hectare 'where forest meets sea' concept, 203 rooms and 27 villas (ten beachfront with infinity pools), Clay Craft pottery dining, Spa by JW and a working JW Garden farm."
+      },
+      {
+        "title": "JW Marriott checks into Vietnam's central coast",
+        "source": "LATTE Luxury News",
+        "url": "https://latteluxurynews.com/2025/10/06/jw-marriott-cam-ranh-bay-opening/",
+        "published_date": "2025-10-06",
+        "summary": "Trade coverage of the resort's late-2025 opening on Bai Dai Beach near Cam Ranh, outlining its rooms and villas, dining line-up, spa and wellness offering and heritage-led design."
+      }
+    ],
+    "videos": [
+      {
+        "title": "JW Marriott Cam Ranh Bay: The Ultimate In-Depth Review of a 5-Star Sanctuary",
+        "channel": "Yogi Hotel Global",
+        "url": "https://www.youtube.com/watch?v=hbsYlvl0oao",
+        "video_id": "hbsYlvl0oao"
+      },
+      {
+        "title": "JW Marriott Cam Ranh Bay Resort & Spa",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=UAk2Gft29q4",
+        "video_id": "UAk2Gft29q4"
+      },
+      {
+        "title": "JW Marriott Cam Ranh Bay Resort 나트랑 1일차",
+        "channel": "으눠재뇽세상",
+        "url": "https://www.youtube.com/watch?v=gDpNCNfWT3w",
+        "video_id": "gDpNCNfWT3w"
+      }
+    ]
+  },
+  "tags": [
+    "bai-dai-beach",
+    "beachfront-resort",
+    "private-pool-villas",
+    "spa-resort",
+    "family-friendly"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/cxrjw-jw-marriott-cam-ranh-bay-resort-and-spa/overview/",
+      "label": "Official JW Marriott Cam Ranh Bay Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g18928520-d33299183-Reviews-JW_Marriott_Cam_Ranh_Bay_Resort_Spa-Cam_Hai_Dong_Cam_Lam_District_Khanh_Hoa_Provinc.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/cxrjw-jw-marriott-cam-ranh-bay-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-nha-trang",
+    "nha-trang-marriott-hon-tre",
+    "sheraton-nha-trang"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 86
+      },
+      {
+        "label": "Service",
+        "score": 83
+      },
+      {
+        "label": "Rooms",
+        "score": 83
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 82
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+  "region_id": "hanoi",
+  "slug": "hanoi",
+  "label": "Hanoi",
+  "granularity": "city",
+  "parent_region_id": "vietnam",
+  "short_description": "Loyalty-program hotels across Hanoi, from West Lake views to the business districts west of the old city.",
+  "intro": "Hanoi's hotels in this directory sit across the Vietnamese capital's newer districts rather than the Old Quarter: several overlook West Lake (Ho Tay), the city's largest lake and a leafy expat and dining area, while others anchor the business corridors west of the centre near convention and embassy zones. All are a manageable drive from Noi Bai International Airport (HAN) to the north, though the city's traffic makes proximity to your specific destination the main practical factor.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

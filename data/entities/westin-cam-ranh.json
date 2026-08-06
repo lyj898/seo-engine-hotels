@@ -1,0 +1,180 @@
+{
+  "entity_id": "westin-cam-ranh",
+  "slug": "westin-cam-ranh",
+  "name": "The Westin Resort & Spa Cam Ranh",
+  "category_id": "marriott-bonvoy",
+  "region_id": "nha-trang",
+  "short_description": "Westin wellness beach resort on Bai Dai (Long Beach) in Cam Ranh, with a Heavenly Spa, three pools and villas set in nine hectares of gardens and dunes minutes from the airport.",
+  "ai_summary": "The Westin Resort & Spa Cam Ranh is the first Westin in Vietnam, a wellness-oriented beach resort spread across roughly nine hectares of landscaped gardens and sand dunes on Bai Dai (Long Beach), about four kilometres from Cam Ranh airport and some 35 km south of Nha Trang city. Independent reviewers consistently describe a calm, understated property built around Westin's Sleep Well, Eat Well and Move Well pillars: signature Heavenly Beds, a full Heavenly Spa, three pools, and a strong fitness offering with Technogym, TRX and Peloton gear plus tennis, pickleball and yoga. The wide, off-white-sand beach draws frequent praise and is often called nicer than Nha Trang's. Families are well served, with configured villas, a kids' club, children's yoga, cooking classes and dune activities. The buffet breakfast and in-house dining earn positive mentions, and staff are generally described as friendly and attentive, though service can be inconsistent and a few guests report front-desk friction. Watch-outs centre on the remote location: the resort is fairly isolated, dining choices off-property are limited, and guests note difficulty booking ride-hailing cars in the evening. Reviewers also frame it as a relaxation-and-wellness stay rather than a high-drama design or fine-dining destination, best for travellers who want to switch off by the sea.",
+  "core_facts": {
+    "address": "Lot D14a, Northern Peninsula, Cam Hai Dong Ward, Cam Lam District, Khanh Hoa Province, Cam Ranh, Vietnam",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Cam Ranh / Bai Dai (Long Beach)",
+    "distance_from_airport_km": 4,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Cam Ranh International Airport (CXR)",
+        "km": 4
+      },
+      {
+        "label": "Nha Trang city centre",
+        "km": 35
+      }
+    ]
+  },
+  "pros": [
+    "Wide, off-white-sand Bai Dai beach that reviewers rate higher than Nha Trang's",
+    "Brand-new, spacious rooms and villas with Heavenly Beds and private balconies or pools",
+    "Strong wellness and fitness offering: Heavenly Spa, three pools, Technogym/TRX/Peloton gym, yoga",
+    "Family-friendly programming with kids' club, children's yoga, cooking classes and dune activities"
+  ],
+  "cons": [
+    "Remote, isolated location with few dining or activity options off-property",
+    "Hard to book ride-hailing cars in the evening due to the out-of-town setting",
+    "Service can be inconsistent, with occasional reports of an unhelpful front desk"
+  ],
+  "research_highlights": [
+    "First Westin-branded resort in Vietnam, opened 2022 with 207 rooms, suites and pool villas",
+    "Named 2025 Tatler Best Vietnam: Best New Hotel",
+    "Set across roughly nine hectares of gardens and sand dunes with a Heavenly Spa by Westin"
+  ],
+  "research_watchouts": [
+    "Location is convenient for the airport but far from Nha Trang city and stand-alone restaurants",
+    "Positioned for wellness and relaxation rather than standout design or high-end dining"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is The Westin Resort & Spa Cam Ranh from the airport?",
+      "answer": "The resort sits on Bai Dai beach only about four kilometres from Cam Ranh International Airport (CXR), a roughly ten-minute transfer. Nha Trang city centre is farther away, around 35 kilometres to the north, so most guests fly in and transfer directly to the property."
+    },
+    {
+      "question": "Is the resort good for families?",
+      "answer": "Yes. Reviewers highlight it as family-friendly, with pool villas, a Westin Family Kids Club, children's yoga, family cooking classes and beach activities. Wellbeing programming is woven through the stay for all ages, and the buffet breakfast is frequently praised as being well suited to children."
+    },
+    {
+      "question": "What is the beach like at Cam Ranh?",
+      "answer": "Guests consistently praise the long Bai Dai (Long Beach) stretch of off-white sand, often describing it as more beautiful and less crowded than the beaches in Nha Trang city. The resort fronts this beach directly, set among landscaped gardens and sand dunes across roughly nine hectares."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: The Westin Resort & Spa Cam Ranh",
+        "source": "Luxury Travel Diary",
+        "url": "https://www.luxurytraveldiary.com/2026/03/review-the-westin-resort-spa-cam-ranh/",
+        "published_date": "2026-03-22",
+        "summary": "Editorial review praising the resort's calm, understated design, spacious grounds, Heavenly Spa and RunWESTIN fitness program; frames it as a comfort-and-wellbeing stay rather than a fine-dining or high-drama design destination."
+      },
+      {
+        "title": "Kicking back at The Westin Resort & Spa Cam Ranh - review",
+        "source": "Asia Family Traveller",
+        "author": "Stacey Marcelo",
+        "url": "https://www.asiafamilytraveller.com/post/kicking-back-at-the-westin-resort-spa-cam-ranh-review",
+        "published_date": "2025-09-09",
+        "summary": "Family-focused review highlighting private-pool villas, kids' club and children's wellness programs, kayaking, cooking classes and an amazing breakfast buffet, plus an easy ten-minute transfer from Cam Ranh airport."
+      },
+      {
+        "title": "The Westin Resort & Spa Cam Ranh",
+        "source": "The Luxury Editor",
+        "url": "https://theluxuryeditor.com/accommodation/the-westin-resort-spa-cam-ranh/",
+        "summary": "Feature emphasising the wellness offering: Heavenly Spa treatments, plunge pools and a strong gym with Technogym, TRX and Peloton gear, tennis and pickleball, plus family villas, kid-friendly dining and dune camping."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Westin Resort & Spa Cam Ranh | Nha Trang, Vietnam | Hotel Review 🏨",
+        "channel": "Vietnam Hotels Explore",
+        "url": "https://www.youtube.com/watch?v=lR8gk2rvjCg",
+        "video_id": "lR8gk2rvjCg"
+      },
+      {
+        "title": "[4K] The Westin Resort & Spa Cam Ranh Vietnam",
+        "channel": "VN Scenic Self Drive",
+        "url": "https://www.youtube.com/watch?v=SvGAmIXbJNw",
+        "video_id": "SvGAmIXbJNw"
+      },
+      {
+        "title": "The Westin Resort & Spa Cam Ranh - An Ideal Vacation Paradise",
+        "channel": "Vui Travel",
+        "url": "https://www.youtube.com/watch?v=M9IqAk1-XaY",
+        "video_id": "M9IqAk1-XaY"
+      },
+      {
+        "title": "The Westin Resort & Spa Cam Ranh: Tọa Độ Nghỉ Dưỡng \"Healing\" Đỉnh Cao | Du Lịch Nha Trang 2026",
+        "channel": "Vivu Nha Trang",
+        "url": "https://www.youtube.com/watch?v=y1Q8mdfUG04",
+        "video_id": "y1Q8mdfUG04"
+      }
+    ]
+  },
+  "tags": [
+    "cam-ranh",
+    "bai-dai-beach",
+    "wellness-resort",
+    "family-friendly",
+    "beachfront"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/cxrwi-the-westin-resort-and-spa-cam-ranh/overview/",
+      "label": "Official The Westin Resort & Spa Cam Ranh overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g18928520-d24154516-Reviews-The_Westin_Resort_Spa_Cam_Ranh-Cam_Hai_Dong_Cam_Lam_District_Khanh_Hoa_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/cxrwi-the-westin-resort-and-spa-cam-ranh/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-nha-trang",
+    "jw-marriott-cam-ranh-bay",
+    "nha-trang-marriott-hon-tre"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 85
+      },
+      {
+        "label": "Service",
+        "score": 83
+      },
+      {
+        "label": "Rooms",
+        "score": 89
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 86
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

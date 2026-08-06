@@ -1,0 +1,187 @@
+{
+  "entity_id": "jw-marriott-hanoi",
+  "slug": "jw-marriott-hanoi",
+  "name": "JW Marriott Hotel Hanoi",
+  "category_id": "marriott-bonvoy",
+  "region_id": "hanoi",
+  "short_description": "Landmark Carlos Zapata-designed JW Marriott in west Hanoi beside the National Convention Center, known for its dragon-inspired architecture, award-winning dining and polished service.",
+  "ai_summary": "The JW Marriott Hotel Hanoi is a 450-room luxury flagship in the Nam Tu Liem district of west Hanoi, set on the Vietnam National Convention Center campus. Opened in 2013, its sweeping, dragon-inspired form by New York architect Carlos Zapata is a genuine city landmark, and independent reviewers consistently describe the property as feeling like a resort within the city. Guests praise spacious, modern rooms with high-quality finishes and standout bathrooms, warm and professional service, and strong dining, including the well-regarded French Grill, Japanese Kumihimo and an enormous international breakfast buffet at JW Cafe with pho and sushi stations. The sixth-floor Executive Lounge earns repeat praise for its breakfast, afternoon tea and evening happy hour, and Bonvoy elites value the property as an exceptional points redemption. Facilities include an indoor lap pool, a 24-hour fitness center, a spa and lakeside gardens, and the Cool Cats bar is singled out as one of the most attractive hotel bars around. The most common watch-out is location: the hotel sits well outside the Old Quarter and major sights, roughly 20 to 40 minutes away depending on traffic, so sightseeing depends on the shuttle or Grab rides. Reviewers also note the gym can get warm behind its large windows, the lounge can be stretched at peak times, and spa treatments are pricey by local standards. Overall it is widely rated among Hanoi's best hotels.",
+  "core_facts": {
+    "address": "No. 8 Do Duc Duc Road, Me Tri Ward, Nam Tu Liem District, Hanoi 100000, Vietnam",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "Nam Tu Liem (west Hanoi), beside the National Convention Center",
+    "distance_from_airport_km": 27,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "National Convention Center",
+        "km": 0.2
+      },
+      {
+        "label": "Keangnam Landmark 72 tower",
+        "km": 1
+      },
+      {
+        "label": "Hanoi Old Quarter / city center",
+        "km": 10
+      }
+    ]
+  },
+  "pros": [
+    "Striking Carlos Zapata dragon-inspired architecture that reads as a true Hanoi landmark",
+    "Spacious, modern rooms with premium finishes and notably well-designed bathrooms",
+    "Warm, professional service and a strong sixth-floor Executive Lounge for Bonvoy elites",
+    "Excellent, wide-ranging dining including French Grill, Kumihimo and a vast breakfast buffet"
+  ],
+  "cons": [
+    "Off-center location well outside the Old Quarter, 20 to 40 minutes from major sights",
+    "Executive Lounge can feel overwhelmed by staff at busy peak periods",
+    "Gym gets uncomfortably warm behind large windows and spa treatments are pricey locally"
+  ],
+  "research_highlights": [
+    "Opened 2013; 450 rooms and suites designed by Carlos Zapata Studio",
+    "Ranked among Hanoi's top hotels on TripAdvisor (roughly #19 of 491, 4/5 across 3,400+ reviews)",
+    "Award-winning dining and Green Globe-certified sustainable design"
+  ],
+  "research_watchouts": [
+    "Not a walkable base for Old Quarter sightseeing; plan on the shuttle or Grab rides",
+    "Complimentary elite breakfast is served in the lounge, not the larger JW Cafe buffet"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is the JW Marriott Hotel Hanoi located?",
+      "answer": "It sits at No. 8 Do Duc Duc Road in the Nam Tu Liem district of west Hanoi, beside the National Convention Center. That is about 10 km from the Old Quarter and roughly 27 km from Noi Bai International Airport, so it is a quiet, business-oriented base rather than a walkable city-center location."
+    },
+    {
+      "question": "What do guests like most about the hotel?",
+      "answer": "Reviewers consistently praise the landmark dragon-inspired architecture, spacious modern rooms with excellent bathrooms, warm professional service, and outstanding dining. The huge JW Cafe breakfast buffet, the French Grill restaurant and the sixth-floor Executive Lounge draw particular acclaim, and the property is often called one of Hanoi's best hotels."
+    },
+    {
+      "question": "Is the JW Marriott Hanoi good for Marriott Bonvoy members?",
+      "answer": "Yes. Platinum, Titanium and Ambassador elites receive Executive Lounge access with breakfast, afternoon tea and evening happy hour, and reviewers highlight it as an exceptional points-redemption value. Note that complimentary elite breakfast is served in the lounge rather than the larger JW Cafe buffet on the first floor."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "JW Marriott Hanoi: a little out of the way but really excellent",
+        "source": "TravelGuys",
+        "author": "Bertrand Duperrin",
+        "url": "https://www.travelguys.fr/en/2024/02/01/jw-marriott-hanoi-a-little-out-of-the-way-but-really-excellent/",
+        "published_date": "2024-02-01",
+        "summary": "Detailed stay review praising high-standard service, a spacious suite, the Executive Lounge and a striking rooftop pool and bar, while flagging the peripheral location and a warm gym."
+      },
+      {
+        "title": "Review: JW Marriott Hotel Hanoi - Vietnam",
+        "source": "Milesopedia",
+        "author": "Jean-Maximilien Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/jw-marriott-hotel-hanoi/",
+        "published_date": "2018-01-31",
+        "summary": "Points-focused review calling the hotel a standout Bonvoy redemption, praising modern luxurious design, executive lounge perks and amenities, while noting the off-center location and pricey spa."
+      },
+      {
+        "title": "Hotel Review: JW Marriott Hanoi, Vietnam",
+        "source": "Well Traveled Mile",
+        "author": "Rand Shoaf",
+        "url": "https://welltraveledmile.com/hotel-review-jw-marriott-hanoi-vietnam/",
+        "published_date": "2014-07-15",
+        "summary": "Eight-night stay review describing the property as stunning, with professional staff, strong dining led by the French Grill, and excellent points value from the striking Zapata-designed building."
+      },
+      {
+        "title": "JW Marriott Hotel Hanoi Review: What To REALLY Expect If You Stay",
+        "source": "Oyster.com",
+        "url": "https://www.oyster.com/hanoi/hotels/jw-marriott-hotel-hanoi/",
+        "summary": "Editorial review of the 2013-opened, business-oriented hotel, covering its three restaurants, indoor lap pool, 24-hour fitness center and spa, and its distance from central Hanoi attractions."
+      }
+    ],
+    "videos": [
+      {
+        "title": "[🇻🇳-3] JW Marriott Hotel Hanoi : Executive Suite Room Tour 403",
+        "channel": "Voyage Bourgeois",
+        "url": "https://www.youtube.com/watch?v=UTM0UfinjaQ",
+        "video_id": "UTM0UfinjaQ"
+      },
+      {
+        "title": "JW Marriott Hanoi Full Room Tour",
+        "channel": "The Hangry Tourist",
+        "url": "https://www.youtube.com/watch?v=WfQc_N44Syw",
+        "video_id": "WfQc_N44Syw"
+      },
+      {
+        "title": "Jw Marriott Hanoi; Executive Suite Room with Lounge Access",
+        "channel": "Angelo Traveller",
+        "url": "https://www.youtube.com/watch?v=79-5j6cQ_RU",
+        "video_id": "79-5j6cQ_RU"
+      }
+    ]
+  },
+  "tags": [
+    "nam-tu-liem",
+    "west-hanoi",
+    "landmark-architecture",
+    "executive-lounge",
+    "award-winning-dining"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hanjw-jw-marriott-hotel-hanoi/overview/",
+      "label": "Official JW Marriott Hotel Hanoi overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293924-d4042083-Reviews-JW_Marriott_Hotel_Hanoi-Hanoi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hanjw-jw-marriott-hotel-hanoi/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "sheraton-hanoi-west",
+    "sheraton-hanoi",
+    "four-points-nha-trang"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 75
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 90
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 85
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,179 @@
+{
+  "entity_id": "sheraton-hanoi-west",
+  "slug": "sheraton-hanoi-west",
+  "name": "Sheraton Hanoi West",
+  "category_id": "marriott-bonvoy",
+  "region_id": "hanoi",
+  "short_description": "Sheraton's second Hanoi hotel, a modern 520-key business and events property in the Nam Tu Liem district beside My Dinh National Stadium, with a 24th-floor Club Lounge, rooftop Sky Bar, spa and pool.",
+  "ai_summary": "Sheraton Hanoi West opened in May 2024 as Marriott's second Sheraton in the Vietnamese capital, occupying a reflagged 25-storey tower in the western Nam Tu Liem district that previously operated as the Hyatt Regency (and earlier Crowne Plaza) West Hanoi. The 520-key property combines 390 guest rooms and suites with 130 serviced residences, making it a natural fit for business travelers, convention delegates and long-stay guests rather than first-time tourists. Independent coverage and guest feedback consistently single out the service: staff are described as warm, attentive and genuinely welcoming, and the 24th-floor Club Lounge draws particular praise for its food, evening cocktails and helpful team. Rooms are generally called spacious, clean and modern, with floor-to-ceiling windows, comfortable beds and well-equipped bathrooms, while the breakfast buffet spans Vietnamese pho and Asian and Western dishes. Facilities are extensive for the neighborhood, including an outdoor freeform pool, full-service spa, 24-hour fitness center, all-day dining at The Market, a rooftop Sky Bar overlooking My Dinh National Stadium, and 661 square meters of event space anchored by a 418-square-meter ballroom. The main trade-off is location: the hotel sits roughly 11 km west of the Old Quarter and Hoan Kiem Lake, so sightseers face a 20-to-30-minute drive and find little within walking distance beyond the stadium and convention center. As a recently converted property, a few guests note occasional finishes or service moments that fall short of true five-star polish. On balance it is a strong, comfortable choice for anyone with business in west Hanoi or attending events at the nearby stadium and convention center.",
+  "core_facts": {
+    "address": "36 Le Duc Tho Street, My Dinh 2 Ward, Nam Tu Liem District, Hanoi 10000, Vietnam",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Nam Tu Liem (My Dinh), west Hanoi",
+    "distance_from_airport_km": 27,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "My Dinh National Stadium",
+        "km": 1
+      },
+      {
+        "label": "National Convention Center",
+        "km": 2
+      },
+      {
+        "label": "Hoan Kiem Lake / Old Quarter",
+        "km": 11
+      },
+      {
+        "label": "West Lake (Tay Ho)",
+        "km": 8
+      }
+    ]
+  },
+  "pros": [
+    "Warm, attentive and professional service repeatedly praised, especially the Club Lounge team",
+    "Spacious, clean and modern rooms with floor-to-ceiling windows and comfortable beds",
+    "Strong 24th-floor Club Lounge and a diverse breakfast buffet spanning pho, Asian and Western dishes",
+    "Very convenient for My Dinh National Stadium and the National Convention Center, in a quiet setting"
+  ],
+  "cons": [
+    "Located in west Hanoi, roughly 11 km and a 20-30 minute drive from the Old Quarter and main tourist sights",
+    "Little to do within walking distance beyond the stadium and convention center",
+    "A few guests feel some finishes or service moments fall short of full five-star polish"
+  ],
+  "research_highlights": [
+    "Opened as a Sheraton in May 2024 after reflagging from Hyatt Regency West Hanoi; 520 keys (390 rooms/suites plus 130 residences)",
+    "Ranked #69 of about 1,126 Hanoi hotels on TripAdvisor with a 4/5 aggregate rating",
+    "Signature facilities include a rooftop Sky Bar over the stadium, a 24th-floor Club Lounge, outdoor freeform pool, full-service spa and a 418 sqm ballroom"
+  ],
+  "research_watchouts": [
+    "Converted/reflagged property (former Hyatt Regency and earlier Crowne Plaza West Hanoi) rather than a ground-up new build, so some elements may feel dated",
+    "Far from central Hanoi attractions; best suited to business, convention and stadium-event travelers rather than sightseers"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is Sheraton Hanoi West from Noi Bai International Airport?",
+      "answer": "The hotel sits about 27 km from Noi Bai International Airport, roughly a 30-minute drive depending on traffic. It is located in west Hanoi's Nam Tu Liem district, right by My Dinh National Stadium and around eight minutes from the National Convention Center."
+    },
+    {
+      "question": "Is Sheraton Hanoi West a good base for sightseeing in central Hanoi?",
+      "answer": "Not especially. The hotel lies roughly 11 km west of the Old Quarter and Hoan Kiem Lake, about a 20 to 30 minute drive. It suits business travelers, convention delegates and stadium-event guests who prefer a quieter, modern setting over proximity to the main tourist attractions."
+    },
+    {
+      "question": "What dining and leisure facilities does Sheraton Hanoi West offer?",
+      "answer": "Dining includes all-day dining at The Market, a Lobby Lounge and the rooftop Sky Bar overlooking the stadium. Leisure facilities cover an outdoor freeform pool, a full-service spa, a 24-hour fitness center and a 24th-floor Club Lounge for eligible Marriott Bonvoy elites and club guests."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hyatt Regency West Hanoi to be Reflagged to Sheraton Hanoi West",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2024/3/27/hyatt-regency-west-hanoi-to-be-reflagged-to-sheraton-hanoi-west",
+        "published_date": "2024-03-27",
+        "summary": "A frequent-guest blogger reflects on the property's move from Hyatt (formerly Crowne Plaza) to Sheraton effective 29 Feb 2024, praising its gym and club lounge while noting its out-of-centre west Hanoi location."
+      },
+      {
+        "title": "Sheraton Hotels & Resorts expands presence in Vietnam with the opening of Sheraton Hanoi West",
+        "source": "Great Travel Magazine",
+        "url": "https://greattravelmagazine.com/2024/05/02/sheraton-hotels-resorts-expands-presence-in-vietnam-with-with-the-opening-of-sheraton-hanoi-west/",
+        "published_date": "2024-05-02",
+        "summary": "Opening feature detailing the 520-key hotel: 390 rooms/suites plus 130 residences, three dining venues, outdoor pool, spa, and 661 sqm of event space including a 418 sqm ballroom, near the National Convention Center."
+      },
+      {
+        "title": "Marriott Opens Eighth Sheraton Hotel in Vietnam",
+        "source": "Travel News Asia",
+        "url": "https://www.travelnewsasia.com/news24/25-SheratonHanoiWest.shtml",
+        "published_date": "2024-05-02",
+        "summary": "Trade report on the opening of the 520-key Sheraton Hanoi West, Sheraton's second Hanoi hotel, near My Dinh Stadium and the convention center, converted from the former Hyatt Regency West Hanoi."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Hanoi West Room Tour",
+        "channel": "Frequent Miler",
+        "url": "https://www.youtube.com/watch?v=VmNBYjav9PA",
+        "video_id": "VmNBYjav9PA",
+        "published_date": "2024-11-21"
+      },
+      {
+        "title": "Inside of Sheraton Hanoi West - 5 Stars Hotel",
+        "channel": "LuxeTravel Asia",
+        "url": "https://www.youtube.com/watch?v=ex63cCHpWxE",
+        "video_id": "ex63cCHpWxE",
+        "published_date": "2025-09-05"
+      }
+    ]
+  },
+  "tags": [
+    "nam-tu-liem",
+    "business-hotel",
+    "club-lounge",
+    "convention-center",
+    "airport-access"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hansw-sheraton-hanoi-west/overview/",
+      "label": "Official Sheraton Hanoi West overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293924-d27709648-Reviews-Sheraton_Hanoi_West-Hanoi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hansw-sheraton-hanoi-west/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "jw-marriott-hanoi",
+    "sheraton-hanoi",
+    "four-points-nha-trang"
+  ],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 76
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 87
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,180 @@
+{
+  "entity_id": "sheraton-hanoi",
+  "slug": "sheraton-hanoi",
+  "name": "Sheraton Hanoi Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "hanoi",
+  "short_description": "Sheraton hotel on the shores of Hanoi's West Lake (Ho Tay), a lakeside retreat with a 17th-floor Club Lounge, garden and outdoor pool, about 10 minutes from the Old Quarter.",
+  "ai_summary": "The Sheraton Hanoi Hotel is a long-established lakeside property on the shores of Ho Tay (West Lake) in the leafy Tay Ho district, roughly a ten-minute drive from the Old Quarter and Hoan Kiem Lake. Its 299 rooms and suites climb high enough that most enjoy sweeping views over the lake and the Red River, and the top-floor Club Lounge on level 17 is the feature independent reviewers return to most: writers consistently single out the warm, name-remembering staff, the lake outlook, and generous happy-hour spreads that include Vietnamese pho and hot dishes. Breakfast, whether taken in the Oven D'Or restaurant or the lounge, draws steady praise for its variety and freshness, and the outdoor pool, spa, garden and 24-hour fitness centre round out a resort-like feel unusual for a city hotel. Service is the clearest strength across blogs and points-site trip reports, with elite members reporting suite upgrades and attentive recognition. The honest watch-outs are consistent too: the building shows its age (a partial room renovation runs into 2026), and the West Lake setting means the Old Quarter's sights and dining are a taxi ride rather than a walk away, which several guests found isolating and occasionally hard for ride-hailing. Value is strong on points but can feel steep at cash rates. Overall it suits travellers who prize tranquil lake views, strong lounge benefits and reliable Sheraton service over a walkable downtown base.",
+  "core_facts": {
+    "address": "K5 Nghi Tam, 11 Xuan Dieu Road, Tay Ho District, Hanoi 10000, Vietnam",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Tay Ho (West Lake)",
+    "distance_from_airport_km": 22,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "West Lake (Ho Tay)",
+        "km": 0.1
+      },
+      {
+        "label": "Tran Quoc Pagoda",
+        "km": 1.5
+      },
+      {
+        "label": "Hanoi Old Quarter / Hoan Kiem Lake",
+        "km": 5
+      }
+    ]
+  },
+  "pros": [
+    "17th-floor Club Lounge with lake views, warm name-remembering staff and generous evening happy-hour spreads including Vietnamese pho",
+    "Consistently praised breakfast with wide Asian and international choice in the Oven D'Or restaurant or the lounge",
+    "Most of the 299 rooms and suites enjoy expansive West Lake and Red River views",
+    "Resort-style facilities rare for a city hotel: outdoor pool, spa, garden and 24-hour fitness centre"
+  ],
+  "cons": [
+    "West Lake location is far from the Old Quarter, so main sights and dining need a taxi rather than a walk",
+    "Building and some rooms feel dated; a partial room renovation runs through 2026",
+    "Value can feel steep at cash rates, and ride-hailing pickups from the area can be slow"
+  ],
+  "research_highlights": [
+    "Landmark West Lake hotel with 299 rooms and 17 suites, all oriented to lake and Red River views",
+    "Signature 17th-floor Sheraton Club Lounge repeatedly cited as the property's standout",
+    "Partial guest-room renovation programme underway into 2026"
+  ],
+  "research_watchouts": [
+    "Rooms undergoing partial renovation into 2026 may mean some noise or dated fixtures during a stay",
+    "Tay Ho / West Lake setting is scenic but removed from the Old Quarter, adding transfer time for sightseeing and dining"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is the Sheraton Hanoi Hotel located?",
+      "answer": "It sits on the shore of West Lake (Ho Tay) at K5 Nghi Tam, 11 Xuan Dieu Road, in Hanoi's Tay Ho district. The lakeside setting is tranquil and green, roughly a ten-minute drive from the Old Quarter and Hoan Kiem Lake, and about 22 km from Noi Bai International Airport."
+    },
+    {
+      "question": "What makes the Club Lounge worth it?",
+      "answer": "The Sheraton Club Lounge on the 17th floor is the property's highlight in independent reviews. It offers sit-down check-in, all-day refreshments, a lake view, and an evening happy hour with drinks and canapes including Vietnamese pho. Guests repeatedly praise the attentive, name-remembering lounge staff."
+    },
+    {
+      "question": "Is the hotel a good base for sightseeing in Hanoi?",
+      "answer": "It depends on your priorities. The West Lake location is peaceful and scenic but sits away from the Old Quarter, so most sights and restaurants require a short taxi ride rather than a walk. Travellers wanting a downtown, walkable base may prefer a hotel nearer Hoan Kiem Lake."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sheraton Hanoi Hotel Review: What To REALLY Expect If You Stay",
+        "source": "Oyster.com",
+        "url": "https://www.oyster.com/hanoi/hotels/sheraton-hanoi-hotel/",
+        "summary": "Oyster's investigative review of the West Lake Sheraton, weighing its scenic lakeside setting and facilities against a location well removed from central Hanoi."
+      },
+      {
+        "title": "Hotel Review: Sheraton Hanoi Hotel",
+        "source": "Miles Points Travel",
+        "url": "https://www.milespointstravel.com/2018/02/19/hotel-review-sheraton-hanoi-hotel/",
+        "published_date": "2018-02-19",
+        "summary": "A points-focused stay report praising the Club Lounge and the excellent Oven D'Or breakfast buffet, while noting the property's distance from the Old Quarter."
+      },
+      {
+        "title": "Is The Sheraton Hanoi Hotel Vietnam The Best Luxury Hotel In Hanoi?",
+        "source": "enSquaredAired",
+        "author": "Nancy",
+        "url": "https://www.ensquaredaired.com/sheraton-hanoi-hotel-vietnam/",
+        "published_date": "2018-11-03",
+        "summary": "First-person review highlighting a spacious executive suite, exceptional service and lounge pho, balanced against the remote location and somewhat dated feel."
+      },
+      {
+        "title": "Hotel Review: Sheraton Hanoi",
+        "source": "Prior2Boarding (The Reward Boss)",
+        "author": "The Reward Boss",
+        "url": "http://prior2boarding.com/hotel-review-sheraton-hanoi-clueless-vietnam-burned-shirt/",
+        "published_date": "2015-01-13",
+        "summary": "Detailed trip report calling the hotel great value on Starwood points with strong breakfast, but flagging the remote location and a poor laundry-pressing experience."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Hanoi Hotel Tour Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=Pwsgay-rvTI",
+        "video_id": "Pwsgay-rvTI"
+      },
+      {
+        "title": "Sheraton Hanoi Hotel Vietnam | Newly refurbished King bedroom Corner Suite with lounge access",
+        "channel": "Jason Mushroom",
+        "url": "https://www.youtube.com/watch?v=JIG9RN4g6tw",
+        "video_id": "JIG9RN4g6tw"
+      }
+    ]
+  },
+  "tags": [
+    "west-lake",
+    "tay-ho",
+    "lake-view",
+    "club-lounge",
+    "outdoor-pool"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/hanhs-sheraton-hanoi-hotel/overview/",
+      "label": "Official Sheraton Hanoi Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g21301834-d1533551-Reviews-Sheraton_Hanoi_Hotel-Tay_Ho_Hanoi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/hanhs-sheraton-hanoi-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "jw-marriott-hanoi",
+    "sheraton-hanoi-west",
+    "four-points-nha-trang"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 78
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 80
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 80
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,160 @@
+{
+  "entity_id": "four-points-nha-trang",
+  "slug": "four-points-nha-trang",
+  "name": "Four Points by Sheraton Nha Trang",
+  "category_id": "marriott-bonvoy",
+  "region_id": "nha-trang",
+  "short_description": "Four Points by Sheraton Nha Trang is a select-service contemporary high-rise in central Nha Trang, a few minutes' walk from Tran Phu Beach, with an outdoor pool, all-day dining and a poolside bar.",
+  "ai_summary": "Four Points by Sheraton Nha Trang is a select-service, contemporary high-rise hotel that opened in May 2025 in the centre of Nha Trang, a few minutes' walk from Tran Phu Beach and close to the city's night market and seafront promenade. It is the fourth Four Points in Vietnam and holds 225 rooms and suites aimed at the brand's mix of business and leisure travellers rather than resort-goers. Because the property is new, early independent coverage and guest feedback are limited but consistently positive: reviewers highlight bright, spotless, modern rooms, attentive and friendly front-desk and call-centre service, and a genuinely central location with restaurants, cafes and the beach within easy reach. Dining centres on The Mesh all-day restaurant, serving European and Vietnamese dishes, with light bites and cocktails at the poolside Riley's Bar. Facilities include an outdoor pool, a fitness centre and roughly 117 square metres of ballroom plus two smaller meeting rooms for events. Honest watch-outs reflect the format and its newness: this is a city hotel rather than a beachfront resort, so guests wanting sand at the doorstep will need the short walk to Tran Phu Beach; as a Four Points it offers a leaner facility set than a full-service Sheraton; and with only a small pool of reviews so far, long-term consistency of service and dining is not yet proven.",
+  "core_facts": {
+    "address": "6 Nguyen Chanh Street, Nha Trang Ward, Khanh Hoa Province, Vietnam",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Central Nha Trang, near Tran Phu Beach",
+    "distance_from_airport_km": 35,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Tran Phu Beach (Nha Trang city beach)",
+        "km": 0.3
+      },
+      {
+        "label": "Nha Trang Night Market",
+        "km": 1
+      }
+    ]
+  },
+  "pros": [
+    "Brand-new (May 2025) building with spotless, stylishly finished modern rooms",
+    "Central location within a few minutes' walk of Tran Phu Beach, cafes and the night market",
+    "Attentive, friendly front-desk and call-centre service praised in early reviews",
+    "All-day dining at The Mesh plus a poolside Riley's Bar and an outdoor pool"
+  ],
+  "cons": [
+    "A city high-rise, not a beachfront resort, so the beach is a short walk rather than at the door",
+    "Select-service Four Points format means fewer facilities than a full Sheraton or resort",
+    "Very new hotel with only a thin base of reviews, so long-term consistency is unproven"
+  ],
+  "research_highlights": [
+    "Opened May 29, 2025 as the fourth Four Points by Sheraton in Vietnam",
+    "225 contemporary rooms and suites with an outdoor pool, fitness centre and ~117 sqm ballroom",
+    "Central address on Nguyen Chanh Street, minutes from Tran Phu Beach"
+  ],
+  "research_watchouts": [
+    "This is a select-service city hotel, not a full-service beachfront resort",
+    "Coverage is thin and the property is new, so early praise may not reflect long-term consistency"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Nha Trang on the beach?",
+      "answer": "No, it is a central city high-rise rather than a beachfront resort, but Tran Phu Beach and Nha Trang's seafront promenade are only a few minutes' walk away, along with restaurants, cafes and the night market in the surrounding city centre."
+    },
+    {
+      "question": "When did the hotel open and how many rooms does it have?",
+      "answer": "The hotel opened on May 29, 2025 as the fourth Four Points by Sheraton in Vietnam. It has 225 contemporary guest rooms and suites, along with an outdoor pool, a fitness centre, all-day dining and a poolside bar in a modern high-rise building."
+    },
+    {
+      "question": "How far is the hotel from Cam Ranh International Airport?",
+      "answer": "Cam Ranh International Airport (CXR) sits south of the city, roughly 35 kilometres from the hotel, which is a drive of about 45 minutes depending on traffic. The property is in central Nha Trang rather than out near the airport or the southern resort strip."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Four Points - Nha Trang, Vietnam [Master Thread]",
+        "source": "FlyerTalk",
+        "url": "https://www.flyertalk.com/forum/marriott-marriott-bonvoy/2215547-four-points-nha-trang-vietnam-master-thread.html",
+        "summary": "Marriott Bonvoy community master thread tracking the new central Nha Trang property, with members sharing notes on location, rooms, Bonvoy stays and early impressions of the select-service hotel."
+      },
+      {
+        "title": "Four Points by Sheraton Nha Trang Hotel Opens",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/en/khai-truong-khach-san-four-points-by-sheraton-nha-trang",
+        "summary": "News feature on the hotel's May 2025 opening: 225 rooms, The Mesh all-day restaurant and Riley's Bar, an outdoor pool, gym and a 117 sqm ballroom, positioned as the fourth Four Points in Vietnam."
+      },
+      {
+        "title": "Premium stay experience at Four Points by Sheraton Nha Trang",
+        "source": "iVIVU Blog",
+        "url": "https://www.ivivu.com/blog/2026/01/four-points-by-sheraton-nha-trang-khach-san-quoc-te-moi-giua-thanh-pho-bien/",
+        "published_date": "2026-01-01",
+        "summary": "Vietnamese travel blog write-up of the new international hotel in central Nha Trang, covering its modern rooms, city-and-sea location near Tran Phu Beach, dining and pool for both business and leisure guests."
+      }
+    ],
+    "videos": [
+      {
+        "title": "[TravelLoung24][26-03] Four Points by Sheraton Nha Trang(포 포인츠 바이 쉐라톤 나트랑) 메리어트가 선보이는 가장 젊고 감각적인 휴양지",
+        "channel": "TravelLoung24",
+        "url": "https://www.youtube.com/watch?v=_l70uIrL32U",
+        "video_id": "_l70uIrL32U"
+      }
+    ]
+  },
+  "tags": [
+    "central-nha-trang",
+    "near-tran-phu-beach",
+    "outdoor-pool",
+    "select-service",
+    "new-hotel"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/cxrnp-four-points-nha-trang/overview/",
+      "label": "Official Four Points by Sheraton Nha Trang overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293928-d34025912-Reviews-Four_Points_by_Sheraton_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/cxrnp-four-points-nha-trang/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "jw-marriott-cam-ranh-bay",
+    "nha-trang-marriott-hon-tre",
+    "sheraton-nha-trang"
+  ],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 89
+      },
+      {
+        "label": "Rooms",
+        "score": 90
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-06",
+  "status": "needs_review"
+}

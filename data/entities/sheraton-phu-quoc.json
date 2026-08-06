@@ -1,0 +1,199 @@
+{
+  "entity_id": "sheraton-phu-quoc",
+  "slug": "sheraton-phu-quoc",
+  "name": "Sheraton Phu Quoc Long Beach Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phu-quoc",
+  "short_description": "Sheraton beachfront resort on Bai Dai Beach in northern Phu Quoc, beside the VinWonders theme park and Grand World, with a large ocean-view infinity pool, four dining outlets and private-pool villas.",
+  "ai_summary": "Sheraton Phu Quoc Long Beach Resort is a large European neoclassical property spread along Bai Dai Beach on the quiet northern tip of Phu Quoc Island, with 353 rooms, 28 suites and 78 villas. Independent reviewers consistently single out the beach and pool as the highlight: a wide, clean stretch of sand and a genuinely large ocean-view pool with a swim-up bar and separate kids' areas. The breakfast buffet also earns strong, repeated praise for its variety, with pho, dim sum, made-to-order eggs and even a sparkling-wine bar. Rooms and multi-bedroom private-pool villas are spacious and comfortable, making the resort a natural fit for families and groups, and the free shuttle to the adjacent VinWonders, Vinpearl Safari and Grand World complexes makes theme-park days easy. Bonvoy elites report friendly recognition, though lounge/elite perks are modest. The recurring watch-outs are the isolated location, roughly a 45-minute drive from Duong Dong town and the airport with little dining or shopping nearby, and uneven service: some guests describe a reserved, almost impersonal front desk and a slow QR-code drink-ordering system, while restaurant and bar staff are warmer. A few older villas and bathroom fixtures are described as dated despite ongoing renovations. Overall it reads as a solid, good-value resort best suited to travellers who want to settle in for several nights of beach, pool and nearby attractions rather than easy access to town.",
+  "core_facts": {
+    "address": "Bai Dai, Ganh Dau, Phu Quoc 920000, Kien Giang Province, Vietnam",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Ganh Dau (Bai Dai Beach), northern Phu Quoc",
+    "distance_from_airport_km": 38,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "VinWonders Phu Quoc",
+        "km": 1
+      },
+      {
+        "label": "Grand World Phu Quoc",
+        "km": 2
+      },
+      {
+        "label": "Vinpearl Safari Phu Quoc",
+        "km": 7
+      },
+      {
+        "label": "Duong Dong town centre",
+        "km": 30
+      }
+    ]
+  },
+  "pros": [
+    "Large ocean-view infinity pool with a swim-up bar, plus a wide, clean stretch of Bai Dai Beach",
+    "Consistently strong, varied breakfast buffet (pho, dim sum, made-to-order eggs, sparkling-wine bar)",
+    "Spacious neoclassical rooms and private-pool villas well suited to families and groups",
+    "Complimentary shuttle roughly every 30 minutes to VinWonders, Vinpearl Safari and Grand World"
+  ],
+  "cons": [
+    "Remote northern location, around 45 minutes from Duong Dong town with little dining or shopping nearby",
+    "Service can feel uneven, with a reserved front desk and a slow QR-code drink-ordering system",
+    "Some villas and bathroom fixtures feel dated and overdue for renovation"
+  ],
+  "research_highlights": [
+    "Large resort with 353 rooms, 28 suites and 78 villas on Bai Dai Beach",
+    "European neoclassical architecture with four on-site dining outlets and a Sheraton Spa",
+    "Rated 4.0/5 on TripAdvisor and set right beside VinWonders Phu Quoc"
+  ],
+  "research_watchouts": [
+    "The location is isolated; you will depend on the free shuttle or Grab/taxi for anything off-property.",
+    "Beach sunbeds and bungalows may carry a rental fee rather than being complimentary."
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Sheraton Phu Quoc Long Beach Resort located?",
+      "answer": "The resort sits on Bai Dai Beach in Ganh Dau, on the northern tip of Phu Quoc Island, Vietnam. It is roughly a 45-minute drive from Phu Quoc International Airport and sits right beside the VinWonders theme park and the Grand World entertainment complex."
+    },
+    {
+      "question": "How do guests get around from the resort?",
+      "answer": "The resort runs a complimentary shuttle bus roughly every 30 minutes to nearby attractions such as VinWonders, Vinpearl Safari and Grand World. For the airport or Duong Dong town, guests rely on complimentary airport transfers, taxis or Grab rides, since the location is fairly isolated from the rest of the island."
+    },
+    {
+      "question": "Is the resort a good choice for families?",
+      "answer": "Yes. Families appreciate the large main pool with a dedicated kids' area, the wide beach and spacious multi-bedroom villas with private pools. The free shuttle to VinWonders and Vinpearl Safari makes theme-park visits easy, and the varied breakfast buffet caters well to both children and adults."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Sheraton Phu Quoc Long Beach Resort | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Alexandrine Bertrand",
+        "url": "https://milesopedia.com/en/reviews/hotels/sheraton-phu-quoc-long-beach/",
+        "published_date": "2023-07-28",
+        "summary": "Rates the beachfront resort 8/10: spacious ocean-view rooms, a large central pool with in-water bar and good-value dining, but a remote northern location 30 minutes from town needing taxis or Grab."
+      },
+      {
+        "title": "Review: Sheraton Phu Quoc Island, Vietnam",
+        "source": "Travel Codex",
+        "author": "James Dozer",
+        "url": "https://www.travelcodex.com/review-sheraton-phu-quoc-vietnam/",
+        "summary": "A massive resort with spacious grounds, a clean ocean-view room and a large infinity pool with swim-up bar. Praises the great-value breakfast buffet but says it is not a true five-star property."
+      },
+      {
+        "title": "Phu Quoc Hotel Review: Sheraton Long Beach Resort",
+        "source": "MyTravelBuzzg",
+        "author": "Emily",
+        "url": "https://www.mytravelbuzzg.com/sheraton-phu-quoc-resort-review/",
+        "summary": "A family stay in a four-bedroom ocean-view villa with private pool praises staff hospitality, well-maintained pools and Vietnamese cuisine, but notes some villas feel dated and the 60-minute airport distance."
+      },
+      {
+        "title": "Sheraton Phu Quoc Review: Still Worth It After 6 Stays?",
+        "source": "Off The Map Asia",
+        "author": "Yuri",
+        "url": "https://offthemapasia.com/sheraton-phu-quoc-review/",
+        "published_date": "2026-07-21",
+        "summary": "After six visits, calls it solid value for families: standout breakfast with a sparkling-wine bar, a large pool and roomy two-bedroom pool villas, but a reserved front desk and very slow QR-code drink ordering."
+      },
+      {
+        "title": "Sheraton Phu Quoc Long Beach Resort: cold and soulless",
+        "source": "TravelGuys",
+        "author": "Bertrand Duperrin",
+        "url": "https://www.travelguys.fr/en/2024/02/27/sheraton-phu-quoc-long-beach-resort-cold-and-soulless/",
+        "published_date": "2024-02-27",
+        "summary": "A critical take: beautiful beach, pools and gym but an atmosphere he finds cold and soulless, with inefficient check-in and checkout, petty transfer policies and most restaurants closed during the stay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Room Tour : Senior Suite Garden View - Sheraton Phu Quoc Long Beach Resort",
+        "channel": "1916's family",
+        "url": "https://www.youtube.com/watch?v=yKYH7vSsf4s",
+        "video_id": "yKYH7vSsf4s"
+      },
+      {
+        "title": "Sheraton Phu Quoc Long Beach Resort | Phu Quoc Island, Vietnam | Hotel Review 🏩",
+        "channel": "Vietnam Hotel Odyssey",
+        "url": "https://www.youtube.com/watch?v=R1RrIfK7R8M",
+        "video_id": "R1RrIfK7R8M"
+      },
+      {
+        "title": "Sheraton Phu Quoc Room Tour 2025 | Room Tour & Honest First Look | Travel Vietnam",
+        "channel": "The Good Food and Lifestyle",
+        "url": "https://www.youtube.com/watch?v=UAKRxSmH4Ts",
+        "video_id": "UAKRxSmH4Ts"
+      }
+    ]
+  },
+  "tags": [
+    "bai-dai-beach",
+    "ganh-dau",
+    "beach-resort",
+    "family-friendly",
+    "infinity-pool"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/pqcsr-sheraton-phu-quoc-long-beach-resort/overview/",
+      "label": "Official Sheraton Phu Quoc Long Beach Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g12666019-d8774806-Reviews-Sheraton_Phu_Quoc_Long_Beach_Resort-Ganh_Dau_Phu_Quoc_Island_Kien_Giang_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/pqcsr-sheraton-phu-quoc-long-beach-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "jw-marriott-phu-quoc",
+    "four-points-nha-trang",
+    "jw-marriott-cam-ranh-bay"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 80
+      },
+      {
+        "label": "Service",
+        "score": 80
+      },
+      {
+        "label": "Rooms",
+        "score": 84
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 87
+      },
+      {
+        "label": "Value",
+        "score": 85
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}
