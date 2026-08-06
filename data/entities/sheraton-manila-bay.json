@@ -1,0 +1,193 @@
+{
+  "entity_id": "sheraton-manila-bay",
+  "slug": "sheraton-manila-bay",
+  "name": "Sheraton Manila Bay",
+  "category_id": "marriott-bonvoy",
+  "region_id": "manila",
+  "short_description": "Sheraton hotel in Manila's Malate district near Manila Bay, a rebranded former Pan Pacific with 233 rooms and a 21st-floor Pacific Lounge offering panoramic bay and skyline views.",
+  "ai_summary": "Sheraton Manila Bay is a 233-room, five-star hotel in the historic Malate district, a short walk from the Manila Bay baywalk and Robinson's Place mall. It opened under the Sheraton flag on 1 October 2019 after rebranding from the long-established Pan Pacific Manila, and much of that heritage carries over. Independent reviewers and points-community guests consistently single out the service: many front-line staff stayed on from the Pan Pacific era, and Bonvoy elites report warm welcomes, thoughtful upgrades and generous late checkouts. The breakfast buffet at the 21st-floor Pacific Lounge draws steady praise for its variety of local and international stations and its 360-degree views over Manila Bay and the skyline, while the Sunset Lounge and pool deck are relaxed spots to catch the bay's famous sunsets. Rooms are described as spacious, clean and comfortable, though several guests note the building itself feels dated and could use refurbishment compared with newer five-star rivals. Location is a double-edged asset: central and convenient for the cultural district and malls, but the immediate Malate streets can feel rough at night and the frontage has flooded during heavy typhoon rains. Value is seen as fair for a Bonvoy property in central Manila, with peak-time breakfast waits the most common operational gripe.",
+  "core_facts": {
+    "address": "M. Adriatico corner General Malvar Street, Malate, Manila, 1004, Philippines",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Malate (Manila Bay / cultural district)",
+    "distance_from_airport_km": 7,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Robinson's Place Manila",
+        "km": 0.5
+      },
+      {
+        "label": "Manila Bay Baywalk",
+        "km": 0.6
+      },
+      {
+        "label": "Rizal Park (Luneta)",
+        "km": 2.5
+      },
+      {
+        "label": "Intramuros",
+        "km": 3.5
+      },
+      {
+        "label": "SM Mall of Asia",
+        "km": 5
+      }
+    ]
+  },
+  "pros": [
+    "Attentive, genuinely warm service, with many staff retained from the Pan Pacific era",
+    "Extensive breakfast buffet at the 21st-floor Pacific Lounge with panoramic Manila Bay views",
+    "Spacious, clean rooms with floor-to-ceiling windows and skyline or bay outlooks",
+    "Central Malate location, walkable to Robinson's Place mall and the Manila Bay baywalk"
+  ],
+  "cons": [
+    "Building and some public areas feel dated and due for refurbishment",
+    "Immediate Malate streets can feel unsafe at night and flood during heavy rains",
+    "Breakfast and lounge can get crowded with long waits at peak times"
+  ],
+  "research_highlights": [
+    "Opened as Sheraton on 1 October 2019, rebranded from Pan Pacific Manila",
+    "Ranked around #83 of 1,370 Manila hotels on TripAdvisor with a 4.0 rating from roughly 1,975 reviews",
+    "233 rooms and suites with a 21st-floor Pacific Lounge and rooftop Sunset Lounge over Manila Bay"
+  ],
+  "research_watchouts": [
+    "This is the Malate 'Sheraton Manila Bay', distinct from the airport 'Sheraton Manila Hotel' at Newport World Resorts",
+    "Interiors carry over from the former Pan Pacific and can feel older than newer five-star competitors"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is Sheraton Manila Bay from Ninoy Aquino International Airport?",
+      "answer": "The hotel sits in Malate, roughly 7 km from Ninoy Aquino International Airport (NAIA / MNL), typically a 20 to 40 minute drive depending on Manila traffic. It is not the airport-adjacent Sheraton Manila Hotel at Newport World Resorts, which is a separate property beside Terminal 3."
+    },
+    {
+      "question": "Was Sheraton Manila Bay previously the Pan Pacific Manila?",
+      "answer": "Yes. The property operated for years as the Pan Pacific Manila before rebranding to Sheraton Manila Bay on 1 October 2019, joining Marriott Bonvoy. Many staff carried over, which reviewers credit for the strong, familiar service, though the building itself predates the Sheraton conversion and retains older interiors."
+    },
+    {
+      "question": "What can guests expect from the lounge and breakfast?",
+      "answer": "Breakfast and the club experience center on the 21st-floor Pacific Lounge, which offers a wide buffet of local and international dishes plus a 360-degree view of Manila Bay and the skyline. Eligible Bonvoy elites receive lounge access with breakfast and evening refreshments, though it can get busy at peak times."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Our Bittersweet Staycation at Sheraton Manila Bay",
+        "source": "Michi Photostory",
+        "author": "Michi",
+        "url": "https://www.michiphotostory.com/2021/07/our-bittersweet-staycation-at-sheraton.html",
+        "published_date": "2021-07-08",
+        "summary": "Blogger details an upgraded 40 sqm Executive room with skyline views, a generous Pacific Lounge breakfast buffet on the 21st floor, and warm staff who arranged early check-in and late checkout."
+      },
+      {
+        "title": "Pan Pacific Manila Rebrands to Sheraton Manila Bay",
+        "source": "Metro Staycation",
+        "author": "Ramil Delos Reyes",
+        "url": "https://www.metrostaycation.com/2019/09/pan-pacific-manila-rebrands-to-sheraton.html",
+        "published_date": "2019-09-05",
+        "summary": "Reports the Malate property's rebrand from Pan Pacific Manila to Sheraton Manila Bay, with Bonvoy bookings opening 1 October 2019, making it the second Sheraton in Metro Manila."
+      },
+      {
+        "title": "Sheraton Manila Bay, Philippines [Master Thread]",
+        "source": "FlyerTalk (Marriott | Marriott Bonvoy forum)",
+        "url": "https://www.flyertalk.com/forum/marriott-marriott-bonvoy/1980743-sheraton-manila-bay-philippines-master-thread.html",
+        "summary": "Points-community thread with firsthand stays: praise for retained Pan Pacific staff and top-notch service, elite suite upgrades and lounge breakfast, tempered by notes that the building needs a refresh."
+      }
+    ],
+    "videos": [
+      {
+        "title": "SHERATON MANILA BAY - Video Review (Room Tour)",
+        "channel": "Ricky Shetty",
+        "url": "https://www.youtube.com/watch?v=HyJr3F7KTOs",
+        "video_id": "HyJr3F7KTOs"
+      },
+      {
+        "title": "Sheraton Manila Bay Hotel Review & Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=EpHz6smY77I",
+        "video_id": "EpHz6smY77I"
+      },
+      {
+        "title": "Sheraton Manila Bay Hotel Staycation and Room Tour - 5 Star Hotel Review Malate Manila",
+        "channel": "Cathleen Dayao",
+        "url": "https://www.youtube.com/watch?v=2rsL5hX5K5c",
+        "video_id": "2rsL5hX5K5c"
+      },
+      {
+        "title": "ROOM TOUR: Sheraton Manila Bay, April 2023",
+        "channel": "Nini and Chichi",
+        "url": "https://www.youtube.com/watch?v=wnl0h28q9ww",
+        "video_id": "wnl0h28q9ww"
+      }
+    ]
+  },
+  "tags": [
+    "malate",
+    "manila-bay",
+    "bay-view-lounge",
+    "breakfast-buffet",
+    "family-staycation"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/mnlsb-sheraton-manila-bay/overview/",
+      "label": "Official Sheraton Manila Bay overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298573-d302289-Reviews-Sheraton_Manila_Bay-Manila_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/mnlsb-sheraton-manila-bay/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "manila-marriott-hotel-newport",
+    "the-westin-manila",
+    "sheraton-manila-hotel-newport"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 84
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 82
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 80
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+  "region_id": "da-nang",
+  "slug": "da-nang",
+  "label": "Da Nang",
+  "granularity": "city",
+  "parent_region_id": "vietnam",
+  "short_description": "Loyalty-program hotels across Da Nang and the Hoi An coast, from Han River city towers to the beach resorts along My Khe and Non Nuoc.",
+  "intro": "Da Nang's hotels in this directory split between two settings: the Han River waterfront in the city center -- walkable to the Dragon Bridge, downtown dining and the airport -- and the long beach strip running south down the coast, where resorts line My Khe, Bac My An and Non Nuoc beaches toward the Marble Mountains. The coverage stretches a little further south again to the Da Nang-Hoi An corridor, where beachfront resorts sit within easy reach of Hoi An's UNESCO ancient town. City-center hotels suit business and short stops near the airport; the beach and Hoi An-corridor resorts suit longer leisure stays.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

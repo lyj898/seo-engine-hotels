@@ -4,9 +4,9 @@
   "label": "Vietnam",
   "granularity": "country",
   "parent_region_id": null,
-  "short_description": "Loyalty-program hotels in Vietnam, concentrated in Ho Chi Minh City's central business and riverside districts.",
-  "intro": "Vietnam's coverage in this directory is centered on Ho Chi Minh City, where properties range from riverside towers overlooking the Saigon River to hotels near District 1's shopping and nightlife core.",
+  "short_description": "Loyalty-program hotels in Vietnam, across Ho Chi Minh City's business and riverside districts and the Da Nang-Hoi An coast.",
+  "intro": "Vietnam's coverage in this directory spans two settings: Ho Chi Minh City, where properties range from riverside towers overlooking the Saigon River to hotels near District 1's shopping and nightlife core; and the central coast around Da Nang, where hotels split between the Han River city center and the beach resorts running south along My Khe and Non Nuoc toward Hoi An's UNESCO ancient town.",
   "faqs": [],
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-06",
   "status": "active"
 }

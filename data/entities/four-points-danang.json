@@ -1,0 +1,187 @@
+{
+  "entity_id": "four-points-danang",
+  "slug": "four-points-danang",
+  "name": "Four Points by Sheraton Danang",
+  "category_id": "marriott-bonvoy",
+  "region_id": "da-nang",
+  "short_description": "Four Points by Sheraton Danang is a 36-storey beachfront high-rise on My Khe Beach along Vo Nguyen Giap Street, known for its top-floor Horizon rooftop bar and infinity pool with panoramic ocean views.",
+  "ai_summary": "Four Points by Sheraton Danang is a 390-room, 36-storey beachfront tower that opened in 2018 on Vo Nguyen Giap Street, directly across from My Khe Beach in the Son Tra district. Independent reviewers consistently describe it as a dependable five-star property offered at surprisingly modest rates, with spacious, modern rooms, many delivering sweeping ocean or city views from private balconies. Its signature draw is the 36th-floor Horizon Restaurant & Bar and adjacent infinity pool, praised for panoramic vistas over Da Nang Bay and the Son Tra Peninsula and for one of the longest craft-beer lists in the city. Breakfast at The Eatery earns strong marks for its extensive buffet and live Vietnamese noodle station, and service is described as attentive and well trained. Marriott Bonvoy elites highlight a dedicated members' breakfast room with sparkling wine as a distinctive touch. Watch-outs are consistent across sources: the hotel leans business-like and somewhat generic, lacking the character or charm of a boutique stay; reviewers note it can feel a little soulless despite its quality. Some cite coastal humidity or occasional dampness in rooms, elevator congestion during the breakfast rush, and street honking noise on lower floors. Its stretch of beach is quieter than the busiest sections. Overall it is a well-priced, comfortable base for beach access and day trips to Hoi An, Marble Mountains and other UNESCO sites, best suited to travelers prioritising value, views and facilities over local flavour.",
+  "core_facts": {
+    "address": "118-120 Vo Nguyen Giap Street, Phuoc My Ward, Son Tra District, Da Nang 550000, Vietnam",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "My Khe Beach, Phuoc My Ward, Son Tra District",
+    "distance_from_airport_km": 5,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "My Khe Beach",
+        "km": 0.1
+      },
+      {
+        "label": "Dragon Bridge (Cau Rong)",
+        "km": 3
+      },
+      {
+        "label": "Marble Mountains",
+        "km": 7
+      },
+      {
+        "label": "Hoi An Ancient Town",
+        "km": 27
+      }
+    ]
+  },
+  "pros": [
+    "Prime beachfront location directly across from My Khe Beach with easy sand access",
+    "36th-floor Horizon rooftop bar and infinity pool with panoramic Da Nang Bay and Son Tra views",
+    "Extensive, well-regarded breakfast buffet with a live Vietnamese noodle station",
+    "Strong five-star quality and facilities at reasonable rates, with a dedicated Bonvoy members' breakfast room"
+  ],
+  "cons": [
+    "Generic, business-like feel that reviewers say lacks character or local charm",
+    "Street honking noise and coastal humidity or dampness reported on some (especially lower) floors",
+    "Elevators get congested during the breakfast rush, and its beach stretch is quieter than busier sections"
+  ],
+  "research_highlights": [
+    "Opened in 2018; 390 rooms across a 36-storey beachfront tower",
+    "Rated 4 of 5 on TripAdvisor with over 1,000 traveller reviews, ranking around #9 in Phuoc My",
+    "Signature 36th-floor Horizon rooftop bar and infinity pool with one of Da Nang's longest craft-beer menus"
+  ],
+  "research_watchouts": [
+    "The property feels more business-oriented and generic than a resort, so travellers seeking boutique character may be disappointed",
+    "Some rooms report coastal dampness and lower floors get street noise, so request a higher floor"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is Four Points by Sheraton Danang from the airport?",
+      "answer": "The hotel sits about 5 kilometres from Da Nang International Airport (DAD), roughly a 15-minute drive. Its beachfront location on Vo Nguyen Giap Street also puts it within easy reach of the city centre, Dragon Bridge and day trips to Hoi An and the Marble Mountains."
+    },
+    {
+      "question": "Does the hotel have a rooftop bar and pool?",
+      "answer": "Yes. The 36th-floor Horizon Restaurant & Bar and its adjacent infinity pool are the property's signature features, offering panoramic views over My Khe Beach, Da Nang Bay and the Son Tra Peninsula, plus one of the longest craft-beer lists in the city and reasonably priced cocktails."
+    },
+    {
+      "question": "Is Four Points by Sheraton Danang good value for money?",
+      "answer": "Reviewers consistently rate it strong value, describing a genuine five-star beachfront property at modest nightly rates often around 80 to 100 US dollars. Guests praise spacious modern rooms, sea views, the rooftop pool and an extensive breakfast, though the atmosphere leans business-like rather than resort-style."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Four Points by Sheraton Danang",
+        "source": "Out of Town Blog",
+        "author": "Melo Villareal",
+        "url": "https://outoftownblog.com/hotel-review-four-points-by-sheraton-danang/",
+        "published_date": "2025-09-14",
+        "summary": "A five-star beachfront property at reasonable rates, praised for spacious modern rooms and the Horizon rooftop bar and pool; notes occasional room dampness and a business-oriented feel."
+      },
+      {
+        "title": "Four Points Danang by Sheraton | Independent Review",
+        "source": "Vietnam Coracle",
+        "author": "Tom Divers",
+        "url": "https://www.vietnamcoracle.com/four-points-sheraton-danang-independent-review/",
+        "published_date": "2022-10-01",
+        "summary": "An independent take on the 36-storey, ~400-room tower: high standards, sea-view rooms, quality breakfast and a great rooftop pool and bar, but a bland, soulless chain-hotel feel lacking local character."
+      },
+      {
+        "title": "Review: Four Points by Sheraton Danang (ft. rooftop bar & pool)",
+        "source": "Hotel Hobby",
+        "url": "https://www.hotelhobby.com/2023/02/review-four-points-by-sheraton-danang-rooftop-bar-pool.html",
+        "published_date": "2023-02-01",
+        "summary": "Detailed room-and-facilities review: 390 balcony rooms, extensive breakfast buffet, level-36 Horizon bar and pool, and a Bonvoy members' breakfast room; flags elevator crowding and lower-floor street noise."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Four Points by Sheraton Da Nang Hotel Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=jw0aHxGgJkA",
+        "video_id": "jw0aHxGgJkA",
+        "published_date": "2023-09-26"
+      },
+      {
+        "title": "Four Points by Sheraton Danang | Da Nang, Vietnam | Hotel Review 🏩",
+        "channel": "Vietnam and Hotels",
+        "url": "https://www.youtube.com/watch?v=Ws4bGdOkepk",
+        "video_id": "Ws4bGdOkepk",
+        "published_date": "2026-03-04"
+      },
+      {
+        "title": "Four Points by Sheraton Danang обзор отеля 5* Вьетнам",
+        "channel": "Banka Travel",
+        "url": "https://www.youtube.com/watch?v=NUrQIlLGxHY",
+        "video_id": "NUrQIlLGxHY",
+        "published_date": "2025-10-20"
+      }
+    ]
+  },
+  "tags": [
+    "my-khe-beach",
+    "beachfront",
+    "rooftop-bar",
+    "rooftop-pool",
+    "son-tra"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dadfp-four-points-danang/overview/",
+      "label": "Official Four Points by Sheraton Danang overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g19779171-d14025941-Reviews-Four_Points_by_Sheraton_Danang-Phuoc_My_Son_Tra_Peninsula_Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dadfp-four-points-danang/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "sheraton-grand-danang-beach-resort",
+    "courtyard-danang-han-river",
+    "danang-marriott-resort"
+  ],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 86
+      },
+      {
+        "label": "Rooms",
+        "score": 82
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 90
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

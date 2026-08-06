@@ -1,0 +1,12 @@
+{
+  "region_id": "philippines",
+  "slug": "philippines",
+  "label": "Philippines",
+  "granularity": "country",
+  "parent_region_id": null,
+  "short_description": "Loyalty-program hotels in the Philippines, concentrated across Metro Manila's business, bayfront and airport districts.",
+  "intro": "The Philippines' coverage in this directory is centered on Metro Manila, where properties span the Manila Bay waterfront, the Ortigas Center business district, and Newport City beside Ninoy Aquino International Airport. The mix runs from large integrated-resort hotels near the casinos and airport to compact select-service stays in the business centers.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

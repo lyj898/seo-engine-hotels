@@ -1,0 +1,172 @@
+{
+  "entity_id": "ac-hotel-manila",
+  "slug": "ac-hotel-manila",
+  "name": "AC Hotel by Marriott Manila",
+  "category_id": "marriott-bonvoy",
+  "region_id": "manila",
+  "short_description": "AC Hotels by Marriott's first Philippine property, a design-forward tower hotel high in Ortigas Center's LEED-Platinum GLAS Tower, with a 57th-floor indoor pool and 61st-floor rooftop bar.",
+  "ai_summary": "AC Hotel by Marriott Manila is the AC Hotels brand's first property in the Philippines, opened in late 2025 and formally launched in 2026 inside the LEED Platinum-certified, all-glass GLAS Tower in Ortigas Center, Pasig City. Occupying upper floors of the 61-storey tower, it offers 160 rooms and suites, an elevated 38th-floor lobby with an AC Lounge and AC Library, a 57th-floor indoor pool and 24-hour fitness center, and a 61st-floor rooftop AC Bar. Independent coverage from Philippine outlets consistently praises the European-inspired, minimalist design, the double-glazed floor-to-ceiling glass with panoramic skyline, golf course and sunset views, high ceilings up to 3.6 meters, and the cuisine at all-day-dining AC Kitchen, which some early guests rated among the best in the district. The property is pet-friendly and geared to business travelers, sitting minutes from The Podium, SM Megamall and Ortigas corporate hubs. As a brand-new opening, genuine guest feedback is still thin and mixed: while design, food and views draw praise, some early reviews flagged inconsistent service and room rates that feel high for a select-service tier. Marriott Bonvoy members earn and redeem points here, though dedicated executive-lounge elite benefits are limited by the select-service format.",
+  "core_facts": {
+    "address": "GLAS Tower, corner Ruby and Opal Road, Ortigas Center, Pasig City, Metro Manila, Philippines",
+    "brand_sub_brand": "AC Hotels by Marriott",
+    "neighborhood": "Ortigas Center, Pasig City",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "The Podium",
+        "km": 0.4
+      },
+      {
+        "label": "SM Megamall",
+        "km": 1.2
+      },
+      {
+        "label": "Wack Wack Golf & Country Club",
+        "km": 1.5
+      }
+    ]
+  },
+  "pros": [
+    "Striking European-minimalist design with floor-to-ceiling double-glazed glass and panoramic Ortigas skyline, golf course and sunset views",
+    "All-day-dining AC Kitchen earns early praise, blending European technique with Filipino ingredients",
+    "Prime Ortigas Center location within walking distance of The Podium, SM Megamall and corporate hubs",
+    "Notable amenities for the tier: 57th-floor indoor pool, 24-hour fitness center, AC Library and 61st-floor rooftop bar"
+  ],
+  "cons": [
+    "Some early guests reported inconsistent or below-expectation service as the new team settles in",
+    "Room rates feel high relative to the select-service positioning",
+    "Ortigas location is a 25-40 minute drive from NAIA airport depending on traffic"
+  ],
+  "research_highlights": [
+    "First AC Hotels by Marriott property in the Philippines, opened December 2025 / launched 2026",
+    "160 rooms across upper floors of the 61-storey, LEED Platinum-certified GLAS Tower",
+    "Signature spaces include a 38th-floor elevated lobby, 57th-floor indoor pool and 61st-floor rooftop AC Bar"
+  ],
+  "research_watchouts": [
+    "Brand-new hotel: independent guest reviews are still thin and coverage is largely opening-launch press",
+    "Positioned as select-distinct rather than five-star, so full-service and elite-lounge expectations should be tempered"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is AC Hotel by Marriott Manila located?",
+      "answer": "It occupies the upper floors of the GLAS Tower at the corner of Ruby and Opal Road in Ortigas Center, Pasig City, in Metro Manila. The location is walkable to The Podium and SM Megamall and roughly a 25 to 40 minute drive from Ninoy Aquino International Airport depending on traffic."
+    },
+    {
+      "question": "What dining and amenities does the hotel offer?",
+      "answer": "The all-day AC Kitchen serves European and Filipino dishes, while the AC Lounge and 61st-floor rooftop AC Bar handle tapas and cocktails. Guests also get a 57th-floor indoor swimming pool, a 24-hour fitness center, the AC Library workspace, an AC Store, and extensive meeting and ballroom event space."
+    },
+    {
+      "question": "Is this a good pick for Marriott Bonvoy members?",
+      "answer": "Yes for earning and redeeming Bonvoy points, and the design, views and food stand out. However, as a select-service AC Hotel it does not offer a full executive lounge, so elite guests expecting extensive lounge benefits should set expectations accordingly at this brand-new property."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "AC Hotel by Marriott Manila: everything you need to know",
+        "source": "PEP.ph",
+        "author": "Bernie V. Franco",
+        "url": "https://www.pep.ph/lifestyle/192398/ac-hotel-by-marriott-manila-everything-you-need-to-know-a717-20260531-lfrm",
+        "published_date": "2026-05-31",
+        "summary": "Rundown of the brand's first Philippine hotel in GLAS Tower: 160 rooms, a 20-meter 57th-floor pool, AC Kitchen dining, an 800sqm event floor, and a select-distinct service ethos."
+      },
+      {
+        "title": "AC Hotel by Marriott Manila",
+        "source": "Metro Staycation",
+        "author": "Ramil Delos Reyes",
+        "url": "https://www.metrostaycation.com/2026/05/ac-hotel-by-marriott-manila.html",
+        "published_date": "2026-05-01",
+        "summary": "Staycation-focused overview covering room categories from 30sqm Superiors to two-bedroom apartments, contemporary Spanish-inspired design, AC Kitchen and AC Lounge dining, and the indoor pool with sunset skyline views."
+      },
+      {
+        "title": "AC Hotel by Marriott Manila Ortigas Officially Opens",
+        "source": "Iconic MNL",
+        "author": "Iconic MNL",
+        "url": "https://iconicmnl.com/ac-hotel-by-marriott-manila-ortigas-officially-opens/",
+        "published_date": "2026-06-05",
+        "summary": "Launch feature on the flagship's design-led 'Perfectly Precise' concept, three dining venues under Chef Bonn Reyes, 57th-floor pool and gym, AC Library, and its LEED Platinum GLAS Tower setting."
+      },
+      {
+        "title": "Inside the newly launched AC Hotel by Marriott: a refined urban retreat",
+        "source": "Manila Bulletin",
+        "author": "Manila Bulletin",
+        "url": "https://mb.com.ph/2026/06/05/inside-the-newly-launched-ac-hotel-by-marriott-where-architecture-flavor-and-atmosphere-come-together-in-a-refined-urban-retreat",
+        "published_date": "2026-06-05",
+        "summary": "Major-newspaper feature on how the hotel's architecture, food and atmosphere combine into a refined Ortigas urban retreat, spotlighting the glass-tower views and European-Filipino dining."
+      }
+    ],
+    "videos": [
+
+    ]
+  },
+  "tags": [
+    "ortigas-center",
+    "pasig",
+    "design-hotel",
+    "rooftop-bar",
+    "new-opening"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/mnlac-ac-hotel-manila/overview/",
+      "label": "Official AC Hotel by Marriott Manila overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298453-d33956117-Reviews-AC_Hotel_by_Marriott_Manila-Pasig_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/mnlac-ac-hotel-manila/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "the-westin-manila",
+    "sheraton-manila-hotel-newport",
+    "manila-marriott-hotel-newport"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 78
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 85
+      },
+      {
+        "label": "Value",
+        "score": 76
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-06",
+  "status": "needs_review"
+}

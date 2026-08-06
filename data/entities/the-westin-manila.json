@@ -1,0 +1,200 @@
+{
+  "entity_id": "the-westin-manila",
+  "slug": "the-westin-manila",
+  "name": "The Westin Manila",
+  "category_id": "marriott-bonvoy",
+  "region_id": "manila",
+  "short_description": "A wellness-focused Westin high-rise in Manila's Ortigas Center business district, with 303 rooms, a Heavenly Spa, rooftop bar and the MICHELIN-selected Cantabria by Chele Gonzalez.",
+  "ai_summary": "The Westin Manila is a 32-storey, wellness-forward hotel that marked the Westin brand's re-entry to the Philippines when it opened in March 2023 in the Ortigas Center business district of Mandaluyong. The property offers 303 rooms and suites built around Westin's signature Heavenly Bed, plus floor-to-ceiling skyline views and thoughtful sleep and recovery touches. Independent reviewers consistently praise the warm, genuinely attentive Filipino hospitality, the comfortable and modern rooms, and the strong wellness program, which includes a Heavenly Spa by Westin, a swimming pool, and a WestinWORKOUT studio with Peloton equipment and guided RunWESTIN runs. Dining draws attention too: the MICHELIN-selected Cantabria by Chele Gonzalez serves Spanish cuisine on the upper floors, Seasonal Tastes handles all-day and buffet dining, and Aire rounds out the rooftop scene. Marriott Bonvoy elites and club-room guests enjoy a fourth-floor club lounge with all-day snacks and an evening buffet featuring rotating Filipino dishes. Watch-outs are modest and mostly operational: several guests note that breakfast and club-lounge service can feel disorganized or slow at peak times, and the business-district address means Manila traffic and roughly a 30-minute-plus transfer to the airport rather than a leisure or beach setting. Overall the hotel earns solid marks on TripAdvisor and reads as a reliable, service-driven choice for business travelers, Bonvoy members, and city-based staycationers seeking a calm, wellness-oriented base near Ortigas transport and malls.",
+  "core_facts": {
+    "address": "San Miguel Avenue corner Lourdes Drive, Ortigas Center, Mandaluyong, Metro Manila, 1552, Philippines",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Ortigas Center, Mandaluyong",
+    "distance_from_airport_km": 11,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "MRT-3 Shaw Boulevard Station",
+        "km": 0.8
+      },
+      {
+        "label": "Robinsons Galleria",
+        "km": 1
+      },
+      {
+        "label": "SM Megamall",
+        "km": 1.6
+      }
+    ]
+  },
+  "pros": [
+    "Warm, genuinely attentive Filipino hospitality praised across independent reviews",
+    "Comfortable modern rooms with the signature Westin Heavenly Bed and skyline views",
+    "Strong wellness offering: Heavenly Spa, pool, WestinWORKOUT gym with Peloton and RunWESTIN",
+    "Central Ortigas Center location, walkable to MRT-3 Shaw Boulevard and major malls"
+  ],
+  "cons": [
+    "Breakfast and club-lounge service can feel disorganized or slow at busy times",
+    "Business-district setting means Manila traffic and a 30-minute-plus airport transfer",
+    "Premium pricing and no leisure or beach setting"
+  ],
+  "research_highlights": [
+    "Opened March 2023 as Westin's brand re-entry to the Philippines; 32-storey tower with 303 rooms including 57 suites",
+    "MICHELIN Selected Hotel, home to Cantabria by Chele Gonzalez, a MICHELIN-selected Spanish restaurant",
+    "Rated about 4.0 of 5 across 200-plus TripAdvisor reviews"
+  ],
+  "research_watchouts": [
+    "Business-district address means expect city traffic and no beach or resort setting",
+    "Some guests report inconsistent breakfast and club-lounge service"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is The Westin Manila from the airport?",
+      "answer": "The hotel sits in Ortigas Center, Mandaluyong, roughly 11 kilometers from Ninoy Aquino International Airport (MNL/NAIA). Depending on Manila traffic, the transfer typically takes about 30 to 45 minutes by car, so allow extra time for early departures or peak-hour arrivals."
+    },
+    {
+      "question": "Does The Westin Manila have a club lounge for Bonvoy elites?",
+      "answer": "Yes. A fourth-floor club lounge serves complimentary snacks and beverages through the day plus an evening happy-hour buffet with rotating Filipino dishes. Access is included for Marriott Bonvoy Platinum, Titanium and Ambassador Elite members, and for guests booking a club-category room or suite."
+    },
+    {
+      "question": "What dining and wellness facilities are available?",
+      "answer": "Dining includes the MICHELIN-selected Cantabria by Chele Gonzalez, all-day Seasonal Tastes, a lobby lounge and the rooftop Aire bar. Wellness facilities cover a Heavenly Spa by Westin, a swimming pool and a WestinWORKOUT studio with Peloton equipment plus guided RunWESTIN runs."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: The Westin Manila",
+        "source": "Pursuitist",
+        "author": "Ramsey Qubein",
+        "url": "https://pursuitist.com/hotel-review-the-westin-manila/",
+        "published_date": "2023-09-06",
+        "summary": "A glowing review highlighting the Heavenly Bed, skyline-view rooms, wellness touches like Hyperice recovery kits and a Peloton gym, and warm Filipino service, plus a well-regarded breakfast buffet."
+      },
+      {
+        "title": "Westin Manila Heavenly Staycation (First Look) - Awesome!",
+        "source": "Our Awesome Planet",
+        "author": "Anton Diaz",
+        "url": "https://awesome.blog/2023/04/westin-manila-staycation.html",
+        "published_date": "2023-04-30",
+        "summary": "An opening first-look praising the Heavenly Bed, club lounge buffet and homey feel in a business district, with a note that the pool ran cold and some amenities were still to open."
+      },
+      {
+        "title": "The Westin Manila",
+        "source": "Metro Staycation",
+        "author": "Ramil Delos Reyes",
+        "url": "https://www.metrostaycation.com/2023/03/the-westin-manila.html",
+        "published_date": "2023-03-13",
+        "summary": "A detailed soft-opening walkthrough covering the Heavenly Bed rooms, 24-hour gym and pool, and Ortigas location, noting the spa and Spanish restaurant were still due to open mid-2023."
+      },
+      {
+        "title": "The Westin Manila Staycation",
+        "source": "Esquire Philippines",
+        "url": "https://www.esquiremag.ph/culture/lifestyle/the-westin-manila-staycation-a2556-20250511",
+        "published_date": "2025-05-11",
+        "summary": "A magazine staycation feature on The Westin Manila's wellness positioning, rooms and dining in the Ortigas business district."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Westin Manila Hotel Review & Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=S24eO-DHIjo",
+        "video_id": "S24eO-DHIjo"
+      },
+      {
+        "title": "Deluxe Room (Corner) at The Westin Manila | Hotel Room Tour 🇵🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=XRq-BE4_Ks4",
+        "video_id": "XRq-BE4_Ks4"
+      },
+      {
+        "title": "Westin Suite at The Westin Manila | Hotel Room Tour 🇵🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=dYJCz9Hh42Y",
+        "video_id": "dYJCz9Hh42Y"
+      },
+      {
+        "title": "THE WESTIN MANILA Hotel Room Tour",
+        "channel": "Tess Mendoza",
+        "url": "https://www.youtube.com/watch?v=B374LdpXtOQ",
+        "video_id": "B374LdpXtOQ"
+      },
+      {
+        "title": "Not your typical Manila staycation… | Westin Manila Suite Tour… | @BakasyunistaPH ",
+        "channel": "Bakasyunista",
+        "url": "https://www.youtube.com/watch?v=80MwM8zb9cg",
+        "video_id": "80MwM8zb9cg"
+      }
+    ]
+  },
+  "tags": [
+    "ortigas-center",
+    "wellness-spa",
+    "business-hotel",
+    "club-lounge",
+    "michelin-dining"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/mnlwp-the-westin-manila/overview/",
+      "label": "Official The Westin Manila overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298451-d23911558-Reviews-The_Westin_Manila-Mandaluyong_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/mnlwp-the-westin-manila/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "ac-hotel-manila",
+    "sheraton-manila-bay",
+    "manila-marriott-hotel-newport"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 85
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 89
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 82
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,186 @@
+{
+  "entity_id": "sheraton-grand-danang-beach-resort",
+  "slug": "sheraton-grand-danang-beach-resort",
+  "name": "Sheraton Grand Danang Beach Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "da-nang",
+  "short_description": "Sheraton beachfront resort on Da Nang's tranquil Non Nuoc coast near the Marble Mountains, home to the city's longest infinity pool at 250 metres.",
+  "ai_summary": "The Sheraton Grand Danang is a large five-star beachfront resort set on the quieter Non Nuoc / Bac My An coast in the Ngu Hanh Son district, roughly midway between Da Nang and Hoi An and a short drive from the airport. Its signature feature, praised in nearly every independent review, is a 250-metre infinity pool billed as the longest in Da Nang, running parallel to a private stretch of soft-sand beach. Reviewers from Business Traveller, The Brag and other blogs consistently highlight spacious, contemporary sea- and pool-view rooms, Sheraton Signature Sleep beds, and genuinely warm, attentive service, with staff repeatedly singled out for going out of their way for families. The property is strongly family-oriented, with a kids' club, mini water park and children's beach zone, alongside a Shine Spa and multiple restaurants including the signature steak-and-seafood venue The Grill and beachfront La Plage. Breakfast buffets earn wide praise for variety and quality. Watch-outs are consistent too: the resort's location feels somewhat isolated, so guests can feel dependent on the property for meals, and on-site dining is considered expensive, leaving value opinions mixed. A handful of reviewers also flag inconsistency in maintenance or specific service touchpoints. Overall it reads as a reliably comfortable, well-run beach resort that excels for families and pool lovers.",
+  "core_facts": {
+    "address": "35 Truong Sa Street, Hoa Hai Ward, Ngu Hanh Son District, Non Nuoc Beach, Da Nang, Vietnam",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Ngu Hanh Son District, Non Nuoc / Bac My An Beach",
+    "distance_from_airport_km": 11,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Marble Mountains (Ngu Hanh Son)",
+        "km": 2
+      },
+      {
+        "label": "Da Nang city center",
+        "km": 10
+      },
+      {
+        "label": "Hoi An Ancient Town",
+        "km": 20
+      }
+    ]
+  },
+  "pros": [
+    "250-metre infinity pool (billed as Da Nang's longest) running along a quiet private beach",
+    "Warm, attentive service repeatedly praised, especially toward families",
+    "Spacious, modern sea- and pool-view rooms with Sheraton Signature Sleep beds",
+    "Strong family facilities: kids' club, mini water park, children's beach zone and varied dining"
+  ],
+  "cons": [
+    "Somewhat isolated location leaves guests reliant on the resort for meals and activities",
+    "On-site dining is considered pricey, making overall value feel mixed",
+    "Occasional reports of inconsistent maintenance or service touchpoints"
+  ],
+  "research_highlights": [
+    "Opened in 2018 as one of the first properties to meet Sheraton 'Grand' class criteria in the region",
+    "270 guest rooms and suites on a private Non Nuoc Beach frontage",
+    "Signature 250-metre infinity pool, widely cited as the longest in Da Nang"
+  ],
+  "research_watchouts": [
+    "Location is quiet and car-dependent; budget for taxis to Da Nang city or Hoi An",
+    "Dining on property is expensive with limited nearby alternatives"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is the resort from Da Nang International Airport?",
+      "answer": "The Sheraton Grand Danang sits on Non Nuoc Beach in the Ngu Hanh Son district, roughly 11 kilometres south of Da Nang International Airport, a drive of about 15 to 20 minutes depending on traffic. The resort can arrange airport transfers on request."
+    },
+    {
+      "question": "What is the resort best known for?",
+      "answer": "It is best known for its 250-metre infinity pool, billed as the longest in Da Nang, which runs parallel to a private beach. Reviewers also single out the spacious sea-view rooms, warm service, and extensive family facilities including a kids' club and mini water park."
+    },
+    {
+      "question": "Is the Sheraton Grand Danang good for families?",
+      "answer": "Yes. Independent reviews consistently rate it among the best family resorts in the area, citing the kids' club, children's water park and beach zone, spacious family suites, and staff who go out of their way for children. The huge pool and calm private beach add to its family appeal."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sheraton Grand Danang Review: A Family Beach Resort",
+        "source": "The OOO Blog",
+        "author": "Elif Adali",
+        "url": "https://www.theoooblog.com/post/sheraton-grand-danang-review",
+        "summary": "Family-focused review praising the 250m infinity pool, quiet Non Nuoc Beach setting, spacious sea-view rooms, and dining at The Grill and beachfront La Plage."
+      },
+      {
+        "title": "Hotel review: Sheraton Grand Danang Resort",
+        "source": "Business Traveller",
+        "url": "https://www.businesstraveller.com/tried-tested/hotel-review-sheraton-grand-danang-resort/",
+        "summary": "Trade-press verdict on the resort's scale and standout infinity pool, spacious 47sqm Deluxe rooms and plunge-pool suites, while noting the isolated location and food prices."
+      },
+      {
+        "title": "A Night In: Sheraton Grand Danang Resort, Vietnam",
+        "source": "Firstclasse",
+        "author": "Natalie Khoo",
+        "url": "https://firstclasse.com.my/lifestyle/travel/sheraton-grand-danang-resort-review/",
+        "published_date": "2019-12-23",
+        "summary": "Overview of the Ngu Hanh Son beachfront resort, the 250m infinity pool, ocean- and pool-view rooms, six restaurants and bars, kids' facilities and the Shine Spa."
+      },
+      {
+        "title": "The Sheraton Grand Danang Resort is incredible (Review)",
+        "source": "The Brag",
+        "author": "Christine Girgis",
+        "url": "https://thebrag.com/the-sheraton-grand-danang-resort-is-incredible-review/",
+        "published_date": "2022-06-29",
+        "summary": "Family review calling it the best kid-friendly resort they've stayed in, praising the 250m pool, kids' water park, spacious family suites and standout empathetic service."
+      }
+    ],
+    "videos": [
+      {
+        "title": "5 STAR - SHERATON GRAND DANANG  - Private Pool and Amazing Dining Experiences",
+        "channel": "Todd Hata",
+        "url": "https://www.youtube.com/watch?v=42xb8PwX_ro",
+        "video_id": "42xb8PwX_ro"
+      },
+      {
+        "title": "Sheraton Grand Da Nang Resort Review Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=1jOIsGulYqE",
+        "video_id": "1jOIsGulYqE"
+      },
+      {
+        "title": "Sheraton Grand Danang Beach Resort & Spa #pool #swimming #swimmingpool #swim",
+        "channel": "Seungjin Baek",
+        "url": "https://www.youtube.com/watch?v=SVSMLzgRzmc",
+        "video_id": "SVSMLzgRzmc"
+      }
+    ]
+  },
+  "tags": [
+    "non-nuoc-beach",
+    "beachfront-resort",
+    "infinity-pool",
+    "family-friendly",
+    "ngu-hanh-son"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dadsi-sheraton-grand-danang-beach-resort-and-spa/overview/",
+      "label": "Official Sheraton Grand Danang Beach Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298085-d13326393-Reviews-Sheraton_Grand_Danang_Beach_Resort_Spa-Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dadsi-sheraton-grand-danang-beach-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "danang-marriott-resort",
+    "four-points-danang",
+    "renaissance-danang-hoi-an-resort"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 85
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 88
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

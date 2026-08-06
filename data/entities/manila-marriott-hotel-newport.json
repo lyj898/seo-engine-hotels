@@ -1,0 +1,208 @@
+{
+  "entity_id": "manila-marriott-hotel-newport",
+  "slug": "manila-marriott-hotel-newport",
+  "name": "Manila Marriott Hotel at Newport World Resorts",
+  "category_id": "marriott-bonvoy",
+  "region_id": "manila",
+  "short_description": "Marriott Hotels' 570-room flagship at Newport World Resorts, directly across from NAIA Terminal 3, connected to a mall and casino and home to the largest hotel ballroom in the Philippines.",
+  "ai_summary": "Opened in 2009 and expanded with a West Wing, the Manila Marriott Hotel at Newport World Resorts is a large convention-and-airport property of roughly 570 rooms sitting directly across from NAIA Terminal 3 and linked to the Newport World Resorts mall, casino and entertainment complex by air-conditioned walkway. Independent reviewers consistently single out the breakfast and dinner buffets at Marriott Cafe as a genuine highlight, with a vast spread of Filipino and international dishes, plus a well-regarded Executive Lounge on the West Wing offering breakfast, afternoon tea and evening cocktails to elite members. Rooms are described as spacious, modern and comfortable, several with views over the adjacent Villamor golf course, and facilities include CRU Steakhouse, Quan Spa, a 24-hour fitness centre with sauna and multiple rooftop pools. Reviewers rate service highly by local standards, noting warm, professional staff, though some report the sheer scale of the lounge and hotel can leave it feeling understaffed at peak times, and a minority flag inconsistent service or occasional room odour and ventilation issues. The casino-and-convention setting makes public areas busy, and while the property is steps from Terminal 3, reaching the older NAIA terminals still means a short drive through Manila traffic. Overall it reads as a reliable, feature-rich choice for airport layovers, business travellers and staycationers who value dining, lounge access and one-roof convenience over a resort atmosphere.",
+  "core_facts": {
+    "address": "2 Resorts Drive, Newport City, Pasay City, Metro Manila 1309, Philippines",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Newport City (Newport World Resorts / Resorts World Manila), Pasay",
+    "distance_from_airport_km": 2,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "NAIA Terminal 3 (via Runway Manila walkway)",
+        "km": 0.4
+      },
+      {
+        "label": "Villamor Golf Course",
+        "km": 0.5
+      },
+      {
+        "label": "SM Mall of Asia",
+        "km": 8
+      },
+      {
+        "label": "Makati CBD",
+        "km": 10
+      },
+      {
+        "label": "Bonifacio Global City",
+        "km": 11
+      }
+    ]
+  },
+  "pros": [
+    "Unbeatable airport convenience, directly across from NAIA Terminal 3 via the covered Runway Manila walkway",
+    "Consistently praised breakfast and dinner buffets at Marriott Cafe with wide Filipino and international variety",
+    "Well-regarded West Wing Executive Lounge with breakfast, afternoon tea and evening cocktails for elite members",
+    "Spacious, modern rooms plus strong facilities: rooftop pools, Quan Spa, CRU Steakhouse and a 24-hour gym"
+  ],
+  "cons": [
+    "Large casino-and-convention setting means busy public areas and a non-resort atmosphere",
+    "Reaching the older NAIA terminals (T1/T2) still requires a short drive through Manila traffic",
+    "Some guests report inconsistent service at peak times and occasional room odour or ventilation issues"
+  ],
+  "research_highlights": [
+    "Opened in 2009 within Resorts World Manila; a later West Wing brought the total to around 570 rooms",
+    "The Marriott Grand Ballroom is billed as the largest hotel meeting space in the Philippines (~8,000 sqm)",
+    "TripAdvisor rating of 4.0/5 across roughly 2,900 reviews, ranked around #104 of 1,373 hotels in Pasay"
+  ],
+  "research_watchouts": [
+    "It is an airport/convention casino hotel, not a leisure resort, so expect crowds and a lively mall-and-gaming environment",
+    "Rates and lounge access can vary; the property being steps from T3 does not mean T1/T2 are equally close"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How close is the hotel to Ninoy Aquino International Airport?",
+      "answer": "It sits directly across from NAIA Terminal 3 and connects to it via the covered, air-conditioned Runway Manila walkway, making it ideal for layovers. The older Terminals 1 and 2 are a short drive away, typically 15 to 20 minutes depending on Manila traffic."
+    },
+    {
+      "question": "What dining and lounge options does the hotel offer?",
+      "answer": "Outlets include Marriott Cafe for its acclaimed buffet, CRU Steakhouse, and lobby lounges for coffee and drinks. Marriott Bonvoy Platinum, Titanium and Ambassador Elite members receive access to the West Wing Executive Lounge, which serves breakfast, all-day refreshments, afternoon tea and evening cocktails."
+    },
+    {
+      "question": "Is the Manila Marriott a good choice for a staycation or leisure stay?",
+      "answer": "Yes. Reviewers highlight spacious rooms, rooftop pools, Quan Spa and a 24-hour gym, plus direct access to the Newport World Resorts mall, casino and cinemas. Note it is a large convention and casino hotel, so public areas are lively rather than quiet and resort-like."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Manila Marriott Hotel Review: Ultimate Travel Convenience",
+        "source": "Pierre Blake",
+        "author": "Pierre Blake",
+        "url": "https://pierreblake.com/manila-marriott-hotel-review-ultimate-travel-convenience/",
+        "published_date": "2019-05-06",
+        "summary": "Rates the airport-adjacent hotel 8.5/10: modern rooms with golf-course views, peaceful rooftop pools, a strong gym and an excellent but understaffed Executive Lounge; facilities felt a touch bare-bones."
+      },
+      {
+        "title": "Hotel review: Marriott Hotel Manila",
+        "source": "Business Traveller",
+        "url": "https://www.businesstraveller.com/tried-tested/hotel-review-marriott-hotel-manila/",
+        "summary": "Business-focused review noting the hotel suits both work and leisure, with easy walkway access to NAIA Terminal 3, a very large West Wing Executive Lounge and the CRU steakhouse among dining options."
+      },
+      {
+        "title": "Manila Marriott Hotel | Vegan Luxury Hotel Review",
+        "source": "Vegan Food Quest",
+        "author": "Caryl",
+        "url": "https://www.veganfoodquest.com/hotel-resort-reviews/philippines/manila-marriott-hotel/",
+        "published_date": "2019-11-08",
+        "summary": "Praises the five-minutes-from-airport location and helpful staff who prepared off-menu vegan dishes and confirmed ingredients; buffet had vegan options but the room-service menu was limited for plant-based guests."
+      },
+      {
+        "title": "Marriott Hotel Manila, A Weekend Blur",
+        "source": "Lakad Pilipinas",
+        "author": "Christian Lucas Sangoyo",
+        "url": "https://www.lakadpilipinas.com/2015/08/marriott-hotel-manila-review.html",
+        "published_date": "2015-08-02",
+        "summary": "Recounts a weekend in a spacious 36 sqm Deluxe City View room, enjoying the pool, sauna and Jacuzzi, the Executive Lounge and Marriott Cafe dining; calls it a lovely getaway within the Newport City complex."
+      },
+      {
+        "title": "Manila Marriott Hotel Review: What To REALLY Expect If You Stay",
+        "source": "Oyster.com",
+        "url": "https://www.oyster.com/pasay/hotels/manila-marriott-hotel/",
+        "summary": "Editorial review of the large airport-and-casino hotel, covering its Newport World Resorts setting, dining and pool facilities and convention-hotel scale for travellers weighing a stay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Manila Marriott Hotel Review Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=SiD_E7wwrIU",
+        "video_id": "SiD_E7wwrIU",
+        "published_date": "2023-08-26"
+      },
+      {
+        "title": "Larger Guest Room (Manila Marriott Hotel) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=oO3A6BbfN5k",
+        "video_id": "oO3A6BbfN5k"
+      },
+      {
+        "title": "[4K] NEWPORT WORLD RESORTS! Luxury Motor Show Manila, Marriott Hotel Tour and more!",
+        "channel": "Alpha Libz",
+        "url": "https://www.youtube.com/watch?v=YfvXYxytvdc",
+        "video_id": "YfvXYxytvdc"
+      },
+      {
+        "title": "Today's Comfort | Manila Marriott Hotel Newport World Resorts",
+        "channel": "Newport World Resorts",
+        "url": "https://www.youtube.com/watch?v=QFunOHT7qXY",
+        "video_id": "QFunOHT7qXY"
+      }
+    ]
+  },
+  "tags": [
+    "newport-city",
+    "airport-hotel",
+    "casino-resort",
+    "breakfast-buffet",
+    "executive-lounge"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/mnlap-manila-marriott-hotel-at-newport-world-resorts/overview/",
+      "label": "Official Manila Marriott Hotel at Newport World Resorts overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298452-d1536444-Reviews-Manila_Marriott_Hotel_At_Newport_World_Resorts-Pasay_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/mnlap-manila-marriott-hotel-at-newport-world-resorts/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "sheraton-manila-hotel-newport",
+    "sheraton-manila-bay",
+    "the-westin-manila"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 84
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 90
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

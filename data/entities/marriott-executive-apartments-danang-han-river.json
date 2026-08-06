@@ -1,0 +1,133 @@
+{
+  "entity_id": "marriott-executive-apartments-danang-han-river",
+  "slug": "marriott-executive-apartments-danang-han-river",
+  "name": "Marriott Executive Apartments Danang, Han River",
+  "category_id": "marriott-bonvoy",
+  "region_id": "da-nang",
+  "short_description": "Marriott Executive Apartments Danang, Han River is a five-star extended-stay serviced residence in the central M Landmark Tower on Da Nang's riverfront, with fully equipped kitchen apartments and river views.",
+  "ai_summary": "Marriott Executive Apartments Danang, Han River is the first Marriott Executive Apartments in Vietnam, occupying the upper floors of the glass-clad M Landmark Tower on Bach Dang Street in central Da Nang. It offers 91 serviced apartments in studio, one-bedroom and two-bedroom layouts, each with a fully equipped kitchen, in-room washer-dryer and views over the Han River or city — a product aimed at extended stays, relocating professionals and families who prefer to self-cater. The setting is a clear strength: it sits directly on the riverfront within a short walk of Han Market, Da Nang Cathedral and the Dragon Bridge, and roughly ten minutes by car from Da Nang International Airport. Facilities include indoor and outdoor swimming pools, a fitness studio, a lobby lounge, an espresso bar and an all-day dining restaurant, with the M45 Rooftop Bar providing cocktails and panoramic views; several of these amenities are shared with the co-located Courtyard by Marriott Danang Han River in the same tower. Because the residence opened only in 2026, independent guest reviews and its TripAdvisor sample are still minimal, so long-term service consistency and housekeeping standards are not yet well established. Bookers should also note that, as an extended-stay serviced-apartment brand, on-site dining and resort-style facilities are more limited than at a full resort, and the property is a central-city riverfront address rather than a beachfront one, sitting about three kilometres from My Khe Beach across the river.",
+  "core_facts": {
+    "address": "58 Bach Dang Street, Hai Chau District, Da Nang, Vietnam",
+    "brand_sub_brand": "Marriott Executive Apartments",
+    "neighborhood": "Hai Chau — central Han River waterfront",
+    "distance_from_airport_km": 3,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Dragon Bridge",
+        "km": 1
+      },
+      {
+        "label": "Han Market",
+        "km": 0.8
+      },
+      {
+        "label": "My Khe Beach",
+        "km": 3
+      }
+    ]
+  },
+  "pros": [
+    "Central riverfront location on Bach Dang Street, walkable to Han Market, Da Nang Cathedral and the Dragon Bridge",
+    "Spacious apartments with fully equipped kitchens and in-room washer-dryers, well suited to long stays and families",
+    "Convenient to Da Nang International Airport, roughly ten minutes / about 3 km by car",
+    "Access to tower facilities including indoor and outdoor pools, a fitness studio and the M45 Rooftop Bar"
+  ],
+  "cons": [
+    "Brand-new property opened in 2026, with very little independent review history to gauge service consistency",
+    "Extended-stay serviced-apartment product offers more limited on-site dining and facilities than a full resort",
+    "Central-city riverfront setting is about 3 km from the beach (My Khe), so it is not a beachfront stay"
+  ],
+  "research_highlights": [
+    "First Marriott Executive Apartments in Vietnam, opened 2026",
+    "91 serviced apartments (studio, one- and two-bedroom) in the M Landmark Tower on the central Han River waterfront",
+    "Shares its tower and several facilities, including the M45 Rooftop Bar and pools, with the Courtyard by Marriott Danang Han River"
+  ],
+  "research_watchouts": [
+    "Opened in 2026, so independent guest reviews and the TripAdvisor sample are minimal and quality is not yet well established",
+    "This is the extended-stay Marriott Executive Apartments brand, distinct from the co-located Courtyard hotel — confirm which property you are booking"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Marriott Executive Apartments Danang, Han River located?",
+      "answer": "It sits at 58 Bach Dang Street in the Hai Chau district, on Da Nang's central Han River waterfront inside the M Landmark Tower. Guests are within a short walk of Han Market, Da Nang Cathedral and the Dragon Bridge, and roughly ten minutes by car from Da Nang International Airport."
+    },
+    {
+      "question": "How is it different from a normal hotel?",
+      "answer": "It is an extended-stay serviced-apartment residence, the first Marriott Executive Apartments in Vietnam. Its 91 studio, one- and two-bedroom apartments include fully equipped kitchens and in-room washer-dryers, making them suited to long stays, relocating professionals and families who prefer to self-cater rather than rely solely on restaurant dining."
+    },
+    {
+      "question": "What facilities are available on site?",
+      "answer": "Residents can use indoor and outdoor swimming pools, a fitness studio, a lobby lounge, an espresso bar and an all-day dining restaurant. The M45 Rooftop Bar offers cocktails with panoramic river views. Several facilities are shared with the co-located Courtyard by Marriott Danang Han River in the same tower."
+    }
+  ],
+  "tags": [
+    "han-river-waterfront",
+    "serviced-apartments",
+    "extended-stay",
+    "hai-chau",
+    "family-friendly"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dader-marriott-executive-apartments-danang-han-river/overview/",
+      "label": "Official Marriott Executive Apartments Danang, Han River overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298085-d34065195-Reviews-Marriott_Executive_Apartments_Danang_Han_River-Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dader-marriott-executive-apartments-danang-han-river/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-danang-han-river",
+    "four-points-danang",
+    "danang-marriott-resort"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 84
+      },
+      {
+        "label": "Rooms",
+        "score": 87
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-06",
+  "status": "needs_review"
+}

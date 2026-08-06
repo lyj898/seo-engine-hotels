@@ -1,0 +1,187 @@
+{
+  "entity_id": "danang-marriott-resort",
+  "slug": "danang-marriott-resort",
+  "name": "Danang Marriott Resort & Spa",
+  "category_id": "marriott-bonvoy",
+  "region_id": "da-nang",
+  "short_description": "Marriott Hotels beachfront resort on Da Nang's Non Nuoc Beach (formerly Vinpearl Luxury), with 239 rooms and suites, five pools and Quan Spa set opposite the Marble Mountains.",
+  "ai_summary": "Danang Marriott Resort & Spa is a beachfront five-star property on Non Nuoc Beach in the Ngu Hanh Son district, roughly 15 km south of Da Nang and opposite the Marble Mountains. Formerly Vinpearl Luxury Da Nang, it was rebranded under Marriott Bonvoy in September 2022 and comprises 239 guest rooms and suites in the main building. Independent reviewers consistently praise the spacious accommodations, many with private balconies and sweeping ocean and pool views, and single out the warm, attentive service, with staff greetings and personalized housekeeping notes cited repeatedly. The five outdoor pools, including two central infinity pools, and the wide, well-kept beach are recurring highlights, as is a generous breakfast buffet blending international and Vietnamese dishes at Goji Kitchen + Bar, complemented by refined Vietnamese cuisine at Madame Son and beachfront seafood grills. Suite guests gain Executive Lounge access. Honest watch-outs recur: the setting is peaceful but isolated, around 15 to 20 minutes from central Da Nang, so dining beyond the resort requires a drive; some interiors show their age given the property's pre-Marriott history; and the main breakfast venue can feel small and noisy at peak times. With a solid TripAdvisor base and broad independent coverage, it reads as a relaxed, family-friendly beach resort best suited to travelers prioritizing beach, pools and service over nightlife or a central location.",
+  "core_facts": {
+    "address": "7 Truong Sa Street, Hoa Hai Ward, Ngu Hanh Son District, Da Nang, Vietnam",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Non Nuoc Beach, Ngu Hanh Son District",
+    "distance_from_airport_km": 15,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Marble Mountains",
+        "km": 3
+      },
+      {
+        "label": "Da Nang city centre",
+        "km": 10
+      },
+      {
+        "label": "Hoi An Ancient Town",
+        "km": 20
+      }
+    ]
+  },
+  "pros": [
+    "Spacious ocean-view rooms and suites with private balconies overlooking the pools and beach",
+    "Consistently warm, attentive service noted across independent reviews",
+    "Direct access to a wide, quiet Non Nuoc Beach plus five pools, including two infinity pools",
+    "Extensive breakfast buffet blending international and Vietnamese options"
+  ],
+  "cons": [
+    "Isolated location roughly 15 to 20 minutes from central Da Nang with limited dining outside the resort",
+    "Some interiors show their age, reflecting the property's former Vinpearl Luxury era",
+    "Main breakfast restaurant can feel small and noisy at peak times"
+  ],
+  "research_highlights": [
+    "Rebranded to Marriott in September 2022 after operating as Vinpearl Luxury Da Nang",
+    "239 rooms and suites in the main building, with five outdoor pools and the Quan Spa",
+    "Fronts Non Nuoc Beach, named by Forbes among the world's most beautiful beaches, opposite the Marble Mountains"
+  ],
+  "research_watchouts": [
+    "This listing is the main resort building; the private-pool villas are a separate 'Non Nuoc Beach Villas' listing",
+    "Executive Lounge access is tied to suite bookings and elite status, so confirm lounge and dining availability before booking"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Danang Marriott Resort & Spa located and how far is the airport?",
+      "answer": "The resort sits on Non Nuoc Beach in the Ngu Hanh Son district of Da Nang, roughly 15 km (about 20 minutes) from Da Nang International Airport. It faces the Marble Mountains and is a short drive from both central Da Nang and Hoi An Ancient Town."
+    },
+    {
+      "question": "Is this the same property as the Non Nuoc Beach Villas?",
+      "answer": "No. This listing is the main resort building, offering guest rooms and suites, including Executive Ocean Suites with lounge access. The Danang Marriott Resort & Spa, Non Nuoc Beach Villas is a separate all-villa property with private-pool villas booked under its own listing, though both share the same beachfront complex."
+    },
+    {
+      "question": "What are the dining and pool facilities like?",
+      "answer": "The resort has five outdoor pools, including two central infinity pools, plus a spacious white-sand beach. Dining spans Goji Kitchen + Bar for international buffets, Madame Son for refined Vietnamese cuisine and beachfront seafood grills, with an extensive breakfast praised for its international and Vietnamese variety."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Danang Marriott Resort And Spa Review: A Relaxing Beachfront Getaway Packed With Family Fun",
+        "source": "Little Day Out",
+        "author": "Geraldine Leong",
+        "url": "https://www.littledayout.com/danang-marriott-resort-and-spa-review-a-relaxing-beachfront-getaway-family-fun/",
+        "published_date": "2023-10-11",
+        "summary": "Family-focused stay in a 108 sqm Executive Ocean Suite in the main building; praises five pools, the kids' club, spa and dining across Madame Son and beachfront venues."
+      },
+      {
+        "title": "We Review the Danang Marriott Resort & Spa",
+        "source": "Vanilla Luxury",
+        "author": "Natasha Tulsi",
+        "url": "https://www.vanillaluxury.sg/danang-marriott-resort-spa-review",
+        "published_date": "2025-04-09",
+        "summary": "Luxury-lifestyle review of an Executive Ocean Suite, highlighting five pools on Non Nuoc Beach, Madame Son's coconut menu, top-notch service and the 12-room Quan Spa."
+      },
+      {
+        "title": "Danang Marriott Resort & Spa | Review resort thuong luu co gi?",
+        "source": "iamkoo.net",
+        "author": "IAMKOO",
+        "url": "https://iamkoo.net/2024/04/14/danang-marriott-resort-spa-review-resort-thuong-luu-co-gi/",
+        "published_date": "2024-04-14",
+        "summary": "Detailed blogger review of a 110 sqm Executive Suite Ocean, praising two infinity pools, Goji Kitchen and Madame Son dining, and standout personalized housekeeping and staff service."
+      },
+      {
+        "title": "Vietnam family resort review: Danang Marriott Resort & Spa",
+        "source": "HoneyKids Asia",
+        "url": "https://honeykidsasia.com/marriott-danang-resort-spa-vietnam-hotel-review/",
+        "summary": "Family travel magazine review calling out lush grounds, five pools, a white-sand beach against the Marble Mountains, the kids' club and attentive service for families."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Danang Marriott Resort & Spa: An In-Depth Review | The Complete Tour of a 5-Star Paradise",
+        "channel": "Yogi Hotel Global",
+        "url": "https://www.youtube.com/watch?v=gJx6irAsUUs",
+        "video_id": "gJx6irAsUUs"
+      },
+      {
+        "title": "The Quiet Area of Da Nang | Marriott Beach Resort & Spa Review",
+        "channel": "Social Samy",
+        "url": "https://www.youtube.com/watch?v=Am58yeIxlF8",
+        "video_id": "Am58yeIxlF8"
+      },
+      {
+        "title": "Da Nang Marriott Resort Spa Vietnam - Hotel Review - Experience in full detail.",
+        "channel": "MenStyleFashion",
+        "url": "https://www.youtube.com/watch?v=HPy2NqEB1wc",
+        "video_id": "HPy2NqEB1wc"
+      }
+    ]
+  },
+  "tags": [
+    "non-nuoc-beach",
+    "beachfront-resort",
+    "family-friendly",
+    "spa-resort",
+    "da-nang"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dadmr-danang-marriott-resort-and-spa/overview/",
+      "label": "Official Danang Marriott Resort & Spa overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g27704560-d2179507-Reviews-Danang_Marriott_Resort_Spa-Ngu_Hanh_Son_Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/dadmr-danang-marriott-resort-and-spa/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "danang-marriott-resort-villas",
+    "sheraton-grand-danang-beach-resort",
+    "renaissance-danang-hoi-an-resort"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 85
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

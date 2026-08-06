@@ -1,0 +1,189 @@
+{
+  "entity_id": "sheraton-manila-hotel-newport",
+  "slug": "sheraton-manila-hotel-newport",
+  "name": "Sheraton Manila Hotel at Newport World Resorts",
+  "category_id": "marriott-bonvoy",
+  "region_id": "manila",
+  "short_description": "A modern Sheraton across from NAIA Terminal 3 within Newport World Resorts in Pasay, linked by skybridge and known for its large Vega saltwater pool and family-friendly bi-level loft rooms.",
+  "ai_summary": "Opened in 2019, the Sheraton Manila Hotel anchors the Newport World Resorts (formerly Resorts World Manila) complex directly across from Ninoy Aquino International Airport Terminal 3, connected by the Runway Manila skybridge. Independent reviewers consistently rank it among Manila's most convenient airport hotels, praising quick terminal access for transit stays and early flights. The roughly 390 rooms are described as spacious, modern and immaculately clean, with distinctive 71-square-metre bi-level loft rooms and many units offering plane-spotting airport views that delight families. The standout facility is the large Vega saltwater pool, which several bloggers call the best staycation pool in the city, complemented by Shine Spa, a fitness centre and a kids club. Dining draws strong marks: the S Kitchen buffet and Oori Korean BBQ are frequently highlighted, and breakfast is often called among the best in the Philippines. Elite guests value the 10th-floor Sheraton Club lounge, which unusually welcomes children and earns praise for personalized service and generous evening offerings. Watch-outs are modest: the interior decor is conservatively modern with little local Filipino character, lounge service can be inconsistent between visits, and the pool lacks sunset views because of surrounding towers. Because the property sits inside a busy casino and entertainment complex, expect a commercial rather than quiet residential setting. Overall, reviewers describe a polished, reliable and family-friendly stay whose location is difficult to beat.",
+  "core_facts": {
+    "address": "80 Andrews Avenue, Newport World Resorts, Barangay 183, Pasay City, Metro Manila 1309, Philippines",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Newport City / Newport World Resorts, Pasay",
+    "distance_from_airport_km": 1,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "NAIA Terminal 3",
+        "km": 0.5
+      },
+      {
+        "label": "Newport World Resorts mall & casino",
+        "km": 0.2
+      },
+      {
+        "label": "SM Mall of Asia",
+        "km": 5
+      }
+    ]
+  },
+  "pros": [
+    "Unbeatable location directly across NAIA Terminal 3, connected by the Runway Manila skybridge for effortless transit and early-flight stays",
+    "Large Vega saltwater pool widely rated among the best staycation pools in Manila",
+    "Attentive, personalized service, especially at the 10th-floor Sheraton Club lounge, which welcomes children",
+    "Strong dining with the S Kitchen buffet and Oori Korean BBQ, and breakfast often called among the best in the Philippines"
+  ],
+  "cons": [
+    "Conservatively modern decor with little local Filipino character",
+    "Club lounge service and food quality can be inconsistent between visits",
+    "Set inside a busy casino and entertainment complex, and the pool lacks sunset views due to surrounding towers"
+  ],
+  "research_highlights": [
+    "Opened in 2019 within the Newport World Resorts (formerly Resorts World Manila) integrated complex",
+    "Roughly 390 rooms, including first-of-its-kind bi-level 71-square-metre loft rooms",
+    "Located directly across NAIA Terminal 3, linked via the Runway Manila skybridge"
+  ],
+  "research_watchouts": [
+    "Two Sheraton hotels operate in Manila (this Newport/airport property and the newer Sheraton Manila Bay on Roxas Boulevard) — confirm you are booking the Newport one",
+    "The hotel sits inside a casino and entertainment complex, so expect a busy commercial setting rather than a quiet residential neighborhood"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is Sheraton Manila from Ninoy Aquino International Airport?",
+      "answer": "The hotel sits directly across from NAIA Terminal 3, roughly one kilometre away, and connects via the Runway Manila skybridge. Guests can reach the terminal in minutes on foot or by shuttle, making it one of Manila's most convenient airport hotels for transit stays and early departures."
+    },
+    {
+      "question": "Does Sheraton Manila have an executive lounge?",
+      "answer": "Yes. The Sheraton Club lounge occupies the 10th floor and opens daily from 6am to 10pm. Access is complimentary for Marriott Bonvoy Platinum Elite members and above, offering continental breakfast, all-day snacks and evening hors d'oeuvres. Notably, children are welcome in the lounge, which suits travelling families."
+    },
+    {
+      "question": "What dining and facilities does Sheraton Manila offer?",
+      "answer": "The hotel features S Kitchen for international and Filipino buffets, Oori Korean BBQ and a lobby bar. Recreation centres on the large Vega saltwater pool, plus a fitness centre, Shine Spa and a kids club. It is also directly connected to Newport World Resorts' malls, dining and casino."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Sheraton Manila - A Premium Airport Stay (Philippines)",
+        "source": "PointsPals",
+        "author": "Ladi",
+        "url": "https://www.pointspals.com/post/hotel-review-sheraton-manila-a-premium-airport-stay-philippines",
+        "published_date": "2025-05-12",
+        "summary": "Points-focused review rating the stay 9/10 for standout personalized service and an excellent executive lounge, with a minor wish for more local Filipino design touches in the otherwise conservative modern decor."
+      },
+      {
+        "title": "Sheraton Manila // Best Staycation in Manila 2022",
+        "source": "Our Awesome Planet",
+        "author": "Anton Diaz",
+        "url": "https://awesome.blog/2022/07/sheraton-manila-staycation.html",
+        "published_date": "2022-07-16",
+        "summary": "Family staycation review calling the huge Vega saltwater pool the best in Manila and praising S Kitchen and Oori Korean BBQ dining plus the new Shine Spa; notes the pool lacks sunset views due to surrounding buildings."
+      },
+      {
+        "title": "Sheraton Manila Hotel Review: Staycation with Kids",
+        "source": "Sheena Loves Sunsets",
+        "author": "Sheena Sy Gonzales",
+        "url": "http://sheenalovessunsets.com/sheraton-manila/",
+        "published_date": "2019-08-11",
+        "summary": "Staycation-with-kids review highlighting the heated saltwater pool, airport plane-spotting views, a family-friendly Sheraton Club that allows children, and quality S Kitchen buffets; overwhelmingly positive."
+      },
+      {
+        "title": "Sheraton Hotel Manila Review: Convenient Luxury Hotel Guide",
+        "source": "Pierre Blake",
+        "author": "Pierre Blake",
+        "url": "https://pierreblake.com/sheraton-manila-hotel-review-convenient-luxury/",
+        "published_date": "2019-05-09",
+        "summary": "Rates the airport hotel 8.9/10, praising the soundproofing, brand-new rooms, generous executive lounge and buffets; notes no in-room coffee maker, a modest gym, and some facilities still unfinished at the time of the visit."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Manila Hotel at Newport World Resorts | Room Tour | Marriott Bonvoy Member",
+        "channel": "Ariel and Ara Studio",
+        "url": "https://www.youtube.com/watch?v=_a6U8jK5jiI",
+        "video_id": "_a6U8jK5jiI"
+      },
+      {
+        "title": "Sheraton Manila Hotel Tour | King Guest Room with Lounge Access & Airport View [ENG SUB]",
+        "channel": "Genti On The Go",
+        "url": "https://www.youtube.com/watch?v=306FmYquhtM",
+        "video_id": "306FmYquhtM"
+      },
+      {
+        "title": "Today's Comfort | Sheraton Manila Hotel, Newport World Resorts",
+        "channel": "Newport World Resorts",
+        "url": "https://www.youtube.com/watch?v=dr77uyoYUI8",
+        "video_id": "dr77uyoYUI8"
+      }
+    ]
+  },
+  "tags": [
+    "newport-city",
+    "airport-hotel",
+    "family-friendly",
+    "saltwater-pool",
+    "club-lounge"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/mnlsi-sheraton-manila-hotel-at-newport-world-resorts/overview/",
+      "label": "Official Sheraton Manila Hotel at Newport World Resorts overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298452-d33219854-Reviews-Sheraton_Manila_Hotel_at_Newport_World_Resorts-Pasay_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/mnlsi-sheraton-manila-hotel-at-newport-world-resorts/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "manila-marriott-hotel-newport",
+    "sheraton-manila-bay",
+    "the-westin-manila"
+  ],
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 92
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 90
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 87
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}
