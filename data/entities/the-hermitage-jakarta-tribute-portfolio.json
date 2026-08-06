@@ -1,0 +1,160 @@
+{
+  "entity_id": "the-hermitage-jakarta-tribute-portfolio",
+  "slug": "the-hermitage-jakarta-tribute-portfolio",
+  "name": "The Hermitage, a Tribute Portfolio Hotel, Jakarta",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A 90-room five-star boutique hotel set in a restored 1920s Art Deco building in the leafy Menteng district. Indonesia's first Tribute Portfolio property, blending colonial-era heritage with modern comforts, a rooftop pool and the La Vue rooftop bar.",
+  "ai_summary": "The Hermitage occupies a restored 1920s Art Deco landmark, originally a Dutch-era telephone/PTT office, in the tree-lined embassy district of Menteng. Launched in 2015 as Indonesia's first Tribute Portfolio hotel, it pairs colonial character with 90 spacious rooms and suites (from around 40 sqm), a ninth-floor rooftop pool and the La Vue rooftop bar. On TripAdvisor it holds roughly a 4.0 of 5 rating, ranked among Jakarta's mid-upper tier. Independent reviewers consistently praise the heritage architecture, generous room sizes, quiet yet central location and an impressive breakfast at Restaurant 1928 mixing Western and Indonesian dishes. Elite Marriott Bonvoy members report warm recognition, upgrades and responsive e-butler service via WhatsApp. Criticism is not uncommon: one detailed reviewer described chaotic breakfast service, inconsistent housekeeping and rooms that felt overpriced at rack rate, while others note the rooftop pool lacks a real skyline view and Jakarta traffic makes the airport run long. Overall the property reads as a characterful, service-led heritage stay that rewards points redemptions more than full cash rates.",
+  "core_facts": {
+    "address": "Jl. Cilacap No. 1, Menteng, Central Jakarta 10310, Indonesia",
+    "brand_sub_brand": "Tribute Portfolio",
+    "neighborhood": "Menteng, Central Jakarta",
+    "distance_from_airport_km": 25,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Distinctive 1920s Art Deco heritage building with genuine colonial character",
+    "Spacious, well-appointed rooms and suites in quiet, upscale Menteng",
+    "Well-regarded breakfast at Restaurant 1928 with Western and Indonesian options",
+    "Rooftop pool and La Vue bar plus warm elite-member recognition"
+  ],
+  "cons": [
+    "Service and breakfast consistency can be uneven (some chaotic-service reports)",
+    "Rooftop pool and rooms often lack a scenic skyline view",
+    "Feels overpriced at standard cash rates; long airport transfers in Jakarta traffic"
+  ],
+  "research_highlights": [
+    "Indonesia's first Tribute Portfolio hotel, opened 2015 in a restored Dutch-era Art Deco office building",
+    "Multiple independent reviewers rate it 8/10 or highly recommend it for heritage and service",
+    "Titanium/Platinum members report upgrades and WhatsApp e-butler service"
+  ],
+  "research_watchouts": [
+    "Breakfast and housekeeping service quality is inconsistent across reviews",
+    "Room count commonly cited as 90; a few listings say 9 floors — verify current inventory before publishing specifics"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "What makes The Hermitage Jakarta historically significant?",
+      "answer": "It occupies a 1920s Art Deco building (built by the Dutch, originally a telephone/PTT office) in the historic Menteng district, and was Indonesia's first Tribute Portfolio hotel when it launched in 2015."
+    },
+    {
+      "question": "Where is the hotel and how far is the airport?",
+      "answer": "It sits on Jl. Cilacap in Menteng, Central Jakarta, near embassies and the Jalan Surabaya antique market. Soekarno-Hatta International (CGK) is roughly 25 km away, but transfers can take an hour or more in heavy traffic."
+    },
+    {
+      "question": "Does the hotel have a pool and rooftop bar?",
+      "answer": "Yes. There is a rooftop pool on the ninth floor and the La Vue rooftop bar, plus a fitness center and spa. Reviewers enjoy the setting, though several note the pool lacks a wide skyline view."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: The Hermitage, a Tribute Portfolio Hotel, Jakarta",
+        "source": "Paliparan",
+        "author": "Koen",
+        "url": "https://paliparan.com/2019/12/08/review-hermitage-jakarta/",
+        "published_date": "2019-12-08",
+        "summary": "Enthusiastic review of the Menteng heritage hotel: spacious room, impressive Western/Indonesian breakfast buffet, delicious nasi goreng and exceptional service. Minor gripes: weak coffee and heavy airport traffic."
+      },
+      {
+        "title": "Review: The Hermitage, A Tribute Portfolio, Jakarta (1-Bedroom And Studio Suites)",
+        "source": "Suitesmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2022/08/17/review-the-hermitage-a-tribute-portfolio-jakarta-1-bedroom-and-studio-suites/",
+        "published_date": "2022-08-17",
+        "summary": "Mixed points-stay in studio and 1-bedroom suites. Good value on redemption and elite recognition, but flags chaotic breakfast service, loud housekeeping, poor pool/room views and AC issues. Overpriced at the ~$190 cash rate."
+      },
+      {
+        "title": "Review: The Hermitage Jakarta | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Etienne Werbinski",
+        "url": "https://milesopedia.com/en/reviews/hotels/the-hermitage-jakarta-marriott-bonvoy/",
+        "published_date": "2023-09-19",
+        "summary": "Titanium Elite reviewer scores it 8/10: upgraded to an executive suite, efficient check-in, a WhatsApp e-butler, quiet rooms and an impressive breakfast at Restaurant 1928. Small aesthetic flaws and limited gym hours the only cons."
+      }
+    ],
+    "videos": [
+      {
+        "title": "THE HERMITAGE a Tribute Portfolio Hotel Jakarta - REVIEW HOTEL",
+        "channel": "Geng3A",
+        "url": "https://www.youtube.com/watch?v=1f_GcO_Jkzk",
+        "video_id": "1f_GcO_Jkzk",
+        "published_date": "2021-05-28"
+      },
+      {
+        "title": "STAYCATION DI A TRIBUTE PORTFOLIO HOTEL PERTAMA DI ASIA TENGGARA  THE HERMITAGE JAKARTA",
+        "channel": "JALANJALANKTV",
+        "url": "https://www.youtube.com/watch?v=HUVxZNIagzw",
+        "video_id": "HUVxZNIagzw",
+        "published_date": "2021-02-24"
+      }
+    ]
+  },
+  "tags": [
+    "menteng",
+    "heritage",
+    "boutique"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jkttx-the-hermitage-a-tribute-portfolio-hotel-jakarta/overview/",
+      "label": "Official The Hermitage, a Tribute Portfolio Hotel, Jakarta overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d5555260-Reviews-The_Hermitage_a_Tribute_Portfolio_Hotel_Jakarta-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jkttx-the-hermitage-a-tribute-portfolio-hotel-jakarta/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "sari-pacific-jakarta-autograph-collection",
+    "aloft-jakarta-wahid-hasyim",
+    "le-meridien-jakarta"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 83
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 82
+      },
+      {
+        "label": "Value",
+        "score": 77
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

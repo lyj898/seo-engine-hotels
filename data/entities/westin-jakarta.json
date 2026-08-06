@@ -1,0 +1,180 @@
+{
+  "entity_id": "westin-jakarta",
+  "slug": "westin-jakarta",
+  "name": "The Westin Jakarta",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A high-rise Westin occupying the top 20 floors (roughly the 50th to 69th) of Gama Tower in Kuningan, among the tallest hotels in Indonesia, with a sky-high lobby, panoramic city views and the rooftop Henshin restaurant and bar.",
+  "ai_summary": "The Westin Jakarta sits atop Gama Tower in the Kuningan business district, occupying roughly floors 50 to 69 of one of Jakarta's tallest buildings. The lobby opens on the 52nd floor and guestrooms climb higher, so the property's defining feature is elevation: floor-to-ceiling windows deliver sweeping views across the CBD and beyond, and the rooftop Henshin restaurant and bar rank among the highest in the country. TripAdvisor rates it 4.0 of 5 (about 1,340 reviews, ranked around #102 of Jakarta hotels). Reviewers consistently praise the large, modern rooms with the Westin Heavenly Bed, the spectacular views, and an extensive Seasonal Tastes breakfast buffet blending Indonesian and international dishes. Service reviews are mostly warm, with several guests citing staff going above and beyond, though at least one detailed review flagged rigid, rule-bound service and inflexible lounge policies. The Kuningan location is central for business travelers, though the drive to Soekarno-Hatta airport runs roughly 40 to 60 minutes depending on traffic. Overall it reads as a strong-value Marriott Bonvoy property prized for its views and comfort.",
+  "core_facts": {
+    "address": "Gama Tower, Jl. H.R. Rasuna Said Kav. C-22A, Karet Kuningan, Setiabudi, South Jakarta 12940, Indonesia",
+    "brand_sub_brand": "Westin",
+    "neighborhood": "Kuningan, South Jakarta",
+    "distance_from_airport_km": 27,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Spectacular high-floor panoramic views over Jakarta from rooms and public spaces",
+    "Large, modern rooms with the signature Westin Heavenly Bed",
+    "Extensive Seasonal Tastes breakfast buffet mixing Indonesian and international dishes",
+    "Rooftop Henshin restaurant and bar among the highest in Indonesia"
+  ],
+  "cons": [
+    "Service can feel rigid and rule-bound, with inflexible lounge policies noted by some guests",
+    "Airport transfer is roughly 40-60 minutes in Jakarta traffic",
+    "Some rooms have views partly obstructed by neighboring towers"
+  ],
+  "research_highlights": [
+    "Occupies the top ~20 floors of Gama Tower; lobby begins on the 52nd floor",
+    "TripAdvisor 4.0/5 across ~1,340 reviews; multiple independent bloggers rate it strong value on Marriott Bonvoy points",
+    "Rooftop Henshin (Peruvian-Japanese) billed as the tallest restaurant in Indonesia"
+  ],
+  "research_watchouts": [
+    "Service consistency is uneven: praised as attentive by most but described as robotic/stringent in a detailed 2023 review",
+    "Distance/time to CGK airport varies widely with traffic; treat 27 km / ~45 min as approximate"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "What makes The Westin Jakarta special?",
+      "answer": "It occupies the top roughly 20 floors of Gama Tower, one of Jakarta's tallest buildings, with the lobby on the 52nd floor. Floor-to-ceiling windows give sweeping city views, and the rooftop Henshin restaurant and bar are among the highest in Indonesia."
+    },
+    {
+      "question": "How far is the hotel from Soekarno-Hatta airport?",
+      "answer": "It is roughly 27 km from Soekarno-Hatta International Airport (CGK), typically a 40 to 60 minute drive depending on Jakarta traffic."
+    },
+    {
+      "question": "Is the breakfast good at The Westin Jakarta?",
+      "answer": "Yes. Reviewers repeatedly highlight the Seasonal Tastes breakfast buffet for its large spread of Indonesian and international dishes, cook-to-order stations and healthy SuperFoodsRx options."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Why My Stay at The Westin Jakarta Highlighted Exceptional Marriott Value [Review]",
+        "source": "Upgraded Points",
+        "author": "Ehsan Haque",
+        "url": "https://upgradedpoints.com/travel/hotels/westin-jakarta-review/",
+        "published_date": "2026-04-10",
+        "summary": "Praises the prime Kuningan location on floors 50-69 of Gama Tower, tremendous views, a modern room with the Heavenly Bed, staff who went above and beyond, and a strong Seasonal Tastes breakfast. Rates it solid value on 20,000 Bonvoy points."
+      },
+      {
+        "title": "Review: The Westin Jakarta (Renewal Room)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2023/06/20/review-the-westin-jakarta-renewal-room/",
+        "published_date": "2023-06-20",
+        "summary": "Architecturally impressive but operationally rigid. Loved the 68 sqm room with floor-to-ceiling windows, the breakfast buffet and city views, but scored service low, citing stringent rules and inflexible executive lounge policies."
+      },
+      {
+        "title": "Hotel Review: The Westin Jakarta (Era COVID-19)",
+        "source": "PinterPoin",
+        "author": "Edwin",
+        "url": "https://pinterpoin.com/hotel-review-the-westin-jakarta/",
+        "published_date": "2020-12-24",
+        "summary": "Overwhelmingly positive: a spacious ~92 sqm executive suite with a Heavenly Bed, attentive staff, and a standout club lounge with rotating hot dishes. Calls it one of the best Marriott properties in Jakarta; some room views obstructed."
+      },
+      {
+        "title": "The Westin Jakarta",
+        "source": "MILEtitude",
+        "author": "Aaron Chan",
+        "url": "https://miletitude.com/2020/07/18/the-westin-jakarta/",
+        "published_date": "2020-07-18",
+        "summary": "Spacious room with floor-to-ceiling windows and panoramic Kuningan CBD views; swift check-in recognizing Bonvoy status. Highlights the rooftop Henshin Peruvian-Japanese restaurant, billed as Indonesia's tallest, plus lounge breakfast."
+      },
+      {
+        "title": "[Hotel Review] The Westin Jakarta",
+        "source": "Flavorful Escape",
+        "author": "danieljiangg",
+        "url": "https://flavorfulescape.blogspot.com/2017/04/hotel-review-westin-jakarta.html",
+        "published_date": "2017-04-01",
+        "summary": "The 58 sqm Premium Room impressed with floor-to-ceiling windows over Jakarta and Heavenly Beds, though some amenities fell short. Nice staff touches; the Seasonal Tastes breakfast with cook-to-order options was the highlight."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Review The Westin Jakarta | Luxury Hotel in Central Jakarta",
+        "channel": "Gilbert Naibaho",
+        "url": "https://www.youtube.com/watch?v=Hs8XFT7Ri-k",
+        "video_id": "Hs8XFT7Ri-k"
+      },
+      {
+        "title": "GEDUNG LAIN KELIHATAN MUNGIL DARI SINI.. | The WESTIN Review | Hotel Mewah dan bagus di Jakarta",
+        "channel": "Bobo Cantik",
+        "url": "https://www.youtube.com/watch?v=R2wN424pHm8",
+        "video_id": "R2wN424pHm8"
+      },
+      {
+        "title": "ROOM TOUR WESTIN JAKARTA & HENSHIN RESTAURANT ROOFTOP",
+        "channel": "Laurin's Channel",
+        "url": "https://www.youtube.com/watch?v=Q6-VtbvykzA",
+        "video_id": "Q6-VtbvykzA"
+      }
+    ]
+  },
+  "tags": [
+    "kuningan",
+    "high-rise",
+    "business"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktwi-the-westin-jakarta/overview/",
+      "label": "Official The Westin Jakarta overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d10391433-Reviews-The_Westin_Jakarta-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktwi-the-westin-jakarta/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "st-regis-jakarta",
+    "jw-marriott-jakarta",
+    "sheraton-grand-jakarta-gandaria-city"
+  ],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 80
+      },
+      {
+        "label": "Rooms",
+        "score": 90
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 85
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

@@ -1,0 +1,116 @@
+{
+  "entity_id": "aloft-jakarta-kebon-jeruk",
+  "slug": "aloft-jakarta-kebon-jeruk",
+  "name": "Aloft Jakarta Kebon Jeruk",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A design-forward lifestyle hotel occupying the upper floors of AKR Tower in Kebon Jeruk, West Jakarta. Opened November 2025 with 150 rooms, a sky lobby, level-33 infinity pool, rooftop W XYZ bar and all-day Peranakan-inspired dining, directly connected to Museum MACAN and a short drive from Central Park mall.",
+  "ai_summary": "Aloft Jakarta Kebon Jeruk opened on 17 November 2025 as Marriott's newest Bonvoy lifestyle property in West Jakarta, occupying the upper floors of AKR Tower on Jalan Panjang. It is the Aloft brand's third hotel in Jakarta and directly connected to Museum MACAN, Indonesia's leading contemporary-art venue, with Central Park, Neo Soho and Mall Taman Anggrek all within roughly a 5 km radius. The 150-room property leans into the brand's music-and-design energy: a neon-and-LED sky lobby with skyline views, a level-33 infinity-edge pool, a 24-hour Re:charge gym, and more than 1,600 sqm of meeting and ballroom space. Rooms run from 27 sqm Sky King and Twin layouts to 52 sqm Sky Suites, with floor-to-ceiling windows, 55-inch smart TVs and complimentary Wi-Fi. Dining centres on CHIO CHIO all-day dining (Peranakan-inspired menu, buffet breakfast, weekend dim sum brunch) and the rooftop W XYZ bar with live music. Because the hotel is only months old, only a small number of early guest reviews exist and any rating should be read as provisional; the location suits business and lifestyle travellers more than tourists, with limited walkability nearby.",
+  "core_facts": {
+    "address": "AKR Tower, Jalan Panjang No. 5, Kebon Jeruk, West Jakarta 11530, Indonesia",
+    "brand_sub_brand": "Aloft",
+    "neighborhood": "Kebon Jeruk, West Jakarta (atop AKR Tower, connected to Museum MACAN; near Central Park mall)",
+    "distance_from_airport_km": 22,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Brand-new (Nov 2025) with fresh, modern rooms, floor-to-ceiling city views and a striking sky lobby",
+    "Strong lifestyle amenities: level-33 infinity pool, rooftop W XYZ bar with live music, 24-hour gym",
+    "Directly connected to Museum MACAN and a short drive from Central Park, Neo Soho and Mall Taman Anggrek",
+    "Sizeable meeting and ballroom space (1,600+ sqm) suited to events and corporate stays"
+  ],
+  "cons": [
+    "Limited immediate walkability; ride-hailing recommended and little of direct tourist interest at the doorstep",
+    "Very new, so service consistency and guest-review track record are still unproven",
+    "West Jakarta location is convenient for business and malls but far from the historic/CBD sightseeing core"
+  ],
+  "research_highlights": [
+    "Opening date confirmed by multiple press sources as 17 November 2025; 150 rooms confirmed",
+    "Set atop AKR Tower with sky lobby and pool on the upper floors (approx. levels 29 and 33), connected to Museum MACAN",
+    "Aloft's third Jakarta property and part of Marriott's growing Indonesia lifestyle footprint"
+  ],
+  "research_watchouts": [
+    "TripAdvisor page exists but with only a handful of early reviews; no reliable numeric rating could be independently verified",
+    "Nearly all online coverage is opening press releases or OTA/TripAdvisor listings; no substantive independent long-form review or verified YouTube tour was found"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "When did Aloft Jakarta Kebon Jeruk open?",
+      "answer": "The hotel opened on 17 November 2025 in the AKR Tower on Jalan Panjang, Kebon Jeruk, West Jakarta. As a new property it has only a small number of guest reviews so far."
+    },
+    {
+      "question": "How far is it from Soekarno-Hatta Airport and Central Park mall?",
+      "answer": "It is roughly a 30-minute drive (about 22 km) from Soekarno-Hatta International Airport (CGK), and around a 10-minute drive from Central Park mall, with Neo Soho and Mall Taman Anggrek also close by."
+    },
+    {
+      "question": "What facilities does the hotel have?",
+      "answer": "Highlights include a level-33 infinity-edge pool, a 24-hour Re:charge gym, the rooftop W XYZ bar, CHIO CHIO all-day dining, a neon-lit sky lobby, and over 1,600 sqm of meeting and ballroom space. It is also directly connected to Museum MACAN."
+    }
+  ],
+  "tags": [
+    "kebon-jeruk",
+    "west-jakarta",
+    "lifestyle"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktkj-aloft-jakarta-kebon-jeruk/overview/",
+      "label": "Official Aloft Jakarta Kebon Jeruk overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d33104322-Reviews-Aloft_Jakarta_Kebon_Jeruk-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktkj-aloft-jakarta-kebon-jeruk/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "aloft-jakarta-wahid-hasyim",
+    "aloft-south-jakarta",
+    "four-points-jakarta-thamrin"
+  ],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 88
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 83
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-05",
+  "status": "needs_review"
+}

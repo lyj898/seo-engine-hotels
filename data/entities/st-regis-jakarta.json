@@ -1,0 +1,182 @@
+{
+  "entity_id": "st-regis-jakarta",
+  "slug": "st-regis-jakarta",
+  "name": "The St. Regis Jakarta",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A 282-room St. Regis in Jakarta's Golden Triangle, opened 2022, pairing signature 24-hour butler service and a Bill Bensley-designed pool with Indonesian art, batik motifs and lavish dining.",
+  "ai_summary": "Opened in December 2022 in the heart of Jakarta's Golden Triangle business district, The St. Regis Jakarta has quickly established itself as one of the city's premier luxury addresses, holding a 4 of 5 rating on TripAdvisor from roughly 287 reviews. Reviewers across independent blogs are near-unanimous that service is the standout: the signature St. Regis butler service is available in every one of the 282 rooms, offering beverage, unpacking and daily pressing service, and staff are repeatedly described as proactive, warm and detail-obsessed. The property leans hard into Indonesian identity, weaving batik motifs and local art through interiors, with a golden entrance and a synchronized 'Sound of Light' kinetic chandelier show. Rooms are spacious (Grand Deluxe around 49 sqm) with balconies, marble bathrooms and winter-garden design. Dining draws strong praise, especially the Bel Etage breakfast and the acclaimed St. Regis Bar. The maximalist outdoor pool, designed by Bill Bensley, is a lounging highlight. The main recurring criticism is location-related: despite being central, the hotel is not walkable to malls or restaurants, so most outings require a 10-20 minute car ride, and the airport is roughly 45 minutes away.",
+  "core_facts": {
+    "address": "Jl. H. R. Rasuna Said Kav. C-22, Karet Kuningan, Setiabudi, South Jakarta, Jakarta 12920, Indonesia",
+    "brand_sub_brand": "St. Regis",
+    "neighborhood": "Setiabudi / Kuningan (Golden Triangle CBD), South Jakarta",
+    "distance_from_airport_km": 28,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Exceptional, proactive butler and staff service praised across every independent review",
+    "Spacious rooms (~49 sqm Grand Deluxe) with balconies and marble bathrooms",
+    "Standout dining: acclaimed Bel Etage breakfast and world-ranked St. Regis Bar",
+    "Striking design with Indonesian batik art and a Bill Bensley-designed maximalist pool"
+  ],
+  "cons": [
+    "Poor walkability; nearby malls, restaurants and attractions need a 10-20 minute car ride",
+    "Roughly 45 minutes from Soekarno-Hatta airport with no easy metro connection",
+    "Minor room niggles reported: limited towel rails and single washbasin in some categories"
+  ],
+  "research_highlights": [
+    "Signature 24/7 St. Regis butler service in all 282 rooms; Rolls-Royce house car noted",
+    "Outdoor pool designed by maximalist Bill Bensley with circular sofas and swim-up bar",
+    "Daily 6pm 'Sound of Light' kinetic chandelier show set to Indonesian composition"
+  ],
+  "research_watchouts": [
+    "Marriott overview page returned HTTP 403; address/room count corroborated via magazine and blog sources, not the official page directly",
+    "Located in CBD but not walkable; guests should budget for cars to reach dining and shopping"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "How far is The St. Regis Jakarta from Soekarno-Hatta airport?",
+      "answer": "The hotel is roughly 28 km from Soekarno-Hatta International Airport (CGK), typically about a 45-minute drive depending on Jakarta traffic. A house car service, including a Rolls-Royce, is available through the butler team."
+    },
+    {
+      "question": "Does every room at The St. Regis Jakarta include butler service?",
+      "answer": "Yes. The signature St. Regis butler service is available 24/7 in all 282 rooms and suites, covering beverage service, unpacking assistance and complimentary pressing of up to two garments per person daily."
+    },
+    {
+      "question": "What is the hotel best known for?",
+      "answer": "It is known for attentive service, Indonesian-inspired design with batik art, a Bill Bensley-designed outdoor pool, a strong breakfast at Bel Etage and the world-ranked St. Regis Bar."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: The St Regis Jakarta, a stunning city hotel",
+        "source": "Head for Points",
+        "author": "Rhys Jones",
+        "url": "https://www.headforpoints.com/2023/09/25/review-st-regis-jakarta-hotel/",
+        "published_date": "2023-09-25",
+        "summary": "Review praising the 49 sqm Grand Deluxe rooms with balconies and marble baths, the 'Sound of Light' chandelier show, butler service and excellent-value Bel Etage seafood buffet; notes slow JJA dining and a ~45-min airport transfer."
+      },
+      {
+        "title": "Review: The St. Regis Jakarta | Marriott Bonvoy",
+        "source": "Milesopedia",
+        "author": "Jean-Maximilien Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/the-st-regis-jakarta/",
+        "published_date": "2024-11-24",
+        "summary": "Scores it 9/10, highlighting comfortable Grand Deluxe rooms, a standout breakfast buffet, the world-ranked St. Regis Bar and 24/7 butler service with Rolls-Royce transfers; notes no suite upgrade at full occupancy."
+      },
+      {
+        "title": "The St. Regis Jakarta",
+        "source": "Glenn Tedja",
+        "author": "Glenn Tedja",
+        "url": "https://www.glenntedja.com/reviews/the-st-regis-jakarta",
+        "published_date": "2023-12-11",
+        "summary": "Rates it 87.5/100 (S Tier), citing proactive service, a superb multi-cuisine breakfast, the Rose Gourmand deli and Bill Bensley's maximalist pool; main gripe is weak walkability to malls and dining."
+      },
+      {
+        "title": "The St. Regis Jakarta: Socially Sophisticated is an Ode to Indonesian Art and Music",
+        "source": "DestinAsian",
+        "url": "https://destinasian.com/jakarta-hotels-the-st-regis-jakarta",
+        "summary": "Magazine feature framing the 282-room Kuningan hotel as an ode to Indonesian art and music, spotlighting its design aesthetic, suites, pool and guest rooms as a socially sophisticated luxury addition to Jakarta."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Caroline Astor Suite (The St Regis Jakarta) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=L2qPM242KT8",
+        "video_id": "L2qPM242KT8"
+      },
+      {
+        "title": "The St Regis JAKARTA HOTEL FULL REVIEW PART 1 /2 @ SETIA BUDI KUNINGAN SOUTH JAKARTA",
+        "channel": "DRelicious Story 4K",
+        "url": "https://www.youtube.com/watch?v=8pTMJ8tPluE",
+        "video_id": "8pTMJ8tPluE"
+      },
+      {
+        "title": "The St REGIS JAKARTA HOTEL BALLROOMS ROOMS TOUR & SUITES FULL REVIEW PART 2 /2 @ KUNINGAN SETIA BUDI",
+        "channel": "DRelicious Story 4K",
+        "url": "https://www.youtube.com/watch?v=fVmAdVey7DY",
+        "video_id": "fVmAdVey7DY"
+      },
+      {
+        "title": "HONEST REVIEW ST REGIS JAKARTA HOTEL'S || THE MOST EXPENSIVE & LUXURIOUS HOTEL IN JAKARTA",
+        "channel": "Jo And World",
+        "url": "https://www.youtube.com/watch?v=T2OUKqOUS-s",
+        "video_id": "T2OUKqOUS-s"
+      },
+      {
+        "title": "St. Regis Jakarta - Hotel Overview, 5-Star Luxury - Jakarta, Java - Indonesia",
+        "channel": "Travel with Nicola & Isabella",
+        "url": "https://www.youtube.com/watch?v=M9StDjEqvzE",
+        "video_id": "M9StDjEqvzE"
+      }
+    ]
+  },
+  "tags": [
+    "kuningan",
+    "luxury",
+    "butler-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktxr-the-st-regis-jakarta/overview/",
+      "label": "Official The St. Regis Jakarta overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d24843158-Reviews-The_St_Regis_Jakarta-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktxr-the-st-regis-jakarta/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "ritz-carlton-jakarta-mega-kuningan",
+    "jw-marriott-jakarta",
+    "westin-jakarta"
+  ],
+  "sentiment_scores": {
+    "overall": 89,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 84
+      },
+      {
+        "label": "Service",
+        "score": 96
+      },
+      {
+        "label": "Rooms",
+        "score": 90
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 92
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

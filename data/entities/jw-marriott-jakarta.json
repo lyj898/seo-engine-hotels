@@ -1,0 +1,161 @@
+{
+  "entity_id": "jw-marriott-jakarta",
+  "slug": "jw-marriott-jakarta",
+  "name": "JW Marriott Hotel Jakarta",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A 317-room luxury business hotel in Jakarta's Mega Kuningan golden triangle, surrounded by embassies and corporate towers, known for its Sailendra breakfast buffet and highly rated 29th-floor Executive Lounge.",
+  "ai_summary": "JW Marriott Hotel Jakarta sits in the upscale Mega Kuningan business district, encircled by embassies, corporate towers and neighbours like The Ritz-Carlton, making it a longtime favourite for business travellers and elite-status guests. It holds a 4.0 rating on TripAdvisor (roughly 2,000 reviews, ranked around #172 of 687 Jakarta hotels). Reviewers consistently single out two strengths: the Sailendra Restaurant breakfast buffet, repeatedly called one of the best in the city, and the 29th-floor Executive Lounge, praised for its panoramic skyline views, generous afternoon tea and evening cocktail spreads. Service earns warm praise, with staff described as attentive and quick to recognise returning and elite guests, though a few travellers note the experience can be inconsistent. Rooms are spacious and comfortable with marble bathrooms, but the recurring caveat is age: the hotel opened in 2001 and several guests feel it is dated and due for renovation, with occasional bathroom maintenance issues (slow drainage, flush problems). The central location is excellent for business and shopping but can mean heavy traffic, and the airport sits about an hour away. Overall a dependable, service-led luxury stay.",
+  "core_facts": {
+    "address": "Jl. DR Ide Anak Agung Gde Agung Kav E.1.2 No.1&2, Kawasan Mega Kuningan, Jakarta 12950, Indonesia",
+    "brand_sub_brand": "JW Marriott",
+    "neighborhood": "Mega Kuningan, South Jakarta",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Sailendra breakfast buffet rated among the best in Jakarta",
+    "Excellent 29th-floor Executive Lounge with skyline views and generous food",
+    "Warm, attentive service with strong elite and repeat-guest recognition",
+    "Central Mega Kuningan location near embassies, offices and shopping"
+  ],
+  "cons": [
+    "Property feels dated (opened 2001) and due for renovation",
+    "Occasional bathroom maintenance issues reported (drainage, flush)",
+    "Heavy area traffic and ~1 hour to the airport"
+  ],
+  "research_highlights": [
+    "Executive Lounge repeatedly cited as among the best in any Marriott, per multiple independent reviews",
+    "Sailendra buffet scored 9/10 for food quality in an independent suite review"
+  ],
+  "research_watchouts": [
+    "Multiple guests report the hotel feeling dated; verify renovation status before publishing",
+    "One 2025 review noted spa facilities (sauna/jacuzzi) temporarily closed without advance notice"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "How far is JW Marriott Hotel Jakarta from Soekarno-Hatta Airport (CGK)?",
+      "answer": "The hotel is about 30 km from Soekarno-Hatta International Airport, typically around an hour by car depending on traffic. Airport transfer is offered, and is included with some extended-stay packages."
+    },
+    {
+      "question": "What are the standout features of the hotel?",
+      "answer": "Guests most often praise the Sailendra Restaurant breakfast buffet, considered one of Jakarta's best, and the 29th-floor Executive Lounge with panoramic city views. The central Mega Kuningan location and attentive service are also frequently highlighted."
+    },
+    {
+      "question": "Is the hotel modern or dated?",
+      "answer": "The hotel opened in 2001 and, while well-maintained, several reviewers describe it as feeling somewhat dated compared to newer Jakarta properties. Rooms remain spacious and comfortable with marble bathrooms."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "JW Marriott Jakarta Review: Extended Stay Experience + Dining Options",
+        "source": "Michi Photostory",
+        "author": "Michi",
+        "url": "https://www.michiphotostory.com/2025/11/jw-marriott-jakarta-review-extended.html",
+        "published_date": "2025-11-17",
+        "summary": "Returning guest praises attentive service, the Sailendra buffet, Asuka Japanese dining, and an appealing extended-stay package with breakfast, airport transfer and daily laundry. Found the stay comfortable and convenient."
+      },
+      {
+        "title": "Review: JW Marriott Jakarta (1 Bedroom Suite)",
+        "source": "SuiteSmile",
+        "author": "Fai",
+        "url": "https://suitesmile.com/blog/2023/06/05/review-jw-marriott-jakarta-1-bedroom-suite/",
+        "published_date": "2023-06-05",
+        "summary": "Upgraded to an 84 sqm 1-Bedroom Suite; rated service 9/10 and value 9/10. Praised the large Executive Lounge with panoramic views and the extensive Sailendra breakfast (9/10). Main gripe: the 2001 property feels dated and needs renovation."
+      }
+    ],
+    "videos": [
+      {
+        "title": "JW Marriott Jakarta Hotel Tour Review ",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=YOb3_h9FHn0",
+        "video_id": "YOb3_h9FHn0"
+      },
+      {
+        "title": "HOTEL REVIEW JW Marriott Jakarta + ROOM TOUR Governor Suite + Executive Lounge JW Marriott",
+        "channel": "Fransiska Sonia Rickiyanto",
+        "url": "https://www.youtube.com/watch?v=j28Kc-VKioU",
+        "video_id": "j28Kc-VKioU"
+      },
+      {
+        "title": "ARRIVED AT JAKARTA || JW MARRIOTT HOTEL ROOM TOUR",
+        "channel": "Mercy Cagara",
+        "url": "https://www.youtube.com/watch?v=I86UKy_kIvs",
+        "video_id": "I86UKy_kIvs"
+      },
+      {
+        "title": "[360 Room Tour] Governor Suite | JW Marriott Jakarta",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=Ovck1qd5Hco",
+        "video_id": "Ovck1qd5Hco"
+      }
+    ]
+  },
+  "tags": [
+    "mega-kuningan",
+    "business",
+    "luxury"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktjw-jw-marriott-hotel-jakarta/overview/",
+      "label": "Official JW Marriott Hotel Jakarta overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d299758-Reviews-JW_Marriott_Hotel_Jakarta-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktjw-jw-marriott-hotel-jakarta/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "ritz-carlton-jakarta-mega-kuningan",
+    "st-regis-jakarta",
+    "westin-jakarta"
+  ],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 80
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 92
+      },
+      {
+        "label": "Value",
+        "score": 84
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

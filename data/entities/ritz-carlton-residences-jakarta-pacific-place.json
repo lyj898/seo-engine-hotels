@@ -1,0 +1,120 @@
+{
+  "entity_id": "ritz-carlton-residences-jakarta-pacific-place",
+  "slug": "ritz-carlton-residences-jakarta-pacific-place",
+  "name": "The Residences at The Ritz-Carlton Jakarta, Pacific Place",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "Luxury serviced residences managed by The Ritz-Carlton at the Pacific Place complex in SCBD — apartment-style, one-to-three-bedroom units built for extended and long-stays, distinct from the adjacent Ritz-Carlton Jakarta, Pacific Place hotel.",
+  "ai_summary": "The Residences at The Ritz-Carlton Jakarta, Pacific Place is a set of luxury serviced apartments managed by The Ritz-Carlton within the Pacific Place complex in SCBD (the Sudirman Golden Triangle), South Jakarta. This is a distinct property from the neighbouring Ritz-Carlton Jakarta, Pacific Place hotel: it offers roughly 139 apartment-style residences in one-, two- and three-bedroom layouts (about 80-91 sqm for one-bedrooms and around 133 sqm for two-bedrooms), each with full kitchens and cookware, washer/dryer, walk-in wardrobes, private balconies and floor-to-ceiling skyline windows — a format aimed at extended and long-stay guests and families rather than short leisure trips. Independent coverage is limited and OTA-skewed: the standalone TripAdvisor Residences listing carries roughly a 4/5 rating with few reviews, while Booking.com shows about 9.0 from ~283 verified reviews. Recurring praise centres on spacious value-for-money units, the discreet-yet-attentive service and the unbeatable location with direct access to Pacific Place Mall and Istora MRT. The main watch-out is service inconsistency at check-in — reports of rooms not ready by 3pm and thin onboarding on WiFi/breakfast details.",
+  "core_facts": {
+    "address": "Jalan Jenderal Sudirman Kav 52-53, Sudirman Central Business District (SCBD), South Jakarta 12190, Indonesia",
+    "brand_sub_brand": "The Ritz-Carlton",
+    "neighborhood": "SCBD / Sudirman (Golden Triangle), South Jakarta",
+    "distance_from_airport_km": 25,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Spacious apartment-style units (full kitchen, washer/dryer, walk-in wardrobe, balcony) ideal for families and long stays",
+    "Prime SCBD location with direct access to Pacific Place Mall and Istora MRT (~0.3 km)",
+    "Ritz-Carlton service standards with strong value-for-money for the space",
+    "Floor-to-ceiling skyline views from higher floors"
+  ],
+  "cons": [
+    "Service can be inconsistent at check-in — reports of rooms not ready by 3pm and limited onboarding info",
+    "Limited independent (non-OTA) review coverage, so guest sentiment is harder to verify",
+    "Long-stay/apartment format less suited to a short one-night leisure trip"
+  ],
+  "research_highlights": [
+    "Distinct serviced-residences property (code JKTPR) separate from the Ritz-Carlton hotel (JKTRT) at the same Pacific Place complex",
+    "~139 one/two/three-bedroom apartments designed for extended stays, with full kitchens and laundry",
+    "Direct mall access and MRT proximity in the SCBD Golden Triangle"
+  ],
+  "research_watchouts": [
+    "Unit count varies by source (132 vs 139) and apartment sizes are not consistently published",
+    "Most available reviews are OTA/TripAdvisor aggregate and mix the Residences with the hotel; treat ratings cautiously"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "Is this the same as the Ritz-Carlton Jakarta, Pacific Place hotel?",
+      "answer": "No. The Residences (property code JKTPR) are luxury serviced apartments managed by The Ritz-Carlton, separate from the Ritz-Carlton Jakarta, Pacific Place hotel (JKTRT), although both sit within the same Pacific Place complex in SCBD."
+    },
+    {
+      "question": "What kind of accommodation does it offer?",
+      "answer": "Apartment-style serviced residences in one-, two- and three-bedroom layouts, with full kitchens and cookware, washer/dryer, walk-in wardrobes, private balconies and floor-to-ceiling skyline windows — geared to extended and long-stay guests and families."
+    },
+    {
+      "question": "How far is it from Soekarno-Hatta International Airport (CGK)?",
+      "answer": "Roughly 25 km, about a 40-minute drive depending on Jakarta traffic."
+    },
+    {
+      "question": "What is nearby?",
+      "answer": "It has direct access to Pacific Place Mall, is about 0.3 km from Istora MRT station, and sits beside the Indonesia Stock Exchange in the SCBD/Sudirman business district."
+    }
+  ],
+  "tags": [
+    "scbd",
+    "serviced-residences",
+    "luxury"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktpr-the-residences-at-the-ritz-carlton-jakarta-pacific-place/overview/",
+      "label": "Official The Residences at The Ritz-Carlton Jakarta, Pacific Place overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d21306104-Reviews-The_Residences_at_the_Ritz_Carlton_Jakarta_Pacific_Place-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktpr-the-residences-at-the-ritz-carlton-jakarta-pacific-place/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "ritz-carlton-jakarta-pacific-place",
+    "mayflower-jakarta-marriott-executive-apartments",
+    "st-regis-jakarta"
+  ],
+  "sentiment_scores": {
+    "overall": 89,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 96
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 92
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 87
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

@@ -1,0 +1,159 @@
+{
+  "entity_id": "four-points-jakarta-thamrin",
+  "slug": "four-points-jakarta-thamrin",
+  "name": "Four Points by Sheraton Jakarta, Thamrin",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A 164-room select-service Four Points by Sheraton on Jalan M.H. Thamrin in central Jakarta's business and shopping district, walking distance to Sarinah, Plaza Indonesia and Grand Indonesia. Opened August 2016; all-day dining and a craft-beer lounge, 24-hour gym, but no swimming pool.",
+  "ai_summary": "Four Points by Sheraton Jakarta, Thamrin is a 164-room select-service hotel that opened in August 2016 on the main Jalan M.H. Thamrin artery in central Jakarta. Independent bloggers and guest reviews consistently rate its location as the standout: a 3-5 minute walk to Grand Indonesia and Plaza Indonesia, opposite Sarinah, near the Sabang culinary street, with a TransJakarta stop out front. It carries roughly a 4/5 score on TripAdvisor. Rooms are described as clean, modern and comfortable with plush Four Comfort beds, city views, work desks and free WiFi, though there is no bathtub. Dining centers on The Eatery (all-day international buffet, praised for varied Asian and Western breakfast) and the Best Brews lounge for local craft beers, plus a 24-hour Life Fitness gym. Service earns warm praise for friendly, attentive staff. The most common complaints are traffic noise from Thamrin-facing rooms (soundproofing is thin; earplugs or rear rooms help), occasionally unstable WiFi, and the absence of a swimming pool, which makes it better suited to business travelers than families. Overall it reads as dependable, well-located value in the city core.",
+  "core_facts": {
+    "address": "Jalan M.H. Thamrin Kav 9, Central Jakarta, Jakarta 10350, Indonesia",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Thamrin, Central Jakarta",
+    "distance_from_airport_km": 36,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Prime Thamrin location, walkable to Grand Indonesia, Plaza Indonesia and Sarinah",
+    "Warm, attentive and professional staff",
+    "Clean, modern rooms with comfortable beds and city views",
+    "Varied, well-regarded breakfast buffet at The Eatery"
+  ],
+  "cons": [
+    "Traffic noise from Jalan Thamrin, with thin soundproofing",
+    "No swimming pool; limited for families",
+    "WiFi reported as occasionally unstable"
+  ],
+  "research_highlights": [
+    "Central business-district location repeatedly called the hotel's strongest asset across independent blogs and reviews",
+    "Consistent praise for friendly service and a good-value breakfast",
+    "Best Brews lounge offers local craft and artisan beers on-site"
+  ],
+  "research_watchouts": [
+    "Marriott.com and TripAdvisor pages returned HTTP 403 and could not be fetched directly; room count (164), address and rating drawn from search snippets and independent blogs",
+    "Reported ~4/5 TripAdvisor rating and review counts vary by source and were not confirmed on the live TripAdvisor page"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "Does Four Points by Sheraton Jakarta, Thamrin have a swimming pool?",
+      "answer": "No. The hotel has a 24-hour gym with Life Fitness equipment but no swimming pool, which several guests note makes it better suited to business travelers than families."
+    },
+    {
+      "question": "How far is the hotel from Soekarno-Hatta International Airport (CGK)?",
+      "answer": "It is approximately 36 km from Soekarno-Hatta International Airport (CGK), typically an hour or more by car depending on Jakarta traffic."
+    },
+    {
+      "question": "What is there to do near the hotel?",
+      "answer": "It sits on Jalan M.H. Thamrin within a few minutes' walk of Grand Indonesia and Plaza Indonesia malls, Sarinah, and the Sabang culinary street, with a TransJakarta bus stop directly in front."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Staycation at Four Points by Sheraton, Thamrin, Jakarta.",
+        "source": "FoodVenturer.me",
+        "author": "FoodVenturer",
+        "url": "https://foodventurer.me/four-points-jakarta/",
+        "published_date": "2016-12-30",
+        "summary": "One-night Deluxe King stay praises the central location near Plaza and Grand Indonesia, clean bathroom, heavenly bed, a better-than-expected Asian/Western breakfast, and the Best Brews lounge. Notes no pool and Thamrin traffic noise."
+      },
+      {
+        "title": "Four Point By Sheraton, Low Budget Hotel Yang Rekomendasi Di Thamrin Jakarta",
+        "source": "MayaRumi.com",
+        "author": "Maya Rumi",
+        "url": "https://www.mayarumi.com/2021/08/four-point-by-sheraton-low-budget-hotel.html",
+        "published_date": "2021-08-10",
+        "summary": "Family staycation in a spacious, clean room with big-window city views and helpful staff. Room-service breakfast satisfied and free parking is a plus, but no bathtub or pool; rated budget-friendly and better for business than family."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Four Points Sheraton Jakarta || Hotel & Room Tour",
+        "channel": "GoAnywhere",
+        "url": "https://www.youtube.com/watch?v=h_TjleKNhFA",
+        "video_id": "h_TjleKNhFA",
+        "published_date": "2022-07"
+      },
+      {
+        "title": "Four Points by Sheraton Jakarta, Thamrin | Jakarta, Indonesia | Hotel Review 🛏️",
+        "channel": "Indonesian Dream Hotels",
+        "url": "https://www.youtube.com/watch?v=6CyXLTFCM5E",
+        "video_id": "6CyXLTFCM5E",
+        "published_date": "2025-12-15"
+      },
+      {
+        "title": "Four Points by Sheraton Jakarta, Thamrin | Jakarta, Indonesia | Hotel Review 🌟",
+        "channel": "Indonesia Hotel Paradise",
+        "url": "https://www.youtube.com/watch?v=ULLsBvvBsr0",
+        "video_id": "ULLsBvvBsr0",
+        "published_date": "2025-10-19"
+      }
+    ]
+  },
+  "tags": [
+    "thamrin",
+    "select-service",
+    "business"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jkttf-four-points-jakarta-thamrin/overview/",
+      "label": "Official Four Points by Sheraton Jakarta, Thamrin overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d10685732-Reviews-Four_Points_by_Sheraton_Jakarta_Thamrin-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jkttf-four-points-jakarta-thamrin/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "sari-pacific-jakarta-autograph-collection",
+    "aloft-jakarta-wahid-hasyim",
+    "le-meridien-jakarta"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 93
+      },
+      {
+        "label": "Service",
+        "score": 86
+      },
+      {
+        "label": "Rooms",
+        "score": 78
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 83
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

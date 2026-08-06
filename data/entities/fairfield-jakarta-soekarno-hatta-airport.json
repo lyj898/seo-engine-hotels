@@ -1,0 +1,141 @@
+{
+  "entity_id": "fairfield-jakarta-soekarno-hatta-airport",
+  "slug": "fairfield-jakarta-soekarno-hatta-airport",
+  "name": "Fairfield by Marriott Jakarta Soekarno-Hatta Airport",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A modern select-service Fairfield by Marriott airport hotel with 194 rooms just minutes from Soekarno-Hatta International (CGK), offering a scheduled airport shuttle, free breakfast, all-day dining and a 24-hour gym for layovers and short pre/post-flight stays.",
+  "ai_summary": "The Fairfield by Marriott Jakarta Soekarno-Hatta Airport is a clean, modern select-service hotel built for transit travellers, sitting only a few minutes' drive from CGK terminals. On TripAdvisor it holds roughly 4.0/5 across about 180 reviews and ranks around #24 of 91 hotels in Tangerang. Guests and reviewers consistently praise friendly, efficient staff, spotless contemporary rooms (around 29 sqm) with comfortable beds and good air-conditioning, and a fresh breakfast buffet mixing Indonesian favourites (bubur ayam, nasi goreng) with Western options cooked to order. The scheduled airport shuttle is the property's headline convenience and is generally reliable, though its fixed hourly timetable can be limiting for odd-hour flights. As a select-service hotel it is deliberately no-frills: there is no pool, no lounge and limited room service, and the breakfast room can feel crowded and chaotic at peak times. Some guests note thin soundproofing (audible door bangs) and modest elite recognition for Bonvoy members. Value is strong for the location, with rooms often available at budget rates. Overall it is a dependable, comfortable choice for anyone needing sleep close to the airport.",
+  "core_facts": {
+    "address": "Jl. Husein Sastranegara No. 8, Benda, Tangerang, Banten 15125, Indonesia",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "Benda, Tangerang (Soekarno-Hatta Airport area, Greater Jakarta)",
+    "distance_from_airport_km": 3,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Very close to Soekarno-Hatta (CGK) with a reliable scheduled airport shuttle",
+    "Clean, modern, comfortable rooms with good beds and air-conditioning",
+    "Consistently friendly, helpful and efficient staff",
+    "Fresh breakfast buffet blending Indonesian and Western dishes"
+  ],
+  "cons": [
+    "Select-service: no pool, no lounge and limited room service",
+    "Thin soundproofing (audible door bangs) and crowded breakfast at peak times",
+    "Shuttle runs on a fixed hourly schedule that can be awkward for odd-hour flights"
+  ],
+  "research_highlights": [
+    "TripAdvisor ~4.0/5 over ~180 reviews; ranked around #24 of 91 in Tangerang",
+    "194 guestrooms (~29 sqm deluxe); free WiFi, parking, 24-hour gym and all-day dining",
+    "Travel bloggers (Head for Points, The Seat in the Middle) rate it a solid airport layover pick"
+  ],
+  "research_watchouts": [
+    "Distance quoted varies from '10 minutes' to '15-20 minutes' by car depending on source and traffic",
+    "Elite (Bonvoy) recognition and upgrades reported as minimal by at least one reviewer"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "Does the hotel offer an airport shuttle to Soekarno-Hatta?",
+      "answer": "Yes. There is a complimentary scheduled shuttle running roughly hourly between the hotel and the CGK terminals; guests are advised to confirm the current timetable with the hotel, as early-morning and late-night departures may need planning around fixed slots."
+    },
+    {
+      "question": "Is this a full-service resort or a select-service hotel?",
+      "answer": "It is a select-service Fairfield by Marriott aimed at transit and short stays. Expect clean modern rooms, free breakfast, all-day dining and a 24-hour gym, but no swimming pool, executive lounge or extensive room service."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Fairfield by Marriott Jakarta Soekarno-Hatta Airport - a good airport hotel",
+        "source": "Head for Points",
+        "author": "Rhys Jones",
+        "url": "https://www.headforpoints.com/2023/09/23/review-fairfield-by-marriott-jakarta-soekarno-hatta-airport-hotel/",
+        "published_date": "2023-09-23",
+        "summary": "Clean, modern select-service hotel under 10 minutes from CGK. Smart rooms with comfy beds and dual outlets, spacious bathroom, friendly porters, and a fresh breakfast mixing Indonesian and Western dishes. Good value for layovers."
+      },
+      {
+        "title": "Hotel Review: Fairfield by Marriott Jakarta Soekarno-Hatta International Airport",
+        "source": "The Seat in the Middle",
+        "author": "Andrew",
+        "url": "https://www.theseatinthemiddle.com/2025/07/01/hotel-review-fairfield-by-marriott-jakarta-soekarno-hatta-international-airport/",
+        "published_date": "2025-07-01",
+        "summary": "Functional transit hotel 15-20 min from the airport with a shuttle. Clean, practical rooms and polite staff, but breakfast overcrowds at peak, amenities are minimal (no pool/room service) and Bonvoy elite recognition limited."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hotel Transit di Jakarta, Soekarno Hatta Airport | Fairfield by Marriot Jakarta AirPort ​⁠",
+        "channel": "AyunkanLangkahmu",
+        "url": "https://www.youtube.com/watch?v=S-uFDdxu1C0",
+        "video_id": "S-uFDdxu1C0",
+        "published_date": "2024-03-24"
+      }
+    ]
+  },
+  "tags": [
+    "airport",
+    "soekarno-hatta",
+    "select-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktfa-fairfield-jakarta-soekarno-hatta-airport/overview/",
+      "label": "Official Fairfield by Marriott Jakarta Soekarno-Hatta Airport overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1493703-d26616364-Reviews-Fairfield_by_Marriott_Jakarta_Soekarno_Hatta_Airport-Tangerang_Banten_Province_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktfa-fairfield-jakarta-soekarno-hatta-airport/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "sheraton-jakarta-soekarno-hatta-airport",
+    "four-points-jakarta-thamrin",
+    "aloft-jakarta-wahid-hasyim"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 92
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 84
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 85
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

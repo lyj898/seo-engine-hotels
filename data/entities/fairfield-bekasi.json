@@ -1,0 +1,136 @@
+{
+  "entity_id": "fairfield-bekasi",
+  "slug": "fairfield-bekasi",
+  "name": "Fairfield by Marriott Bekasi",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "Select-service Marriott hotel integrated into Pakuwon Mall Bekasi in West Bekasi, a satellite city in the Greater Jakarta (Jabodetabek) metro area, roughly 30 minutes east of central Jakarta.",
+  "ai_summary": "Fairfield by Marriott Bekasi opened on 18 April 2025 as the first Marriott International property in Bekasi, a satellite city within the Greater Jakarta (Jabodetabek) metropolitan area. The select-service hotel has around 166 rooms and suites and is built directly into the Pakuwon Mall Bekasi Superblock, giving guests direct indoor access to one of the area's largest shopping centres and a short walk to the Bekasi Barat LRT station. It forms one half of West Java's first 'double-decker' dual-hotel complex, stacked with the larger Four Points by Sheraton Bekasi (opened September 2025); the two properties share event space and a multi-property leadership team. On-site facilities are deliberately streamlined for the Fairfield brand: all-day dining at LIME restaurant (Japanese, Korean, Indonesian and Western dishes), a 24-hour fitness centre, free breakfast and flexible meeting space, plus family-oriented themed Camp Fun and Voyager adventure rooms. There is no swimming pool. Early guest sentiment on aggregator sites is strong — praising the new rooms, cleanliness, mall connectivity and value — but because the hotel is new, independent long-form reviews remain limited and ratings should be read as early signals.",
+  "core_facts": {
+    "address": "Pakuwon Mall Bekasi Superblock, West Bekasi, Bekasi City, West Java, Indonesia",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "West Bekasi (Bekasi Barat) — integrated into the Pakuwon Mall Bekasi Superblock, a short walk from Bekasi Barat LRT station",
+    "distance_from_airport_km": 48,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Direct indoor access to Pakuwon Mall Bekasi and a short walk to Bekasi Barat LRT station",
+    "Brand-new (2025) rooms widely praised for cleanliness and modern design",
+    "Family-friendly themed 'adventure' rooms with separate parent/child bathrooms",
+    "Good value for a Marriott Bonvoy property, with free breakfast included"
+  ],
+  "cons": [
+    "No swimming pool and only a compact fitness centre for on-site recreation",
+    "In a dense urban satellite city, not a leisure/resort destination",
+    "Very new, so long-term service consistency and independent review depth are still limited"
+  ],
+  "research_highlights": [
+    "Confirmed open since 18 April 2025 — first Marriott-branded hotel in Bekasi",
+    "Part of West Java's first dual/double-decker hotel complex with Four Points by Sheraton Bekasi",
+    "Strong early aggregator ratings (TripAdvisor 5.0, ranked #1 of 41 Bekasi hotels; Trip.com ~9.6/10)"
+  ],
+  "research_watchouts": [
+    "Full precise street address/number not confirmed in official press; only the Pakuwon Mall Bekasi Superblock location is verified",
+    "Airport distance to Soekarno-Hatta (CGK) is an estimate (~48 km); official press cites ~30 min to Halim (HLP) instead"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "Is Fairfield by Marriott Bekasi open?",
+      "answer": "Yes. It opened on 18 April 2025 and was the first Marriott International hotel in Bekasi."
+    },
+    {
+      "question": "Is the hotel connected to a shopping mall?",
+      "answer": "Yes. It is built into the Pakuwon Mall Bekasi Superblock with direct indoor access to the mall and is a short walk from the Bekasi Barat LRT station."
+    },
+    {
+      "question": "Does Fairfield by Marriott Bekasi have a swimming pool?",
+      "answer": "No. The hotel offers a 24-hour fitness centre and the LIME all-day dining restaurant, but there is no swimming pool."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+
+    ],
+    "videos": [
+      {
+        "title": "FAIRFIELD by Marriott Bekasi Full HOTEL & ROOM TOUR REVIEW @ Pakuwon Shopping Mall West Bekasi 🇮🇩",
+        "channel": "DRelicious Story 4K",
+        "url": "https://www.youtube.com/watch?v=mxPFQVpZFjs",
+        "video_id": "mxPFQVpZFjs",
+        "published_date": "2025-09-20"
+      },
+      {
+        "title": "SEHARI NGINEP DI SINI GAK CUKUP...! FAIRFIELD by Marriott Hotel Bekasi Review",
+        "channel": "Bobo Cantik",
+        "url": "https://www.youtube.com/watch?v=wPEBG6yu8Fk",
+        "video_id": "wPEBG6yu8Fk"
+      }
+    ]
+  },
+  "tags": [
+    "bekasi",
+    "greater-jakarta",
+    "select-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktbf-fairfield-bekasi/overview/",
+      "label": "Official Fairfield by Marriott Bekasi overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297705-d33015649-Reviews-Fairfield_By_Marriott_Bekasi-Bekasi_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktbf-fairfield-bekasi/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-bekasi",
+    "fairfield-jakarta-soekarno-hatta-airport",
+    "four-points-jakarta-thamrin"
+  ],
+  "sentiment_scores": {
+    "overall": 90,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 95
+      },
+      {
+        "label": "Service",
+        "score": 91
+      },
+      {
+        "label": "Rooms",
+        "score": 90
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 88
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

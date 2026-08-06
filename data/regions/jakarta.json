@@ -1,0 +1,12 @@
+{
+  "region_id": "jakarta",
+  "slug": "jakarta",
+  "label": "Jakarta",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "Loyalty-program hotels across Jakarta, from the Sudirman-Thamrin business corridor to Mega Kuningan and the Kota old town.",
+  "intro": "Jakarta's hotels in this directory cluster around the city's business and diplomatic districts: the high-rise Sudirman-Thamrin corridor (the Golden Triangle), the embassy-and-mall enclave of Mega Kuningan, and the shopping-heavy Central Jakarta area near Grand Indonesia and Plaza Indonesia. Traffic is famously heavy, so proximity to a hotel's own district and to the MRT or a toll-road on-ramp matters more than straight-line distance to the airport (Soekarno-Hatta is well to the west of the city).",
+  "faqs": [],
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

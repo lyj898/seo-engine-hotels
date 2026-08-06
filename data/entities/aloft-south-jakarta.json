@@ -1,0 +1,168 @@
+{
+  "entity_id": "aloft-south-jakarta",
+  "slug": "aloft-south-jakarta",
+  "name": "Aloft South Jakarta",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A modern select-service high-rise on the TB Simatupang business corridor in South Jakarta, with Fraya all-day restaurant, the WXYZ bar, a rooftop Splash pool and Southside rooftop bar, and a top-floor gym with city views.",
+  "ai_summary": "Aloft South Jakarta is Aloft's lifestyle select-service tower on the TB Simatupang business corridor in Cilandak, South Jakarta, and was formerly listed as Aloft Jakarta TB Simatupang (the same hotel, renamed by Marriott). It is one of three Jakarta Alofts and should not be confused with Aloft Jakarta Wahid Hasyim in Central Jakarta or the Aloft near Kebon Jeruk in the west. The roughly 18-storey, ~170-room high-rise sits near CIBIS Park, Cilandak Town Square and Ragunan Zoo, convenient for the southern business parks and toll-road access but a 15-minute-plus drive from major malls. TripAdvisor rates it about 4 of 5 (roughly 75 reviews, ranked mid-pack among Jakarta hotels); Booking.com guests score staff around 9.0 and location and comfort near 8.9. Independent reviewers and creators consistently praise clean, spacious modern rooms with fast reliable WiFi, a scenic rooftop pool and bar, a top-floor gym with skyline views, warm attentive staff, and a diverse well-managed breakfast at Fraya. Common gripes are a smallish pool, a bar that closes early on weekdays, limited restaurant menu variety, and the distance to shopping. One outlier guest reported poor service, but the weight of feedback is positive. Net: strong-value, business-friendly base in South Jakarta, best for short lifestyle or corporate stays rather than resort-style leisure.",
+  "core_facts": {
+    "address": "Jalan TB Simatupang Kav 8-9, Cilandak, Pasar Minggu, Kota Jakarta Selatan 12560, Indonesia",
+    "brand_sub_brand": "Aloft",
+    "neighborhood": "TB Simatupang / Cilandak, South Jakarta",
+    "distance_from_airport_km": 35,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Modern, spacious, clean rooms with fast and reliable WiFi",
+    "Scenic rooftop Splash pool and Southside bar plus a top-floor gym with city views",
+    "Warm, attentive staff repeatedly praised across guest reviews",
+    "Strong value on the TB Simatupang business corridor near CIBIS Park and toll-road access"
+  ],
+  "cons": [
+    "Rooftop pool is on the small side and the bar closes early on weekdays",
+    "15-minute-plus drive to major malls; leisure sights are limited nearby",
+    "Restaurant menu variety noted as limited by some guests; occasional service complaints"
+  ],
+  "research_highlights": [
+    "Formerly Aloft Jakarta TB Simatupang; same property, renamed Aloft South Jakarta by Marriott",
+    "~18-storey high-rise with ~170 rooms; TripAdvisor ~4/5 across ~75 reviews",
+    "Booking.com subscores ~9.0 staff, ~8.9 location/comfort; strong breakfast at Fraya"
+  ],
+  "research_watchouts": [
+    "Must be distinguished from Aloft Jakarta Wahid Hasyim (Central) and the Kebon Jeruk-area Aloft; all three are separate hotels",
+    "marriott.com overview returned HTTP 403; room count (~170) and floor count sourced from secondary references and a creator post, not confirmed on marriott.com"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "Is Aloft South Jakarta the same hotel as Aloft Jakarta TB Simatupang?",
+      "answer": "Yes. Marriott renamed the property to Aloft South Jakarta; it is the same hotel on Jalan TB Simatupang in Cilandak, South Jakarta, formerly listed as Aloft Jakarta TB Simatupang."
+    },
+    {
+      "question": "How far is Aloft South Jakarta from Soekarno-Hatta Airport (CGK)?",
+      "answer": "It is roughly 35 km from Soekarno-Hatta International Airport, generally a 45-70 minute drive depending on Jakarta traffic."
+    },
+    {
+      "question": "What dining and facilities are available?",
+      "answer": "The hotel has the Fraya all-day restaurant, the WXYZ bar, a rooftop Splash pool with the Southside rooftop bar and lounge, a top-floor fitness center with city views, and the Camp Aloft kids' area. Reviewers rate breakfast and the rooftop highly."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "LUXURY HOTEL 18 LANTAI DI JAKSEL",
+        "source": "Lemon8",
+        "author": "shofifadhil",
+        "url": "https://www.lemon8-app.com/@labaksariresto/7259735218964283906?region=id",
+        "published_date": "2023-07-25",
+        "summary": "Creator staycation at the 18-storey Aloft on TB Simatupang: ~170 rooms with 3m ceilings, rainfall showers, free WiFi and mobile key; an art-gallery lobby, WXYZ bar with live acts, and a rooftop pool with skyline views."
+      },
+      {
+        "title": "Ulasan Aloft South Jakarta: Pengalaman Staycation di Lantai 16 Jakarta Selatan",
+        "source": "Lemon8",
+        "author": "shofifadhil",
+        "url": "https://www.lemon8-app.com/@labaksariresto/7214016452947460609?region=id",
+        "published_date": "2023-03-24",
+        "summary": "16th-floor overnight praising city views, contemporary interiors with a bathtub, and fast WiFi seen as an edge over rivals. Breakfast rated diverse for a 4-star, spanning Indonesian dishes, fresh bread and live cooking stations."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Aloft South Jakarta, Smart hotel di lokasi strategis Jakarta Selatan! || Review Hotel",
+        "channel": "Nginep Bareng Yuk",
+        "url": "https://www.youtube.com/watch?v=HdqGht0MmZY",
+        "video_id": "HdqGht0MmZY"
+      },
+      {
+        "title": "ALOFT SOUTH JAKARTA, Hotel dengan Best View keren banget",
+        "channel": "FIEN (Fina Dwi)",
+        "url": "https://www.youtube.com/watch?v=NZcKbvFcMCs",
+        "video_id": "NZcKbvFcMCs"
+      },
+      {
+        "title": "HOTEL MURAH JAKARTA SELATAN DENGAN ROOFTOP POOL - ALOFT SOUTH JAKARTA",
+        "channel": "Traveler Jakarta",
+        "url": "https://www.youtube.com/watch?v=RgJTKDNveKU",
+        "video_id": "RgJTKDNveKU"
+      },
+      {
+        "title": "Review Hotel Aloft South Jakarta - hotel lux murah dekat ke Kemang",
+        "channel": "Oktavia Arief",
+        "url": "https://www.youtube.com/watch?v=PDQ6Zgntecg",
+        "video_id": "PDQ6Zgntecg"
+      },
+      {
+        "title": "REVIEW HOTEL ALOFT SOUTH JAKARTA Bintang 4 tapi Kok bagus bangets.",
+        "channel": "ARIS Munandar",
+        "url": "https://www.youtube.com/watch?v=B-MZblwVPzM",
+        "video_id": "B-MZblwVPzM"
+      }
+    ]
+  },
+  "tags": [
+    "tb-simatupang",
+    "cilandak",
+    "select-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktas-aloft-south-jakarta/overview/",
+      "label": "Official Aloft South Jakarta overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d20303535-Reviews-Aloft_South_Jakarta-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktas-aloft-south-jakarta/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "aloft-jakarta-wahid-hasyim",
+    "aloft-jakarta-kebon-jeruk",
+    "sheraton-grand-jakarta-gandaria-city"
+  ],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 78
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 82
+      },
+      {
+        "label": "Value",
+        "score": 85
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

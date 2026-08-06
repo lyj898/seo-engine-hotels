@@ -1,0 +1,156 @@
+{
+  "entity_id": "sheraton-jakarta-soekarno-hatta-airport",
+  "slug": "sheraton-jakarta-soekarno-hatta-airport",
+  "name": "Sheraton Jakarta Soekarno Hatta Airport",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "Renovated 5-star airport hotel next to Soekarno-Hatta International (CGK), positioned as an 'urban resort' with lush gardens, three outdoor pools and a free 24-hour airport shuttle. Popular for both transit stays and weekend staycations.",
+  "ai_summary": "Sheraton Jakarta Soekarno Hatta Airport is a renovated, resort-style airport hotel about 3 km from Soekarno-Hatta International (CGK), relaunched in October 2024 after an extensive refurbishment. It holds roughly 4.0/5 on TripAdvisor (ranked around #32 of 91 hotels in Tangerang, ~367 reviews) and markets itself as the only 5-star property near the airport with an 'urban resort' concept. Reviewers consistently praise the spacious, spotless, modernized rooms and the extensive breakfast buffet at Daily Social, which spans Western, Asian and Indonesian stations. The palm-fringed pool complex (main, kids and relaxation pools), modern gym, jogging park and even a small animal corner give it a genuine leisure feel unusual for an airport hotel, and staff service is repeatedly described as warm and attentive. The free 24-hour airport shuttle (running roughly every 30-60 minutes) makes it convenient for early flights and layovers, though it can be delayed by local traffic despite the short distance. Some guests note occasional maintenance lapses and that the surrounding area is quiet with little nearby beyond the airport and business park. Overall it reads as a strong choice for transit travelers and families wanting a calm staycation close to CGK.",
+  "core_facts": {
+    "address": "Jalan Prof. Dr. Ir. Sedyatmo KM 02, Pajang, Benda, Kota Tangerang, Banten 15126, Indonesia",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Soekarno-Hatta Airport area, Benda (near Soewarna Business Park and Cengkareng Golf Course), Tangerang",
+    "distance_from_airport_km": 3,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Very close to CGK airport (~3 km) with a free 24-hour shuttle",
+    "Recently renovated, spacious and clean rooms",
+    "Resort-style grounds: three outdoor pools, gardens, gym, jogging park",
+    "Well-regarded breakfast buffet at Daily Social with warm, attentive service"
+  ],
+  "cons": [
+    "Quiet, isolated setting with little around beyond the airport and business park",
+    "Occasional maintenance issues reported by some guests",
+    "Shuttle can be delayed by local traffic despite short distance"
+  ],
+  "research_highlights": [
+    "Relaunched October 2024 after an extensive renovation; rooms and facilities are modern",
+    "Consistently praised breakfast at Daily Social and a genuine resort-style pool/garden setting",
+    "Free airport shuttle and short distance make it a strong transit and layover option"
+  ],
+  "research_watchouts": [
+    "Room count reported inconsistently across sources (~208 to ~227); treat exact figure as unverified",
+    "One independent review predates the 2024 relaunch (2016) and reflects the older property"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "How far is the hotel from Soekarno-Hatta Airport and is there a shuttle?",
+      "answer": "It sits roughly 3 km from Soekarno-Hatta International Airport (CGK) and runs a complimentary 24-hour airport shuttle, typically every 30-60 minutes, making it convenient for early flights and layovers."
+    },
+    {
+      "question": "Is this a good hotel for a short transit or layover stay?",
+      "answer": "Yes. Reviewers regularly recommend it for transit and layover stays thanks to the short airport distance, free shuttle, quiet setting and comfortable renovated rooms. It also works well as a family staycation given the pools and gardens."
+    },
+    {
+      "question": "What facilities and dining are available?",
+      "answer": "The hotel has three outdoor pools (including kids and relaxation pools), a modern gym, jogging park and landscaped gardens. Dining centers on Daily Social, known for an extensive breakfast buffet, plus a bar/lounge and additional outlets."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Sheraton Jakarta Soekarno Hatta Airport",
+        "source": "PinterPoin",
+        "author": "Paulo",
+        "url": "https://pinterpoin.com/hotel-review-sheraton-jakarta-soekarno-hatta-airport/",
+        "published_date": "2025-02-09",
+        "summary": "Titanium Elite reviewer upgraded to a 66 sqm 1-bedroom suite. Praises smooth check-in, free breakfast and late checkout, the five-station Daily Social buffet, three pools and a free CGK shuttle; only gripe was no in-suite microwave."
+      },
+      {
+        "title": "Review: Sheraton Bandara - Jakarta Airport",
+        "source": "TopMiles",
+        "author": "Sam Huang",
+        "url": "https://www.topmiles.com/blog/article/19/review--sheraton-bandara---jakarta-airport",
+        "published_date": "2016-03-08",
+        "summary": "Pre-relaunch stay with excellent service, a solid lunch buffet and a short airport hop via frequent shuttle. But rooms showed chips, stains and a leaking faucet below 5-star standard; a mixed bag reflecting the older property."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Jakarta Soekarno Hatta Airport; Ambassador Suite Room",
+        "channel": "Angelo Traveller",
+        "url": "https://www.youtube.com/watch?v=Z5f5dw086jA",
+        "video_id": "Z5f5dw086jA"
+      },
+      {
+        "title": "Rupa Baru Sheraton Jakarta Soekarno Hatta Airport | TRAVELETC.ID",
+        "channel": "TRAVELETC",
+        "url": "https://www.youtube.com/watch?v=2iEGStQaB2A",
+        "video_id": "2iEGStQaB2A"
+      },
+      {
+        "title": "Sheraton Jakarta Soekarno Hatta Airport",
+        "channel": "Frequent Miler",
+        "url": "https://www.youtube.com/watch?v=XMBya33uMis",
+        "video_id": "XMBya33uMis"
+      }
+    ]
+  },
+  "tags": [
+    "airport",
+    "soekarno-hatta",
+    "transit"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktsa-sheraton-jakarta-soekarno-hatta-airport/overview/",
+      "label": "Official Sheraton Jakarta Soekarno Hatta Airport overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1493703-d27418435-Reviews-Sheraton_Jakarta_Soekarno_Hatta_Airport-Tangerang_Banten_Province_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktsa-sheraton-jakarta-soekarno-hatta-airport/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "fairfield-jakarta-soekarno-hatta-airport",
+    "sari-pacific-jakarta-autograph-collection",
+    "le-meridien-jakarta"
+  ],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 84
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

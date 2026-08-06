@@ -1,0 +1,144 @@
+{
+  "entity_id": "four-points-bekasi",
+  "slug": "four-points-bekasi",
+  "name": "Four Points by Sheraton Bekasi",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "Select-service Four Points by Sheraton integrated into the Pakuwon Mall Bekasi Superblock in Bekasi, a satellite city of Greater Jakarta (Jabodetabek), directly connected to the mall and steps from Bekasi Barat LRT station.",
+  "ai_summary": "Four Points by Sheraton Bekasi opened on 22 September 2025 as the brand's first hotel in Bekasi and the 14th Four Points in Indonesia. It occupies the upper floors of the Pakuwon Mall Bekasi Superblock in Pekayon Jaya, with a sky lobby reported on the 23rd floor and roughly 242 contemporary rooms and suites. The property is directly connected to Pakuwon Mall Bekasi and its 200-plus retail and dining outlets and sits steps from Bekasi Barat LRT station, giving easy access into central Jakarta. It forms a 'double-decker' dual-hotel complex with the adjacent Fairfield by Marriott Bekasi, sharing the superblock. Facilities cited in the opening press and early coverage include a rooftop pool with a children's area, a 24-hour fitness center, a wellness/spa center, an all-day dining restaurant serving Betawi and Sundanese cuisine, a rooftop lounge and bar, and extensive event space (two ballrooms plus meeting rooms, largest ballroom to about 1,200 guests). As a very new hotel, verified independent guest feedback is limited; a TripAdvisor listing exists with a strong early rating, but sample sizes are small and should be treated cautiously. Bekasi is a Greater Jakarta satellite city rather than central Jakarta.",
+  "core_facts": {
+    "address": "Jl. Raya Pekayon No. 002, Pekayon Jaya, Bekasi Selatan, Bekasi, West Java 17148, Indonesia",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Pekayon Jaya / Pakuwon Mall Bekasi Superblock, Bekasi Selatan",
+    "distance_from_airport_km": 50,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ]
+  },
+  "pros": [
+    "Direct indoor connection to Pakuwon Mall Bekasi with 200+ shops and restaurants",
+    "Steps from Bekasi Barat LRT station for transit into Jakarta",
+    "New-build 2025 rooms with floor-to-ceiling city-view windows and work desks",
+    "Rooftop pool, wellness/spa center, and rooftop lounge with skyline views"
+  ],
+  "cons": [
+    "Located in Bekasi, a Greater Jakarta satellite city — far (~50 km) from Soekarno-Hatta airport and central Jakarta business districts",
+    "Brand-new (Sep 2025) select-service hotel with a still-limited body of independent reviews",
+    "Mall-integrated high-rise setting may not suit travelers wanting a quiet or resort-style stay"
+  ],
+  "research_highlights": [
+    "Opening confirmed 22 Sep 2025 via Pakuwon Jati press releases and TravelDailyNews; first Four Points in Bekasi, 14th in Indonesia",
+    "Two independent YouTube walkthroughs (Oct 2025) and one independent English blog review (Accidental Travel Writer, Oct 2025) corroborate facilities",
+    "Dual-complex with Fairfield by Marriott Bekasi in the same Pakuwon Mall superblock ('double-decker' concept)"
+  ],
+  "research_watchouts": [
+    "Room count reported mostly as 242 but one aggregator snippet said 224 — treat exact count as approximate",
+    "TripAdvisor rating/review-count figures came from search snippets (page returned 403 on direct fetch) and could not be independently confirmed"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "When did Four Points by Sheraton Bekasi open?",
+      "answer": "It opened on 22 September 2025 as the first Four Points by Sheraton in Bekasi and the 14th in Indonesia."
+    },
+    {
+      "question": "Is the hotel connected to Pakuwon Mall Bekasi?",
+      "answer": "Yes. The hotel is integrated into the Pakuwon Mall Bekasi Superblock with direct indoor access to the mall's 200-plus shops and dining outlets, and it sits steps from Bekasi Barat LRT station."
+    },
+    {
+      "question": "Is Bekasi part of Jakarta?",
+      "answer": "Bekasi is a separate city in West Java within the Greater Jakarta metropolitan area (Jabodetabek), east of central Jakarta rather than in the city proper. Soekarno-Hatta airport is roughly 50 km away."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Indonesia: Four Points by Sheraton Bekasi, an Urban Oasis in West Java",
+        "source": "Accidental Travel Writer",
+        "author": "Michael Taylor",
+        "url": "https://accidentaltravelwriter.com/indonesia-four-points-sheraton-bekasi-west-java/",
+        "published_date": "2025-10-21",
+        "summary": "Blog review of the newly opened hotel: 242 rooms with floor-to-ceiling city views, Djaman Doeloe Betawi/Sundanese restaurant, rooftop Botanique lounge and pool, spa and 24-hour gym, plus direct Pakuwon Mall access via the superblock."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mewah! Review Hotel Four Points Bekasi by Sheraton di Pakuwon Mall Bekasi! Sky Lobby Tertinggi?!? ",
+        "channel": "Adhe Tora TV",
+        "url": "https://www.youtube.com/watch?v=NA1OpFvuh-4",
+        "video_id": "NA1OpFvuh-4",
+        "published_date": "2025-10-22"
+      },
+      {
+        "title": "STAYCATION di HOTEL FOUR POINTS BY SHERATON BEKASI TERBARU , HOTEL TEMBUS LANGSUNG ke PAKUWON MALL",
+        "channel": "DentanoDaizen",
+        "url": "https://www.youtube.com/watch?v=hJTT8Vv5lJg",
+        "video_id": "hJTT8Vv5lJg",
+        "published_date": "2025-10-20"
+      }
+    ]
+  },
+  "tags": [
+    "bekasi",
+    "greater-jakarta",
+    "select-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktbp-four-points-bekasi/overview/",
+      "label": "Official Four Points by Sheraton Bekasi overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297705-d33062711-Reviews-Four_Points_by_Sheraton_Bekasi-Bekasi_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktbp-four-points-bekasi/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "fairfield-bekasi",
+    "four-points-jakarta-thamrin",
+    "aloft-south-jakarta"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 82
+      },
+      {
+        "label": "Rooms",
+        "score": 84
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-05",
+  "status": "needs_review"
+}

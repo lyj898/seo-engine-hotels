@@ -1,0 +1,159 @@
+{
+  "entity_id": "sheraton-grand-jakarta-gandaria-city",
+  "slug": "sheraton-grand-jakarta-gandaria-city",
+  "name": "Sheraton Grand Jakarta Gandaria City Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A 5-star Sheraton Grand hotel of about 293 rooms built directly atop Gandaria City mall in South Jakarta, offering direct mall access, an outdoor pool and fitness centre, a Club Lounge, and the all-day Anigre buffet restaurant.",
+  "ai_summary": "Sheraton Grand Jakarta Gandaria City sits atop the Gandaria City superblock in South Jakarta, giving guests direct internal access to a large mall with cinemas, shops and restaurants without stepping outdoors. The roughly 293 rooms are consistently described as spacious (entry Deluxe rooms around 35 sqm), clean and comfortable, with Sheraton Sleep Experience beds, floor-to-ceiling windows and marble bathrooms; upper-floor rooms deliver city views. Independent Indonesian bloggers who stayed here highlighted the productive, restful atmosphere, fast Wi-Fi, and a pool and fitness centre on an upper floor. The all-day Anigre restaurant draws repeat praise for its varied international and Indonesian buffet (sashimi, roasted duck, satay, dimsum), and the Club Lounge is singled out for attentive service and generous spreads. On TripAdvisor the hotel holds about 4.0 of 5 across roughly 1,500 reviews, and OTA aggregate scores run high (around 9.1/10). Service and the mall-integrated location are the standout themes. Watchouts noted by guests include early-morning call-to-prayer noise from a nearby mosque on some room sides, occasional soundproofing gripes, and Jakarta traffic reaching the property.",
+  "core_facts": {
+    "address": "Jl. Sultan Iskandar Muda, Kebayoran Lama, South Jakarta 12240, Indonesia",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Gandaria, Kebayoran Lama, South Jakarta",
+    "distance_from_airport_km": 32,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Direct indoor connection to Gandaria City mall (shops, cinema, dining) without going outside",
+    "Spacious, clean rooms with comfortable beds and city views from upper floors",
+    "Well-regarded Anigre buffet and a strong Club Lounge experience",
+    "Warm, attentive service repeatedly praised by guests"
+  ],
+  "cons": [
+    "Early-morning call-to-prayer / mosque noise reported on some room sides",
+    "Occasional soundproofing complaints and Jakarta traffic around the property",
+    "Far from Soekarno-Hatta airport (~32 km) with variable travel times"
+  ],
+  "research_highlights": [
+    "TripAdvisor ~4.0/5 across roughly 1,500 reviews; OTA aggregate scores around 9.1/10",
+    "Mall-integrated superblock location is the most cited strength across independent reviews",
+    "About 293 rooms; entry Deluxe rooms ~35 sqm per independent blog stays"
+  ],
+  "research_watchouts": [
+    "Independent written blog reviews are older (2016-2019); recent verified independent write-ups are scarce",
+    "Distance from CGK airport sourced from OTA listings (~32 km), not confirmed on the official Marriott page (which was not fetchable)"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "Is the hotel connected directly to Gandaria City mall?",
+      "answer": "Yes. The hotel is built atop the Gandaria City superblock and offers direct indoor access to the mall's shops, restaurants and cinema, so guests can shop and dine without going outside."
+    },
+    {
+      "question": "How far is the hotel from Soekarno-Hatta International Airport (CGK)?",
+      "answer": "It is roughly 32 km from Soekarno-Hatta International Airport in South Jakarta; actual drive time varies significantly with Jakarta traffic."
+    },
+    {
+      "question": "What dining is available at the hotel?",
+      "answer": "The all-day Anigre restaurant serves international and Indonesian buffets (sashimi, roasted duck, satay, dimsum and more), and there is a lobby lounge plus a Club Lounge for eligible guests."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Staycation di Sheraton Grand Jakarta Gandaria City Hotel",
+        "source": "It's not the destination, it's the journey (aisaidluv.wordpress.com)",
+        "author": "Ai",
+        "url": "https://aisaidluv.wordpress.com/2019/11/08/staycation-di-sheraton-grand-jakarta-city-hotel/",
+        "published_date": "2019-11-08",
+        "summary": "Blogger's staycation on the 20th floor: spacious, comfortable room, fast Wi-Fi, pool and fitness centre on the 6th floor, and a varied Anigre breakfast (fresh juice, donuts). Loved the one-stop mall integration for shopping and dining."
+      },
+      {
+        "title": "My Valentine's Dinner at Anigre Sheraton Grand Jakarta Gandaria City",
+        "source": "Everything About Olyn (everythingaboutolyn.wordpress.com)",
+        "author": "Olyn",
+        "url": "https://everythingaboutolyn.wordpress.com/2017/02/16/my-valentines-dinner-at-anigre-sheraton-grand-jakarta-gandaria-city/",
+        "published_date": "2017-02-16",
+        "summary": "All-you-can-eat buffet at Anigre with lamb, roasted duck, satay, seafood, sushi, pasta and dimsum across Western, Indonesian, Japanese and Chinese stations. Rated really good; crowded on Valentine's at ~IDR 388k but worth it."
+      },
+      {
+        "title": "Anigre – Sheraton Grand Jakarta Gandaria City Hotel",
+        "source": "urukyu (urukyu.wordpress.com)",
+        "author": "Cindy",
+        "url": "https://urukyu.wordpress.com/2016/11/22/anigre-sheraton-grand-jakarta-gandaria-city-hotel/",
+        "published_date": "2016-11-22",
+        "summary": "Food-blogger buffet review of Anigre on the UG floor: fresh sashimi, tender roasted duck, prawns and chili crab, plus customizable pasta and nasi goreng. Praised the fresh ingredients, spacious setting and attentive, efficient service."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Grand Jakarta Gandaria City Room Tour | Club Lounge Access",
+        "channel": "Explore with Miskha",
+        "url": "https://www.youtube.com/watch?v=BeGLOpBLVzM",
+        "video_id": "BeGLOpBLVzM",
+        "published_date": "2025-03-22"
+      },
+      {
+        "title": "Sheraton Grand Jakarta Gandaria City Hotel | Deluxe King Room - Full Review",
+        "channel": "Muhamad Refky Kamajaya",
+        "url": "https://www.youtube.com/watch?v=YfI1G1qX1M8",
+        "video_id": "YfI1G1qX1M8"
+      }
+    ]
+  },
+  "tags": [
+    "gandaria",
+    "mall",
+    "business"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktgs-sheraton-grand-jakarta-gandaria-city-hotel/overview/",
+      "label": "Official Sheraton Grand Jakarta Gandaria City Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d8523262-Reviews-Sheraton_Grand_Jakarta_Gandaria_City_Hotel-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktgs-sheraton-grand-jakarta-gandaria-city-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "westin-jakarta",
+    "le-meridien-jakarta",
+    "aloft-south-jakarta"
+  ],
+  "sentiment_scores": {
+    "overall": 87,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 92
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 87
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}

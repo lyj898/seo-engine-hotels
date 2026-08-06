@@ -1,0 +1,171 @@
+{
+  "entity_id": "ritz-carlton-jakarta-mega-kuningan",
+  "slug": "ritz-carlton-jakarta-mega-kuningan",
+  "name": "The Ritz-Carlton Jakarta, Mega Kuningan",
+  "category_id": "marriott-bonvoy",
+  "region_id": "jakarta",
+  "short_description": "A five-star Ritz-Carlton in Jakarta's Mega Kuningan business district, known for spacious rooms, a two-level Club Lounge, and unusual Spa Terrace suites with private plunge pools.",
+  "ai_summary": "The Ritz-Carlton Jakarta, Mega Kuningan is a long-established five-star hotel set in the Mega Kuningan diplomatic and business district of South Jakarta. It should not be confused with the sister Ritz-Carlton Jakarta at Pacific Place in the SCBD/Sudirman area; this property is the older, resort-styled tower whose fifth-floor pool, spa and gym create a calm buffer from the city traffic. Reviewers consistently single out the service as its strongest asset, describing staff who greet returning guests by name and remember drink orders, plus a two-level Club Lounge that several call the best executive lounge in Jakarta, with generous all-day food presentations. Rooms are among the largest in the city and open onto floor-to-ceiling skyline views. Its signature draw is a small set of Spa Terrace suites, each with a private sunken jacuzzi or plunge pool and rock garden; bloggers love the concept but note these particular rooms feel compact and the heated water cannot be cooled. Common watch-outs are a somewhat dated feel in places and the long, traffic-dependent drive to Soekarno-Hatta airport. Dining spans the Asia and Lobo restaurants plus the Ozone bar. Overall it reads as a service-led luxury stay favored by both business travelers and staycationers.",
+  "core_facts": {
+    "address": "Jl. DR. Ide Anak Agung Gde Agung Kav. E.1.1 No. 1, Mega Kuningan, South Jakarta 12950, Indonesia",
+    "brand_sub_brand": "The Ritz-Carlton",
+    "neighborhood": "Mega Kuningan",
+    "distance_from_airport_km": 25,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Widely praised, personalized service and a standout two-level Club Lounge",
+    "Among the most spacious rooms in Jakarta, with floor-to-ceiling skyline views",
+    "Distinctive Spa Terrace suites with private plunge pools and rock gardens",
+    "Central Mega Kuningan location near embassies, offices and shopping"
+  ],
+  "cons": [
+    "Property and some interiors feel dated compared with newer Jakarta luxury hotels",
+    "Long, traffic-dependent transfer to Soekarno-Hatta International Airport",
+    "The signature Spa Terrace suites are compact and the heated jacuzzi cannot be cooled"
+  ],
+  "research_highlights": [
+    "Independent bloggers repeatedly rate the Club Lounge as the best in Jakarta and highlight name-recognition service",
+    "Spa Terrace / villa-style rooms with private jacuzzi pools are a genuine point of difference in the city"
+  ],
+  "research_watchouts": [
+    "Easily confused with the Ritz-Carlton Jakarta, Pacific Place (a separate property in SCBD)",
+    "Room counts vary by source (roughly 296-333 rooms plus suites and spa villas); treat exact figures as approximate"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-05",
+  "faqs": [
+    {
+      "question": "Is this the same as the Ritz-Carlton Jakarta at Pacific Place?",
+      "answer": "No. This is the Ritz-Carlton Jakarta, Mega Kuningan, an older resort-styled tower in the Mega Kuningan business district. The Ritz-Carlton Jakarta, Pacific Place is a separate hotel in the SCBD/Sudirman area."
+    },
+    {
+      "question": "What makes the Spa Terrace suites special?",
+      "answer": "These limited suites each include a private sunken jacuzzi or plunge pool with a terrace and rock garden. Only a handful are available per night, so they book out early; bloggers note the rooms themselves are compact."
+    },
+    {
+      "question": "How far is the hotel from the airport?",
+      "answer": "Soekarno-Hatta International Airport (CGK) is roughly 25 km away, typically 45 minutes to well over an hour by road depending on Jakarta traffic."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "REVIEW: Ritz Carlton Mega Kuningan (Jakarta)",
+        "source": "The Luxury Traveller",
+        "author": "Jarvis Marcos",
+        "url": "https://theluxurytraveller.com/hotel-reviews/ritz-carlton-jakarta-mega-kuningan/",
+        "published_date": "2019-11-23",
+        "summary": "Spa Terrace suite with a private sunken jacuzzi, terrace and rock garden. Rated 8/10: compact room but exceptional housekeeping, a Club Lounge with all-day food, and staff who remembered orders and greeted guests by name."
+      },
+      {
+        "title": "Ritz Carlton Mega Kuningan Jakarta (Spa Terrace Suite staycation)",
+        "source": "Hari Hari Bersama Si Kecil",
+        "author": "drracheldjuanda",
+        "url": "https://hariharibersamasikecil.wordpress.com/tag/ritz-carlton-mega-kuningan-jakarta/",
+        "published_date": "2021-10-21",
+        "summary": "Family stay in the Spa Terrace Suite with in-room heated jacuzzi and floating breakfast. Praises the two-level club lounge and kid-friendly touches, but the room is very small, the hotel feels older, and the jacuzzi cannot be cooled."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The RITZ CARLTON Hotel Review | Mega Kuningan Jakarta",
+        "channel": "Iwan Traveller",
+        "url": "https://www.youtube.com/watch?v=1GWoJh4f9Hw",
+        "video_id": "1GWoJh4f9Hw",
+        "published_date": "2024-04-08"
+      },
+      {
+        "title": "Mayfair Suite (The Ritz-Carlton Jakarta Mega Kuningan) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=o8jT7rCTA-U",
+        "video_id": "o8jT7rCTA-U",
+        "published_date": "2025-04-11"
+      },
+      {
+        "title": "Hotel Review - The Ritz Carlton Jakarta, Mega Kuningan Indonesia",
+        "channel": "Luxury Indian Traveler",
+        "url": "https://www.youtube.com/watch?v=qUR7TvOS1rw",
+        "video_id": "qUR7TvOS1rw",
+        "published_date": "2019-04-29"
+      },
+      {
+        "title": "Full Review: Ritz Carlton Mega Kuningan, Hotel Terbaik Untuk Bisnis dan Traveling Expats di Jakarta",
+        "channel": "Marvelvino Family Traveller",
+        "url": "https://www.youtube.com/watch?v=S_Hh3sL3r0A",
+        "video_id": "S_Hh3sL3r0A",
+        "published_date": "2025-06-14"
+      },
+      {
+        "title": "Review Jujur Ritz Carlton Mega Kuningan Jakarta! (Staycation Saat Pandemi)",
+        "channel": "Lumiere Production",
+        "url": "https://www.youtube.com/watch?v=p4sVMJl99BY",
+        "video_id": "p4sVMJl99BY"
+      }
+    ]
+  },
+  "tags": [
+    "mega-kuningan",
+    "luxury",
+    "club-lounge"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/jktrz-the-ritz-carlton-jakarta-mega-kuningan/overview/",
+      "label": "Official The Ritz-Carlton Jakarta, Mega Kuningan overview",
+      "type": "official",
+      "last_checked": "2026-08-05"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d582030-Reviews-The_Ritz_Carlton_Jakarta_Mega_Kuningan-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-05"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/jktrz-the-ritz-carlton-jakarta-mega-kuningan/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "jw-marriott-jakarta",
+    "st-regis-jakarta",
+    "ritz-carlton-jakarta-pacific-place"
+  ],
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 93
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 89
+      },
+      {
+        "label": "Value",
+        "score": 84
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-05",
+  "status": "active"
+}
