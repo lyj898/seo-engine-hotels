@@ -1,0 +1,192 @@
+{
+  "entity_id": "moxy-bandung",
+  "slug": "moxy-bandung",
+  "name": "Moxy Bandung",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bandung",
+  "short_description": "Moxy's playful select-service lifestyle hotel in central Dago, Bandung, with the Moxy Sky rooftop bar for 360-degree city views and lively 24/7 communal social spaces.",
+  "ai_summary": "Moxy Bandung is Marriott's playful, design-led select-service lifestyle hotel, notable as the first Moxy to open in Asia (2017). It sits at a busy intersection in the central Dago (Bandung Wetan) district, within walking distance of the Jl. Trunojoyo shopping strip and close to Gedung Sate and Braga. Independent reviewers consistently highlight the vibrant, Instagram-friendly design: magenta accents, a bar-integrated check-in with a welcome drink, and communal spaces stocked with billiards, foosball, oversized games and a library, all open around the clock. The signature draw is Moxy Sky, a rooftop bar praised for crafted cocktails, atmospheric evening lighting and sweeping city views. Rooms are compact but stylish, with platform beds, fold-away wall-mounted desks and fast free Wi-Fi across three categories (Moxie, Dago Deluxe, Braga Suite). Service earns warm marks, with staff described as helpful and welcoming under professional Marriott management, and the property is generally seen as good value for a chain hotel. Watch-outs recur across reviews: rooms are small and soundproofing is weak, so noise from the roads or rooftop events can carry; there is no full-service restaurant, only a Grab & Go concept and rooftop dining; and breakfast variety is limited. Bonvoy elites should note breakfast is offered as one welcome-amenity choice rather than a guaranteed benefit. Overall it suits younger, style-minded travelers and short staycations more than those seeking full-service polish.",
+  "core_facts": {
+    "address": "Jl. Ir. H. Juanda No. 69, Bandung 40116, West Java, Indonesia",
+    "brand_sub_brand": "Moxy",
+    "neighborhood": "Dago (Bandung Wetan)",
+    "distance_from_airport_km": 6,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Gedung Sate",
+        "km": 1.5
+      },
+      {
+        "label": "Braga Street",
+        "km": 2.5
+      }
+    ]
+  },
+  "pros": [
+    "Standout Moxy Sky rooftop bar with crafted cocktails and 360-degree city views",
+    "Central Dago location within walking distance of shopping, Gedung Sate and Braga",
+    "Playful 24/7 communal spaces with billiards, foosball, games and a library",
+    "Strong value and warm, helpful service under Marriott management"
+  ],
+  "cons": [
+    "Rooms are compact with weak soundproofing, so road and rooftop noise carries",
+    "No full-service restaurant, only a Grab & Go concept plus rooftop dining",
+    "Limited breakfast variety and small café seating"
+  ],
+  "research_highlights": [
+    "Opened in 2017 as the first Moxy-branded hotel in Asia",
+    "Moxy Sky rooftop bar features atmospheric evening views over central Bandung",
+    "Ranked #75 of 295 Bandung hotels on TripAdvisor with a 4.0 aggregate over ~280 reviews"
+  ],
+  "research_watchouts": [
+    "Select-service design means compact rooms and no traditional full-service restaurant",
+    "Bonvoy elite breakfast is offered as one welcome-amenity choice, not guaranteed complimentary"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Moxy Bandung located?",
+      "answer": "Moxy Bandung sits at Jl. Ir. H. Juanda No. 69 in the central Dago (Bandung Wetan) district, at a busy intersection roughly 6 km from Husein Sastranegara Airport. It is within walking distance of Jl. Trunojoyo shopping and close to Gedung Sate and Braga Street."
+    },
+    {
+      "question": "Does Moxy Bandung have a rooftop bar?",
+      "answer": "Yes. Moxy Sky is the hotel's signature rooftop bar, serving crafted cocktails and food with 360-degree views over Bandung. Reviewers single it out as especially atmospheric at night, though its events can occasionally carry noise down to nearby guest floors below."
+    },
+    {
+      "question": "Is breakfast included for Marriott Bonvoy elites?",
+      "answer": "Not automatically. As a select-service Moxy, complimentary breakfast is offered to eligible Bonvoy elites as one welcome-amenity choice rather than a guaranteed benefit. There is no full-service restaurant; dining centers on a Grab & Go concept and the rooftop Moxy Sky venue."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Moxy Bandung (Marriott Bonvoy)",
+        "source": "PinterPoin",
+        "author": "Vincent",
+        "url": "https://pinterpoin.com/hotel-review-moxy-bandung-marriott-bonvoy/",
+        "published_date": "2020-02-13",
+        "summary": "Points-focused review of a Braga Suite upgrade: praises the playful design, bar check-in and central location, but flags poor soundproofing and that Platinum breakfast is only one welcome-amenity choice."
+      },
+      {
+        "title": "Hotel Review: Moxy Is The Hippest Millennial-Friendly Hotel in Bandung, Indonesia",
+        "source": "City Nomads",
+        "author": "Sybren Rogge",
+        "url": "https://citynomads.com/hotel-review-moxy-is-the-hippest-milliennial-friendly-hotel-in-bandung-indonesia/",
+        "published_date": "2018-04-13",
+        "summary": "Magazine review of the design-led hotel: bar check-in with mocktails, magenta rooms with record players and bean bags, social games spaces, and a rooftop bar with a glass catwalk high above the street."
+      },
+      {
+        "title": "Moxy Bandung Hotel",
+        "source": "Koper Traveler",
+        "author": "Koper Traveler",
+        "url": "https://www.kopertraveler.id/moxy-bandung-hotel/",
+        "published_date": "2022-06-30",
+        "summary": "Staycation write-up praising comfortable Queen rooms overlooking Dago, the Moxy Sky rooftop for sunsets, an egg-station breakfast with free instant noodles, ample parking and lobby games rooms."
+      },
+      {
+        "title": "Hotel di Bandung: Moxy, Dago",
+        "source": "jojoraharjo.com",
+        "author": "Jojo Raharjo",
+        "url": "https://jojoraharjo.com/2025/06/16/hotel-di-bandung-moxy-dago/",
+        "published_date": "2025-06-16",
+        "summary": "Recent review noting minimalist fold-away furniture, Dago-intersection views and good Marriott-standard service pitched at a millennial market, while comparing the corridor look to a spare, prison-like feel."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Moxy Bandung - Room Highlights - Boutique Hotel in Bandung, Indonesia",
+        "channel": "Hotels Catalogue",
+        "url": "https://www.youtube.com/watch?v=R9-fq5zqh7M",
+        "video_id": "R9-fq5zqh7M"
+      },
+      {
+        "title": "MOXY Hotel Bandung || Where to Stay in Bandung",
+        "channel": "GoAnywhere",
+        "url": "https://www.youtube.com/watch?v=HyxTPLaTDNg",
+        "video_id": "HyxTPLaTDNg",
+        "published_date": "2022-07-17"
+      },
+      {
+        "title": "Moxy Bandung Suite Room and Deluxe Larger Room with Breakfast",
+        "channel": "Angelo Traveller",
+        "url": "https://www.youtube.com/watch?v=FmFVYhttETs",
+        "video_id": "FmFVYhttETs"
+      },
+      {
+        "title": "Happy Staycation at Moxy Hotel Bandung | Perfect Room",
+        "channel": "infobdg TV",
+        "url": "https://www.youtube.com/watch?v=J0y3o4gFYko",
+        "video_id": "J0y3o4gFYko"
+      }
+    ]
+  },
+  "tags": [
+    "dago",
+    "rooftop-bar",
+    "lifestyle-hotel",
+    "design-led",
+    "budget-friendly"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bdoox-moxy-bandung/overview/",
+      "label": "Official Moxy Bandung overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297704-d12551181-Reviews-Moxy_Bandung-Bandung_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bdoox-moxy-bandung/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-bandung-dago",
+    "four-points-bandung",
+    "grand-preanger-bandung-tribute"
+  ],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 77
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 76
+      },
+      {
+        "label": "Value",
+        "score": 86
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

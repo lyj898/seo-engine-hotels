@@ -1,0 +1,182 @@
+{
+  "entity_id": "grand-preanger-bandung-tribute",
+  "slug": "grand-preanger-bandung-tribute",
+  "name": "Grand Hotel Preanger, Bandung, a Tribute Portfolio Hotel",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bandung",
+  "short_description": "Tribute Portfolio's Grand Hotel Preanger is a restored art-deco landmark on Jalan Asia-Afrika in central Bandung, pairing an 1897 heritage wing with a modern tower steps from Braga Street.",
+  "ai_summary": "Grand Hotel Preanger is one of Bandung's most storied buildings, tracing its origins to 1897 and reworked into its signature art-deco form in 1929 by Dutch architect C.P. Wolff Schoemaker, assisted by a young Sukarno. Now a Tribute Portfolio hotel after a recent renovation and rebrand, it occupies a prime spot on Jalan Asia-Afrika at Bandung's symbolic zero-kilometre point, a short walk from Braga Street, the Asian-African Conference Museum and Alun-Alun square. Independent reviewers consistently single out the location, the warm and attentive front-desk and concierge service, and the nostalgic colonial atmosphere, including an on-site Wolff Schoemaker heritage museum and photos of past guests such as Charlie Chaplin and Amelia Earhart. The layout pairs an original heritage wing (Naripan) with a modern tower, and families appreciate the spacious suites and outdoor pool. Value has long been a talking point, with rates widely described as affordable for a landmark five-star property. Watch-outs recur, too: heritage rooms can feel dated and inconsistent between identical booking categories, check-in has drawn complaints about long waits, and the breakfast buffet is more often praised for quantity and variety than for quality, with group bookings occasionally crowding the dining room. Because most detailed reviews predate the Tribute Portfolio conversion, guests should expect the current on-site condition and service standards to differ from older accounts.",
+  "core_facts": {
+    "address": "Jl. Asia Afrika No. 81, Bandung 40111, West Java, Indonesia",
+    "brand_sub_brand": "Tribute Portfolio",
+    "neighborhood": "Sumur Bandung (central Asia-Afrika / Braga area)",
+    "distance_from_airport_km": 5,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Asian-African Conference Museum",
+        "km": 0.3
+      },
+      {
+        "label": "Braga Street",
+        "km": 0.5
+      },
+      {
+        "label": "Alun-Alun Bandung & Grand Mosque",
+        "km": 0.9
+      }
+    ]
+  },
+  "pros": [
+    "Unbeatable central location at Bandung's zero-kilometre point, walking distance to Braga Street and the Asian-African Conference Museum",
+    "Genuine art-deco heritage with an on-site Wolff Schoemaker museum and links to Sukarno, Charlie Chaplin and Amelia Earhart",
+    "Warm, attentive front-desk and concierge service repeatedly praised by guests",
+    "Spacious heritage-wing suites and a family-friendly outdoor pool at accessible rates for a landmark property"
+  ],
+  "cons": [
+    "Heritage rooms can feel dated and vary noticeably even within the same booking category",
+    "Check-in has drawn complaints about long waits and slow room readiness",
+    "Breakfast buffet is often called big on variety but uneven on quality, and can get crowded with tour groups"
+  ],
+  "research_highlights": [
+    "Historic landmark dating to 1897, given its art-deco facade in 1929 by architect C.P. Wolff Schoemaker with Sukarno assisting",
+    "Recently converted to Tribute Portfolio (Marriott Bonvoy), pairing a heritage wing with a modern tower, roughly 188 rooms",
+    "Ranked #59 of 296 Bandung hotels on TripAdvisor with a 4/5 aggregate across more than 1,000 reviews"
+  ],
+  "research_watchouts": [
+    "Most in-depth reviews describe the pre-Tribute 'Grand/Prama Grand Preanger' era; the property reopened after renovation around end of 2025, so current condition may differ",
+    "Being a colonial-era building, some rooms show their age and maintenance and housekeeping have been inconsistent in guest reports"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Grand Hotel Preanger located?",
+      "answer": "It sits at Jl. Asia Afrika No. 81 in central Bandung, at the city's symbolic zero-kilometre point. Braga Street, the Asian-African Conference Museum and Alun-Alun square are all within a short walk, and Husein Sastranegara Airport is about a 10-minute drive away."
+    },
+    {
+      "question": "What makes the hotel historically significant?",
+      "answer": "Dating to 1897, it received its art-deco design in 1929 from architect C.P. Wolff Schoemaker, assisted by future president Sukarno. It hosted guests such as Charlie Chaplin and Amelia Earhart and VIPs during the 1955 Asian-African Conference, and has an on-site heritage museum."
+    },
+    {
+      "question": "Is Grand Hotel Preanger part of Marriott Bonvoy?",
+      "answer": "Yes. The hotel recently joined Marriott's Tribute Portfolio collection following a renovation and rebrand, so stays earn and redeem Marriott Bonvoy points. It combines an original heritage wing with a modern tower, offering roughly 188 rooms plus a pool, spa and extensive event space."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Grand Hotel Preanger: A Historic Hotel in Bandung, Indonesia",
+        "source": "The BeauTraveler",
+        "author": "Marya The BeauTraveler",
+        "url": "https://thebeautraveler.com/grand-hotel-preanger-bandung/",
+        "summary": "First-hand stay review praising the affordable heritage-hotel value, central location and two pools, but flagging inconsistent rooms, a long check-in wait and an uninspired, crowded breakfast buffet."
+      },
+      {
+        "title": "Kisah Salah Satu Hotel Tertua di Bandung, Berdiri Sejak 1897",
+        "source": "Kompas Travel",
+        "url": "https://travel.kompas.com/read/2020/07/24/191700227/kisah-salah-satu-hotel-tertua-di-bandung-berdiri-sejak-1897",
+        "published_date": "2020-07-24",
+        "summary": "Feature on the hotel's history from an 1897 grocery-store beginning to its 1929 art-deco redesign by Wolff Schoemaker with Sukarno, and famous guests like Charlie Chaplin and Amelia Earhart."
+      },
+      {
+        "title": "Grand Hotel Preanger, Napak Tilas Sejarah Ikonik di Jantung Kota Bandung",
+        "source": "Harapan Rakyat",
+        "url": "https://www.harapanrakyat.com/2025/06/grand-hotel-preanger-napak-tilas-sejarah-ikonik-di-jantung-kota-bandung/",
+        "summary": "Editorial retracing the landmark's iconic art-deco heritage and central Asia-Afrika setting, framing it as a walk through Bandung's colonial history at the heart of the city."
+      },
+      {
+        "title": "Grand Preanger Hotel Bandung, Jalan Asia Afrika No. 81",
+        "source": "StreetDirectory Travel Guide",
+        "url": "https://www.streetdirectory.com/travel_guide/218785/hotels_and_hostels/preanger_bandung_hotel.html",
+        "summary": "Travel-guide profile covering the hotel's 1897 origins, its 1929 Wolff Schoemaker art-deco tower-and-wings design, central Jalan Asia-Afrika location and its positioning as a luxurious five-star heritage property."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Grand Hotel Preanger Hotel Review | Bandung City's 1920s Dutch-Colonial Hotel | Explore Braga Street",
+        "channel": "You Are Jelsonified",
+        "url": "https://www.youtube.com/watch?v=RF0rr533a2A",
+        "video_id": "RF0rr533a2A"
+      },
+      {
+        "title": "Review Grand Hotel Preanger Bandung 2023",
+        "channel": "Agus Efendi",
+        "url": "https://www.youtube.com/watch?v=tSpLqgesdl4",
+        "video_id": "tSpLqgesdl4"
+      },
+      {
+        "title": "Room Tour Grand Preanger Hotel # Hotel di Bandung # 5 star hotel# Naripan Wing",
+        "channel": "Daddy's Home",
+        "url": "https://www.youtube.com/watch?v=o4MkuGE0RGw",
+        "video_id": "o4MkuGE0RGw"
+      }
+    ]
+  },
+  "tags": [
+    "asia-afrika",
+    "heritage-art-deco",
+    "central-bandung",
+    "family-pool"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bdogp-grand-hotel-preanger-bandung-a-tribute-portfolio-hotel/overview/",
+      "label": "Official Grand Hotel Preanger, Bandung, a Tribute Portfolio Hotel overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297704-d300417-Reviews-Grand_Hotel_Preanger-Bandung_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bdogp-grand-hotel-preanger-bandung-a-tribute-portfolio-hotel/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-bandung-dago",
+    "four-points-bandung",
+    "moxy-bandung"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 93
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 76
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 74
+      },
+      {
+        "label": "Value",
+        "score": 86
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

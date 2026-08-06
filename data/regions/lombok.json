@@ -1,0 +1,12 @@
+{
+  "region_id": "lombok",
+  "slug": "lombok",
+  "label": "Lombok",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "Loyalty-program beach resorts across Lombok, from the Senggigi coast to the northwest and the Mandalika-area south.",
+  "intro": "Lombok's hotels in this directory are beach resorts spread around the island east of Bali: the Senggigi strip on the west coast, the quieter northwest near Sira and the Gili islands, and design-led stays toward the south. Backed by Mount Rinjani and quieter than neighbouring Bali, Lombok suits beach-and-nature stays; the island is reached via Lombok International Airport (LOP) in the south.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

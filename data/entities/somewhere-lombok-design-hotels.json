@@ -1,0 +1,157 @@
+{
+  "entity_id": "somewhere-lombok-design-hotels",
+  "slug": "somewhere-lombok-design-hotels",
+  "name": "Somewhere Lombok, a Member of Design Hotels",
+  "category_id": "marriott-bonvoy",
+  "region_id": "lombok",
+  "short_description": "Beach-chic Design Hotels member on Lombok's south coast with 20 cliffside villas, each with a private plunge pool, set above the Are Guling Bay surf break near Kuta.",
+  "ai_summary": "Somewhere Lombok is a small beach-chic retreat on the island's south coast, conceived, designed and run by Hong Kong-raised sisters Claire and Valia Gontard and enrolled with Marriott Bonvoy as a Member of Design Hotels. Twenty standalone villas cascade down a jungle cliffside above Are Guling Bay, each with a private plunge pool, floor-to-ceiling windows, handmade Indonesian furnishings and a deliberately TV-free calm. A saltwater infinity pool, open-plan restaurant and bar anchor communal life, with independent reviewers consistently praising the warm, intuitive service, the panoramic hilltop and ocean views, and the locally sourced Indonesian-fusion cooking, from jackfruit rendang to a plentiful included breakfast. Sustainability runs through the build, developed with eco-consultants and drawing on regionally sourced materials and nearby artisans, farmers and fishermen. Watch-outs are consistent across reviews: the steep, stair-linked hillside is genuinely hard for guests with limited mobility, in-villa air-conditioning and mini-fridges can struggle to cool, and small design gaps let insects in. The setting is also remote, with few shops or dining options nearby, so guests lean on the complimentary Kuta shuttle or a rented scooter. Best suited to couples and design-minded travelers seeking seclusion, surf access and a slow, nature-forward stay rather than nightlife or step-free convenience.",
+  "core_facts": {
+    "address": "Prabu Village, Pujut, Central Lombok Regency, West Nusa Tenggara, Indonesia",
+    "brand_sub_brand": "Design Hotels",
+    "neighborhood": "South Lombok coast, above Prabu Village overlooking Are Guling Bay",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Are Guling Bay surf break",
+        "km": 1
+      },
+      {
+        "label": "Kuta Lombok (Mandalika)",
+        "km": 10
+      }
+    ]
+  },
+  "pros": [
+    "Warm, personalized service, with staff noticing dietary preferences and adjusting dishes unprompted",
+    "Spectacular hilltop saltwater infinity pool and villa views over Are Guling Bay",
+    "Standalone villas with private plunge pools, floor-to-ceiling windows and a calm, TV-free feel",
+    "Thoughtful locally sourced Indonesian-fusion cooking, plus included breakfast and Kuta shuttle"
+  ],
+  "cons": [
+    "Steep hillside with many stairs makes access difficult for guests with limited mobility",
+    "In-villa air-conditioning and mini-fridges can struggle to cool, with gaps letting insects in",
+    "Remote south-coast location with no nearby shops or dining; a scooter or the shuttle is needed"
+  ],
+  "research_highlights": [
+    "Opened in 2022; 20 standalone villas cascade down a cliffside above the Are Guling Bay surf break",
+    "Design Hotels member conceived by sisters Claire and Valia Gontard, featured in Design Anthology",
+    "Saltwater infinity pool and a sustainability-led build using regionally sourced materials and local artisans"
+  ],
+  "research_watchouts": [
+    "Steep, stair-linked terrain is unsuitable for limited mobility, and villas have cooling and insect quirks",
+    "Isolated setting far from shops and restaurants; plan on the resort shuttle or a rented scooter"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Somewhere Lombok and how far is the airport?",
+      "answer": "It sits on Lombok's south coast above Prabu Village, overlooking the Are Guling Bay surf break in the Pujut area. Lombok International Airport (LOP) is roughly 30 km away, about a 35-to-40-minute drive, while the beaches and cafes of Kuta Lombok are around 10 minutes by car."
+    },
+    {
+      "question": "What are the villas like?",
+      "answer": "There are 20 standalone villas cascading down a jungle cliffside, each around 50 square metres with a private plunge pool, a balcony and floor-to-ceiling windows framing valley or ocean views. Interiors are contemporary-boho with handmade Indonesian furnishings and no televisions, encouraging a slow, nature-focused stay for couples."
+    },
+    {
+      "question": "Is Somewhere Lombok suitable for guests with mobility issues?",
+      "answer": "Not really. The property is carved into a steep hillside, and villas are reached by pathways and many stairs, which reviewers repeatedly flag as difficult for anyone with limited mobility. The remote setting also means few nearby amenities, so guests rely on the complimentary Kuta shuttle or a rented scooter."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Somewhere Lombok – Somewhere pretty nice!",
+        "source": "We Leave Today",
+        "url": "https://weleavetoday.com/2026/02/21/review-somewhere-lombok/",
+        "published_date": "2026-02-21",
+        "summary": "First-hand stay review praising the hilltop views, personalized service and standout food, while flagging weak air-conditioning, steep stair access and a fairly isolated location needing a scooter."
+      },
+      {
+        "title": "Escape to Somewhere",
+        "source": "Design Anthology",
+        "author": "Luo Jingmei",
+        "url": "https://design-anthology.com/story/escape-to-somewhere",
+        "summary": "Design-magazine feature on Somewhere Lombok's architecture: 20 minimalist villas of shed roofs and concrete floors above Are Guling Bay, built with passive design and local artisans by the Gontard sisters."
+      },
+      {
+        "title": "Somewhere Resort Lombok, a beach-chic Design Hotel by the Gontard sisters",
+        "source": "We Heart",
+        "url": "https://www.we-heart.com/2023/01/19/somewhere-resort-lombok-design-hotel/",
+        "published_date": "2023-01-19",
+        "summary": "Design and culture feature on the newly opened retreat: standalone villas with plunge pools, an infinity pool over Are Guling Bay, and a sustainability-led, regionally sourced ethos from the Gontard sisters."
+      }
+    ],
+    "videos": [
+
+    ]
+  },
+  "tags": [
+    "south-lombok",
+    "are-guling-bay",
+    "design-hotels",
+    "private-plunge-pool",
+    "surf-retreat"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/lopsl-somewhere-lombok-a-member-of-design-hotels/overview/",
+      "label": "Official Somewhere Lombok, a Member of Design Hotels overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g3607401-d25255854-Reviews-Somewhere_Lombok-Pujut_Lombok_West_Nusa_Tenggara.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/lopsl-somewhere-lombok-a-member-of-design-hotels/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "innit-lombok-design-hotels",
+    "sheraton-senggigi",
+    "the-sira-lombok-luxury-collection"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 86
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 82
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 80
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

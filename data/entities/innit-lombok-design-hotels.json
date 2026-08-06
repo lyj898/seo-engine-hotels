@@ -1,0 +1,158 @@
+{
+  "entity_id": "innit-lombok-design-hotels",
+  "slug": "innit-lombok-design-hotels",
+  "name": "Innit Lombok, a Member of Design Hotels",
+  "category_id": "marriott-bonvoy",
+  "region_id": "lombok",
+  "short_description": "A Member of Design Hotels, Innit Lombok is a barefoot-luxury resort of seven architect-designed beach villas on secluded Ekas Bay, southeast Lombok, centred on a 35-metre black-tiled infinity pool.",
+  "ai_summary": "Innit Lombok is an intimate, design-led beach resort on a private white-sand stretch of Ekas Bay in remote southeast Lombok, east of Bali. Conceived by celebrated Indonesian architects Andra Matin and d-associates, its seven identical two-bedroom villas reinterpret the traditional lumbung form as minimalist, stilted cubes clad in perforated local timber, with open ground-floor living areas where the sand flows indoors for genuine barefoot luxury. Independent design and travel writers consistently praise the striking architecture, the seamless indoor-outdoor spaces, the dramatic 35-metre black-tiled infinity pool overlooking the bay, and the farm-to-table cooking at the beachfront Anakampung restaurant, which leans on local fishermen and farmers for seafood and produce. Guests repeatedly highlight the seclusion, the warm and attentive service, and the sense of a true off-grid escape, with strong aggregate scores on booking platforms. The property suits couples and small families seeking calm, surf, snorkelling and digital detox rather than nightlife or resort bustle. The main watch-outs are practical: the location is genuinely isolated and reached by a long drive or by boat with no jetty, on-site dining and activity options are limited by design, and the two-bedroom villa layout means less privacy for unrelated parties sharing a house. Pricing sits at the boutique-luxury end. Overall it reads as a distinctive, well-executed architectural retreat whose remoteness is both its greatest appeal and its main caveat.",
+  "core_facts": {
+    "address": "Jln Innit No 1, Kampong Berore, Desa Ekas Buana, Kec. Jerowaru, Lombok Timur, Nusa Tenggara Barat 83672, Indonesia",
+    "brand_sub_brand": "Design Hotels",
+    "neighborhood": "Ekas Bay, Jerowaru (southeast Lombok)",
+    "distance_from_airport_km": 45,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ]
+  },
+  "pros": [
+    "Secluded private white-sand beach on Ekas Bay with a genuine off-grid, uncrowded atmosphere",
+    "Striking architect-designed villas (Andra Matin / d-associates) with open indoor-outdoor living on the sand",
+    "Farm-to-table dining at the beachfront Anakampung restaurant using local seafood and produce",
+    "Warm, attentive, personalised service consistently praised by guests"
+  ],
+  "cons": [
+    "Very remote and hard to reach, via a long drive or boat with no jetty",
+    "Limited on-site dining and activity options, and little nearby beyond the resort",
+    "Two-bedroom villa layout offers less privacy when unrelated parties share a house"
+  ],
+  "research_highlights": [
+    "Seven two-bedroom beach villas designed by Indonesian architects Andra Matin and d-associates, inspired by traditional lumbung homes",
+    "Centrepiece 35-metre black-tiled infinity pool and the beachfront Anakampung farm-to-table restaurant",
+    "Set on a roughly 250-300 metre private white-sand beach on secluded Ekas Bay, southeast Lombok"
+  ],
+  "research_watchouts": [
+    "Genuinely isolated location: expect a long transfer from Lombok International Airport and, in places, boat access with no jetty",
+    "Small property with limited on-site options; guest-review base is still relatively thin as it is a newer boutique resort"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Innit Lombok and how do I get there?",
+      "answer": "It sits on secluded Ekas Bay in Jerowaru, southeast Lombok, Indonesia. Lombok International Airport is roughly an hour away, about 45 km by road, and some access is by boat with no jetty. Arrange transfers in advance, as the location is remote with little nearby."
+    },
+    {
+      "question": "What are the rooms like at Innit Lombok?",
+      "answer": "Accommodation is in seven identical beach villas, each around 160 to 170 square metres, inspired by traditional lumbung homes. Every villa has two upstairs bedrooms and an open ground-floor living area opening directly onto the sand, with timber finishes and perforated local-wood facades."
+    },
+    {
+      "question": "What dining and facilities does Innit Lombok offer?",
+      "answer": "The centrepiece is a 35-metre black-tiled infinity pool overlooking the bay. The beachfront Anakampung restaurant serves farm-to-table Indonesian cuisine using local seafood and produce. Activities include surfing, snorkelling, kayaking, paddleboarding, spearfishing and spa services, with a focus on relaxation and digital detox."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Innit Lombok Is a Design-Led Approach to Hospitality",
+        "source": "Design Anthology",
+        "url": "https://design-anthology.com/story/innit-lombok-is-a-design-led-approach-to-hospitality",
+        "summary": "A design feature on Innit's seven lumbung-inspired beachfront villas by andramatin and d-associates, its 35-metre black infinity pool and open-air seafood restaurant on a white-sand bay in southeast Lombok."
+      },
+      {
+        "title": "Innit Lombok: A Hotel Built into the Sparkling White Sands",
+        "source": "Living ASEAN",
+        "author": "Kor Lordkam",
+        "url": "https://livingasean.com/culture/design/innit-lombok/",
+        "published_date": "2024-02-23",
+        "summary": "Architecture-focused review of Innit Lombok's seven roughly 170-square-metre oceanfront villas, perforated Raju-wood facades, sand-floor living areas and black-tiled pool, framing nature's role in the barefoot design concept."
+      },
+      {
+        "title": "Innit Hotel, Lombok, Indonesia",
+        "source": "Room + Wild",
+        "url": "https://www.roomandwild.com/innit-lombok",
+        "summary": "Travel guide to Innit as a sustainable transformative escape an hour from Lombok airport, covering the seven two-bedroom beach houses, Anakampung restaurant by chef Matthew Angga, and activities from surfing to Rinjani treks."
+      },
+      {
+        "title": "Innit Lombok Resort Design",
+        "source": "Softer Volumes",
+        "author": "Nick Vodicka",
+        "url": "https://softervolumes.com/innit-lombok-resort-design/",
+        "summary": "Design profile of Innit's seven villas blending contemporary and traditional Indonesian aesthetics, with teak and ironwood finishes, boat-builders' timber facades and the art-filled farm-to-table Anakampung restaurant on Ekas Bay."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Innit Lombok - Interview With Architects",
+        "channel": "Innit Hotels & Resorts",
+        "url": "https://www.youtube.com/watch?v=JtB5r5oVtFE",
+        "video_id": "JtB5r5oVtFE"
+      }
+    ]
+  },
+  "tags": [
+    "ekas-bay",
+    "beachfront",
+    "design-hotel",
+    "boutique-villas",
+    "secluded"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/lopil-innit-lombok-a-member-of-design-hotels/overview/",
+      "label": "Official Innit Lombok, a Member of Design Hotels overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g3533747-d25593077-Reviews-Innit_Lombok-Jerowaru_Lombok_West_Nusa_Tenggara.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/lopil-innit-lombok-a-member-of-design-hotels/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "sheraton-senggigi",
+    "somewhere-lombok-design-hotels",
+    "the-sira-lombok-luxury-collection"
+  ],
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 92
+      },
+      {
+        "label": "Rooms",
+        "score": 90
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

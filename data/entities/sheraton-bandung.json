@@ -1,0 +1,181 @@
+{
+  "entity_id": "sheraton-bandung",
+  "slug": "sheraton-bandung",
+  "name": "Sheraton Bandung Hotel & Towers",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bandung",
+  "short_description": "Sheraton's resort-style 5-star hotel on the Dago hillside in north Bandung, set in landscaped gardens with a lagoon pool, Shine Spa and mountain views.",
+  "ai_summary": "Sheraton Bandung Hotel & Towers is a long-established resort-style five-star property strung along the cool Dago hillside in north Bandung, wrapped in landscaped gardens with coconut and frangipani trees and views toward the mountains. Independent reviewers consistently single out the service: staff are described as warm, attentive and genuinely accommodating, and the property leans hard into being family-friendly, with a warm kids' pool, playground, rabbit and fish feeding, and complimentary horse rides that make it a repeat weekend staycation choice for local families. The lagoon-shaped pool, Shine Spa by Sheraton, sauna, fitness centre and garden setting reinforce the retreat feel. Dining draws praise, especially the varied breakfast at Feast (Indonesian and continental, plus jamu and local dishes), while the exclusive Towers Lounge adds afternoon tea and evening cocktails for eligible guests. A 2010s refurbishment modernised the lobby and rooms, most of which offer private balconies with garden, pool or mountain outlooks. Watch-outs are modest: some guests note aging or deteriorated views on certain sides, occasional loud mosque prayer calls near some rooms, a shower that can wet the bathroom floor, and a sense that rates can run high for the value. It sits a short drive above the city centre, so trips into central Bandung mean navigating hillside traffic. Overall it reads as a dependable, service-led garden hotel rather than a cutting-edge design property.",
+  "core_facts": {
+    "address": "Jl. Ir. H. Juanda No.390, Dago, Coblong, Bandung City, West Java 40135, Indonesia",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Dago (north Bandung, Coblong)",
+    "distance_from_airport_km": 9,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Bandung city centre (Alun-Alun)",
+        "km": 7
+      },
+      {
+        "label": "Institut Teknologi Bandung (ITB)",
+        "km": 3
+      }
+    ]
+  },
+  "pros": [
+    "Warm, attentive service repeatedly highlighted as the standout across independent reviews",
+    "Excellent, varied breakfast at Feast (Indonesian, continental, jamu and local dishes)",
+    "Genuinely family-friendly: warm kids' pool, playground, rabbit/fish feeding and horse rides",
+    "Peaceful resort-style Dago hillside setting with landscaped gardens and cooler mountain air"
+  ],
+  "cons": [
+    "Rates can feel high for the value some guests receive",
+    "Some rooms face aging or deteriorated outlooks, or catch loud mosque prayer calls",
+    "Getting into central Bandung means a drive down through hillside traffic"
+  ],
+  "research_highlights": [
+    "Resort-style five-star hotel on the Dago hillside with 156 rooms and suites, including Tower rooms with lounge access",
+    "Underwent a major refurbishment in the mid-2010s modernising the lobby and guest rooms",
+    "Signature facilities: lagoon-shaped pool, Shine Spa by Sheraton and Feast restaurant"
+  ],
+  "research_watchouts": [
+    "It is a service-led garden hotel rather than a sleek modern design property; some areas and views show their age",
+    "Location is up the Dago hill, so factor in drive time and traffic to reach central Bandung attractions"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Sheraton Bandung Hotel & Towers located?",
+      "answer": "It sits on Jalan Ir. H. Juanda No. 390 in the Dago area of north Bandung, on a cool hillside about 9 km and roughly 30 minutes from Husein Sastranegara Airport, and around 7 km above the city centre with its landscaped resort gardens."
+    },
+    {
+      "question": "Is the hotel good for families?",
+      "answer": "Yes. Reviewers repeatedly praise it as a family staycation favourite, with a warm children's pool, playground, kids' club activities such as rabbit and fish feeding, colouring, and complimentary horse rides, plus spacious rooms and a resort-style garden that keeps children happy."
+    },
+    {
+      "question": "What dining and lounge options are available?",
+      "answer": "Feast restaurant serves a well-regarded breakfast and buffet spanning Indonesian and international dishes, while Toastina offers pastries and coffee. Eligible guests can use the exclusive Towers Lounge, which provides afternoon tea and evening cocktails, praised for attentive service."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sheraton Bandung Hotel & Towers: A Family-Friendly Luxury Hotel in Bandung, West Java",
+        "source": "EAZY Traveler",
+        "author": "Edgar Alan Zeta-Yap",
+        "url": "https://eazytraveler.net/2016/09/sheraton-hotel-bandung-blog-review/",
+        "published_date": "2016-09-01",
+        "summary": "A detailed stay review praising the resort-like grounds, plunge pool, chic rooms with balconies, warm and accommodating staff, Feast dining, and family perks like horse rides and a rabbit pen."
+      },
+      {
+        "title": "Staycation: Sheraton Bandung Hotel & Towers",
+        "source": "Gastronomy Aficionado (Venture Travel Magazine)",
+        "author": "Rian Farisa",
+        "url": "https://gastronomyaficionado.wordpress.com/2014/11/28/sheraton-bandung-hotel-and-towers/",
+        "published_date": "2014-11-28",
+        "summary": "Reviews the hotel after its major refurbishment, noting the modernised lobby with crystal ceilings, floral-themed rooms, Sheraton Sweet Sleeper beds, Feast dining, new Shine Spa and Toastina, and its hillside Dago setting."
+      },
+      {
+        "title": "Sheraton Bandung Hotel Indonesia: Relax Amidst the Resort-Styled Garden Sanctuary",
+        "source": "2bearbear",
+        "url": "https://www.2bearbear.com/sheraton-bandung-hotel-review/",
+        "summary": "A travel-blog review of the property as a resort-style garden sanctuary in Bandung, covering the tropical grounds, pool, rooms and overall relaxed retreat atmosphere."
+      },
+      {
+        "title": "Review Sheraton Bandung Hotel & Towers",
+        "source": "Dunia Ibu-ibu",
+        "url": "https://www.duniaibuibu.com/review-sheraton-bandung-hotel/",
+        "summary": "An Indonesian family-blog staycation review highlighting the kids' club activities, fast wifi, spacious rooms, and generous evening cocktail and breakfast spreads that make it a repeat family favourite."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Perfect Room at Sheraton Bandung Hotel & Tower [Hotel Review]",
+        "channel": "infobdg TV",
+        "url": "https://www.youtube.com/watch?v=ebBhyd5Rb0U",
+        "video_id": "ebBhyd5Rb0U"
+      },
+      {
+        "title": "Sheraton Bandung Hotel & Towers 🏨 | Tower Room Club Lounge",
+        "channel": "MommaKy",
+        "url": "https://www.youtube.com/watch?v=zvfTvR8fSHY",
+        "video_id": "zvfTvR8fSHY"
+      },
+      {
+        "title": "Sheraton Bandung Hotel and Towers; Tower Suite Room with Tower lounge access",
+        "channel": "Angelo Traveller",
+        "url": "https://www.youtube.com/watch?v=h5-5tM-CqpI",
+        "video_id": "h5-5tM-CqpI"
+      }
+    ]
+  },
+  "tags": [
+    "dago",
+    "family-friendly",
+    "garden-resort",
+    "lagoon-pool",
+    "spa"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bdosi-sheraton-bandung-hotel-and-towers/overview/",
+      "label": "Official Sheraton Bandung Hotel & Towers overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297704-d301781-Reviews-Sheraton_Bandung_Hotel_Towers-Bandung_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bdosi-sheraton-bandung-hotel-and-towers/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-bandung-dago",
+    "four-points-bandung",
+    "grand-preanger-bandung-tribute"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 85
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 84
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 88
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

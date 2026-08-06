@@ -1,0 +1,200 @@
+{
+  "entity_id": "batam-marriott-harbour-bay",
+  "slug": "batam-marriott-harbour-bay",
+  "name": "Batam Marriott Hotel Harbour Bay",
+  "category_id": "marriott-bonvoy",
+  "region_id": "batam",
+  "short_description": "Batam's first five-star Marriott, a waterfront hotel above the Harbour Bay ferry terminal to Singapore, with sea-view rooms, an infinity pool and rooftop bar.",
+  "ai_summary": "The Batam Marriott Hotel Harbour Bay is the island's first five-star Marriott, a 216-room waterfront property built directly above the Harbour Bay ferry terminal, giving guests near-seamless arrival from Singapore straight into the lobby. Independent reviewers consistently rank it the best hotel in Batam, praising warm, English-fluent service, spacious and spotless rooms, and higher-floor club rooms with genuine ocean and skyline views. Facilities that draw repeat praise include the outdoor infinity pool with harbour outlook, a well-equipped 24-hour gym, and the Altitude rooftop bar for sunset drinks. Dining spans the all-day Goji Kitchen & Bar and the Cantonese Jiang He, with several writers singling out the M Club lounge on level 11 as the property's highlight for breakfast and evening cocktails. Value is a recurring theme: reviewers frame it as noticeably cheaper than comparable Singapore hotels while feeling more polished than most Batam options. Honest watch-outs recur too. Some guests note a swampy or low-tide smell drifting up to the pool area, occasionally cold breakfast items, and confusion or extra charges around M Club access for suite and family guests. A few mention thin pre-arrival communication and isolated cleanliness complaints. On TripAdvisor it holds roughly a 4.0 rating and ranks near the top of Batu Ampar hotels.",
+  "core_facts": {
+    "address": "Harbour Bay Downtown, Jalan Duyung, Sungai Jodoh, Batu Ampar, Batam 29453, Riau Islands, Indonesia",
+    "brand_sub_brand": "Marriott Hotels",
+    "neighborhood": "Batu Ampar / Harbour Bay",
+    "distance_from_airport_km": 22,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Harbour Bay Ferry Terminal (to Singapore)",
+        "km": 0.1
+      },
+      {
+        "label": "Nagoya Hill Shopping Mall",
+        "km": 2.5
+      },
+      {
+        "label": "Grand Batam Mall",
+        "km": 1.5
+      }
+    ]
+  },
+  "pros": [
+    "Direct basement access from the Harbour Bay ferry terminal, so arrival from Singapore is quick and covered",
+    "Warm, professional, English-fluent service that reviewers rate above regional norms",
+    "Spacious, clean rooms with genuine sea and skyline views on higher club floors",
+    "Strong facilities: harbour-view infinity pool, 24-hour gym, and the Altitude rooftop bar"
+  ],
+  "cons": [
+    "A swampy or low-tide smell can reach the pool area at certain times",
+    "M Club access rules and extra charges for suite or family guests cause check-in confusion",
+    "Occasional cold breakfast items and patchy pre-arrival communication"
+  ],
+  "research_highlights": [
+    "Batam's first five-star Marriott International hotel, with 216 rooms and suites",
+    "Ranked near the top of Batu Ampar hotels on TripAdvisor (approx. 4.0 rating, #2 of 136)",
+    "Built directly above the Harbour Bay ferry terminal with an M Club lounge on level 11"
+  ],
+  "research_watchouts": [
+    "Pool-area odour at low tide is a recurring complaint worth checking against tide timing",
+    "Clarify M Club lounge access and any per-person cocktail charges before arrival, especially for suites or family groups"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How do I get to the hotel from Singapore?",
+      "answer": "Take a ferry from Singapore's HarbourFront or Tanah Merah terminal to Batam's Harbour Bay terminal. The hotel sits directly above the terminal, with basement-level access from customs into the lobby, so it is only a short covered walk with luggage after clearing immigration."
+    },
+    {
+      "question": "Does the hotel have sea-view rooms and a pool?",
+      "answer": "Yes. Many rooms and suites offer bay, sea or skyline views, with the best outlooks on higher club floors. The hotel has an outdoor infinity pool overlooking the harbour, plus a children's pool, a 24-hour fitness centre and the Altitude rooftop bar for sunset drinks."
+    },
+    {
+      "question": "How far is the hotel from Hang Nadim International Airport?",
+      "answer": "Hang Nadim International Airport (BTH) is roughly 22 km away, about a 30 to 40 minute drive depending on traffic. Most international guests arrive by ferry from Singapore rather than by air, since the hotel connects directly to the Harbour Bay ferry terminal."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Batam Marriott Hotel Harbour Bay Review",
+        "source": "SG Food & Lifestyle",
+        "url": "https://sgfoodlifestyle.com/2025/01/15/batam-marriott-hotel-harbour-bay-review/",
+        "published_date": "2025-01-15",
+        "summary": "Overview of the 216-room five-star hotel above the ferry terminal, praising well-appointed rooms, three dining venues, the pool and gym, and strong value versus Singapore hotels."
+      },
+      {
+        "title": "Batam Marriott Hotel Harbour Bay",
+        "source": "Elizbear Travel",
+        "author": "elizbeartravel",
+        "url": "https://elizbeartravel.com/2023/08/08/batam-marriott-hotel-harbour-bay/",
+        "published_date": "2023-08-08",
+        "summary": "A weekend stay praising ferry-terminal access, spacious rooms and 5-star service, but flagging a swampy pool-area smell at low tide, a hard sofa bed and some cold breakfast items."
+      },
+      {
+        "title": "Best New Hotel: Batam Marriott Hotel Harbour Bay, Indonesia",
+        "source": "Savour BlackBookAsia",
+        "author": "Gabriel Tan",
+        "url": "https://savourblackbookasia.com/batam-marriott-hotel-harbour-bay-indonesia/",
+        "published_date": "2023-04-01",
+        "summary": "Names it Best New Hotel, highlighting spacious suites with skyline-view tubs, exemplary service, the infinity pool and jacuzzi, and standout Cantonese dining and M Club lounge."
+      },
+      {
+        "title": "Hotel Review: Batam Marriott Harbour Bay",
+        "source": "Satu Kosong Travels",
+        "author": "Satu Kosong",
+        "url": "https://10satukosong.wpcomstaging.com/2023/07/31/hotel-review-batam-marriott-habour-bay/",
+        "published_date": "2023-07-31",
+        "summary": "Calls it the best hotel in Batam for its level-11 M Club and ocean-view suites, but recounts frustrating pre-arrival contact and confusion over club-lounge access charges at check-in."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Batam Marriott Harbour Bay 5-Star Hotel Review",
+        "channel": "Angela Carson",
+        "url": "https://www.youtube.com/watch?v=02gsYJawmDA",
+        "video_id": "02gsYJawmDA"
+      },
+      {
+        "title": "Executive Suite (Batam Marriott Hotel Harbour Bay) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=nqpAThwIYj4",
+        "video_id": "nqpAThwIYj4"
+      },
+      {
+        "title": "Presidential Suite (Batam Marriott Hotel Harbour Bay) | Room Tour",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=XFsRk1WHa4M",
+        "video_id": "XFsRk1WHa4M"
+      },
+      {
+        "title": "July 2022: Is Marriott Batam Harbour Bay worth staying?!",
+        "channel": "The Travelling Water Baby",
+        "url": "https://www.youtube.com/watch?v=RO3a-NamaEQ",
+        "video_id": "RO3a-NamaEQ"
+      },
+      {
+        "title": "Review : Batam Marriott Hotel Harbour Bay",
+        "channel": "Edin Corner",
+        "url": "https://www.youtube.com/watch?v=s14bDEYV86Q",
+        "video_id": "s14bDEYV86Q"
+      }
+    ]
+  },
+  "tags": [
+    "batu-ampar",
+    "harbour-bay",
+    "waterfront",
+    "sea-view",
+    "ferry-terminal"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/bthmc-batam-marriott-hotel-harbour-bay/overview/",
+      "label": "Official Batam Marriott Hotel Harbour Bay overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g3177241-d21266061-Reviews-Batam_Marriott_Hotel_Harbour_Bay-Batu_Ampar_Batam_Riau_Archipelago_Riau_Islands_Prov.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/bthmc-batam-marriott-hotel-harbour-bay/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-batam",
+    "westin-nirup-island",
+    "courtyard-bandung-dago"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 86
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}
