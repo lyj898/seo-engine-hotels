@@ -1,0 +1,12 @@
+{
+  "region_id": "siem-reap",
+  "slug": "siem-reap",
+  "label": "Siem Reap",
+  "granularity": "city",
+  "parent_region_id": "cambodia",
+  "short_description": "Loyalty-program hotels in Siem Reap, the Cambodian gateway town to the Angkor temples.",
+  "intro": "Siem Reap's coverage in this directory is centered on the town that serves as the base for visiting the Angkor Archaeological Park, including Angkor Wat. Hotels here pair easy access to the temples with the town's walkable centre, Pub Street and night markets, a short drive from Siem Reap-Angkor International Airport (SAI).",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

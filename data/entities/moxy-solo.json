@@ -1,0 +1,185 @@
+{
+  "entity_id": "moxy-solo",
+  "slug": "moxy-solo",
+  "name": "Moxy Solo",
+  "category_id": "marriott-bonvoy",
+  "region_id": "solo",
+  "short_description": "Playful, design-led Moxy select-service hotel on Solo's central Slamet Riyadi Street, with a rooftop pool, Sky Bar and games-filled lobby steps from Pura Mangkunegaran palace.",
+  "ai_summary": "Moxy Solo is Marriott's playful, select-service lifestyle hotel and the first Marriott International property in Solo (Surakarta), Central Java, opened in July 2024. Set on the vibrant central artery of Slamet Riyadi Street, its 108 compact, design-led rooms use modular furniture and signature peg walls, paired with 55-inch TVs and walk-in showers. Independent reviewers and a strong TripAdvisor base (4.8/5, ranked #1 of 57 B&Bs/inns in Solo) consistently praise the unbeatable location, walkable to Pura Mangkunegaran palace, the Ngarsopura night market and the Sunday Car Free Day, alongside an energetic, genuinely helpful young crew and fun social spaces including a games-filled lobby, a Library and Plug-In work area, a rooftop pool and the Sky Bar. Bonvoy elite guests report generous daily food credits and willing upgrades. The honest watch-outs are typical of both the Moxy brand and a new hotel: rooms are small and minimalist with no in-room fridge, limited wardrobe and bathroom shelf space, and soundproofing is weak, so street and night-market noise can carry. Breakfast at the Moxy Bar and Restaurant draws mixed notes, with the kitchen occasionally struggling at peak hours. Overall it reads as a stylish, well-located and well-priced base for exploring Solo, best suited to couples, solo travellers and younger guests over families.",
+  "core_facts": {
+    "address": "Jalan Slamet Riyadi No. 173, Kemlayan, Serengan, Surakarta (Solo), Central Java 57151, Indonesia",
+    "brand_sub_brand": "Moxy",
+    "neighborhood": "Slamet Riyadi / Kemlayan, central Solo",
+    "distance_from_airport_km": 14,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Pura Mangkunegaran palace",
+        "km": 0.6
+      },
+      {
+        "label": "Ngarsopura Night Market",
+        "km": 0.1
+      },
+      {
+        "label": "Solo Paragon Lifestyle Mall",
+        "km": 1.9
+      },
+      {
+        "label": "Keraton Surakarta",
+        "km": 2
+      }
+    ]
+  },
+  "pros": [
+    "Unbeatable central location on Slamet Riyadi Street, walkable to Pura Mangkunegaran palace, the Ngarsopura night market and the Sunday Car Free Day",
+    "Warm, energetic and genuinely helpful young crew repeatedly singled out by guests",
+    "Fun, design-forward social spaces: games-filled lobby, Library and Plug-In area, rooftop pool and Sky Bar",
+    "Brand-new, spotless rooms with smart modular design, plus generous Bonvoy elite daily food credit"
+  ],
+  "cons": [
+    "Weak soundproofing means street and night-market noise, and thin walls, disturb some guests",
+    "Compact, minimalist rooms lack an in-room fridge, wardrobe and adequate bathroom shelf space",
+    "Breakfast kitchen can struggle at peak hours, with limited hot food and weak coffee"
+  ],
+  "research_highlights": [
+    "Opened July 2024 as Marriott's first hotel in Solo and Moxy's debut in Central Java",
+    "108 rooms; rated 4.8/5 and ranked #1 of 57 B&Bs/inns in Solo on TripAdvisor",
+    "Rooftop pool, Sky Bar, 24-hour city-view gym and the Moxy Bar and Restaurant"
+  ],
+  "research_watchouts": [
+    "Very new property (opened 2024) with some new-hotel growing pains noted by early reviewers",
+    "Select-service, compact rooms with no in-room fridge; light sleepers should request a high, quiet room"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Is Moxy Solo a good base for sightseeing in Solo?",
+      "answer": "Yes. Moxy Solo sits on central Slamet Riyadi Street, within a short walk of Pura Mangkunegaran palace, the Ngarsopura night market and the Sunday Car Free Day. Keraton Surakarta, Solo Paragon mall and plenty of local eateries are a few minutes away, making it an excellent base for exploring the city on foot."
+    },
+    {
+      "question": "Does Moxy Solo include breakfast, and what is dining like?",
+      "answer": "Breakfast is served at the Moxy Bar and Restaurant but is not automatically included in every rate, so check your booking. Bonvoy elite members typically receive a daily food credit. Reviewers praise the variety yet note the kitchen can struggle at peak hours, with limited hot food and weak coffee."
+    },
+    {
+      "question": "How far is Moxy Solo from the airport?",
+      "answer": "Adisumarmo International Airport (SOC), Solo's main airport, is roughly 14 kilometres north of the hotel, about a 20-minute drive depending on traffic. No complimentary shuttle is advertised, but taxis and ride-hailing apps such as Grab and Gojek are readily available and inexpensive for the short transfer into the city centre."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Moxy Solo",
+        "source": "PinterPoin",
+        "author": "Paulo",
+        "url": "https://pinterpoin.com/hotel-review-moxy-solo/",
+        "published_date": "2024-10-23",
+        "summary": "A points-and-miles blogger's detailed five-night stay: praises the central location, warm service and generous elite food credit, but flags peak-hour breakfast limits, no in-room fridge and weak soundproofing as new-hotel growing pains."
+      },
+      {
+        "title": "Kehadiran Moxy Hotel di Solo dengan Membawa Keseruan Khasnya",
+        "source": "Fimela",
+        "author": "Nabila Mecadinisa",
+        "url": "https://www.fimela.com/lifestyle/read/5648487/kehadiran-moxy-hotel-di-solo-dengan-membawa-keseruan-khasnya",
+        "published_date": "2024-07-25",
+        "summary": "Indonesian lifestyle magazine feature on Moxy Solo's opening, spotlighting its 108 playful rooms, peg-wall design, rooftop Sky Bar and pool, 24-hour gym and Javanese mural art celebrating local culture."
+      },
+      {
+        "title": "Moxy Solo Playfully Debuts in Central Java",
+        "source": "NOW! Jakarta",
+        "url": "https://www.nowjakarta.co.id/moxy-solo-playfully-debuts-in-central-java/",
+        "published_date": "2024-08-09",
+        "summary": "Jakarta magazine profile of Moxy Solo, Central Java's first Moxy, detailing space-smart rooms with 55-inch TVs and walk-in showers, the rooftop Moxy Bar and Restaurant, gym, pool and its central Slamet Riyadi setting near the palaces."
+      },
+      {
+        "title": "Moxy Hotels Debuts its Playful Spirit in Central Java, Indonesia with the Opening of Moxy Solo",
+        "source": "Jakarta Jive",
+        "url": "https://www.jakartajive.com/2024/07/moxy-hotels-debuts-its-playful-spirit-in-central-java-indonesia-with-the-opening-of-moxy-solo/",
+        "published_date": "2024-07-22",
+        "summary": "Opening feature covering Moxy's playful debut in Solo: 108 modular rooms with peg walls, a Library and Plug-In social space, city-view gym and pool, aimed at young travellers, minutes from Pura Mangkunegaran and Keraton Surakarta."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hotel Terbaru Lokasi Strategis di Pusat Kota Solo | MOXY HOTEL SOLO",
+        "channel": "Panda Jalan jalan",
+        "url": "https://www.youtube.com/watch?v=_E_RHnazH7s",
+        "video_id": "_E_RHnazH7s"
+      },
+      {
+        "title": "Hotel Moxy Solo: Hotel Baru Berkonsep Play All Day, Bukan Sekedar Staycation",
+        "channel": "USB ADVENTURE",
+        "url": "https://www.youtube.com/watch?v=tdEhEQnOvG0",
+        "video_id": "tdEhEQnOvG0"
+      }
+    ]
+  },
+  "tags": [
+    "central-solo",
+    "slamet-riyadi",
+    "rooftop-pool",
+    "lifestyle-hotel",
+    "rooftop-bar"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/socox-moxy-solo/overview/",
+      "label": "Official Moxy Solo overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g24143611-d27943112-Reviews-Moxy_Solo-Surakarta_Central_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/socox-moxy-solo/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-siem-reap",
+    "four-points-bintan",
+    "natra-bintan-tribute"
+  ],
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 92
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 82
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 80
+      },
+      {
+        "label": "Value",
+        "score": 87
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

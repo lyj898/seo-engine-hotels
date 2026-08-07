@@ -1,0 +1,12 @@
+{
+  "region_id": "bintan",
+  "slug": "bintan",
+  "label": "Bintan",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "Loyalty-program beach resorts on Bintan island, along the Lagoi Bay resort strip in the Riau Islands.",
+  "intro": "Bintan's hotels in this directory sit within the Lagoi resort enclave on the north coast of the Riau Islands' largest island -- a gated strip of beach resorts, golf courses and a town square, popular as a quick beach getaway from Singapore via the ferry to Bandar Bentan Telani (about an hour). The area suits self-contained beach-and-golf stays rather than city travel.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

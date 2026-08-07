@@ -1,0 +1,195 @@
+{
+  "entity_id": "courtyard-siem-reap",
+  "slug": "courtyard-siem-reap",
+  "name": "Courtyard by Marriott Siem Reap Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "siem-reap",
+  "short_description": "Cambodia's first Courtyard by Marriott, this modern Siem Reap resort pairs Khmer-inspired design with a saltwater lagoon pool and a rooftop bar overlooking the city toward Angkor Wat.",
+  "ai_summary": "Opened in 2018 as Cambodia's first Courtyard by Marriott, this 233-room resort sits in a quiet residential pocket north of Siem Reap's centre and has become a favourite value pick for Bonvoy members touring the Angkor temples. Independent reviewers consistently single out the service: staff are described as genuinely warm, attentive and unusually accommodating, arranging tuk-tuks, private guides and even off-menu meals for children. The Khmer-influenced rooms are praised as spacious, modern and immaculately clean, most with balconies overlooking a large freeform saltwater lagoon pool that includes a shallow kids' area and jacuzzi. The breakfast buffet earns repeated praise for its live cooking station and mix of Western, Asian and Cambodian dishes, though a few guests find the overall variety and the number of dining venues limited for a resort of this billing. Facilities include a fitness centre, Quan Spa, a lobby lounge and The Upper Deck rooftop bar, whose observation deck offers binoculars for distant temple views. As a Category 2 property it delivers strong redemption value, and elite members frequently report upgrades and complimentary breakfast. Watch-outs are minor and consistent: the location requires a short ride into town, occasional worn finishes or housekeeping lapses are noted, and spa or club-lounge availability has fluctuated. Overall the property reads as a reliable, family-friendly four-and-a-half-star base rather than a full luxury resort.",
+  "core_facts": {
+    "address": "No. 0609 Road 6A, Phum Chongkoesou, Khum Slor Kram, Siem Reap 17251, Cambodia",
+    "brand_sub_brand": "Courtyard by Marriott",
+    "neighborhood": "Slor Kram / Chong Kaosou, northern Siem Reap",
+    "distance_from_airport_km": 45,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Angkor Wat",
+        "km": 8
+      },
+      {
+        "label": "Siem Reap town centre / Pub Street",
+        "km": 4
+      },
+      {
+        "label": "Angkor National Museum",
+        "km": 2
+      }
+    ]
+  },
+  "pros": [
+    "Warm, highly attentive staff who arrange tours, transport and personalised extras",
+    "Spacious, modern, spotlessly clean Khmer-inspired rooms with pool-view balconies",
+    "Large freeform saltwater lagoon pool with a shallow kids' section and jacuzzi",
+    "Excellent value as a Category 2 Bonvoy redemption, with frequent elite upgrades"
+  ],
+  "cons": [
+    "Located north of the centre, so a short tuk-tuk or Grab ride into town is needed",
+    "Limited number of dining outlets and breakfast variety some find modest",
+    "Occasional worn finishes or minor housekeeping lapses reported"
+  ],
+  "research_highlights": [
+    "Opened in 2018 as the first Courtyard by Marriott in Cambodia (233 rooms and suites)",
+    "Rated 4.8/5 on TripAdvisor from 560+ reviews, ranked around #111 of 600+ Siem Reap hotels",
+    "Signature saltwater lagoon pool plus The Upper Deck rooftop bar with distant Angkor Wat views"
+  ],
+  "research_watchouts": [
+    "Spa and club-lounge availability has fluctuated (spa was closed post-COVID in some reports)",
+    "Marketed at five-star level but reviewers judge the experience closer to four-and-a-half stars"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is the resort from Angkor Wat?",
+      "answer": "The Courtyard by Marriott Siem Reap Resort sits about 8 km from Angkor Wat, roughly a 15-minute drive, making it a practical base for temple sightseeing. The staff readily arrange tuk-tuks, private cars and English-speaking guides, and its rooftop observation deck even provides binoculars for distant views toward the temples."
+    },
+    {
+      "question": "Is the resort close to Siem Reap town centre and Pub Street?",
+      "answer": "Yes. Although the resort lies in a quieter area north of the centre rather than in the tourist core, Siem Reap's Pub Street, night markets and Angkor National Museum are only a short 10-minute ride away. Guests typically use the Grab app for inexpensive tuk-tuks into town throughout the day and evening."
+    },
+    {
+      "question": "What dining and facilities does the resort offer?",
+      "answer": "The resort features a freeform saltwater lagoon pool with a shallow children's section, a fitness centre and Quan Spa offering Cambodian treatments. Dining includes the all-day Lok Lak restaurant serving Khmer and international dishes, a lobby lounge, and The Upper Deck rooftop bar known for cocktails and sweeping city views."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Courtyard by Marriott Siem Reap Resort",
+        "source": "Milesopedia",
+        "author": "Audrey Voisine",
+        "url": "https://milesopedia.com/en/reviews/hotels/courtyard-by-marriott-siem-reap-resort/",
+        "published_date": "2020-04-02",
+        "summary": "A points-focused review rating the Category 2 resort 8/10, highlighting a Presidential Suite upgrade for Titanium members, generous breakfast, two connected pools and a rooftop terrace, plus strong fifth-night-free value."
+      },
+      {
+        "title": "Courtyard by Marriott Siem Reap Resort: My review",
+        "source": "Home in the World",
+        "author": "Emilita",
+        "url": "https://homeintheworld.net/2025/02/05/courtyard-by-marriott-siem-reap-resort/",
+        "published_date": "2025-02-05",
+        "summary": "Praises the property as exquisite, noting the Courtyard brand feels more luxurious in Asia, with warm staff, spacious pool-view rooms, an oasis-like pool and an extensive Western-and-Asian breakfast buffet."
+      },
+      {
+        "title": "Review: Courtyard by Marriott Siem Reap Resort",
+        "source": "Luxury Travel Diary",
+        "author": "Claire",
+        "url": "https://www.luxurytraveldiary.com/2018/07/review-courtyard-by-marriott-siem-reap-resort/",
+        "published_date": "2018-07-22",
+        "summary": "Covers Cambodia's first Courtyard, with 233 rooms in award-winning Khmer architecture, a freeform saltwater pool, jacuzzi, kids' pool, Quan Spa and The Upper Deck rooftop bar with 360-degree city views."
+      },
+      {
+        "title": "Courtyard by Marriott, Siem Reap Resort - A Review & Giveaway!",
+        "source": "Life's Tiny Miracles",
+        "author": "Angie S",
+        "url": "https://www.lifestinymiracles.com/2018/10/courtyard-at-marriot-siem-reap-review/",
+        "published_date": "2018-10-31",
+        "summary": "A family-focused review calling the resort a family-friendly oasis, with connecting pool-view rooms, a shallow kids' pool and water slide, staffed kids' club, and a kitchen happy to prepare off-menu dishes for children."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Courtyard By Marriott Siem Reap Full Tour And Review",
+        "channel": "Travel Asia With Allie",
+        "url": "https://www.youtube.com/watch?v=9oQjgiRv3lo",
+        "video_id": "9oQjgiRv3lo"
+      },
+      {
+        "title": "Marriot Courtyard Siem Reap Angkor Cambodia Hotel Review",
+        "channel": "Rohas Travels",
+        "url": "https://www.youtube.com/watch?v=VVZqzRiFkLw",
+        "video_id": "VVZqzRiFkLw"
+      },
+      {
+        "title": "Courtyard by Marriott, Siem Reap Resort",
+        "channel": "Lifes Tiny Miracles",
+        "url": "https://www.youtube.com/watch?v=XilCWOY-r1c",
+        "video_id": "XilCWOY-r1c"
+      },
+      {
+        "title": "Luxury hotel Marriott in Siem Reap, Cambodia",
+        "channel": "Travel with AL",
+        "url": "https://www.youtube.com/watch?v=6ZHfDQxzOSc",
+        "video_id": "6ZHfDQxzOSc"
+      }
+    ]
+  },
+  "tags": [
+    "northern-siem-reap",
+    "saltwater-lagoon-pool",
+    "rooftop-bar",
+    "family-friendly",
+    "angkor-wat-base"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/repcy-courtyard-siem-reap-resort/overview/",
+      "label": "Official Courtyard by Marriott Siem Reap Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297390-d12406578-Reviews-Courtyard_by_Marriott_Siem_Reap_Resort-Siem_Reap_Siem_Reap_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/repcy-courtyard-siem-reap-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-bintan",
+    "moxy-solo",
+    "natra-bintan-tribute"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 80
+      },
+      {
+        "label": "Service",
+        "score": 91
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 82
+      },
+      {
+        "label": "Value",
+        "score": 88
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

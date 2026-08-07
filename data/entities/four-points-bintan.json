@@ -1,0 +1,189 @@
+{
+  "entity_id": "four-points-bintan",
+  "slug": "four-points-bintan",
+  "name": "Four Points by Sheraton Bintan, Lagoi Bay",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bintan",
+  "short_description": "Four Points by Sheraton's beachfront resort on Lagoi Bay in Bintan's Lagoi enclave, with 308 rooms and oceanfront pool villas a short walk from Plaza Lagoi and a ferry hop from Singapore.",
+  "ai_summary": "Four Points by Sheraton Bintan, Lagoi Bay is a modern beachfront resort that opened in early 2024 within the Bintan Resorts enclave, marking its full grand opening in February 2025. Set on Lagoi Bay Beach roughly a ten-minute drive from the Bandar Bentan Telani ferry terminal and a five-minute walk from Plaza Lagoi, it has become a popular weekend escape from Singapore. The property offers 308 stylish rooms and eight oceanfront pool villas, three swimming pools including dedicated children's pools, the Sa'kai Spa, a 24-hour fitness centre and a Kid's Club. Independent coverage and guest reputation consistently praise the fresh, spacious rooms, the direct beach access and pool areas, and genuinely warm, attentive service; several reviewers single out staff who go out of their way for families with young children. Dining draws the most divided opinion: local Indonesian dishes at Rempah Kitchen earn praise, but some guests find the food inconsistent and overpriced relative to value, and the El Lagoi beach club's beverages have disappointed. As a newer resort it occasionally shows teething issues, with reports of slow service or housekeeping delays during peak weekends. Overall it presents as a well-run, family-friendly beach resort that suits travellers seeking a convenient, contemporary Bintan getaway rather than a full-service luxury destination.",
+  "core_facts": {
+    "address": "Jalan Gurindam Duabelas Lot B12 Mix S3, Lagoi Bay, Kawasan Pariwisata Internasional Lagoi, Sebong Lagoi, Kecamatan Teluk Sebong, Kabupaten Bintan, Riau Islands 29155, Indonesia",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Lagoi Bay, Bintan Resorts enclave",
+    "distance_from_airport_km": 60,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Bandar Bentan Telani (Lagoi) Ferry Terminal",
+        "km": 8
+      },
+      {
+        "label": "Plaza Lagoi (town square)",
+        "km": 0.5
+      },
+      {
+        "label": "Lagoi Bay Beach",
+        "km": 0.2
+      },
+      {
+        "label": "Ria Bintan Golf Course",
+        "km": 5
+      }
+    ]
+  },
+  "pros": [
+    "Beachfront location on Lagoi Bay, five-minute walk to Plaza Lagoi and short drive from the Singapore ferry terminal",
+    "Fresh, spacious and well-maintained rooms in a resort that only opened in 2024",
+    "Warm, attentive service repeatedly praised, especially toward families with young children",
+    "Strong pool complex including children's pools plus Sa'kai Spa, Kid's Club and 24-hour gym"
+  ],
+  "cons": [
+    "Food is a divisive point, with several guests calling it inconsistent and overpriced for the value",
+    "Occasional slow service and housekeeping delays during busy weekends",
+    "As a new property some guests reported teething maintenance issues"
+  ],
+  "research_highlights": [
+    "Opened early 2024; celebrated its grand opening on 10 February 2025 as a Bintan Resorts enclave property",
+    "308 rooms and villas including eight oceanfront pool villas, three pools, Sa'kai Spa and a Kid's Club",
+    "TripAdvisor 4.6/5 with a Travelers' Choice 2026 award, ranked #8 of 16 hotels in Lagoi"
+  ],
+  "research_watchouts": [
+    "Dining quality and value receive mixed feedback; manage expectations on food pricing",
+    "Nearest airport (Tanjung Pinang, TNJ) is roughly 60 km away; most guests arrive by ferry from Singapore, not by air"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How do I get to Four Points by Sheraton Bintan, Lagoi Bay?",
+      "answer": "Most guests take the ferry from Singapore's Tanah Merah terminal to Bandar Bentan Telani (Lagoi), about an hour, then a roughly ten-minute drive to the resort. Complimentary shuttle service is provided. The nearest airport, Tanjung Pinang (TNJ), is around 60 km south."
+    },
+    {
+      "question": "Is the resort good for families with children?",
+      "answer": "Yes. It offers dedicated children's pools, a Kid's Club and spacious rooms and villas, and reviewers frequently praise staff for being patient and helpful with young children. Direct beach access and the nearby Plaza Lagoi town square add to its appeal as a family-friendly weekend getaway from Singapore."
+    },
+    {
+      "question": "What dining options are available at the hotel?",
+      "answer": "The resort has three outlets, including Rempah Kitchen serving local Indonesian dishes and the El Lagoi Beach Club by the water. Local specialties earn praise, though some guests find the overall food selection inconsistent and pricey. Plaza Lagoi's additional restaurants are a short walk away for more variety."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Four Points by Sheraton Bintan, Lagoi Bay Celebrates Grand Opening",
+        "source": "Red Bird Travel News",
+        "author": "Paul Lo",
+        "url": "https://www.paullotravel.com/four-points-by-sheraton-bintan-grand-opening/",
+        "published_date": "2025-02-10",
+        "summary": "Trade coverage of the resort's grand opening one year in, detailing its 300 rooms and eight oceanfront villas, restaurants, beach club, spa and easy ferry access from Singapore."
+      },
+      {
+        "title": "4 weekend getaway spots in Batam and Bintan for every traveller",
+        "source": "The Honeycombers",
+        "url": "https://thehoneycombers.com/singapore/batam-bintan-getaway/",
+        "published_date": "2026-01-23",
+        "summary": "Singapore lifestyle guide featuring the resort as a family pick, highlighting its beachfront setting, stylish rooms and villas, outdoor pool, Sa'kai Spa, Kid's Club and proximity to golf courses."
+      },
+      {
+        "title": "Grand Opening of Four Points by Sheraton Bintan, Lagoi Bay",
+        "source": "Bintan Resorts",
+        "url": "https://www.bintan-resorts.com/four-points-sheraton-bintan-lagoi-bay-grand-opening/",
+        "published_date": "2025-02-10",
+        "summary": "Destination operator's account of the grand opening, covering the full rollout of guestrooms, oceanfront villas, spa, fitness centre, restaurants, beach club and event spaces within the Lagoi Bay enclave."
+      },
+      {
+        "title": "Four Points by Sheraton Bintan, Lagoi Bay - hotel profile",
+        "source": "Business Travel News",
+        "url": "https://www.businesstravelnews.com/Hotels/Bintan-Indonesia/Four-Points-by-Sheraton-Bintan-Lagoi-Bay-p60007276",
+        "summary": "Independent business-travel directory profile of the property, summarising its Lagoi Bay location, room and villa inventory and resort facilities for corporate and leisure bookers."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Four Points by Sheraton Bintan, Lagoi Bay • Hotel Room Tour • Indonesia",
+        "channel": "LuShGaL",
+        "url": "https://www.youtube.com/watch?v=f4HxQXl5aZA",
+        "video_id": "f4HxQXl5aZA"
+      },
+      {
+        "title": "Four Points by Sheraton Bintan | Lagoi | Resort | Room tour | Holiday Vlog | Hotel tour",
+        "channel": "Samarth's Explorer Vibes",
+        "url": "https://www.youtube.com/watch?v=CadE637gZiw",
+        "video_id": "CadE637gZiw"
+      },
+      {
+        "title": "Four Points by Sheraton Bintan, Lagoi Bay, Ocean View Villa and resort overview",
+        "channel": "DarthNoward",
+        "url": "https://www.youtube.com/watch?v=i_rs8fUJs0c",
+        "video_id": "i_rs8fUJs0c"
+      }
+    ]
+  },
+  "tags": [
+    "lagoi-bay",
+    "beachfront",
+    "family-friendly",
+    "pool-villas",
+    "ferry-from-singapore"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/tnjfp-four-points-bintan-lagoi-bay/overview/",
+      "label": "Official Four Points by Sheraton Bintan, Lagoi Bay overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297718-d25565943-Reviews-Four_Points_By_Sheraton_Bintan_Lagoi_Bay-Bintan_Island_Bintan_Regency_Riau_Archipelag.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/tnjfp-four-points-bintan-lagoi-bay/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "natra-bintan-tribute",
+    "courtyard-siem-reap",
+    "moxy-solo"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 89
+      },
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 76
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,205 @@
+{
+  "entity_id": "natra-bintan-tribute",
+  "slug": "natra-bintan-tribute",
+  "name": "Natra Bintan, a Tribute Portfolio Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "bintan",
+  "short_description": "Tribute Portfolio glamping resort in Bintan's Lagoi area, with safari-style tents beside Southeast Asia's first man-made Crystal Lagoon, a short ferry ride from Singapore.",
+  "ai_summary": "Natra Bintan, a Tribute Portfolio Resort (formerly The Canopi) is a family-friendly glamping resort in the Lagoi/Bintan Resorts zone, set beside the Crystal Lagoon at Treasure Bay, roughly an hour by ferry from Singapore. Accommodation is around 100 safari-inspired tents ranging from Garden to Lagoon View and Deluxe categories, most pairing an air-conditioned bedroom with a semi-outdoor rainforest-style bathroom, private patio, king bed, LED TV and mini-fridge; larger tents add jetted tubs. Independent reviewers consistently praise the spacious, distinctive tents, the calm turquoise lagoon and its wide range of activities (kayaking, water slides, cable-ski, ATV, archery and mangrove tours), plus warm, personable staff. It reads as a novel, kid-friendly escape rather than a polished beach resort. Watch-outs recur: dining is concentrated at a single all-day venue, The Patio, and both restaurant meals and in-tent BBQs are widely called overpriced with limited choice. The open-concept bathrooms trade privacy and can let in insects, some tents show their age, and occasional aircraft noise is noted. Nearby attractions are limited, so most excursions require arranged transport. TripAdvisor scores it about 4.1 of 5 across roughly 979 reviews, ranking mid-pack among Lagoi hotels, reflecting a strong glamping concept let down mainly by food value.",
+  "core_facts": {
+    "address": "Jalan Raya Haji Km 01, Kawasan Pariwisata, Teluk Sebong, Lagoi, Bintan Regency, Riau Islands 29152, Indonesia",
+    "brand_sub_brand": "Tribute Portfolio",
+    "neighborhood": "Lagoi (Bintan Resorts / Treasure Bay area)",
+    "distance_from_airport_km": 65,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Crystal Lagoon (Treasure Bay)",
+        "km": 0.3
+      },
+      {
+        "label": "Bandar Bentan Telani Ferry Terminal",
+        "km": 4
+      },
+      {
+        "label": "Lagoi Bay",
+        "km": 4
+      },
+      {
+        "label": "Raja Haji Fisabilillah Airport (TNJ), Tanjung Pinang",
+        "km": 65
+      }
+    ]
+  },
+  "pros": [
+    "Spacious, distinctive safari-style glamping tents with private patios and rainforest-style bathrooms",
+    "Calm, scenic Crystal Lagoon with a broad activity menu (kayaking, water slides, cable-ski, ATV, archery)",
+    "Warm, attentive, personable staff frequently highlighted in reviews",
+    "Easy to reach from Singapore by a roughly one-hour ferry, no flight needed"
+  ],
+  "cons": [
+    "Dining concentrated at a single restaurant, with meals and tent BBQs widely called overpriced and limited in choice",
+    "Open-concept tent bathrooms lack privacy and can let in insects",
+    "Some tents feel aged, and aircraft noise plus limited nearby attractions are noted"
+  ],
+  "research_highlights": [
+    "Formerly The Canopi; billed as the first glamping resort on Bintan Island, set beside the 6.3-hectare Crystal Lagoon at Treasure Bay",
+    "Around 100 safari-inspired tents across Garden, Lagoon View and Deluxe categories",
+    "TripAdvisor rating about 4.1/5 from roughly 979 reviews, ranked #9 of 16 hotels in Lagoi"
+  ],
+  "research_watchouts": [
+    "Food value is the most common complaint; budget extra or plan off-resort meals",
+    "Open-air bathrooms and tent living suit adventurous guests more than those wanting a conventional hotel room"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How do I get to Natra Bintan from Singapore?",
+      "answer": "Take a ferry from Singapore's Tanah Merah terminal to Bandar Bentan Telani in Lagoi, roughly a one-hour crossing, then a short resort transfer. The nearest airport is Raja Haji Fisabilillah (TNJ) in Tanjung Pinang, about 65 km south by road."
+    },
+    {
+      "question": "What kind of accommodation does the resort offer?",
+      "answer": "It is a glamping resort with around 100 safari-inspired tents in Garden, Lagoon View and Deluxe categories. Each has an air-conditioned bedroom, private patio, king bed, LED TV and mini-fridge, most with a semi-outdoor rainforest-style bathroom; larger tents add jetted tubs."
+    },
+    {
+      "question": "Is Natra Bintan good for families?",
+      "answer": "Yes. Reviewers repeatedly call it family-friendly thanks to the calm Crystal Lagoon and activities like water slides, kayaking, cable-ski, ATV rides and archery. The spacious tents suit families, though open-concept bathrooms and higher dining prices are worth noting when planning."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review of Natra Bintan glamping tents",
+        "source": "Once in a Lifetime Journey",
+        "author": "Mar",
+        "url": "https://www.onceinalifetimejourney.com/reviews/hotel-resorts/review-of-natra-bintan/",
+        "published_date": "2019-10-02",
+        "summary": "Detailed look at the round glamping tents (formerly Canopi) by the Crystal Lagoon, an hour by ferry from Singapore; rates the mid-range Safari Tent as best value and flags a single all-day restaurant."
+      },
+      {
+        "title": "Discovering Natra Bintan Resort Review: A Glamping Paradise",
+        "source": "Dotz Soh",
+        "author": "Dotz Soh",
+        "url": "https://dotzsoh.com/discovering-natra-bintan-resort-review-a-glamping-paradise-bintan-indonesia/",
+        "published_date": "2024-12-01",
+        "summary": "Reviews the 52 sqm deluxe tents with four-poster beds and jacuzzi bathrooms, plus activities like ATV, cable-ski and mangrove tours around the 6.3-hectare Crystal Lagoon and varied dining."
+      },
+      {
+        "title": "Family Fun at Natra Bintan Resort",
+        "source": "Side Hustle Rich",
+        "author": "Richard",
+        "url": "https://sidehustlerich.com/reviews/family-fun-at-natra-bintan-resort/",
+        "published_date": "2025-05-30",
+        "summary": "Family-focused review of the roughly 100 safari-themed tents and Crystal Lagoon water activities, with off-resort highlights like a kelong seafood dinner, fireflies tour and Safari Lagoi wildlife park."
+      },
+      {
+        "title": "The Natra Bintan Glamping Experience",
+        "source": "Travel 360 Degrees",
+        "author": "Maybelle Bars",
+        "url": "https://travel-360-degrees.com/2020/11/13/the-natra-bintan-glamping-experience/",
+        "published_date": "2020-11-13",
+        "summary": "First-person stay in a 40 sqm Lagoon View Tent with open-air brass-fixture bathroom, praising attentive staff and the one-hour ferry access from Singapore plus The Patio dining."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Bintan Glamping Walking Tour | Natra & Anmon Resort | Indonesia [4K]",
+        "channel": "wanderlust walker",
+        "url": "https://www.youtube.com/watch?v=uT9IMkD8wKg",
+        "video_id": "uT9IMkD8wKg"
+      },
+      {
+        "title": "[360 Room Tour] Glamping Tent with Jetted Bathtub | Natra, Bintan",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=2jpuB2bHkUI",
+        "video_id": "2jpuB2bHkUI"
+      },
+      {
+        "title": "Natra Bintan (former The Canopi) | Treasure Bay -  Full Glamping 3D2N Review! #hotelreview #bintan",
+        "channel": "Seow Onz Travelogue",
+        "url": "https://www.youtube.com/watch?v=Zv6RLngy3G4",
+        "video_id": "Zv6RLngy3G4"
+      },
+      {
+        "title": "Glamping Tent with Jetted Bathtub (Natra Bintan) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=KQeNlhg2ie8",
+        "video_id": "KQeNlhg2ie8"
+      },
+      {
+        "title": "Stay Anmon or Natra Glamping in Bintan to enjoy these Water Activities & Attractions!",
+        "channel": "The WOW Experience",
+        "url": "https://www.youtube.com/watch?v=4T5VD9Jh0h0",
+        "video_id": "4T5VD9Jh0h0"
+      }
+    ]
+  },
+  "tags": [
+    "lagoi",
+    "glamping",
+    "crystal-lagoon",
+    "family-friendly",
+    "treasure-bay"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/tnjtx-natra-bintan-a-tribute-portfolio-resort/overview/",
+      "label": "Official Natra Bintan, a Tribute Portfolio Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1096248-d8536267-Reviews-Natra_Bintan_A_Tribute_Portfolio_Resort-Lagoi_Bintan_Island_Bintan_Regency_Riau_Archi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/tnjtx-natra-bintan-a-tribute-portfolio-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "four-points-bintan",
+    "courtyard-siem-reap",
+    "moxy-solo"
+  ],
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 80
+      },
+      {
+        "label": "Service",
+        "score": 87
+      },
+      {
+        "label": "Rooms",
+        "score": 82
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 73
+      },
+      {
+        "label": "Value",
+        "score": 77
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}
