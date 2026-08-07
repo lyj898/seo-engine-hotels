@@ -68,6 +68,31 @@
       "answer": "No. This is Fairfield by Marriott Cebu Mactan on Mactan Island near the airport. It is separate from Fairfield by Marriott Cebu Mandaue City on the mainland and from the Sheraton Cebu Mactan Resort. Confirm the exact property name when booking to avoid confusion."
     }
   ],
+  "external_coverage": {
+    "reviews": [
+
+    ],
+    "videos": [
+      {
+        "title": "Cebu Just Opened a New Hotel Near the Airport",
+        "channel": "Finding Paradise",
+        "url": "https://www.youtube.com/watch?v=Ev6YIVQPewc",
+        "video_id": "Ev6YIVQPewc"
+      },
+      {
+        "title": "A New Marriott Hotel Just Landed in Cebu #cebu",
+        "channel": "Finding Paradise",
+        "url": "https://www.youtube.com/watch?v=3MERgLlD5OA",
+        "video_id": "3MERgLlD5OA"
+      },
+      {
+        "title": "Fairfield by Marriott Cebu Mactan officially opened on Wednesday",
+        "channel": "BusinessWorldTV",
+        "url": "https://www.youtube.com/watch?v=gDKaX6hfOe8",
+        "video_id": "gDKaX6hfOe8"
+      }
+    ]
+  },
   "tags": [
     "mactan-island",
     "airport-hotel",
