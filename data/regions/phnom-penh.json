@@ -1,0 +1,12 @@
+{
+  "region_id": "phnom-penh",
+  "slug": "phnom-penh",
+  "label": "Phnom Penh",
+  "granularity": "city",
+  "parent_region_id": "cambodia",
+  "short_description": "Loyalty-program hotels in Phnom Penh, Cambodia's riverside capital and business centre.",
+  "intro": "Phnom Penh's hotels in this directory sit in and around the central business districts of Cambodia's capital, near the Tonle Sap and Mekong riverfront, the Royal Palace and the city's landmark towers. The mix is business- and city-oriented select-service and upscale hotels, a short drive from the city's international airport.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

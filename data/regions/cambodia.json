@@ -1,0 +1,12 @@
+{
+  "region_id": "cambodia",
+  "slug": "cambodia",
+  "label": "Cambodia",
+  "granularity": "country",
+  "parent_region_id": null,
+  "short_description": "Loyalty-program hotels in Cambodia, in the capital Phnom Penh and the Angkor temple gateway of Siem Reap.",
+  "intro": "Cambodia's coverage in this directory spans the two main visitor bases: Phnom Penh, the riverside capital and business centre, and Siem Reap, the laid-back town that serves as the gateway to the Angkor temple complex. The properties here are compact select-service and upscale city hotels rather than beach resorts.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

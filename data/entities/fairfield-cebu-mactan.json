@@ -1,0 +1,133 @@
+{
+  "entity_id": "fairfield-cebu-mactan",
+  "slug": "fairfield-cebu-mactan",
+  "name": "Fairfield by Marriott Cebu Mactan",
+  "category_id": "marriott-bonvoy",
+  "region_id": "cebu",
+  "short_description": "Marriott's first city hotel in Mactan, this 196-room Fairfield sits minutes from Cebu's airport and connects directly to Mahi Mall, built for airport-adjacent business and leisure stays.",
+  "ai_summary": "Fairfield by Marriott Cebu Mactan opened in December 2025 as Marriott's first international city hotel on Mactan Island, a select-service property aimed squarely at 'bleisure' travelers who value proximity and simplicity over resort trappings. Its biggest draw is location: it sits roughly two to five minutes from Mactan-Cebu International Airport within the Mahi Center mixed-use complex, with a direct connection to Mahi Mall for dining and shopping. The 196 rooms come in Standard Twin, Standard Queen and Deluxe Queen categories, with clean, Scandinavian- and Japanese-inspired interiors, ergonomic desks, mini-fridges and smart TVs; some rooms offer Mactan Channel or city views. On-site dining centers on DAVOS, an all-day restaurant serving local seafood and international dishes, backed by The Market grab-and-go and free breakfast for eligible guests. Other facilities include a 24-hour fitness center and roughly 250 square meters of divisible event space, but there is no swimming pool. Early guest feedback praises the friendly staff, spotless rooms and unbeatable airport access, while noting the typical rough edges of a brand-new build, including a lingering new-construction smell and some facilities still being completed. It is a convenient transit and business base rather than a beach resort.",
+  "core_facts": {
+    "address": "Mahi Center, Mactan Economic Zone 1, Barangay Ibo, Lapu-Lapu City, Cebu, Philippines",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "Mactan Economic Zone, Lapu-Lapu City (Mactan Island)",
+    "distance_from_airport_km": 2,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Mahi Mall (direct connection)",
+        "km": 0
+      },
+      {
+        "label": "Jpark Island Waterpark",
+        "km": 9
+      },
+      {
+        "label": "SM City Cebu (mainland)",
+        "km": 12
+      }
+    ]
+  },
+  "pros": [
+    "Two-to-five minutes from Mactan-Cebu International Airport, ideal for early flights and layovers",
+    "Direct indoor connection to Mahi Mall for dining, shopping and grab-and-go options",
+    "Clean, well-designed modern rooms with ergonomic desks praised in early reviews",
+    "Friendly, accommodating staff and a solid all-day restaurant (DAVOS) with free breakfast"
+  ],
+  "cons": [
+    "No swimming pool and no resort-style facilities despite being on beach-lined Mactan Island",
+    "Brand-new build with reports of a new-construction smell and some areas still being finished",
+    "Select-service city hotel positioning means limited leisure amenities on-site"
+  ],
+  "research_highlights": [
+    "Opened December 2025 as Marriott International's first city hotel in Mactan",
+    "196 rooms across Standard Twin, Standard Queen and Deluxe Queen categories",
+    "DAVOS all-day dining plus a 24-hour fitness center and ~250 sqm of event space"
+  ],
+  "research_watchouts": [
+    "Very new hotel (opened late 2025) with only a thin base of genuine independent guest reviews so far",
+    "This is the airport-area Mactan property, distinct from Fairfield Cebu Mandaue City and Sheraton Cebu Mactan"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is the hotel from Mactan-Cebu International Airport?",
+      "answer": "It is extremely close, roughly two to five minutes by car within the Mahi Center complex in the Mactan Economic Zone. This makes it a strong choice for travelers with early departures, late arrivals or connecting flights who want minimal transfer time and stress."
+    },
+    {
+      "question": "Does Fairfield by Marriott Cebu Mactan have a swimming pool?",
+      "answer": "No. It is a select-service city hotel and does not have a swimming pool. On-site facilities focus on a 24-hour fitness center, the DAVOS all-day restaurant, The Market grab-and-go and flexible meeting space rather than resort-style leisure amenities."
+    },
+    {
+      "question": "Is this the same as the Fairfield in Mandaue City?",
+      "answer": "No. This is Fairfield by Marriott Cebu Mactan on Mactan Island near the airport. It is separate from Fairfield by Marriott Cebu Mandaue City on the mainland and from the Sheraton Cebu Mactan Resort. Confirm the exact property name when booking to avoid confusion."
+    }
+  ],
+  "tags": [
+    "mactan-island",
+    "airport-hotel",
+    "mall-connected",
+    "business-travel",
+    "select-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/cebfi-fairfield-cebu-mactan/overview/",
+      "label": "Official Fairfield by Marriott Cebu Mactan overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298461-d34120673-Reviews-Fairfield_by_Marriott_Cebu_Mactan-Lapu_Lapu_Mactan_Island_Cebu_Island_Visayas.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/cebfi-fairfield-cebu-mactan/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "fairfield-cebu-mandaue",
+    "sheraton-cebu-mactan",
+    "courtyard-phnom-penh"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 90
+      },
+      {
+        "label": "Service",
+        "score": 86
+      },
+      {
+        "label": "Rooms",
+        "score": 82
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 83
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-06",
+  "status": "needs_review"
+}

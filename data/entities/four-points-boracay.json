@@ -1,0 +1,133 @@
+{
+  "entity_id": "four-points-boracay",
+  "slug": "four-points-boracay",
+  "name": "Four Points by Sheraton Boracay",
+  "category_id": "marriott-bonvoy",
+  "region_id": "boracay",
+  "short_description": "Four Points by Sheraton Boracay is a 339-room resort in Station 1 near White Beach, built around a large central pool complex as the island's first Marriott Bonvoy property.",
+  "ai_summary": "Opened in December 2023 as Boracay's first Marriott Bonvoy property, Four Points by Sheraton Boracay is a 339-room resort spread across three buildings in the upscale Station 1 area, a short three-to-five-minute walk from White Beach. Independent reviewers consistently praise the large central pool complex and poolside bar as the standout feature, along with spacious, spotlessly clean and modern rooms, and warm, attentive service noted from check-in onward. The breakfast buffet draws steady approval for its variety and generous Filipino offerings, and several bloggers highlight strong value relative to Boracay's pricier beachfront resorts. Marriott elite members report reliable room upgrades and included breakfast, though there is no dedicated executive lounge at this Four Points property. Honest watch-outs recur across reviews: the hotel is not beachfront and requires a short walk to the sand, and its polished, contemporary design can feel sterile to guests hoping for a more tropical island vibe. Some travelers note the on-site restaurant feels underused at dinner, the fitness center is compact, and the lap-pool access is limited to guests booking the top Premiere Deluxe Lap Pool room category. A handful of critical TripAdvisor reviews cite air-conditioning and insect issues, but the aggregate rating and independent coverage remain solidly positive.",
+  "core_facts": {
+    "address": "Station 1, Boracay Island, Malay, Aklan 5608, Philippines",
+    "brand_sub_brand": "Four Points by Sheraton",
+    "neighborhood": "Station 1 (Punta Bunga area), Boracay Island",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "White Beach",
+        "km": 0.3
+      },
+      {
+        "label": "D'Mall / Station 2",
+        "km": 1.5
+      },
+      {
+        "label": "Puka Shell Beach",
+        "km": 3
+      }
+    ]
+  },
+  "pros": [
+    "Large central pool complex with poolside bar, repeatedly called the property's best feature",
+    "Spacious, spotlessly clean, modern rooms with quality furnishings",
+    "Warm, attentive service noted consistently from check-in onward",
+    "Diverse breakfast buffet with generous Filipino options and good overall value"
+  ],
+  "cons": [
+    "Not beachfront; a three-to-five-minute walk is needed to reach White Beach",
+    "Polished contemporary design can feel sterile and short on tropical island character",
+    "Lap-pool access is restricted to the top Premiere Deluxe Lap Pool room category"
+  ],
+  "research_highlights": [
+    "Opened December 2023 as the first Marriott-managed / Marriott Bonvoy property on Boracay",
+    "339 rooms and suites across three buildings built around a large central pool",
+    "TripAdvisor rating 4.0/5, ranked #33 of 173 Boracay hotels (~350 reviews)"
+  ],
+  "research_watchouts": [
+    "Reaching White Beach and Station 2's dining/nightlife requires a short walk or the hotel shuttle",
+    "No dedicated executive lounge; elite benefits are limited to upgrades and breakfast"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Is Four Points by Sheraton Boracay on the beach?",
+      "answer": "No, it is not directly beachfront. The resort sits in Station 1, roughly a three-to-five-minute walk from White Beach. Guests reach the sand and Station 2's shops and dining on foot or via the hotel's free shuttle, trading a beachfront position for quieter, more private grounds."
+    },
+    {
+      "question": "How do I get to the hotel from the airport?",
+      "answer": "Fly into Caticlan (MPH), the nearest airport, then take a short boat transfer across to Boracay Island followed by a land transfer to Station 1. Kalibo (KLO) is a cheaper alternative but roughly two hours away by road plus the same boat crossing to reach the resort."
+    },
+    {
+      "question": "Does the hotel have an executive lounge for elite members?",
+      "answer": "No, this Four Points does not have a dedicated executive or club lounge. Marriott Bonvoy elite members still report reliable perks such as complimentary breakfast and room upgrades when available, but lounge access is not part of the offering at this property."
+    }
+  ],
+  "tags": [
+    "station-1",
+    "boracay",
+    "pool-resort",
+    "family-friendly",
+    "first-marriott-boracay"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/mphbp-four-points-boracay/overview/",
+      "label": "Official Four Points by Sheraton Boracay overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294260-d26727449-Reviews-Four_Points_By_Sheraton_Boracay-Boracay_Malay_Aklan_Province_Panay_Island_Visayas.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/mphbp-four-points-boracay/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-phnom-penh",
+    "fairfield-cebu-mactan",
+    "fairfield-cebu-mandaue"
+  ],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 84
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 86
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 84
+      },
+      {
+        "label": "Value",
+        "score": 85
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

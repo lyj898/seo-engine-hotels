@@ -1,0 +1,170 @@
+{
+  "entity_id": "fairfield-phnom-penh",
+  "slug": "fairfield-phnom-penh",
+  "name": "Fairfield by Marriott Phnom Penh",
+  "category_id": "marriott-bonvoy",
+  "region_id": "phnom-penh",
+  "short_description": "Business hotel occupying the upper floors of the 45-storey Chip Mong Tower, one of Phnom Penh's tallest, crowned by The Winds rooftop bar on floors 44-45.",
+  "ai_summary": "Fairfield by Marriott Phnom Penh opened in March 2023 in the upper floors of the Chip Mong Tower, a 45-storey landmark completed in 2022 in the Toul Kouk district. Independent reviewers consistently praise the property's light, modern, minimalist design, floor-to-ceiling city views, and a ground-floor private lobby with direct elevator access to reception on the 27th floor. The standout facility is The Winds rooftop bar and lounge on floors 44-45, repeatedly singled out for striking sunset views, creative cocktails, and both Khmer and international dishes; reviewers rated the restaurant's evening a la carte and its Khmer lok lak highly. A 28th-floor infinity pool and adjacent fitness centre share the elevated views. Staff earn warm marks for friendly, professional service, and the buffet breakfast mixing Khmer and international options is well received. The most common criticism is the open-plan room layout, where the bathroom sits behind frosted glass or a shower cubicle with little full enclosure, which divides opinion. Reviewers also note the absence of room service (flagged as planned) and that the hotel sits in Toul Kouk rather than the riverside tourist core. As a new build it draws mixed comments on character, but it reads as a clean, reliable, high-rise business choice.",
+  "core_facts": {
+    "address": "Russian Federation Blvd, Sangkat Phsar Depou 3, Khan Toul Kouk, Phnom Penh 120403, Cambodia",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "Toul Kouk (Chip Mong Tower)",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Central Market (Phsar Thmey)",
+        "km": 3.5
+      },
+      {
+        "label": "Royal Palace",
+        "km": 5
+      }
+    ]
+  },
+  "pros": [
+    "The Winds rooftop bar on floors 44-45 delivers some of the highest sunset views in Phnom Penh",
+    "Bright, modern, minimalist rooms with floor-to-ceiling windows and strong city views",
+    "Friendly, professional staff and a well-regarded Khmer-and-international breakfast buffet",
+    "Elevated 28th-floor infinity pool and 24-hour fitness centre with panoramic outlooks"
+  ],
+  "cons": [
+    "Open-plan bathroom design with minimal enclosure divides guests",
+    "No in-room dining at time of review (management said it was planned)",
+    "Located in Toul Kouk rather than the riverside/Royal Palace tourist core"
+  ],
+  "research_highlights": [
+    "Opened March 2023 in the Chip Mong Tower, a 45-storey landmark completed in 2022",
+    "The Winds rooftop bar and lounge occupies floors 44-45, among the highest in the city",
+    "TripAdvisor rating 4/5, ranked around #65 of 403 Phnom Penh hotels"
+  ],
+  "research_watchouts": [
+    "Rooms use an open-plan bathroom layout that not all guests find comfortable",
+    "Airport transfers now run longer as Phnom Penh's international traffic shifts to a new airport further out"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "Where is Fairfield by Marriott Phnom Penh located?",
+      "answer": "It occupies the upper floors of the 45-storey Chip Mong Tower on Russian Federation Boulevard in the Toul Kouk district, roughly 8km from Phnom Penh International Airport and about 5km from the Royal Palace and riverside area."
+    },
+    {
+      "question": "What is The Winds rooftop bar?",
+      "answer": "The Winds is the hotel's rooftop bar and lounge on floors 44 and 45, among the highest venues in Phnom Penh. Reviewers praise its striking design, sunset city views, creative cocktails, and a menu of both Khmer and international dishes."
+    },
+    {
+      "question": "Does the hotel have a pool and gym?",
+      "answer": "Yes. There is an infinity pool on the 28th floor alongside a 24-hour fitness centre, both offering elevated panoramic views over the city. Guests generally enjoy the setting, though pool access can be affected by occasional maintenance."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Fairfield by Marriott Phnom Penh: My review",
+        "source": "Home in the World",
+        "url": "https://homeintheworld.net/2025/09/20/fairfield-by-marriott-phnom-penh/",
+        "published_date": "2025-09-20",
+        "summary": "Blog review praising the bright, minimalist design and The Winds rooftop bar's blue-walled sunset setting, while flagging the open-plan bathroom with no walls and the lack of room service."
+      },
+      {
+        "title": "Fairfield by Marriott Phnom Penh Review",
+        "source": "Global Traveler",
+        "author": "Richard Newton",
+        "url": "https://www.globaltravelerusa.com/fairfield-by-marriott-phnom-penh-review/",
+        "published_date": "2024-04-24",
+        "summary": "Magazine review of the 45-storey tower hotel, praising the clever frosted-glass room design, the 28th-floor infinity pool, and The Winds rooftop bar, plus a standout Khmer lok lak at the all-day restaurant."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Phnom Penh’s Best New View? | Fairfield by Marriott Cambodia Tour",
+        "channel": "SeansEyeView Travel Channel",
+        "url": "https://www.youtube.com/watch?v=wkcZ2sUFWhM",
+        "video_id": "wkcZ2sUFWhM",
+        "published_date": "2024-10-31"
+      },
+      {
+        "title": "Fairfield by Marriott Phnom Penh - Deluxe King",
+        "channel": "Follow Us",
+        "url": "https://www.youtube.com/watch?v=vHV0ZGKduQI",
+        "video_id": "vHV0ZGKduQI",
+        "published_date": "2025-05-22"
+      },
+      {
+        "title": "Fairfield by Marriott Phnom Penh",
+        "channel": "DernTangBoi",
+        "url": "https://www.youtube.com/watch?v=G-KV6KMUPXs",
+        "video_id": "G-KV6KMUPXs"
+      }
+    ]
+  },
+  "tags": [
+    "toul-kouk",
+    "rooftop-bar",
+    "infinity-pool",
+    "high-rise",
+    "business-hotel"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/pnhfi-fairfield-phnom-penh/overview/",
+      "label": "Official Fairfield by Marriott Phnom Penh overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293940-d25325074-Reviews-Fairfield_By_Marriott_Phnom_Penh-Phnom_Penh.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/pnhfi-fairfield-phnom-penh/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "courtyard-phnom-penh",
+    "fairfield-cebu-mactan",
+    "fairfield-cebu-mandaue"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 78
+      },
+      {
+        "label": "Service",
+        "score": 87
+      },
+      {
+        "label": "Rooms",
+        "score": 80
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 85
+      },
+      {
+        "label": "Value",
+        "score": 83
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

@@ -1,0 +1,183 @@
+{
+  "entity_id": "fairfield-cebu-mandaue",
+  "slug": "fairfield-cebu-mandaue",
+  "name": "Fairfield by Marriott Cebu Mandaue City",
+  "category_id": "marriott-bonvoy",
+  "region_id": "cebu",
+  "short_description": "Select-service Fairfield by Marriott hotel in Mandaue City on Cebu's main island, with a Japanese-influenced design, rooftop deck and outdoor pool, roughly 15 minutes from Mactan-Cebu airport.",
+  "ai_summary": "Opened in December 2023 as the first Fairfield by Marriott in the Philippines, this nine-story, 142-room hotel sits in Mandaue City's Ibabao-Estancia district on Cebu's main island, close to the bridges linking to Mactan and about 15 minutes from the airport. It is an uncomplicated select-service property aimed at business and value travelers, with a Japanese-influenced, pared-back design. Reviewers consistently praise the attentive, friendly staff, spotless and bright rooms with comfortable beds, and strong value for a Marriott-branded stay. Facilities include a rooftop deck with city views, an outdoor pool, a 24-hour fitness center, an all-day restaurant serving Filipino and international dishes, and three barangay-named meeting rooms. Watch-outs are mostly about location and format: the hotel sits in a business/industrial pocket with little walkable dining or shopping, so guests rely on taxis or Grab. Some reviewers dislike the open-concept bathroom separated only by a sliding door, describe the buffet breakfast spread as modest, and note breakfast is not always bundled into the rate. As a Fairfield, it offers no executive lounge, and elite recognition is limited compared with full-service Marriott brands. Overall it reads as a clean, reliable, well-priced airport-area base rather than a resort or destination stay.",
+  "core_facts": {
+    "address": "A.C. Cortes Avenue, Ibabao-Estancia, Mandaue City, 6014 Cebu, Philippines",
+    "brand_sub_brand": "Fairfield by Marriott",
+    "neighborhood": "Ibabao-Estancia, Mandaue City",
+    "distance_from_airport_km": 9,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability (select-service upgrade pool)",
+      "Bonus points in lieu of breakfast for Platinum Elite and above at hotels without full breakfast service",
+      "Enhanced Wi-Fi and a welcome amenity for all Elite tiers"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Ayala Center Cebu",
+        "km": 6
+      },
+      {
+        "label": "Cebu IT Park",
+        "km": 7
+      },
+      {
+        "label": "Marcelo Fernan Bridge (to Mactan)",
+        "km": 3
+      }
+    ]
+  },
+  "pros": [
+    "Attentive, friendly staff repeatedly singled out for warm, responsive service",
+    "Bright, spotless, newly-built rooms with comfortable beds",
+    "Strong value for a Marriott-branded property, often near budget rates",
+    "Convenient for the airport (~15 min) and the bridges to Mactan island"
+  ],
+  "cons": [
+    "Business/industrial location with little walkable dining or shopping nearby",
+    "Open-concept bathroom with only a sliding door divides opinion",
+    "Modest buffet breakfast that is not always included in the rate"
+  ],
+  "research_highlights": [
+    "Opened December 1, 2023 as the first Fairfield by Marriott in the Philippines",
+    "Nine-story tower with 142 rooms and suites, rooftop deck and outdoor pool",
+    "TripAdvisor 4.0/5, ranked around #100 of 351 hotels on Cebu Island"
+  ],
+  "research_watchouts": [
+    "Select-service brand: no executive lounge and limited elite recognition",
+    "Location is convenient for the airport but not walkable for dining or malls"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is the hotel from Mactan-Cebu International Airport?",
+      "answer": "The hotel sits in Mandaue City on Cebu's main island, roughly 9 km and about 15 minutes by car from Mactan-Cebu International Airport, though it can be as quick as 10 minutes by taxi when traffic across the Mactan bridges is light."
+    },
+    {
+      "question": "Is breakfast included at Fairfield by Marriott Cebu Mandaue City?",
+      "answer": "Breakfast is served daily at the all-day restaurant, but it is not always bundled into the room rate, so guests should confirm at booking. Reviewers describe the buffet as decent and satisfactory though somewhat limited in spread compared with larger hotels."
+    },
+    {
+      "question": "What facilities does the hotel offer?",
+      "answer": "Facilities include an outdoor swimming pool, a rooftop deck with city views, a 24-hour fitness center, an all-day restaurant serving Filipino and international dishes, a grab-and-go market, and three meeting rooms named after local barangays for events and business functions."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Fairfield by Marriott Cebu Review — Affordable Luxury in Cebu",
+        "source": "Gohsomewhere",
+        "author": "JX",
+        "url": "https://gohsomewhere.com/fairfield-by-marriott-cebu-review/",
+        "published_date": "2024-05-01",
+        "summary": "First-hand stay review calling it a strong-value new hotel: attentive staff, bright spacious rooms and reliable WiFi, but a far-from-centre location, open bathroom layout and a limited breakfast spread."
+      },
+      {
+        "title": "The first Fairfield by Marriott in the Philippines is now open in Mandaue City",
+        "source": "SunStar Cebu",
+        "author": "Jewil Anne M. Tabiolo",
+        "url": "https://www.sunstar.com.ph/cebu/feature/the-first-fairfield-by-marriott-in-the-philippines-is-now-open-in-mandaue-city",
+        "published_date": "2023-12-13",
+        "summary": "Opening feature detailing the 142-room hotel: all-day restaurant, rooftop deck, pool, fitness center and barangay-named meeting rooms, positioned as the first Fairfield brand in the country."
+      },
+      {
+        "title": "Fairfield by Marriott Cebu Mandaue City grand opening marks a first in Cebu",
+        "source": "Cebu Daily News (Inquirer)",
+        "author": "Khryss Melchor Gabuya",
+        "url": "https://cebudailynews.inquirer.net/543123/fairfield-by-marriott-cebu-mandaue-city-grand-opening-marks-a-first-in-cebu",
+        "published_date": "2023-12-02",
+        "summary": "Coverage of the December 1, 2023 grand opening, noting it is the inaugural Fairfield brand hotel in Cebu and highlighting the brand's focus on comfortable, uncomplicated stays."
+      },
+      {
+        "title": "Marriott's first Fairfield brand opens in Mandaue City",
+        "source": "SunStar Cebu",
+        "author": "Katlene O. Cacho-Laurejas",
+        "url": "https://www.sunstar.com.ph/cebu/marriotts-first-fairfield-brand-opens-in-mandaue-city",
+        "published_date": "2023-12-13",
+        "summary": "Business report on the nine-story, 142-room hotel targeting productivity-focused 'balance seekers,' with three event rooms and a location on A.C. Cortes Avenue in Mandaue City."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Is the FIRST EVER Fairfield by Marriott in the Philippines a Game Changer?",
+        "channel": "Finding Paradise",
+        "url": "https://www.youtube.com/watch?v=cP73PwJhfuI",
+        "video_id": "cP73PwJhfuI"
+      },
+      {
+        "title": "Guest Room at Fairfield by Marriott Cebu Mandaue City | Room Tour",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=MA7zMyKZKcE",
+        "video_id": "MA7zMyKZKcE"
+      }
+    ]
+  },
+  "tags": [
+    "mandaue-city",
+    "airport-hotel",
+    "select-service",
+    "outdoor-pool",
+    "business-travel"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/cebfm-fairfield-cebu-mandaue-city/overview/",
+      "label": "Official Fairfield by Marriott Cebu Mandaue City overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g608518-d27098289-Reviews-Fairfield_by_Marriott_Cebu_Mandaue_City-Mandaue_Cebu_Island_Visayas.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/cebfm-fairfield-cebu-mandaue-city/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "fairfield-cebu-mactan",
+    "sheraton-cebu-mactan",
+    "courtyard-phnom-penh"
+  ],
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 76
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 85
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 78
+      },
+      {
+        "label": "Value",
+        "score": 86
+      }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

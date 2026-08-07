@@ -1,0 +1,196 @@
+{
+  "entity_id": "sheraton-cebu-mactan",
+  "slug": "sheraton-cebu-mactan",
+  "name": "Sheraton Cebu Mactan Resort",
+  "category_id": "marriott-bonvoy",
+  "region_id": "cebu",
+  "short_description": "Beachfront Sheraton resort on the tip of Mactan Island, Cebu, with some of the island's largest sea-view rooms, cascading infinity pools and Sheraton's first branded spa in Asia.",
+  "ai_summary": "The Sheraton Cebu Mactan Resort is a beachfront property occupying the northern tip of Mactan Island, opened in 2023 as one of the newest full-service resorts on the island. Independent reviewers consistently praise its 261 rooms and suites, among the largest on Mactan, with Filipino-inspired hardwood interiors, private balconies, soaking tubs, rain showers and marble bathrooms overlooking gardens or the sea. The elevated, fifth-floor open-air lobby maximises panoramic ocean views. Facilities draw rave notices: cascading infinity-edge pools, a white-sand beach with watersports, a 24-hour fitness centre, a kids' club and teen club, and Sheraton's first branded spa in Asia with six treatment rooms. Dining is a highlight, from the extensive 5 Cien breakfast buffet to Nikkei-style Dip and the cave-set Buhi Bar. Service earns strong marks for genuine Filipino hospitality, and elite guests report complimentary breakfast and activity vouchers. Watch-outs are consistent across sources: the resort feels isolated with little walkable nearby, food and drink prices run high, service at some outlets can be inconsistent, and sunbeds and upgrades can be limited. On TripAdvisor it holds a 4-of-5 rating, ranked around #8 of 69 area hotels from roughly 928 reviews.",
+  "core_facts": {
+    "address": "Punta Engaño Road, Mactan Island, Lapu-Lapu City, Cebu 6015, Philippines",
+    "brand_sub_brand": "Sheraton",
+    "neighborhood": "Punta Engaño, Mactan Island",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Room upgrades for Platinum Elite and above, subject to availability",
+      "Complimentary breakfast or bonus points for Platinum Elite and above, per Marriott Bonvoy program terms",
+      "Guaranteed room availability with 24-hour notice for Titanium and Ambassador Elite"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Lapu-Lapu Shrine (Mactan Shrine)",
+        "km": 3
+      },
+      {
+        "label": "Mactan-Cebu International Airport (CEB)",
+        "km": 13
+      },
+      {
+        "label": "Cebu City centre",
+        "km": 20
+      }
+    ]
+  },
+  "pros": [
+    "Spacious sea-view rooms with balconies, soaking tubs and rain showers, among the largest on Mactan Island",
+    "Cascading infinity-edge pools, white-sand beach and Sheraton's first branded spa in Asia",
+    "Extensive 5 Cien breakfast buffet with Western and Filipino live-cooking stations",
+    "Warm, genuine Filipino hospitality repeatedly noted by independent reviewers"
+  ],
+  "cons": [
+    "Isolated location with little walkable dining or attractions nearby",
+    "Food and drink prices run high and value is seen as mixed",
+    "Service at some outlets (e.g. Dip) can feel rushed or inconsistent"
+  ],
+  "research_highlights": [
+    "Opened in 2023 as one of the newest resorts on Mactan Island",
+    "Home to Sheraton's first branded spa in Asia, with six treatment rooms",
+    "TripAdvisor 4/5, ranked around #8 of 69 area hotels from ~928 reviews"
+  ],
+  "research_watchouts": [
+    "Remote Punta Engaño setting means guests largely stay on-property; budget for Grab/taxi trips",
+    "Expect premium pricing on food and drinks; elite upgrades are not guaranteed"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-06",
+  "audit_last_checked": "2026-08-06",
+  "faqs": [
+    {
+      "question": "How far is the resort from Mactan-Cebu International Airport?",
+      "answer": "The Sheraton Cebu Mactan Resort sits on Punta Engaño Road at the northern tip of Mactan Island, roughly 13 km from Mactan-Cebu International Airport. Reviewers report a drive of about 20 to 30 minutes depending on traffic, and the resort can arrange airport transfers on request."
+    },
+    {
+      "question": "What dining and pool facilities does the resort have?",
+      "answer": "There are cascading infinity-edge pools, a white-sand beach and multiple restaurants, including the 5 Cien breakfast buffet, Nikkei-style Dip and the cave-set Buhi Bar. A six-room spa, fitness centre, kids' club and teen club round out the family-friendly facilities on the property."
+    },
+    {
+      "question": "Is Sheraton Cebu Mactan Resort good for families?",
+      "answer": "Yes. The resort offers some of Mactan's largest rooms, a kids' club, a teen club with games consoles, watersports and large pools with beach access. Reviewers highlight the spacious sea-view accommodations and warm service, though note that dining prices are high and the setting is fairly isolated."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Sheraton Cebu Mactan Resort",
+        "source": "The Bulkhead Seat",
+        "author": "Anthony Losanno",
+        "url": "https://thebulkheadseat.com/hotel-review-sheraton-cebu-mactan-resort/",
+        "published_date": "2026-03-01",
+        "summary": "Reviewer scores this beachfront resort 8.3/10, praising beautiful grounds, a spacious ocean-view Honeymoon Suite, a standout breakfast and Titanium elite perks, but flags an isolated location and rushed dining service."
+      },
+      {
+        "title": "Hotel Review: Sheraton Cebu Mactan Resort",
+        "source": "Pursuitist",
+        "author": "Ramsey Qubein",
+        "url": "https://pursuitist.com/hotel-review-sheraton-cebu-mactan-resort/",
+        "published_date": "2023-09-04",
+        "summary": "An entirely positive review highlighting the elevated fifth-floor lobby, Filipino-inspired sea-view rooms, five restaurants, infinity pools and Sheraton's first branded spa in Asia, plus warm local hospitality."
+      },
+      {
+        "title": "Sheraton Cebu Mactan Resort Review: Luxurious Seaside Staycation in Lapu-Lapu City",
+        "source": "Adto Ta Philippines",
+        "author": "Sinjin Pineda",
+        "url": "https://www.letsgsinjin.com/sheraton-cebu-mactan-resort-review/",
+        "published_date": "2025-04-21",
+        "summary": "A staycation review describing a clean, coastal five-star feel with warm, modern ocean-view rooms, an infinity pool, thoughtful gardens and consistent, professional service; the author says they would return."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sheraton Cebu Mactan Island Hotel Resort Review Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=zuZXQ0fFzBM",
+        "video_id": "zuZXQ0fFzBM",
+        "published_date": "2023-09-13"
+      },
+      {
+        "title": "Sheraton Cebu Mactan Resort | Full Tour 🇵🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=FlxUd1HoExU",
+        "video_id": "FlxUd1HoExU",
+        "published_date": "2023-07-10"
+      },
+      {
+        "title": "Ocean View Guest Room @ Sheraton Cebu Mactan Resort, Philippines 🇵🇭",
+        "channel": "Ariff Suffian",
+        "url": "https://www.youtube.com/watch?v=C_ZkgCqwFbQ",
+        "video_id": "C_ZkgCqwFbQ",
+        "published_date": "2023-11-25"
+      },
+      {
+        "title": "Sheraton Honeymoon Suite at Sheraton Cebu Mactan | Hotel Room Tour 🇵🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=JYlf2y0BXpE",
+        "video_id": "JYlf2y0BXpE"
+      },
+      {
+        "title": "Presidential Suite at Sheraton Cebu Mactan | Hotel Room Tour 🇵🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=xxhCXLbl7Zs",
+        "video_id": "xxhCXLbl7Zs"
+      }
+    ]
+  },
+  "tags": [
+    "punta-engano",
+    "beachfront",
+    "family-friendly",
+    "infinity-pool",
+    "spa"
+  ],
+  "source_mix": [
+    {
+      "url": "https://www.marriott.com/en-us/hotels/cebsi-sheraton-cebu-mactan-resort/overview/",
+      "label": "Official Sheraton Cebu Mactan Resort overview",
+      "type": "official",
+      "last_checked": "2026-08-06"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298461-d23610161-Reviews-Sheraton_Cebu_Mactan_Resort-Lapu_Lapu_Mactan_Island_Cebu_Island_Visayas.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-06"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.marriott.com/en-us/hotels/cebsi-sheraton-cebu-mactan-resort/overview/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "fairfield-cebu-mactan",
+    "fairfield-cebu-mandaue",
+    "courtyard-phnom-penh"
+  ],
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      {
+        "label": "Location",
+        "score": 82
+      },
+      {
+        "label": "Service",
+        "score": 89
+      },
+      {
+        "label": "Rooms",
+        "score": 90
+      },
+      {
+        "label": "Food & breakfast",
+        "score": 83
+      },
+      {
+        "label": "Value",
+        "score": 78
+      }
+    ]
+  },
+  "reliability_score": 64,
+  "last_updated": "2026-08-06",
+  "status": "active"
+}

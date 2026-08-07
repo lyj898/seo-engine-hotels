@@ -1,0 +1,12 @@
+{
+  "region_id": "cebu",
+  "slug": "cebu",
+  "label": "Cebu",
+  "granularity": "city",
+  "parent_region_id": "philippines",
+  "short_description": "Loyalty-program hotels across Metro Cebu, from Mandaue City to the Mactan island beach resorts near the airport.",
+  "intro": "Cebu's hotels in this directory spread across Metro Cebu in the central Philippines: the urban Mandaue City area on the main island, and Mactan island to the east -- home to the beach resorts and, at its northern tip, Mactan-Cebu International Airport (CEB). City hotels suit business and stopovers; the Mactan resorts suit beach stays, with the two linked by bridges across the channel.",
+  "faqs": [],
+  "last_updated": "2026-08-06",
+  "status": "active"
+}
