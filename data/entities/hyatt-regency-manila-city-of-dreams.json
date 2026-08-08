@@ -1,0 +1,113 @@
+{
+  "entity_id": "hyatt-regency-manila-city-of-dreams",
+  "slug": "hyatt-regency-manila-city-of-dreams",
+  "name": "Hyatt Regency Manila, City of Dreams",
+  "category_id": "world-of-hyatt",
+  "region_id": "manila",
+  "short_description": "A 364-room Hyatt Regency inside the City of Dreams entertainment complex, about 10 minutes from Manila's airport, with a Club Lounge.",
+  "ai_summary": "Hyatt Regency Manila, City of Dreams sits inside the City of Dreams entertainment and casino complex in Paranaque, roughly a 10-minute drive from Ninoy Aquino International Airport and 5 minutes from SM Mall of Asia. Guests consistently praise the warm, attentive service and the Club Lounge's complimentary dining and beverages, along with spacious, modern rooms across the hotel's two towers. Its integrated-resort setting -- shopping, dining, a casino, and free shuttles to SM Mall of Asia and Chinatown all on-site or nearby -- makes it a strong airport-adjacent option, though it sits apart from Manila's more traditional tourist areas.",
+  "core_facts": {
+    "address": "Belle Avenue, Entertainment City, Paranaque, Metro Manila 1701, Philippines",
+    "brand_sub_brand": "Hyatt Regency",
+    "neighborhood": "Entertainment City / Paranaque",
+    "elite_benefits": [
+      "Club Lounge access, including complimentary dining and beverages, for World of Hyatt Globalist Elite members",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability, per World of Hyatt program terms",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Roughly a 10-minute drive from Ninoy Aquino International Airport",
+    "Club Lounge with complimentary dining and beverages",
+    "Inside the City of Dreams complex, with shopping, dining, and a casino on-site",
+    "Free shuttles to SM Mall of Asia (about 5 minutes away) and Chinatown",
+    "Spacious, modern rooms across two towers with floor-to-ceiling windows"
+  ],
+  "cons": [
+    "Sits apart from Manila's more traditional tourist and heritage areas",
+    "Some guests find rates high relative to expectations, though discounts are occasionally available"
+  ],
+  "research_highlights": [
+    "Guests describe staff as warm, attentive, and making them feel at home",
+    "The Club Lounge's complimentary dining and beverages draw specific praise",
+    "The pool area, gym, and breakfast selection are called out as strengths"
+  ],
+  "research_watchouts": [
+    "A few reviews mention rare maintenance issues in rooms",
+    "Some travelers feel rates run high relative to expectations"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How far is Hyatt Regency Manila, City of Dreams from the airport?",
+      "answer": "It's about a 10-minute drive from Ninoy Aquino International Airport via the Skyway toll road, making it a practical choice for late arrivals or early departures without needing to stay in central Manila."
+    },
+    {
+      "question": "What's included in the City of Dreams complex at Hyatt Regency Manila?",
+      "answer": "The complex includes shopping, dining, and a casino on-site, plus free shuttles to SM Mall of Asia (about 5 minutes away) and Chinatown, so guests have entertainment and errands covered without needing to venture far from the hotel."
+    }
+  ],
+  "tags": ["city of dreams", "paranaque", "airport hotel"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/mnlhy-hyatt-regency-manila-city-of-dreams",
+      "label": "Official Hyatt Regency Manila, City of Dreams page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g312693-d7180162-Reviews-Hyatt_Regency_Manila_City_of_Dreams-Paranaque_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/mnlhy-hyatt-regency-manila-city-of-dreams",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-hyatt-manila"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Hyatt Regency Manila City Of Dreams Is The Perfect Airport Hotel",
+        "source": "Point Me to the Plane",
+        "url": "https://pointmetotheplane.boardingarea.com/hyatt-regency-manila-review/",
+        "published_date": "2023-11-26",
+        "summary": "Calls it an excellent airport hotel from 8,000 World of Hyatt points a night, praising exceptional service and a well-appointed Club Lounge, plus easy access to City of Dreams' shopping and free shuttles to SM Mall of Asia."
+      }
+    ],
+    "videos": [
+      {
+        "title": "5 Star LUXURY HOTEL in City of Dreams Manila - HYATT REGENCY MANILA Review",
+        "channel": "Franz Fabiana",
+        "url": "https://www.youtube.com/watch?v=0b1c2ETB2Ew",
+        "video_id": "0b1c2ETB2Ew"
+      },
+      {
+        "title": "Hyatt Regency Manila, City Of Dreams Hotel Tour Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=ItJvW0tSrFg",
+        "video_id": "ItJvW0tSrFg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

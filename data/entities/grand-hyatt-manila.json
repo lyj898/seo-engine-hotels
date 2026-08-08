@@ -1,0 +1,114 @@
+{
+  "entity_id": "grand-hyatt-manila",
+  "slug": "grand-hyatt-manila",
+  "name": "Grand Hyatt Manila",
+  "category_id": "world-of-hyatt",
+  "region_id": "manila",
+  "short_description": "A 461-room Grand Hyatt in Bonifacio Global City with a 57th-floor Grand Club Lounge and panoramic Manila views.",
+  "ai_summary": "Grand Hyatt Manila occupies one of the tallest buildings in the Philippines in Bonifacio Global City (BGC), Taguig's business and social hub. Guests consistently praise the 57th-floor Grand Club Lounge's panoramic views and the hotel's attentive, English-fluent service, along with a well-regarded breakfast across its six restaurants. BGC itself leans business-district over tourist-strip, with the area's livelier restaurants and nightlife roughly a 7-minute drive away, and a few reviewers note a lengthy check-out process as a rare friction point in an otherwise polished stay.",
+  "core_facts": {
+    "address": "36th Street corner 8th Avenue, Bonifacio Global City, Taguig, Metro Manila 1634, Philippines",
+    "brand_sub_brand": "Grand Hyatt",
+    "neighborhood": "Bonifacio Global City (BGC)",
+    "elite_benefits": [
+      "Grand Club Lounge access, on the 57th floor with panoramic city views, for suite guests and World of Hyatt Globalist Elite members",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability, per World of Hyatt program terms",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "57th-floor Grand Club Lounge with panoramic Manila views",
+    "Staff repeatedly described as polite, accommodating, and fluent in English",
+    "Six on-site restaurants with a breakfast guests call a huge, delicious selection",
+    "Pool, gym, sauna and steam room facilities draw consistent praise",
+    "Central BGC location convenient for business and shopping"
+  ],
+  "cons": [
+    "BGC leans business-district, with livelier restaurants and nightlife about a 7-minute drive away",
+    "Breakfast is noted as a bit pricey outside of elite/package inclusions",
+    "One reviewer reported a check-out process that took around 40 minutes"
+  ],
+  "research_highlights": [
+    "The Grand Club Lounge and its panoramic views are repeatedly called a highlight",
+    "Service quality -- from lobby to breakfast to housekeeping -- draws consistent praise",
+    "Guests booking with World of Hyatt points describe strong value via suite upgrades"
+  ],
+  "research_watchouts": [
+    "BGC's more business-oriented streets mean the livelier parts of the district are a short drive rather than a walk away",
+    "A review noted an unusually long, roughly 40-minute check-out process"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does Grand Hyatt Manila have a club lounge?",
+      "answer": "Yes -- the Grand Club Lounge sits on the 57th floor with panoramic views over Manila. Access is included with suite bookings and is also a benefit for World of Hyatt Globalist Elite members, alongside the hotel's separately well-regarded breakfast at its six restaurants."
+    },
+    {
+      "question": "Is Grand Hyatt Manila within walking distance of BGC's restaurants and nightlife?",
+      "answer": "It's in a more business-oriented stretch of BGC, so the district's livelier restaurant and nightlife scene is about a 7-minute drive rather than a walk. The hotel itself still offers six on-site dining options for guests who'd rather stay in."
+    }
+  ],
+  "tags": ["bgc", "grand club lounge", "taguig"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/grand-hyatt/en-US/mangh-grand-hyatt-manila",
+      "label": "Official Grand Hyatt Manila page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1758900-d12188172-Reviews-Grand_Hyatt_Manila-Taguig_City_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/grand-hyatt/en-US/mangh-grand-hyatt-manila",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-regency-manila-city-of-dreams"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Sitting on top of the world at Grand Hyatt Manila",
+        "source": "Daddy Travels Miles & Points",
+        "url": "https://daddytravelsnow.com/2025/02/05/review-youre-on-top-of-the-world-at-grand-hyatt-manila/",
+        "published_date": "2025-02-05",
+        "summary": "Praises the stunning 57th-floor Grand Club and exemplary service, describing a family stay booked entirely with points that included complimentary suite upgrades and premium dining, with easy access to nearby shopping and entertainment."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Grand Hyatt Manila Hotel Tour | Tallest Building in the Philippines | Luxury Hotel in BGC",
+        "channel": "Enia Lee",
+        "url": "https://www.youtube.com/watch?v=6POS2qOTuwE",
+        "video_id": "6POS2qOTuwE"
+      },
+      {
+        "title": "[Room Tour] Grand Hyatt Manila BGC - Grand King, Amenities, Breakfast at The Grand Kitchen",
+        "channel": "The Blahger",
+        "url": "https://www.youtube.com/watch?v=Jg8EoX4JA9c",
+        "video_id": "Jg8EoX4JA9c"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 61,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
