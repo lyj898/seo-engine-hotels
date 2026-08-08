@@ -1,0 +1,108 @@
+{
+  "entity_id": "novotel-bangkok-platinum-pratunam",
+  "slug": "novotel-bangkok-platinum-pratunam",
+  "name": "Novotel Bangkok Platinum Pratunam",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A shopping-district hotel with direct skywalk access to Platinum Fashion Mall, a rooftop pool, and walking distance to CentralWorld and Siam.",
+  "ai_summary": "Novotel Bangkok Platinum Pratunam sits above the Platinum Fashion Mall in Bangkok's Pratunam garment and shopping district, connected by a direct skywalk that skips street-level weather entirely, and within a 20-minute walk of Siam BTS station and CentralWorld. Guests consistently praise the modern, spacious rooms, immaculate cleanliness, and family-friendly touches including a rooftop pool and babysitting services. TripAdvisor's own scoring shows value as the property's weakest category, and several reviewers note pricing that can approach luxury levels for a 4-star hotel during peak season, but the location convenience for shopping-focused travelers is repeatedly called the property's standout strength.",
+  "core_facts": {
+    "address": "220 Petchaburi Road, Ratchathewi, Bangkok 10400, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Pratunam",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Direct skywalk access to Platinum Fashion Mall, avoiding street-level weather entirely",
+    "Under a 20-minute walk to Siam BTS station, CentralWorld, and Big C",
+    "Modern, spacious rooms with consistently praised cleanliness",
+    "Family-friendly amenities: rooftop pool, babysitting services, 24-hour room service",
+    "Full-service spa on-site"
+  ],
+  "cons": [
+    "Value is the property's lowest-rated category on TripAdvisor -- pricing can edge toward luxury levels during peak season for a 4-star hotel",
+    "The bustling Pratunam commercial area lacks a tranquil atmosphere for guests seeking quiet"
+  ],
+  "research_highlights": [
+    "The direct skywalk to Platinum Fashion Mall is repeatedly called out as the property's standout convenience",
+    "Room cleanliness and modern furnishings draw consistent praise",
+    "Family-friendly amenities like the rooftop pool are highlighted by guests travelling with children"
+  ],
+  "research_watchouts": [
+    "Value scores trail other categories, with some guests finding peak-season rates high for the room quality",
+    "Guests wanting a quiet stay may find the surrounding commercial district too busy"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Bangkok Platinum Pratunam connected to a mall?",
+      "answer": "Yes -- a direct skywalk connects the hotel to Platinum Fashion Mall, letting guests reach the mall without going outside, and CentralWorld and Siam BTS station are within a roughly 20-minute walk."
+    },
+    {
+      "question": "Is Novotel Bangkok Platinum Pratunam good value?",
+      "answer": "Reviews are mixed on this point -- value is consistently the property's lowest-rated category on TripAdvisor, with some guests finding peak-season rates approach luxury-hotel pricing for a 4-star property, even as location and cleanliness draw strong praise."
+    }
+  ],
+  "tags": ["pratunam", "platinum fashion mall", "family-friendly"],
+  "source_mix": [
+    {
+      "url": "https://novotelbangkokplatinum.com/",
+      "label": "Official Novotel Bangkok Platinum Pratunam page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d2322600-Reviews-Novotel_Bangkok_Platinum_Pratunam-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://novotelbangkokplatinum.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-bangkok-king-power"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Novotel Bangkok Platinum Pratunam: 4-Star Hotel Review",
+        "source": "Singapore Headline",
+        "url": "https://singaporeheadline.net/tech/novotel-bangkok-platinum-pratunam-review/",
+        "published_date": "2026-04-28",
+        "summary": "Calls it a solid mid-range pick for shopping-focused travelers, praising the skywalk to Platinum Fashion Mall and family-friendly rooftop pool, but flags pricing that edges toward luxury-level for a 4-star property."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Novotel Bangkok Platinum Pratunam - Full Hotel Walkthrough & Review",
+        "channel": "Bliss Hotel Reviews",
+        "url": "https://www.youtube.com/watch?v=m7LPcXXe8Lg",
+        "video_id": "m7LPcXXe8Lg",
+        "published_date": "2025-12-31"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 66 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

@@ -1,0 +1,108 @@
+{
+  "entity_id": "mercure-bangkok-siam",
+  "slug": "mercure-bangkok-siam",
+  "name": "Mercure Bangkok Siam",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 189-room midscale hotel steps from National Stadium BTS in Bangkok's Siam shopping district, with a rooftop pool and skyline views.",
+  "ai_summary": "Mercure Bangkok Siam sits steps from the National Stadium BTS and Airport Rail Link station in the heart of Bangkok's Siam shopping district, within walking distance of MBK, Siam Center, Siam Discovery, Siam Paragon, and CentralWorld. The 189 Superior, Deluxe, and Suite rooms run a compact 25 square metres, and the rooftop swimming pool and fitness centre offer city skyline views. Guests consistently praise the convenient location, friendly and professional staff, and room cleanliness, with some noting the compact room sizes and rates that a few travelers feel run a little high for a midscale property.",
+  "core_facts": {
+    "address": "927 Rama I Road, Wang Mai, Pathum Wan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Siam / Pathum Wan",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Steps from National Stadium BTS and the Airport Rail Link, in the heart of Bangkok's Siam shopping district",
+    "Walking distance to MBK, Siam Center, Siam Discovery, Siam Paragon, and CentralWorld",
+    "Rooftop swimming pool and fitness centre with city skyline views",
+    "Staff consistently described as friendly and professional",
+    "Shares its building with a sister ibis property, giving guests a budget-alternative option nearby"
+  ],
+  "cons": [
+    "Rooms run a compact 25 square metres, on the smaller side even for a midscale hotel",
+    "Some guests find rates a little high relative to the room size and midscale positioning"
+  ],
+  "research_highlights": [
+    "The Siam shopping-district location and BTS/Airport Rail Link proximity draw consistent praise",
+    "Room cleanliness and staff friendliness are repeatedly highlighted",
+    "The rooftop pool is called a genuine highlight despite the hotel's midscale tier"
+  ],
+  "research_watchouts": [
+    "Room sizes are consistently described as compact",
+    "A subset of guests feel rates run high relative to the room size"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Mercure Bangkok Siam close to the BTS?",
+      "answer": "Yes -- it's steps from the National Stadium BTS station, which also connects to the Airport Rail Link, putting Bangkok's Siam shopping district (MBK, Siam Paragon, CentralWorld) within easy walking distance."
+    },
+    {
+      "question": "How big are the rooms at Mercure Bangkok Siam?",
+      "answer": "The Superior, Deluxe, and Suite rooms run a compact 25 square metres -- typical for a midscale city hotel in this location, though some guests traveling with more luggage may find the space tight."
+    }
+  ],
+  "tags": ["siam", "national stadium bts", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8015/index.en.shtml",
+      "label": "Official Mercure Bangkok Siam page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d3533776-Reviews-Mercure_Bangkok_Siam-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8015/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-bangkok-sukhumvit-24"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Mercure Bangkok Siam",
+        "source": "Metro Staycation",
+        "url": "https://www.metrostaycation.com/2024/12/mercure-bangkok-siam.html",
+        "published_date": "2024-12-20",
+        "summary": "A hotel profile highlighting the National Stadium BTS location, rooftop pool with skyline views, and modern 25-sqm rooms, positioning it as a stylish midscale pick for ALL - Accor Live Limitless members."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mercure Bangkok Siam | Full Tour",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=0zNBYmRIppc",
+        "video_id": "0zNBYmRIppc",
+        "published_date": "2025-02-16"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
