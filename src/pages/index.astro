@@ -41,7 +41,7 @@ const cityRegions = regions
 // HubCard is full-width. The homepage's job is to tease the section, not
 // enumerate it, so it shows only the best-covered cities; the full,
 // country-grouped list lives on /regions/.
-const HOMEPAGE_CITY_LIMIT = 9;
+const HOMEPAGE_CITY_LIMIT = 5;
 const homepageCityRegions = cityRegions.slice(0, HOMEPAGE_CITY_LIMIT);
 
 // Resolves any region (including a child region like "Nong Khai") up to its
@@ -124,7 +124,9 @@ const quickDistanceCategories = categories
 // hotel", not "best-verified record" -- falling back to reliability_score for
 // any entity not yet guest-scored, with reliability then name as tie-breakers
 // for a stable, deterministic build.
-const FEATURED_COUNT = 6;
+const FEATURED_COUNT = 5;
+const FEATURED_COUNT_WORDS = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten'];
+const featuredCountWord = FEATURED_COUNT_WORDS[FEATURED_COUNT] ?? String(FEATURED_COUNT);
 const pickRank = (e) => e.sentiment_scores?.overall ?? e.reliability_score;
 const rankedPicks = entities
   .filter((e) => e.status === 'active')
@@ -363,7 +365,7 @@ const jsonLd = [
           <div class="mb-10 flex items-end justify-between border-b border-brand-divider pb-4 dark:border-brand-divider-dark">
             <div>
               <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">Editor's picks</p>
-              <h2 class="mt-2 text-2xl font-normal sm:text-3xl">The six highest-rated stays</h2>
+              <h2 class="mt-2 text-2xl font-normal sm:text-3xl">The {featuredCountWord} highest-rated stays</h2>
             </div>
           </div>
           <div id="featured-grid" class="grid grid-cols-1 gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
