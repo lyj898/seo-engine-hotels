@@ -1,0 +1,108 @@
+{
+  "entity_id": "hyatt-regency-kuala-lumpur-kl-midtown",
+  "slug": "hyatt-regency-kuala-lumpur-kl-midtown",
+  "name": "Hyatt Regency Kuala Lumpur at KL Midtown",
+  "category_id": "world-of-hyatt",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 406-key Hyatt Regency opposite MITEC in KL Midtown, Mont Kiara, with a Regency Club Lounge, two pools, and a pillarless grand ballroom.",
+  "ai_summary": "Hyatt Regency Kuala Lumpur at KL Midtown opened in the Mont Kiara precinct opposite MITEC, Southeast Asia's largest convention centre, with 306 guest rooms plus 100 serviced residences designed by architect Kengo Kuma. Guests praise the spacious, spotlessly clean rooms, a generous Regency Club with full breakfast service, and an excellent breakfast buffet with wide variety. The main trade-off is location: it's a highway-accessible business and convention district rather than a walkable tourist area, so it suits convention-goers and value-focused Hyatt loyalists more than leisure travelers chasing nearby attractions.",
+  "core_facts": {
+    "address": "No 7 Jalan Dutamas 2, 50480 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Hyatt Regency",
+    "neighborhood": "Mont Kiara / KL Midtown",
+    "elite_benefits": [
+      "Regency Club Lounge access, including full breakfast service, for World of Hyatt Globalist Elite members",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability, per World of Hyatt program terms",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Regency Club Lounge with a generous full breakfast service",
+    "Spacious, spotlessly clean rooms that reviewers describe as feeling brand-new",
+    "Two outdoor pools, a rooftop pool with views, sauna and steam room",
+    "Breakfast buffet praised for its huge variety and quality",
+    "Opposite MITEC, making it a strong base for convention and business travel"
+  ],
+  "cons": [
+    "The location favors highway access over walkability -- it's not within walking distance of typical tourist attractions",
+    "Best suited to convention-goers and business travelers rather than leisure visitors wanting a central base",
+    "Some guests mention occasional breakfast and service inconsistencies"
+  ],
+  "research_highlights": [
+    "Guests describe rooms as modern, clean, and spacious, with an inviting atmosphere",
+    "The Regency Club and breakfast buffet draw specific, strong praise",
+    "Service is generally described as warm and attentive"
+  ],
+  "research_watchouts": [
+    "The hotel's location offers convenient highway access but is not walkable to typical tourist attractions",
+    "A few reviews mention breakfast and service inconsistencies"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Hyatt Regency Kuala Lumpur at KL Midtown walkable to attractions?",
+      "answer": "No -- it's in the Mont Kiara/KL Midtown business and convention district opposite MITEC, with good highway access but few walkable tourist attractions nearby. It suits convention-goers and business travelers better than leisure visitors wanting a central, walkable base."
+    },
+    {
+      "question": "Does Hyatt Regency Kuala Lumpur at KL Midtown have a club lounge?",
+      "answer": "Yes -- the Regency Club offers a generous full breakfast service, which reviewers call a highlight, alongside the hotel's separately well-regarded breakfast buffet with wide variety and consistently top-quality food."
+    }
+  ],
+  "tags": ["kl midtown", "mont kiara", "mitec convention centre"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/kulrk-hyatt-regency-kuala-lumpur-at-kl-midtown",
+      "label": "Official Hyatt Regency Kuala Lumpur at KL Midtown page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d33365680-Reviews-Hyatt_Regency_Kuala_Lumpur_at_KL_Midtown-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/kulrk-hyatt-regency-kuala-lumpur-at-kl-midtown",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-house-kuala-lumpur-mont-kiara", "grand-hyatt-kuala-lumpur"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Hyatt Regency Kuala Lumpur At KL Midtown",
+        "source": "Live and Let's Fly",
+        "url": "https://liveandletsfly.com/hyatt-regency-kuala-lumpur-review/",
+        "published_date": "2025-11-12",
+        "summary": "Praises the newly opened hotel's spacious suites and generous Regency Club with full breakfast service at an affordable rate, but flags the isolated business-district location with minimal walkability as the main drawback."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hyatt Regency Kuala Lumpur at KL Midtown is expected to open in 2025",
+        "channel": "Zhong's Travel",
+        "url": "https://www.youtube.com/watch?v=qbqCQhIdypw",
+        "video_id": "qbqCQhIdypw"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 62 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

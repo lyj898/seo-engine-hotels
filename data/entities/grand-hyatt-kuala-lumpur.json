@@ -1,0 +1,113 @@
+{
+  "entity_id": "grand-hyatt-kuala-lumpur",
+  "slug": "grand-hyatt-kuala-lumpur",
+  "name": "Grand Hyatt Kuala Lumpur",
+  "category_id": "world-of-hyatt",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 411-room Grand Hyatt in the Golden Triangle overlooking the Petronas Twin Towers, with a Grand Club Lounge and an outdoor pool.",
+  "ai_summary": "Grand Hyatt Kuala Lumpur sits in the Golden Triangle within walking distance of KLCC's shopping and dining, with 411 rooms and suites overlooking the Petronas Twin Towers. Guests consistently praise the spacious rooms -- the entry-level Grand Room runs a generous 47 square metres -- along with the Grand Club Lounge's breakfast and evening canapes and the extensive THIRTY8 breakfast buffet. It's an established property that reviewers say has aged gracefully, with attentive service and strong views as the recurring highlights, though some note occasional maintenance issues and inconsistent value depending on rate.",
+  "core_facts": {
+    "address": "12 Jalan Pinang, 50450 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Grand Hyatt",
+    "neighborhood": "Golden Triangle / KLCC",
+    "elite_benefits": [
+      "Grand Club Lounge access, including breakfast and evening canapes, for suite guests and World of Hyatt Globalist Elite members",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability, per World of Hyatt program terms",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Golden Triangle location within walking distance of KLCC shopping and dining",
+    "Spacious rooms -- the entry-level Grand Room is 47 square metres",
+    "Outdoor pool with Petronas Twin Towers views",
+    "Grand Club Lounge with breakfast and evening canapes",
+    "Extensive THIRTY8 breakfast buffet draws specific praise"
+  ],
+  "cons": [
+    "Some guests note occasional maintenance issues in rooms",
+    "Opinions on value vary, with some travelers reporting unexpected charges"
+  ],
+  "research_highlights": [
+    "Guests praise the hotel for prime location, immaculate cleanliness, and impressive Petronas Towers views",
+    "The Grand Club Lounge and THIRTY8 breakfast buffet are called out as standout amenities",
+    "Service is generally seen as attentive and professional"
+  ],
+  "research_watchouts": [
+    "Some reviewers mention occasional maintenance issues despite the property's overall upkeep",
+    "A few guests report unexpected charges affecting their sense of value"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How close is Grand Hyatt Kuala Lumpur to the Petronas Twin Towers?",
+      "answer": "The hotel is in the Golden Triangle, within walking distance of KLCC and the Petronas Twin Towers, and many rooms have direct views of them. It's a well-located base for reaching the surrounding shopping and dining district on foot."
+    },
+    {
+      "question": "Does Grand Hyatt Kuala Lumpur have a club lounge?",
+      "answer": "Yes -- the Grand Club Lounge offers breakfast and evening canapes. Access is included with suite bookings and is also a benefit for World of Hyatt Globalist Elite members, alongside the hotel's separately acclaimed THIRTY8 breakfast buffet."
+    }
+  ],
+  "tags": ["golden triangle", "klcc", "grand club lounge"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/grand-hyatt/en-US/kuagh-grand-hyatt-kuala-lumpur",
+      "label": "Official Grand Hyatt Kuala Lumpur page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d3436966-Reviews-Grand_Hyatt_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/grand-hyatt/en-US/kuagh-grand-hyatt-kuala-lumpur",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["park-hyatt-kuala-lumpur", "hyatt-centric-kuala-lumpur"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Grand Hyatt Kuala Lumpur",
+        "source": "Live and Let's Fly",
+        "url": "https://liveandletsfly.com/review-grand-hyatt-kuala-lumpur/",
+        "published_date": "2024-03-04",
+        "summary": "Praises the hotel for aging gracefully, highlighting spacious rooms with Petronas Towers views and exceptional Grand Club lounge access, calling out the THIRTY8 breakfast buffet as outstanding value for Globalist members."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Grand Hyatt Kuala Lumpur Hotel Tour Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=E_boCdkpg4E",
+        "video_id": "E_boCdkpg4E"
+      },
+      {
+        "title": "Grand Hyatt Kuala Lumpur DETAILED Hotel Review",
+        "channel": "Yellow Productions",
+        "url": "https://www.youtube.com/watch?v=iPGpk-ENK9g",
+        "video_id": "iPGpk-ENK9g"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 62,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

@@ -1,0 +1,105 @@
+{
+  "entity_id": "hyatt-centric-kuala-lumpur",
+  "slug": "hyatt-centric-kuala-lumpur",
+  "name": "Hyatt Centric City Centre Kuala Lumpur",
+  "category_id": "world-of-hyatt",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 312-room lifestyle hotel on Jalan Sultan Ismail with a rooftop infinity saltwater pool, between KLCC and Bukit Bintang.",
+  "ai_summary": "Hyatt Centric City Centre Kuala Lumpur opened in December 2024 on Jalan Sultan Ismail, roughly midway between KLCC and Bukit Bintang. The 312-room lifestyle hotel draws praise for its modern, vibrant design and rooftop infinity saltwater pool, with guests calling it a compelling value option for Hyatt loyalists compared to the city's pricier luxury properties. It lacks the wellness facilities (spa, sauna) of Kuala Lumpur's higher-tier Hyatt hotels, but its central, walkable location and still-fresh feel as a newer property are the recurring draw.",
+  "core_facts": {
+    "address": "17 Jalan Sultan Ismail, 50250 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Hyatt Centric",
+    "neighborhood": "Jalan Sultan Ismail",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central location on Jalan Sultan Ismail, with KLCC around 20 minutes and Bukit Bintang about 30 minutes on foot",
+    "Rooftop infinity saltwater pool with city views",
+    "Modern, vibrant design that reviewers call a good match for the city's energy",
+    "Compelling value relative to Kuala Lumpur's pricier luxury Hyatt properties",
+    "New enough (opened December 2024) to still feel fresh"
+  ],
+  "cons": [
+    "Lacks wellness facilities like a sauna that distinguish Kuala Lumpur's higher-tier Hyatt properties"
+  ],
+  "research_highlights": [
+    "Guests praise the central location and modern, vibrant design",
+    "The rooftop pool is repeatedly called out as a highlight, described as worth a late-night visit",
+    "Reviewers position it as a strong-value pick for Hyatt loyalists on a budget"
+  ],
+  "research_watchouts": [
+    "The hotel doesn't offer the spa/sauna wellness facilities found at Kuala Lumpur's higher-tier Hyatt properties"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "When did Hyatt Centric City Centre Kuala Lumpur open?",
+      "answer": "It opened in December 2024 on Jalan Sultan Ismail, making it one of Kuala Lumpur's newer Hyatt properties. Guests consistently note it still feels fresh, and it's positioned as a lower-cost alternative to the city's pricier luxury Hyatt hotels."
+    },
+    {
+      "question": "Is Hyatt Centric City Centre Kuala Lumpur close to the Petronas Twin Towers?",
+      "answer": "It's a walkable but not immediate distance -- around 20 minutes on foot to the KLCC area, with Bukit Bintang about 30 minutes away, putting the hotel roughly midway between the two districts."
+    }
+  ],
+  "tags": ["jalan sultan ismail", "rooftop pool", "lifestyle hotel"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-centric/en-US/kulct-hyatt-centric-city-centre-kuala-lumpur",
+      "label": "Official Hyatt Centric City Centre Kuala Lumpur page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d26731844-Reviews-Hyatt_Centric_City_Centre_Kuala_Lumpur-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-centric/en-US/kulct-hyatt-centric-city-centre-kuala-lumpur",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-hyatt-kuala-lumpur", "park-hyatt-kuala-lumpur"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Hyatt Centric Kuala Lumpur (Central Location)",
+        "source": "Live and Let's Fly",
+        "url": "https://liveandletsfly.com/hyatt-centric-kuala-lumpur-review/",
+        "published_date": "2026-02-17",
+        "summary": "Highlights the hotel's central location near the Petronas Towers and Bukit Bintang, noting it lacks wellness facilities like saunas found at higher-tier Hyatt properties, but calls it a compelling value pick."
+      }
+    ],
+    "videos": [
+      {
+        "title": "48 HOURS In Kuala Lumpur! Hyatt Centric City Centre Review",
+        "channel": "Isabel L | Bel Around The World",
+        "url": "https://www.youtube.com/watch?v=i6ZQdz7BGiU",
+        "video_id": "i6ZQdz7BGiU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
