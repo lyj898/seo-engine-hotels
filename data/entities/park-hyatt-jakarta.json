@@ -1,0 +1,106 @@
+{
+  "entity_id": "park-hyatt-jakarta",
+  "slug": "park-hyatt-jakarta",
+  "name": "Park Hyatt Jakarta",
+  "category_id": "world-of-hyatt",
+  "region_id": "jakarta",
+  "short_description": "Indonesia's first Park Hyatt, occupying the top 17 floors of Park Tower with a 35th-floor rooftop pool and views of the National Monument.",
+  "ai_summary": "Park Hyatt Jakarta, Indonesia's first Park Hyatt, opened in July 2022 occupying the top 17 floors of the 37-storey Park Tower, with rooms from the 29th floor up offering views of the golden-flamed National Monument and the capital's skyline. Guests consistently praise the anticipatory, personalized service, modern stylish design, and a well-regarded spa, along with a rooftop pool on the 35th floor. As one of the newer luxury hotels in the city, it commands a real price premium over Jakarta's more established Hyatt properties, though reviewers widely consider it worth it for the views and service level.",
+  "core_facts": {
+    "address": "Jl. Kebon Sirih No.17-19, Menteng, Central Jakarta 10340, Indonesia",
+    "brand_sub_brand": "Park Hyatt",
+    "neighborhood": "Menteng / Central Jakarta",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Indonesia's first Park Hyatt, occupying the top 17 floors of the 37-storey Park Tower",
+    "Rooms from the 29th floor up have views of the National Monument and Jakarta's skyline",
+    "Rooftop pool on the 35th floor",
+    "Staff are repeatedly described as eager to anticipate guests' wishes",
+    "Deep-soaking marble baths with Le Labo products and a well-regarded spa"
+  ],
+  "cons": [
+    "Commands a real price premium over Jakarta's more established Hyatt properties",
+    "As one of the newer luxury hotels in the city, it doesn't yet have the long track record of Jakarta's older 5-star hotels"
+  ],
+  "research_highlights": [
+    "Guests describe staff as eager to anticipate their wishes throughout the stay",
+    "The modern, stylish design and spa draw consistently strong praise",
+    "Views of the National Monument and skyline are called impressive from the higher floors"
+  ],
+  "research_watchouts": [
+    "Room rates run notably higher than Jakarta's more established Hyatt properties"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "When did Park Hyatt Jakarta open?",
+      "answer": "It opened in July 2022 as Indonesia's first Park Hyatt, occupying the top 17 floors of the 37-storey Park Tower in Menteng, Central Jakarta -- making it one of the newer luxury hotels in the city compared with Jakarta's more established 5-star properties."
+    },
+    {
+      "question": "Does Park Hyatt Jakarta have views of the National Monument?",
+      "answer": "Yes -- rooms from the 29th floor and up offer views of the golden-flamed National Monument (Monas) and Jakarta's skyline, a distinguishing feature given the hotel's height within Park Tower."
+    }
+  ],
+  "tags": ["menteng", "monas view", "park tower"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/park-hyatt/en-US/cgkph-park-hyatt-jakarta",
+      "label": "Official Park Hyatt Jakarta page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d24029105-Reviews-Park_Hyatt_Jakarta-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/park-hyatt/en-US/cgkph-park-hyatt-jakarta",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-hyatt-jakarta", "keraton-at-the-plaza"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Park Hyatt Jakarta review: Experience Indonesia's dynamic capital from on high",
+        "source": "The National",
+        "url": "https://www.thenationalnews.com/travel/2025/09/05/park-hyatt-jakarta-hotel-review-indonesia/",
+        "published_date": "2025-09-05",
+        "summary": "Describes Indonesia's first Park Hyatt occupying the top 17 floors of a 37-storey tower, with impressive Monas and skyline views from a 29th-floor room, multiple dining venues, and rooms starting around $703 per night."
+      }
+    ],
+    "videos": [
+      {
+        "title": "STUNNING Park Hyatt Jakarta, Indonesia【4K Tour】World's BEST City Hotel!?",
+        "channel": "Go Go Travel With Josh",
+        "url": "https://www.youtube.com/watch?v=ZyUaItVnz3s",
+        "video_id": "ZyUaItVnz3s"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 89,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 94 },
+      { "label": "Rooms", "score": 90 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
