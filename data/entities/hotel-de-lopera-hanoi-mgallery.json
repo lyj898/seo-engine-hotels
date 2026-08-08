@@ -1,0 +1,99 @@
+{
+  "entity_id": "hotel-de-lopera-hanoi-mgallery",
+  "slug": "hotel-de-lopera-hanoi-mgallery",
+  "name": "Hotel de l'Opera Hanoi - MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "hanoi",
+  "short_description": "A 107-room boutique hotel opened in 2011 on historic Trang Tien Street, a few hundred metres from Hoan Kiem Lake and the Hanoi Opera House.",
+  "ai_summary": "Hotel de l'Opera Hanoi - MGallery Collection opened in 2011 on Trang Tien Street, a few hundred metres from both Hoan Kiem Lake and the Hanoi Opera House, in the heart of the city's French Quarter. The 107 rooms are dramatically decorated with slick wooden floors, jewel-toned furniture, and black marble-print wallpaper, drawing on 19th-century French design inspiration, alongside an indoor pool and fitness facilities. The hotel was voted Hanoi's No. 1 hotel by Travel + Leisure in 2024 and No. 2 in 2025, with guests consistently praising the warm, professional bellhop and front-desk staff and the central location, though a May-August 2025 renovation brought temporary noise and light disturbances for some guests during that window.",
+  "core_facts": {
+    "address": "29 Trang Tien Street, Cua Nam Ward, Hanoi, Vietnam",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Trang Tien / Hoan Kiem",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "A few hundred metres from both Hoan Kiem Lake and the Hanoi Opera House",
+    "Voted Hanoi's No. 1 hotel by Travel + Leisure in 2024, No. 2 in 2025",
+    "Dramatic 19th-century French-inspired design with jewel-toned furniture and marble-print wallpaper",
+    "Bellhop and front-desk staff repeatedly described as professional and genuinely warm",
+    "Indoor pool and fitness facilities, along with Vietnamese and French dining options"
+  ],
+  "cons": [
+    "A May-August 2025 renovation brought temporary noise and light disturbances for guests staying during that window",
+    "As a smaller boutique property, it has fewer facilities than Hanoi's larger five-star hotels"
+  ],
+  "research_highlights": [
+    "The Trang Tien Street location near Hoan Kiem Lake and the Opera House draws consistent praise",
+    "Staff service is repeatedly singled out as a highlight, especially bellhops and front desk",
+    "Travel + Leisure's back-to-back No. 1 (2024) and No. 2 (2025) Hanoi rankings reflect strong sustained guest satisfaction"
+  ],
+  "research_watchouts": [
+    "Guests booking a stay during the May-August 2025 renovation window reported some noise and light disturbance"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Hotel de l'Opera Hanoi close to Hoan Kiem Lake?",
+      "answer": "Yes -- it's a few hundred metres from both Hoan Kiem Lake and the Hanoi Opera House on historic Trang Tien Street, in the heart of the city's French Quarter."
+    },
+    {
+      "question": "Has Hotel de l'Opera Hanoi won any recent awards?",
+      "answer": "Yes -- Travel + Leisure voted it Hanoi's No. 1 hotel in 2024 and No. 2 in 2025, reflecting consistently strong guest satisfaction over consecutive years."
+    }
+  ],
+  "tags": ["trang tien street", "hoan kiem lake", "french design"],
+  "source_mix": [
+    {
+      "url": "https://hoteldelopera.com/",
+      "label": "Official Hotel de l'Opera Hanoi page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293924-d1950147-Reviews-Hotel_de_l_Opera_Hanoi-Hanoi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://hoteldelopera.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-legend-metropole-hanoi"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Hotel de l'Opera Hanoi - Mgallery | Hanoi, Vietnam | Hotel Review",
+        "channel": "Next Hotel Journey",
+        "url": "https://www.youtube.com/watch?v=brinsA7eTBc",
+        "video_id": "brinsA7eTBc",
+        "published_date": "2026-03-02"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 92 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

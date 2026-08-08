@@ -1,0 +1,101 @@
+{
+  "entity_id": "grand-mercure-hanoi",
+  "slug": "grand-mercure-hanoi",
+  "name": "Grand Mercure Hanoi",
+  "category_id": "accor-all",
+  "region_id": "hanoi",
+  "short_description": "A 181-room hotel that opened in 2023 near the Temple of Literature, with a rattan-and-birdcage-lamp room design and a rooftop gym and pool.",
+  "ai_summary": "Grand Mercure Hanoi opened in 2023 near the Temple of Literature, one of Hanoi's most significant cultural sites, offering straightforward room categories that make it approachable for a range of travelers. The 181-room hotel's design leans into warm brown tones with rattan headboards and bird-cage lamps, a noticeable step up from standard Mercure properties, and its breakfast buffet includes noodle and egg stations, fresh sushi, salads, and hot dishes. Guests consistently praise the stylish room design, helpful concierge service, and affordable pricing for the quality on offer, though lower floors have limited views due to neighbouring construction and the airport sits a notably long 45 minutes away.",
+  "core_facts": {
+    "address": "Van Mieu / Temple of Literature area, Dong Da District, Hanoi, Vietnam",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Temple of Literature",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Opened in 2023, near the Temple of Literature, one of Hanoi's most significant cultural sites",
+    "Stylish room design with rattan headboards and bird-cage lamps, a step up from standard Mercure",
+    "Breakfast buffet includes noodle and egg stations, fresh sushi, salads, and hot dishes",
+    "Rooftop gym and pool facilities",
+    "Affordable pricing relative to the room design quality, around £100/night per an independent review"
+  ],
+  "cons": [
+    "Lower floors have limited views due to neighbouring construction",
+    "Noi Bai International Airport is a notably long 45-minute drive (roughly 30km) away",
+    "Pool seating is relatively limited"
+  ],
+  "research_highlights": [
+    "The room design -- rattan headboards, bird-cage lamps, warm brown tones -- draws specific, repeated praise",
+    "The breakfast buffet's variety is called out as a genuine highlight",
+    "Value for money is a consistent theme given the design quality at this price point"
+  ],
+  "research_watchouts": [
+    "The 45-minute airport transfer is longer than at many other Hanoi hotels, worth factoring into arrival planning",
+    "Lower-floor rooms may have obstructed views from nearby construction"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "When did Grand Mercure Hanoi open?",
+      "answer": "In 2023, near the Temple of Literature -- one of Hanoi's most significant cultural sites -- with a design that's a noticeable step up from standard Mercure properties, featuring rattan headboards and bird-cage lamps."
+    },
+    {
+      "question": "Is Grand Mercure Hanoi far from the airport?",
+      "answer": "Yes, relatively -- Noi Bai International Airport is about 30km away, roughly a 45-minute drive, which is longer than the airport transfer from many other Hanoi hotels closer to the centre."
+    }
+  ],
+  "tags": ["temple of literature", "new opening", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6936/index.en.shtml",
+      "label": "Official Grand Mercure Hanoi page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Feature-g293924-d23266713-zft1-Grand_Mercure_Hanoi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6936/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-hanoi", "movenpick-hotel-hanoi-centre"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: the Grand Mercure Hanoi hotel, an excellent new option",
+        "source": "Head for Points",
+        "url": "https://www.headforpoints.com/2024/12/05/review-grand-mercure-hanoi/",
+        "published_date": "2024-12-05",
+        "summary": "Calls it a lovely new hotel with excellent value, praising the stylish rattan-and-birdcage-lamp room design, rooftop gym/pool, and Temple of Literature-area location, though lower floors have limited views and pool seating is limited."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 90 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

@@ -1,0 +1,99 @@
+{
+  "entity_id": "novotel-saigon-centre",
+  "slug": "novotel-saigon-centre",
+  "name": "Novotel Saigon Centre",
+  "category_id": "accor-all",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A 247-room hotel on Hai Ba Trung Street in downtown District 1, walking distance to major sights, with a rooftop bar overlooking the city.",
+  "ai_summary": "Novotel Saigon Centre sits on Hai Ba Trung Street in downtown District 1, within walking distance of many of Ho Chi Minh City's main sights. The 247 contemporary rooms offer city views, and the rooftop bar, pool, and gym give guests a place to unwind above the city's traffic and heat. Guests consistently praise the central, walkable location, friendly and professional staff, and a large breakfast selection spanning Western and Eastern dishes, making it a popular mid-range pick for both business and leisure travelers.",
+  "core_facts": {
+    "address": "167 Hai Ba Trung Street, Xuan Hoa Ward, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "District 1",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Downtown District 1 location on Hai Ba Trung Street, walking distance to major sights",
+    "247 contemporary rooms with city views",
+    "Rooftop bar, pool, and gym above the city's traffic and heat",
+    "Staff consistently described as friendly and professional",
+    "Large breakfast selection spanning Western and Eastern dishes"
+  ],
+  "cons": [
+    "As a mid-range business hotel, the design leans functional rather than boutique or design-led",
+    "Rooms facing busy streets can pick up some traffic noise"
+  ],
+  "research_highlights": [
+    "The central, walkable District 1 location is consistently praised",
+    "The rooftop bar and pool with city views draw repeated, positive mentions",
+    "Breakfast variety and staff friendliness are recurring highlights"
+  ],
+  "research_watchouts": [
+    "Some street-facing rooms pick up traffic noise typical of downtown Ho Chi Minh City"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Saigon Centre in a good location?",
+      "answer": "Yes -- it's on Hai Ba Trung Street in downtown District 1, within walking distance of many of Ho Chi Minh City's main sights, making it a convenient base without needing a taxi for most central attractions."
+    },
+    {
+      "question": "Does Novotel Saigon Centre have a rooftop pool?",
+      "answer": "Yes -- the rooftop area includes a bar, pool, and gym with views over the city, giving guests a place to unwind above Ho Chi Minh City's street-level traffic and heat."
+    }
+  ],
+  "tags": ["district 1", "hai ba trung", "rooftop bar"],
+  "source_mix": [
+    {
+      "url": "https://www.novotel-saigon-centre.com/",
+      "label": "Official Novotel Saigon Centre page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d3245017-Reviews-Novotel_Saigon_Centre-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.novotel-saigon-centre.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-des-arts-saigon-mgallery", "pullman-saigon-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Where to stay in Saigon, Ho Chi Minh City, Novotel Saigon Center, Should you stay here?",
+        "channel": "FOOD AND TRAVEL - THE ROCKIT EXPERIENCE",
+        "url": "https://www.youtube.com/watch?v=7gJVnPqmbQU",
+        "video_id": "7gJVnPqmbQU",
+        "published_date": "2023-12-23"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

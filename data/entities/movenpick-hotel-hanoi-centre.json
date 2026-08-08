@@ -1,0 +1,99 @@
+{
+  "entity_id": "movenpick-hotel-hanoi-centre",
+  "slug": "movenpick-hotel-hanoi-centre",
+  "name": "Movenpick Hotel Hanoi Centre",
+  "category_id": "accor-all",
+  "region_id": "hanoi",
+  "short_description": "A 155-room hotel on Ly Thuong Kiet Street in the French Quarter, recently renovated, within walking distance of Hanoi's Old Quarter and cultural landmarks.",
+  "ai_summary": "Movenpick Hotel Hanoi Centre sits on Ly Thuong Kiet Street in Hanoi's iconic French Quarter, within walking distance of the city's cultural and historical landmarks and the Old Quarter. The 155 non-smoking rooms and suites recently underwent an intensive renovation and upgrade, and the hotel offers an outdoor pool and full-service spa. Guests consistently praise the great location, comfortable and spacious rooms, and excellent breakfast catering to a range of tastes, making it a solidly reviewed mid-range option in central Hanoi.",
+  "core_facts": {
+    "address": "83A Ly Thuong Kiet Street, Hoan Kiem District, Hanoi, Vietnam",
+    "brand_sub_brand": "Movenpick",
+    "neighborhood": "French Quarter",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Ly Thuong Kiet Street location in the French Quarter, walking distance to the Old Quarter",
+    "155 non-smoking rooms and suites following a recent intensive renovation",
+    "Outdoor pool and full-service spa on-site",
+    "Comfortable, spacious rooms consistently praised by guests",
+    "Excellent breakfast catering to a range of tastes"
+  ],
+  "cons": [
+    "As a mid-range property, it has fewer facilities than Hanoi's larger five-star hotels",
+    "Some guests note the hotel's size means less dedicated space for events than bigger properties nearby"
+  ],
+  "research_highlights": [
+    "The French Quarter location and walkability to the Old Quarter draw consistent praise",
+    "The recent renovation is reflected favourably in guest feedback on room quality",
+    "Breakfast variety is repeatedly highlighted as a strength"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Movenpick Hotel Hanoi Centre close to the Old Quarter?",
+      "answer": "Yes -- it's on Ly Thuong Kiet Street in Hanoi's French Quarter, within walking distance of the Old Quarter and many of the city's cultural and historical landmarks."
+    },
+    {
+      "question": "Has Movenpick Hotel Hanoi Centre been renovated recently?",
+      "answer": "Yes -- the hotel underwent an intensive renovation and upgrade, and guest feedback since reflects the improved room quality favourably."
+    }
+  ],
+  "tags": ["french quarter", "old quarter", "recently renovated"],
+  "source_mix": [
+    {
+      "url": "https://movenpick.accor.com/en/asia/vietnam/hanoi/hotel-hanoi.html",
+      "label": "Official Movenpick Hotel Hanoi Centre page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293924-d1161184-Reviews-Movenpick_Hotel_Hanoi_Centre-Hanoi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://movenpick.accor.com/en/asia/vietnam/hanoi/hotel-hanoi.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-hanoi", "pullman-hanoi"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Movenpick Hotel Hanoi Centre | Hanoi, Vietnam | Hotel Review",
+        "channel": "Vietnam Hotel Reviews",
+        "url": "https://www.youtube.com/watch?v=Tlu5zFg_2Y0",
+        "video_id": "Tlu5zFg_2Y0",
+        "published_date": "2025-10-20"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
