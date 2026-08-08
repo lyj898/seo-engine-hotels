@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-pattaya-ocean-resort",
+  "slug": "mercure-pattaya-ocean-resort",
+  "name": "Mercure Pattaya Ocean Resort",
+  "category_id": "accor-all",
+  "region_id": "pattaya",
+  "short_description": "A 210-room resort directly on Pattaya Beach with a mini water park and kids club, 2 minutes' walk from the beach in northern Pattaya.",
+  "ai_summary": "Mercure Pattaya Ocean Resort sits directly on Pattaya Beach in the northern part of the city, about 2 minutes' walk from the sand. The 210-room resort's mini water park and kids club make it a popular family pick, alongside a gym, multiple pools, and a spa. Guests consistently praise the spacious, well-maintained rooms and the breakfast buffet, with families particularly drawn to the water park, though service and value draw more mixed feedback, with some guests citing extra charges and unmet expectations.",
+  "core_facts": {
+    "address": "463 Pattaya 2 Road, Na Kluea, Bang Lamung, Chonburi 20260, Thailand",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "North Pattaya",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About 2 minutes' walk from Pattaya Beach in the quieter northern part of the city",
+    "Mini water park and kids club, a strong draw for families",
+    "210 spacious, well-maintained rooms",
+    "Breakfast buffet consistently praised by guests",
+    "Multiple pools, a gym, and a spa on-site"
+  ],
+  "cons": [
+    "Service and value draw more mixed feedback than the property's physical amenities",
+    "Some guests report extra charges that weren't clearly expected upfront"
+  ],
+  "research_highlights": [
+    "The mini water park and kids club draw consistent praise from families",
+    "Room spaciousness and cleanliness are repeatedly highlighted",
+    "The North Pattaya beach location is called convenient without the busiest crowds"
+  ],
+  "research_watchouts": [
+    "A subset of guests report service inconsistency and unexpected extra charges"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does Mercure Pattaya Ocean Resort have a water park?",
+      "answer": "Yes -- a mini water park and kids club make it a popular choice for families, alongside multiple pools, a gym, and a spa, all about 2 minutes' walk from Pattaya Beach."
+    },
+    {
+      "question": "Is Mercure Pattaya Ocean Resort good value?",
+      "answer": "Reviews are mixed on this point -- rooms and the breakfast buffet draw strong praise, but some guests report extra charges and service inconsistency, so it's worth checking recent reviews before booking."
+    }
+  ],
+  "tags": ["north pattaya", "water park", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8889/index.en.shtml",
+      "label": "Official Mercure Pattaya Ocean Resort page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1226133-d7175786-Reviews-Mercure_Pattaya_Ocean_Resort-Bang_Lamung_Chonburi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8889/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-pattaya-hotel-g"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Pattaya Ocean Resort Full Tour - Ocean Suite Upgrade + Water Park",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=d7gku2B5eBg",
+        "video_id": "d7gku2B5eBg",
+        "published_date": "2025-09-12"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 70 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 70 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

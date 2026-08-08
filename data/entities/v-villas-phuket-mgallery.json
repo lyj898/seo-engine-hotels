@@ -1,0 +1,99 @@
+{
+  "entity_id": "v-villas-phuket-mgallery",
+  "slug": "v-villas-phuket-mgallery",
+  "name": "V Villas Phuket - MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "An intimate 19-villa resort perched 39 metres above secluded Ao Yon Bay in Cape Panwa, every villa with a private infinity pool and 24-hour butler.",
+  "ai_summary": "V Villas Phuket - MGallery Collection is an intimately sized resort of just 19 villas perched 39 metres above secluded Ao Yon Bay in the Cape Panwa area, away from Phuket's busier tourist zones. Most villas span two storeys with three or four bedrooms, dazzling ocean views, floor-to-ceiling windows, and a private infinity pool, all supported by 24-hour personal butler service. Guests consistently describe the property as a sanctuary of elegance, praising the Yon Ocean House restaurant, the rooftop Akoya Star Lounge, and exceptional staff, with the main trade-off being that the cliffside setting requires stairs or a golf cart to reach the beach.",
+  "core_facts": {
+    "address": "Cape Panwa, Ao Yon Bay, Wichit, Phuket Town, Phuket, Thailand",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Cape Panwa / Ao Yon Bay",
+    "elite_benefits": [
+      "24-hour personal butler service included with every villa",
+      "Room upgrades for Platinum and Diamond members, subject to availability, per ALL - Accor Live Limitless program terms",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Just 19 villas, most with two storeys, 3-4 bedrooms, and dazzling ocean views",
+    "Every villa has a private infinity pool and 24-hour personal butler service",
+    "Yon Ocean House restaurant and the rooftop Akoya Star Lounge draw strong praise",
+    "Secluded Cape Panwa setting, away from Phuket's busier tourist zones",
+    "Floor-to-ceiling windows and large wooden decks suspended over the sea"
+  ],
+  "cons": [
+    "The cliffside setting requires stairs or a golf cart to reach the beach",
+    "Only 19 villas means limited availability, especially during peak season"
+  ],
+  "research_highlights": [
+    "Guests consistently describe the property as a sanctuary of elegance and tranquility",
+    "The 24-hour butler service and private infinity pools draw specific, repeated praise",
+    "Staff are described as going above and beyond to create memorable experiences"
+  ],
+  "research_watchouts": [
+    "The hillside/cliffside layout means beach access involves stairs or a golf cart"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How many villas does V Villas Phuket have?",
+      "answer": "Just 19 villas, most spanning two storeys with three or four bedrooms and ocean views over Ao Yon Bay -- every villa includes a private infinity pool and 24-hour personal butler service."
+    },
+    {
+      "question": "Is V Villas Phuket directly on the beach?",
+      "answer": "Not directly -- the resort is perched 39 metres above Ao Yon Bay on a cliffside in Cape Panwa, so reaching the beach involves stairs or a golf cart, a trade-off for the dramatic ocean views."
+    }
+  ],
+  "tags": ["cape panwa", "private villa pools", "24-hour butler"],
+  "source_mix": [
+    {
+      "url": "https://mgallery.accor.com/en/hotels/B775.html",
+      "label": "Official V Villas Phuket page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2315814-d23262991-Reviews-V_Villas_Phuket_MGallery_Collection-Wichit_Phuket_Town_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://mgallery.accor.com/en/hotels/B775.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-phuket-patong"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "V Villas Phuket - MGallery: A Hotel Review of an Unforgettable Luxury Getaway",
+        "source": "The Travel Mom",
+        "url": "https://www.thetravelmom.com/post/v-villas-phuket-mgallery-a-hotel-review-of-an-unforgettable-luxury-getaway",
+        "published_date": "2025-01-29",
+        "summary": "Calls it a sanctuary of elegance, praising the 19 private-pool villas, 24-hour butler service, Yon Ocean House dining, and the secluded Cape Panwa setting, though cliffside access means stairs or a golf cart to the beach."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 92,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 96 },
+      { "label": "Rooms", "score": 94 },
+      { "label": "Food & breakfast", "score": 90 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

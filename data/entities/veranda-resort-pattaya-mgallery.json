@@ -1,0 +1,98 @@
+{
+  "entity_id": "veranda-resort-pattaya-mgallery",
+  "slug": "veranda-resort-pattaya-mgallery",
+  "name": "Veranda Resort Pattaya - MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "pattaya",
+  "short_description": "A 145-room resort on Na Jomtien Beach, close enough to central Pattaya yet secluded enough for a peaceful stay, with an exclusive beachfront pool.",
+  "ai_summary": "Veranda Resort Pattaya - MGallery Collection sits on Na Jomtien Beach, close enough to Pattaya City's livelier neighbourhoods yet secluded enough to feel like a genuine escape. The 145 rooms and private villas each echo the calm beachfront setting, with an exclusive beachfront pool as a centrepiece amenity. Guests consistently praise the spacious, cosy rooms with beautiful balcony views, along with the property's cleanliness and relaxing atmosphere, making it one of the more highly rated Accor properties in the wider Pattaya area.",
+  "core_facts": {
+    "address": "Na Jomtien Beach, Sattahip, Chonburi Province, Thailand",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Na Jomtien Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Na Jomtien Beach setting, close to Pattaya City yet notably more secluded",
+    "145 rooms and private villas, each echoing the calm beachfront setting",
+    "Exclusive beachfront pool as a centrepiece amenity",
+    "Spacious, cosy rooms with beautiful balcony views consistently praised",
+    "One of the more highly rated Accor properties in the wider Pattaya area"
+  ],
+  "cons": [
+    "The Na Jomtien location sits further from central Pattaya's main nightlife strip",
+    "As a smaller boutique resort, it has fewer facilities than Pattaya's larger beachfront hotels"
+  ],
+  "research_highlights": [
+    "The secluded Na Jomtien Beach setting draws consistent praise for its peaceful atmosphere",
+    "Room spaciousness and balcony views are repeatedly highlighted",
+    "Cleanliness is a recurring theme across recent reviews"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Veranda Resort Pattaya close to central Pattaya?",
+      "answer": "It's on Na Jomtien Beach, which is close enough to Pattaya City's neighbourhoods for convenience, but secluded enough to feel like a genuine escape from the busier central strip."
+    },
+    {
+      "question": "Does Veranda Resort Pattaya have villas?",
+      "answer": "Yes -- alongside 145 standard rooms, the property offers private villas, each echoing the resort's calm beachfront setting on Na Jomtien Beach."
+    }
+  ],
+  "tags": ["na jomtien beach", "boutique resort", "beachfront pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A0E9/index.en.shtml",
+      "label": "Official Veranda Resort Pattaya page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293919-d9463224-Reviews-Veranda_Resort_Pattaya_MGallery_Collection-Pattaya_Chonburi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A0E9/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-pattaya-hotel-g", "movenpick-siam-na-jomtien-pattaya"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Inside Veranda Resort Pattaya's Stunning Oceanfront Room - Thailand Travel Vlog",
+        "channel": "TheMLife",
+        "url": "https://www.youtube.com/watch?v=bLF8Ux5cOlY",
+        "video_id": "bLF8Ux5cOlY"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

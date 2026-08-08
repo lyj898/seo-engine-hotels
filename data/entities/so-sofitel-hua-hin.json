@@ -1,0 +1,100 @@
+{
+  "entity_id": "so-sofitel-hua-hin",
+  "slug": "so-sofitel-hua-hin",
+  "name": "SO/ Sofitel Hua Hin",
+  "category_id": "accor-all",
+  "region_id": "hua-hin",
+  "short_description": "A 100-room design-forward beachfront resort in Cha-am (marketed as Hua Hin), designed by Duangrit Bunnag, with two pools and 8 exclusive SO Pool Villas.",
+  "ai_summary": "SO/ Sofitel Hua Hin sits on Cha-am Beach, about 32km from central Hua Hin though marketed under the Hua Hin name, roughly 2.5 hours from Bangkok. Designed by renowned Thai architect Duangrit Bunnag, the 100-room resort adds 8 exclusive SO Pool Villas and two distinct swimming pools -- Chill, an adults-only lap pool by the Red Bar, and Active, a beach-facing pool with a shallow kids' area. Guests consistently praise the striking design and family-friendly kids' club, though a vocal minority report serious service breakdowns, so it's worth checking recent reviews closely before booking.",
+  "core_facts": {
+    "address": "115 Moo 7, Tambol Bangkao, Cha-Am, Phetchaburi 76120, Thailand",
+    "brand_sub_brand": "SO/",
+    "neighborhood": "Cha-am Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Designed by acclaimed Thai architect Duangrit Bunnag, a design-forward standout on this stretch of coast",
+    "100 rooms plus 8 exclusive SO Pool Villas",
+    "Two distinct pools: adults-only Chill and family-friendly Active with a kids' area",
+    "Kids Club and family-oriented amenities draw strong praise",
+    "About 2.5 hours from Bangkok, a manageable weekend-getaway distance"
+  ],
+  "cons": [
+    "Located in Cha-am, about 32km from central Hua Hin despite the name, worth confirming before booking",
+    "A vocal minority of reviews report serious service breakdowns"
+  ],
+  "research_highlights": [
+    "The design-forward architecture and distinctive pool concepts draw consistent praise",
+    "The Kids Club and family amenities are highlighted by traveling parents",
+    "Guests describe the property as a genuine escape from Bangkok within a manageable drive"
+  ],
+  "research_watchouts": [
+    "A vocal minority of reviews describe significant service issues, a wider spread than at some comparable Accor resorts",
+    "The Cha-am location, not central Hua Hin, has surprised some guests booking based on the hotel's name alone"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is SO/ Sofitel Hua Hin actually in Hua Hin?",
+      "answer": "Not quite -- it's located on Cha-am Beach, about 32km from central Hua Hin, though marketed under the Hua Hin name. It's worth factoring the actual location into travel plans before booking."
+    },
+    {
+      "question": "Does SO/ Sofitel Hua Hin have villas?",
+      "answer": "Yes -- alongside 100 standard rooms, the resort offers 8 exclusive SO Pool Villas, part of a design by acclaimed Thai architect Duangrit Bunnag."
+    }
+  ],
+  "tags": ["cha-am beach", "design hotel", "family-friendly"],
+  "source_mix": [
+    {
+      "url": "https://www.so-sofitel-huahin.com/",
+      "label": "Official SO/ Sofitel Hua Hin page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g19443188-d1025833-Reviews-SO_Sofitel_Hua_Hin-Bang_Kao_Cha_am_District_Phetchaburi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.so-sofitel-huahin.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-hua-hin"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "SO/ Sofitel Hua Hin, Thailand - My Honest Hotel Review",
+        "channel": "Tim Kroeger",
+        "url": "https://www.youtube.com/watch?v=VvwgH02WBJo",
+        "video_id": "VvwgH02WBJo",
+        "published_date": "2024-01-14"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 72 },
+      { "label": "Service", "score": 70 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
