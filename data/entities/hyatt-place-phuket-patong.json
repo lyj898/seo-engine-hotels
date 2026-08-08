@@ -1,0 +1,100 @@
+{
+  "entity_id": "hyatt-place-phuket-patong",
+  "slug": "hyatt-place-phuket-patong",
+  "name": "Hyatt Place Phuket Patong",
+  "category_id": "world-of-hyatt",
+  "region_id": "phuket",
+  "short_description": "A 161-room select-service Hyatt Place on a hill above Patong, a 3-minute walk to the beach, and the first Hyatt Place in Southeast Asia.",
+  "ai_summary": "Hyatt Place Phuket Patong was the first Hyatt Place hotel in Southeast Asia, set on a hill overlooking the Andaman Sea a short walk from Patong Beach. Most rooms face west, giving guests sunset views from their balconies, and the compact, stylish rooms suit budget-conscious travelers wanting a Hyatt-branded stay in the heart of Patong's nightlife and shopping district. As a select-service property it skips the full-service amenities of Phuket's larger resorts, and some guests report mixed experiences with housekeeping consistency.",
+  "core_facts": {
+    "address": "17/1-3 Soi Prabaramee 4, Patong, Phuket 83150, Thailand",
+    "brand_sub_brand": "Hyatt Place",
+    "neighborhood": "Patong",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "A 3-minute walk to Patong Beach, in the heart of Patong's nightlife and shopping",
+    "The first Hyatt Place in Southeast Asia, with the brand's stylish, casual design",
+    "Most rooms face west with sunset views from private balconies",
+    "24-hour food offerings and free Wi-Fi",
+    "Outdoor pool and 24-hour fitness centre"
+  ],
+  "cons": [
+    "As a select-service property, it lacks the full-service amenities of Phuket's larger resorts",
+    "Some guests report mixed experiences with housekeeping consistency",
+    "Compact room sizes typical of the Hyatt Place brand"
+  ],
+  "research_highlights": [
+    "The Patong Beach location and sunset-facing rooms draw consistent praise",
+    "Guests describe rooms as compact but comfortable and pleasantly designed",
+    "Value for a Hyatt-branded stay in central Patong is seen as strong"
+  ],
+  "research_watchouts": [
+    "Some guests report mixed experiences with certain amenities and housekeeping services"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Hyatt Place Phuket Patong close to the beach?",
+      "answer": "Yes -- it's about a 3-minute walk to Patong Beach, and the hotel sits on a hill overlooking the Andaman Sea, with most rooms facing west so guests get sunset views from their private balconies without needing to leave the hotel."
+    },
+    {
+      "question": "Was Hyatt Place Phuket Patong the first Hyatt Place in the region?",
+      "answer": "Yes -- it opened as the first Hyatt Place hotel in Southeast Asia, bringing the brand's stylish, casual select-service format (free Wi-Fi, 24-hour food, a Cozy Corner sofa-sleeper in every room) to Phuket's Patong Beach area."
+    }
+  ],
+  "tags": ["patong", "select-service", "sunset views"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-place/en-US/hktph-hyatt-place-phuket-patong",
+      "label": "Official Hyatt Place Phuket Patong page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297930-d14725907-Reviews-Hyatt_Place_Phuket_Patong-Patong_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-place/en-US/hktph-hyatt-place-phuket-patong",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-regency-phuket-resort"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Hyatt Place Phuket Patong Thailand - review of a king room",
+        "channel": "Verify Giant - TOKYO HQ 111",
+        "url": "https://www.youtube.com/watch?v=lvqsAX72RDE",
+        "video_id": "lvqsAX72RDE",
+        "published_date": "2025-04-24"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

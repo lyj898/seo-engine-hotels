@@ -1,0 +1,107 @@
+{
+  "entity_id": "andaz-pattaya-jomtien-beach",
+  "slug": "andaz-pattaya-jomtien-beach",
+  "name": "Andaz Pattaya Jomtien Beach",
+  "category_id": "world-of-hyatt",
+  "region_id": "pattaya",
+  "short_description": "A 204-room Andaz on Thailand's Jomtien coastline, spread over 15 acres with a jungle-like landscape, a river-fed lagoon, and beachfront pool villas.",
+  "ai_summary": "Andaz Pattaya Jomtien Beach was the first Andaz hotel in Thailand, spread across 15 acres of jungle-like landscaping on the Jomtien coastline south of central Pattaya, with a river that flows into a lagoon running through the property. Guests consistently praise the design, landscaping, and beach cleanliness, calling it one of the most beautifully designed resorts in the Pattaya area, with attentive and polite staff. A handful of reviews mention a long, uncomfortable check-in process without air conditioning in the lobby lounge, and food and drink prices run high.",
+  "core_facts": {
+    "address": "345 Moo 3, Na Jomtien, Sattahip, Chon Buri 20250, Thailand",
+    "brand_sub_brand": "Andaz",
+    "neighborhood": "Na Jomtien / Jomtien Beach",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "The first Andaz hotel in Thailand, spread over 15 acres of jungle-like landscaping",
+    "A river-fed lagoon runs through the property, unusual among Pattaya-area resorts",
+    "Beachfront suites and pool villas along the Jomtien coastline",
+    "Guests describe it as among the most beautifully designed resorts in the area",
+    "Clean beach and attentive, polite staff draw consistent praise"
+  ],
+  "cons": [
+    "Some guests report a long, uncomfortable check-in process with no air conditioning in the lobby lounge",
+    "Food and drink prices run high according to several reviewers"
+  ],
+  "research_highlights": [
+    "Guests repeatedly call it the most beautiful resort in the Pattaya area for room design, furnishing and landscape",
+    "The clean beach and lagoon setting draw strong, specific praise",
+    "Staff are consistently described as attentive, polite, and providing excellent service"
+  ],
+  "research_watchouts": [
+    "At least one review describes a long check-in process without lobby air conditioning",
+    "Food is noted as expensive by multiple guests"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Andaz Pattaya Jomtien Beach in central Pattaya?",
+      "answer": "No -- it's on the Jomtien coastline in Na Jomtien, south of central Pattaya, marketed under the Pattaya name but set apart from the busier central strip in a quieter, more resort-style setting with 15 acres of jungle-like grounds."
+    },
+    {
+      "question": "Was Andaz Pattaya Jomtien Beach the first Andaz in Thailand?",
+      "answer": "Yes -- it opened as Hyatt's first Andaz-branded hotel in Thailand, bringing the brand's lifestyle design sensibility to a 15-acre beachfront property with a river that flows into an on-site lagoon, distinct from a typical resort layout."
+    }
+  ],
+  "tags": ["jomtien beach", "na jomtien", "lagoon"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/andaz/en-US/utpaz-hyatt-andaz-pattaya-jomtien-beach",
+      "label": "Official Andaz Pattaya Jomtien Beach page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2005201-d24148652-Reviews-Andaz_Pattaya_Jomtiem_Beach-Na_Chom_Thian_Sattahip_Chonburi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/andaz/en-US/utpaz-hyatt-andaz-pattaya-jomtien-beach",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Andaz Pattaya Jomtien Beach is an easy getaway from Bangkok, Thailand",
+        "source": "Daddy Travels Miles & Points",
+        "url": "https://daddytravelsnow.com/2025/02/17/review-andaz-pattaya-jomtien-beach-is-an-easy-getaway-from-bangkok-thailand/",
+        "published_date": "2025-02-17",
+        "summary": "Describes the resort's jungle-like, river-fed lagoon setting on the Jomtien coastline as a standout among Thailand's beach resorts, praising the design and beachfront pool villas as an easy, worthwhile weekend escape from Bangkok."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Is this Thailand's best resort surprise? | ANDAZ PATTAYA JOMTIEN BEACH Thailand Review",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=aeNmnKeyUIM",
+        "video_id": "aeNmnKeyUIM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
