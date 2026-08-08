@@ -1,0 +1,112 @@
+{
+  "entity_id": "hyatt-house-kuala-lumpur-mont-kiara",
+  "slug": "hyatt-house-kuala-lumpur-mont-kiara",
+  "name": "Hyatt House Kuala Lumpur, Mont Kiara",
+  "category_id": "world-of-hyatt",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 298-suite extended-stay Hyatt House in Mont Kiara, with full kitchens and a rooftop pool, popular with expatriates and long-stay guests.",
+  "ai_summary": "Hyatt House Kuala Lumpur, Mont Kiara sits in the affluent, self-sufficient Mont Kiara neighbourhood -- popular with expatriates and less commonly considered by tourists -- with 298 residentially inspired studios and suites, each with a full kitchen and living area. Guests consistently praise the spacious rooms and panoramic city views for the price, making it a strong pick for extended stays. The property's on-site breakfast has drawn more mixed, and even critical, feedback since it moved to a paid model, so guests prioritizing breakfast should weigh nearby dining options in the neighbourhood instead.",
+  "core_facts": {
+    "address": "G-2 Arcoris, 10 Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Hyatt House",
+    "neighborhood": "Mont Kiara",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Spacious, residentially inspired studios and suites with full kitchens and living areas",
+    "Panoramic city skyline views praised as excellent for the price",
+    "Rooftop pool and 24-hour fitness centre",
+    "Mont Kiara's self-sufficient neighbourhood offers plenty of dining options nearby",
+    "Well suited to extended stays given the kitchen and laundry facilities"
+  ],
+  "cons": [
+    "The hotel's paid breakfast (around MYR 45) has drawn criticism as poor value; guests are better off exploring nearby dining",
+    "Mont Kiara is less commonly considered by tourists than more central Kuala Lumpur neighbourhoods"
+  ],
+  "research_highlights": [
+    "Guests describe the rooms as huge for the price, with panoramic city skyline views",
+    "The property is repeatedly recommended for anyone wanting extra space without breaking the bank",
+    "Kitchenettes and laundry facilities make it well suited to longer stays"
+  ],
+  "research_watchouts": [
+    "A review specifically flags the paid breakfast as not worth the asking price, recommending guests eat elsewhere in Mont Kiara instead"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is breakfast included at Hyatt House Kuala Lumpur, Mont Kiara?",
+      "answer": "Breakfast is paid (around MYR 45) rather than included in the room rate, and a review found it poor value for the price -- guests are generally better off exploring Mont Kiara's other dining options nearby, unless they qualify for World of Hyatt Globalist Elite's complimentary-breakfast benefit."
+    },
+    {
+      "question": "Is Hyatt House Kuala Lumpur, Mont Kiara good for long stays?",
+      "answer": "Yes -- rooms are residentially inspired studios and suites with full kitchens, living areas, and laundry facilities, and Mont Kiara is a self-sufficient, expatriate-popular neighbourhood with plenty of everyday dining and amenities within reach."
+    }
+  ],
+  "tags": ["mont kiara", "extended stay", "full kitchen"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-house/en-US/kulxk-hyatt-house-kuala-lumpur-mont-kiara",
+      "label": "Official Hyatt House Kuala Lumpur, Mont Kiara page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d13547599-Reviews-Hyatt_House_Kuala_Lumpur_Mont_Kiara-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-house/en-US/kulxk-hyatt-house-kuala-lumpur-mont-kiara",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-regency-kuala-lumpur-kl-midtown", "hyatt-place-kuala-lumpur-bukit-jalil"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Hyatt House Kuala Lumpur, Mont Kiara",
+        "source": "The MileLion",
+        "url": "https://milelion.com/2024/12/05/review-hyatt-house-kuala-lumpur-mont-kiara/",
+        "published_date": "2024-12-05",
+        "summary": "Finds spacious accommodations with full kitchens and laundry facilities at reasonable rates make it excellent for extended stays, but flags the recently introduced paid breakfast (MYR 45) as poor quality and not worth the asking price."
+      }
+    ],
+    "videos": [
+      {
+        "title": "HYATT House Mont Kiara Kuala Lumpur Hotel tour",
+        "channel": "GoAnywhere",
+        "url": "https://www.youtube.com/watch?v=gsL14n8UWRY",
+        "video_id": "gsL14n8UWRY"
+      },
+      {
+        "title": "Hyatt House Kuala Lumpur Mont Kiara, Full Hotel Tour and Two Bedroom Suite Nr. 3121",
+        "channel": "aeroAdvocate Luxury Travel",
+        "url": "https://www.youtube.com/watch?v=xoiuxic-X-o",
+        "video_id": "xoiuxic-X-o"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 58 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
