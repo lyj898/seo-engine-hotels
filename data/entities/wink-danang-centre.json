@@ -1,0 +1,99 @@
+{
+  "entity_id": "wink-danang-centre",
+  "slug": "wink-danang-centre",
+  "name": "Wink Danang Centre, Unscripted by Hyatt",
+  "category_id": "world-of-hyatt",
+  "region_id": "da-nang",
+  "short_description": "A 244-room boutique hotel in downtown Hai Chau with a guaranteed 24-hour stay, Dragon Bridge views, and TripAdvisor's #1 ranking among Hai Chau hotels.",
+  "ai_summary": "Wink Danang Centre sits on Tran Phu Street in downtown Hai Chau, within walking distance of Han Market, the Pink Cathedral, and the Dragon Bridge, and joined World of Hyatt as part of the Unscripted by Hyatt collection when Hyatt's December 2025 partnership with Wink Hotels took effect. Its signature feature is a guaranteed 24-hour stay -- guests can check in any time and check out exactly 24 hours later -- alongside a 24/7 gym, laundromat, co-working space, and a Wink Kitchen serving street food. Guests consistently praise the central location, Dragon Bridge night views from upper floors, and attentive staff, ranking the hotel #1 of 9 in Hai Chau on TripAdvisor with a 5-of-5 rating; a handful of reviews mention the property not always feeling perfectly clean despite daily housekeeping.",
+  "core_facts": {
+    "address": "178 Tran Phu Street, Phuoc Ninh Ward, Hai Chau District, Da Nang, Vietnam",
+    "brand_sub_brand": "Unscripted by Hyatt",
+    "neighborhood": "Hai Chau, downtown Da Nang",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Guaranteed 24-hour stay -- check in any time, check out exactly 24 hours later",
+    "Downtown Hai Chau location, walking distance to Han Market, the Pink Cathedral, and the Dragon Bridge",
+    "Ranked #1 of 9 hotels in Hai Chau on TripAdvisor with a 5-of-5 rating from 591 reviews",
+    "24/7 gym, self-service laundromat, and co-working space",
+    "Rooms with large windows offer night views of the Dragon Bridge and Pink Cathedral"
+  ],
+  "cons": [
+    "A joined-Hyatt-in-December-2025 property, so it has a short track record under the Unscripted by Hyatt banner",
+    "A handful of guests report the rooms not always feeling perfectly clean despite daily housekeeping"
+  ],
+  "research_highlights": [
+    "The guaranteed 24-hour check-in/check-out policy draws consistent, distinctive praise",
+    "The downtown Hai Chau location and Dragon Bridge views are repeatedly called standout features",
+    "Staff are described as top-tier and going above and beyond"
+  ],
+  "research_watchouts": [
+    "A few reviews mention visible dust or hair despite daily cleaning",
+    "As a December 2025 addition to World of Hyatt, elite recognition and loyalty perks are newer than at longer-established Hyatt Regency or Grand Hyatt properties"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "What does the '24-hour stay' at Wink Danang Centre mean?",
+      "answer": "Guests can check in at any time of day and check out exactly 24 hours later, rather than being tied to a fixed check-in/check-out time -- a signature feature across Wink's Unscripted by Hyatt properties in Vietnam."
+    },
+    {
+      "question": "When did Wink Danang Centre join World of Hyatt?",
+      "answer": "It joined as part of the Unscripted by Hyatt collection when Hyatt's partnership with Wink Hotels took effect on December 1, 2025, converting Wink's existing Vietnam properties into Hyatt-branded hotels."
+    }
+  ],
+  "tags": ["hai chau", "24-hour stay", "dragon bridge view"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/unscripted-by-hyatt/en-US/vn101-wink-danang-centre",
+      "label": "Official Wink Danang Centre page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g25231262-d24948586-Reviews-Wink_Danang_Centre_Unscripted_by_Hyatt-Hai_Chau_Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/unscripted-by-hyatt/en-US/vn101-wink-danang-centre",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["wink-danang-riverside", "hyatt-regency-danang-resort-and-spa"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Wink Hotel Danang Centre - 24hrs Lifestyle Stay | Da Nang, Vietnam | Hotel Review",
+        "channel": "Vietnam Hotels Channel",
+        "url": "https://www.youtube.com/watch?v=9ZG6mif4RcU",
+        "video_id": "9ZG6mif4RcU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 94 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 88 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

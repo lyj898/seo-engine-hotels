@@ -1,0 +1,100 @@
+{
+  "entity_id": "wink-saigon-centre",
+  "slug": "wink-saigon-centre",
+  "name": "Wink Saigon Centre, Unscripted by Hyatt",
+  "category_id": "world-of-hyatt",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A 237-room boutique hotel on Nguyen Binh Khiem in District 1, with a Wink Kitchen street-food concept and 24/7 gym, laundromat, and co-working space.",
+  "ai_summary": "Wink Saigon Centre sits on Nguyen Binh Khiem Street in a hip pocket of District 1, close to the Botanical Gardens and downtown Ho Chi Minh City's main sights, and joined World of Hyatt through the December 2025 Wink Hotels partnership under the Unscripted by Hyatt brand. The 237-room property leans into Wink's boutique-lifestyle formula: a Wink Kitchen street-food concept, 24/7 gym, laundromat and convenience store, a co-working space, and in-room spa services. Reviews are notably split -- many guests call it a stylish, well-priced stay with friendly staff and spotless housekeeping, while a vocal minority report significant service breakdowns, so it's worth reading recent reviews before booking.",
+  "core_facts": {
+    "address": "75 Nguyen Binh Khiem, Tan Dinh Ward, District 1, Ho Chi Minh City 700000, Vietnam",
+    "brand_sub_brand": "Unscripted by Hyatt",
+    "neighborhood": "District 1, near the Botanical Gardens",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "District 1 location near the Botanical Gardens, within reach of downtown Ho Chi Minh City's main sights",
+    "Wink Kitchen serves a street-food-inspired menu on-site",
+    "24/7 gym, laundromat, convenience store, and a co-working space",
+    "In-room spa services available",
+    "Many guests call it a stylish, modern stay that punches above its price point"
+  ],
+  "cons": [
+    "Reviews are notably split -- a vocal minority report significant service breakdowns alongside many strongly positive stays",
+    "A joined-Hyatt-in-December-2025 property, so it has a short track record under the Unscripted by Hyatt banner",
+    "Some guests warn of potential overcharges, worth double-checking the bill at checkout"
+  ],
+  "research_highlights": [
+    "Cleanliness and the modern, stylish design draw consistent praise",
+    "The Wink Kitchen street-food concept and 24/7 amenities are called out as standout extras",
+    "Many reviewers describe the value as exceptional relative to the room quality"
+  ],
+  "research_watchouts": [
+    "A vocal minority of reviews describe serious service lapses, a wider spread than at some other Hyatt-affiliated properties in the city",
+    "Some guests report billing discrepancies or unexpected charges at checkout"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Where is Wink Saigon Centre located?",
+      "answer": "On Nguyen Binh Khiem Street in District 1, near the Botanical Gardens, a hip pocket of downtown Ho Chi Minh City within reach of the city's main sights."
+    },
+    {
+      "question": "Are reviews of Wink Saigon Centre consistent?",
+      "answer": "Not entirely -- most guests describe a stylish, well-priced stay with friendly, attentive staff, but a vocal minority report significant service breakdowns, so it's worth checking recent reviews close to your travel dates before booking."
+    }
+  ],
+  "tags": ["district 1", "boutique hotel", "street food concept"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/unscripted-by-hyatt/en-US/vn100-wink-saigon-centre",
+      "label": "Official Wink Saigon Centre page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d21499770-Reviews-Wink_Hotel_Saigon_Centre-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/unscripted-by-hyatt/en-US/vn100-wink-saigon-centre",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["park-hyatt-saigon"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Wink Hotel Saigon Centre - 24hrs Lifestyle Stay | Ho Chi Minh City, Vietnam | Hotel Review",
+        "channel": "Vietnam Hotels Club",
+        "url": "https://www.youtube.com/watch?v=wk0E3Q9Ywrg",
+        "video_id": "wk0E3Q9Ywrg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 68 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

@@ -1,0 +1,105 @@
+{
+  "entity_id": "hyatt-regency-danang-resort-and-spa",
+  "slug": "hyatt-regency-danang-resort-and-spa",
+  "name": "Hyatt Regency Danang Resort and Spa",
+  "category_id": "world-of-hyatt",
+  "region_id": "da-nang",
+  "short_description": "A long-established beachfront resort on Non Nuoc Beach with five pools, 198 rooms plus residences and villas, opposite the Marble Mountains.",
+  "ai_summary": "Hyatt Regency Danang Resort and Spa has lined Non Nuoc Beach since opening in November 2011, with 198 guest rooms alongside separately managed residences and villas spread across landscaped grounds opposite the Marble Mountains. A 2023-2024 renovation refreshed the property, and recent additions include a Le Petit Chef dining experience, a rebranded Vietnamese restaurant, a sports club with 3D indoor golf and squash, a basketball court, and a hands-on Little Farm for kids. Guests consistently praise the resort's five pools, 750-metre private beach frontage, and the sense of space across the grounds, and the property picked up 2025 Travel + Leisure Luxury Awards Asia Pacific recognition for its beach resorts and hotel pools in Vietnam.",
+  "core_facts": {
+    "address": "5 Truong Sa Street, Ngu Hanh Son District, Da Nang 550000, Vietnam",
+    "brand_sub_brand": "Hyatt Regency",
+    "neighborhood": "Non Nuoc Beach, Ngu Hanh Son District",
+    "elite_benefits": [
+      "Regency Club Lounge access for World of Hyatt Globalist Elite members",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability, per World of Hyatt program terms",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "750-metre private stretch of Non Nuoc Beach with five outdoor pools",
+    "Landscaped grounds set opposite the Marble Mountains, with residences and villas alongside standard rooms",
+    "2023-2024 renovation refreshed the property, and 2024-2025 added Le Petit Chef dining, a sports club, and a kids' Little Farm",
+    "Recognized in the 2025 Travel + Leisure Luxury Awards Asia Pacific for beach resorts and hotel pools in Vietnam",
+    "Spacious grounds and multiple dining venues suit families and longer stays"
+  ],
+  "cons": [
+    "Set in Ngu Hanh Son District south of central Da Nang, away from the Dragon Bridge and downtown restaurant scene",
+    "As an established 2011-opened resort, some sections read older than Da Nang's newest beachfront builds despite the recent renovation"
+  ],
+  "research_highlights": [
+    "Guests consistently call out the five pools and private beach frontage as standout features",
+    "Recent additions -- Le Petit Chef, the sports club, and Little Farm -- draw praise from families",
+    "The 2023-2024 renovation is reflected favourably in recent guest feedback"
+  ],
+  "research_watchouts": [
+    "The Ngu Hanh Son location means a taxi or resort shuttle is needed to reach central Da Nang's Dragon Bridge and downtown dining",
+    "Some older, unrenovated sections of the sprawling property draw more mixed feedback than the refreshed areas"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How many pools does Hyatt Regency Danang Resort and Spa have?",
+      "answer": "Five outdoor pools spread across the resort's landscaped grounds, alongside 750 metres of private Non Nuoc Beach frontage -- a scale that earned the property 2025 Travel + Leisure Luxury Awards Asia Pacific recognition for Vietnam's best hotel pools."
+    },
+    {
+      "question": "Is Hyatt Regency Danang Resort and Spa close to central Da Nang?",
+      "answer": "No -- it sits on Non Nuoc Beach in Ngu Hanh Son District, opposite the Marble Mountains and south of the city centre, so reaching the Dragon Bridge or downtown restaurants means a taxi or resort shuttle rather than a walk."
+    }
+  ],
+  "tags": ["non nuoc beach", "marble mountains", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa",
+      "label": "Official Hyatt Regency Danang Resort and Spa page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298085-d2340470-Reviews-Hyatt_Regency_Danang_Resort_Spa-Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.prnewswire.com/apac/news-releases/hyatt-regency-danang-resort--spa-unveils-2024-delights-le-petit-chef-the-arena-and-exclusive-stays-await-302028469.html",
+      "label": "PR Newswire: 2024 property updates",
+      "type": "other",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Review: Regency Suite at Hyatt Regency Danang in Vietnam",
+        "channel": "Hotelhoppers",
+        "url": "https://www.youtube.com/watch?v=GwOIKhkq4zg",
+        "video_id": "GwOIKhkq4zg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
