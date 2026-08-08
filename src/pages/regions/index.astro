@@ -10,20 +10,45 @@ import { buildBreadcrumbListSchema } from '../../lib/schema-jsonld.js';
 const regions = loadRegions().map(stripMeta).filter(isPublished);
 const entities = loadEntities().map(stripMeta).filter(isPublished);
 const ancestryMap = buildRegionAncestryMap(regions);
+const regionsById = new Map(regions.map((r) => [r.region_id, r]));
 
 function entityCountIncludingDescendants(region) {
   return entities.filter((e) => (ancestryMap.get(e.region_id) ?? [e.region_id]).includes(region.region_id)).length;
 }
 
 // The directory's primary browse unit is the city (Bali / Bangkok / Singapore),
-// not the top-level country -- so this index lists city-granularity regions,
-// ordered by coverage, mirroring the homepage's "browse by city" list. Listing
-// top-level regions instead made this page read as countries ("Indonesia",
-// "Thailand") under an "All Cities" heading.
+// not the top-level country -- so this index still lists city-granularity
+// regions, ordered by coverage, mirroring the homepage's "browse by city"
+// list. Listing top-level regions instead made this page read as countries
+// ("Indonesia", "Thailand") under an "All Cities" heading.
+//
+// With 30+ cities tracked, one flat grid of every city read as an
+// undifferentiated wall of cards -- worst on mobile, where the grid
+// collapses to a single column and the list runs for several screens
+// before a country pattern becomes visible. Grouping cities under their
+// parent country as section headings keeps the city as the click target
+// (nothing here links to a country page) while giving the page scannable
+// structure. A city with no parent_region_id (Singapore, a city-state) is
+// its own single-city group rather than an orphan.
 const cityRegions = regions
   .filter((r) => r.granularity === 'city')
   .map((r) => ({ ...r, entityCount: entityCountIncludingDescendants(r) }))
   .sort((a, b) => b.entityCount - a.entityCount);
+
+const countryGroups = [];
+const groupsById = new Map();
+for (const city of cityRegions) {
+  const country = (city.parent_region_id && regionsById.get(city.parent_region_id)) || city;
+  let group = groupsById.get(country.region_id);
+  if (!group) {
+    group = { country, cities: [], entityCount: 0 };
+    groupsById.set(country.region_id, group);
+    countryGroups.push(group);
+  }
+  group.cities.push(city);
+  group.entityCount += city.entityCount;
+}
+countryGroups.sort((a, b) => b.entityCount - a.entityCount);
 
 const regionLabelPlural = siteConfig.regionLabelPlural ?? `${siteConfig.regionLabel}s`;
 
@@ -48,15 +73,27 @@ const jsonLd = [buildBreadcrumbListSchema(breadcrumbItems, Astro.site)].filter(B
       Browse every {siteConfig.entityLabelSingular} on {siteConfig.siteName} grouped by {siteConfig.regionLabel.toLowerCase()}.
     </p>
 
-    {cityRegions.length > 0 ? (
-      <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {cityRegions.map((region) => (
-          <HubCard
-            href={urls.region(region.slug)}
-            label={region.label}
-            description={region.short_description}
-            count={region.entityCount}
-          />
+    {countryGroups.length > 0 ? (
+      <div class="mt-10 space-y-12">
+        {countryGroups.map((group) => (
+          <section>
+            <div class="flex items-baseline justify-between gap-4 border-b border-brand-divider pb-3 dark:border-brand-divider-dark">
+              <h2 class="font-serif text-xl font-normal sm:text-2xl">{group.country.label}</h2>
+              <span class="kicker shrink-0 text-brand-faint dark:text-brand-faint-dark">
+                {group.entityCount} {siteConfig.entityLabelPlural}
+              </span>
+            </div>
+            <div class="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {group.cities.map((city) => (
+                <HubCard
+                  href={urls.region(city.slug)}
+                  label={city.label}
+                  description={city.short_description}
+                  count={city.entityCount}
+                />
+              ))}
+            </div>
+          </section>
         ))}
       </div>
     ) : (
