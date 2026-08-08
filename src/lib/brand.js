@@ -13,13 +13,17 @@
 // "Four Points by Sheraton" isn't caught by the "sheraton" that would
 // otherwise read as premium. Everything not luxury or select is premium.
 //
-// Covers both Marriott Bonvoy and World of Hyatt sub-brand vocabulary --
-// the two never overlap in naming, so one combined regex per tier works
-// for any entity regardless of which loyalty program it belongs to. Add a
-// third program's brands here the same way rather than branching on
-// category_id, so tiering stays a pure function of core_facts.brand_sub_brand.
-const SELECT = /four points|courtyard|aloft|element|fairfield|moxy|ac hotels|springhill|protea|city express|hyatt place|hyatt house|hyatt studios|urcove|caption by hyatt/i;
-const LUXURY = /ritz-carlton|st\.?\s*regis|jw marriott|w hotels|luxury collection|\bedition\b|bulgari|w bali|w singapore|w kuala|park hyatt|\balila\b|unbound collection|miraval/i;
+// Covers Marriott Bonvoy, World of Hyatt, and ALL - Accor Live Limitless
+// sub-brand vocabulary -- the three never overlap in naming, so one
+// combined regex per tier works for any entity regardless of which
+// loyalty program it belongs to. Add a fourth program's brands here the
+// same way rather than branching on category_id, so tiering stays a pure
+// function of core_facts.brand_sub_brand.
+//
+// "Mercure" is anchored with ^ so it only matches the base brand, not
+// "Grand Mercure" (Accor's step-up four-star tier, left to default premium).
+const SELECT = /four points|courtyard|aloft|element|fairfield|moxy|ac hotels|springhill|protea|city express|hyatt place|hyatt house|hyatt studios|urcove|caption by hyatt|\bibis\b|^mercure\b|\badagio\b|hotelf1|\bgreet\b|\btribe\b/i;
+const LUXURY = /ritz-carlton|st\.?\s*regis|jw marriott|w hotels|luxury collection|\bedition\b|bulgari|w bali|w singapore|w kuala|park hyatt|\balila\b|unbound collection|miraval|\braffles\b|\bfairmont\b|\bsofitel\b|\bso\/|orient express|emblems collection/i;
 
 export function hotelTier(subBrand) {
   const s = subBrand ?? '';
