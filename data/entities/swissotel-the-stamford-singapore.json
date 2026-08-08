@@ -1,0 +1,108 @@
+{
+  "entity_id": "swissotel-the-stamford-singapore",
+  "slug": "swissotel-the-stamford-singapore",
+  "name": "Swissotel The Stamford Singapore",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 1,252-room, I.M. Pei-designed tower above City Hall MRT -- the world's tallest hotel when it opened in 1986 -- with a Level 65 Lounge overlooking Marina Bay.",
+  "ai_summary": "Swissotel The Stamford is a 1,252-room, I.M. Pei-designed tower rising 226 metres above City Hall MRT station within the Raffles City complex -- the tallest hotel in the world when it opened in 1986. Guests consistently praise the prime, transit-connected location, spacious Swiss Marina Bay View rooms with skyline views, and a strong breakfast spread at Clove and the Asian Market Cafe, alongside the Level 65 Lounge's 360-degree views over Marina Bay. The lounge no longer serves food during evening drinks (a pre-pandemic perk that hasn't returned) and vegetarian options there are limited, but repeat guests consistently call the hotel strong value for its location and facilities.",
+  "core_facts": {
+    "address": "2 Stamford Road, Singapore 178882",
+    "brand_sub_brand": "Swissotel",
+    "neighborhood": "City Hall / Raffles City",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "1,252 rooms in an I.M. Pei-designed tower directly above City Hall MRT -- the world's tallest hotel when it opened in 1986",
+    "Spacious 40-square-metre Swiss Marina Bay View rooms with skyline and harbour views",
+    "Level 65 Lounge offers 360-degree views over Marina Bay, a prime vantage point for the National Day Parade",
+    "Strong breakfast spread at Clove and the Asian Market Cafe, with fresh-squeezed juice and international/local dishes",
+    "Complimentary gym and shared pool facilities with Marina Bay Sands views"
+  ],
+  "cons": [
+    "The Level 65 Lounge no longer serves food during evening drinks, a perk that hasn't returned since before the pandemic",
+    "Limited vegetarian options at the executive lounge",
+    "As one of Singapore's largest hotels, the sheer scale can feel less intimate than smaller luxury properties"
+  ],
+  "research_highlights": [
+    "Guests, including repeat visitors, consistently call the hotel great value for its central, transit-connected location",
+    "The Swiss Marina Bay View rooms and skyline views draw repeated, strong praise",
+    "Breakfast at Clove and the Asian Market Cafe is a recurring highlight"
+  ],
+  "research_watchouts": [
+    "Evening drinks at the Level 65 Lounge no longer include the food service some guests remember from before the pandemic",
+    "Vegetarian guests may find lounge food options limited"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How tall is Swissotel The Stamford Singapore?",
+      "answer": "It's 226 metres (741 feet) tall and was the tallest hotel in the world when it opened in 1986, designed by architect I.M. Pei -- it remains one of Singapore's tallest buildings and one of its tallest hotels today."
+    },
+    {
+      "question": "Does Swissotel The Stamford have an executive lounge?",
+      "answer": "Yes -- the Level 65 Lounge offers 360-degree views over Marina Bay and the city skyline, available to suite guests and eligible ALL - Accor Live Limitless elite members, though it currently doesn't serve food during evening drinks."
+    }
+  ],
+  "tags": ["city hall mrt", "marina bay view", "level 65 lounge"],
+  "source_mix": [
+    {
+      "url": "https://www.swissotel-singapore-stamford.com/",
+      "label": "Official Swissotel The Stamford Singapore page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d301573-Reviews-Swissotel_The_Stamford_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.swissotel-singapore-stamford.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairmont-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Swissotel The Stamford Singapore",
+        "source": "The Quiet Vacationer",
+        "url": "https://quietvacationer.com/2025/07/01/review-swissotel-stamford-singapore/",
+        "published_date": "2025-07-01",
+        "summary": "A third stay calling it great value, praising the 40-sqm Swiss Marina Bay View rooms, breakfast at Clove and Asian Market Cafe, and the Level 65 Lounge's 360-degree views, though the lounge currently skips evening food."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Swissotel The Stamford Singapore | The Ultimate Full Hotel Tour (Rooms, Lounge & Dining)",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=uUNv4FdyRLU",
+        "video_id": "uUNv4FdyRLU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 94 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

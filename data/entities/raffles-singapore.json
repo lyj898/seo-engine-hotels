@@ -1,0 +1,109 @@
+{
+  "entity_id": "raffles-singapore",
+  "slug": "raffles-singapore",
+  "name": "Raffles Singapore",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "The flagship all-suite Raffles hotel, open since 1887, with 115 suites, 24-hour butler service, and the original Long Bar birthplace of the Singapore Sling.",
+  "ai_summary": "Raffles Singapore has welcomed guests since 1887 and remains the flagship property of Raffles Hotels & Resorts, an all-suite hotel with 115 suites across eight categories following a major 2019 restoration. Guests consistently praise the 24-hour butler service, the restored colonial-era architecture -- including new Italian marble floors and a 900kg Czech crystal chandelier in the lobby -- and the historic Long Bar, birthplace of the Singapore Sling. Multiple acclaimed restaurants and afternoon tea in the redesigned lobby draw repeated praise, though popular venues can mean queues even for guests, and Singapore's land reclamation has left the hotel roughly 2km from the current beachfront rather than the seafront setting it opened with.",
+  "core_facts": {
+    "address": "1 Beach Road, Singapore 189673",
+    "brand_sub_brand": "Raffles",
+    "neighborhood": "Bras Basah / Civic District",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "All-suite hotel with 115 suites across eight categories, following a major 2019 restoration",
+    "24-hour personal butler service for every suite",
+    "The original Long Bar, birthplace of the Singapore Sling, plus multiple acclaimed restaurants",
+    "Restored architectural details: new Italian marble floors and a 900kg Czech crystal chandelier in the lobby",
+    "Complimentary hotel historian tours and a writers-in-residence tradition dating back over a century"
+  ],
+  "cons": [
+    "Popular venues like the Long Bar can mean queues, even for hotel guests",
+    "Singapore's land reclamation has left the hotel roughly 2km from today's beachfront, unlike its original seafront setting"
+  ],
+  "research_highlights": [
+    "Guests consistently praise the 24-hour butler service and restored heritage architecture",
+    "The Long Bar and Tiffin Room breakfast draw repeated, strong praise",
+    "The 2019 restoration is reflected favourably across recent guest feedback"
+  ],
+  "research_watchouts": [
+    "Popular on-site venues can have queues during peak hours",
+    "The hotel is no longer directly on the beachfront due to decades of land reclamation"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How many suites does Raffles Singapore have?",
+      "answer": "115 suites across eight categories -- it's an all-suite hotel, meaning every room is a suite rather than a standard guest room, following a major restoration completed in 2019 that added Italian marble floors and other heritage-preserving updates."
+    },
+    {
+      "question": "Is Raffles Singapore on the beach?",
+      "answer": "Not anymore -- decades of land reclamation mean the hotel now sits roughly 2km from Singapore's current beachfront, a change from its original 1887 seafront setting. It remains centrally located in the Bras Basah / Civic District."
+    }
+  ],
+  "tags": ["all-suite hotel", "long bar", "colonial heritage"],
+  "source_mix": [
+    {
+      "url": "https://www.raffles.com/singapore/",
+      "label": "Official Raffles Singapore page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d301583-Reviews-Raffles_Hotel-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.raffles.com/singapore/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairmont-singapore", "sofitel-singapore-sentosa"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Raffles Hotel Singapore Review",
+        "source": "Not Quite Nigella",
+        "url": "https://www.notquitenigella.com/2025/08/23/accommodation-raffles-singapore/",
+        "published_date": "2025-08-23",
+        "summary": "Praises the 2019-restored heritage hotel's 24-hour butler service, Italian marble floors, and a 900kg Czech chandelier in the redesigned lobby, plus the Long Bar and Tiffin Room; notes queues at busy venues and the beach now 2km away.",
+        "author": "Lorraine Elliott"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Raffles Singapore | Asia's Most Iconic Luxury Hotel (4K Tour)",
+        "channel": "Luxury Travel Expert",
+        "url": "https://www.youtube.com/watch?v=6_-tIOQXVAQ",
+        "video_id": "6_-tIOQXVAQ",
+        "published_date": "2025-11-22"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 90,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 96 },
+      { "label": "Rooms", "score": 90 },
+      { "label": "Food & breakfast", "score": 90 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
