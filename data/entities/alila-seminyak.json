@@ -1,0 +1,113 @@
+{
+  "entity_id": "alila-seminyak",
+  "slug": "alila-seminyak",
+  "name": "Alila Seminyak",
+  "category_id": "world-of-hyatt",
+  "region_id": "bali",
+  "short_description": "A 176-room beachfront Alila resort in Petitenget, north Seminyak, with four pools and the Seasalt restaurant.",
+  "ai_summary": "Alila Seminyak sits on the beach in Petitenget, at the quieter northern end of Seminyak, with 176 rooms and suites including beach and garden suites and an 8,729-square-foot penthouse. Guests consistently praise the highly professional, attentive staff and the buffet breakfast at Seasalt restaurant, calling views from the rooms, restaurant, and pools spectacular. Some reviewers note the rooms are starting to show their age, with dampness and door-gap issues in places, and caution that swimming conditions and beach cleanliness at this stretch of coast can vary.",
+  "core_facts": {
+    "address": "Jalan Taman Ganesha No. 9, Petitenget, Seminyak, Bali 80361, Indonesia",
+    "brand_sub_brand": "Alila",
+    "neighborhood": "Petitenget / Seminyak",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Beachfront in Petitenget, the quieter northern end of Seminyak",
+    "Staff repeatedly described as extremely professional and attentive",
+    "Buffet breakfast at Seasalt restaurant called sensational",
+    "Spectacular views from rooms, restaurant, bar and the four pools",
+    "The Studios (a lower-cost room category) offer strong value via World of Hyatt points"
+  ],
+  "cons": [
+    "Some guests report rooms are aging, with dampness and gaps around front doors affecting sleep quality",
+    "A review noted swimming was restricted at times due to sea bacterial counts, with some debris on the beach"
+  ],
+  "research_highlights": [
+    "Staff professionalism and attentiveness draw consistently strong praise",
+    "The Seasalt breakfast buffet is called out repeatedly as a highlight",
+    "Views from rooms and pools are described as spectacular"
+  ],
+  "research_watchouts": [
+    "Some guests report aging rooms with dampness and door-gap issues affecting comfort",
+    "Beach and water conditions at this stretch of coast can vary and were flagged in at least one review"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Alila Seminyak actually in Seminyak?",
+      "answer": "It's in Petitenget, the quieter, more upscale northern end of Seminyak, on the beach -- a short drive or walk from Seminyak's main strip of bars and restaurants rather than in the middle of the busiest area."
+    },
+    {
+      "question": "What's the cheapest way to stay at Alila Seminyak with World of Hyatt points?",
+      "answer": "The Studios category, a separate lower-cost room type from the main resort, has been available from around 5,000 World of Hyatt points per night in past redemptions, though guests check in at the main resort and use a golf cart to reach them."
+    }
+  ],
+  "tags": ["petitenget", "seminyak", "beachfront"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpsas-alila-seminyak",
+      "label": "Official Alila Seminyak page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g13356179-d7949561-Reviews-Alila_Seminyak-Kerobokan_Kelod_North_Kuta_Badung_Regency_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpsas-alila-seminyak",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["alila-villas-uluwatu", "andaz-bali"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Studios At Alila Seminyak",
+        "source": "Live and Let's Fly",
+        "url": "https://liveandletsfly.com/alila-seminyak-studios-review/",
+        "published_date": "2023-11-14",
+        "summary": "Finds the Studios category excellent value at 5,000 World of Hyatt points per night, with spacious, modern rooms and access to the main resort's pools, though guests must check in at the main property and use a golf cart to reach them."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ALILA SEMINYAK Bali, Indonesia 4K Resort Tour & Review, Absolutely In Love!",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=l-jHi9UEBAM",
+        "video_id": "l-jHi9UEBAM"
+      },
+      {
+        "title": "Room Tour ALILA SEMINYAK BALI | Deluxe Suite 72sqm",
+        "channel": "The Hotel Walker",
+        "url": "https://www.youtube.com/watch?v=Ac33p_4YlCo",
+        "video_id": "Ac33p_4YlCo"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
