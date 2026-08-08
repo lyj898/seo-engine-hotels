@@ -1,0 +1,101 @@
+{
+  "entity_id": "movenpick-resort-waverly-phu-quoc",
+  "slug": "movenpick-resort-waverly-phu-quoc",
+  "name": "Movenpick Resort Waverly Phu Quoc",
+  "category_id": "accor-all",
+  "region_id": "phu-quoc",
+  "short_description": "A 305-room resort on Ong Lang Beach with private balconies or pool access, a 720sqm column-free ballroom, a 15-treatment-room spa, and a Little Birds kids' club.",
+  "ai_summary": "Movenpick Resort Waverly Phu Quoc is set on Ong Lang Beach on the island's west coast, roughly 30-40 minutes from the airport and 15-20 minutes from Duong Dong town. The 305 rooms feature private balconies or pool access, and the resort's 720sqm column-free ballroom is the largest single event space on Ong Lang Beach, alongside a wellness spa with 15 treatment rooms, private beach access, and the Little Birds Club for daily kids' activities. Guests consistently praise the spacious, modern rooms with ocean views, attentive staff, and villa accommodations, though a subset note beach litter and limited vegetarian options.",
+  "core_facts": {
+    "address": "Group 1, Ong Lang Hamlet, Cua Duong Village, Phu Quoc City, Kien Giang Province, Vietnam",
+    "brand_sub_brand": "Movenpick",
+    "neighborhood": "Ong Lang Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "305 rooms with private balconies or pool access on Ong Lang Beach",
+    "720sqm column-free ballroom, the largest event space on Ong Lang Beach",
+    "Wellness spa with 15 treatment rooms and private beach access",
+    "Little Birds Club with daily kids' activities suits family stays",
+    "Guests consistently praise the spacious, modern rooms and ocean views"
+  ],
+  "cons": [
+    "A subset of reviews note beach litter and wish for better cleanliness upkeep",
+    "Limited vegetarian food options noted by some guests",
+    "The Ong Lang location is 30-40 minutes from the airport"
+  ],
+  "research_highlights": [
+    "The villas and spacious rooms draw consistent praise for families",
+    "Staff warmth and hospitality are repeatedly highlighted",
+    "The beachfront setting and ocean views are called a standout strength"
+  ],
+  "research_watchouts": [
+    "Some guests report beach litter concerns",
+    "Vegetarian dining options are noted as limited"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Where is Movenpick Resort Waverly Phu Quoc located?",
+      "answer": "On Ong Lang Beach, on the west coast of Phu Quoc island, about 30-40 minutes from the airport and 15-20 minutes from Duong Dong town."
+    },
+    {
+      "question": "Does Movenpick Resort Waverly Phu Quoc have villas?",
+      "answer": "Yes -- alongside 305 rooms with private balconies or pool access, the adjoining Movenpick Villas & Residences Phu Quoc offers private-pool villas and residences within the same complex."
+    }
+  ],
+  "tags": ["ong lang beach", "villas", "kids club"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4V5/index.en.shtml",
+      "label": "Official Movenpick Resort Waverly Phu Quoc page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g11236002-d19892000-Reviews-Movenpick_Resort_Waverly_Phu_Quoc-Ong_Lang_Phu_Quoc_Island_Kien_Giang_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B4V5/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-phu-quoc-resort"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mövenpick Resort Waverly Phu Quoc | Phu Quoc Island, Vietnam | Hotel Review 🏨",
+        "channel": "Travel Luxe Hotels",
+        "url": "https://www.youtube.com/watch?v=CHiJS1GlDMM",
+        "video_id": "CHiJS1GlDMM",
+        "published_date": "2026-02-22"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

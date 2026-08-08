@@ -1,0 +1,92 @@
+{
+  "entity_id": "novotel-nha-trang",
+  "slug": "novotel-nha-trang",
+  "name": "Novotel Nha Trang",
+  "category_id": "accor-all",
+  "region_id": "nha-trang",
+  "short_description": "A 154-room beachfront hotel on Tran Phu Street directly across from Nha Trang's main beach, with sea-view balconies and a rooftop-adjacent pool and bar.",
+  "ai_summary": "Novotel Nha Trang sits on Tran Phu Street, the city's main beachfront road, with the beach directly across the street and multiple restaurants, bars, and shops within walking distance. The 154 rooms all feature furnished balconies, many with sea views, alongside The Square buffet restaurant, Le Bar, a pool with city and sea views, and a spa and fitness center. Guests consistently praise the friendly staff, sea views, and central beachfront location, though a subset note noise from nearby beach clubs and nightlife.",
+  "core_facts": {
+    "address": "50 Tran Phu Street, Nha Trang 650000, Vietnam",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Tran Phu Beachfront",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "154 rooms with furnished balconies, many with sea views",
+    "Directly across from Nha Trang's main municipal beach on Tran Phu Street",
+    "The Square buffet restaurant and Le Bar with pool and city/sea views",
+    "Spa and fitness center on-site",
+    "Guests consistently praise friendly, helpful staff"
+  ],
+  "cons": [
+    "A subset of reviews note noise from nearby beach clubs and nightlife",
+    "Extra charges apply for some beach facilities"
+  ],
+  "research_highlights": [
+    "The beachfront Tran Phu Street location draws consistent praise for convenience",
+    "Sea-view balconies are repeatedly highlighted as a strength",
+    "Breakfast quality and staff friendliness are called genuine strengths"
+  ],
+  "research_watchouts": [
+    "Nearby beach clubs and nightlife can make balcony rooms noisy at night",
+    "Some guests note additional charges for beach facility access"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Nha Trang on the beach?",
+      "answer": "It sits on Tran Phu Street, the city's main beachfront road, with the municipal beach directly across the street, though a private beach area involves extra charges."
+    },
+    {
+      "question": "Does Novotel Nha Trang have sea-view rooms?",
+      "answer": "Yes -- all 154 rooms have furnished balconies, and many face the sea, though the central location can bring some nightlife noise after dark."
+    }
+  ],
+  "tags": ["tran phu", "beachfront", "sea view"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6033/index.en.shtml",
+      "label": "Official Novotel Nha Trang page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293928-d1200978-Reviews-Novotel_Nha_Trang-Nha_Trang_Khanh_Hoa_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6033/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-nha-trang-beach", "ibis-styles-nha-trang"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

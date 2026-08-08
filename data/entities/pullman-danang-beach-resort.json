@@ -1,0 +1,98 @@
+{
+  "entity_id": "pullman-danang-beach-resort",
+  "slug": "pullman-danang-beach-resort",
+  "name": "Pullman Danang Beach Resort",
+  "category_id": "accor-all",
+  "region_id": "da-nang",
+  "short_description": "A 186-room beachfront resort on the white sands of Bac My An Beach, with an infinity pool, spa, and the closest resort location to both downtown Da Nang and the airport.",
+  "ai_summary": "Pullman Danang Beach Resort sits directly on Bac My An Beach along My Khe, offering 186 rooms and cottages -- rooms with private balconies, cottages overlooking private gardens -- and is the closest beach resort to both downtown Da Nang and the international airport at around 15 minutes. An infinity pool, spa with sauna and jacuzzi, and the all-day Restaurant Epice round out the amenities. Guests consistently praise the beachfront setting, spacious rooms, proactive service, and breakfast buffet, with a serene, private-beach feel that suits both family and romantic stays.",
+  "core_facts": {
+    "address": "101 Vo Nguyen Giap Street, Khue My Ward, Ngu Hanh Son District, Da Nang 550000, Vietnam",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Bac My An Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly on Bac My An Beach, the closest resort to both downtown Da Nang and the airport",
+    "186 rooms and cottages, many with private balconies or garden views",
+    "Infinity pool and spa with sauna and jacuzzi",
+    "Restaurant Epice for all-day dining by the sea",
+    "Guests consistently praise the beachfront setting and cleanliness"
+  ],
+  "cons": [
+    "A subset of reviews note noise in the breakfast area and additional charges for specific amenities",
+    "As a large beach resort, the grounds require some walking between the beach, pool, and rooms"
+  ],
+  "research_highlights": [
+    "The private beach and infinity pool are called standout features",
+    "Room spaciousness and cleanliness draw consistent praise",
+    "The breakfast buffet's variety is repeatedly highlighted"
+  ],
+  "research_watchouts": [
+    "A minority of guests mention hidden costs for certain beach and pool amenities"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Pullman Danang Beach Resort directly on the beach?",
+      "answer": "Yes -- it sits directly on the white sands of Bac My An Beach along My Khe, with private beach access, and is the closest beach resort to both downtown Da Nang and the international airport."
+    },
+    {
+      "question": "Does Pullman Danang Beach Resort have cottages?",
+      "answer": "Yes -- alongside standard rooms with private balconies, the resort offers beachfront cottages overlooking private gardens, part of its 186 total rooms and cottages."
+    }
+  ],
+  "tags": ["bac my an beach", "infinity pool", "private beach"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8838/index.en.shtml",
+      "label": "Official Pullman Danang Beach Resort page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298085-d1732187-Reviews-Pullman_Danang_Beach_Resort-Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8838/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-danang-premier-han-river", "grand-mercure-danang", "mercure-danang-french-village-bana-hills"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Da Nang's Famous 5-Star Beach Resort | Full Tour of Pullman Danang",
+        "channel": "Social Samy",
+        "url": "https://www.youtube.com/watch?v=giVr0TrSAt4",
+        "video_id": "giVr0TrSAt4"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

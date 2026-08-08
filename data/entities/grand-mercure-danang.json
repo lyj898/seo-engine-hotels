@@ -1,0 +1,99 @@
+{
+  "entity_id": "grand-mercure-danang",
+  "slug": "grand-mercure-danang",
+  "name": "Grand Mercure Danang",
+  "category_id": "accor-all",
+  "region_id": "da-nang",
+  "short_description": "A 272-room hotel in the Green Island villa zone, 5 minutes from the airport, with three restaurants, a Privilege Lounge, and five meeting rooms plus a Grand Ballroom.",
+  "ai_summary": "Grand Mercure Danang sits in the Villas of Green Island zone in Hoa Cuong Ward, five minutes from Danang International Airport, blending local decor with modern French elegance across 272 rooms with ocean or mountain views. Three restaurants covering international, Vietnamese, and Chinese cuisine, the Karma Spa, a 21st-floor Privilege Lounge, and five meeting rooms alongside a Grand Ballroom serve both leisure and business travelers. Guests consistently call it a favorite among Accor's Da Nang properties, citing the culinary variety, Executive Lounge experience, and swimming/tennis/gym facilities.",
+  "core_facts": {
+    "address": "Lot A1 Zone of the Villas, Green Island, Hoa Cuong Ward, Da Nang 84511, Vietnam",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Green Island",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "272 rooms with ocean or mountain views, 5 minutes from the airport",
+    "Three restaurants spanning international, Vietnamese, and Chinese cuisine",
+    "21st-floor Privilege Lounge and Karma Spa",
+    "Five meeting rooms plus a Grand Ballroom for events",
+    "Guests repeatedly call it a favorite among Da Nang's Accor properties"
+  ],
+  "cons": [
+    "The Green Island villa-zone location sits a short drive from the main My Khe beach strip",
+    "As a large event-capable hotel, the atmosphere leans more business than boutique"
+  ],
+  "research_highlights": [
+    "The culinary variety across three restaurants draws consistent praise",
+    "The Privilege Lounge and Executive Lounge experience are called standout features",
+    "Guests describe the value as strong for a 5-star property"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Grand Mercure Danang close to the airport?",
+      "answer": "Yes -- it's about 5 minutes from Danang International Airport, in the Villas of Green Island zone in Hoa Cuong Ward."
+    },
+    {
+      "question": "Does Grand Mercure Danang have multiple restaurants?",
+      "answer": "Yes -- three restaurants cover international, Vietnamese, and Chinese cuisine, alongside a 21st-floor Privilege Lounge for elevated views."
+    }
+  ],
+  "tags": ["green island", "privilege lounge", "airport-close"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7821/index.en.shtml",
+      "label": "Official Grand Mercure Danang page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298085-d2151597-Reviews-Grand_Mercure_Danang-Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7821/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-danang-premier-han-river", "pullman-danang-beach-resort", "mercure-danang-french-village-bana-hills"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "the amenities of the GRAND MERCURE in danang vietnam...cheapest 5 star hotel in danang vietman.",
+        "channel": "rolly baron",
+        "url": "https://www.youtube.com/watch?v=9ugxYvo3sTg",
+        "video_id": "9ugxYvo3sTg",
+        "published_date": "2025-01-26"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 90 },
+      { "label": "Value", "score": 86 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

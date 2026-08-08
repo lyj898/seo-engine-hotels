@@ -1,0 +1,99 @@
+{
+  "entity_id": "movenpick-resort-and-spa-boracay",
+  "slug": "movenpick-resort-and-spa-boracay",
+  "name": "Movenpick Resort & Spa Boracay",
+  "category_id": "accor-all",
+  "region_id": "boracay",
+  "short_description": "A 312-room garden-set beachfront resort on Punta Bunga Cove, with a 3,300sqm multi-level pool -- the largest in Boracay -- and the Sagay Spa.",
+  "ai_summary": "Movenpick Resort & Spa Boracay sits in tropical gardens on Punta Bunga Cove, on the northern tip of Boracay Island, about 30 minutes from Caticlan Airport. The 312-room resort features a 3,300sqm multi-level pool -- the largest in Boracay -- across eight room types, multiple restaurants and bars, a private beach, and the Sagay Spa. Guests consistently praise the beachfront location, cleanliness, and attentive service, though a subset note noise issues, dated decor in places, and some overpriced offerings.",
+  "core_facts": {
+    "address": "Punta Bunga Cove, Barangay Yapak, Boracay Island, Aklan 5608, Philippines",
+    "brand_sub_brand": "Movenpick",
+    "neighborhood": "Punta Bunga",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "312 rooms across eight types, set within tropical gardens on Punta Bunga Cove",
+    "3,300sqm multi-level pool, the largest in Boracay",
+    "Sagay Spa with a full range of treatments",
+    "Multiple restaurants and bars plus a private beach area",
+    "Guests consistently praise the beachfront setting and attentive service"
+  ],
+  "cons": [
+    "A subset of reviews note noise issues and dated decor in some rooms",
+    "Some guests find select dining and spa offerings overpriced"
+  ],
+  "research_highlights": [
+    "The private beach and multi-level pool draw consistent praise as standout features",
+    "Cleanliness and well-maintained grounds are repeatedly highlighted",
+    "Food quality across the resort's restaurants earns strong marks"
+  ],
+  "research_watchouts": [
+    "A subset of guests mention noise and decor that hasn't been fully refreshed",
+    "Some dining and spa pricing is seen as high relative to comparable Boracay options"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Where is Movenpick Resort & Spa Boracay located?",
+      "answer": "On Punta Bunga Cove, on the northern tip of Boracay Island in Barangay Yapak, about 30 minutes from Caticlan Airport."
+    },
+    {
+      "question": "Does Movenpick Resort & Spa Boracay have a large pool?",
+      "answer": "Yes -- its 3,300sqm multi-level pool is the largest in Boracay, complemented by a private beach and the on-site Sagay Spa."
+    }
+  ],
+  "tags": ["punta bunga", "private beach", "multi-level pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4P1/index.en.shtml",
+      "label": "Official Movenpick Resort & Spa Boracay page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g26832636-d3566724-Reviews-Movenpick_Resort_Spa_Boracay-Yapak_Boracay_Malay_Aklan_Province_Panay_Island_Visayas.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B4P1/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mövenpick Boracay | Full Tour",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=RauxHlcFKsg",
+        "video_id": "RauxHlcFKsg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

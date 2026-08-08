@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-nha-trang-beach",
+  "slug": "mercure-nha-trang-beach",
+  "name": "Mercure Nha Trang Beach",
+  "category_id": "accor-all",
+  "region_id": "nha-trang",
+  "short_description": "A newer 108-room hotel on Tran Phu Street directly across from Nha Trang Beach, blending Cham-inspired architecture with modern coastal design.",
+  "ai_summary": "Mercure Nha Trang Beach is one of Accor's newest properties in Vietnam, offering 108 rooms directly across from Nha Trang Beach on Tran Phu Street. The design merges Cham-inspired architecture and artcraft with contemporary coastal style, and the hotel includes an all-day dining restaurant, bar lounge, indoor pool, and spa services with sea views. Guests consistently describe the rooms as new and clean, with a directly-across-from-the-beach location and nearby supermarkets, though a subset note road noise given the hotel's position beside the main street.",
+  "core_facts": {
+    "address": "88A Tran Phu Street, Nha Trang 650000, Vietnam",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Tran Phu Beachfront",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "108 rooms directly across from Nha Trang Beach on Tran Phu Street",
+    "Cham-inspired architecture and artcraft blended with modern coastal design",
+    "All-day dining restaurant, bar lounge, indoor pool, and spa with sea views",
+    "One of Accor's newest hotels in Vietnam, with new, clean rooms",
+    "Nearby supermarkets and Chinese-speaking front desk staff noted by guests"
+  ],
+  "cons": [
+    "Positioned beside the main Tran Phu road, which brings some traffic noise",
+    "As a newer, smaller property, the amenity set is more limited than larger beachfront resorts"
+  ],
+  "research_highlights": [
+    "Room newness and cleanliness draw consistent praise",
+    "The beachfront Tran Phu Street location is called highly convenient",
+    "The Cham-inspired design touches are noted as a distinctive feature"
+  ],
+  "research_watchouts": [
+    "Some guests note traffic noise from the adjacent main road"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Mercure Nha Trang Beach on the beachfront?",
+      "answer": "Yes -- it sits directly across from Nha Trang Beach on Tran Phu Street, one of Accor's newest hotels in Vietnam."
+    },
+    {
+      "question": "What design does Mercure Nha Trang Beach use?",
+      "answer": "The hotel blends Cham-inspired architecture and artcraft, drawing on Nha Trang's fishing village culture, with contemporary coastal design across its 108 rooms."
+    }
+  ],
+  "tags": ["tran phu", "cham-inspired design", "new hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C3J0/index.en.shtml",
+      "label": "Official Mercure Nha Trang Beach page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293928-d33669378-Reviews-Mercure_Nha_Trang_Beach-Nha_Trang_Khanh_Hoa_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C3J0/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-nha-trang", "ibis-styles-nha-trang"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "This New Beachfront Mercure Is INCREDIBLE Value 😲 | Mercure Nha Trang Beach",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=bHAe2o42Few",
+        "video_id": "bHAe2o42Few",
+        "published_date": "2026-01-06"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

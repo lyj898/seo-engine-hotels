@@ -1,0 +1,100 @@
+{
+  "entity_id": "mercure-danang-french-village-bana-hills",
+  "slug": "mercure-danang-french-village-bana-hills",
+  "name": "Mercure Danang French Village Bana Hills",
+  "category_id": "accor-all",
+  "region_id": "da-nang",
+  "short_description": "A mountaintop hotel at 1,487m elevation inside the Ba Na Hills French Village, reachable only by cable car, with French Gothic colonial decor near the Golden Bridge.",
+  "ai_summary": "Mercure Danang French Village Bana Hills sits atop the Ba Na Hills mountain range at 1,487 meters elevation, inside the French Village complex near the Golden Bridge, and is reachable only by the Ba Na Hills cable car. The hotel's French Gothic colonial architecture and decor immerse guests in a recreated European village setting. Guests consistently enjoy the breakfast and dinner buffets, scenic mountain views, and helpful staff, along with a 30% discount and priority queue access on the return cable car ticket, though arrival is only possible before 5pm and WiFi doesn't extend beyond hotel grounds into the French Village.",
+  "core_facts": {
+    "address": "Ba Na Hills, Hoa Ninh Commune, Hoa Vang District, Da Nang, Vietnam",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Ba Na Hills",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Mountaintop setting at 1,487m elevation inside the Ba Na Hills French Village",
+    "Near the Golden Bridge, with French Gothic colonial architecture and decor",
+    "30% discount and priority queue access on the return cable car ticket for guests",
+    "Diverse breakfast and dinner buffets draw consistent praise",
+    "Helpful, attentive staff highlighted in recent reviews"
+  ],
+  "cons": [
+    "Reachable only by cable car, and arrival is only possible before 5pm",
+    "WiFi from the hotel doesn't extend across the French Village grounds",
+    "Front desk English and service orientation noted as inconsistent by some guests"
+  ],
+  "research_highlights": [
+    "The French Village setting and mountain views are called a distinctive, memorable feature",
+    "The dinner and breakfast buffets are repeatedly praised for variety",
+    "The discounted, priority cable car access for guests is a recurring highlight"
+  ],
+  "research_watchouts": [
+    "The cable car-only access means arrival is restricted to before 5pm -- worth planning around",
+    "WiFi coverage doesn't extend outside the hotel into the wider French Village complex"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How do you get to Mercure Danang French Village Bana Hills?",
+      "answer": "The hotel sits atop the Ba Na Hills mountain range at 1,487m elevation and is reachable only by the Ba Na Hills cable car -- arrival is only possible before 5pm, and guests get a 30% discount plus priority queue access on the return cable car ticket."
+    },
+    {
+      "question": "What is the theme of Mercure Danang French Village Bana Hills?",
+      "answer": "The hotel is designed around French Gothic colonial architecture inside the recreated French Village complex near the Golden Bridge, blending European-style decor with mountain views."
+    }
+  ],
+  "tags": ["ba na hills", "french village", "golden bridge"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8488/index.en.shtml",
+      "label": "Official Mercure Danang French Village Bana Hills page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g21104812-d10181933-Reviews-Mercure_Danang_French_Village_Bana_Hills-Hoa_Phu_Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8488/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-danang-premier-han-river", "pullman-danang-beach-resort", "grand-mercure-danang"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure French Village Bana Hills Room Tour #danang",
+        "channel": "Lester Pereira",
+        "url": "https://www.youtube.com/watch?v=3bDODI8ASnc",
+        "video_id": "3bDODI8ASnc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

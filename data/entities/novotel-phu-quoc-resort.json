@@ -1,0 +1,98 @@
+{
+  "entity_id": "novotel-phu-quoc-resort",
+  "slug": "novotel-phu-quoc-resort",
+  "name": "Novotel Phu Quoc Resort",
+  "category_id": "accor-all",
+  "region_id": "phu-quoc",
+  "short_description": "A beachfront resort on Truong Beach with rooms, suites, and garden or ocean-view bungalows, two pools, a kids' club, and tennis courts, 10 minutes from the airport.",
+  "ai_summary": "Novotel Phu Quoc Resort sits on Truong Beach overlooking the Gulf of Thailand, about 10 minutes from Phu Quoc International Airport and 25 minutes from Duong Dong town. The resort combines rooms and suites in the main building with bungalows set in tropical gardens or with ocean views and direct beach access, alongside two restaurants, two bars, two swimming pools, a spa, kids' club, and tennis courts. Guests consistently praise the abundant amenities, spacious pools, direct beach access, and family-friendly activities, with cleanliness and a serene atmosphere earning strong marks.",
+  "core_facts": {
+    "address": "Sonasea Villas and Resort, Duong Bao Hamlet, Duong To Commune, Phu Quoc 922273, Kien Giang Province, Vietnam",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Truong Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Beachfront setting on Truong Beach, 10 minutes from the airport",
+    "Rooms, suites, and bungalows with garden or ocean views and beach access",
+    "Two swimming pools, two restaurants, two bars, spa, and tennis courts",
+    "Kids' club and daily activities suit family stays",
+    "Guests consistently praise cleanliness and the serene atmosphere"
+  ],
+  "cons": [
+    "Minor housekeeping inconsistencies noted by a subset of guests",
+    "As a large resort with 25 minutes to Duong Dong town, independent exploring requires transport"
+  ],
+  "research_highlights": [
+    "The direct beach access and pool facilities draw consistent praise",
+    "Family-friendly amenities, including the kids' club, are repeatedly highlighted",
+    "Free daily yoga classes and breakfast options are called strong value-adds"
+  ],
+  "research_watchouts": [
+    "A subset of reviews mention minor maintenance and housekeeping inconsistencies"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Phu Quoc Resort on the beach?",
+      "answer": "Yes -- it sits directly on Truong Beach overlooking the Gulf of Thailand, about 10 minutes from Phu Quoc International Airport."
+    },
+    {
+      "question": "Does Novotel Phu Quoc Resort have bungalows?",
+      "answer": "Yes -- alongside rooms and suites in the main building, the resort offers bungalows set in tropical gardens or with ocean views and direct beach access."
+    }
+  ],
+  "tags": ["truong beach", "bungalows", "family-friendly"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9770/index.en.shtml",
+      "label": "Official Novotel Phu Quoc Resort page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g21363541-d9595723-Reviews-Novotel_Phu_Quoc_Resort-Duong_Bao_Duong_To_Phu_Quoc_Island_Kien_Giang_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9770/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-resort-waverly-phu-quoc"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Phu Quoc Resort Review - Beach Hotel with Villas, Great Beach and Pool Party!",
+        "channel": "Dooly Travels",
+        "url": "https://www.youtube.com/watch?v=v2Tqsn9_Yvc",
+        "video_id": "v2Tqsn9_Yvc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
