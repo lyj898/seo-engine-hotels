@@ -1,0 +1,99 @@
+{
+  "entity_id": "grand-mercure-bali-seminyak",
+  "slug": "grand-mercure-bali-seminyak",
+  "name": "Grand Mercure Bali Seminyak",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A 269-room seaside hotel on Jalan Arjuna in Seminyak, with three lagoon-style pools, a Lagoon Bar, and design blending Balinese artistry with modern comfort.",
+  "ai_summary": "Grand Mercure Bali Seminyak sits on Jalan Arjuna in Seminyak, blending Balinese artistry with modern comfort across 269 rooms and suites. Three lagoon-style pools anchor the resort, connected by a swim-up Lagoon Bar, alongside a premium spa and multiple dining venues. Guests consistently praise the pool complex, central Seminyak location near the area's shopping and dining strip, and private suite options with their own plunge pools, making it a popular pick for both couples and families.",
+  "core_facts": {
+    "address": "Jl. Arjuna No. 40, Seminyak, Kuta 80361, Bali, Indonesia",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Seminyak",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Three lagoon-style pools connected by a swim-up Lagoon Bar",
+    "Central Seminyak location on Jalan Arjuna, near the area's shopping and dining strip",
+    "Private suite options with their own plunge pools",
+    "Premium spa and multiple on-site dining venues",
+    "Design blends Balinese artistry with modern comfort throughout"
+  ],
+  "cons": [
+    "Seminyak's popularity means more traffic and crowds than Bali's quieter resort areas",
+    "As a larger hotel, the atmosphere leans more resort-scale than boutique"
+  ],
+  "research_highlights": [
+    "The three-pool lagoon complex and swim-up bar are consistently praised",
+    "The Seminyak location is repeatedly called convenient for shopping and dining",
+    "Private-pool suites draw specific praise from couples seeking more privacy"
+  ],
+  "research_watchouts": [
+    "Seminyak's traffic and crowds are a genuine consideration during peak season"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does Grand Mercure Bali Seminyak have private pools?",
+      "answer": "Some suite categories include their own private plunge pools, in addition to the resort's three shared lagoon-style pools connected by a swim-up Lagoon Bar."
+    },
+    {
+      "question": "Is Grand Mercure Bali Seminyak close to Seminyak's shopping strip?",
+      "answer": "Yes -- it's located on Jalan Arjuna in the heart of Seminyak, within easy reach of the area's boutiques, restaurants, and beach clubs."
+    }
+  ],
+  "tags": ["seminyak", "lagoon pool", "private plunge pool"],
+  "source_mix": [
+    {
+      "url": "https://www.grandmercure.com/city/bali/",
+      "label": "Official Grand Mercure Bali Seminyak page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g469404-d25240057-Reviews-Grand_Mercure_Bali_Seminyak-Seminyak_Kuta_District_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.grandmercure.com/city/bali/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-bali-legian-beach", "ibis-styles-bali-legian"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Inside Grand Mercure Bali Seminyak - Private Suite Tour, Pools & Full Review | Night 204 of 365",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=xfs21qwDh7E",
+        "video_id": "xfs21qwDh7E",
+        "published_date": "2025-04-21"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
