@@ -1,0 +1,12 @@
+{
+  "region_id": "melaka",
+  "slug": "melaka",
+  "label": "Melaka",
+  "granularity": "city",
+  "parent_region_id": "malaysia",
+  "short_description": "Loyalty-program hotels in Melaka, the UNESCO World Heritage port city on Malaysia's southwest coast.",
+  "intro": "Melaka's hotels in this directory sit within or close to the UNESCO World Heritage-listed historic center, walkable to landmarks like Christ Church, Dutch Square, A Famosa Fort, and Jonker Street's night market. A former Portuguese, Dutch, and British trading port, Melaka draws heritage tourists and weekend travelers from Kuala Lumpur and Singapore alike. The city is reached by road, typically a two-hour drive from Kuala Lumpur or Johor Bahru.",
+  "faqs": [],
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

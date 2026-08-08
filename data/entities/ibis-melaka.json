@@ -1,0 +1,85 @@
+{
+  "entity_id": "ibis-melaka",
+  "slug": "ibis-melaka",
+  "name": "ibis Melaka",
+  "category_id": "accor-all",
+  "region_id": "melaka",
+  "short_description": "A 249-room hotel on Jalan Bendahara inside Melaka's UNESCO World Heritage Site, walking distance to Christ Church, Dutch Square, and Jonker Street.",
+  "ai_summary": "ibis Melaka sits on Jalan Bendahara within Melaka's UNESCO World Heritage-listed historic center, a stroll from Christ Church, Dutch Square, A Famosa Fort, Cheng Hoon Teng Temple, and Jonker Street. The 249 contemporary rooms feature the brand's Sweet Bed by ibis, and the hotel offers a swimming pool, fitness center, three function rooms and two halls, and the ibis Kitchen restaurant with an all-you-can-eat breakfast buffet of local and international dishes. Guests consistently value the heritage-district walkability and straightforward, reliable ibis-brand comfort.",
+  "core_facts": {
+    "address": "Jalan Bendahara, 75100 Melaka, Malaysia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Historic Center",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "249 rooms within Melaka's UNESCO World Heritage Site",
+    "Walking distance to Christ Church, Dutch Square, A Famosa Fort, and Jonker Street",
+    "Swimming pool, fitness center, and the Sweet Bed by ibis in every room",
+    "ibis Kitchen restaurant with an all-you-can-eat breakfast buffet",
+    "Three function rooms and two halls for meetings and small events"
+  ],
+  "cons": [
+    "As a budget-styled hotel, room sizes and finishes are more compact than upscale Melaka boutique properties",
+    "The heritage-district setting can be busy with tourist foot traffic"
+  ],
+  "research_highlights": [
+    "The walkable heritage-district location is called highly convenient",
+    "The breakfast buffet's local and international variety draws consistent praise",
+    "Room comfort, including the Sweet Bed by ibis, is repeatedly highlighted"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is ibis Melaka within walking distance of Jonker Street?",
+      "answer": "Yes -- it's inside Melaka's UNESCO World Heritage Site on Jalan Bendahara, a stroll from Jonker Street, Christ Church, Dutch Square, and A Famosa Fort."
+    },
+    {
+      "question": "Does ibis Melaka include breakfast?",
+      "answer": "The ibis Kitchen restaurant offers an all-you-can-eat breakfast buffet with a spread of local and international dishes, available for guests to add to their stay."
+    }
+  ],
+  "tags": ["unesco heritage site", "jonker street", "historic center"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9101/index.en.shtml",
+      "label": "Official ibis Melaka page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9101/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

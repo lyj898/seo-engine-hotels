@@ -1,0 +1,85 @@
+{
+  "entity_id": "ibis-styles-medan-pattimura",
+  "slug": "ibis-styles-medan-pattimura",
+  "name": "ibis Styles Medan Pattimura",
+  "category_id": "accor-all",
+  "region_id": "medan",
+  "short_description": "A hotel on Jalan Pattimura adjacent to Medan's business district, with an indoor pool, DECITTA open-air bar, and an all-inclusive breakfast package.",
+  "ai_summary": "ibis Styles Medan Pattimura sits on Jalan Pattimura in Medan Baru, adjacent to the city's business district and administrative offices. The hotel offers room types from Superior twins and doubles to Deluxe Suites, alongside the sTREATs all-day dining restaurant, the DECITTA open-air bar by the indoor pool, a fitness center, a kids' corner, and six meeting rooms. Guests rate the hotel solidly, with the all-inclusive package covering breakfast and internet access called a convenient value-add.",
+  "core_facts": {
+    "address": "Jalan Pattimura No. 442, Kelurahan Darat, Kecamatan Medan Baru, Medan 20153, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Medan Baru",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Adjacent to Medan's business district and city administrative offices",
+    "Indoor pool with the DECITTA open-air bar alongside it",
+    "sTREATs all-day dining restaurant with buffet and a la carte options",
+    "Kids' corner and six meeting rooms",
+    "All-inclusive package covering breakfast and internet access"
+  ],
+  "cons": [
+    "As a select-service hotel, room sizes are more compact than upscale Medan properties",
+    "The Medan Baru business-district setting is more commercial than leisure-focused"
+  ],
+  "research_highlights": [
+    "The all-inclusive breakfast and internet package is called convenient value",
+    "The indoor pool and open-air bar combination draws consistent praise",
+    "The central Pattimura location near the business district is repeatedly highlighted"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Medan Pattimura close to the business district?",
+      "answer": "Yes -- it's on Jalan Pattimura in Medan Baru, adjacent to the city's business district and administrative offices."
+    },
+    {
+      "question": "Does ibis Styles Medan Pattimura include breakfast?",
+      "answer": "Yes -- the hotel offers an all-inclusive package covering breakfast and internet access, alongside the sTREATs all-day dining restaurant."
+    }
+  ],
+  "tags": ["medan baru", "business district", "indoor pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A6S6/index.en.shtml",
+      "label": "Official ibis Styles Medan Pattimura page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A6S6/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-medan-angkasa"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 38,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

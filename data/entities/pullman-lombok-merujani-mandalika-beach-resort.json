@@ -1,0 +1,91 @@
+{
+  "entity_id": "pullman-lombok-merujani-mandalika-beach-resort",
+  "slug": "pullman-lombok-merujani-mandalika-beach-resort",
+  "name": "Pullman Lombok Merujani Mandalika Beach Resort",
+  "category_id": "accor-all",
+  "region_id": "lombok",
+  "short_description": "A 257-room eco-conscious beach resort in Kuta Mandalika, Accor's first premium-scale resort in Lombok, near the Mandalika International Street Circuit.",
+  "ai_summary": "Pullman Lombok Merujani Mandalika Beach Resort sits in Kuta Mandalika on Lombok's southern coast, recognized as Accor's first premium-scale resort on the island and just a short distance from the Pertamina Mandalika International Street Circuit. The 257 rooms, suites, and villas -- many with private pools -- offer sweeping Indian Ocean or tropical-garden views, and the resort emphasizes sustainability alongside its Aer Restaurant, beachfront Sgara Seafood Restaurant, Lalo Swim-Up Bar, spa with four treatment pavilions, and a ballroom seating up to 300. Guests consistently praise the spacious, clean rooms and modern amenities, with a 20-minute drive to Lombok International Airport.",
+  "core_facts": {
+    "address": "ITDC Mandalika Tourism Complex, Lot BS-2, Kuta, Pujut, Lombok Tengah 83573, Indonesia",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Kuta Mandalika",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "257 rooms, suites, and villas, many with private pools, near the Mandalika Street Circuit",
+    "Accor's first premium-scale resort in Lombok",
+    "Aer Restaurant and the beachfront Sgara Seafood Restaurant",
+    "Spa with four treatment pavilions and a ballroom seating up to 300",
+    "Guests consistently praise the spacious, clean rooms and modern amenities"
+  ],
+  "cons": [
+    "A 20-minute drive from Lombok International Airport",
+    "As a large event-capable resort, it can host sizable groups alongside leisure guests"
+  ],
+  "research_highlights": [
+    "The eco-conscious design approach is called a distinctive strength for the resort",
+    "Room spaciousness and modern amenities draw consistent praise",
+    "Proximity to the Mandalika International Street Circuit is a notable draw for motorsport visitors"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Pullman Lombok Merujani Mandalika Beach Resort close to the Mandalika circuit?",
+      "answer": "Yes -- it's just a short distance from the Pertamina Mandalika International Street Circuit, in Kuta on Lombok's southern coast."
+    },
+    {
+      "question": "Does Pullman Lombok Merujani Mandalika Beach Resort have villas with private pools?",
+      "answer": "Yes -- among its 257 rooms, suites, and villas, many feature private pools alongside sweeping Indian Ocean or garden views."
+    }
+  ],
+  "tags": ["kuta mandalika", "mandalika circuit", "eco-conscious"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A1K2/index.en.shtml",
+      "label": "Official Pullman Lombok Merujani Mandalika Beach Resort page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2155769-d23663712-Reviews-Pullman_Lombok_Merujani_Mandalika_Beach_Resort-Kuta_Lombok_West_Nusa_Tenggara.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A1K2/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-lombok-resort-villas"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
