@@ -1,0 +1,100 @@
+{
+  "entity_id": "fairmont-singapore",
+  "slug": "fairmont-singapore",
+  "name": "Fairmont Singapore",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 778-room hotel in the I.M. Pei-designed Raffles City complex, directly above City Hall MRT, with a rooftop aquaponics farm supplying its restaurants.",
+  "ai_summary": "Fairmont Singapore occupies part of the I.M. Pei-designed Raffles City complex, sitting directly above City Hall MRT station at the crossroads of Singapore's business, cultural, and shopping districts. The 778-room hotel's rooftop aquaponics farm supplies fresh produce and herbs to its 13 restaurants and bars, and rooms carry Peranakan and gentlemen's-club-inspired design touches. Guests consistently praise the prime location, spacious rooms with balcony views, and the extensive breakfast spread at Prego, while the shared gym and spa facilities -- split with the adjacent Swissotel The Stamford -- and a business-oriented design aesthetic are the main watchouts noted in reviews.",
+  "core_facts": {
+    "address": "80 Bras Basah Road, Singapore 189560",
+    "brand_sub_brand": "Fairmont",
+    "neighborhood": "Bras Basah / City Hall",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly above City Hall MRT station, at the crossroads of Singapore's business, cultural, and shopping districts",
+    "778 guestrooms and suites, many with two balconies and Marina Bay or skyline views",
+    "Rooftop aquaponics farm supplies fresh produce and herbs to the hotel's 13 restaurants and bars",
+    "Extensive breakfast spread at Prego, with strong reviews for variety",
+    "108,000 square feet of meeting space and the large Willow Stream Spa"
+  ],
+  "cons": [
+    "Gym facilities are shared with the adjacent Swissotel The Stamford rather than exclusive to Fairmont guests",
+    "The overall design leans business-oriented, which some guests find less personal than boutique alternatives",
+    "No bathrobes or slippers provided to take back to guest rooms after a spa visit"
+  ],
+  "research_highlights": [
+    "The City Hall MRT location and Raffles City connectivity draw consistent, strong praise",
+    "Guests repeatedly call out spacious rooms with balconies and skyline views",
+    "The breakfast spread at Prego and attentive service are recurring highlights"
+  ],
+  "research_watchouts": [
+    "Shared gym access with Swissotel The Stamford surprises some guests expecting an exclusive facility",
+    "A few reviews note the hotel's business-hotel aesthetic feels less intimate than boutique properties"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Fairmont Singapore connected to the MRT?",
+      "answer": "Yes -- it sits directly above City Hall MRT station within the Raffles City complex, putting Marina Bay, Suntec Convention Centre, and Singapore's Civic District within easy reach without needing a taxi."
+    },
+    {
+      "question": "Does Fairmont Singapore have its own gym?",
+      "answer": "The gym and spa facilities on the sixth floor are shared with the adjacent Swissotel The Stamford rather than being exclusive to Fairmont guests -- worth knowing if an in-hotel-only fitness facility matters to your stay."
+    }
+  ],
+  "tags": ["city hall mrt", "raffles city", "aquaponics farm"],
+  "source_mix": [
+    {
+      "url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore.html",
+      "label": "Official Fairmont Singapore page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d301581-Reviews-Fairmont_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.fairmont.com/en/hotels/singapore/fairmont-singapore.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["swissotel-the-stamford-singapore", "raffles-singapore"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Fairmont Singapore - Great Hotel for Exploring Singapore!",
+        "channel": "Shirley's Journeys",
+        "url": "https://www.youtube.com/watch?v=hpMmQJsNhnc",
+        "video_id": "hpMmQJsNhnc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 94 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

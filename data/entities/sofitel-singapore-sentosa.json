@@ -1,0 +1,109 @@
+{
+  "entity_id": "sofitel-singapore-sentosa",
+  "slug": "sofitel-singapore-sentosa",
+  "name": "Sofitel Singapore Sentosa Resort & Spa",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 211-room, 27-acre resort atop Sentosa Island blending 1930s colonial lines with French-inspired design, with a 33-metre black-tiled pool and beach access.",
+  "ai_summary": "Sofitel Singapore Sentosa Resort & Spa sits atop the southernmost point of Sentosa Island amid 27 acres of tropical woodland, with 211 rooms and suites plus four villas across a design blending 1930s colonial lines with contemporary French influences. Guests consistently praise the tranquil, jungle-resort atmosphere, the 33-metre black-pearl-tiled lap pool, direct Tanjong Beach access via a 132-step path, and warm, friendly service throughout the property, including from the world's largest Sofitel spa. The resort's remote hilltop setting and jungle surroundings mean insects are part of the experience, and reviewers note some rooms show dated carpets and furniture despite the resort's overall charm.",
+  "core_facts": {
+    "address": "2 Bukit Manis Road, Sentosa Island 099891, Singapore",
+    "brand_sub_brand": "Sofitel",
+    "neighborhood": "Sentosa Island",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "27 acres of tropical woodland atop Sentosa Island, with resident peacocks and a genuinely tranquil atmosphere",
+    "33-metre black-pearl-tiled lap pool and direct access to Tanjong Beach via a 132-step path",
+    "World's largest Sofitel spa, shared with the adjacent Raffles Sentosa property",
+    "Pet-friendly policy, welcoming dogs with treats",
+    "Complimentary shuttle service to HarbourFront MRT and Sentosa's main attractions"
+  ],
+  "cons": [
+    "Some rooms show dated carpets and worn furniture despite the resort's overall charm",
+    "No on-site gym -- fitness facilities are at the neighbouring Raffles Spa, reachable by shuttle or a walk",
+    "The jungle-resort setting means insects are an accepted part of the experience",
+    "Its remote, southernmost-Sentosa location means a shuttle or taxi is needed to reach most attractions"
+  ],
+  "research_highlights": [
+    "Guests consistently praise the tranquil, tropical setting and the pool's distinctive black-pearl tiling",
+    "Staff across departments -- front office, housekeeping, and dining -- are repeatedly described as warm and friendly",
+    "The beach access and spa are called standout features of the resort"
+  ],
+  "research_watchouts": [
+    "Some rooms are noted as dated, with worn carpets and furniture despite the resort's premium pricing",
+    "The lack of an on-site gym surprises some guests expecting full resort facilities"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does Sofitel Singapore Sentosa have beach access?",
+      "answer": "Yes -- the resort connects to Tanjong Beach via a 132-step path down from its hilltop setting at the southernmost tip of Sentosa Island, part of the 27 acres of tropical woodland the property sits within."
+    },
+    {
+      "question": "Is Sofitel Singapore Sentosa pet-friendly?",
+      "answer": "Yes -- the resort welcomes dogs, including treats for pets, and dogs can even participate in weddings held at the property, an unusual policy among Singapore's luxury resorts."
+    }
+  ],
+  "tags": ["sentosa island", "beach access", "pet-friendly"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9474/index.en.shtml",
+      "label": "Official Sofitel Singapore Sentosa page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294264-d302969-Reviews-Sofitel_Singapore_Sentosa_Resort_Spa-Sentosa_Island_Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9474/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["raffles-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sofitel Singapore Sentosa Review: Is This Luxury Resort Worth It?",
+        "source": "The Singapore Travel",
+        "url": "https://www.thesingaporetravel.com/lifestyle/sofitel-singapore-sentosa-review",
+        "published_date": "2026-05-29",
+        "summary": "Rates it 8.5/10, praising the 27-acre grounds, 33-metre black-pearl-tiled pool, beach access, and pet-friendly policy, but flags dated carpets and furniture, no on-site gym, and inconsistent check-in service."
+      }
+    ],
+    "videos": [
+      {
+        "title": "[4K] Hotel Tour | Singapore, Sofitel, Sentosa Resort & Spa",
+        "channel": "Guidebook Traveller",
+        "url": "https://www.youtube.com/watch?v=iyi31WDoRjo",
+        "video_id": "iyi31WDoRjo"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
