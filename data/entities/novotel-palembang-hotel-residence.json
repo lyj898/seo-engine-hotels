@@ -1,0 +1,85 @@
+{
+  "entity_id": "novotel-palembang-hotel-residence",
+  "slug": "novotel-palembang-hotel-residence",
+  "name": "Novotel Palembang Hotel & Residence",
+  "category_id": "accor-all",
+  "region_id": "palembang",
+  "short_description": "A hotel on Jalan R Sukamto in central Palembang, with a pool, jogging track, sauna, and dining spanning The Square and The Orient Chinese Restaurant.",
+  "ai_summary": "Novotel Palembang Hotel & Residence sits on Jalan R Sukamto in the heart of Palembang, offering Superior and Deluxe rooms alongside Junior and Family Suites. The hotel's amenities include a swimming pool, fitness center, sauna, and jogging track, with dining at The Square for international and Indonesian cuisine, The Orient Chinese Restaurant, and Le Bar for cocktails and live music. Guests rate the hotel very highly, praising its resort-style, family-friendly accommodations and spacious rooms, with strong marks for both amenities and overall atmosphere.",
+  "core_facts": {
+    "address": "Jalan R Sukamto No. 8A, 8 Ilir, Palembang 30127, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "8 Ilir",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Jalan R Sukamto location in the heart of Palembang",
+    "Swimming pool, fitness center, sauna, and jogging track",
+    "The Square for international/Indonesian dining and The Orient Chinese Restaurant",
+    "Le Bar with cocktails, wine, and live music",
+    "Guests rate the hotel very highly for its resort-style, family-friendly feel"
+  ],
+  "cons": [
+    "As a hotel-and-residence property with 12 meeting rooms, it also handles a meaningful volume of business and event traffic",
+    "Room categories skew toward suites, which may be more than solo travelers need"
+  ],
+  "research_highlights": [
+    "The resort-style, family-friendly atmosphere is called a standout strength",
+    "Amenities and overall vibe both receive particularly strong marks from guests",
+    "Room spaciousness draws consistent praise across suite categories"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Palembang Hotel & Residence centrally located?",
+      "answer": "Yes -- it's on Jalan R Sukamto in the 8 Ilir area, in the heart of Palembang."
+    },
+    {
+      "question": "Does Novotel Palembang Hotel & Residence have family-sized rooms?",
+      "answer": "Yes -- alongside Superior and Deluxe rooms, the hotel offers Junior Suites and Family Suites up to 94 square meters."
+    }
+  ],
+  "tags": ["8 ilir", "family-friendly", "resort-style"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/3716/index.en.shtml",
+      "label": "Official Novotel Palembang Hotel & Residence page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/3716/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-palembang-sanggar"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 86 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

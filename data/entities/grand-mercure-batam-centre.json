@@ -1,0 +1,91 @@
+{
+  "entity_id": "grand-mercure-batam-centre",
+  "slug": "grand-mercure-batam-centre",
+  "name": "Grand Mercure Batam Centre",
+  "category_id": "accor-all",
+  "region_id": "batam",
+  "short_description": "A 230-room hotel near the Batam Centre Ferry Terminal and Mega Mall, with 18 meeting rooms and a ballroom for up to 1,200 guests.",
+  "ai_summary": "Grand Mercure Batam Centre sits on Jalan Raja H Fisabilillah in Teluk Tering, close to the Batam Centre Ferry Terminal and Mega Mall, offering 230 rooms and suites that blend modern elegance with local charm. The hotel features Ambrosia All Day Dining, Celeste Tapas Bar, the Annathaya Spa and Wellness with four treatment rooms, adult and kids pools, a fitness center, a kids club, and 18 meeting rooms with a ballroom seating up to 1,200 guests. Guests consistently praise the cleanliness, modern amenities, and convenient ferry-terminal location.",
+  "core_facts": {
+    "address": "Jalan Raja H Fisabilillah, Teluk Tering, Batam Centre, Batam 29461, Indonesia",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Batam Centre",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "230 rooms and suites near the Batam Centre Ferry Terminal and Mega Mall",
+    "Ambrosia All Day Dining and Celeste Tapas Bar",
+    "Annathaya Spa and Wellness with four treatment rooms",
+    "Adult and kids pools, fitness center, and kids club",
+    "Guests consistently praise cleanliness and the convenient ferry-terminal location"
+  ],
+  "cons": [
+    "As a large event-capable hotel with an 1,200-guest ballroom, the atmosphere leans more business/convention than boutique",
+    "The Batam Centre district is primarily commercial rather than a leisure strip"
+  ],
+  "research_highlights": [
+    "The proximity to the ferry terminal and Mega Mall draws consistent praise",
+    "Room cleanliness and modern amenities are repeatedly highlighted",
+    "The spa and pool facilities are called a relaxing counterpoint to the business-district setting"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Grand Mercure Batam Centre close to the ferry terminal?",
+      "answer": "Yes -- it's close to the Batam Centre Ferry Terminal and Mega Mall, on Jalan Raja H Fisabilillah in the Teluk Tering area."
+    },
+    {
+      "question": "Does Grand Mercure Batam Centre have event space?",
+      "answer": "Yes -- 18 meeting rooms and a ballroom seating up to 1,200 guests make it a strong option for conventions and events, alongside its spa and pool amenities for leisure stays."
+    }
+  ],
+  "tags": ["batam centre", "ferry terminal", "convention hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B549/index.en.shtml",
+      "label": "Official Grand Mercure Batam Centre page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g17678069-d33023512-Reviews-Grand_Mercure_Batam_Centre-Teluk_Tering_Batam_Riau_Archipelago_Riau_Islands_Provinc.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B549/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-batam-nagoya"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 42,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

@@ -1,0 +1,85 @@
+{
+  "entity_id": "grand-mercure-medan-angkasa",
+  "slug": "grand-mercure-medan-angkasa",
+  "name": "Grand Mercure Medan Angkasa",
+  "category_id": "accor-all",
+  "region_id": "medan",
+  "short_description": "A hotel on Jalan Sutomo in Medan's business and shopping district, with North Sumatra-inspired design and the city's biggest Presidential Suite.",
+  "ai_summary": "Grand Mercure Medan Angkasa (also known as Grand Mercure Maha Cipta Medan Angkasa) sits on Jalan Sutomo in Medan's business and shopping district, close to landmarks such as Istana Maimun, Mesjid Raya, the Tjong A Fie Mansion, and Kuil Shri Mariaman. The hotel's design reflects North Sumatran culture, and it houses the biggest Presidential Suite in Medan at 320.57 square meters, alongside the Orchid Restaurant, Kisah Kafe, Violet Bar, an outdoor pool, a children's pool, and a garden. Guests rate the hotel well for its authentic local design and its central position near Medan's historic sites, about an hour's drive from Kuala Namu International Airport.",
+  "core_facts": {
+    "address": "Jl. Sutomo No. 1, Medan 20235, Indonesia",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Business District",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Jalan Sutomo location near Istana Maimun, Mesjid Raya, and the Tjong A Fie Mansion",
+    "North Sumatra-inspired design across the property",
+    "The biggest Presidential Suite in Medan at 320.57 square meters",
+    "Orchid Restaurant, Kisah Kafe, and Violet Bar",
+    "Outdoor pool, children's pool, and garden grounds"
+  ],
+  "cons": [
+    "About an hour's drive from Kuala Namu International Airport",
+    "As a 5-star business-district hotel, the atmosphere leans more corporate than boutique"
+  ],
+  "research_highlights": [
+    "The North Sumatra-inspired design touches are called a distinctive strength",
+    "The central location near Medan's historic landmarks draws consistent praise",
+    "The Presidential Suite is repeatedly highlighted as a standout for special occasions"
+  ],
+  "research_watchouts": [
+    "The roughly hour-long drive from Kuala Namu International Airport is worth planning around"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Grand Mercure Medan Angkasa close to Medan's historic sites?",
+      "answer": "Yes -- it's on Jalan Sutomo in Medan's business and shopping district, close to Istana Maimun, Mesjid Raya, the Tjong A Fie Mansion, and Kuil Shri Mariaman."
+    },
+    {
+      "question": "How far is Grand Mercure Medan Angkasa from the airport?",
+      "answer": "It's about 39km from Kuala Namu International Airport, roughly an hour's drive."
+    }
+  ],
+  "tags": ["medan business district", "north sumatra design", "presidential suite"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9054/index.en.shtml",
+      "label": "Official Grand Mercure Medan Angkasa page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9054/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-medan-pattimura"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

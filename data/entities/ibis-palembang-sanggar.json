@@ -1,0 +1,85 @@
+{
+  "entity_id": "ibis-palembang-sanggar",
+  "slug": "ibis-palembang-sanggar",
+  "name": "ibis Palembang Sanggar",
+  "category_id": "accor-all",
+  "region_id": "palembang",
+  "short_description": "A 156-room hotel on Jalan Letkol Iskandar with a rooftop infinity pool, 15 minutes from the Ampera Bridge and 10 minutes from Palembang Indah Mall.",
+  "ai_summary": "ibis Palembang Sanggar sits on Jalan Letkol Iskandar, about 15 minutes from the landmark Ampera Bridge and 10 minutes from Palembang Indah Mall, with Sultan Mahmud Badaruddin II International Airport around 35 minutes away. The 156 rooms are backed by a rooftop infinity pool with city views, the all-day IBIS Kitchen serving Western, Chinese, and local Palembang cuisine, a fitness center, five meeting rooms, and a wedding venue for up to 150 guests. Guests consistently praise the rooftop pool and central Letkol Iskandar location for reaching both the river and the mall.",
+  "core_facts": {
+    "address": "Jalan Letkol Iskandar No. 1, 15 Ilir, Kecamatan Ilir Timur 1, Palembang 30111, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "15 Ilir",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "156 rooms about 15 minutes from the Ampera Bridge and 10 minutes from Palembang Indah Mall",
+    "Rooftop infinity pool with city views",
+    "IBIS Kitchen all-day dining with Western, Chinese, and local Palembang cuisine",
+    "Fitness center and five meeting rooms",
+    "Guests consistently praise the rooftop pool and central location"
+  ],
+  "cons": [
+    "As a budget-styled hotel, amenities are more limited than upscale Palembang properties",
+    "About 35 minutes from Sultan Mahmud Badaruddin II International Airport"
+  ],
+  "research_highlights": [
+    "The rooftop infinity pool with city views draws consistent praise",
+    "The central Letkol Iskandar location for reaching both the river and the mall is highlighted often",
+    "The multi-cuisine IBIS Kitchen is called a strength for the price point"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does ibis Palembang Sanggar have a rooftop pool?",
+      "answer": "Yes -- a rooftop infinity swimming pool with city views is one of the hotel's standout features."
+    },
+    {
+      "question": "Is ibis Palembang Sanggar close to the Ampera Bridge?",
+      "answer": "Yes -- it's about 15 minutes from the landmark Ampera Bridge and 10 minutes from Palembang Indah Mall, on Jalan Letkol Iskandar."
+    }
+  ],
+  "tags": ["15 ilir", "rooftop pool", "ampera bridge"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9214/index.en.shtml",
+      "label": "Official ibis Palembang Sanggar page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9214/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-palembang-hotel-residence"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
