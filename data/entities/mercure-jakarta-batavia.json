@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-jakarta-batavia",
+  "slug": "mercure-jakarta-batavia",
+  "name": "Mercure Jakarta Batavia",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 376-room hotel 500 metres from the Fatahillah Museum in Jakarta's historic Kota Tua (Old Batavia) district, blending nostalgic design with modern comfort.",
+  "ai_summary": "Mercure Jakarta Batavia sits about 500 metres from the Fatahillah Museum and Cafe Batavia in Jakarta's historic Kota Tua (Old Batavia) district, giving guests a base within walking distance of the city's colonial-era square and museums. The 376 Superior, Suite, and Privilege rooms blend nostalgic design cues with modern comfort, and the property includes a swimming pool and fitness centre alongside its restaurant and bars. Guests consistently praise the excellent soundproofing, new-feeling room facilities, and staff willing to go the extra mile, with the main watchout being the Kota Tua location's distance from Jakarta's central business district and Thamrin/SCBD hotel cluster.",
+  "core_facts": {
+    "address": "Jl. Kali Besar Barat No. 44-46, Roa Malaka, Tambora, Jakarta 11230, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Kota Tua (Old Batavia)",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About 500 metres from the Fatahillah Museum and Cafe Batavia in historic Kota Tua",
+    "376 Superior, Suite, and Privilege rooms blending nostalgic design with modern comfort",
+    "Excellent soundproofing noted by business travelers",
+    "Swimming pool and fitness centre on-site",
+    "Staff repeatedly described as going the extra mile, including lending guests a charger"
+  ],
+  "cons": [
+    "The Kota Tua location sits further from Jakarta's central business district and Thamrin/SCBD hotel cluster",
+    "A subset of guests note the fitness facilities felt limited relative to the hotel's overall quality"
+  ],
+  "research_highlights": [
+    "The Kota Tua / Old Batavia location and proximity to Fatahillah Square draw consistent praise for sightseeing",
+    "Room quality and soundproofing are repeatedly singled out as strengths",
+    "Staff helpfulness is a recurring theme across recent reviews"
+  ],
+  "research_watchouts": [
+    "The historic Kota Tua setting means a longer trip to reach central Jakarta's CBD and main shopping districts"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Mercure Jakarta Batavia near Jakarta's Old Town?",
+      "answer": "Yes -- it's about 500 metres from the Fatahillah Museum and Cafe Batavia in Kota Tua (Old Batavia), Jakarta's historic colonial-era district, making it a convenient base for sightseeing that area."
+    },
+    {
+      "question": "Is Mercure Jakarta Batavia far from central Jakarta?",
+      "answer": "It's a genuine trade-off -- the Kota Tua location is excellent for exploring Jakarta's historic old town, but it sits further from the Thamrin/SCBD business and shopping district than most of Jakarta's other Accor hotels."
+    }
+  ],
+  "tags": ["kota tua", "old batavia", "fatahillah square"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A610/index.en.shtml",
+      "label": "Official Mercure Jakarta Batavia page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d562540-Reviews-Mercure_Jakarta_Batavia-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A610/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-jakarta-harmoni"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Jakarta Batavia Hotel, Privilege Room with 1 King Size Bed",
+        "channel": "Hotel To Hotel",
+        "url": "https://www.youtube.com/watch?v=oMKUbLkXyhg",
+        "video_id": "oMKUbLkXyhg",
+        "published_date": "2025-02-02"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

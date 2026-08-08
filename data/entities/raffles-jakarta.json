@@ -1,0 +1,107 @@
+{
+  "entity_id": "raffles-jakarta",
+  "slug": "raffles-jakarta",
+  "name": "Raffles Jakarta",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 173-room, 44-suite luxury hotel in Ciputra World, linked to the Ciputra Artpreneur art gallery and theater complex, with 24-hour butler service.",
+  "ai_summary": "Raffles Jakarta sits within Ciputra World in Jakarta's central business district, directly linked to the Ciputra Artpreneur Center, an art gallery, museum, and theater complex that gives the hotel a distinctive cultural identity among the city's luxury properties. The 173-room, all-suite-inclusive hotel offers 24-hour butler service across its 44 dedicated suites, plus a spa and multiple dining venues including notably strong vegan and vegetarian options at Arts Cafe. Guests consistently describe the service as flawless and genuinely warm, with butlers and housekeeping staff repeatedly praised for personal touches, making it one of the most highly rated luxury stays in the city.",
+  "core_facts": {
+    "address": "Jl. Prof. Dr Satrio 3-5, Ciputra World 1, Jakarta 12940, Indonesia",
+    "brand_sub_brand": "Raffles",
+    "neighborhood": "Ciputra World / Kuningan",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "24-hour personal butler service across all 173 rooms, including 44 dedicated suites",
+    "Directly linked to the Ciputra Artpreneur Center, an art gallery, museum, and theater complex",
+    "Strong vegan and vegetarian dining options at Arts Cafe, with staff willing to create custom dishes",
+    "Sustainability commitment: no single-use plastic bottles, refillable amenities, local sourcing",
+    "Service consistently described by guests as flawless and genuinely warm"
+  ],
+  "cons": [
+    "As a smaller all-suite property, it has fewer rooms than some of Jakarta's larger luxury hotels",
+    "Ciputra World's business-district setting means less nearby nightlife than Jakarta's Thamrin/SCBD hotel clusters"
+  ],
+  "research_highlights": [
+    "Guests repeatedly describe butler and housekeeping service as flawless, with personal touches like handwritten notes",
+    "The Ciputra Artpreneur art-and-theater connection is called a genuinely distinctive feature",
+    "Vegan and vegetarian dining options draw specific, strong praise"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Raffles Jakarta connected to any cultural attractions?",
+      "answer": "Yes -- it's directly linked to the Ciputra Artpreneur Center, an art gallery, museum, and theater complex within Ciputra World, giving the hotel a cultural identity that's distinctive among Jakarta's luxury properties."
+    },
+    {
+      "question": "Does Raffles Jakarta offer good vegan or vegetarian dining?",
+      "answer": "Yes -- Arts Cafe is repeatedly praised for its vegan and vegetarian breakfast and lunch options, with staff described as willing to create custom dishes for guests with dietary preferences."
+    }
+  ],
+  "tags": ["ciputra world", "butler service", "art complex"],
+  "source_mix": [
+    {
+      "url": "https://www.raffles.com/jakarta/",
+      "label": "Official Raffles Jakarta page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d6897800-Reviews-Raffles_Jakarta-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.raffles.com/jakarta/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairmont-jakarta"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Raffles Jakarta | Hotel Review",
+        "source": "Vegan Food Quest",
+        "url": "https://www.veganfoodquest.com/hotel-resort-reviews/indonesia/raffles-jakarta/",
+        "published_date": "2025-04-22",
+        "summary": "Praises the vegan-friendly Arts Cafe breakfast and lunch, butler service, spa treatments, and sustainability efforts (no plastic bottles, refillable amenities), calling it a refined haven with a warm Indonesian twist."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Inside Raffles Jakarta - Suite Upgrade + 24/7 Butler | Best-Value Raffles in the World",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=uC11g_DFr20",
+        "video_id": "uC11g_DFr20",
+        "published_date": "2025-08-18"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 92,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 98 },
+      { "label": "Rooms", "score": 92 },
+      { "label": "Food & breakfast", "score": 92 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 62,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

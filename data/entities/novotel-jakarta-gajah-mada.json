@@ -1,0 +1,99 @@
+{
+  "entity_id": "novotel-jakarta-gajah-mada",
+  "slug": "novotel-jakarta-gajah-mada",
+  "name": "Novotel Jakarta Gajah Mada",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 230-room hotel on Jalan Gajah Mada in West Jakarta's Chinatown district (Glodok), with a family-friendly pool, arcade, and playground.",
+  "ai_summary": "Novotel Jakarta Gajah Mada sits on Jalan Gajah Mada in Glodok, West Jakarta's Chinatown district, giving the property a distinctive cultural setting compared with Jakarta's more generic central-business-district hotels. The 230-room hotel offers an outdoor pool, the Oddysius spa, and family-oriented touches including an arcade/game room and playground alongside international dining at The Square. Guests consistently describe the atmosphere as inviting and the rooms as comfortable and clean, with staff repeatedly praised for friendliness, though a subset of reviews note occasional maintenance issues around the property's amenities.",
+  "core_facts": {
+    "address": "Jl. Gajah Mada No. 188, Jakarta Barat 11120, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Glodok / Chinatown",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Set in Glodok, West Jakarta's Chinatown district, a culturally distinctive base compared with typical CBD hotels",
+    "Family-friendly amenities: arcade/game room, playground, and an outdoor pool",
+    "Oddysius spa and international dining with a kids' menu at The Square",
+    "Staff consistently praised for friendliness and professionalism",
+    "Reasonable rates relative to comparable central Jakarta hotels"
+  ],
+  "cons": [
+    "A subset of guests note occasional maintenance issues with amenities",
+    "The Glodok/Chinatown setting is further from Jakarta's Thamrin/SCBD luxury hotel cluster"
+  ],
+  "research_highlights": [
+    "The Glodok/Chinatown location is repeatedly called a distinctive, characterful setting",
+    "Family-friendly touches -- the arcade, playground, and pool -- draw praise from travelers with children",
+    "Cleanliness and staff friendliness are consistently highlighted"
+  ],
+  "research_watchouts": [
+    "A minority of reviews mention maintenance issues affecting some amenities"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Jakarta Gajah Mada in Jakarta's Chinatown?",
+      "answer": "Yes -- it's located in Glodok, West Jakarta's Chinatown district, giving the hotel a distinctive cultural setting compared with the more generic business-district hotels found in central Jakarta."
+    },
+    {
+      "question": "Is Novotel Jakarta Gajah Mada good for families?",
+      "answer": "Yes -- it includes an arcade/game room, a playground, and an outdoor pool alongside international dining with a kids' menu at The Square, making it one of the more family-oriented Accor properties in Jakarta."
+    }
+  ],
+  "tags": ["glodok", "chinatown", "family-friendly"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7447/index.en.shtml",
+      "label": "Official Novotel Jakarta Gajah Mada page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d3588418-Reviews-Novotel_Jakarta_Gajah_Mada-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7447/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-jakarta-indonesia", "grand-mercure-jakarta-harmoni"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Jakarta Gajah Mada | 365 Nights in Accor Hotels (Night 53)",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=dykz03NuteU",
+        "video_id": "dykz03NuteU",
+        "published_date": "2024-10-28"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
