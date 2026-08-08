@@ -1,0 +1,99 @@
+{
+  "entity_id": "grand-mercure-jakarta-harmoni",
+  "slug": "grand-mercure-jakarta-harmoni",
+  "name": "Grand Mercure Jakarta Harmoni",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 483-room hotel on Jalan Hayam Wuruk billed as the first upscale international hotel blending French hospitality with Indonesian tradition, near Gajah Mada Plaza.",
+  "ai_summary": "Grand Mercure Jakarta Harmoni sits on Jalan Hayam Wuruk in Central Jakarta, about a 5-minute walk from Gajah Mada Plaza and roughly 30 minutes from Soekarno-Hatta International Airport. Marketed as the first upscale international hotel blending French hospitality with Indonesian tradition, the 483-room property serves an Indonesian herbal jamu drink alongside its breakfast buffet and offers an outdoor pool, poolside bar, sauna, and spa tub. Guests consistently praise the central location, spacious rooms, and friendly, fast front-desk service, though some reviews note ongoing MRT construction traffic nearby and maintenance issues -- including a few reports of unclean fixtures or non-working amenities -- in a subset of stays.",
+  "core_facts": {
+    "address": "Jl. Hayam Wuruk No. 36-37, Jakarta 10120, Indonesia",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Harmoni / Hayam Wuruk",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Marketed as the first upscale international hotel blending French hospitality with Indonesian tradition",
+    "About a 5-minute walk from Gajah Mada Plaza",
+    "Traditional Indonesian jamu drink served alongside the breakfast buffet",
+    "Outdoor pool, poolside bar, sauna, and spa tub on-site",
+    "Central location roughly 30 minutes from Soekarno-Hatta International Airport"
+  ],
+  "cons": [
+    "Nearby MRT construction has caused traffic disruption for some guests",
+    "A subset of reviews report maintenance issues, including unclean fixtures or non-working amenities in specific rooms"
+  ],
+  "research_highlights": [
+    "The central Harmoni/Hayam Wuruk location and walkable access to Gajah Mada Plaza draw consistent praise",
+    "Front-desk service is repeatedly described as fast and accommodating",
+    "The breakfast buffet's local touches, including jamu, are called out as a distinctive highlight"
+  ],
+  "research_watchouts": [
+    "Ongoing MRT construction near the hotel affects traffic and noise for some guests",
+    "A minority of reviews describe rooms as showing age or specific maintenance lapses"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Grand Mercure Jakarta Harmoni close to shopping?",
+      "answer": "Yes -- it's about a 5-minute walk from Gajah Mada Plaza, and its Hayam Wuruk location in Central Jakarta puts it within reach of the historic Kota Tua area as well."
+    },
+    {
+      "question": "Does Grand Mercure Jakarta Harmoni have any local touches?",
+      "answer": "Yes -- the breakfast buffet includes traditional Indonesian jamu herbal drink alongside local and international dishes, reflecting the hotel's positioning as a blend of French hospitality and Indonesian tradition."
+    }
+  ],
+  "tags": ["harmoni", "hayam wuruk", "gajah mada plaza"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8535/index.en.shtml",
+      "label": "Official Grand Mercure Jakarta Harmoni page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d3530328-Reviews-Grand_Mercure_Jakarta_Harmoni-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8535/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-jakarta-gajah-mada", "mercure-jakarta-batavia"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "ROOM TOUR GRAND MERCURE HARMONI JAKARTA",
+        "channel": "sulung siti hanum",
+        "url": "https://www.youtube.com/watch?v=jYWveyuMDwc",
+        "video_id": "jYWveyuMDwc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 86 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

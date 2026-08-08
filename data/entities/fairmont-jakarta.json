@@ -1,0 +1,100 @@
+{
+  "entity_id": "fairmont-jakarta",
+  "slug": "fairmont-jakarta",
+  "name": "Fairmont Jakarta",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 488-room hotel in Senayan Square, opened January 2015, with 108 Sky Suites, a 900-square-metre Willow Stream Spa, and views of Gelora Bung Karno stadium.",
+  "ai_summary": "Fairmont Jakarta opened in January 2015 in the prestigious Senayan Square area of Jakarta's south business district, comprising 488 rooms including 108 dedicated Sky Suites, many with views over Gelora Bung Karno stadium. The hotel's 900-square-metre Willow Stream Spa and 1,200-square-metre Grand Ballroom anchor its wellness and events offering, alongside Spectrum's extensive breakfast buffet blending Indonesian and Western dishes. Guests consistently praise the spacious, immaculately clean rooms and the strategic location near shopping and entertainment, though some Accor elite members report inconsistent recognition of their status, and value can vary with unexpected charges reported by a subset of travelers.",
+  "core_facts": {
+    "address": "Jl. Asia Afrika No. 8, Gelora Bung Karno, Jakarta 10270, Indonesia",
+    "brand_sub_brand": "Fairmont",
+    "neighborhood": "Senayan Square",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "488 rooms including 108 dedicated Sky Suites, many with Gelora Bung Karno stadium views",
+    "900-square-metre Willow Stream Spa, one of the larger hotel spas in Jakarta",
+    "Extensive breakfast buffet at Spectrum blending Indonesian and Western dishes",
+    "Strategic Senayan Square location near Plaza Senayan shopping and entertainment",
+    "Spacious, immaculately clean rooms consistently praised by guests"
+  ],
+  "cons": [
+    "Some Accor Platinum and Diamond members report elite recognition feeling inconsistent or incomplete",
+    "A subset of travelers report unexpected charges affecting their sense of value",
+    "Around 40-60 minutes from Soekarno-Hatta International Airport by taxi depending on traffic"
+  ],
+  "research_highlights": [
+    "Guests consistently praise room spaciousness and cleanliness",
+    "The Spectrum breakfast buffet draws repeated, strong praise for its variety and presentation",
+    "The Senayan Square location near shopping and entertainment is called a genuine convenience"
+  ],
+  "research_watchouts": [
+    "Some elite members report their ALL status wasn't consistently recognized during their stay",
+    "A subset of guests flag unexpected charges worth confirming before booking"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "When did Fairmont Jakarta open?",
+      "answer": "January 2015, in the prestigious Senayan Square area of Jakarta's south business district -- the hotel comprises 488 rooms including 108 dedicated Sky Suites, many with views over Gelora Bung Karno stadium."
+    },
+    {
+      "question": "Does Fairmont Jakarta have a spa?",
+      "answer": "Yes -- the 900-square-metre Willow Stream Spa is one of the larger hotel spas in Jakarta, complementing the property's 1,200-square-metre Grand Ballroom for guests combining leisure and events."
+    }
+  ],
+  "tags": ["senayan square", "willow stream spa", "gbk stadium view"],
+  "source_mix": [
+    {
+      "url": "https://www.fairmont.com/en/hotels/jakarta/fairmont-jakarta.html",
+      "label": "Official Fairmont Jakarta page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d7182851-Reviews-Fairmont_Jakarta-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.fairmont.com/en/hotels/jakarta/fairmont-jakarta.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["raffles-jakarta", "pullman-jakarta-indonesia"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "FAIRMONT JAKARTA // ROOM TOUR HOTEL MEWAH DEKAT GBK SENAYAN",
+        "channel": "GET DIALY",
+        "url": "https://www.youtube.com/watch?v=FFB1Rg5_WCg",
+        "video_id": "FFB1Rg5_WCg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
