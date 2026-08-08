@@ -1,0 +1,100 @@
+{
+  "entity_id": "sofitel-saigon-plaza",
+  "slug": "sofitel-saigon-plaza",
+  "name": "Sofitel Saigon Plaza",
+  "category_id": "accor-all",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A 284-room hotel on Le Duan Boulevard in District 1, walking distance to Notre Dame Cathedral and the Independence Palace, with an 18th-floor pool and club lounge.",
+  "ai_summary": "Sofitel Saigon Plaza sits in a quiet enclave on Le Duan Boulevard in downtown District 1, putting Notre Dame Cathedral, the Independence Palace, the Central Post Office, and the Zoo and Botanical Garden all within easy walking distance. The 284-room hotel's 18th-floor pool and club lounge offer sweeping city views, and its fitness centre is widely regarded as one of the best hotel gyms in Ho Chi Minh City. Guests consistently praise the elegant French-Vietnamese decor, attentive and accommodating staff (including for families with children), and the breakfast spread, though some reviews note the property carries a slightly dated feel in places and occasional noise between rooms.",
+  "core_facts": {
+    "address": "17 Le Duan Boulevard, Ben Nghe Ward, District 1, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "Sofitel",
+    "neighborhood": "Le Duan Boulevard / District 1",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Walking distance to Notre Dame Cathedral, the Independence Palace, and the Central Post Office",
+    "18th-floor pool and club lounge with sweeping city views",
+    "Fitness centre widely regarded as one of the best hotel gyms in Ho Chi Minh City",
+    "Elegant French-Vietnamese decor throughout the property",
+    "Staff repeatedly praised as accommodating, including for families traveling with children"
+  ],
+  "cons": [
+    "Some reviews describe the property as carrying a slightly dated feel in places",
+    "A subset of guests report occasional noise between rooms"
+  ],
+  "research_highlights": [
+    "The Le Duan Boulevard location and walkability to major District 1 landmarks draw consistent praise",
+    "The 18th-floor pool and club lounge views are repeatedly singled out as highlights",
+    "Staff are described as smiling, attentive, and genuinely accommodating"
+  ],
+  "research_watchouts": [
+    "A subset of reviews note a dated feel in parts of the hotel despite its overall elegance",
+    "Some guests report noise carrying between rooms"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Sofitel Saigon Plaza close to Notre Dame Cathedral?",
+      "answer": "Yes -- it sits in a quiet enclave on Le Duan Boulevard in District 1, within easy walking distance of Notre Dame Cathedral, the Independence Palace, the Central Post Office, and the Zoo and Botanical Garden."
+    },
+    {
+      "question": "Does Sofitel Saigon Plaza have a rooftop pool?",
+      "answer": "Yes -- the pool and club lounge are on the 18th floor, offering sweeping views over Ho Chi Minh City, alongside a fitness centre widely regarded as one of the best hotel gyms in the city."
+    }
+  ],
+  "tags": ["district 1", "le duan boulevard", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://sofitel-saigon-plaza.com/",
+      "label": "Official Sofitel Saigon Plaza page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d300325-Reviews-Sofitel_Saigon_Plaza-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://sofitel-saigon-plaza.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-des-arts-saigon-mgallery"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "SOFITEL SAIGON PLAZA, Ho Chi Minh, Vietnam: BEST breakfast in Saigon? - 4K Tour & Review",
+        "channel": "Wanderlust Reports",
+        "url": "https://www.youtube.com/watch?v=hkzSUmaUk1A",
+        "video_id": "hkzSUmaUk1A",
+        "published_date": "2024-06-29"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

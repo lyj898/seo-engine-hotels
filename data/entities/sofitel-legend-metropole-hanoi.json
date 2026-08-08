@@ -1,0 +1,99 @@
+{
+  "entity_id": "sofitel-legend-metropole-hanoi",
+  "slug": "sofitel-legend-metropole-hanoi",
+  "name": "Sofitel Legend Metropole Hanoi",
+  "category_id": "accor-all",
+  "region_id": "hanoi",
+  "short_description": "A 358-room colonial-era icon open since 1901, blending the historic Heritage Wing with the newer Opera Wing near Hoan Kiem Lake, awarded a MICHELIN Key in 2025.",
+  "ai_summary": "Sofitel Legend Metropole Hanoi has operated continuously since 1901, making it one of Southeast Asia's most storied hotels, with the original Heritage Wing preserving colonial-era grandeur alongside the neo-classical Opera Wing added later. The 358-room property sits close to Hoan Kiem Lake in central Hanoi, and its historian-led tours of the hotel's bomb shelter and wartime history are a signature experience. In October 2025 the hotel received a MICHELIN Key in the inaugural MICHELIN Guide Vietnam edition, and Fodor's named it among the 100 Most Incredible Hotels in the World for 2026, alongside a 2025 Travel + Leisure Luxury Awards Asia Pacific win. Guests consistently praise the elegant blend of French colonial and modern luxury, acclaimed dining, and outstanding service, with the main caveat being premium pricing relative to Hanoi's other five-star hotels.",
+  "core_facts": {
+    "address": "15 Ngo Quyen Street, Hoan Kiem District, Hanoi, Vietnam",
+    "brand_sub_brand": "Sofitel Legend",
+    "neighborhood": "Hoan Kiem / French Quarter",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Operating continuously since 1901, one of Southeast Asia's most historically significant hotels",
+    "Historian-led tours of the hotel's wartime bomb shelter, a genuinely unique experience",
+    "Awarded a MICHELIN Key in the inaugural MICHELIN Guide Vietnam edition, October 2025",
+    "Close to Hoan Kiem Lake in Hanoi's French Quarter",
+    "Free daily manager's reception and a relaxing sauna alongside the outdoor pool"
+  ],
+  "cons": [
+    "Premium pricing relative to Hanoi's other five-star hotels",
+    "The Opera Wing is undergoing a discreet refurbishment through late September 2026, though public areas and the Heritage Wing remain unaffected"
+  ],
+  "research_highlights": [
+    "The 1901 heritage and bomb shelter historian tour are called genuinely unique among reviewers",
+    "Recent MICHELIN Key and Fodor's/Travel + Leisure recognition reinforce the hotel's standing as a world-class property",
+    "Service and the blend of French colonial and modern luxury draw consistently strong praise"
+  ],
+  "research_watchouts": [
+    "Rates run at the premium end even among Hanoi's five-star hotels",
+    "Ongoing Opera Wing refurbishment through September 2026, though the hotel states public areas and Heritage Wing are unaffected"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How old is Sofitel Legend Metropole Hanoi?",
+      "answer": "It has operated continuously since 1901, making it one of Southeast Asia's most storied hotels -- the original Heritage Wing preserves colonial-era grandeur alongside the later, neo-classical Opera Wing."
+    },
+    {
+      "question": "Has Sofitel Legend Metropole Hanoi won any recent awards?",
+      "answer": "Yes -- it received a MICHELIN Key in the inaugural MICHELIN Guide Vietnam edition (October 2025), was named a leading city hotel in the 2025 Travel + Leisure Luxury Awards Asia Pacific, and appeared on Fodor's 100 Most Incredible Hotels in the World for 2026."
+    }
+  ],
+  "tags": ["hoan kiem lake", "colonial heritage", "michelin key"],
+  "source_mix": [
+    {
+      "url": "https://www.sofitel-legend-metropole-hanoi.com/",
+      "label": "Official Sofitel Legend Metropole Hanoi page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293924-d299548-Reviews-Sofitel_Legend_Metropole_Hanoi-Hanoi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.sofitel-legend-metropole-hanoi.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-de-lopera-hanoi-mgallery"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Sofitel Legend Metropole Hanoi 2026 Review - Heritage Wing Room Tour, Pool & Breakfast",
+        "channel": "Simple Bappa Da",
+        "url": "https://www.youtube.com/watch?v=1LR5FnuNp-w",
+        "video_id": "1LR5FnuNp-w"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 92,
+    "breakdown": [
+      { "label": "Location", "score": 94 },
+      { "label": "Service", "score": 94 },
+      { "label": "Rooms", "score": 90 },
+      { "label": "Food & breakfast", "score": 92 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

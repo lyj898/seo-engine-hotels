@@ -1,0 +1,98 @@
+{
+  "entity_id": "pullman-saigon-centre",
+  "slug": "pullman-saigon-centre",
+  "name": "Pullman Saigon Centre",
+  "category_id": "accor-all",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A 306-room hotel on Tran Hung Dao Boulevard in District 1, with a 31st-floor outdoor pool and Mad Cow Wine & Grill on Level 30 overlooking the skyline.",
+  "ai_summary": "Pullman Saigon Centre sits on Tran Hung Dao Boulevard in District 1, strategically positioned as a convenient base for exploring Ho Chi Minh City. The 306 rooms are described as spacious and quiet, many with strong city views from higher floors, and the property's amenities include a 31st-floor outdoor pool, whirlpool, sauna, spa, and 24/7 gym. Guests consistently praise the club lounge, the Mad Cow Wine & Grill's steaks and skyline views on Level 30, and attentive service, with the hotel's free shuttle bus and proximity to major sights making it popular with both business and leisure travelers.",
+  "core_facts": {
+    "address": "148 Tran Hung Dao Boulevard, Cau Ong Lanh Ward, District 1, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "District 1",
+    "elite_benefits": [
+      "Executive lounge access for suite guests and ALL Diamond members, subject to availability",
+      "Room upgrades for Platinum and Diamond members, subject to availability, per ALL - Accor Live Limitless program terms",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "306 spacious, quiet rooms, many with strong city views from higher floors",
+    "31st-floor outdoor pool, whirlpool, sauna, spa, and 24/7 gym",
+    "Mad Cow Wine & Grill on Level 30 pairs steaks with skyline views",
+    "Club lounge and free shuttle bus draw consistent praise",
+    "District 1 location close to major Ho Chi Minh City sights"
+  ],
+  "cons": [
+    "As a large business-oriented hotel, the atmosphere leans more corporate than boutique",
+    "Tran Hung Dao Boulevard's traffic can affect lower-floor rooms"
+  ],
+  "research_highlights": [
+    "The Level 30/31 dining and pool amenities are repeatedly singled out as standout features",
+    "Service quality and the club lounge draw consistent, strong praise",
+    "The District 1 location and free shuttle bus are highlighted as genuine conveniences"
+  ],
+  "research_watchouts": [
+    "Lower floors facing Tran Hung Dao Boulevard can pick up traffic noise"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does Pullman Saigon Centre have a pool?",
+      "answer": "Yes -- an outdoor pool sits on the 31st floor, alongside a whirlpool, sauna, spa, and 24/7 gym, giving guests a place to unwind well above Ho Chi Minh City's street level."
+    },
+    {
+      "question": "What dining does Pullman Saigon Centre offer?",
+      "answer": "Food ConneXion's international buffet, Urbane Lounge's Asian cuisine, and Mad Cow Wine & Grill on Level 30, which pairs steaks with skyline views -- a combination guests repeatedly call a highlight of the stay."
+    }
+  ],
+  "tags": ["district 1", "tran hung dao", "rooftop dining"],
+  "source_mix": [
+    {
+      "url": "https://www.pullman-saigon-centre.com/",
+      "label": "Official Pullman Saigon Centre page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d4456285-Reviews-Pullman_Saigon_Centre-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.pullman-saigon-centre.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-saigon-centre", "ibis-saigon-south"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Pullman Saigon Centre - FULL Hotel Tour! Suites, Lounge, Dining, Rooftop & More",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=BBw1dtz8BpY",
+        "video_id": "BBw1dtz8BpY"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
