@@ -1,0 +1,113 @@
+{
+  "entity_id": "alila-villas-uluwatu",
+  "slug": "alila-villas-uluwatu",
+  "name": "Alila Villas Uluwatu",
+  "category_id": "world-of-hyatt",
+  "region_id": "bali",
+  "short_description": "A 61-pool-villa cliffside resort on Bali's Bukit Peninsula, with every villa carrying a private pool overlooking the Indian Ocean.",
+  "ai_summary": "Alila Villas Uluwatu occupies a clifftop position on Bali's Bukit Peninsula, with 61 pool villas -- the 52 one-bedroom villas run a spacious 291 square metres, each with a private pool and relaxation cabana overlooking the Indian Ocean. Guests describe the food quality, service, and ocean views as exceptional, with the resort's modern Balinese architecture and art gallery drawing particular praise. The trade-off for the secluded clifftop setting is genuine remoteness: it's a distance from public beaches and restaurants outside the resort, so it suits travelers prioritizing total relaxation over exploring nearby options, and peak-season point redemption rates run notably higher than off-peak.",
+  "core_facts": {
+    "address": "Jalan Belimbing Sari, Banjar Tambiyak, Desa Pecatu, Uluwatu 80364, Bali, Indonesia",
+    "brand_sub_brand": "Alila",
+    "neighborhood": "Uluwatu / Bukit Peninsula",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Every villa has a private pool overlooking the Indian Ocean from a clifftop setting",
+    "One-bedroom villas run a spacious 291 square metres with an outdoor dining area",
+    "Food quality and freshness draw specific, strong praise",
+    "Modern Balinese architecture, an art gallery, and a yoga/Pilates studio",
+    "Personalized butler service throughout the stay"
+  ],
+  "cons": [
+    "The clifftop location is genuinely remote from public beaches and restaurants outside the resort",
+    "Peak-season point redemption rates run considerably higher (up to 45,000 points) than off-peak (from 30,000)"
+  ],
+  "research_highlights": [
+    "Guests describe the ocean views and villa design as stunning and among Bali's best",
+    "Food quality and freshness at the resort's restaurants draw specific praise",
+    "Service is repeatedly called warm and attentive despite the resort's scale"
+  ],
+  "research_watchouts": [
+    "The remote clifftop location means guests are far from beaches and restaurants outside the resort, better suited to relaxation than exploring",
+    "Peak-season award pricing is notably higher than off-peak"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does every villa at Alila Villas Uluwatu have a private pool?",
+      "answer": "Yes -- all 61 villas, including the 52 one-bedroom villas at 291 square metres, come with a private pool and relaxation cabana overlooking the Indian Ocean, connected to the main living area by walkways and bridges."
+    },
+    {
+      "question": "Is Alila Villas Uluwatu close to restaurants and beaches outside the resort?",
+      "answer": "No -- its clifftop location on the Bukit Peninsula is genuinely remote, so most guests eat and relax on-property rather than venturing out. It suits travelers prioritizing seclusion and total relaxation over exploring nearby dining and beaches."
+    }
+  ],
+  "tags": ["uluwatu", "bukit peninsula", "private pool villas"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpsav-alila-villas-uluwatu",
+      "label": "Official Alila Villas Uluwatu page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1380108-d1238730-Reviews-Alila_Villas_Uluwatu-Pecatu_Bukit_Peninsula_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpsav-alila-villas-uluwatu",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["alila-seminyak", "alila-manggis"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Bali Trip Part 14 - Alila Villas Uluwatu Bali Review",
+        "source": "Empty Nester Miles",
+        "url": "https://emptynestermiles.com/2025/03/24/bali-trip-part-14-alila-villas-uluwatu-review/",
+        "published_date": "2025-03-24",
+        "summary": "Booked with 35,000 Hyatt points per night and received an upgrade to a panoramic-view villa, praising the cuisine quality and ocean vistas but noting the remote location, far from beaches and restaurants, suits relaxation over exploration."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Alila Villas Uluwatu Bali, 5-Star Luxury Resort | 4K Hotel Tour & Review",
+        "channel": "Luxury Travel Host",
+        "url": "https://www.youtube.com/watch?v=GASklbdHcug",
+        "video_id": "GASklbdHcug"
+      },
+      {
+        "title": "PERFECT SCORE: Alila Villas Uluwatu | Bali's STUNNING Cliffside Retreat",
+        "channel": "Go Go Travel With Josh",
+        "url": "https://www.youtube.com/watch?v=ORq1qetT618",
+        "video_id": "ORq1qetT618"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 90,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 92 },
+      { "label": "Rooms", "score": 92 },
+      { "label": "Food & breakfast", "score": 92 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 62,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

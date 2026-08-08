@@ -1,0 +1,113 @@
+{
+  "entity_id": "andaz-bali",
+  "slug": "andaz-bali",
+  "name": "Andaz Bali, by Hyatt",
+  "category_id": "world-of-hyatt",
+  "region_id": "bali",
+  "short_description": "A 149-room beachfront Andaz in Sanur, with locally inspired design, beach pool villas, and a notably strong breakfast.",
+  "ai_summary": "Andaz Bali sits on a beachfront plot along Sanur beach, Bali's east coast, in a calmer and quieter area than the island's busier tourist strips. Guests consistently praise the locally inspired, design-forward rooms and a breakfast spread reviewers call a genuine selling point, alongside the resort's Garden and Beach Pool Villas for those wanting more privacy. Adjacent to the more affordable Hyatt Regency Bali, it commands a real price premium some travelers question, though most agree the room quality and breakfast justify at least part of the gap.",
+  "core_facts": {
+    "address": "Jalan Danau Tamblingan 89a, Sanur, Bali 80228, Indonesia",
+    "brand_sub_brand": "Andaz",
+    "neighborhood": "Sanur",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Beachfront in Sanur, a calmer and quieter part of Bali than its busier tourist areas",
+    "Locally inspired, design-forward rooms draw consistently strong praise",
+    "Breakfast is repeatedly singled out as excellent and a genuine reason to book",
+    "Garden and Beach Pool Villas available for guests wanting more privacy",
+    "Three outdoor pools and four dining venues at Village Square"
+  ],
+  "cons": [
+    "The beach itself has limited swimmability compared with some other Bali coastlines",
+    "Commands a real price premium over the adjacent Hyatt Regency Bali that some reviewers question"
+  ],
+  "research_highlights": [
+    "Rooms are repeatedly called stunning, with locally inspired design and spacious layouts",
+    "Breakfast quality is singled out as a standout, better than at the adjacent Hyatt Regency",
+    "The family-friendly atmosphere and beachfront villas draw strong praise"
+  ],
+  "research_watchouts": [
+    "A review questions whether the resort is worth double the price of the adjacent Hyatt Regency Bali, despite the stronger breakfast",
+    "The beach itself is noted as having limited swimmability"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Andaz Bali worth the extra cost over Hyatt Regency Bali next door?",
+      "answer": "Reviewers are divided -- room design and breakfast are consistently rated higher at Andaz Bali, and some call the breakfast alone a selling point, but at least one reviewer felt it wasn't worth double the Hyatt Regency's rate, so it depends on how much design and breakfast quality matter to you."
+    },
+    {
+      "question": "Can you swim at the beach in front of Andaz Bali?",
+      "answer": "Swimmability is limited compared with some other Bali coastlines, so most guests use the resort's three outdoor pools -- including the Garden and Beach Pool Villas -- as the primary swimming option, treating the beach itself more as a spot for walks, sunset views, and beachfront lounging than for swimming laps."
+    }
+  ],
+  "tags": ["sanur", "beach villas", "design hotel"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/andaz/en-US/dpsaz-andaz-bali",
+      "label": "Official Andaz Bali page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297700-d20374021-Reviews-Andaz_Bali-Sanur_Denpasar_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/andaz/en-US/dpsaz-andaz-bali",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-regency-bali", "grand-hyatt-bali"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Andaz Bali, a lush tropical beachside resort",
+        "source": "Head for Points",
+        "url": "https://www.headforpoints.com/2023/10/02/review-andaz-bali-resort/",
+        "published_date": "2023-10-02",
+        "summary": "Praises the stunning, locally-inspired room design and spacious layouts in quieter Sanur, noting the beach itself has limited swimmability, and calls the family-friendly atmosphere an appealing alternative to Bali's busier areas."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ANDAZ BALI Sanur, Bali, Indonesia【4K Resort Tour & Review】LUSH Tropical Beach Hideaway",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=Tdf7uJykumg",
+        "video_id": "Tdf7uJykumg"
+      },
+      {
+        "title": "Andaz Bali | Luxurious Hyatt Resort in Sanur【Full Hotel Review】& Exclusive Villa Tour!",
+        "channel": "Go Go Travel With Josh",
+        "url": "https://www.youtube.com/watch?v=ZYx9ObQZtKM",
+        "video_id": "ZYx9ObQZtKM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 90 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 61,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

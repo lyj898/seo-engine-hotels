@@ -1,0 +1,106 @@
+{
+  "entity_id": "hyatt-regency-bali",
+  "slug": "hyatt-regency-bali",
+  "name": "Hyatt Regency Bali",
+  "category_id": "world-of-hyatt",
+  "region_id": "bali",
+  "short_description": "A 363-room beachfront Hyatt Regency in Sanur, recently renovated, with a Regency Club Lounge and three pools set in nine hectares of gardens.",
+  "ai_summary": "Hyatt Regency Bali sits directly on Sanur beach, recently renovated (finished around 2023) across nine hectares of lush tropical gardens. Guests consistently praise the beachfront location, an outstanding breakfast buffet, and the Regency Club's complimentary breakfast and evening hors d'oeuvres, describing it as excellent value even as some reviewers note the property is aging in places. Sanur's calmer, more local character -- and its clear, swimmable waters -- is a genuine draw for travelers who want a beach base without Bali's busier tourist strips.",
+  "core_facts": {
+    "address": "Jalan Danau Tamblingan 89, Sanur, Bali 80228, Indonesia",
+    "brand_sub_brand": "Hyatt Regency",
+    "neighborhood": "Sanur",
+    "elite_benefits": [
+      "Regency Club Lounge access, including breakfast and evening hors d'oeuvres, for World of Hyatt Globalist Elite members",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability, per World of Hyatt program terms",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Beachfront in Sanur, known for calmer, clearer, more swimmable water than many Bali beaches",
+    "Recently renovated (completed around 2023) across nine hectares of gardens",
+    "Regency Club Lounge with complimentary breakfast and evening hors d'oeuvres",
+    "Breakfast buffet draws specific, strong praise for variety and presentation",
+    "Beachfront lounge beds and a quieter, more local Sanur setting"
+  ],
+  "cons": [
+    "Some reviewers still describe parts of the property as aging despite the recent renovation",
+    "Sanur is calmer and more residential than Bali's busier nightlife areas, a trade-off for travelers wanting that scene"
+  ],
+  "research_highlights": [
+    "Guests describe rooms as sleek, clean and comfortable following the renovation",
+    "The breakfast buffet is repeatedly singled out as exceptional, with extensive Western, Asian and Indonesian dishes",
+    "Staff are consistently called genuinely warm, friendly and helpful"
+  ],
+  "research_watchouts": [
+    "A review calls it 'an aging hotel' despite strong value and amenities, suggesting some areas haven't fully caught up with the renovation"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Hyatt Regency Bali on the beach?",
+      "answer": "Yes -- it's directly on Sanur beach, which is known for calmer, clearer water than many other parts of Bali, with beachfront lounge beds and easy access to the Sanur boardwalk for walking or cycling."
+    },
+    {
+      "question": "Has Hyatt Regency Bali been renovated recently?",
+      "answer": "Yes -- the property completed a renovation around 2023, and guests describe the rooms as sleek and comfortable since, though a few reviewers still note some areas feel like an older resort despite the refresh."
+    }
+  ],
+  "tags": ["sanur", "beachfront", "regency club"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/dpsbl-hyatt-regency-bali",
+      "label": "Official Hyatt Regency Bali page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297700-d14889591-Reviews-Hyatt_Regency_Bali-Sanur_Denpasar_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/dpsbl-hyatt-regency-bali",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["andaz-bali", "grand-hyatt-bali"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Hyatt Regency Bali",
+        "source": "Live and Let's Fly",
+        "url": "https://liveandletsfly.com/hyatt-regency-bali-review/",
+        "published_date": "2024-02-10",
+        "summary": "Calls it an aging hotel that nonetheless offers excellent value at $140/night, with an outstanding Regency Club (complimentary breakfast and evening hors d'oeuvres) and a spacious suite upgrade on Globalist status."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hyatt Regency Sanur Is Amazing, But There's A Catch!",
+        "channel": "Sanur Diaries",
+        "url": "https://www.youtube.com/watch?v=QDsBYIjCk9Q",
+        "video_id": "QDsBYIjCk9Q"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 61,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

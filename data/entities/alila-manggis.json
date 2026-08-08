@@ -1,0 +1,114 @@
+{
+  "entity_id": "alila-manggis",
+  "slug": "alila-manggis",
+  "name": "Alila Manggis",
+  "category_id": "world-of-hyatt",
+  "region_id": "bali",
+  "short_description": "A secluded 55-room Alila resort on Bali's east coast near Candidasa, set in a coconut grove away from the island's busier tourist areas.",
+  "ai_summary": "Alila Manggis sits amid a coconut grove on Bali's east coast, near Candidasa and roughly 90 minutes from Seminyak, deliberately away from the island's busier tourist hotspots. The 55-room resort draws consistent praise for its peaceful atmosphere, attentive service, and complimentary activities like cooking classes and yoga, with guests describing rooms as spacious, clean, and beautifully designed despite being on the smaller and more traditional side. It's a genuine retreat rather than a base for exploring Bali's nightlife or shopping, so it suits travelers specifically seeking seclusion over central convenience.",
+  "core_facts": {
+    "address": "Buitan, Manggis, Karangasem Regency, Bali 80871, Indonesia",
+    "brand_sub_brand": "Alila",
+    "neighborhood": "Manggis / Candidasa, East Bali",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Secluded coconut-grove setting on Bali's quieter east coast, away from the busier tourist areas",
+    "Rooms are repeatedly described as spacious, clean, and beautifully designed",
+    "Complimentary activities including Balinese cooking classes and yoga",
+    "Attentive, friendly service draws consistent praise",
+    "Ocean-facing rooms and a tranquil pool and spa"
+  ],
+  "cons": [
+    "Some guests note rooms are somewhat small and dated compared with newer Bali luxury resorts",
+    "Dining and extras are noted as pricey by some reviewers",
+    "The remote east-coast location, roughly 90 minutes from Seminyak, isn't a convenient base for exploring the rest of Bali"
+  ],
+  "research_highlights": [
+    "Guests consistently praise the tranquil, coconut-grove atmosphere and elegant, understated design",
+    "Complimentary afternoon tea, yoga, and cooking classes draw repeated positive comment",
+    "Staff friendliness and attentive service are highlighted across reviews"
+  ],
+  "research_watchouts": [
+    "Some reviewers describe rooms as somewhat small and dated relative to newer Bali resorts",
+    "Dining and extras are noted as pricey by some guests"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How far is Alila Manggis from Bali's main tourist areas?",
+      "answer": "It's roughly 90 minutes from Seminyak and about an hour from Ubud, on Bali's quieter east coast near Candidasa. It's a deliberate retreat rather than a convenient base for day trips to the island's busier attractions."
+    },
+    {
+      "question": "What activities are included at Alila Manggis?",
+      "answer": "The resort offers complimentary Balinese cooking classes, yoga, and afternoon tea, alongside paid options like fishing and snorkeling trips, making it well suited to travelers who want a slower-paced, activity-included stay."
+    }
+  ],
+  "tags": ["candidasa", "east bali", "coconut grove"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpsak-alila-manggis",
+      "label": "Official Alila Manggis page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g608489-d301647-Reviews-Alila_Manggis-Manggis_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/alila-hotels-and-resorts/en-US/dpsak-alila-manggis",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["alila-villas-uluwatu", "alila-seminyak"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel review: What it's like at the Alila Manggis hotel in Bali",
+        "source": "NZ Herald",
+        "url": "https://www.nzherald.co.nz/travel/hotel-review-what-its-like-at-the-alila-manggis-hotel-in-bali/26YQLB6NWBE33CRBJFU4WSM53I/",
+        "published_date": "2023-05-03",
+        "summary": "Describes a secluded 55-room resort positioned as an escape far from Bali's tourist hotspots, with traditional Balinese design, ocean views, complimentary breakfast, and activities like cooking classes and spa treatments."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Alila Manggis | Bali, Indonesia | Hotel Review",
+        "channel": "Indonesia Hotels 365",
+        "url": "https://www.youtube.com/watch?v=aHARAV_831o",
+        "video_id": "aHARAV_831o"
+      },
+      {
+        "title": "HotelKDM | Review Alila Manggis",
+        "channel": "HotelKDM",
+        "url": "https://www.youtube.com/watch?v=Zksb-iquhxI",
+        "video_id": "Zksb-iquhxI"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

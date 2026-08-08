@@ -1,0 +1,114 @@
+{
+  "entity_id": "grand-hyatt-bali",
+  "slug": "grand-hyatt-bali",
+  "name": "Grand Hyatt Bali",
+  "category_id": "world-of-hyatt",
+  "region_id": "bali",
+  "short_description": "A 636-room beachfront Grand Hyatt on 40 acres in Nusa Dua, with five pools, a private beach, and a Kids Club.",
+  "ai_summary": "Grand Hyatt Bali spreads across 40 acres of gardens and lily ponds in Nusa Dua, with 636 rooms and suites, five pools, and a private beach. It's a long-established mega-resort -- built in 1991 -- and guests consistently value it as strong value for families, particularly with kids under 12, thanks to its five restaurants, Kids Club, and the Pasar Senggol evening market show. Reviews are more mixed on room freshness than at newer Bali properties, with some travelers finding rooms dated despite ongoing refurbishments, and Nusa Dua's resort-enclave setting means dining and activities are mostly on-property or at the adjacent Bali Collection mall.",
+  "core_facts": {
+    "address": "Kawasan Wisata Nusa Dua BTDC, Jl. Nusa Dua, Benoa, Badung Regency, Bali 80363, Indonesia",
+    "brand_sub_brand": "Grand Hyatt",
+    "neighborhood": "Nusa Dua",
+    "elite_benefits": [
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability, per World of Hyatt program terms",
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "40 acres of beachfront gardens with five pools, two with waterslides",
+    "One of the longest private beach stretches in Nusa Dua",
+    "Strong value for families, especially with kids under 12, with a dedicated Kids Club",
+    "Five restaurants including award-winning Nampu (Japanese) and Salsa Verde (Italian)",
+    "Adjacent to Bali Collection mall, useful given Nusa Dua's resort-enclave setting"
+  ],
+  "cons": [
+    "Some guests find rooms dated despite refurbishments underway",
+    "Nusa Dua itself is fairly isolated, with little to do outside the resorts",
+    "Reviews are mixed on food and room freshness compared with newer Bali properties"
+  ],
+  "research_highlights": [
+    "Guests consistently value the resort's family-friendly amenities and expansive grounds",
+    "The variety of dining, the spa, and the beachfront location draw repeated praise",
+    "Recent reviews note refurbishments are underway to address room freshness"
+  ],
+  "research_watchouts": [
+    "Some reviewers describe the resort as tired or in need of room and food improvements",
+    "Nusa Dua's isolated, resort-enclave setting means less to do outside the property"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Grand Hyatt Bali good for families?",
+      "answer": "Yes -- it's repeatedly cited as one of the better-value luxury resorts in Nusa Dua for families, with a dedicated Kids Club, five pools (two with waterslides), and one of the longest private beach stretches in the area, all across a 40-acre beachfront property."
+    },
+    {
+      "question": "Are the rooms at Grand Hyatt Bali up to date?",
+      "answer": "The hotel was built in 1991, and some recent reviews describe parts of it as dated, though refurbishments are underway. Guests weighing this against Bali's newer resorts should factor in the trade-off between the property's scale/value and its age."
+    }
+  ],
+  "tags": ["nusa dua", "beachfront", "kids club"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/grand-hyatt/en-US/balgh-grand-hyatt-bali",
+      "label": "Official Grand Hyatt Bali page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297698-d307570-Reviews-Grand_Hyatt_Bali-Nusa_Dua_Benoa_South_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/grand-hyatt/en-US/balgh-grand-hyatt-bali",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-regency-bali", "andaz-bali"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: The Grand Hyatt Bali",
+        "source": "Will Run For Miles",
+        "url": "https://willrunformiles.boardingarea.com/hotel-review-the-grand-hyatt-bali/",
+        "published_date": "2025-02-07",
+        "summary": "Notes Nusa Dua lacks authentic cultural experiences, but finds an upgrade to a Grand Deluxe Suite transformed the stay, with standout extras like a sake pairing and temple tours -- while still preferring Hyatt Regency Sanur's location."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Grand HYATT BALI Hotel Tour & REVIEW | 8 Restaurants, 3 pools, beach, spa, Kids Club & more",
+        "channel": "Ohyeslife",
+        "url": "https://www.youtube.com/watch?v=A3fo2j3SF_A",
+        "video_id": "A3fo2j3SF_A"
+      },
+      {
+        "title": "GRAND HYATT BALI HOTEL REVIEW 2025 | Is Having Club Access worth it?",
+        "channel": "Misis Swiss",
+        "url": "https://www.youtube.com/watch?v=muJSdGTMQvI",
+        "video_id": "muJSdGTMQvI"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
