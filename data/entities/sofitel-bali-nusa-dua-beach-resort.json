@@ -1,0 +1,100 @@
+{
+  "entity_id": "sofitel-bali-nusa-dua-beach-resort",
+  "slug": "sofitel-bali-nusa-dua-beach-resort",
+  "name": "Sofitel Bali Nusa Dua Beach Resort",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A 415-room beachfront resort on Nusa Dua's white sand, refreshed top-to-bottom in 2022, with a 70-metre-plus lagoon pool and a dedicated kids' club.",
+  "ai_summary": "Sofitel Bali Nusa Dua Beach Resort sits directly on Nusa Dua's white sand beach, one of several resorts built during Bali's 1990s tourism boom but refreshed top-to-bottom in a 2022 renovation that modernized restaurants, rooms, and the spa. The 415-room property's main draw is a lagoon pool stretching over 70 metres with multiple sections, daybeds, and a swim-up bar, alongside a dedicated Kids Villa program that makes it a strong pick for families. Guests consistently praise the landscaped, exceptionally clean grounds and genuinely caring staff, with the main recurring watchout being slow breakfast service at Kwee Zen restaurant during busy periods, especially Sundays.",
+  "core_facts": {
+    "address": "Kawasan Pariwisata BTDC, Lot N5, Nusa Dua 80363, Bali, Indonesia",
+    "brand_sub_brand": "Sofitel",
+    "neighborhood": "Nusa Dua",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Direct beachfront position on Nusa Dua's white sand",
+    "2022 top-to-bottom renovation modernized rooms, restaurants, and the spa",
+    "Lagoon pool stretching over 70 metres, with multiple sections, daybeds, and a swim-up bar",
+    "Dedicated Kids Villa program and kids' pool with slides for families",
+    "Luxury King rooms feature marble floors and L'Occitane amenities"
+  ],
+  "cons": [
+    "Breakfast service at Kwee Zen restaurant can be slow during busy periods, particularly Sundays",
+    "As a 1990s-built resort, some areas show more age than newer Nusa Dua properties despite the 2022 refresh"
+  ],
+  "research_highlights": [
+    "Guests consistently praise the exceptionally clean, landscaped grounds",
+    "The lagoon pool and beachfront position draw repeated, strong praise",
+    "Staff are described as genuinely caring rather than merely professional"
+  ],
+  "research_watchouts": [
+    "Sunday breakfast at Kwee Zen has drawn specific complaints about wait times",
+    "A subset of reviews note remaining signs of the resort's 1990s-era construction"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Was Sofitel Bali Nusa Dua Beach Resort renovated recently?",
+      "answer": "Yes -- a top-to-bottom refresh completed in 2022 modernized the rooms, restaurants, and spa, addressing wear from the resort's original 1990s-era construction, though some guests still note the property's age in places."
+    },
+    {
+      "question": "Is Sofitel Bali Nusa Dua good for families?",
+      "answer": "Yes -- it has a dedicated Kids Villa program, a kids' pool with slides, and a 70-metre-plus lagoon pool with multiple sections, making it one of the more family-oriented luxury resorts on Nusa Dua's beachfront."
+    }
+  ],
+  "tags": ["nusa dua", "lagoon pool", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://sofitel.accor.com/en/hotels/9078.html",
+      "label": "Official Sofitel Bali Nusa Dua Beach Resort page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297698-d5039960-Reviews-Sofitel_Bali_Nusa_Dua_Beach_Resort-Nusa_Dua_Benoa_South_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://sofitel.accor.com/en/hotels/9078.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["raffles-bali", "novotel-bali-benoa"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sofitel Bali Nusa Dua Review [2026]: A Bali Oasis",
+        "source": "MT Luxury Travel",
+        "url": "https://mtluxurytravel.com/hotel-reviews/sofitel-nusa-dua-bali",
+        "published_date": "2026-05-28",
+        "summary": "Rates it 8/10, praising the 2022 refresh, 70-metre lagoon pool, and Luxury King room's marble floors and L'Occitane amenities, but flags 15-20 minute waits at Sunday breakfast during busy periods."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

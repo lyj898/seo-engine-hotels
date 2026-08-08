@@ -1,0 +1,107 @@
+{
+  "entity_id": "raffles-bali",
+  "slug": "raffles-bali",
+  "name": "Raffles Bali",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "The largest Raffles property in the world -- 32 all-villa suites across 23 hectares of Jimbaran clifftop, each with a private pool and 24-hour butler.",
+  "ai_summary": "Raffles Bali sits on a secluded clifftop in Jimbaran, spanning 23 hectares and comprising just 32 villas -- making it the largest Raffles property in the world by land area despite its intimate key count. Every villa has a private pool, expansive outdoor space, and uninterrupted ocean views, supported by a 24-hour Wellbeing Butler reachable via WhatsApp. Guests consistently praise the Indonesian degustation menu at Rumari restaurant, the Secret Cave used for meditation and private dinners, and warm, attentive service, though the resort's relaxed 'Bali villa vibe' reads more casual than classic Raffles formality, and a handful of reviews mention small wildlife finding its way into villas through construction gaps.",
+  "core_facts": {
+    "address": "Jl. Karang Mas Sejahtera No.1A, Jimbaran, Kuta Selatan, Badung Regency, Bali 80361, Indonesia",
+    "brand_sub_brand": "Raffles",
+    "neighborhood": "Jimbaran clifftop",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "32 villas across 23 hectares, the largest Raffles property in the world by land area",
+    "Every villa has a private pool, expansive outdoor space, and uninterrupted ocean views",
+    "24-hour Wellbeing Butler reachable via WhatsApp throughout the stay",
+    "Rumari restaurant's regional Indonesian degustation menu draws strong, repeated praise",
+    "The Secret Cave, a natural limestone cave repurposed for meditation sessions and private dinners"
+  ],
+  "cons": [
+    "The relaxed 'Bali villa vibe' reads more casual than the formality some expect from the Raffles name",
+    "A handful of reviews mention construction gaps letting in small wildlife, including insects"
+  ],
+  "research_highlights": [
+    "The private-pool villas and clifftop ocean views are consistently called the resort's defining feature",
+    "Rumari's Indonesian cuisine and the WhatsApp-based butler service draw strong, specific praise",
+    "The Secret Cave's meditation sessions and private dinners are highlighted as genuinely distinctive experiences"
+  ],
+  "research_watchouts": [
+    "A subset of reviews note construction gaps allowing small wildlife into villas",
+    "Guests expecting classic Raffles formality may find the atmosphere more relaxed than anticipated"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How many villas does Raffles Bali have?",
+      "answer": "32 villas spread across 23 hectares of Jimbaran clifftop, making it the largest Raffles property in the world by land area despite its intimate, all-villa key count -- every villa has its own private pool."
+    },
+    {
+      "question": "What is the Secret Cave at Raffles Bali?",
+      "answer": "A natural limestone cave on the property repurposed for meditation sessions and private dinners -- one of the resort's more distinctive experiences, alongside the regional Indonesian degustation menu at Rumari restaurant."
+    }
+  ],
+  "tags": ["jimbaran", "all-villa resort", "private pool"],
+  "source_mix": [
+    {
+      "url": "https://www.raffles.com/bali/",
+      "label": "Official Raffles Bali page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297696-d19626656-Reviews-Raffles_Bali-Jimbaran_South_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.raffles.com/bali/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-bali-nusa-dua-beach-resort"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Raffles Bali (Ocean Pool Villa) - All-villa Dreamy Luxury in Jimbaran",
+        "source": "Secret Life of Fatbacks",
+        "url": "https://secretlifeoffatbacks.com/2024/04/hotel-review-raffles-bali-ocean-pool-villa-all-villa-dreamy-luxury-in-jimbaran/",
+        "published_date": "2024-04-17",
+        "summary": "Reviews the Ocean Pool Villa's private 35-sqm pool and locally sourced design, praising Rumari restaurant's Indonesian cuisine and the WhatsApp-based Wellbeing Butler, though the champagne partnership felt underused."
+      }
+    ],
+    "videos": [
+      {
+        "title": "RAFFLES BALI FULL VLOG 2026 - Anniversary Trip Part 1 ft. Bali's Most Luxurious Resort",
+        "channel": "Anna",
+        "url": "https://www.youtube.com/watch?v=y3V361HInyA",
+        "video_id": "y3V361HInyA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 90,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 94 },
+      { "label": "Rooms", "score": 92 },
+      { "label": "Food & breakfast", "score": 90 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
