@@ -1,0 +1,100 @@
+{
+  "entity_id": "so-bangkok",
+  "slug": "so-bangkok",
+  "name": "SO/ Bangkok",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A design-forward 237-room lifestyle hotel at Sathorn and Rama IV, overlooking Lumpini Park, with rooms designed around the elements and a landmark rooftop pool.",
+  "ai_summary": "SO/ Bangkok occupies a 30-storey glass tower at the crossroads of North Sathorn and Rama IV roads, overlooking Lumpini Park and the city skyline, a short walk from Lumpini MRT station. Each of the 237 rooms and suites is designed around one of five elements by French designer Christian Lacroix and other collaborators, and the rooftop pool and bar are frequently singled out as one of the best in Bangkok. Guests consistently praise the striking design, helpful staff, and pool, though some reviewers note the hotel prioritizes design over practicality in places, and a handful describe wear -- stained walls, cracked flooring -- that feels inconsistent with a five-star property.",
+  "core_facts": {
+    "address": "2 North Sathorn Road, Bangrak, Bangkok 10500, Thailand",
+    "brand_sub_brand": "SO/",
+    "neighborhood": "Sathorn / Lumpini Park",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "237 rooms and suites, each designed around one of five elements by French designer Christian Lacroix and collaborators",
+    "Rooftop pool and bar frequently named among Bangkok's best",
+    "Overlooks Lumpini Park at the crossroads of Sathorn and Rama IV, a short walk from Lumpini MRT",
+    "Striking, design-forward interiors throughout the public spaces and rooms",
+    "Full-service spa and two restaurants alongside the outdoor pool"
+  ],
+  "cons": [
+    "Some guests feel the design-led approach sacrifices practicality in places",
+    "A handful of reviews describe wear -- stained walls, cracked flooring, damaged furniture -- inconsistent with a five-star property"
+  ],
+  "research_highlights": [
+    "The rooftop pool and design concept draw consistently strong praise",
+    "Staff helpfulness is repeatedly cited as a highlight of the stay",
+    "The Lumpini Park and Sathorn location is called convenient and central"
+  ],
+  "research_watchouts": [
+    "A design-first approach means some functional details take a back seat, according to a subset of reviews",
+    "A minority of guests report maintenance issues that feel out of step with the five-star positioning"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "What is the design concept behind SO/ Bangkok's rooms?",
+      "answer": "Each of the 237 rooms and suites is designed around one of five elements, a concept developed with French designer Christian Lacroix and other collaborators -- part of what makes the hotel one of Bangkok's more design-forward five-star properties."
+    },
+    {
+      "question": "Is SO/ Bangkok near Lumpini Park?",
+      "answer": "Yes -- it sits at the crossroads of North Sathorn and Rama IV roads directly overlooking Lumpini Park, within a short walk of Lumpini MRT station, putting Bangkok's largest downtown green space right outside."
+    }
+  ],
+  "tags": ["lumpini park", "rooftop pool", "design hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6835/index.en.shtml",
+      "label": "Official SO/ Bangkok page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d2421117-Reviews-SO_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6835/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-bangkok-sukhumvit"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "THIS BANGKOK HOTEL HAS THE BEST POOL🔥 SO/ Bangkok Hotel Full Review",
+        "channel": "Dave Do Travel",
+        "url": "https://www.youtube.com/watch?v=HZlaMA-Hy2w",
+        "video_id": "HZlaMA-Hy2w",
+        "published_date": "2024-11-22"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
