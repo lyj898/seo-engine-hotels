@@ -1,0 +1,101 @@
+{
+  "entity_id": "mercure-kuala-lumpur-shaw-parade",
+  "slug": "mercure-kuala-lumpur-shaw-parade",
+  "name": "Mercure Kuala Lumpur Shaw Parade",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 213-room hotel between Bukit Bintang and Pudu, with a rooftop pool, KL skyline views, and complimentary in-suite minibars restocked daily.",
+  "ai_summary": "Mercure Kuala Lumpur Shaw Parade sits between the Bukit Bintang and Pudu neighbourhoods, both full of shops, restaurants, and street life, on Jalan Changkat Thambi Dollah. The 213-room hotel offers stunning KL skyline views from higher floors, a rooftop pool and bar, and eco-conscious in-room water filters, with suite guests enjoying a complimentary minibar restocked daily and artisanal welcome snacks. Guests consistently praise the attentive, proactive service and the local Malaysian breakfast options, with the main watchouts being dated bathroom fittings in some rooms and occasional breakfast items running low during peak periods.",
+  "core_facts": {
+    "address": "152 Jalan Changkat Thambi Dollah, Shaw Parade, 55100 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Shaw Parade / Bukit Bintang-Pudu",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Rooftop pool and bar with stunning KL skyline views, especially from higher floors",
+    "Complimentary in-suite minibar restocked daily, plus artisanal welcome snacks",
+    "Eco-conscious in-room water filters to cut down on plastic bottle use",
+    "Local Malaysian dishes featured alongside international options at breakfast",
+    "Between Bukit Bintang and Pudu, both full of shops, restaurants, and street life"
+  ],
+  "cons": [
+    "Some rooms have dated bathroom fittings, including a loose tub/shower holder noted by one family",
+    "Breakfast items can run low during peak periods, with restocking not always prompt",
+    "Large tour groups can bring noise to the corridors at times"
+  ],
+  "research_highlights": [
+    "The rooftop pool and daily-restocked minibar draw consistent, specific praise",
+    "Staff hospitality is repeatedly described as attentive and proactive, one step ahead of guest needs",
+    "The Shaw Parade location between Bukit Bintang and Pudu is called convenient for food and shopping"
+  ],
+  "research_watchouts": [
+    "A few rooms show dated bathroom fittings despite the otherwise modern feel",
+    "Breakfast can run short of items during busier periods"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does Mercure Kuala Lumpur Shaw Parade have a rooftop pool?",
+      "answer": "Yes -- the rooftop pool and bar offer stunning KL skyline views, particularly striking from the hotel's higher floors, and is one of the property's most frequently praised features."
+    },
+    {
+      "question": "What's included with suites at Mercure Kuala Lumpur Shaw Parade?",
+      "answer": "Suite guests get a complimentary minibar restocked daily along with artisanal welcome snacks and seasonal fruits -- an unusually generous inclusion for the hotel's midscale-to-upscale price point."
+    }
+  ],
+  "tags": ["shaw parade", "rooftop pool", "bukit bintang"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9279/index.en.shtml",
+      "label": "Official Mercure Kuala Lumpur Shaw Parade page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d11666074-Reviews-Mercure_Kuala_Lumpur_Shaw_Parade-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9279/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-kuala-lumpur-bukit-bintang", "ibis-kuala-lumpur-city-centre"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Mercure Kuala Lumpur Shaw Parade - A Hidden Gem in the Heart of the City",
+        "source": "Beauty and the Being",
+        "url": "http://beautyandthebeing.com/2025/04/17/hotel-review-mercure-kuala-lumpur-shaw-parade-a-hidden-gem-in-the-heart-of-the-city/",
+        "published_date": "2025-04-17",
+        "summary": "Calls it a hidden gem, praising the complimentary stocked minibar, welcome amenities, KL skyline views, rooftop pool, in-room water filters, and attentive service, in a convenient spot between Bukit Bintang and KLCC."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

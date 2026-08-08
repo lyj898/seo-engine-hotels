@@ -1,0 +1,92 @@
+{
+  "entity_id": "grand-mercure-kuala-lumpur-bukit-bintang",
+  "slug": "grand-mercure-kuala-lumpur-bukit-bintang",
+  "name": "Grand Mercure Kuala Lumpur Bukit Bintang",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A recently rebranded 325-room hotel between Bukit Bintang and Chinatown, 500 metres from Imbi Monorail and walking distance to Jalan Alor's food street.",
+  "ai_summary": "Grand Mercure Kuala Lumpur Bukit Bintang sits on Jalan Pudu between the Bukit Bintang nightlife district and the cultural charm of Chinatown, about 500 metres from Imbi Monorail station and within walking distance of Jalan Alor's famous food street. The 325-room property underwent a rebrand into the Grand Mercure name, and reviewers who stayed since describe the refreshed lobby and rooms as a marked improvement, alongside two pool areas and a fitness centre. Feedback since the rebrand has been genuinely mixed -- many guests praise the clean, renovated rooms, central location, and good-value breakfast, while a vocal minority report maintenance issues and inconsistent service that fall short of the refreshed positioning.",
+  "core_facts": {
+    "address": "117 Jalan Pudu, 55100 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Bukit Bintang / Chinatown",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Between Bukit Bintang and Chinatown, walking distance to Jalan Alor's food street",
+    "About 500 metres from Imbi Monorail station",
+    "Recently rebranded, with a refreshed lobby and rooms noted by returning guests",
+    "Two pool areas and a fitness centre on-site",
+    "Free parking included, a genuine value-add in central Kuala Lumpur"
+  ],
+  "cons": [
+    "Feedback since the rebrand is genuinely mixed -- some guests report maintenance issues (including mould) inconsistent with a freshly renovated property",
+    "A vocal minority describe service lapses that fall short of the refreshed positioning"
+  ],
+  "research_highlights": [
+    "Guests who stayed post-rebrand describe the modernized lobby and rooms as a clear improvement",
+    "The Bukit Bintang / Chinatown location and proximity to Jalan Alor draw consistent praise",
+    "Breakfast and value for money are repeatedly highlighted as strengths"
+  ],
+  "research_watchouts": [
+    "A vocal minority report maintenance issues, including mould, that feel inconsistent with the recent rebrand",
+    "Some guests describe uneven service, from warm and attentive to dismissive depending on the stay"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Was Grand Mercure Kuala Lumpur Bukit Bintang recently renovated?",
+      "answer": "Yes -- the property underwent a rebrand into the Grand Mercure name, and guests who stayed since describe a modernized lobby and rooms as a clear improvement, though feedback on consistency since the rebrand has been mixed."
+    },
+    {
+      "question": "Is Grand Mercure Kuala Lumpur Bukit Bintang near Jalan Alor?",
+      "answer": "Yes -- it's within walking distance of Jalan Alor, Kuala Lumpur's famous food street, and sits between the Bukit Bintang nightlife district and Chinatown, about 500 metres from Imbi Monorail station."
+    }
+  ],
+  "tags": ["bukit bintang", "jalan alor", "recently rebranded"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C3M1/index.en.shtml",
+      "label": "Official Grand Mercure Kuala Lumpur Bukit Bintang page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d2145733-Reviews-Grand_Mercure_Kuala_Lumpur_Bukit_Bintang-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C3M1/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-kuala-lumpur-shaw-parade"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 72,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 68 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
