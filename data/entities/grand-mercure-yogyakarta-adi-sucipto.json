@@ -1,0 +1,98 @@
+{
+  "entity_id": "grand-mercure-yogyakarta-adi-sucipto",
+  "slug": "grand-mercure-yogyakarta-adi-sucipto",
+  "name": "Grand Mercure Yogyakarta Adi Sucipto",
+  "category_id": "accor-all",
+  "region_id": "yogyakarta",
+  "short_description": "A 305-room hotel on Jalan Laksda Adi Sucipto in Sleman, with decor drawing on Borobudur and Prambanan heritage sites and an outdoor pool in lush gardens.",
+  "ai_summary": "Grand Mercure Yogyakarta Adi Sucipto sits on Jalan Laksda Adi Sucipto in Sleman, blending Javanese cultural heritage with French hospitality standards across 305 rooms. The hotel's decor features cultural heritage signages and artifacts referencing the nearby Borobudur and Prambanan temple sites, and an outdoor pool with sun loungers sits within lush gardens. Guests consistently praise the spacious rooms and excellent breakfast spread, with staff described as pleasant and supportive, though a subset of reviews report cleanliness concerns, including stained linens in specific rooms.",
+  "core_facts": {
+    "address": "Jl. Laksda B Adi Sucipto No. 80, Sleman 55281, Indonesia",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Sleman",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "305 rooms with decor referencing Borobudur and Prambanan temple heritage",
+    "Outdoor pool with sun loungers set within lush gardens",
+    "Very large rooms and an excellent breakfast spread",
+    "Staff described as pleasant, polite, and supportive",
+    "24-hour front desk, room service, and free parking"
+  ],
+  "cons": [
+    "A subset of reviews report cleanliness concerns, including stained linens in specific rooms",
+    "As a large hotel, the atmosphere leans more business-oriented than boutique"
+  ],
+  "research_highlights": [
+    "Room spaciousness and the breakfast spread draw consistent praise",
+    "The Javanese cultural design touches are called a distinctive feature",
+    "Staff are repeatedly described as pleasant and supportive"
+  ],
+  "research_watchouts": [
+    "A subset of guests report hygiene issues in specific rooms, worth requesting a freshly serviced room"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does Grand Mercure Yogyakarta Adi Sucipto have cultural design touches?",
+      "answer": "Yes -- the decor features cultural heritage signages and artifacts referencing the nearby Borobudur and Prambanan temple sites, blending local Javanese culture with the hotel's French hospitality standards."
+    },
+    {
+      "question": "Is Grand Mercure Yogyakarta Adi Sucipto clean?",
+      "answer": "Most guests report clean, well-maintained rooms, but a subset of reviews mention hygiene issues in specific rooms, including stained linens -- worth checking recent reviews before booking."
+    }
+  ],
+  "tags": ["sleman", "borobudur-inspired design", "garden pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9608/index.en.shtml",
+      "label": "Official Grand Mercure Yogyakarta Adi Sucipto page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2304080-d10606348-Reviews-Grand_Mercure_Yogyakarta_Adi_Sucipto-Sleman_Sleman_District_Yogyakarta_Region_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9608/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-solo"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Grand Mercure Yogyakarta Adi Sucipto - Hotel Mewah Buat Transit Tempat Parkir Terbatas",
+        "channel": "Eko Wahyudiharto",
+        "url": "https://www.youtube.com/watch?v=OG1RzN06Y14",
+        "video_id": "OG1RzN06Y14"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

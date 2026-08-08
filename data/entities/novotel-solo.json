@@ -1,0 +1,98 @@
+{
+  "entity_id": "novotel-solo",
+  "slug": "novotel-solo",
+  "name": "Novotel Solo",
+  "category_id": "accor-all",
+  "region_id": "solo",
+  "short_description": "A 142-room hotel on Jalan Slamet Riyadi in the heart of Solo, with two large outdoor pools, a night bar, and an InBalance Fitness and Spa.",
+  "ai_summary": "Novotel Solo sits on Jalan Slamet Riyadi, Solo's main commercial avenue, putting the 142-room hotel within easy reach of the city's dining and shopping. Two large outdoor pools, a night bar, traditional massage services, and the InBalance Fitness and Spa round out the amenities. Guests consistently praise the spacious, contemporary rooms, well-maintained facilities, and friendly staff, along with strong food options, though a subset of reviews note maintenance and service inconsistencies.",
+  "core_facts": {
+    "address": "Jl. Slamet Riyadi 272, Surakarta (Solo) 57141, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Jalan Slamet Riyadi",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Jalan Slamet Riyadi location, Solo's main commercial avenue",
+    "142 spacious, contemporary rooms",
+    "Two large outdoor pools and a night bar",
+    "InBalance Fitness and Spa with traditional massage services",
+    "Friendly staff and strong dining options draw consistent praise"
+  ],
+  "cons": [
+    "A subset of reviews note maintenance and service inconsistencies",
+    "As a business-oriented hotel, the atmosphere leans more functional than boutique"
+  ],
+  "research_highlights": [
+    "The central Slamet Riyadi location draws consistent praise for convenience",
+    "Room cleanliness and comfort are repeatedly highlighted",
+    "Staff friendliness and food quality are called genuine strengths"
+  ],
+  "research_watchouts": [
+    "A subset of reviews mention maintenance and service inconsistencies between stays"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Solo centrally located?",
+      "answer": "Yes -- it's on Jalan Slamet Riyadi, Solo's main commercial avenue, putting the hotel within easy reach of the city's dining and shopping without needing to travel to an outlying district."
+    },
+    {
+      "question": "Does Novotel Solo have a pool?",
+      "answer": "Yes -- two large outdoor pools are part of the amenity set, alongside a night bar and the InBalance Fitness and Spa offering traditional massage services."
+    }
+  ],
+  "tags": ["slamet riyadi", "central solo", "fitness and spa"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/0545/index.en.shtml",
+      "label": "Official Novotel Solo page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297713-d299541-Reviews-Novotel_Solo-Solo_Central_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/0545/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-yogyakarta-adi-sucipto", "grand-mercure-solo-baru"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Solo Review: Affordable Luxury in Surakarta, Indonesia - 365 Nights in Accor Hotels",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=_qHRaB8Twpw",
+        "video_id": "_qHRaB8Twpw"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

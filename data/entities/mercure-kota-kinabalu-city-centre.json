@@ -1,0 +1,100 @@
+{
+  "entity_id": "mercure-kota-kinabalu-city-centre",
+  "slug": "mercure-kota-kinabalu-city-centre",
+  "name": "Mercure Kota Kinabalu City Centre",
+  "category_id": "accor-all",
+  "region_id": "kota-kinabalu",
+  "short_description": "A hotel on busy Jalan Gaya in downtown Kota Kinabalu, half a kilometre from the waterfront and local market, with a rooftop offering day and night views.",
+  "ai_summary": "Mercure Kota Kinabalu City Centre sits along Jalan Gaya in the heart of downtown Kota Kinabalu, within walking distance of shopping malls and shops, and about half a kilometre from the waterfront and local market. The hotel's rooftop is repeatedly singled out for its views, both during the day and at night. Guests consistently praise the central, walkable location, though reviews note the property is beginning to show its age, with a subset of guests reporting noise issues -- slamming doors and thin walls -- affecting sleep quality.",
+  "core_facts": {
+    "address": "Jalan Gaya, Kota Kinabalu, Sabah, Malaysia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Jalan Gaya / Downtown",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Jalan Gaya location in downtown Kota Kinabalu",
+    "About half a kilometre from the waterfront and local market",
+    "Rooftop offers fantastic views, both day and night",
+    "Walking distance to shopping malls, restaurants, and shops",
+    "2 restaurants and 2 bars with free WiFi on-site"
+  ],
+  "cons": [
+    "Rooms are beginning to show their age",
+    "A subset of guests report significant noise issues, including slamming doors and thin walls",
+    "Breakfast spread is described by some guests as basic"
+  ],
+  "research_highlights": [
+    "The Jalan Gaya location and proximity to the waterfront are consistently praised",
+    "The rooftop views are repeatedly singled out as a highlight",
+    "Guests appreciate the walkability to downtown shops and restaurants"
+  ],
+  "research_watchouts": [
+    "Multiple reviews describe significant noise from doors, showers, and corridor conversations carrying between rooms",
+    "The property shows wear in places, worth checking recent photos before booking"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Mercure Kota Kinabalu City Centre close to the waterfront?",
+      "answer": "Yes -- it's about half a kilometre from the waterfront and local market, on busy Jalan Gaya in the heart of downtown Kota Kinabalu, within walking distance of shopping malls and restaurants."
+    },
+    {
+      "question": "Is Mercure Kota Kinabalu City Centre noisy?",
+      "answer": "A subset of guests report notable noise issues, including slamming doors, thin walls, and loud corridor conversations carrying into rooms at night -- worth factoring in if you're a light sleeper."
+    }
+  ],
+  "tags": ["jalan gaya", "downtown", "rooftop views"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9416/index.en.shtml",
+      "label": "Official Mercure Kota Kinabalu City Centre page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298307-d12947554-Reviews-Mercure_Kota_Kinabalu_City_Centre-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Div.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9416/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Kota Kinabalu City Centre | Kota Kinabalu, Malaysia | Hotel Review",
+        "channel": "Malaysia Vacations",
+        "url": "https://www.youtube.com/watch?v=uZ2UebViTsk",
+        "video_id": "uZ2UebViTsk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 66,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 68 },
+      { "label": "Rooms", "score": 54 },
+      { "label": "Food & breakfast", "score": 62 },
+      { "label": "Value", "score": 68 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
