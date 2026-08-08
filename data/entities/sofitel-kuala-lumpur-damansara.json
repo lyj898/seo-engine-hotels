@@ -1,0 +1,99 @@
+{
+  "entity_id": "sofitel-kuala-lumpur-damansara",
+  "slug": "sofitel-kuala-lumpur-damansara",
+  "name": "Sofitel Kuala Lumpur Damansara",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 312-room five-star hotel in the Damansara Heights enclave, known as the 'Beverly Hills of KL', blending French sophistication with Malaysia's multicultural design.",
+  "ai_summary": "Sofitel Kuala Lumpur Damansara sits in the Damansara Heights enclave, an upscale residential and business district often called the 'Beverly Hills of KL', offering a quieter, more exclusive setting than the city's central tourist corridor. The 312-room hotel blends French sophistication with Malaysia's multicultural design across premium bedding, a pillow menu, a poolside bar, and three restaurants including a dedicated Chinese dining venue. Guests consistently praise the cleanliness, attentive housekeeping, and staff who go out of their way for guests, including checking in on anyone who's unwell, though the Damansara location sits a taxi ride from Kuala Lumpur's main tourist attractions.",
+  "core_facts": {
+    "address": "No. 6 Jalan Damanlela, Bukit Damansara, 50490 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Sofitel",
+    "neighborhood": "Damansara Heights",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Sits in Damansara Heights, an upscale enclave often called the 'Beverly Hills of KL', for a quieter setting",
+    "312 rooms with premium bedding, a pillow menu, and modern French-Malaysian design",
+    "Poolside bar and three restaurants, including a dedicated Chinese dining venue",
+    "Staff repeatedly praised for attentiveness, including checking in on guests who are unwell",
+    "Sofitel Spa on-site for guests wanting a full wellness stay"
+  ],
+  "cons": [
+    "The Damansara Heights location is quieter but a taxi ride from Kuala Lumpur's main tourist attractions and KLCC",
+    "As a residential-district hotel, it suits business and leisure travelers prioritizing calm over central nightlife access"
+  ],
+  "research_highlights": [
+    "Guests consistently praise cleanliness and attentive housekeeping",
+    "Staff service, including proactive care for unwell guests, is repeatedly singled out",
+    "The Damansara Heights setting is called a genuine draw for travelers wanting a quieter, more exclusive stay"
+  ],
+  "research_watchouts": [
+    "The location's distance from KLCC and central tourist attractions means budgeting extra time and transport",
+    "A subset of guests reported friction over voucher redemption during booking, though resolved"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Where is Sofitel Kuala Lumpur Damansara located?",
+      "answer": "In Damansara Heights, an upscale residential and business enclave often called the 'Beverly Hills of KL' -- a quieter, more exclusive setting than central Kuala Lumpur, though it means a taxi ride to reach KLCC and the main tourist attractions."
+    },
+    {
+      "question": "How many rooms does Sofitel Kuala Lumpur Damansara have?",
+      "answer": "312 rooms, each with premium bedding and a pillow menu, spread across a five-star property that blends French design sensibility with Malaysian multicultural touches."
+    }
+  ],
+  "tags": ["damansara heights", "french design", "quiet enclave"],
+  "source_mix": [
+    {
+      "url": "https://www.sofitel-kualalumpur-damansara.com/",
+      "label": "Official Sofitel Kuala Lumpur Damansara page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d12501583-Reviews-Sofitel_Kuala_Lumpur_Damansara-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.sofitel-kualalumpur-damansara.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-kuala-lumpur-city-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "SOFITEL KUALA LUMPUR | Damansara | Malaysia | Hotel Review",
+        "channel": "Ronan Jonet",
+        "url": "https://www.youtube.com/watch?v=vLkzWkGb83A",
+        "video_id": "vLkzWkGb83A"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

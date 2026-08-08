@@ -1,0 +1,100 @@
+{
+  "entity_id": "novotel-kuala-lumpur-city-centre",
+  "slug": "novotel-kuala-lumpur-city-centre",
+  "name": "Novotel Kuala Lumpur City Centre",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 302-room hotel between the Petronas Twin Towers and Bukit Bintang, a 5-minute walk to Pavilion KL via a link bridge, near Raja Chulan Monorail.",
+  "ai_summary": "Novotel Kuala Lumpur City Centre sits on Jalan Kia Peng in the Golden Triangle, between the Petronas Twin Towers and Bukit Bintang, with a link bridge putting Pavilion Kuala Lumpur about a 5-minute walk away and Raja Chulan Monorail station nearby. The 302 smoke-free rooms come with a coffee/tea corner, in-room safe, and drinking-water filtration, and the property adds The Zen Spa and international dining at The Square. Guests consistently praise the central, quiet-yet-connected location and attentive housekeeping, with breakfast and front-desk consistency the main areas where reviews are mixed.",
+  "core_facts": {
+    "address": "2 Jalan Kia Peng, 50450 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Golden Triangle",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Golden Triangle location between the Petronas Twin Towers and Bukit Bintang",
+    "Link bridge puts Pavilion Kuala Lumpur about a 5-minute walk away",
+    "Near Raja Chulan Monorail station for wider city access",
+    "302 smoke-free rooms with drinking-water filtration and an ergonomic desk",
+    "The Zen Spa with aromatherapy treatments on-site"
+  ],
+  "cons": [
+    "Breakfast variety draws mixed feedback, with some guests calling it just average",
+    "Front-desk consistency is occasionally inconsistent, though lounge and concierge staff are more reliably praised"
+  ],
+  "research_highlights": [
+    "The Golden Triangle location and Pavilion link bridge are repeatedly called the hotel's strongest asset",
+    "Room cleanliness and quiet, well-maintained interiors draw consistent praise",
+    "Staff in the lounge and concierge areas are singled out as particularly helpful"
+  ],
+  "research_watchouts": [
+    "Breakfast quality and variety receive more mixed feedback than other aspects of the stay",
+    "A minority of guests report inconsistent front-desk service"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Kuala Lumpur City Centre near Pavilion Mall?",
+      "answer": "Yes -- a link bridge connects the hotel to Pavilion Kuala Lumpur, about a 5-minute walk away, and the property also sits within reach of the Petronas Twin Towers and Bukit Bintang in KL's Golden Triangle."
+    },
+    {
+      "question": "Does Novotel Kuala Lumpur City Centre have a spa?",
+      "answer": "Yes -- The Zen Spa offers aromatherapy treatments on-site, alongside an outdoor pool and international dining at The Square restaurant."
+    }
+  ],
+  "tags": ["golden triangle", "pavilion mall", "raja chulan"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6324/index.en.shtml",
+      "label": "Official Novotel Kuala Lumpur City Centre page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d615721-Reviews-Novotel_Kuala_Lumpur_City_Centre-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6324/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-kuala-lumpur-city-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Hotel at the heart of Kuala Lumpur: Novotel KL City Centre - Our Review and full experience",
+        "channel": "KurtAshing Adventures",
+        "url": "https://www.youtube.com/watch?v=edp2wi_QUzY",
+        "video_id": "edp2wi_QUzY",
+        "published_date": "2024-08-28"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
