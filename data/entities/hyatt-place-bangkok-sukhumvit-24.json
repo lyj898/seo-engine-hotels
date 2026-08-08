@@ -1,0 +1,87 @@
+{
+  "entity_id": "hyatt-place-bangkok-sukhumvit-24",
+  "slug": "hyatt-place-bangkok-sukhumvit-24",
+  "name": "Hyatt Place Bangkok Sukhumvit 24",
+  "category_id": "world-of-hyatt",
+  "region_id": "bangkok",
+  "short_description": "A 222-room select-service Hyatt Place near BTS Phrom Phong, with a 19th-floor pool and a 28th-floor rooftop bar.",
+  "ai_summary": "Hyatt Place Bangkok Sukhumvit 24 sits near BTS Phrom Phong station, in reach of the Sukhumvit Soi 24 area's shopping and dining. The 222-room select-service hotel draws praise for its location and AIRE BAR, the 28th-floor rooftop spot with sweeping city views, along with a well-regarded breakfast. Rooms run on the smaller side for the category, and a few guests note soundproofing could be better, but reviewers consistently call out the location and rooftop bar as good value for a select-service stay.",
+  "core_facts": {
+    "address": "22/5 Sukhumvit Soi 24, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Hyatt Place",
+    "neighborhood": "Sukhumvit Soi 24 / Phrom Phong",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Prime location near BTS Phrom Phong with easy access to Sukhumvit shopping and dining",
+    "AIRE BAR, a 28th-floor rooftop bar with sweeping city and river views",
+    "15-metre outdoor pool on the 19th floor",
+    "Breakfast is highly rated by guests",
+    "Reviewers consistently cite good value for money"
+  ],
+  "cons": [
+    "Some reviews mention room size and soundproofing as weaker points",
+    "A few guests find the lobby/common areas less inspiring than the rooftop"
+  ],
+  "research_highlights": [
+    "The rooftop bar and skyline views are a consistent highlight for guests",
+    "Location near BTS Phrom Phong draws repeated praise for convenience",
+    "Breakfast quality and value for money are called out specifically"
+  ],
+  "research_watchouts": [
+    "A handful of reviews mention room size and soundproofing as areas that could improve"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does Hyatt Place Bangkok Sukhumvit 24 have a pool?",
+      "answer": "Yes -- a 15-metre outdoor pool on the 19th floor, along with AIRE BAR, a rooftop bar on the 28th floor with sweeping views of Bangkok and the Chao Phraya River."
+    },
+    {
+      "question": "Is Hyatt Place Bangkok Sukhumvit 24 close to the BTS Skytrain?",
+      "answer": "Yes -- it's near BTS Phrom Phong station, putting guests within easy reach of the Sukhumvit Soi 24 area's shopping and dining without needing a taxi for most trips. That also puts EmQuartier and EmSphere malls, along with a wide range of restaurants, within a short walk of the hotel."
+    }
+  ],
+  "tags": ["phrom phong", "rooftop bar", "select-service"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-place/en-US/bkkzs-hyatt-place-bangkok-sukhumvit-24",
+      "label": "Official Hyatt Place Bangkok Sukhumvit 24 page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d12918754-Reviews-Hyatt_Place_Bangkok_Sukhumvit_24-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-place/en-US/bkkzs-hyatt-place-bangkok-sukhumvit-24",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-place-bangkok-sukhumvit-1", "hyatt-regency-bangkok-sukhumvit"],
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

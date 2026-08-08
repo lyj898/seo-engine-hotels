@@ -1,0 +1,89 @@
+{
+  "entity_id": "hyatt-regency-bangkok-suvarnabhumi-airport",
+  "slug": "hyatt-regency-bangkok-suvarnabhumi-airport",
+  "name": "Hyatt Regency Bangkok Suvarnabhumi Airport",
+  "category_id": "world-of-hyatt",
+  "region_id": "bangkok",
+  "short_description": "A 610-room airport hotel connected to Suvarnabhumi Airport by underground walkway, with a free 24/7 shuttle, swim-up bar, and four restaurants.",
+  "ai_summary": "Hyatt Regency Bangkok Suvarnabhumi Airport connects to the airport terminal via underground walkway, with a free round-the-clock shuttle as a backup. Guests traveling on short layovers or early flights consistently value the convenience, along with the spacious rooms, swim-up and poolside bars, and friendly service. As one of the larger Hyatt properties in the directory at 610 rooms, it trades some of the polish of newer hotels for that airport proximity -- a number of reviews describe the facilities as dated and flag noise and pricing as a poorer match for the property's age than at some newer alternatives.",
+  "core_facts": {
+    "address": "999 Suvarnabhumi Airport Hotel Building, Moo 1, Nong Prue, Bang Phli District, Samut Prakan 10540, Thailand",
+    "brand_sub_brand": "Hyatt Regency",
+    "neighborhood": "Suvarnabhumi Airport",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Connected to Suvarnabhumi Airport via underground walkway, plus a free 24/7 shuttle",
+    "Spacious rooms with views of the airport, a Thai garden, or the outdoor pool",
+    "Swim-up bar and poolside bar",
+    "Four on-site restaurants and a 24-hour gym with fitness classes",
+    "Well suited to short layovers or early-morning flight departures"
+  ],
+  "cons": [
+    "Several reviews describe the facilities and rooms as dated and due for refurbishment",
+    "Some guests find pricing high relative to the age of the property",
+    "A handful of reviews mention noise concerns"
+  ],
+  "research_highlights": [
+    "Guests consistently value the direct airport connectivity and shuttle service for layovers and early flights",
+    "The pool, dining options, and overall amenities are described as comprehensive",
+    "Service generally earns high marks for friendliness and professionalism"
+  ],
+  "research_watchouts": [
+    "Multiple reviews describe rooms and facilities as dated and in need of refurbishment",
+    "Some guests consider pricing high relative to the property's age and condition"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How do I get from Hyatt Regency Bangkok Suvarnabhumi Airport to the terminal?",
+      "answer": "The hotel connects to Suvarnabhumi (BKK) International Airport via an underground walkway, or guests can use the free 24/7 airport shuttle van, which takes about 5 minutes -- making it a practical option for early flights or short layovers."
+    },
+    {
+      "question": "Are the rooms at Hyatt Regency Bangkok Suvarnabhumi Airport modern?",
+      "answer": "Several reviews describe the rooms and facilities as dated compared to newer Bangkok hotels, though they remain spacious with airport, garden, or pool views. Guests weighing this hotel against pricier newer options should factor that trade-off in given the property's age."
+    }
+  ],
+  "tags": ["suvarnabhumi airport", "airport shuttle", "swim-up bar"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/bkkrb-hyatt-regency-bangkok-suvarnabhumi-airport",
+      "label": "Official Hyatt Regency Bangkok Suvarnabhumi Airport page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d614241-Reviews-Hyatt_Regency_Bangkok_Suvarnabhumi_Airport-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/bkkrb-hyatt-regency-bangkok-suvarnabhumi-airport",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-regency-bangkok-sukhumvit", "grand-hyatt-erawan-bangkok"],
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 64 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
