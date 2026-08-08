@@ -1,0 +1,108 @@
+{
+  "entity_id": "hyatt-place-johor-bahru-paradigm-mall",
+  "slug": "hyatt-place-johor-bahru-paradigm-mall",
+  "name": "Hyatt Place Johor Bahru Paradigm Mall",
+  "category_id": "world-of-hyatt",
+  "region_id": "johor-bahru",
+  "short_description": "A 202-room select-service Hyatt Place directly atop Paradigm Mall, opened November 2023, about 20 minutes from Senai International Airport.",
+  "ai_summary": "Hyatt Place Johor Bahru Paradigm Mall sits directly on top of Johor's largest mall, opened in November 2023, about 20 minutes from Senai International Airport and 15 minutes from Johor Premium Outlets and Legoland Malaysia. Guests consistently praise the spacious, clean rooms and the family-friendly convenience of having a mall's shopping and kids' activities right downstairs, with noise well insulated despite the location. As a newer property, a handful of reviews mention weak water pressure, intermittent hot water, and a breakfast buffet leaning on processed items that some guests found underwhelming.",
+  "core_facts": {
+    "address": "Paradigm Mall, Jalan Mewah Ria 2, Taman Bukit Mewah, 81200 Johor Bahru, Malaysia",
+    "brand_sub_brand": "Hyatt Place",
+    "neighborhood": "Skudai / Paradigm Mall",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly connected to Paradigm Mall, Johor's largest shopping centre",
+    "About 20 minutes from Senai International Airport, 15 minutes from Johor Premium Outlets and Legoland Malaysia",
+    "Spacious, clean rooms with a King Suite option up to 92 square metres",
+    "Noise from the mall is well insulated despite the connected location",
+    "Strong choice for families given the mall's kids' activities right downstairs"
+  ],
+  "cons": [
+    "Some guests report weak water pressure and intermittent hot water",
+    "The breakfast buffet leans on processed items (chicken nuggets, ham) that some reviewers found underwhelming",
+    "Housekeeping response times were inconsistent for a few guests"
+  ],
+  "research_highlights": [
+    "Guests describe the rooms as spacious and clean with a convenient mall location",
+    "The hotel is praised as a very good family-friendly option with kid-appealing amenities close by",
+    "Front desk staff are described as attentive and friendly"
+  ],
+  "research_watchouts": [
+    "A dedicated review flags weak water pressure and intermittent hot water as areas needing improvement",
+    "The breakfast buffet's reliance on processed items drew criticism from multiple guests"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Hyatt Place Johor Bahru Paradigm Mall connected to the mall?",
+      "answer": "Yes -- the hotel sits directly on top of Paradigm Mall, Johor's largest shopping centre, giving guests direct access to shopping, dining, and kids' activities without leaving the building, while noise from the mall is well insulated in the rooms."
+    },
+    {
+      "question": "How far is Hyatt Place Johor Bahru Paradigm Mall from the airport?",
+      "answer": "It's about 20 minutes from Senai International Airport, and roughly 15 minutes from Johor Premium Outlets and Legoland Malaysia, making it a practical base for both business travelers and families visiting the area's attractions."
+    }
+  ],
+  "tags": ["paradigm mall", "skudai", "select-service"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-place/en-US/jhbzj-hyatt-place-johor-bahru-paradigm-mall",
+      "label": "Official Hyatt Place Johor Bahru Paradigm Mall page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298278-d26527808-Reviews-Hyatt_Place_Johor_Bahru_Paradigm_Mall-Johor_Bahru_Johor_Bahru_District_Johor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-place/en-US/jhbzj-hyatt-place-johor-bahru-paradigm-mall",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Hyatt Place Johor Bahru Paradigm Mall",
+        "source": "The Shutterwhale",
+        "url": "https://theshutterwhale.com/blog/2024/1/30/hotel-review-hyatt-place-johor-bahru-paradigm-mall-king-bed-with-pool-view-new-modern-hotel-connected-to-paradigm-mall-with-great-shopping-and-food-options",
+        "published_date": "2024-01-30",
+        "summary": "Reviews the then-newly opened hotel after a Globalist upgrade to a King Bed pool-view room, praising the convenient mall connection and decent gym, but flagging weak water pressure, intermittent hot water, and inconsistent housekeeping."
+      }
+    ],
+    "videos": [
+      {
+        "title": "1 King Bed, City View (Hyatt Place Johor Bahru Paradigm Mall) | Hotel Review",
+        "channel": "Wanderful Boys",
+        "url": "https://www.youtube.com/watch?v=_CVcqXS7Z5s",
+        "video_id": "_CVcqXS7Z5s"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 68 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
