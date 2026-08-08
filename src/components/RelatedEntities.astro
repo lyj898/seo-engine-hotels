@@ -6,7 +6,7 @@ const { entities = [], categories = [], heading = 'Related' } = Astro.props;
 {entities.length > 0 && (
   <section>
     <h2 class="mb-4 text-xl font-semibold">{heading}</h2>
-    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {entities.map((entity) => <EntityCard entity={entity} categories={categories} />)}
     </div>
   </section>
