@@ -77,6 +77,33 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["grand-hyatt-singapore", "the-standard-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Andaz Singapore - a characterful city-centre hotel",
+        "source": "Head for Points",
+        "url": "https://www.headforpoints.com/2024/07/03/review-andaz-singapore-a-characterful-city-centre-hotel/",
+        "published_date": "2024-07-03",
+        "summary": "Praises the hotel's distinctive lifestyle design and spacious, thoughtfully laid-out rooms, calling out the rooftop bar and MRT connectivity, with attentive service making it a hotel the reviewer would happily return to."
+      }
+    ],
+    "videos": [
+      {
+        "title": "BEST HOTEL IN SINGAPORE? | Andaz Singapore - a Concept by Hyatt",
+        "channel": "Best Hotel Review Channel",
+        "url": "https://www.youtube.com/watch?v=Eqx_m4R8rNw",
+        "video_id": "Eqx_m4R8rNw",
+        "published_date": "2022-09-24"
+      },
+      {
+        "title": "Singapore 2025 Andaz Singapore, by Hyatt - Room Tour, Pool, and Fitness Room, Great Place to Stay",
+        "channel": "Tom Eats World",
+        "url": "https://www.youtube.com/watch?v=8N5pySzVXYU",
+        "video_id": "8N5pySzVXYU",
+        "published_date": "2025-01-22"
+      }
+    ]
+  },
   "sentiment_scores": {
     "overall": 85,
     "breakdown": [

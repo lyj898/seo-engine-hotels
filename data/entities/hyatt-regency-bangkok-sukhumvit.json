@@ -71,6 +71,25 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["hyatt-place-bangkok-sukhumvit-24", "hyatt-place-bangkok-sukhumvit-1", "grand-hyatt-erawan-bangkok"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "REVIEW: Hyatt Regency Bangkok Sukhumvit",
+        "source": "Daddy Travels Miles & Points",
+        "url": "https://daddytravelsnow.com/2025/02/21/review-hyatt-regency-bangkok/",
+        "published_date": "2025-02-21",
+        "summary": "Calls out strong value for World of Hyatt points redemption, praising the 27th-floor Regency Club lounge, a spacious buffet breakfast, and comfortable city-view rooms as a great option for families and loyalty members."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Why I Keep Coming Back: Hyatt Regency Sukhumvit Bangkok Review & Room Tours",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=3wb_R6HOxVA",
+        "video_id": "3wb_R6HOxVA"
+      }
+    ]
+  },
   "sentiment_scores": {
     "overall": 84,
     "breakdown": [

@@ -73,6 +73,31 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["park-hyatt-bangkok", "hyatt-regency-bangkok-sukhumvit", "andaz-one-bangkok"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Simply Spectacular: Grand Hyatt Bangkok Erawan Review",
+        "source": "Strictly Travel",
+        "url": "https://strictly-travel.com/2024/03/14/simply-spectacular-grand-hyatt-bangkok-erawan-review/",
+        "published_date": "2024-03-14",
+        "summary": "Praises the gorgeous lobby and modern, elegant room design, calling out a corner suite's Nespresso machine and daily fruit platter along with a Grand Club Lounge dining selection the reviewer calls among the best encountered."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Grand Hyatt Bangkok Hotel Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=WsAtlPvA2co",
+        "video_id": "WsAtlPvA2co"
+      },
+      {
+        "title": "GRAND HYATT ERAWAN Bangkok || Hotel Tour || Executive Room + Breakfast",
+        "channel": "GoAnywhere",
+        "url": "https://www.youtube.com/watch?v=EhlCu-gAWdk",
+        "video_id": "EhlCu-gAWdk"
+      }
+    ]
+  },
   "sentiment_scores": {
     "overall": 82,
     "breakdown": [

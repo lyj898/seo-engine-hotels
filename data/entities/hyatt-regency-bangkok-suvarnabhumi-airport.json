@@ -73,6 +73,25 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["hyatt-regency-bangkok-sukhumvit", "grand-hyatt-erawan-bangkok"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Why I Loved Hyatt Regency Bangkok Suvarnabhumi Airport [Review]",
+        "source": "Upgraded Points",
+        "url": "https://upgradedpoints.com/travel/hotels/hyatt-regency-bangkok-suvarnabhumi-airport-review/",
+        "published_date": "2026-06-11",
+        "summary": "Highlights convenient indoor access to the terminal, a tropical pool, and booking with World of Hyatt points from 8,000 per night, calling it an upscale option worth choosing over standard airport lodging despite ongoing renovations."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hyatt Regency Suvarnabhumi Airport Hotel & Breakfast Tour",
+        "channel": "GoAnywhere",
+        "url": "https://www.youtube.com/watch?v=7mO_f75fy-Q",
+        "video_id": "7mO_f75fy-Q"
+      }
+    ]
+  },
   "sentiment_scores": {
     "overall": 74,
     "breakdown": [

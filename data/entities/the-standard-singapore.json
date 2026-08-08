@@ -75,6 +75,32 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["grand-hyatt-singapore", "andaz-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "The Standard Singapore Hotel Review: Style Over Substance?",
+        "source": "Rubbish Eat Rubbish Grow",
+        "url": "https://rubbisheatrubbishgrow.com/2026/04/08/the-standard-singapore-hotel-review/",
+        "published_date": "2026-04-08",
+        "summary": "Rates the hotel 4 of 5, noting rooms trade some practicality for design drama, but praises the excellent bed, strong public spaces, and warm service that keeps the property from feeling pretentious."
+      }
+    ],
+    "videos": [
+      {
+        "title": "The Standard Singapore",
+        "channel": "Follow Us",
+        "url": "https://www.youtube.com/watch?v=J0-3AG9Igkk",
+        "video_id": "J0-3AG9Igkk"
+      },
+      {
+        "title": "The Standard Singapore ✦ Quick Tour & Thoughts ✦ Members Only @tfft",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=aKIK3qjBt_M",
+        "video_id": "aKIK3qjBt_M",
+        "published_date": "2026-01-26"
+      }
+    ]
+  },
   "sentiment_scores": {
     "overall": 82,
     "breakdown": [

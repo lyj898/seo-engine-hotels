@@ -24,6 +24,7 @@
   ],
   "cons": [
     "The walk to the nearest BTS Skytrain station is longer than at Hyatt's other Sukhumvit properties",
+    "A dedicated review flags poor noise isolation between rooms and a lack of universal power outlets",
     "Some guests suggest caution when booking with points rather than cash"
   ],
   "research_highlights": [
@@ -32,7 +33,8 @@
     "The rooftop pool and gym are called out as solid amenities for the category"
   ],
   "research_watchouts": [
-    "Reviewers note the walk to public transport is longer than at other central Sukhumvit hotels"
+    "Reviewers note the walk to public transport is longer than at other central Sukhumvit hotels",
+    "A dedicated review notes poor noise isolation and a lack of universal power outlets in-room"
   ],
   "research_confidence": "medium",
   "research_last_updated": "2026-08-08",
@@ -70,6 +72,33 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["hyatt-place-bangkok-sukhumvit-24", "hyatt-regency-bangkok-sukhumvit"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Hyatt Place Bangkok Sukhumvit 1 (King Bed with Sofa Bed)",
+        "source": "The Shutterwhale",
+        "url": "https://theshutterwhale.com/blog/2025/6/14/hotel-review-hyatt-place-bangkok-sukhumvit-1",
+        "published_date": "2025-06-14",
+        "summary": "Finds the pool area a standout with a staffed bar, but flags poor noise isolation, a lack of universal power outlets, and a tucked-away location -- calling the spacious entry-level rooms reasonable value overall."
+      }
+    ],
+    "videos": [
+      {
+        "title": "NEW Hyatt Place Bangkok Sukhumvit 1 Hotel Review - 1 King Studio and Standard 2 Double - Breakfast",
+        "channel": "Adventures on the Road (CarRentalGuy)",
+        "url": "https://www.youtube.com/watch?v=lltJmcPsZD4",
+        "video_id": "lltJmcPsZD4",
+        "published_date": "2025-02-26"
+      },
+      {
+        "title": "BRAND NEW in BANGKOK! Who is the Hyatt Place Hotel Sukhumvit Good for?",
+        "channel": "Balloon Chaser",
+        "url": "https://www.youtube.com/watch?v=_XLjWMch-3A",
+        "video_id": "_XLjWMch-3A",
+        "published_date": "2025-01-25"
+      }
+    ]
+  },
   "sentiment_scores": {
     "overall": 82,
     "breakdown": [
