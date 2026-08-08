@@ -1,0 +1,86 @@
+{
+  "entity_id": "hyatt-place-bangkok-sukhumvit-1",
+  "slug": "hyatt-place-bangkok-sukhumvit-1",
+  "name": "Hyatt Place Bangkok Sukhumvit 1",
+  "category_id": "world-of-hyatt",
+  "region_id": "bangkok",
+  "short_description": "A 145-room select-service Hyatt Place a few steps from Bumrungrad International Hospital, with a rooftop pool and 24-hour gym.",
+  "ai_summary": "Hyatt Place Bangkok Sukhumvit 1 sits just steps from Bumrungrad International Hospital, making it a popular choice for medical travelers as well as anyone wanting a quieter stretch of Sukhumvit near Pratunam Market. The 145-room select-service hotel draws consistent praise for cleanliness, helpful staff, and its rooftop pool, with guests calling the rooms spacious and well-appointed for the category. The main trade-off is that the nearest BTS station is a longer walk than at Hyatt's other Sukhumvit properties, so guests without a car should plan on more walking or taxis for trips further afield.",
+  "core_facts": {
+    "address": "78 Sukhumvit Soi 1, Khlong Toei Nuea, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Hyatt Place",
+    "neighborhood": "Sukhumvit Soi 1 / Bumrungrad",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "A few steps from Bumrungrad International Hospital, convenient for medical travelers",
+    "Guests repeatedly praise cleanliness and helpful, attentive staff",
+    "Rooftop outdoor pool and 24-hour fitness centre",
+    "Spacious rooms for a select-service hotel, including King Suites with a separate living room and kitchenette"
+  ],
+  "cons": [
+    "The walk to the nearest BTS Skytrain station is longer than at Hyatt's other Sukhumvit properties",
+    "Some guests suggest caution when booking with points rather than cash"
+  ],
+  "research_highlights": [
+    "Guests praise the hotel's proximity to Bumrungrad Hospital and describe staff as very helpful",
+    "Cleanliness and room comfort draw consistent positive comment",
+    "The rooftop pool and gym are called out as solid amenities for the category"
+  ],
+  "research_watchouts": [
+    "Reviewers note the walk to public transport is longer than at other central Sukhumvit hotels"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Hyatt Place Bangkok Sukhumvit 1 close to Bumrungrad Hospital?",
+      "answer": "Yes -- it's just a few steps from Bumrungrad International Hospital, which makes it a popular base for medical travelers and their families, in addition to its Sukhumvit Soi 1 location near Pratunam Market."
+    },
+    {
+      "question": "Is Hyatt Place Bangkok Sukhumvit 1 near the BTS Skytrain?",
+      "answer": "It's within the wider Sukhumvit area but the walk to the nearest BTS station is longer than at Hyatt's other Sukhumvit properties, so guests planning to rely heavily on the Skytrain should factor in more walking or occasional taxis."
+    }
+  ],
+  "tags": ["bumrungrad hospital", "sukhumvit soi 1", "select-service"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-place/en-US/bkkzk-hyatt-place-bangkok-sukhumvit1",
+      "label": "Official Hyatt Place Bangkok Sukhumvit 1 page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d31918885-Reviews-Hyatt_Place_Bangkok_Sukhumvit_1-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-place/en-US/bkkzk-hyatt-place-bangkok-sukhumvit1",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-place-bangkok-sukhumvit-24", "hyatt-regency-bangkok-sukhumvit"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

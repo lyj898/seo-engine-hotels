@@ -1,0 +1,76 @@
+{
+  "entity_id": "andaz-one-bangkok",
+  "slug": "andaz-one-bangkok",
+  "name": "Andaz One Bangkok, by Hyatt",
+  "category_id": "world-of-hyatt",
+  "region_id": "bangkok",
+  "short_description": "A 244-room Andaz that opened December 2025 inside the One Bangkok complex on Wireless Road, with most rooms overlooking Lumphini Park.",
+  "ai_summary": "Andaz One Bangkok opened in December 2025 inside the sprawling One Bangkok development on Wireless Road, at the corner of Rama IV Road with Lumphini MRT station at its doorstep. Around 80% of its 244 rooms overlook Lumphini Park, and early guest accounts describe immaculate, attentive service, an extensive breakfast spread, and one of the more comfortable hotel beds guests have slept in. As a newly opened property, it doesn't yet have the long review history of Bangkok's established Hyatt hotels, so its track record is still building.",
+  "core_facts": {
+    "address": "201 Wireless Road, Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Andaz",
+    "neighborhood": "Wireless Road / Lumphini (One Bangkok)",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Lumphini MRT station at the doorstep, inside the new One Bangkok mega-development",
+    "Around 80% of rooms overlook Lumphini Park",
+    "Early reviews describe immaculate, attentive service and a knowledgeable concierge team",
+    "Extensive breakfast with both a la carte and buffet options",
+    "Infinity pool with park views and BYREDO bath amenities in every room"
+  ],
+  "cons": [
+    "Opened December 2025, so it has a shorter guest-review track record than Bangkok's established Hyatt properties"
+  ],
+  "research_highlights": [
+    "Early guests describe the service as immaculate, with a courteous and knowledgeable concierge team",
+    "The pool view over Lumphini Park and the room beds draw specific early praise",
+    "Breakfast is described as extensive, with both a la carte and buffet seating on the terrace"
+  ],
+  "research_watchouts": [
+    "As a hotel that opened in December 2025, there isn't yet the volume of guest reviews that Bangkok's longer-running Hyatt properties have"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "When did Andaz One Bangkok open?",
+      "answer": "It opened in December 2025 inside the One Bangkok mega-development on Wireless Road, making it one of the newest Hyatt-family hotels in the city, with a shorter guest-review history than Bangkok's established Hyatt properties."
+    },
+    {
+      "question": "Do the rooms at Andaz One Bangkok have park views?",
+      "answer": "About 80% of the hotel's 244 rooms overlook Lumphini Park, Bangkok's largest central green space, which sits directly across Rama IV Road from the hotel. Guests booking a park-view category can expect uninterrupted green views rather than the city or construction views more common at other Wireless Road hotels."
+    }
+  ],
+  "tags": ["one bangkok", "lumphini park", "newly opened"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/andaz/en-US/bkkaz-andaz-one-bangkok",
+      "label": "Official Andaz One Bangkok page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d34013042-Reviews-Andaz_One_Bangkok_by_Hyatt-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/andaz/en-US/bkkaz-andaz-one-bangkok",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["park-hyatt-bangkok", "grand-hyatt-erawan-bangkok"],
+  "reliability_score": 55,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
