@@ -1,0 +1,98 @@
+{
+  "entity_id": "sofitel-krabi-phokeethra-golf-spa-resort",
+  "slug": "sofitel-krabi-phokeethra-golf-spa-resort",
+  "name": "Sofitel Krabi Phokeethra Golf & Spa Resort",
+  "category_id": "accor-all",
+  "region_id": "krabi",
+  "short_description": "A 276-room colonial-style beach resort on Klong Muang Beach with Thailand's largest lagoon swimming pool in Krabi, a 9-hole golf course, and a spa.",
+  "ai_summary": "Sofitel Krabi Phokeethra Golf & Spa Resort sits on Klong Muang Beach near Ao Nang, a minute's walk from the golden sand, with 276 rooms and suites all featuring a balcony or terrace framing jungle, limestone-cliff, or sea views. The colonial-style resort centers on the largest lagoon swimming pool in Krabi, alongside a 9-hole golf course, a spacious gym, a spa, and restaurants serving Thai, Italian, and Indian cuisine, plus luxury speedboat tours to nearby islands. Guests consistently praise the warm, attentive service, expansive pool grounds, and diverse dining, though a subset feel the pricing runs high relative to the value.",
+  "core_facts": {
+    "address": "Klong Muang Beach, Nong Thale, Krabi Town, Krabi 81000, Thailand",
+    "brand_sub_brand": "Sofitel",
+    "neighborhood": "Klong Muang Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "276 rooms and suites with balconies or terraces on Klong Muang Beach",
+    "Largest lagoon swimming pool in Krabi, plus a 9-hole golf course",
+    "Spa, spacious gym, and restaurants serving Thai, Italian, and Indian cuisine",
+    "A minute's walk from the beach, with luxury speedboat tours to nearby islands",
+    "Guests consistently praise warm, attentive service and the expansive pool grounds"
+  ],
+  "cons": [
+    "Some travelers find the pricing high relative to comparable Krabi resorts",
+    "The Klong Muang Beach setting sits a drive from central Ao Nang's restaurants and nightlife"
+  ],
+  "research_highlights": [
+    "The lagoon pool and beachfront setting are called standout features",
+    "Dining variety across Thai, Italian, and Indian restaurants draws consistent praise",
+    "Kid-friendly amenities are repeatedly highlighted by traveling families"
+  ],
+  "research_watchouts": [
+    "A subset of guests find the resort's pricing high for the value delivered"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Sofitel Krabi Phokeethra Golf & Spa Resort on the beach?",
+      "answer": "Yes -- it's on Klong Muang Beach near Ao Nang, about a minute's walk from the sand, with rooms offering jungle, limestone-cliff, or sea views."
+    },
+    {
+      "question": "Does Sofitel Krabi Phokeethra have a golf course?",
+      "answer": "Yes -- a 9-hole golf course is part of the resort's grounds, alongside the largest lagoon swimming pool in Krabi and a full-service spa."
+    }
+  ],
+  "tags": ["klong muang beach", "lagoon pool", "golf resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6184/index.en.shtml",
+      "label": "Official Sofitel Krabi Phokeethra Golf & Spa Resort page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g3175953-d622637-Reviews-Sofitel_Krabi_Phokeethra_Golf_Spa_Resort-Nong_Thale_Krabi_Town_Krabi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6184/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-krabi-ao-nang", "ibis-styles-krabi-ao-nang"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Sofitel Krabi Phokeethra Golf & Spa Resort Tour and Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=oF7eqcIKEKk",
+        "video_id": "oF7eqcIKEKk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

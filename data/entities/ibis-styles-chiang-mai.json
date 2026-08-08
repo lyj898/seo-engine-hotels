@@ -1,0 +1,98 @@
+{
+  "entity_id": "ibis-styles-chiang-mai",
+  "slug": "ibis-styles-chiang-mai",
+  "name": "ibis Styles Chiang Mai",
+  "category_id": "accor-all",
+  "region_id": "chiang-mai",
+  "short_description": "A 208-room hotel at the Huay Kaew Road junction, a 10-minute walk from MAYA Shopping Mall, with an infinity pool framed by mountain views.",
+  "ai_summary": "ibis Styles Chiang Mai sits at a major junction on Huay Kaew Road, running from the moat's northwest corner up to Chiang Mai University, about a 10-minute stroll from MAYA Shopping Mall and Nimman Road. The 208 rooms come with contemporary design, and the hotel's infinity pool has a mountain-view backdrop. Guests consistently praise the comfortable beds, strong shower pressure, and varied Thai/Western breakfast, though a subset report noise from nearby traffic and passing aircraft.",
+  "core_facts": {
+    "address": "7/9 Moo 1, Kanklong Cholprathan Road, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Huay Kaew Junction",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "208 rooms at the Huay Kaew Road junction, near Chiang Mai University",
+    "About a 10-minute walk from MAYA Shopping Mall and Nimman Road",
+    "Infinity pool with a mountain-view backdrop",
+    "Guests consistently praise comfortable beds and shower pressure",
+    "Breakfast offers a wide choice of Thai and Western dishes"
+  ],
+  "cons": [
+    "A subset of reviews report noise from traffic and passing aircraft",
+    "Some guests report confusion around whether breakfast is included in the room rate"
+  ],
+  "research_highlights": [
+    "The infinity pool and mountain views are called a standout feature for the price point",
+    "Breakfast variety draws consistent praise",
+    "The walk to MAYA Mall and Nimman Road is highlighted as convenient"
+  ],
+  "research_watchouts": [
+    "Traffic and occasional aircraft noise are mentioned by a number of guests"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Chiang Mai close to Nimman Road?",
+      "answer": "Yes -- it's about a 10-minute walk from both MAYA Shopping Mall and Nimman Road, at the Huay Kaew Road junction near Chiang Mai University."
+    },
+    {
+      "question": "Does ibis Styles Chiang Mai have a pool with a view?",
+      "answer": "Yes -- an infinity pool with a mountain-view backdrop is one of the hotel's standout features, alongside a wide Thai and Western breakfast selection."
+    }
+  ],
+  "tags": ["huay kaew", "infinity pool", "budget-friendly"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8108/index.en.shtml",
+      "label": "Official ibis Styles Chiang Mai page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293917-d2151312-Reviews-Ibis_Styles_Chiang_Mai-Chiang_Mai.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8108/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-suriwongse-hotel-chiang-mai", "novotel-chiang-mai-nimman-journeyhub", "mercure-chiang-mai"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Chiang Mai Thailand Hotel: my stay Ibis Styles hotel Review",
+        "channel": "Bali by Gary",
+        "url": "https://www.youtube.com/watch?v=JQ6v3TVHj0s",
+        "video_id": "JQ6v3TVHj0s"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

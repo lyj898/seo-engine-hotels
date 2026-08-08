@@ -1,0 +1,98 @@
+{
+  "entity_id": "mercure-samui-chaweng-tana",
+  "slug": "mercure-samui-chaweng-tana",
+  "name": "Mercure Samui Chaweng Tana",
+  "category_id": "accor-all",
+  "region_id": "ko-samui",
+  "short_description": "A two-building hotel on Chaweng Beach Road with a Beachfront Deluxe Building and a City Building, a 2-minute walk to Chaweng Beach.",
+  "ai_summary": "Mercure Samui Chaweng Tana is split across two buildings on Chaweng Beach Road -- the Beachfront Deluxe Building and the Original Standard City Building -- separated by the road itself, with Chaweng Beach just a two-minute walk away and Samui International Airport about 1.9 miles from the hotel. Rooms feature air-conditioning, balconies, and sea views in the beachfront wing, with modern amenities including flat-screen TVs and mini-bars throughout. Guests consistently praise the beachfront proximity, comfort, and cleanliness, describing the hotel as an unexpected oasis with strong value for its Chaweng Beach location.",
+  "core_facts": {
+    "address": "Chaweng Beach Road, Bophut, Ko Samui, Surat Thani 84320, Thailand",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Chaweng Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Two-minute walk to Chaweng Beach from the Beachfront Deluxe Building",
+    "Split across a Beachfront Deluxe Building and a City Building with distinct room styles",
+    "Rooms with balconies and sea views in the beachfront wing",
+    "About 1.9 miles from Samui International Airport",
+    "Guests consistently praise beachfront proximity, comfort, and cleanliness"
+  ],
+  "cons": [
+    "The City Building sits across the road from the beachfront wing, so room location matters when booking",
+    "As a split-property hotel, amenities differ somewhat between the two buildings"
+  ],
+  "research_highlights": [
+    "The short walk to Chaweng Beach draws consistent praise",
+    "Room comfort and cleanliness are repeatedly highlighted",
+    "Guests call it strong value for a Chaweng Beach location"
+  ],
+  "research_watchouts": [
+    "Worth confirming which building -- beachfront or city-side -- a booking is assigned to"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Mercure Samui Chaweng Tana on the beach?",
+      "answer": "The Beachfront Deluxe Building is about a two-minute walk from Chaweng Beach; the hotel also has a separate Original Standard City Building across the road, so it's worth confirming which building a booking is in."
+    },
+    {
+      "question": "How far is Mercure Samui Chaweng Tana from the airport?",
+      "answer": "Samui International Airport is about 1.9 miles from the hotel, making it a short drive from Chaweng Beach."
+    }
+  ],
+  "tags": ["chaweng beach", "two buildings", "beachfront"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8502/index.en.shtml",
+      "label": "Official Mercure Samui Chaweng Tana page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g676072-d2010605-Reviews-Mercure_Samui_Chaweng_Tana-Chaweng_Bophut_Ko_Samui_Surat_Thani_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8502/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-samui-bophut"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Samui Chaweng beach",
+        "channel": "Step my route",
+        "url": "https://www.youtube.com/watch?v=nlG2qIlD2Dk",
+        "video_id": "nlG2qIlD2Dk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

@@ -1,0 +1,98 @@
+{
+  "entity_id": "ibis-styles-krabi-ao-nang",
+  "slug": "ibis-styles-krabi-ao-nang",
+  "name": "ibis Styles Krabi Ao Nang",
+  "category_id": "accor-all",
+  "region_id": "krabi",
+  "short_description": "A 206-room hotel about 1km from Ao Nang Beach with free hourly shuttle service, views of Krabi's limestone karsts, and a kids' pool with playground.",
+  "ai_summary": "ibis Styles Krabi Ao Nang offers 206 contemporary rooms with views of Krabi's limestone karsts, about 1km -- a 15-minute walk or 5-minute drive -- from Ao Nang Beach, with a free hourly shuttle service to and from the sand. The Cliff Cafe and Restaurant serves all meals including a free breakfast buffet, and the outdoor pool has a dedicated kids' pool and playground alongside a tour desk for arranging excursions. Guests consistently describe the rooms as sharp and contemporary, with the free shuttle and family-friendly pool area drawing repeated praise.",
+  "core_facts": {
+    "address": "725, Ao Nang, Mueang Krabi District, Krabi 81180, Thailand",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Ao Nang",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "206 rooms with limestone karst views, about 1km from Ao Nang Beach",
+    "Free hourly shuttle service to and from the beach",
+    "Kids' pool with playground alongside the main outdoor pool",
+    "Cliff Cafe and Restaurant with a free breakfast buffet",
+    "Guests consistently describe the contemporary rooms and family-friendly setup positively"
+  ],
+  "cons": [
+    "Not directly on the beach -- reaching the sand requires the shuttle, a 15-minute walk, or a 5-minute drive",
+    "As a mid-range hotel, dining options are more limited than resort-style Ao Nang properties"
+  ],
+  "research_highlights": [
+    "The free hourly beach shuttle is repeatedly called a convenient perk",
+    "The kids' pool and playground draw consistent praise from families",
+    "Room design -- neutral tones with bright accent colors -- is highlighted as fresh and contemporary"
+  ],
+  "research_watchouts": [
+    "The 1km distance from the beach is worth planning around without the shuttle"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Krabi Ao Nang on the beach?",
+      "answer": "It's about 1km from Ao Nang Beach -- a 15-minute walk or 5-minute drive -- but the hotel runs a free hourly shuttle service to and from the sand."
+    },
+    {
+      "question": "Is ibis Styles Krabi Ao Nang good for families?",
+      "answer": "Yes -- a dedicated kids' pool with playground sits alongside the main outdoor pool, and the Cliff Cafe and Restaurant serves a free breakfast buffet with familiar hot and cold options."
+    }
+  ],
+  "tags": ["ao nang", "limestone karsts", "family-friendly"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7020/index.en.shtml",
+      "label": "Official ibis Styles Krabi Ao Nang page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1507054-d6835176-Reviews-Ibis_Styles_Krabi_Ao_Nang-Ao_Nang_Krabi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7020/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-krabi-phokeethra-golf-spa-resort", "grand-mercure-krabi-ao-nang"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Ibis Styles Krabi Ao Nang Review: Family Room",
+        "channel": "Hotelhoppers",
+        "url": "https://www.youtube.com/watch?v=AwjEn3yM2LY",
+        "video_id": "AwjEn3yM2LY"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
