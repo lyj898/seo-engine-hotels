@@ -1,0 +1,98 @@
+{
+  "entity_id": "ibis-samui-bophut",
+  "slug": "ibis-samui-bophut",
+  "name": "ibis Samui Bophut",
+  "category_id": "accor-all",
+  "region_id": "ko-samui",
+  "short_description": "A 209-room beachfront hotel directly on Bophut Beach, close to Fisherman's Village, with three pools and direct beach access.",
+  "ai_summary": "ibis Samui Bophut sits directly on Bophut Beach on Koh Samui's north shore, close to the shops and restaurants of Fisherman's Village. The 209 modern rooms include standard twins, doubles, sea-view queens, family connecting rooms, and suites, and the hotel offers direct beach access alongside three pools and a tropical garden setting. Guests consistently praise the clean, recently refurbished rooms, friendly staff, and good-value dining, with the beachfront location and proximity to Fisherman's Village drawing repeated praise.",
+  "core_facts": {
+    "address": "197 Moo 1, Bophut Beach, Koh Samui, Surat Thani 84320, Thailand",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Bophut Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "209 rooms directly on Bophut Beach with direct beach access",
+    "Close to the shops and restaurants of Fisherman's Village",
+    "Three pools set within a tropical garden",
+    "Recently refurbished, clean, nicely decorated rooms",
+    "Guests consistently praise friendly staff and good-value dining"
+  ],
+  "cons": [
+    "As a budget-styled beachfront hotel, room sizes are more compact than upscale Samui resorts",
+    "A minority of older reviews (pre-refurbishment) note dated finishes"
+  ],
+  "research_highlights": [
+    "The beachfront location and proximity to Fisherman's Village draw consistent praise",
+    "Guests repeatedly note the recent refurbishment improved room quality",
+    "Value for money is a recurring theme in reviews"
+  ],
+  "research_watchouts": [
+    "A minority of older reviews predate the refurbishment and note dated rooms"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is ibis Samui Bophut on the beach?",
+      "answer": "Yes -- it sits directly on Bophut Beach on Koh Samui's north shore, with direct beach access and three pools set in a tropical garden."
+    },
+    {
+      "question": "Is ibis Samui Bophut close to Fisherman's Village?",
+      "answer": "Yes -- it's close to the shops, restaurants, and night market of Fisherman's Village, one of Koh Samui's most popular dining and shopping strips."
+    }
+  ],
+  "tags": ["bophut beach", "fisherman's village", "beachfront"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6688/index.en.shtml",
+      "label": "Official ibis Samui Bophut page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1179396-d1173793-Reviews-Ibis_Samui_Bophut-Bophut_Ko_Samui_Surat_Thani_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6688/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-samui-chaweng-tana"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "ibis Samui Bophut | Koh Samui, Thailand | Hotel Review",
+        "channel": "Best Thai Hotels",
+        "url": "https://www.youtube.com/watch?v=1shRn5RXFfA",
+        "video_id": "1shRn5RXFfA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

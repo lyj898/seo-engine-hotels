@@ -1,0 +1,98 @@
+{
+  "entity_id": "mercure-chiang-mai",
+  "slug": "mercure-chiang-mai",
+  "name": "Mercure Chiang Mai",
+  "category_id": "accor-all",
+  "region_id": "chiang-mai",
+  "short_description": "A hotel on Changphuak Road about 0.9 miles from the Old City center, with spacious rooms, a swimming pool, and a 5-10 minute walk to the old town area.",
+  "ai_summary": "Mercure Chiang Mai sits on Changphuak Road in the outer Old City area, roughly 0.9 miles -- a 5-10 minute walk -- from the center of Chiang Mai's Old City, near Chiang Mai Rajabhat University. The hotel offers spacious, clean rooms with large beds, a swimming pool, and a spacious breakfast room with decent variety. Guests consistently praise the comfortable beds, friendly staff, and pool, with the location valued for straddling both the Old City and, further out, the Nimman district.",
+  "core_facts": {
+    "address": "183 Changphuak Road, Si Phum, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Outer Old City",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About a 5-10 minute walk from Chiang Mai's Old City center",
+    "Spacious, clean rooms with large beds",
+    "Swimming pool on-site",
+    "Spacious breakfast room with a decent variety of options",
+    "Guests consistently praise comfortable beds and friendly staff"
+  ],
+  "cons": [
+    "Sits in the outer Old City area rather than directly inside the moat walls",
+    "As a mid-scale hotel, amenities are more limited than upscale Chiang Mai properties"
+  ],
+  "research_highlights": [
+    "Bed comfort and room spaciousness draw consistent praise",
+    "The swimming pool is repeatedly called a nice-to-have for the price point",
+    "Staff friendliness is highlighted often"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How far is Mercure Chiang Mai from the Old City?",
+      "answer": "It's about 0.9 miles from the center of Chiang Mai's Old City, a 5-10 minute walk, on Changphuak Road near Chiang Mai Rajabhat University."
+    },
+    {
+      "question": "Does Mercure Chiang Mai have a pool?",
+      "answer": "Yes -- a swimming pool is on-site, alongside spacious rooms with large beds and a breakfast room with a decent variety of Thai and Western options."
+    }
+  ],
+  "tags": ["old city", "changphuak road", "swimming pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/1797/index.en.shtml",
+      "label": "Official Mercure Chiang Mai page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293917-d299561-Reviews-Mercure_Chiang_Mai-Chiang_Mai.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/1797/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-suriwongse-hotel-chiang-mai", "novotel-chiang-mai-nimman-journeyhub", "ibis-styles-chiang-mai"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Chiang Mai Hotel Review – Spacious Rooms, Great Location & Excellent Value",
+        "channel": "Crash Course Hotels",
+        "url": "https://www.youtube.com/watch?v=BKL4cVwk09U",
+        "video_id": "BKL4cVwk09U"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

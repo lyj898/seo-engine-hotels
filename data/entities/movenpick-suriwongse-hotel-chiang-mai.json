@@ -1,0 +1,98 @@
+{
+  "entity_id": "movenpick-suriwongse-hotel-chiang-mai",
+  "slug": "movenpick-suriwongse-hotel-chiang-mai",
+  "name": "Movenpick Suriwongse Hotel Chiang Mai",
+  "category_id": "accor-all",
+  "region_id": "chiang-mai",
+  "short_description": "A 262-room hotel on Chang Khlan Road, steps from the Night Bazaar and a 12-minute walk from Tha Phae Gate, with Movenpick's signature dining culture.",
+  "ai_summary": "Movenpick Suriwongse Hotel Chiang Mai occupies a central position on Chang Khlan Road, steps from the Night Bazaar and about a 12-minute walk from the Old City's Tha Phae Gate. The 262-room hotel blends contemporary comfort with traditional Lanna touches, backed by Movenpick's signature dining culture and a full-service spa and outdoor pool. Guests consistently praise the polite, attentive staff and the variety of the breakfast buffet, including an egg station, alongside the highly central location for exploring both the Old City and the Night Bazaar.",
+  "core_facts": {
+    "address": "110 Chang Khlan Road, Chang Khlan, Chiang Mai 50100, Thailand",
+    "brand_sub_brand": "Movenpick",
+    "neighborhood": "Chang Khlan / Night Bazaar",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "262 rooms on Chang Khlan Road, steps from the Night Bazaar",
+    "About a 12-minute walk from the Old City's Tha Phae Gate",
+    "Full-service spa and outdoor pool",
+    "Movenpick's signature dining culture across the hotel's restaurants",
+    "Guests consistently praise polite, attentive staff and breakfast variety"
+  ],
+  "cons": [
+    "As a large business-oriented hotel, the atmosphere leans more corporate than boutique",
+    "The Night Bazaar area can be busy and touristic in the evenings"
+  ],
+  "research_highlights": [
+    "The central Chang Khlan location near the Night Bazaar draws consistent praise",
+    "The breakfast buffet's variety, including an egg station, is repeatedly highlighted",
+    "Staff attentiveness is called a genuine strength"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Movenpick Suriwongse Hotel Chiang Mai close to the Night Bazaar?",
+      "answer": "Yes -- it's on Chang Khlan Road, steps from the Chiang Mai Night Bazaar, and about a 12-minute walk from the Old City's Tha Phae Gate."
+    },
+    {
+      "question": "Does Movenpick Suriwongse Hotel Chiang Mai have a spa?",
+      "answer": "Yes -- a full-service spa and an outdoor pool round out the amenities, alongside Movenpick's signature dining culture across the hotel's restaurants."
+    }
+  ],
+  "tags": ["chang khlan", "night bazaar", "central location"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4K0/index.en.shtml",
+      "label": "Official Movenpick Suriwongse Hotel Chiang Mai page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293917-d447393-Reviews-Movenpick_Suriwongse_Chiang_Mai-Chiang_Mai.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B4K0/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-chiang-mai-nimman-journeyhub", "mercure-chiang-mai", "ibis-styles-chiang-mai"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mövenpick Suriwongse Hotel Chiang Mai | Full Tour",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=xpJkF9C7i90",
+        "video_id": "xpJkF9C7i90"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

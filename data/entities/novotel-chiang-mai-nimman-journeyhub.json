@@ -1,0 +1,99 @@
+{
+  "entity_id": "novotel-chiang-mai-nimman-journeyhub",
+  "slug": "novotel-chiang-mai-nimman-journeyhub",
+  "name": "Novotel Chiang Mai Nimman Journeyhub",
+  "category_id": "accor-all",
+  "region_id": "chiang-mai",
+  "short_description": "A 202-room hotel on Huay Kaew Road, a 5-minute walk from MAYA Lifestyle Shopping Mall in the trendy Nimman district.",
+  "ai_summary": "Novotel Chiang Mai Nimman Journeyhub sits on Huay Kaew Road at the edge of the Nimman district, about 500 meters -- a five-minute walk -- from MAYA Lifestyle Shopping Mall. The 202 rooms come with premium bedding, safes, and city or balcony views, alongside an outdoor pool, bar, a restaurant serving Thai and international cuisine, a fitness center, and meeting facilities. Guests consistently praise room cleanliness and the convenient walk to Maya and nearby food outlets, along with helpful staff, though a subset note soundproofing issues with noise from neighboring rooms and a nearby pub.",
+  "core_facts": {
+    "address": "7/77 Moo 2, Huay Kaew Road, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Nimman / Huay Kaew",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "202 rooms on Huay Kaew Road, a 5-minute walk from MAYA Lifestyle Shopping Mall",
+    "Outdoor pool, bar, gourmet bar, and a Thai/international restaurant",
+    "Fitness center and meeting facilities",
+    "Guests consistently praise room cleanliness and helpful front desk staff",
+    "Central Nimman-adjacent location within reach of dining and shopping"
+  ],
+  "cons": [
+    "A subset of reviews note poor soundproofing, with noise from adjacent rooms and a nearby pub",
+    "Some guests feel certain finishes fall short of a full 4-star standard"
+  ],
+  "research_highlights": [
+    "The walk to MAYA Lifestyle Shopping Mall and nearby food outlets is called highly convenient",
+    "Room cleanliness draws consistent praise",
+    "Staff, including specific front-desk team members, are repeatedly highlighted for helpfulness"
+  ],
+  "research_watchouts": [
+    "A subset of guests report noise from adjacent rooms and a nearby pub at night"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Chiang Mai Nimman Journeyhub close to MAYA Mall?",
+      "answer": "Yes -- it's about a five-minute, 500-meter walk from MAYA Lifestyle Shopping Mall, on Huay Kaew Road at the edge of the Nimman district."
+    },
+    {
+      "question": "Is Novotel Chiang Mai Nimman Journeyhub noisy?",
+      "answer": "Most guests report a comfortable stay, but a subset note soundproofing issues, with conversations from adjacent rooms and noise from a nearby pub audible at night."
+    }
+  ],
+  "tags": ["nimman", "huay kaew", "maya mall"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4F8/index.en.shtml",
+      "label": "Official Novotel Chiang Mai Nimman Journeyhub page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293917-d16882434-Reviews-Novotel_Chiangmai_Nimman_Journeyhub_Hotel-Chiang_Mai.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B4F8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-suriwongse-hotel-chiang-mai", "mercure-chiang-mai", "ibis-styles-chiang-mai"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Chiang Mai Nimman Journeyhub | Full Tour",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=q2QFiWoUcnk",
+        "video_id": "q2QFiWoUcnk",
+        "published_date": "2024-11-15"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

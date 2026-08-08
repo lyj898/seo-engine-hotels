@@ -1,0 +1,99 @@
+{
+  "entity_id": "novotel-rayong-rim-pae-resort",
+  "slug": "novotel-rayong-rim-pae-resort",
+  "name": "Novotel Rayong Rim Pae Resort",
+  "category_id": "accor-all",
+  "region_id": "rayong",
+  "short_description": "A 185-room beachfront resort in Klaeng, Rayong -- Thailand's first-ever Accor beachfront resort -- with two outdoor pools, an indoor jacuzzi, and a Kids Club.",
+  "ai_summary": "Novotel Rayong Rim Pae Resort sits on the beach in Klaeng, Rayong province, recognized as Thailand's first-ever Accor beachfront resort. The 185 rooms span Superior, Deluxe, and Premier Garden View categories with private balconies, and the resort offers two outdoor pools, a kids' pool, an indoor jacuzzi, the Aquas Spa, a fitness room, water sports, and a Kids Club. Guests consistently praise the beachfront setting and recently renovated suites, with the resort valued as a quieter, self-contained alternative to Rayong's busier city hotels.",
+  "core_facts": {
+    "address": "4/5, 4/48 Moo 3, Pae Klaeng Kram Road, Chark Pong, Klaeng, Rayong 21190, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Klaeng Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "185 rooms with private balconies, recognized as Thailand's first-ever Accor beachfront resort",
+    "Two outdoor pools, a kids' pool, and an indoor jacuzzi",
+    "Aquas Spa, fitness room, and water sports on-site",
+    "Kids Club suits family stays",
+    "Guests consistently praise the beachfront setting and renovated suites"
+  ],
+  "cons": [
+    "The Klaeng beachfront setting sits apart from central Rayong city",
+    "As a resort-style property, exploring beyond the grounds requires transport"
+  ],
+  "research_highlights": [
+    "The beachfront location is called a defining strength for the resort",
+    "Recently renovated suites, including the Superior King Suite, draw consistent praise",
+    "Family amenities, including the Kids Club and water sports, are repeatedly highlighted"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Rayong Rim Pae Resort on the beach?",
+      "answer": "Yes -- it's recognized as Thailand's first-ever Accor beachfront resort, sitting directly on the beach in Klaeng, Rayong province."
+    },
+    {
+      "question": "Is Novotel Rayong Rim Pae Resort good for families?",
+      "answer": "Yes -- a Kids Club, a dedicated kids' pool, and water sports round out the amenities alongside two outdoor pools, an indoor jacuzzi, and the Aquas Spa."
+    }
+  ],
+  "tags": ["klaeng", "beachfront resort", "kids club"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/1130/index.en.shtml",
+      "label": "Official Novotel Rayong Rim Pae Resort page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2154276-d299547-Reviews-Novotel_Rayong_Rim_Pae_Resort-Klaeng_Rayong_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/1130/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Ocean Suite Hidden Gem | Novotel Rayong Rim Pae Resort Full Tour | Beachfront Thailand Escape",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=X6p8hOowcl0",
+        "video_id": "X6p8hOowcl0",
+        "published_date": "2025-07-01"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
