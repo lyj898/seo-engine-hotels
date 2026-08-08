@@ -4,7 +4,7 @@
   "label": "Marriott Bonvoy",
   "short_description": "Reviews of Marriott Bonvoy hotels across Southeast Asia, from Ritz-Carlton to Courtyard.",
   "intro": "Marriott Bonvoy is Marriott International's loyalty program, spanning roughly 30 hotel brands from ultra-luxury (The Ritz-Carlton, St. Regis, W Hotels) through premium (JW Marriott, Marriott Hotels, Westin, Sheraton) to select-service and longer-stay options (Courtyard, Four Points, Fairfield). Elite status tiers -- Silver, Gold, Platinum, Titanium, and Ambassador -- unlock benefits like room upgrades, lounge access, and free breakfast, but exactly which perks a given hotel actually delivers varies a lot by property and brand tier. This directory tracks that property-by-property reality rather than the program's general terms.",
-  "related_category_ids": [],
+  "related_category_ids": ["world-of-hyatt"],
   "faqs": [
     {
       "question": "Does every Marriott Bonvoy hotel offer the same elite benefits?",
@@ -16,6 +16,6 @@
     }
   ],
   "badgeVariant": "neutral",
-  "last_updated": "2026-07-31",
+  "last_updated": "2026-08-08",
   "status": "active"
 }
