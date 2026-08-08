@@ -1,0 +1,99 @@
+{
+  "entity_id": "sofitel-angkor-phokeethra-golf-and-spa-resort",
+  "slug": "sofitel-angkor-phokeethra-golf-and-spa-resort",
+  "name": "Sofitel Angkor Phokeethra Golf and Spa Resort",
+  "category_id": "accor-all",
+  "region_id": "siem-reap",
+  "short_description": "A 238-room resort on Charles de Gaulle Avenue, the closest Siem Reap hotel to Angkor Wat, with the city's largest free-form pool and an 18-hole golf course.",
+  "ai_summary": "Sofitel Angkor Phokeethra Golf and Spa Resort sits in landscaped gardens on Charles de Gaulle Avenue, positioned as the closest Siem Reap hotel to the ruins of Angkor Wat. The 238-room resort features Siem Reap's largest free-form pool, five food and beverage outlets including the acclaimed Mouhot's Dream French restaurant, and access to the Phokeethra Country Club's 18-hole golf course. Guests consistently describe the property as an unforgettable luxury stay, praising the French Colonial design, manicured tropical gardens, and hospitality so strong that some travelers return annually, with the resort's own guests calling it the best hotel they've stayed at anywhere.",
+  "core_facts": {
+    "address": "Vithei Charles de Gaulle, Khum Svay Dangkum, Siem Reap, Cambodia",
+    "brand_sub_brand": "Sofitel",
+    "neighborhood": "Charles de Gaulle Avenue",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "The closest Siem Reap hotel to the ruins of Angkor Wat",
+    "Siem Reap's largest free-form pool",
+    "Access to the Phokeethra Country Club's 18-hole golf course",
+    "Mouhot's Dream French restaurant draws consistent praise among the resort's five dining venues",
+    "Manicured tropical gardens and French Colonial design throughout"
+  ],
+  "cons": [
+    "As a large golf resort, some guests feel a single night isn't enough to experience the full range of facilities",
+    "The golf-resort scale means a less intimate atmosphere than smaller boutique Siem Reap hotels"
+  ],
+  "research_highlights": [
+    "Guests consistently describe the property as an unforgettable luxury stay, with some returning annually",
+    "The largest free-form pool in Siem Reap and the manicured gardens draw repeated praise",
+    "Service is described as going above and beyond, a recurring theme across reviews"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How close is Sofitel Angkor Phokeethra to Angkor Wat?",
+      "answer": "It's positioned as the closest Siem Reap hotel to the ruins of Angkor Wat, set in landscaped gardens on Charles de Gaulle Avenue, roughly 10 minutes from the temple complex."
+    },
+    {
+      "question": "Does Sofitel Angkor Phokeethra have a golf course?",
+      "answer": "Yes -- guests have access to the Phokeethra Country Club's 18-hole golf course, alongside Siem Reap's largest free-form pool and a full-service spa."
+    }
+  ],
+  "tags": ["angkor wat proximity", "golf resort", "french colonial design"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/3123/index.en.shtml",
+      "label": "Official Sofitel Angkor Phokeethra page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297390-d299583-Reviews-Sofitel_Angkor_Phokeethra_Golf_and_Spa_Resort-Siem_Reap_Siem_Reap_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/3123/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["raffles-grand-hotel-dangkor", "ibis-styles-siem-reap"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Sofitel Angkor Phokeethra Resort Hotel Review",
+        "source": "To Travel Too",
+        "url": "https://www.totraveltoo.com/sofitel-angkor-phokeethra-resort-hotel-review/",
+        "published_date": "2025-02-02",
+        "summary": "Calls it an unforgettable luxury stay, praising the French Colonial design, Mouhot's Dream restaurant, Siem Reap's largest free-form pool, and manicured gardens 10 minutes from Angkor Wat, with no significant criticisms noted."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 90,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 94 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 90 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

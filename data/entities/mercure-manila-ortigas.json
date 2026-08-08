@@ -1,0 +1,92 @@
+{
+  "entity_id": "mercure-manila-ortigas",
+  "slug": "mercure-manila-ortigas",
+  "name": "Mercure Manila Ortigas",
+  "category_id": "accor-all",
+  "region_id": "manila",
+  "short_description": "A 150-room hotel on San Miguel Avenue in the middle of Ortigas Center, with Kalesa restaurant serving modern Filipino cuisine.",
+  "ai_summary": "Mercure Manila Ortigas sits on San Miguel Avenue in the middle of Ortigas Center, one of Metro Manila's key business districts, close to office towers, malls, and the Philippine Stock Exchange. The 150 Standard, Superior, and Deluxe rooms combine traditional Filipino design with modern architecture, and Kalesa, the hotel's signature restaurant, serves modern Filipino cuisine. Guest feedback is genuinely mixed -- many praise the central location and cleanliness, and some are pleasantly surprised by service that exceeds the Mercure brand's midscale positioning, while others report frustrations with parking, luggage handling, and staff responsiveness.",
+  "core_facts": {
+    "address": "45 San Miguel Avenue, Ortigas Center, Pasig, Metro Manila, Philippines",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Ortigas Center",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Ortigas Center location, a 5-minute walk to the Philippine Stock Exchange Center and The Podium mall",
+    "150 rooms blending traditional Filipino design with modern architecture",
+    "Kalesa restaurant serves modern Filipino cuisine on-site",
+    "Some guests report service that exceeds expectations for the midscale Mercure brand",
+    "Function rooms and a fitness centre suit business travelers"
+  ],
+  "cons": [
+    "Guest feedback on service is genuinely mixed, with some reviewers reporting frustrations around parking and luggage assistance",
+    "As a midscale hotel, amenities are more limited than Ortigas's luxury and upper-upscale properties"
+  ],
+  "research_highlights": [
+    "The Ortigas Center location and walkability to the Philippine Stock Exchange draw consistent praise",
+    "Cleanliness is repeatedly highlighted as a strength",
+    "Several reviewers note the service quality is a pleasant surprise given the hotel's midscale positioning"
+  ],
+  "research_watchouts": [
+    "A vocal subset of reviews describe frustrations with staff responsiveness, particularly around parking and luggage handling",
+    "Service quality appears to vary more between stays than at some other Manila Accor properties"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Mercure Manila Ortigas close to the Philippine Stock Exchange?",
+      "answer": "Yes -- it's within a 5-minute walk of the Philippine Stock Exchange Center and The Podium mall, in the middle of Ortigas Center, one of Metro Manila's key business districts."
+    },
+    {
+      "question": "Is service consistent at Mercure Manila Ortigas?",
+      "answer": "Reviews are genuinely mixed -- many guests report service that exceeds expectations for a midscale Mercure property, while a vocal subset describe frustrations around parking and luggage handling, so it's worth checking recent reviews before booking."
+    }
+  ],
+  "tags": ["ortigas center", "philippine stock exchange", "filipino cuisine"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/a/en/destination/city/hotels-manila-v5350.html",
+      "label": "Accor Manila hotels listing",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298453-d10684726-Reviews-Mercure_Manila_Ortigas-Pasig_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/a/en/destination/city/hotels-manila-v5350.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-suites-manila-at-acqua"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 66 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

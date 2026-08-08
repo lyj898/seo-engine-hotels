@@ -1,0 +1,107 @@
+{
+  "entity_id": "raffles-grand-hotel-dangkor",
+  "slug": "raffles-grand-hotel-dangkor",
+  "name": "Raffles Grand Hotel d'Angkor",
+  "category_id": "accor-all",
+  "region_id": "siem-reap",
+  "short_description": "A 119-room colonial-era icon open since 1932, set in 15 acres of French gardens 10 minutes from Angkor Wat, with original vintage elevators and Landmark Rooms.",
+  "ai_summary": "Raffles Grand Hotel d'Angkor has operated since 1932, designed by French architect Ernest Hebrard and remaining one of the last colonial-era hotels in Cambodia, set within 15 acres of landscaped French gardens roughly 10 minutes from Angkor Wat. The 119 rooms, suites, and villas include 'Landmark Rooms' preserved from the hotel's opening day, complete with original vintage elevators, hardwood floors, and brass rotary telephones, alongside 24-hour Raffles butler service. Guests consistently praise the historic ambiance, the Conservancy lounge's resident pianist, and gracious staff service, with the beautiful central pool a recurring highlight, though the small fitness facility and the new airport's 55-minute distance (versus the old airport's 13 minutes) are genuine watchouts.",
+  "core_facts": {
+    "address": "1 Vithei Charles de Gaulle, Khum Svay Dangkum, Siem Reap 17252, Cambodia",
+    "brand_sub_brand": "Raffles",
+    "neighborhood": "Central Siem Reap",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Operating since 1932, one of the last colonial-era hotels in Cambodia, designed by Ernest Hebrard",
+    "119 rooms, suites, and villas across 15 acres of landscaped French gardens",
+    "'Landmark Rooms' preserved from opening day, with original vintage elevators and brass rotary telephones",
+    "Conservancy lounge with a resident pianist creates a distinctive evening atmosphere",
+    "Roughly 10 minutes from Angkor Wat, walkable to central Siem Reap"
+  ],
+  "cons": [
+    "The fitness facility is small with limited strength-training equipment compared with newer luxury competitors nearby",
+    "The new Siem Reap-Angkor International Airport is a 55-minute drive, versus 13 minutes from the now-closed old airport"
+  ],
+  "research_highlights": [
+    "The historic 1932 architecture and preserved 'Landmark Rooms' draw consistently strong praise",
+    "The Conservancy lounge and its resident pianist are called a genuinely distinctive touch",
+    "Staff are described as gracious with consistently positive service encounters"
+  ],
+  "research_watchouts": [
+    "The gym is notably smaller than at comparable luxury competitors in Siem Reap",
+    "The 55-minute airport transfer is longer than many guests expect for a top-tier hotel"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How old is Raffles Grand Hotel d'Angkor?",
+      "answer": "It has operated since 1932, designed by French architect Ernest Hebrard, making it one of the last surviving colonial-era hotels in Cambodia -- some rooms, called 'Landmark Rooms,' are preserved from the hotel's opening day."
+    },
+    {
+      "question": "How far is Raffles Grand Hotel d'Angkor from Angkor Wat?",
+      "answer": "About 10 minutes by car, and the hotel is also walkable to central Siem Reap -- though the newer Siem Reap-Angkor International Airport is a longer 55-minute drive, worth factoring into arrival planning."
+    }
+  ],
+  "tags": ["colonial heritage", "angkor wat", "french gardens"],
+  "source_mix": [
+    {
+      "url": "https://www.raffles.com/siem-reap/",
+      "label": "Official Raffles Grand Hotel d'Angkor page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297390-d301599-Reviews-Raffles_Grand_Hotel_D_angkor-Siem_Reap_Siem_Reap_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.raffles.com/siem-reap/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-angkor-phokeethra-golf-and-spa-resort"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Raffles Grand Hotel d'Angkor - Siem Reap",
+        "source": "Live and Let's Fly",
+        "url": "https://liveandletsfly.com/raffles-grand-hotel-dangkor-siem-reap-review/",
+        "published_date": "2024-09-05",
+        "summary": "Praises the 1932 colonial hotel's vintage elevators, Conservancy lounge with a resident pianist, central pool, and gracious staff, but flags a small gym with limited strength equipment and the new airport's 55-minute distance."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Raffles Grand Hotel D'Angkor - A quick look at this incredible hotel in Siem Reap, Cambodia",
+        "channel": "ThePoshTravelBlog (Stuart and Christina)",
+        "url": "https://www.youtube.com/watch?v=nfoImB1rSN8",
+        "video_id": "nfoImB1rSN8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 92 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
