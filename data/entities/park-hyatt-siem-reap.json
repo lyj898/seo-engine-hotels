@@ -1,0 +1,107 @@
+{
+  "entity_id": "park-hyatt-siem-reap",
+  "slug": "park-hyatt-siem-reap",
+  "name": "Park Hyatt Siem Reap",
+  "category_id": "world-of-hyatt",
+  "region_id": "siem-reap",
+  "short_description": "A 104-room Park Hyatt on Sivutha Boulevard in central Siem Reap, blending Art Deco architecture with Khmer design, about 15 minutes from Angkor Wat.",
+  "ai_summary": "Park Hyatt Siem Reap sits on Sivutha Boulevard in the heart of downtown Siem Reap, a short walk from Pub Street and the markets yet quiet and serene inside, with Angkor Wat about 15 minutes away by car. The 104-room hotel blends Art Deco architecture with Khmer cultural details, and guests consistently praise the two pools, the breakfast buffet, and curated cultural experiences like Angkor Wat tours and traditional rice-noodle making. It's the only true luxury hotel in the immediate area, and while some guests question room rates, most find the elegant, well-maintained property and attentive service worth it.",
+  "core_facts": {
+    "address": "Sivutha Boulevard, Siem Reap 17252, Cambodia",
+    "brand_sub_brand": "Park Hyatt",
+    "neighborhood": "Central Siem Reap",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Siem Reap location, a short walk from Pub Street yet quiet and serene inside",
+    "About 15 minutes by car from Angkor Wat",
+    "Two pools -- a ground-floor lap pool and a second-floor freeform pool with lagoon curves",
+    "Breakfast buffet and curated cultural experiences (Angkor Wat tours, rice-noodle making) draw specific praise",
+    "The only true luxury hotel in the immediate downtown area"
+  ],
+  "cons": [
+    "Some guests question the room rates relative to comparable properties elsewhere",
+    "Occasional noise is noted by some reviewers despite the generally serene interior"
+  ],
+  "research_highlights": [
+    "Guests describe the property as an elegant sanctuary blending French colonial and Khmer style",
+    "The breakfast buffet and dining venues draw consistent, strong praise",
+    "Curated cultural experiences are called out as a meaningful, distinctive touch"
+  ],
+  "research_watchouts": [
+    "A handful of reviews question whether room rates match the value delivered",
+    "Occasional noise is mentioned by some guests"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How far is Park Hyatt Siem Reap from Angkor Wat?",
+      "answer": "It's about 15 minutes away by car, making the hotel a practical downtown base for exploring the Angkor temple complex while still being within walking distance of Siem Reap's Pub Street and central markets for evenings."
+    },
+    {
+      "question": "Does Park Hyatt Siem Reap offer cultural experiences beyond the hotel itself?",
+      "answer": "Yes -- the hotel curates experiences like guided Angkor Wat tours, traditional Cambodian rice-noodle making, and rice wine tastings, giving guests a more meaningful connection to local culture than a typical luxury-hotel stay."
+    }
+  ],
+  "tags": ["siem reap", "angkor wat", "art deco"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/park-hyatt/en-US/repph-park-hyatt-siem-reap",
+      "label": "Official Park Hyatt Siem Reap page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g12591811-d568118-Reviews-Park_Hyatt_Siem_Reap-Svay_Dangkum_Siem_Reap_Siem_Reap_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/park-hyatt/en-US/repph-park-hyatt-siem-reap",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-regency-phnom-penh"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Park Hyatt Siem Reap (Park Executive Suite and Rooftop Garden Suite)",
+        "source": "Secret Life of Fatbacks",
+        "url": "https://secretlifeoffatbacks.com/2024/03/hotel-review-park-hyatt-siem-reap-park-executive-suite-and-rooftop-garden-suite-luxury-hotel-offering-immersive-khmer-experience-in-central-siem-reap/",
+        "published_date": "2024-03-02",
+        "summary": "Praises the blend of Art Deco architecture with Cambodian cultural elements across elegant suites and dining venues, highlighting curated experiences -- Angkor Wat tours, rice-noodle making, rice wine tastings -- as the standout feature."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hotel Review: Park Hyatt Siem Reap, Cambodia",
+        "channel": "Voyager Guru",
+        "url": "https://www.youtube.com/watch?v=1sn8Ng8rDdk",
+        "video_id": "1sn8Ng8rDdk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
