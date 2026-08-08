@@ -1,0 +1,113 @@
+{
+  "entity_id": "park-hyatt-saigon",
+  "slug": "park-hyatt-saigon",
+  "name": "Park Hyatt Saigon",
+  "category_id": "world-of-hyatt",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A 245-room French colonial-style Park Hyatt beside the Saigon Opera House in District 1, with Michelin-recognized dining and Xuan Spa.",
+  "ai_summary": "Park Hyatt Saigon sits beside the Saigon Opera House in District 1, within walking distance of Dong Khoi, Notre-Dame Cathedral Basilica, and the Central Post Office. Guests consistently praise the French colonial-inspired design and elegant common areas, along with a standout breakfast and the Michelin-recognized Square One restaurant. Opened in 2005, some reviewers note the rooms show minor signs of age, and the small restaurant can mean a queue at breakfast, but the central location and warm, professional service keep it a strong pick for travelers wanting a base in the heart of the city.",
+  "core_facts": {
+    "address": "2 Cong Truong Lam Son, Ben Nghe, District 1, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "Park Hyatt",
+    "neighborhood": "District 1 / Opera House",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Beside the Saigon Opera House in District 1, walking distance to Dong Khoi, Notre-Dame Cathedral Basilica, and the Central Post Office",
+    "French colonial-inspired design and elegant, immaculate common areas draw repeated praise",
+    "Square One restaurant recognized by the MICHELIN Guide, alongside Opera (Italian) and Park Lounge afternoon tea",
+    "Breakfast spread is consistently called a highlight",
+    "Staff described as genuinely warm and professional from arrival to departure"
+  ],
+  "cons": [
+    "Opened in 2005, and some reviewers note the rooms show minor signs of age",
+    "The restaurant is on the smaller side, and guests have reported a queue at breakfast"
+  ],
+  "research_highlights": [
+    "Guests repeatedly praise the colonial-inspired design and elegant, well-maintained common areas",
+    "Breakfast and the hotel's dining venues draw consistent, strong praise",
+    "Staff service is described as attentive and professional throughout the stay"
+  ],
+  "research_watchouts": [
+    "Some reviewers note the rooms show minor signs of age given the hotel's 2005 opening",
+    "The restaurant's smaller size has led to breakfast queues for some guests"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Where is Park Hyatt Saigon located?",
+      "answer": "It's in District 1, right beside the Saigon Opera House, within walking distance of Dong Khoi shopping street, Notre-Dame Cathedral Basilica, the Central Post Office, and Nguyen Hue walking street -- putting most of central Ho Chi Minh City's landmarks within easy reach on foot."
+    },
+    {
+      "question": "Is breakfast good at Park Hyatt Saigon?",
+      "answer": "Yes -- guests consistently call the breakfast spread a highlight of the stay, with a strong variety of dishes. The restaurant is on the smaller side though, so some guests have reported a queue forming during busier breakfast periods."
+    }
+  ],
+  "tags": ["district 1", "opera house", "french colonial"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/park-hyatt/en-US/saiph-park-hyatt-saigon",
+      "label": "Official Park Hyatt Saigon page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293925-d577218-Reviews-Park_Hyatt_Saigon-Ho_Chi_Minh_City.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/park-hyatt/en-US/saiph-park-hyatt-saigon",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: the Park Hyatt Saigon hotel, Vietnam",
+        "source": "Head for Points",
+        "url": "https://www.headforpoints.com/2024/12/01/review-park-hyatt-saigon-vietnam/",
+        "published_date": "2024-12-01",
+        "summary": "Calls it a great option for central Ho Chi Minh City, praising the colonial-inspired design that maintains elegance despite opening in 2005; rooms show minor age, but the breakfast and ambiance make it attractive for a points redemption."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Park Hyatt Saigon Hotel Tour & Review | Top Luxury Hotel In Ho Chi Minh City, Vietnam",
+        "channel": "Jewels of Southeast Asia",
+        "url": "https://www.youtube.com/watch?v=x9C_KV-R2F4",
+        "video_id": "x9C_KV-R2F4"
+      },
+      {
+        "title": "PARK HYATT SAIGON Ho Chi Minh City, Vietnam Revisit & Review - My Saigon Farewell",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=nNjW7hAkSoE",
+        "video_id": "nNjW7hAkSoE"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 61,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
