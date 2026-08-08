@@ -35,6 +35,15 @@ const cityRegions = regions
   .map((r) => ({ ...r, entityCount: entities.filter((e) => e.region_id === r.region_id).length }))
   .sort((a, b) => b.entityCount - a.entityCount);
 
+// The homepage "browse by city" list used to render every tracked city
+// (30+) as one long divide-y stack -- a lot of scrolling before reaching
+// the "browse by category" section below, worst on a phone where each
+// HubCard is full-width. The homepage's job is to tease the section, not
+// enumerate it, so it shows only the best-covered cities; the full,
+// country-grouped list lives on /regions/.
+const HOMEPAGE_CITY_LIMIT = 9;
+const homepageCityRegions = cityRegions.slice(0, HOMEPAGE_CITY_LIMIT);
+
 // Resolves any region (including a child region like "Nong Khai") up to its
 // top-level country ancestor, so a race tagged with a city-level region
 // still filters correctly under its country in the country dropdown below.
@@ -375,10 +384,10 @@ const jsonLd = [
             <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">Explore</p>
             <h2 class="mt-2 text-2xl font-normal sm:text-3xl">Browse by {siteConfig.regionLabel.toLowerCase()}</h2>
           </div>
-          <a href={urls.regionsIndex()} class="kicker hidden text-brand-muted hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark sm:inline">View all &rarr;</a>
+          <a href={urls.regionsIndex()} class="kicker inline text-brand-muted hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark">View all &rarr;</a>
         </div>
         <div class="divide-y divide-brand-divider border-t border-brand-divider dark:divide-brand-divider-dark dark:border-brand-divider-dark">
-          {cityRegions.map((region, i) => (
+          {homepageCityRegions.map((region, i) => (
             <HubCard
               index={i}
               href={urls.region(region.slug)}
