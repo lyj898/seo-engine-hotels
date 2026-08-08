@@ -1,0 +1,106 @@
+{
+  "entity_id": "hyatt-regency-phuket-resort",
+  "slug": "hyatt-regency-phuket-resort",
+  "name": "Hyatt Regency Phuket Resort",
+  "category_id": "world-of-hyatt",
+  "region_id": "phuket",
+  "short_description": "A 201-room clifftop Hyatt Regency overlooking Kamala Bay, with one of the largest infinity-edge pools in Phuket.",
+  "ai_summary": "Hyatt Regency Phuket Resort sits on a hillside overlooking Kamala Bay, built around one of the largest waterfront pools on the island. Guests consistently praise the tranquil, landscaped grounds, attentive staff, and family amenities like Camp Hyatt and a kids' zone, alongside dining spanning Latin-inspired rooftop fare to teppanyaki. Because the resort spans a steep hillside, some guests find a golf cart necessary to reach their rooms, and reviews on the Regency Club Lounge are mixed -- some call it a highlight, others find its limited hours and food selection underwhelming compared with other Hyatt Regency properties.",
+  "core_facts": {
+    "address": "16/12 Moo 6, Tambon Kamala, Kathu, Phuket 83150, Thailand",
+    "brand_sub_brand": "Hyatt Regency",
+    "neighborhood": "Kamala Beach",
+    "elite_benefits": [
+      "Regency Club Lounge access for World of Hyatt Globalist Elite members",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability, per World of Hyatt program terms",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Clifftop setting overlooking Kamala Bay with one of the largest waterfront pools in Phuket",
+    "Tranquil atmosphere and beautifully landscaped grounds draw consistent praise",
+    "Extensive family amenities, including Camp Hyatt and an infinity pool kids' zone",
+    "Dining spans Latin-inspired rooftop fare at Casa Boho to teppanyaki at Mizu",
+    "Staff described as going above and beyond to accommodate requests"
+  ],
+  "cons": [
+    "The steep hillside layout means guests may need a golf cart to reach their rooms",
+    "Reviews on the Regency Club Lounge are mixed, with some finding its hours and food selection limited"
+  ],
+  "research_highlights": [
+    "Guests describe the pool and clifftop setting as a standout among Phuket resorts",
+    "Family-friendly amenities and Camp Hyatt draw repeated positive comment",
+    "The dining variety across the resort's restaurants is called a strength"
+  ],
+  "research_watchouts": [
+    "The hillside layout and golf-cart transfers are a genuine adjustment for some guests",
+    "Some reviews describe the Regency Club Lounge as underperforming relative to other Hyatt Regency properties"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Hyatt Regency Phuket Resort on the beach?",
+      "answer": "It's on a hillside overlooking Kamala Bay rather than directly beachfront, with the resort built around one of the largest waterfront infinity pools in Phuket. Because of the steep terrain, getting between rooms and the main facilities sometimes requires a golf cart."
+    },
+    {
+      "question": "Is the Regency Club Lounge worth it at Hyatt Regency Phuket Resort?",
+      "answer": "Reviews are mixed -- some guests enjoy the evening drinks and canapes, while others find the single daily service and limited food selection underwhelming compared with Regency Club lounges at other Hyatt properties, so expectations should be tempered accordingly."
+    }
+  ],
+  "tags": ["kamala beach", "clifftop resort", "camp hyatt"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/phuhr-hyatt-regency-phuket-resort",
+      "label": "Official Hyatt Regency Phuket Resort page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1379324-d5861493-Reviews-Hyatt_Regency_Phuket_Resort-Kamala_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/phuhr-hyatt-regency-phuket-resort",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-place-phuket-patong"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Giant Pool, Mediocre Beach | HYATT REGENCY PHUKET, Thailand Review",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=XydXS6sTiVg",
+        "video_id": "XydXS6sTiVg",
+        "published_date": "2024-12-01"
+      },
+      {
+        "title": "Hyatt Regency Phuket Resort Tour Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=fwImXDAGDWM",
+        "video_id": "fwImXDAGDWM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
