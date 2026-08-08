@@ -1,0 +1,98 @@
+{
+  "entity_id": "novotel-suites-manila-at-acqua",
+  "slug": "novotel-suites-manila-at-acqua",
+  "name": "Novotel Suites Manila at Acqua",
+  "category_id": "accor-all",
+  "region_id": "manila",
+  "short_description": "A 152-room hotel in a riverfront development bordering Makati and Mandaluyong, with family-friendly amenities including a playground and poolside loungers.",
+  "ai_summary": "Novotel Suites Manila at Acqua sits within a redeveloped riverfront commercial area on Coronado Street in Mandaluyong, bordering Makati, one of Metro Manila's major business districts. The 152 rooms and suites feature a practical, cosy, contemporary design with air conditioning, bathrobes, and in-room safes. Guests consistently praise the clean, spacious rooms and family-friendly amenities, including a playground for kids and poolside loungers for adults, with service described as friendly and attentive, though a subset of reviews note some inconsistency.",
+  "core_facts": {
+    "address": "Coronado Street, Acqua Private Residences, Mandaluyong, Metro Manila, Philippines",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Mandaluyong / Makati border",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Riverfront location bordering Makati, one of Metro Manila's major business districts",
+    "152 rooms and suites with a practical, contemporary design",
+    "Family-friendly amenities: a children's playground and poolside loungers",
+    "Clean, spacious rooms consistently praised by guests",
+    "Friendly, attentive service noted across reviews"
+  ],
+  "cons": [
+    "A subset of reviews note some inconsistency in service quality",
+    "As a newer riverfront development, some surrounding infrastructure is still maturing"
+  ],
+  "research_highlights": [
+    "The Mandaluyong/Makati-border location is repeatedly called convenient for business travelers",
+    "Family-friendly touches -- the playground and poolside loungers -- draw praise from travelers with children",
+    "Room cleanliness and spaciousness are highlighted as consistent strengths"
+  ],
+  "research_watchouts": [
+    "A minority of guests note service inconsistency between stays"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Suites Manila at Acqua close to Makati?",
+      "answer": "Yes -- it sits in a riverfront development in Mandaluyong that borders Makati, one of Metro Manila's major business districts, making it a convenient base for business travelers."
+    },
+    {
+      "question": "Is Novotel Suites Manila at Acqua good for families?",
+      "answer": "Yes -- it includes a children's playground and poolside loungers, and guests consistently describe the property as blending business-friendly convenience with family-friendly amenities."
+    }
+  ],
+  "tags": ["mandaluyong", "makati border", "riverfront"],
+  "source_mix": [
+    {
+      "url": "https://novotelsuitesmanila.com/",
+      "label": "Official Novotel Suites Manila at Acqua page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298451-d19610137-Reviews-Novotel_Suites_Manila_at_Acqua-Mandaluyong_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://novotelsuitesmanila.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-manila-ortigas"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "NOVOTEL Suites Manila at Acqua in Mandaluyong City | HOTEL STAYCATION 2023 | Travel VLOG 31",
+        "channel": "Mark Paragas Official",
+        "url": "https://www.youtube.com/watch?v=0AWy4VZEBNQ",
+        "video_id": "0AWy4VZEBNQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

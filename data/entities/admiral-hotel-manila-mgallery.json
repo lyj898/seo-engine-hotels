@@ -1,0 +1,98 @@
+{
+  "entity_id": "admiral-hotel-manila-mgallery",
+  "slug": "admiral-hotel-manila-mgallery",
+  "name": "Admiral Hotel Manila - MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "manila",
+  "short_description": "A 123-room Art Deco boutique hotel on Roxas Boulevard, built in 1939 as Manila's tallest building, with themed floors and Manila's only MICHELIN Guide-recommended stay.",
+  "ai_summary": "Admiral Hotel Manila - MGallery Collection occupies a 1939 Art Deco building on Roxas Boulevard facing Manila Bay, once the city's tallest building and a golden-era hub for Manila's elite before its reimagining as a boutique hotel. The 123 rooms, including 6 executive suites and the Dona Presidential Suite, span floors each themed around a different Filipino tradition, and the hotel runs a Golden Era heritage tour by vintage 1951 Buick. Admiral Hotel Manila is the only hotel in the city to earn a MICHELIN Guide recommendation (2024 and 2025) and was named 2024 Asia's Leading Design Hotel by the World Travel Awards, with guests consistently praising the distinctive Filipino-Spanish Art Deco design and Manila Bay views.",
+  "core_facts": {
+    "address": "2138 Roxas Boulevard, Malate, Manila, Philippines",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Roxas Boulevard / Malate",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "1939 Art Deco building on Roxas Boulevard, once Manila's tallest building",
+    "Only hotel in Manila to earn a MICHELIN Guide recommendation, in both 2024 and 2025",
+    "Named 2024 Asia's Leading Design Hotel by the World Travel Awards",
+    "Floors themed around different Filipino traditions, with distinctive doorbell artwork",
+    "Golden Era heritage tour of the city by vintage 1951 Buick Super 8"
+  ],
+  "cons": [
+    "As a smaller boutique property with 123 rooms, it has fewer facilities than Manila's larger resort-style hotels",
+    "The design-forward, heritage-themed approach may appeal less to guests seeking a conventional modern hotel experience"
+  ],
+  "research_highlights": [
+    "The Art Deco design and Filipino-tradition-themed floors are consistently called out as genuinely distinctive",
+    "MICHELIN Guide recognition and design awards reinforce the hotel's standing among reviewers",
+    "The Roxas Boulevard location and Manila Bay views draw repeated praise"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Has Admiral Hotel Manila won any awards?",
+      "answer": "Yes -- it's the only hotel in Manila to earn a MICHELIN Guide recommendation, in both 2024 and 2025, and was named 2024 Asia's Leading Design Hotel by the World Travel Awards for its Filipino-Spanish Art Deco design."
+    },
+    {
+      "question": "What was Admiral Hotel Manila before it became a hotel?",
+      "answer": "The 1939 Art Deco building was once Manila's tallest building and a glittering golden-era hub for the city's elite, before being reimagined as a boutique MGallery hotel with floors themed around different Filipino traditions."
+    }
+  ],
+  "tags": ["roxas boulevard", "art deco heritage", "michelin recommended"],
+  "source_mix": [
+    {
+      "url": "https://www.admiralhotelmanila.com/",
+      "label": "Official Admiral Hotel Manila page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298573-d1197763-Reviews-Admiral_Hotel_Manila_MGallery_Collection-Manila_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.admiralhotelmanila.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-manila-araneta-city"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Admiral Hotel Manila MGallery | 5-Star Staycation Tour & Review",
+        "channel": "Denn and Berto",
+        "url": "https://www.youtube.com/watch?v=C6B9_NsYcPY",
+        "video_id": "C6B9_NsYcPY"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 90,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

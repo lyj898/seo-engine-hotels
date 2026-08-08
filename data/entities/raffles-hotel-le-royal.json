@@ -1,0 +1,101 @@
+{
+  "entity_id": "raffles-hotel-le-royal",
+  "slug": "raffles-hotel-le-royal",
+  "name": "Raffles Hotel Le Royal",
+  "category_id": "accor-all",
+  "region_id": "phnom-penh",
+  "short_description": "An Art Deco colonial masterpiece established in 1929 in the heart of Daun Penh, with two outdoor pools and the legendary Elephant Bar.",
+  "ai_summary": "Raffles Hotel Le Royal has anchored the heart of Phnom Penh's Daun Penh district since 1929, an Art Deco colonial masterpiece and one of Asia's essential destination hotels. The property offers two outdoor pools, complimentary yoga classes, and personalized butler service, with the legendary Elephant Bar -- a historic hangout for journalists and dignitaries -- remaining one of its signature draws. Guests consistently praise the historic charm, staff who remember returning guests, and the central location for exploring Phnom Penh, though a recent shift from a lavish breakfast buffet to an a la carte menu and occasional service inattention during breakfast are genuine watchouts noted in a 2026 revisit review.",
+  "core_facts": {
+    "address": "92 Rukhak Vithei Daun Penh, Sangkat Wat Phnom, Phnom Penh, Cambodia",
+    "brand_sub_brand": "Raffles",
+    "neighborhood": "Daun Penh",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Art Deco colonial masterpiece established in 1929, one of Asia's essential destination hotels",
+    "The legendary Elephant Bar remains a signature draw with skilled bartenders",
+    "Two outdoor pools and complimentary yoga classes",
+    "Central Daun Penh location, ideal for exploring Phnom Penh",
+    "Staff remember returning guests, with personalized butler service included"
+  ],
+  "cons": [
+    "Breakfast recently shifted from a lavish buffet to an a la carte menu, disappointing some long-time guests",
+    "A 2026 revisit review noted occasional inattentive service and forgotten orders during breakfast",
+    "Restaurant Le Royal's fine dining is described as competent but not consistently inspired"
+  ],
+  "research_highlights": [
+    "The historic charm and Elephant Bar draw consistently strong praise, even from repeat visitors",
+    "Staff who remember returning guests are highlighted as a genuine point of distinction",
+    "The Daun Penh location is called ideal for exploring the city"
+  ],
+  "research_watchouts": [
+    "A 2026 revisit review found the breakfast experience and service consistency had softened compared with an earlier stay",
+    "Fine dining at Restaurant Le Royal drew a more mixed reaction than the hotel's other amenities"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "How old is Raffles Hotel Le Royal?",
+      "answer": "It's an Art Deco colonial masterpiece established in 1929, making it one of Phnom Penh's most historically significant hotels and one of Asia's essential destination properties."
+    },
+    {
+      "question": "What is the Elephant Bar at Raffles Hotel Le Royal?",
+      "answer": "A legendary hotel bar with a long history as a hangout for journalists and dignitaries -- it remains one of the property's signature draws, with skilled bartenders and an atmosphere reviewers consistently call a highlight of any stay."
+    }
+  ],
+  "tags": ["daun penh", "elephant bar", "art deco heritage"],
+  "source_mix": [
+    {
+      "url": "https://www.raffles.com/phnom-penh/",
+      "label": "Official Raffles Hotel Le Royal page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293940-d301595-Reviews-Raffles_Hotel_Le_Royal-Phnom_Penh.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.raffles.com/phnom-penh/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-phnom-penh-phokeethra"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Raffles Phnom Penh Review: Has It Maintained Its Magic?",
+        "source": "Pierre Blake",
+        "url": "https://pierreblake.com/raffles-phnom-penh-review-cambodian-hotels/",
+        "published_date": "2026-08-02",
+        "summary": "Revisits the colonial-era hotel four years on, still calling it a great property with historic charm, the legendary Elephant Bar, and personalized butler service, but noting a downgraded breakfast and occasional inattentive service."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

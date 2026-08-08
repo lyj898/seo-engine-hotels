@@ -1,0 +1,99 @@
+{
+  "entity_id": "sofitel-phnom-penh-phokeethra",
+  "slug": "sofitel-phnom-penh-phokeethra",
+  "name": "Sofitel Phnom Penh Phokeethra",
+  "category_id": "accor-all",
+  "region_id": "phnom-penh",
+  "short_description": "A 201-room riverside hotel on Sothearos Boulevard in Tonle Bassac, neighbouring AEON Mall, with 5 restaurants, 4 bars, and 2 outdoor pools.",
+  "ai_summary": "Sofitel Phnom Penh Phokeethra sits riverside amongst landscaped gardens in the Tonle Bassac area of Phnom Penh's old quarter, neighbouring AEON Mall. The 201 rooms and suites feature premium in-room amenities from Balmain, and the property spans 5 restaurants, 4 bars, and 2 outdoor pools, with a renowned Sunday brunch drawing regular praise. Guests consistently praise the exceptional, genuine hospitality and the quality and variety of amenities, making it one of the highest-rated luxury hotels in Phnom Penh, with the tranquil yet centrally accessible location a recurring highlight.",
+  "core_facts": {
+    "address": "26 Old August Site, Sothearos Boulevard, Sangkat Tonle Bassac, Phnom Penh, Cambodia",
+    "brand_sub_brand": "Sofitel",
+    "neighborhood": "Tonle Bassac",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Riverside setting amongst landscaped gardens, neighbouring AEON Mall",
+    "201 rooms and suites with premium in-room amenities from Balmain",
+    "5 restaurants, 4 bars, and 2 outdoor pools",
+    "Renowned Sunday brunch draws consistent, strong praise",
+    "Genuine, attentive hospitality repeatedly highlighted by guests"
+  ],
+  "cons": [
+    "As a large luxury property, the atmosphere leans more resort-scale than intimate boutique",
+    "The Tonle Bassac location, while tranquil, sits a short drive from some of Phnom Penh's historic sights"
+  ],
+  "research_highlights": [
+    "Service quality is consistently called exceptional and genuine rather than merely professional",
+    "The Sunday brunch is repeatedly singled out as a standout dining experience",
+    "The riverside gardens and pool facilities draw consistent praise"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Sofitel Phnom Penh Phokeethra near the river?",
+      "answer": "Yes -- it sits riverside amongst landscaped gardens in the Tonle Bassac area, neighbouring AEON Mall, in what the hotel describes as the old quarter of Phnom Penh."
+    },
+    {
+      "question": "Does Sofitel Phnom Penh Phokeethra have a Sunday brunch?",
+      "answer": "Yes -- its Sunday brunch is renowned and draws consistent, strong guest praise, part of a dining program spanning 5 restaurants and 4 bars across the property."
+    }
+  ],
+  "tags": ["tonle bassac", "riverside", "sunday brunch"],
+  "source_mix": [
+    {
+      "url": "https://sofitel.accor.com/en/hotels/6526.html",
+      "label": "Official Sofitel Phnom Penh Phokeethra page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293940-d1784730-Reviews-Sofitel_Phnom_Penh_Phokeethra-Phnom_Penh.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://sofitel.accor.com/en/hotels/6526.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["raffles-hotel-le-royal"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "The Luxury Side of Phnom Penh, Cambodia",
+        "channel": "Travelwithchris",
+        "url": "https://www.youtube.com/watch?v=adjKPM8GIbA",
+        "video_id": "adjKPM8GIbA",
+        "published_date": "2024-12-02"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 92 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 92 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
