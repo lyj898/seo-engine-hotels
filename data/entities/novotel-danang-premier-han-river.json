@@ -1,0 +1,98 @@
+{
+  "entity_id": "novotel-danang-premier-han-river",
+  "slug": "novotel-danang-premier-han-river",
+  "name": "Novotel Danang Premier Han River",
+  "category_id": "accor-all",
+  "region_id": "da-nang",
+  "short_description": "A 328-room riverside tower on the West Bank of the Han River, with a 29th-floor Premier Lounge and balcony views of the Dragon Bridge and city skyline.",
+  "ai_summary": "Novotel Danang Premier Han River sits on Bach Dang Street in downtown Da Nang, on the West Bank of the Han River, combining 328 rooms and suites with 90 serviced apartments ranging from studios to three-bedroom units. The 29th-floor Premier Lounge offers panoramic views of the river and Danang Beach alongside complimentary breakfast, afternoon tea, and pre-dinner cocktails, while four dining venues, a rooftop pool, and a steam room round out the amenities. Guests consistently praise the spotless rooms, river and city views, and central location within reach of Bana Hills and Marble Mountain.",
+  "core_facts": {
+    "address": "36-38 Bach Dang Street, Hai Chau District, Da Nang 550000, Vietnam",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Han River / Bach Dang",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "328 rooms and suites plus 90 serviced apartments with Han River or city views",
+    "29th-floor Premier Lounge with complimentary breakfast, afternoon tea, and evening cocktails",
+    "Central Bach Dang Street location on the Han River's West Bank",
+    "Rooftop pool and steam room",
+    "Guests consistently praise room cleanliness and the river/Dragon Bridge views"
+  ],
+  "cons": [
+    "As a large city-center tower, the atmosphere leans more business-corporate than boutique",
+    "Occasional service lapses noted in a minority of reviews"
+  ],
+  "research_highlights": [
+    "Balcony views of the Han River, Dragon Bridge, and city skyline draw consistent praise",
+    "The Premier Lounge is repeatedly called a standout for its view and complimentary services",
+    "The buffet breakfast's variety and freshness are highlighted often"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Does Novotel Danang Premier Han River have river views?",
+      "answer": "Yes -- most rooms have balconies facing the Han River, the Dragon Bridge, or the city skyline, and the 29th-floor Premier Lounge offers a further panoramic view over the river and Danang Beach."
+    },
+    {
+      "question": "Is Novotel Danang Premier Han River centrally located?",
+      "answer": "Yes -- it's on Bach Dang Street in downtown Da Nang, on the Han River's West Bank, within reach of the airport, Bana Hills, and Marble Mountain."
+    }
+  ],
+  "tags": ["han river", "premier lounge", "city view"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8287/index.en.shtml",
+      "label": "Official Novotel Danang Premier Han River page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298085-d3511123-Reviews-Novotel_Danang_Premier_Han_River-Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8287/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-danang-beach-resort", "grand-mercure-danang", "mercure-danang-french-village-bana-hills"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Danang Premier Han River, Danang, Vietnam 100 USD/ Night",
+        "channel": "Just Around Trip",
+        "url": "https://www.youtube.com/watch?v=GJ52y55Nzkw",
+        "video_id": "GJ52y55Nzkw"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
