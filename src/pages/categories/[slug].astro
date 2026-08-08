@@ -78,7 +78,7 @@ const jsonLd = [
     {entities.length > 0 ? (
       <div class="mt-10">
         {regionFilterOptions.length > 1 && <FilterBar options={regionFilterOptions} storageKey={`filter-category-${category.slug}`} />}
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {entities.map((entity) => <EntityCard entity={entity} categories={allCategories} />)}
         </div>
       </div>
@@ -91,7 +91,7 @@ const jsonLd = [
     {relatedCategories.length > 0 && (
       <section class="mt-14">
         <h2 class="mb-4 text-xl font-semibold">Related {siteConfig.categoryLabel.toLowerCase()}s</h2>
-        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {relatedCategories.map((c) => (
             <HubCard href={urls.category(c.slug)} label={c.label} description={c.short_description} />
           ))}

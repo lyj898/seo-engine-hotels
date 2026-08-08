@@ -325,7 +325,7 @@ const jsonLd = [
         {monthGroups.map((group) => (
           <div class="month-group mb-10" data-month-group={group.key}>
             <h2 class="mb-4 border-b border-brand-divider pb-3 text-lg font-bold dark:border-brand-divider-dark">{group.label}</h2>
-            <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {group.entities.map((entity) => {
                 const matchedCategoryIds = [
                   ...new Set(
@@ -366,7 +366,7 @@ const jsonLd = [
               <h2 class="mt-2 text-2xl font-normal sm:text-3xl">The six highest-rated stays</h2>
             </div>
           </div>
-          <div id="featured-grid" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
+          <div id="featured-grid" class="grid grid-cols-1 gap-x-8 gap-y-12 sm:grid-cols-2 lg:grid-cols-3">
             {featured.map((entity) => <EntityCard entity={entity} categories={categories} />)}
           </div>
         </section>

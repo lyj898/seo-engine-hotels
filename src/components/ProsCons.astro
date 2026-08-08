@@ -3,7 +3,7 @@ const { pros = [], cons = [] } = Astro.props;
 ---
 
 {(pros.length > 0 || cons.length > 0) && (
-  <div class="grid gap-6 sm:grid-cols-2">
+  <div class="grid grid-cols-1 gap-6 sm:grid-cols-2">
     {pros.length > 0 && (
       <div>
         <h3 class="mb-2 text-sm font-semibold text-brand-success dark:text-brand-success-dark">Pros</h3>
