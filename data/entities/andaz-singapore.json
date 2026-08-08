@@ -1,0 +1,93 @@
+{
+  "entity_id": "andaz-singapore",
+  "slug": "andaz-singapore",
+  "name": "Andaz Singapore",
+  "category_id": "world-of-hyatt",
+  "region_id": "singapore",
+  "short_description": "A 347-room Andaz in Kampong Glam, connected to Bugis MRT, with a Level 25 infinity pool and a rooftop bar on Level 39.",
+  "ai_summary": "Andaz Singapore sits in Kampong Glam, directly connected to Bugis MRT station and within reach of Little India and Bras Basah on foot. The 347-room hotel, designed by André Fu, draws consistently strong guest feedback -- reviewers repeatedly call the rooms among the best they've stayed in and single out breakfast as a highlight. The Level 25 infinity pool and Mr. Stork rooftop bar on Level 39 give it a distinct lifestyle-hotel feel rather than a conventional business-hotel one, and its cultural-district location trades the polish of Orchard Road for a livelier, more local neighborhood.",
+  "core_facts": {
+    "address": "5 Fraser Street, Singapore 189354",
+    "brand_sub_brand": "Andaz",
+    "neighborhood": "Kampong Glam",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly connected to Bugis MRT station, at the crossroads of Kampong Glam, Little India and Bras Basah",
+    "Rooms are repeatedly rated among the best guests have stayed in, with floor-to-ceiling windows from level 26 up",
+    "Breakfast draws specific, strong praise from reviewers",
+    "Level 25 infinity pool and 24-hour fitness centre with skyline views",
+    "Mr. Stork rooftop bar on Level 39 with 360-degree city views"
+  ],
+  "cons": [
+    "Some guests report wayfinding to the ground-floor entrance is confusing",
+    "Kampong Glam's livelier, more local character is a trade-off for travelers wanting Orchard Road's polish"
+  ],
+  "research_highlights": [
+    "Guests describe the rooms and facilities as exceptional, some calling them the best they've had",
+    "Breakfast is repeatedly singled out as a standout",
+    "The rooftop bar and Level 25 pool views draw strong, specific praise"
+  ],
+  "research_watchouts": [
+    "A few reviews mention it's easy to get turned around finding the street-level entrance"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Andaz Singapore connected to the MRT?",
+      "answer": "Yes -- the hotel is directly connected to Bugis MRT station via underground pedestrian walkways, putting it at the crossroads of the Kampong Glam, Little India, and Bras Basah Bugis cultural districts without needing a taxi."
+    },
+    {
+      "question": "What is there to do at Andaz Singapore besides the rooms?",
+      "answer": "The hotel's Level 25 infinity pool has skyline views, the Sunroom offers all-day complimentary coffee, tea, and snacks, and Mr. Stork, a rooftop bar on Level 39 with teepee-hut seating, serves drinks and food with 360-degree city views."
+    }
+  ],
+  "tags": ["kampong glam", "bugis mrt", "infinity pool"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/andaz/en-US/sinaz-andaz-singapore",
+      "label": "Official Andaz Singapore page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://secretlifeoffatbacks.com/2019/03/hotel-review-andaz-singapore-andaz-large-suite-king-forest-lodge-luxury-in-bugis/",
+      "label": "Secret Life of Fatbacks hotel review",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d12700216-Reviews-Andaz_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/andaz/en-US/sinaz-andaz-singapore",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-hyatt-singapore", "the-standard-singapore"],
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 62,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
