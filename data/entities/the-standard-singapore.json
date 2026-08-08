@@ -1,0 +1,91 @@
+{
+  "entity_id": "the-standard-singapore",
+  "slug": "the-standard-singapore",
+  "name": "The Standard, Singapore",
+  "category_id": "world-of-hyatt",
+  "region_id": "singapore",
+  "short_description": "A boutique hotel on Orange Grove Road between the Botanic Gardens and Orchard Road, part of World of Hyatt since The Standard's 2025 program integration.",
+  "ai_summary": "The Standard, Singapore occupies a boutique property on Orange Grove Road, positioned between the Singapore Botanic Gardens and Orchard Road's shops and restaurants. It joined World of Hyatt in 2025, so members can now earn and redeem points here alongside Hyatt's own brands. Guests describe a stylish, well-maintained hotel with a swim-up bar and a central, walkable location, calling out good value for money alongside quality amenities and friendly staff, though a few reviews mention inconsistent service.",
+  "core_facts": {
+    "address": "12 Orange Grove Road, Singapore 258353",
+    "brand_sub_brand": "The Standard",
+    "neighborhood": "Orchard / Botanic Gardens",
+    "elite_benefits": [
+      "World of Hyatt members earn 5 base points per eligible dollar spent, with an additional 4 bonus points per dollar for World of Hyatt Credit Cardmembers",
+      "Eligible for World of Hyatt's Brand Explorer Award credit toward a free night for guests who stay across multiple Hyatt-family brands"
+    ]
+  },
+  "pros": [
+    "Central location between the Botanic Gardens and Orchard Road",
+    "Guests describe a stylish, chic, well-maintained hotel with a swim-up pool bar",
+    "Reviewers specifically call out good value for money",
+    "Now part of World of Hyatt, so members can earn and redeem points here"
+  ],
+  "cons": [
+    "Some reviews report inconsistent service despite generally friendly staff",
+    "As a recent addition to World of Hyatt, hotel-specific elite recognition (upgrades, breakfast) is less established than at Hyatt's own long-running brands"
+  ],
+  "research_highlights": [
+    "Guests describe the hotel as stylish and well-maintained with a central, walkable location",
+    "The swim-up pool bar and overall amenities draw specific positive comment",
+    "Reviewers repeatedly cite good value for money"
+  ],
+  "research_watchouts": [
+    "A handful of reviews mention service inconsistency"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is The Standard, Singapore actually part of World of Hyatt?",
+      "answer": "Yes -- The Standard and The StandardX hotels joined World of Hyatt in 2025, so members can earn points on stays here (5 base points per eligible dollar, plus bonus points for Hyatt credit cardholders) and redeem points for free nights, the same as at Hyatt's own brands."
+    },
+    {
+      "question": "Where is The Standard, Singapore located?",
+      "answer": "It's on Orange Grove Road, positioned between the UNESCO-listed Singapore Botanic Gardens and the Orchard Road shopping district, giving guests a quieter, greener setting than most Orchard Road hotels while staying within easy reach of the shops."
+    }
+  ],
+  "tags": ["orange grove road", "botanic gardens", "swim-up bar"],
+  "source_mix": [
+    {
+      "url": "https://www.standardhotels.com/singapore/properties/singapore",
+      "label": "Official The Standard, Singapore page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.hyatt.com/the-standard/en-US/sinss-the-standard-singapore",
+      "label": "The Standard, Singapore on hyatt.com",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d28487170-Reviews-The_Standard_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/the-standard/en-US/sinss-the-standard-singapore",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-hyatt-singapore", "andaz-singapore"],
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 85 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
