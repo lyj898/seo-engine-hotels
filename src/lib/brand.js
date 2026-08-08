@@ -12,8 +12,14 @@
 // Chain -> tier. Order matters: the SELECT test runs first so
 // "Four Points by Sheraton" isn't caught by the "sheraton" that would
 // otherwise read as premium. Everything not luxury or select is premium.
-const SELECT = /four points|courtyard|aloft|element|fairfield|moxy|ac hotels|springhill|protea|city express/i;
-const LUXURY = /ritz-carlton|st\.?\s*regis|jw marriott|w hotels|luxury collection|\bedition\b|bulgari|w bali|w singapore|w kuala/i;
+//
+// Covers both Marriott Bonvoy and World of Hyatt sub-brand vocabulary --
+// the two never overlap in naming, so one combined regex per tier works
+// for any entity regardless of which loyalty program it belongs to. Add a
+// third program's brands here the same way rather than branching on
+// category_id, so tiering stays a pure function of core_facts.brand_sub_brand.
+const SELECT = /four points|courtyard|aloft|element|fairfield|moxy|ac hotels|springhill|protea|city express|hyatt place|hyatt house|hyatt studios|urcove|caption by hyatt/i;
+const LUXURY = /ritz-carlton|st\.?\s*regis|jw marriott|w hotels|luxury collection|\bedition\b|bulgari|w bali|w singapore|w kuala|park hyatt|\balila\b|unbound collection|miraval/i;
 
 export function hotelTier(subBrand) {
   const s = subBrand ?? '';
@@ -35,6 +41,7 @@ export function hotelDisplayName(name) {
     .replace(/,?\s+Autograph Collection/gi, '')
     .replace(/,?\s+a\s+Ritz-Carlton Reserve/gi, '')
     .replace(/\s+by Marriott\b/gi, '')
+    .replace(/,?\s+(part of\s+)?The Unbound Collection by Hyatt/gi, '')
     .replace(/^The\s+/i, '')
     .replace(/\s{2,}/g, ' ')
     .replace(/\s+,/g, ',')
