@@ -71,6 +71,18 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["hyatt-place-bangkok-sukhumvit-1", "hyatt-regency-bangkok-sukhumvit"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Hyatt Place Bangkok Sukhumvit",
+        "source": "Daddy Travels Miles & Points",
+        "url": "https://daddytravelsnow.com/2024/08/10/review-hyatt-place-bangkok-sukhumvit/",
+        "published_date": "2024-08-10",
+        "summary": "Praises stunning city views and the 19th-floor pool as excellent value for families, singling out authentic Thai breakfast dishes over standard Western fare, and recommending it as a budget alternative to the nearby Hyatt Regency."
+      }
+    ],
+    "videos": []
+  },
   "sentiment_scores": {
     "overall": 80,
     "breakdown": [

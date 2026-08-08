@@ -79,6 +79,33 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["andaz-singapore", "the-standard-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Grand Hyatt Singapore (Grand Suite King) - Revamped Icon With Refreshed F&B Concepts and Sleek Rooms",
+        "source": "Secret Life of Fatbacks",
+        "url": "https://secretlifeoffatbacks.com/2025/08/hotel-review-grand-hyatt-singapore-grand-suite-king-revamped-icon-with-refreshed-fb-concepts-and-sleek-rooms/",
+        "published_date": "2025-08-10",
+        "summary": "Reviews the property after its two-year renovation, praising the marble bathrooms and room design alongside standout dining including Michelin-starred Le Pristine Singapore -- a restored premier Orchard Road destination."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Grand Hyatt Singapore Orchard Road Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=4Uouo4CgxyE",
+        "video_id": "4Uouo4CgxyE",
+        "published_date": "2024-07-15"
+      },
+      {
+        "title": "【Stay Vlog】Grand Hyatt Singapore Experience｜Luxury Room Tour, Breakfast & Fitness",
+        "channel": "Luxury Travel from Japan",
+        "url": "https://www.youtube.com/watch?v=mnPRRBxEFYo",
+        "video_id": "mnPRRBxEFYo",
+        "published_date": "2025-08-23"
+      }
+    ]
+  },
   "sentiment_scores": {
     "overall": 83,
     "breakdown": [

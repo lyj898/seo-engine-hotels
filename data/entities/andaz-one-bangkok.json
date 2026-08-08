@@ -70,6 +70,32 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["park-hyatt-bangkok", "grand-hyatt-erawan-bangkok"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Andaz One Bangkok (King Bed Park View) - Lumphini Park Views and Art Gallery Chic Along Wireless Road",
+        "source": "Secret Life of Fatbacks",
+        "url": "https://secretlifeoffatbacks.com/2026/03/hotel-review-andaz-one-bangkok-king-bed-park-view-lumphini-park-views-and-art-gallery-chic-along-wireless-road-2026/",
+        "published_date": "2026-03-13",
+        "summary": "Describes sweeping Lumphini Park views, strong design and art installations throughout the property, and singles out breakfast at Jing/Andaz Terrace and the rooftop Mediterranean restaurant Piscari as standout dining."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Andaz One Bangkok Review: Style Over Substance?",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=rI3lKPGj0qA",
+        "video_id": "rI3lKPGj0qA",
+        "published_date": "2026-05-14"
+      },
+      {
+        "title": "Andaz One Bangkok Review 2026 Luxury Hotel Near Lumpini Park",
+        "channel": "Travel Asia With Allie",
+        "url": "https://www.youtube.com/watch?v=yngKRycSzb0",
+        "video_id": "yngKRycSzb0"
+      }
+    ]
+  },
   "reliability_score": 55,
   "last_updated": "2026-08-08",
   "status": "active"

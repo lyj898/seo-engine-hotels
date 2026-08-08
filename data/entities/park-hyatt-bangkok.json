@@ -70,6 +70,31 @@
   ],
   "affiliate_links": [],
   "related_entity_ids": ["grand-hyatt-erawan-bangkok", "andaz-one-bangkok", "hyatt-regency-bangkok-sukhumvit"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Park Hyatt Bangkok Review",
+        "source": "The Points Analyst",
+        "url": "https://www.thepointsanalyst.com/park-hyatt-bangkok-review/",
+        "published_date": "2024-12-17",
+        "summary": "Describes understated luxury, thoughtful design, and personalized service, highlighting the infinity pool, spa, and acclaimed breakfast alongside direct BTS Skytrain access and strong value for World of Hyatt Globalist perks."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Park Hyatt Bangkok Review 🇹🇭 | 5 Star Luxury Hotel Room Tour in Thailand",
+        "channel": "Beyond Retirement Travel",
+        "url": "https://www.youtube.com/watch?v=ZzB7eHmLX20",
+        "video_id": "ZzB7eHmLX20"
+      },
+      {
+        "title": "Park Hyatt Bangkok - 1 King Bed Deluxe l Hotel & Room Tour l Thailand l 4K",
+        "channel": "Epic Chicken Productions",
+        "url": "https://www.youtube.com/watch?v=YGkjH_5J4HE",
+        "video_id": "YGkjH_5J4HE"
+      }
+    ]
+  },
   "sentiment_scores": {
     "overall": 87,
     "breakdown": [
