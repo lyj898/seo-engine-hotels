@@ -1,0 +1,99 @@
+{
+  "entity_id": "novotel-phuket-kamala-beach",
+  "slug": "novotel-phuket-kamala-beach",
+  "name": "Novotel Phuket Kamala Beach",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 144-room beachfront hotel directly on Kamala Bay's white sands, with 8 suites and 14 villas, a 15-minute drive from Patong Beach.",
+  "ai_summary": "Novotel Phuket Kamala Beach sits directly next to the white sands of Kamala Bay, a quieter beach roughly 3 minutes from Kamala Village and 15 minutes by car from the busier Patong Beach. The 144 rooms are complemented by 8 suites and 14 villas, spanning ocean-view rooms through to full pool villas. Guests consistently praise the beachfront location, sea views, and friendly staff, though reviews note some rooms and public areas could benefit from renovation, and a subset of guests find spa and extra services pricier than expected.",
+  "core_facts": {
+    "address": "Kamala Beach, Kathu District, Phuket 83150, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Kamala Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly on Kamala Bay's white sands, a quieter beach than Patong",
+    "144 rooms, 8 suites, and 14 villas spanning multiple accommodation styles",
+    "3 minutes from Kamala Village, 15 minutes by car from Patong Beach",
+    "Sea views and beach access draw consistent guest praise",
+    "Friendly, attentive staff service"
+  ],
+  "cons": [
+    "Some rooms and public areas show wear and could benefit from renovation",
+    "Spa and extra services run pricier than some guests expect"
+  ],
+  "research_highlights": [
+    "The beachfront Kamala Bay location and sea views draw consistently strong praise",
+    "Staff friendliness is repeatedly highlighted across reviews",
+    "The quieter Kamala setting is called a genuine draw versus busier Patong"
+  ],
+  "research_watchouts": [
+    "A subset of reviews note the property would benefit from a refresh in places",
+    "Spa and add-on services can carry a premium relative to room rates"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Novotel Phuket Kamala Beach directly on the beach?",
+      "answer": "Yes -- it sits directly next to the white sands of Kamala Bay, a quieter alternative to Patong Beach, which is about a 15-minute drive away."
+    },
+    {
+      "question": "Does Novotel Phuket Kamala Beach have villas?",
+      "answer": "Yes -- alongside 144 standard rooms, the property includes 8 suites and 14 villas, giving guests a range of accommodation styles from ocean-view rooms to full villas."
+    }
+  ],
+  "tags": ["kamala beach", "beachfront", "villas"],
+  "source_mix": [
+    {
+      "url": "https://www.novotelphuketkamala.com/",
+      "label": "Official Novotel Phuket Kamala Beach page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1379324-d3987838-Reviews-Novotel_Phuket_Kamala_Beach-Kamala_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.novotelphuketkamala.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-phuket-arcadia-naithon-beach", "grand-mercure-phuket-patong"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Discover Kamala Beach: A Stay at Novotel Phuket | Thailand Travel Guide",
+        "channel": "HollyCaputoWanderlust",
+        "url": "https://www.youtube.com/watch?v=VhWzUq3uQQ8",
+        "video_id": "VhWzUq3uQQ8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

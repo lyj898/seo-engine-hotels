@@ -1,0 +1,100 @@
+{
+  "entity_id": "grand-mercure-phuket-patong",
+  "slug": "grand-mercure-phuket-patong",
+  "name": "Grand Mercure Phuket Patong Resort & Villas",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A resort 740 metres from Patong Beach and 1.5km from Bangla Road, with deluxe rooms offering direct pool access and a vast Western-Thai breakfast buffet.",
+  "ai_summary": "Grand Mercure Phuket Patong Resort & Villas sits in the heart of Patong, 740 metres from Patong Beach and 1.5km from Bangla Road's nightlife, balancing proximity to the action with a more peaceful resort setting. Deluxe rooms offer direct access to a dedicated pool area, and the breakfast buffet is described as vast, spanning Western and Thai dishes. Guests consistently enjoy their stay and would return, citing the location balance and beautiful lobby, though some rooms have limited storage and small workspaces, and reviewers note spa services run pricier than nearby street options.",
+  "core_facts": {
+    "address": "Patong, Kathu District, Phuket 83150, Thailand",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Patong",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "740 metres from Patong Beach, 1.5km from Bangla Road nightlife",
+    "Deluxe rooms with direct access to a dedicated pool area",
+    "Vast breakfast buffet spanning Western and Thai dishes",
+    "Beautiful, well-maintained lobby and facilities",
+    "Balances proximity to Patong's nightlife with a peaceful resort atmosphere"
+  ],
+  "cons": [
+    "Limited room storage and small workspaces in some room categories",
+    "Spa services run pricier than nearby street alternatives",
+    "Around a 45-minute drive from the airport with no public transportation option"
+  ],
+  "research_highlights": [
+    "The balance between Patong Beach/Bangla Road proximity and a peaceful resort setting draws consistent praise",
+    "The breakfast buffet's variety is repeatedly highlighted",
+    "Guests describe the lobby and overall facilities as well-maintained"
+  ],
+  "research_watchouts": [
+    "Some rooms have limited storage and workspace, worth noting for longer stays",
+    "The roughly 45-minute airport transfer has no public transportation alternative"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Grand Mercure Phuket Patong close to Bangla Road?",
+      "answer": "Yes -- it's about 1.5km from Bangla Road's nightlife and 740 metres from Patong Beach, balancing easy access to Patong's action with a more peaceful resort setting."
+    },
+    {
+      "question": "Does Grand Mercure Phuket Patong have pool-access rooms?",
+      "answer": "Yes -- deluxe rooms offer direct access to a dedicated pool area, a popular feature among guests who value private pool proximity without booking a full villa."
+    }
+  ],
+  "tags": ["patong", "bangla road", "pool access rooms"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8109/index.en.shtml",
+      "label": "Official Grand Mercure Phuket Patong page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297930-d6390760-Reviews-Grand_Mercure_Phuket_Patong-Patong_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8109/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-phuket-kamala-beach", "v-villas-phuket-mgallery"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Grand Mercure 5 star Hotel in Patong, Phuket | Full Review & Tour",
+        "channel": "T&L TRAVEL",
+        "url": "https://www.youtube.com/watch?v=gT-UdzcfIrs",
+        "video_id": "gT-UdzcfIrs"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

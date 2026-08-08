@@ -1,0 +1,108 @@
+{
+  "entity_id": "pullman-phuket-arcadia-naithon-beach",
+  "slug": "pullman-phuket-arcadia-naithon-beach",
+  "name": "Pullman Phuket Arcadia Naithon Beach",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 277-room resort on quiet Naithon Beach on Phuket's upper west coast, with an infinity-edge pool overlooking the Andaman Sea, 7.5km from the airport.",
+  "ai_summary": "Pullman Phuket Arcadia Naithon Beach sits on Naithon Beach, a peaceful stretch on Phuket's upper west coast away from the island's busier party areas, just 7.5km from the airport without the noise disturbance closer resorts experience. The 277-room resort's infinity-edge pool overlooks the Andaman Sea, and three restaurants -- including Elements for breakfast and Vero for Italian dining -- draw consistent praise. Guests consistently call it an oasis of affordable luxury, citing spacious rooms and meticulous housekeeping, though the hillside layout involves extensive stairs to reach the beach, a genuine consideration for guests with mobility limitations.",
+  "core_facts": {
+    "address": "22/2 Moo 4, Tambon Sakhu, Amphur Thalang, Phuket 83110, Thailand",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Naithon Beach",
+    "elite_benefits": [
+      "Executive lounge access for suite guests and ALL Diamond members, subject to availability",
+      "Room upgrades for Platinum and Diamond members, subject to availability, per ALL - Accor Live Limitless program terms",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Quiet Naithon Beach location, away from Phuket's busier party areas",
+    "Just 7.5km from the airport without noise disturbance",
+    "Infinity-edge pool overlooking the Andaman Sea",
+    "Elements restaurant's buffet breakfast and Vero's Italian dining draw strong praise",
+    "Kids club and family-friendly facilities"
+  ],
+  "cons": [
+    "Extensive stairs and a hillside layout make beach access challenging for guests with mobility limitations",
+    "Not directly on the beach -- requires a staircase descent",
+    "Limited nightlife nearby given the quiet Naithon setting"
+  ],
+  "research_highlights": [
+    "Guests consistently call it an oasis of affordable luxury for the price point",
+    "The infinity pool and Andaman Sea views draw repeated, strong praise",
+    "Housekeeping and overall cleanliness are highlighted as standout strengths"
+  ],
+  "research_watchouts": [
+    "The hillside layout and extensive stairs are a genuine consideration for guests with mobility limitations",
+    "The beach area is smaller and has fewer amenities than busier Phuket destinations"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Pullman Phuket Arcadia Naithon Beach directly on the beach?",
+      "answer": "Not quite -- the resort sits on a hillside above Naithon Beach, so reaching the sand involves a staircase descent, a genuine consideration for guests with mobility limitations, though the quiet beach itself draws consistent praise."
+    },
+    {
+      "question": "Is Pullman Phuket Arcadia Naithon Beach close to the airport?",
+      "answer": "Yes -- it's just 7.5km from Phuket International Airport, notably closer than many other Phuket beach resorts, without the flight-noise disturbance some closer properties experience."
+    }
+  ],
+  "tags": ["naithon beach", "infinity pool", "airport proximity"],
+  "source_mix": [
+    {
+      "url": "https://www.pullmanphuketarcadia.com/",
+      "label": "Official Pullman Phuket Arcadia Naithon Beach page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2315813-d3217202-Reviews-Pullman_Phuket_Arcadia_Naithon_Beach-Sakhu_Thalang_District_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.pullmanphuketarcadia.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-phuket-kamala-beach"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Pullman Phuket Arcadia Naithon Beach Review",
+        "source": "Phuket101",
+        "url": "https://www.phuket101.net/pullman-phuket-arcadia/",
+        "published_date": "2024-12-09",
+        "summary": "Calls it an oasis of affordable luxury, praising the infinity pool with beach access, Elements buffet breakfast, Vero Italian dining, and airport proximity without noise, but flags the hillside stairs and small beach area."
+      }
+    ],
+    "videos": [
+      {
+        "title": "PULLMAN PHUKET Naithon Arcadia - 4K Tour & Review - BEAUTIFUL 5-Star Resort",
+        "channel": "The Flip Flop Traveller",
+        "url": "https://www.youtube.com/watch?v=t9DoYfJHzPk",
+        "video_id": "t9DoYfJHzPk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 88 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
