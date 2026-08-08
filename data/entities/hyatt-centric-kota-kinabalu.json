@@ -1,0 +1,105 @@
+{
+  "entity_id": "hyatt-centric-kota-kinabalu",
+  "slug": "hyatt-centric-kota-kinabalu",
+  "name": "Hyatt Centric Kota Kinabalu",
+  "category_id": "world-of-hyatt",
+  "region_id": "kota-kinabalu",
+  "short_description": "A 222-room lifestyle hotel designed by architect Kengo Kuma, in Kota Kinabalu's most walkable district, with rooftop infinity pools on level 23.",
+  "ai_summary": "Hyatt Centric Kota Kinabalu, the first Hyatt Centric in Southeast Asia, sits in the city's most walkable corner, with Gaya Street and Central Market within a 10-15 minute walk. Designed by architect Kengo Kuma, guests consistently praise the modern, interesting design, spacious rooms, and comfortable beds, along with double rooftop infinity pools on level 23 offering sea and Mount Kinabalu views. Reviewers describe it as among the best hotels in the city, with strong food quality, friendly staff, and a genuine sense of value, though as a newer, design-forward property it's better suited to travelers who prioritize walkability and local exploration over a resort-style, all-inclusive stay.",
+  "core_facts": {
+    "address": "18 Jalan Haji Saman, 88000 Kota Kinabalu, Sabah, Malaysia",
+    "brand_sub_brand": "Hyatt Centric",
+    "neighborhood": "Central Kota Kinabalu",
+    "elite_benefits": [
+      "Complimentary full breakfast daily for World of Hyatt Globalist Elite members at properties without a dedicated club lounge, per World of Hyatt program terms",
+      "Room upgrades for Explorist and Globalist Elite members, subject to availability",
+      "Late check-out until 4pm for Globalist Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "The first Hyatt Centric in Southeast Asia, designed by architect Kengo Kuma",
+    "Kota Kinabalu's most walkable district, with Gaya Street and Central Market 10-15 minutes away",
+    "Double rooftop infinity pools on level 23 with sea and Mount Kinabalu views",
+    "Guests describe the design as cool, clean, modern and interesting",
+    "Food quality and friendly staff draw consistent, strong praise"
+  ],
+  "cons": [
+    "As a design-forward lifestyle hotel, it suits travelers who want to explore the city more than those wanting an all-inclusive resort stay"
+  ],
+  "research_highlights": [
+    "Guests repeatedly call it among the best hotels in Kota Kinabalu",
+    "The rooftop pools and sunset views draw consistently strong praise",
+    "The walkable location near Gaya Street and Central Market is a standout"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Hyatt Centric Kota Kinabalu close to Gaya Street?",
+      "answer": "Yes -- it sits in the city's most walkable district, with Gaya Street and the Central Market within a 10-15 minute walk, making it a strong base for exploring Kota Kinabalu's local food and markets on foot."
+    },
+    {
+      "question": "Does Hyatt Centric Kota Kinabalu have a pool?",
+      "answer": "Yes -- double rooftop infinity pools on level 23, adjacent to the ON23 Sky Bar, with views over the sea and toward Mount Kinabalu, making it a popular spot for sunset among guests."
+    }
+  ],
+  "tags": ["kengo kuma design", "rooftop pool", "gaya street"],
+  "source_mix": [
+    {
+      "url": "https://www.hyatt.com/hyatt-centric/en-US/bkict-hyatt-centric-kota-kinabalu",
+      "label": "Official Hyatt Centric Kota Kinabalu page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298307-d24138747-Reviews-Hyatt_Centric_Kota_Kinabalu-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Division_.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hyatt.com/hyatt-centric/en-US/bkict-hyatt-centric-kota-kinabalu",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-regency-kinabalu"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hyatt Centric Kota Kinabalu Review: I Was There, So I Went Everywhere",
+        "source": "Nacre",
+        "url": "https://nacre.asia/2026/06/18/hyatt-centric-kota-kinabalu-hotel-review/",
+        "published_date": "2026-06-18",
+        "summary": "Praises the Kengo Kuma-designed hotel as the first Hyatt Centric in Southeast Asia, in the city's most walkable corner, with Gaya Street and Central Market minutes away, and calls out the ON22/ON23 Sky Bar dining and rooftop sunset views."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hyatt Centric Kota Kinabalu | Kota Kinabalu, Malaysia | Hotel Review",
+        "channel": "Malaysia Hotel Insider",
+        "url": "https://www.youtube.com/watch?v=uHbkwEEC1G0",
+        "video_id": "uHbkwEEC1G0"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
