@@ -1,0 +1,91 @@
+{
+  "entity_id": "grand-mercure-solo-baru",
+  "slug": "grand-mercure-solo-baru",
+  "name": "Grand Mercure Solo Baru",
+  "category_id": "accor-all",
+  "region_id": "solo",
+  "short_description": "A 345-room hotel in Solo Baru's central business district, with a 21st-floor sky lounge, a 3rd-floor infinity pool, and direct access to The Park Mall.",
+  "ai_summary": "Grand Mercure Solo Baru sits in the central business district of Solo Baru, rebranding into the Grand Mercure name in October 2022 after operating as Best Western Premier Solo Baru. The 345 rooms and suites offer city skyline views, complemented by a sky lounge on the 21st floor and an infinity pool on the 3rd floor, with direct access to The Park Mall and walking distance to the Hartono Trade Center and Pakuwon Mall. Guests consistently describe the hotel as good value, citing spacious rooms, quality pool and sauna facilities, and strong food and beverage offerings.",
+  "core_facts": {
+    "address": "Jl. Ir. Sukarno, Solo Baru, Surakarta 57552, Indonesia",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Solo Baru",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "345 rooms and suites with city skyline views",
+    "21st-floor sky lounge and a 3rd-floor infinity pool",
+    "Direct access to The Park Mall, walking distance to Hartono Trade Center and Pakuwon Mall",
+    "Rebranded into Grand Mercure in October 2022 from Best Western Premier",
+    "Guests consistently describe it as good value with quality pool and sauna facilities"
+  ],
+  "cons": [
+    "The Solo Baru business-district setting sits outside central Solo's historic core",
+    "As a large hotel with 345 rooms, the atmosphere leans more corporate than boutique"
+  ],
+  "research_highlights": [
+    "The sky lounge and infinity pool are consistently called standout amenities",
+    "The direct mall connection and skyline views draw repeated praise",
+    "Guests consistently describe the property as good value for the price"
+  ],
+  "research_watchouts": [
+    "No significant recurring watchouts surfaced across recent reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Was Grand Mercure Solo Baru previously a different brand?",
+      "answer": "Yes -- it operated as Best Western Premier Solo Baru before rebranding into the Grand Mercure name in October 2022, becoming part of Accor's ALL - Accor Live Limitless program."
+    },
+    {
+      "question": "Does Grand Mercure Solo Baru have a rooftop lounge?",
+      "answer": "Yes -- a sky lounge on the 21st floor offers city skyline views, alongside an infinity pool on the 3rd floor and direct access to The Park Mall."
+    }
+  ],
+  "tags": ["solo baru", "sky lounge", "mall access"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C0I4/index.en.shtml",
+      "label": "Official Grand Mercure Solo Baru page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g12831555-d7931032-Reviews-Grand_Mercure_Solo_Baru-Grogol_Central_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C0I4/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-solo"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

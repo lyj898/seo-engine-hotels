@@ -1,0 +1,99 @@
+{
+  "entity_id": "grand-mercure-bandung-setiabudi",
+  "slug": "grand-mercure-bandung-setiabudi",
+  "name": "Grand Mercure Bandung Setiabudi",
+  "category_id": "accor-all",
+  "region_id": "bandung",
+  "short_description": "A 205-room hotel on Jalan Dr. Setiabudi with two international cuisine restaurants, an outdoor pool, and a kids' playground and arcade.",
+  "ai_summary": "Grand Mercure Bandung Setiabudi sits on Jalan Dr. Setiabudi in Bandung, offering 205 rooms and suites alongside two international cuisine restaurants, a spa, an outdoor pool, a kids' playground, an arcade/game room, and yoga classes. Guests consistently describe the hotel as good value, citing reasonable prices, quality service, and stunning views from the Setiabudi hillside location. Family-oriented amenities and the international dining options draw repeated praise, positioning it as a solid mid-to-upscale pick for both business and leisure travelers in Bandung.",
+  "core_facts": {
+    "address": "Jl. Dr. Setiabudi No. 269-275, Bandung, West Java 40154, Indonesia",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Setiabudi",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "205 rooms and suites on the Setiabudi hillside with stunning views",
+    "Two international cuisine restaurants on-site",
+    "Kids' playground, arcade/game room, and yoga classes",
+    "Outdoor pool and spa",
+    "Guests consistently describe it as good value for the price"
+  ],
+  "cons": [
+    "The Setiabudi hillside location sits away from central Bandung's main shopping and dining strips",
+    "A subset of reviews note the property didn't fully meet expectations relative to the price"
+  ],
+  "research_highlights": [
+    "Views from the Setiabudi hillside setting draw consistent praise",
+    "Family-friendly amenities -- the playground, arcade, and yoga classes -- are highlighted by traveling families",
+    "Value for money is a recurring theme across recent reviews"
+  ],
+  "research_watchouts": [
+    "A minority of reviews describe the stay as falling short of expectations",
+    "The hillside Setiabudi location requires transport to reach central Bandung"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Grand Mercure Bandung Setiabudi good for families?",
+      "answer": "Yes -- it includes a kids' playground, an arcade/game room, and yoga classes alongside an outdoor pool, making it a solid pick for families visiting Bandung."
+    },
+    {
+      "question": "Where is Grand Mercure Bandung Setiabudi located?",
+      "answer": "On Jalan Dr. Setiabudi, on Bandung's northern hillside, offering stunning views but requiring transport to reach the city's central shopping and dining areas."
+    }
+  ],
+  "tags": ["setiabudi", "hillside views", "family-friendly"],
+  "source_mix": [
+    {
+      "url": "https://grandmercurebandung.com/",
+      "label": "Official Grand Mercure Bandung Setiabudi page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297704-d6499583-Reviews-Grand_Mercure_Bandung_Setiabudi-Bandung_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://grandmercurebandung.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Grand Mercure Bandung Setiabudi | Staycation",
+        "channel": "Vacalicius",
+        "url": "https://www.youtube.com/watch?v=fDg6g8cMBu0",
+        "video_id": "fDg6g8cMBu0"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

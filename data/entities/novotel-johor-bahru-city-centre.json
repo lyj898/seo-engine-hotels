@@ -1,0 +1,91 @@
+{
+  "entity_id": "novotel-johor-bahru-city-centre",
+  "slug": "novotel-johor-bahru-city-centre",
+  "name": "Novotel Johor Bahru City Centre",
+  "category_id": "accor-all",
+  "region_id": "johor-bahru",
+  "short_description": "A hotel that opened December 2025 on Jalan Pelanduk, a 3-minute walk to KSL mall, with modern wood-toned rooms and an executive lounge.",
+  "ai_summary": "Novotel Johor Bahru City Centre opened in December 2025 on Jalan Pelanduk in the heart of Johor Bahru, a 3-minute walk from KSL mall. Rooms feature a modern wooden interior with soft lighting and comfortable bedding, and Accor elite members can access an executive lounge with complimentary drinks and coffee. Guests consistently describe the hotel as comfortable, conveniently located, and staffed by a genuinely friendly team, making it a popular pick for Singaporean families extending day trips into overnight stays, with the KSL mall proximity a recurring highlight.",
+  "core_facts": {
+    "address": "Jalan Pelanduk, Johor Bahru 80250, Malaysia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Johor Bahru city centre",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Opened December 2025, with new and pristine facilities",
+    "3-minute walk to KSL mall",
+    "Modern wood-toned rooms with soft lighting and comfortable bedding",
+    "Executive lounge access for Accor elite members, with complimentary drinks and coffee",
+    "Staff described as incredibly friendly and attentive"
+  ],
+  "cons": [
+    "As a newly opened hotel, review volume and long-term consistency are still limited",
+    "Breakfast spread is described as decent rather than extensive"
+  ],
+  "research_highlights": [
+    "The KSL mall proximity and city centre location draw consistent praise",
+    "Room design and comfort are repeatedly highlighted given the hotel's newness",
+    "Staff attentiveness, including toward Accor elite members, is called a genuine strength"
+  ],
+  "research_watchouts": [
+    "As a newly opened property, the review base is still building"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "When did Novotel Johor Bahru City Centre open?",
+      "answer": "December 2025, on Jalan Pelanduk in the heart of Johor Bahru's city centre, a 3-minute walk from KSL mall -- guests describe the facilities as new and pristine."
+    },
+    {
+      "question": "Is Novotel Johor Bahru City Centre good for a Singapore day trip?",
+      "answer": "Yes -- it's a popular pick for Singaporean families extending day trips into overnight stays, given the convenient KSL mall proximity and reasonable weekend pricing."
+    }
+  ],
+  "tags": ["ksl mall", "city centre", "new opening"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B585/index.en.shtml",
+      "label": "Official Novotel Johor Bahru City Centre page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298278-d34036226-Reviews-Novotel_Johor_Bahru_City_Centre-Johor_Bahru_Johor_Bahru_District_Johor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B585/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-johor-iskandar-puteri"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 70 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

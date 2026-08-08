@@ -1,0 +1,98 @@
+{
+  "entity_id": "mercure-surabaya-grand-mirama",
+  "slug": "mercure-surabaya-grand-mirama",
+  "name": "Mercure Surabaya Grand Mirama",
+  "category_id": "accor-all",
+  "region_id": "surabaya",
+  "short_description": "A 257-room hotel including 19 suites with exclusive butler service, less than a 10-minute walk from Tunjungan Plaza and Gubeng Train Station.",
+  "ai_summary": "Mercure Surabaya Grand Mirama sits centrally in Surabaya, less than a 10-minute walk from both Tunjungan Plaza and Gubeng Train Station. The 257-room hotel includes 19 suites with exclusive butler service, alongside two restaurants, a coffee lounge, pool bar, 14 meeting rooms, a ballroom, a swimming pool, gym, bicycle rental, and a spa. Guests consistently praise the diverse breakfast, excellent service, cleanliness, and spacious rooms, with the central location near shopping and dining a recurring highlight.",
+  "core_facts": {
+    "address": "Jalan Raya Darmo, Surabaya, East Java, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Jalan Raya Darmo",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Less than a 10-minute walk from Tunjungan Plaza and Gubeng Train Station",
+    "257 rooms including 19 suites with exclusive butler service",
+    "Two restaurants, a coffee lounge, and a pool bar",
+    "14 meeting rooms and a ballroom suit business travelers and events",
+    "Diverse breakfast and cleanliness draw consistent praise"
+  ],
+  "cons": [
+    "As a large hotel with extensive meeting facilities, the atmosphere leans more business-oriented than boutique",
+    "Some reviews note the property doesn't always match the consistency of other Mercure locations"
+  ],
+  "research_highlights": [
+    "The central Jalan Raya Darmo location near Tunjungan Plaza draws consistent praise",
+    "The 19 butler-serviced suites are called a distinctive upscale touch for the Mercure brand",
+    "Breakfast variety and overall service quality are repeatedly highlighted"
+  ],
+  "research_watchouts": [
+    "A subset of reviews note inconsistency relative to other Mercure properties"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "Is Mercure Surabaya Grand Mirama close to Tunjungan Plaza?",
+      "answer": "Yes -- it's less than a 10-minute walk from both Tunjungan Plaza and Gubeng Train Station, putting the hotel within easy reach of Surabaya's shopping and transit."
+    },
+    {
+      "question": "Does Mercure Surabaya Grand Mirama have suites with butler service?",
+      "answer": "Yes -- 19 of the hotel's 257 rooms are suites with exclusive butler service, an upscale touch alongside the property's 14 meeting rooms and ballroom for business events."
+    }
+  ],
+  "tags": ["jalan raya darmo", "tunjungan plaza", "butler service suites"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/a/en/destination/city/hotels-surabaya-v7442.html",
+      "label": "Accor Surabaya hotels listing",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297715-d651431-Reviews-Mercure_Surabaya_Grand_Mirama-Surabaya_East_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/a/en/destination/city/hotels-surabaya-v7442.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "LUXURY STAY at MERCURE SURABAYA GRAND MIRAMA - PRIVILEGE SUITE TOUR",
+        "channel": "Jo And World",
+        "url": "https://www.youtube.com/watch?v=_wND4san71w",
+        "video_id": "_wND4san71w"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}

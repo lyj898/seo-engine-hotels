@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-langkawi-pantai-cenang",
+  "slug": "mercure-langkawi-pantai-cenang",
+  "name": "Mercure Langkawi Pantai Cenang",
+  "category_id": "accor-all",
+  "region_id": "langkawi",
+  "short_description": "The first Accor resort in Langkawi, opened April 2022, a 5-minute walk from Cenang Beach and Underwater World with Sleep Number beds in every room.",
+  "ai_summary": "Mercure Langkawi Pantai Cenang opened April 1, 2022 as the first Accor Hotels resort in Langkawi, a 5-minute walk from Cenang Beach and the Underwater World aquarium. Every room includes a private balcony or patio and a Sleep Number bed, and the resort's spacious pool and diverse breakfast draw consistent praise. Guests consistently highlight the hotel's cleanliness and sunset views, along with kid-friendly touches that make it a popular family pick, though a subset of early reviews noted new-build issues like bathroom odor and a still-developing gym.",
+  "core_facts": {
+    "address": "Pantai Cenang, Langkawi, Kedah, Malaysia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Pantai Cenang",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "First Accor Hotels resort in Langkawi, opened April 1, 2022",
+    "5-minute walk to Cenang Beach and the Underwater World aquarium",
+    "Every room includes a private balcony/patio and a Sleep Number bed",
+    "Spacious pool and diverse breakfast options draw consistent praise",
+    "Kid-friendly amenities make it a popular family pick"
+  ],
+  "cons": [
+    "Some early reviews noted new-build issues, including bathroom odor in certain rooms",
+    "Gym facilities are described as still developing relative to the resort's other amenities"
+  ],
+  "research_highlights": [
+    "Cleanliness and sunset views draw consistently strong praise",
+    "The Pantai Cenang location near key attractions is repeatedly called convenient",
+    "Family-friendly touches make it a popular choice for travelers with kids"
+  ],
+  "research_watchouts": [
+    "A subset of reviews noted new-construction bathroom odor issues, worth checking recent feedback",
+    "Gym equipment has been described as sparse relative to the rest of the resort"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-08",
+  "faqs": [
+    {
+      "question": "When did Mercure Langkawi Pantai Cenang open?",
+      "answer": "April 1, 2022, as the first Accor Hotels resort in Langkawi -- it's located a 5-minute walk from Cenang Beach and the Underwater World aquarium."
+    },
+    {
+      "question": "Do all rooms at Mercure Langkawi Pantai Cenang have balconies?",
+      "answer": "Yes -- every room includes a private balcony or patio along with a Sleep Number bed, a feature guests consistently call out as a comfort highlight."
+    }
+  ],
+  "tags": ["pantai cenang", "cenang beach", "family-friendly"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A3M7/index.en.shtml",
+      "label": "Official Mercure Langkawi Pantai Cenang page",
+      "type": "official",
+      "last_checked": "2026-08-08"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298283-d23283788-Reviews-Mercure_Langkawi_Pantai_Cenang-Langkawi_Langkawi_District_Kedah.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-08"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A3M7/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-penang-beach"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Where to Stay in Langkawi? Mercure Pantai Cenang Full Tour - Is This the Best Mid-Range Hotel?",
+        "channel": "jesgbc",
+        "url": "https://www.youtube.com/watch?v=peBNDlCRkME",
+        "video_id": "peBNDlCRkME"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-08",
+  "status": "active"
+}
