@@ -1,0 +1,102 @@
+{
+  "entity_id": "mercure-mactan-cebu",
+  "slug": "mercure-mactan-cebu",
+  "name": "Mercure Mactan Cebu",
+  "category_id": "accor-all",
+  "region_id": "cebu",
+  "short_description": "Mercure's Philippines debut: a 550-room hotel in Mactan Newtown directly opposite the Mactan Expo, rebranded from the former Belmont Hotel Mactan.",
+  "ai_summary": "Mercure Mactan Cebu is Mercure's first hotel in the Philippines, occupying the former Belmont Hotel Mactan within Mactan Newtown -- Megaworld's coastal township about 15-20 minutes from Mactan-Cebu International Airport and directly opposite the Mactan Expo convention centre. The 550 rooms range from Standard to Privilege categories up to a Presidential Suite, with locally inspired design and dining at Pulô, Lingaw Pool Bar, and Zabana Bar and Lounge, plus a pool, gym, spa, and beach access shared with the Mactan Newtown Beach Club. Guests consistently praise the friendly staff, walkable township location, and pool, while some reviews -- including a February 2026 stay -- flag inconsistent housekeeping and maintenance issues like cold water or slow drainage.",
+  "core_facts": {
+    "address": "Newtown Boulevard, The Mactan Newtown, 6015 Lapu-Lapu City, Philippines",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Mactan Newtown",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Mercure's first Philippines hotel, with 550 rooms directly opposite the Mactan Expo convention centre",
+    "Walkable Mactan Newtown township location with restaurants, cafes, and shops nearby",
+    "Beach access via the shared Mactan Newtown Beach Club with an infinity pool",
+    "Multiple dining venues including Pulô for Filipino and Cebuano cuisine",
+    "Guests consistently praise the friendly, helpful staff and the pool"
+  ],
+  "cons": [
+    "Some guests report inconsistent housekeeping, including floors not thoroughly cleaned",
+    "A February 2026 stay and other reviews flag maintenance issues such as cold water, slow drainage, or bathroom odor",
+    "The shared beach is described by some guests as rocky rather than a soft-sand swimming beach"
+  ],
+  "research_highlights": [
+    "Staff friendliness and the walkable township setting are called out repeatedly",
+    "The pool and Mactan Newtown Beach Club access are highlighted as strengths",
+    "Proximity to restaurants and cafes within Mactan Newtown draws praise"
+  ],
+  "research_watchouts": [
+    "A February 2026 guest review reported cold showers, slow drainage, and bathroom odor issues",
+    "Some guests note inconsistent housekeeping between stays"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-09",
+  "faqs": [
+    {
+      "question": "Is Mercure Mactan Cebu a new hotel?",
+      "answer": "It's a rebrand -- the property opened in June 2023 as the Belmont Hotel Mactan and relaunched in 2025 as Mercure Mactan Cebu under a franchise partnership between Accor and Megaworld Hotels & Resorts, marking Mercure's debut brand in the Philippines."
+    },
+    {
+      "question": "Does Mercure Mactan Cebu have beach access?",
+      "answer": "Yes -- guests can walk about 6-7 minutes to the Mactan Newtown Beach Club, which has an infinity pool and beach area shared with the neighboring Savoy Hotel, in addition to the hotel's own outdoor pool, gym, and spa."
+    }
+  ],
+  "tags": ["mactan newtown", "mactan expo", "belmont rebrand"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C586/index.en.shtml",
+      "label": "Official Mercure Mactan Cebu page",
+      "type": "official",
+      "last_checked": "2026-08-09"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298461-d25213380-Reviews-Mercure_Mactan_Cebu-Lapu_Lapu_Mactan_Island_Cebu_Island_Visayas.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-09"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C586/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-hotel-mactan-island-cebu"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "TERRIBLE EXPERIENCE AS AN ALL ACCOR PLATINUM MEMBER",
+        "source": "TripAdvisor",
+        "author": "Verified guest",
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g298461-d25213380-r1051282171-Mercure_Mactan_Cebu-Lapu_Lapu_Mactan_Island_Cebu_Island_Visayas.html",
+        "published_date": "2026-02-02",
+        "summary": "An ALL Platinum member's stay flagged a cold shower, slow bathroom drainage and odor, and Guest Services reluctant to provide complimentary drinking water despite elite status."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-09",
+  "status": "active"
+}
