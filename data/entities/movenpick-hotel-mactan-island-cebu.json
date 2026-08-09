@@ -1,0 +1,108 @@
+{
+  "entity_id": "movenpick-hotel-mactan-island-cebu",
+  "slug": "movenpick-hotel-mactan-island-cebu",
+  "name": "Movenpick Hotel Mactan Island Cebu",
+  "category_id": "accor-all",
+  "region_id": "cebu",
+  "short_description": "A 245-room beachfront 5-star resort on Punta Engaño with a private white-sand beach, Swiss-inspired dining, and a Little Birds kids' club.",
+  "ai_summary": "Movenpick Hotel Mactan Island Cebu sits on Punta Engaño, Mactan Island, roughly 15-20 minutes from Mactan-Cebu International Airport, with a private white-sand beach fronting the resort. The 245 rooms and suites span 35-224 sqm, topped by the three-bedroom Ibiza Loft penthouse, and the resort runs the signature Mövenpick Chocolate Hour alongside Swiss-inspired dining at The Forum, The Sails, and the Lobby Lounge. Family amenities include the Little Birds Club and a children's pool, and the property holds Green Globe certification for sustainable operations. Guests consistently praise the friendly, attentive staff and beachfront setting, though a February 2025 review and a number of TripAdvisor guests flag dated decor and note the resort could use a refresh.",
+  "core_facts": {
+    "address": "Punta Engaño, Mactan Island, 6015 Lapu-Lapu City, Cebu, Philippines",
+    "brand_sub_brand": "Movenpick",
+    "neighborhood": "Punta Engaño, Mactan Island",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "245 rooms and suites on a private white-sand beach on Mactan Island",
+    "Signature Movenpick Chocolate Hour and Swiss-inspired dining across multiple outlets",
+    "Green Globe certified for sustainable, eco-friendly operations",
+    "Little Birds Club and children's pool suit family stays",
+    "Guests consistently praise the friendly, attentive staff"
+  ],
+  "cons": [
+    "A February 2025 review and a number of TripAdvisor guests describe the resort as needing a refresh, citing dated decor in places",
+    "Rates run higher than nearby non-branded options on Mactan Island"
+  ],
+  "research_highlights": [
+    "The private beachfront setting draws consistent praise across reviews",
+    "Staff hospitality and warmth are repeatedly highlighted as a strength",
+    "Family-friendly touches like the Little Birds Club and kids' pool are valued by families"
+  ],
+  "research_watchouts": [
+    "A February 2025 review and some TripAdvisor guests flag dated decor and say the resort needs a facelift",
+    "A subset of guests describe pricing as steep given the property's condition"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-09",
+  "faqs": [
+    {
+      "question": "How many rooms does Movenpick Hotel Mactan Island Cebu have?",
+      "answer": "It has 245 rooms and suites across categories from 35 to 224 square meters, including deluxe rooms with atrium, sea, or ocean views, premier suites, and the flagship three-bedroom Ibiza Loft penthouse, all within a beachfront resort on Punta Engaño."
+    },
+    {
+      "question": "Is Movenpick Hotel Mactan Island Cebu good for families?",
+      "answer": "Yes -- the resort runs the Little Birds Club for daily kids' activities alongside a children's pool, private beach access, and watersports, and it holds Green Globe certification recognizing its sustainable, family-friendly beachfront operations near the airport."
+    }
+  ],
+  "tags": ["mactan island", "private beach", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://movenpick.accor.com/en/asia/philippines/cebu/hotel-mactan-island-cebu.html",
+      "label": "Official Movenpick Hotel Mactan Island Cebu page",
+      "type": "official",
+      "last_checked": "2026-08-09"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298461-d543035-Reviews-Movenpick_Hotel_Mactan_Island_Cebu-Lapu_Lapu_Mactan_Island_Cebu_Island_Visayas.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-09"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://movenpick.accor.com/en/asia/philippines/cebu/hotel-mactan-island-cebu.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-mactan-cebu"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Movenpick Mactan Review: Best Resort In Cebu?",
+        "source": "Is Life a Recipe",
+        "author": "Brian Kennett",
+        "url": "https://islifearecipe.net/movenpick-mactan-review-cebu-the-philippines/",
+        "published_date": "2025-02-15",
+        "summary": "Praises the beachfront location, private beach, dining, and hospitality, but says the resort 'needs a facelift', flags the then-closed Ibiza Beach Club, and calls prices steep -- 'pretty close to hitting the mark' overall."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Movenpick Hotel Mactan Cebu (2025) | Luxury Staycation, Room Tour + Beach Walk",
+        "channel": "Life's a Charm",
+        "url": "https://www.youtube.com/watch?v=H_TY2yGx1mk",
+        "video_id": "H_TY2yGx1mk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-09",
+  "status": "active"
+}
