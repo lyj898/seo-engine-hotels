@@ -1,0 +1,119 @@
+{
+  "entity_id": "grand-mercure-bangkok-atrium",
+  "slug": "grand-mercure-bangkok-atrium",
+  "name": "Grand Mercure Bangkok Atrium",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 568-room hotel on New Phetchaburi Road with a free shuttle to Phetchaburi MRT and the Makkasan Airport Rail Link, recently rebranded from AVANI Atrium.",
+  "ai_summary": "Grand Mercure Bangkok Atrium occupies the long-running Phetchaburi/Huai Khwang property formerly known as Atrium Bangkok and then AVANI(+) Atrium Bangkok, rebranded into Accor's Grand Mercure name in 2022. A free half-hourly shuttle links the hotel to Phetchaburi MRT and the Makkasan Airport Rail Link, and reviewers consistently praise spacious rooms, an executive lounge, and strong value against comparable Sukhumvit-area hotels. The location sits outside Bangkok's main tourist clusters, so sightseeing depends on that transit connection, and at 568 rooms the property can feel busy during high-occupancy periods; because of the recent rebrand, older reviews and some booking sites still reference the AVANI name for the same building.",
+  "core_facts": {
+    "address": "1880 New Phetchaburi Road, Bang Kapi, Huai Khwang, Bangkok 10310, Thailand",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Phetchaburi / Makkasan (Huai Khwang district)",
+    "distance_from_airport_km": 26,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Free half-hourly shuttle to Phetchaburi MRT station and the Airport Rail Link at Makkasan, easing airport and city transfers",
+    "Spacious, modern rooms (roughly 32-45 sqm) with rainfall showers, seen as strong value versus comparable Sukhumvit-area hotels",
+    "Executive lounge with breakfast and evening canapes, plus a well-regarded Indian restaurant and Cantonese dim sum on site",
+    "Solid facilities for a business-class hotel: outdoor pool, fitness centre, spa and sauna",
+    "Consistently friendly, attentive staff reported across the property's different brand eras"
+  ],
+  "cons": [
+    "Sits outside Bangkok's prime tourist zones (Sukhumvit, Sathorn, Silom) and feels functional rather than charming, so sightseeing relies on transit",
+    "At 568 rooms the hotel can feel busy and less intimate during conference or high-occupancy periods",
+    "Some guests describe the decor as dated in places, and isolated room issues have been reported"
+  ],
+  "research_highlights": [
+    "A free half-hourly shuttle to Phetchaburi MRT and the Makkasan Airport Rail Link is a recurring positive across reviews",
+    "Service quality is rated consistently well across the property's different brand eras (Atrium, AVANI/AVANI+, and now Grand Mercure)",
+    "Guests repeatedly cite strong value: pool, gym, executive lounge and multiple dining options at rates below comparable Sukhumvit-area hotels"
+  ],
+  "research_watchouts": [
+    "The property has changed brand names multiple times (Atrium, then AVANI/AVANI+ Atrium, now Grand Mercure Bangkok Atrium), so some booking platforms and older listings still carry the AVANI name for the same building",
+    "The neighborhood sits outside Bangkok's main tourist districts, so travelers prioritizing walkable nightlife or attractions should expect to rely on the MRT/Airport Rail Link shuttle"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-09",
+  "faqs": [
+    {
+      "question": "How far is Grand Mercure Bangkok Atrium from Suvarnabhumi Airport?",
+      "answer": "It's roughly 26 km from Suvarnabhumi Airport, about 30-45 minutes by car depending on traffic. The hotel is more directly linked to the Airport Rail Link's Makkasan station via a free shuttle, which is often the faster option."
+    },
+    {
+      "question": "Is Grand Mercure Bangkok Atrium the same hotel as AVANI Atrium Bangkok?",
+      "answer": "Yes -- the 568-room property at 1880 New Phetchaburi Road operated for years as Atrium Bangkok and later AVANI(+) Atrium Bangkok before Accor rebranded it as Grand Mercure Bangkok Atrium in 2022; it's the same building and location under new management."
+    }
+  ],
+  "tags": ["huai khwang", "rebranded 2022", "executive lounge"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C0Y8/index.en.shtml",
+      "label": "Official Grand Mercure Bangkok Atrium page",
+      "type": "official",
+      "last_checked": "2026-08-09"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d300435-Reviews-Grand_Mercure_Bangkok_Atrium-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-09"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C0Y8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-bangkok-makkasan"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Grand Mercure Atrium Bangkok Hotel Review | Room, Lounge, Gym & Pool Tour",
+        "channel": "Step my route",
+        "url": "https://www.youtube.com/watch?v=cHNe6PGQPc8",
+        "video_id": "cHNe6PGQPc8"
+      },
+      {
+        "title": "Grand Mercure Bangkok Atrium Hotel; executive suite room (former Avani Hotel)",
+        "channel": "Angelo Traveller",
+        "url": "https://www.youtube.com/watch?v=WQkwTcGRlh0",
+        "video_id": "WQkwTcGRlh0"
+      },
+      {
+        "title": "Grand Mercure Bangkok Atrium | 365 Nights in Accor Hotels (Nights 1 - 3)",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=oR-03Bsvdmo",
+        "video_id": "oR-03Bsvdmo"
+      },
+      {
+        "title": "Grand Mercure Atrium Bangkok Room Tour",
+        "channel": "Aman Bajaj",
+        "url": "https://www.youtube.com/watch?v=MhdsHdTmprs",
+        "video_id": "MhdsHdTmprs"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 68 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-09",
+  "status": "active"
+}
