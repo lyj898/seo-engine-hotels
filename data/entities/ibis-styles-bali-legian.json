@@ -1,14 +1,14 @@
 {
   "entity_id": "ibis-styles-bali-legian",
   "slug": "ibis-styles-bali-legian",
-  "name": "ibis Styles Bali Legian",
+  "name": "TRIBE Bali Legian",
   "category_id": "accor-all",
   "region_id": "bali",
-  "short_description": "A 113-room budget hotel with tropical gardens, about a 5-minute walk to Legian Beach, and a central pool deck with a kids pool and bar.",
-  "ai_summary": "ibis Styles Bali Legian sits on Jalan Padma Utara, just north of Kuta and about a 5-minute walk from Legian Beach's white sand. The 113 air-conditioned rooms are set within tropical gardens, and the central pool deck includes a dedicated kids pool, sun loungers, and a bar, alongside dining at Colours Cafe and treatments at Chill Out Spa. Guests consistently praise the welcoming atmosphere, location, and value for the price, with the property repeatedly called one of the better budget-tier Accor options in Bali, though some reviews note room quality is basic relative to the resort-style properties nearby.",
+  "short_description": "A 113-room design-led lifestyle hotel in Legian, rebranded from ibis Styles Bali Legian after a full renovation that closed the property from April to August 2026.",
+  "ai_summary": "TRIBE Bali Legian sits on Jalan Padma Utara, just north of Kuta and within walking distance of Legian Beach. The property closed on April 1, 2026 for a complete renovation and reopened in August 2026 as TRIBE's second Indonesian hotel, with the same 113 rooms now reworked with locally-inspired interiors and flexible layouts for short or extended stays. Amenities include swimming pools with a kids' corner, a gym, a spa and salon offering Balinese treatments, a private meeting room, and dining at Folk and Fare alongside Huddles Sports Bar and a lobby/pool bar. As a newly reopened property, it does not yet have an established run of guest reviews under the new branding.",
   "core_facts": {
     "address": "Jl. Padma Utara, Legian 80361, Bali, Indonesia",
-    "brand_sub_brand": "ibis Styles",
+    "brand_sub_brand": "TRIBE",
     "neighborhood": "Legian",
     "elite_benefits": [
       "ALL - Accor Live Limitless points earning and member rates on eligible bookings",
@@ -17,49 +17,49 @@
     ]
   },
   "pros": [
-    "About a 5-minute walk to Legian Beach's white sand",
-    "113 rooms set within tropical gardens",
-    "Central pool deck with a dedicated kids pool, sun loungers, and a bar",
-    "Colours Cafe dining and Chill Out Spa treatments on-site",
-    "Consistently praised as good value and family-friendly for a budget-tier hotel"
+    "Walking distance to Legian Beach, within easy reach of Kuta and Seminyak",
+    "113 rooms fully renovated in 2026 with locally-inspired interiors and flexible layouts",
+    "Swimming pools with a dedicated kids' corner, plus a gym and private meeting room",
+    "Spa and salon offering Balinese treatments",
+    "Three dining/drinking venues: Folk and Fare, Huddles Sports Bar, and a lobby/pool bar"
   ],
   "cons": [
-    "Room quality is basic relative to the resort-style properties nearby",
-    "As a budget-tier hotel, amenities are more limited than Bali's larger beachfront resorts"
+    "Reopened in August 2026 after a five-month closure, so it doesn't yet have an established run of guest reviews under the TRIBE brand",
+    "As a design-led midscale property, it sits a tier above budget but still below Bali's full-service resorts nearby"
   ],
   "research_highlights": [
-    "The Legian Beach proximity and tropical garden setting draw consistent praise",
-    "The hotel is repeatedly called one of the better budget Accor picks in Bali",
-    "Family-friendly touches, including the kids pool, are highlighted by traveling parents"
+    "The Legian Beach walking-distance location and easy reach of Kuta/Seminyak carry over from the property's prior branding",
+    "The 2026 renovation added a broader dining lineup (Folk and Fare, Huddles Sports Bar) and a private meeting room not present under the old ibis Styles branding",
+    "Family-friendly touches, including a dedicated kids' pool corner, are retained post-renovation"
   ],
   "research_watchouts": [
-    "Some guests note room quality is basic given the budget-tier positioning"
+    "The property only reopened in August 2026 as TRIBE Bali Legian -- no meaningful volume of guest reviews exists yet under the new brand, so early sentiment here is provisional"
   ],
-  "research_confidence": "medium",
-  "research_last_updated": "2026-08-08",
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-09",
   "faqs": [
     {
-      "question": "Is ibis Styles Bali Legian close to the beach?",
-      "answer": "Yes -- it's about a 5-minute walk from Legian Beach's white sand, just north of Kuta, making it a convenient budget base for exploring both Legian and Kuta."
+      "question": "Is TRIBE Bali Legian the same hotel as ibis Styles Bali Legian?",
+      "answer": "Yes -- it's the same 113-room property on Jalan Padma Utara in Legian, rebranded after Accor closed it on April 1, 2026 for a full renovation and reopened it in August 2026 as TRIBE Bali Legian, the brand's second hotel in Indonesia."
     },
     {
-      "question": "Is ibis Styles Bali Legian good for families?",
-      "answer": "Yes -- the central pool deck includes a dedicated kids pool alongside sun loungers and a bar, and the tropical garden setting and value pricing make it a popular pick among families visiting Bali on a budget."
+      "question": "Is TRIBE Bali Legian close to the beach?",
+      "answer": "Yes -- it's within walking distance of Legian Beach, just north of Kuta, putting it in easy reach of both Kuta and Seminyak for beach days and nightlife."
     }
   ],
-  "tags": ["legian beach", "budget hotel", "family-friendly"],
+  "tags": ["legian beach", "lifestyle hotel", "family-friendly"],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/5703/index.en.shtml",
-      "label": "Official ibis Styles Bali Legian page",
+      "label": "Official TRIBE Bali Legian page",
       "type": "official",
-      "last_checked": "2026-08-08"
+      "last_checked": "2026-08-09"
     },
     {
-      "url": "https://www.tripadvisor.com/Hotel_Review-g608487-d578319-Reviews-Ibis_Styles_Bali_Legian-Legian_Kuta_District_Bali.html",
-      "label": "TripAdvisor guest reviews",
+      "url": "https://www.nowjakarta.co.id/tribe-bali-legian-a-new-base-for-your-island-adventure/",
+      "label": "NOW! Jakarta opening feature",
       "type": "review",
-      "last_checked": "2026-08-08"
+      "last_checked": "2026-08-09"
     }
   ],
   "cta_links": [
@@ -72,27 +72,29 @@
   "affiliate_links": [],
   "related_entity_ids": ["pullman-bali-legian-beach", "grand-mercure-bali-seminyak"],
   "external_coverage": {
-    "reviews": [],
-    "videos": [
+    "reviews": [
       {
-        "title": "Ibis Styles Bali Legian | 365 Nights in Accor Hotels (Night 38)",
-        "channel": "BeBaffled Travel",
-        "url": "https://www.youtube.com/watch?v=MTsIKR6f_tA",
-        "video_id": "MTsIKR6f_tA"
+        "title": "TRIBE Bali Legian: A New Base for Your Island Adventure",
+        "source": "NOW! Jakarta",
+        "author": "NOW! Jakarta",
+        "url": "https://www.nowjakarta.co.id/tribe-bali-legian-a-new-base-for-your-island-adventure/",
+        "published_date": "2026-08-06",
+        "summary": "Opening feature covering the rebrand: 113 rooms with locally-inspired interiors, flexible layouts for short or extended stays, Folk and Fare dining, Huddles Sports Bar, and a kids' corner by the pool."
       }
-    ]
+    ],
+    "videos": []
   },
   "sentiment_scores": {
-    "overall": 82,
+    "overall": 78,
     "breakdown": [
-      { "label": "Location", "score": 88 },
-      { "label": "Service", "score": 84 },
-      { "label": "Rooms", "score": 74 },
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 80 },
       { "label": "Food & breakfast", "score": 76 },
-      { "label": "Value", "score": 90 }
+      { "label": "Value", "score": 76 }
     ]
   },
-  "reliability_score": 52,
-  "last_updated": "2026-08-08",
+  "reliability_score": 44,
+  "last_updated": "2026-08-09",
   "status": "active"
 }
