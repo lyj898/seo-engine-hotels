@@ -1,0 +1,101 @@
+{
+  "entity_id": "novotel-bali-ubud-resort",
+  "slug": "novotel-bali-ubud-resort",
+  "name": "Novotel Bali Ubud Resort",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A newly opened 159-room Novotel in a jungle valley in Payangan, about 30 minutes from central Ubud, with infinity pools overlooking the forest.",
+  "ai_summary": "Novotel Bali Ubud Resort opened recently in a tropical forest valley in Payangan, Gianyar, roughly 30 minutes from central Ubud, Kintamani and Mount Batur. Built around Novotel's 'Longevity Everyday' wellness concept, the 159-room resort offers infinity pools with jungle panoramas, a spa, and activities from village cycling to Mount Batur sunrise treks. As a very recently opened property, independent guest coverage is still thin -- the resort was still described as being in its early opening phase with some facilities finishing up -- so this profile will be revisited as more reviews accumulate.",
+  "core_facts": {
+    "address": "Banjar Semaon, Desa Puhu, Payangan, Gianyar Regency, Bali 80572, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Payangan, north of central Ubud",
+    "distance_from_airport_km": 40,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Jungle valley setting with infinity pools and sweeping forest panoramas",
+    "About 30 minutes from central Ubud, Kintamani and Mount Batur",
+    "Wide activity roster: village cycling, Mount Batur sunrise treks, rafting, waterfall visits, Balinese dance lessons",
+    "Kids' playground and a wedding pavilion on site",
+    "Close to Tegallalang Rice Terrace"
+  ],
+  "cons": [
+    "As a very recently opened resort, some facilities were still being finished as of its early opening phase",
+    "Remote valley location means a genuine 30-40 minute drive to central Ubud rather than walking distance",
+    "Very limited independent review coverage exists yet, so consistency of the guest experience is still unproven"
+  ],
+  "research_highlights": [
+    "Guests describe a seamless check-in and comfortable stay in early post-opening reviews",
+    "The infinity pools and forest-panorama setting are the resort's most consistently highlighted feature",
+    "The activity program (cycling, trekking, rafting, cultural classes) is unusually extensive for a resort of this size"
+  ],
+  "research_watchouts": [
+    "As a newly opened property, guest-review volume is still very thin, and early coverage noted some facilities were still being finished",
+    "Room size and service consistency have drawn some mixed early comments, worth weighing given the limited review base"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-10",
+  "faqs": [
+    {
+      "question": "How far is Novotel Bali Ubud Resort from central Ubud?",
+      "answer": "It's about 30 minutes by car from central Ubud, Kintamani and Mount Batur. The resort sits in a jungle valley in Payangan, north of the main Ubud tourist area, so a rental car or driver is the practical way to get around."
+    },
+    {
+      "question": "Is Novotel Bali Ubud Resort a new hotel?",
+      "answer": "Yes -- it opened recently and was still described as being in its early opening phase, with some facilities finishing up. Independent guest coverage is limited so far, so this profile will be updated as more reviews come in."
+    }
+  ],
+  "tags": ["payangan", "newly opened", "jungle resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A222/index.en.shtml",
+      "label": "Official Novotel Bali Ubud Resort page",
+      "type": "official",
+      "last_checked": "2026-08-10"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g15213439-d33016853-Reviews-Novotel_Bali_Ubud_Resort-Puhu_Payangan_Gianyar_Regency_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-10"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A222/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-resort-spa-jimbaran-bali"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Staycation Terbaru di Ubud yang Instagramable | Novotel Bali Ubud Resort",
+        "channel": "AyunkanLangkahmu",
+        "url": "https://www.youtube.com/watch?v=RWqfwhpy1eI",
+        "video_id": "RWqfwhpy1eI"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 75,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-10",
+  "status": "needs_review"
+}

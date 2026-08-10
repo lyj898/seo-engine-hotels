@@ -1,0 +1,110 @@
+{
+  "entity_id": "novotel-bali-nusa-dua-residences",
+  "slug": "novotel-bali-nusa-dua-residences",
+  "name": "Novotel Bali Nusa Dua - Hotel & Residences",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A gated Nusa Dua resort with a two-tier lagoon pool and 4.8 hectares of gardens, five minutes' shuttle from the beach and Bali National Golf Club.",
+  "ai_summary": "Novotel Bali Nusa Dua - Hotel & Residences sits within the secure, gated Nusa Dua enclave -- a distinct property from the beachfront Novotel Bali Benoa a short drive away -- built around an expansive two-tier lagoon pool and 4.8 hectares of tropical gardens with fish ponds and resident birdlife. A free shuttle covers the roughly five-minute ride to the beach and Bali Collection shopping, and reviews consistently praise the spacious rooms, warm Balinese hospitality and tranquil grounds, though a minority of guests report maintenance issues and slower service at busier times.",
+  "core_facts": {
+    "address": "Jl. Pantai Mengiat, BTDC Complex, PO Box 116, Nusa Dua, Bali 80363, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Nusa Dua",
+    "distance_from_airport_km": 15,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Expansive two-tier lagoon pool as the resort's centrepiece",
+    "4.8 hectares of tropical gardens with fish ponds and birdlife",
+    "Secure, gated Nusa Dua enclave location near Bali National Golf Club and the Convention Center",
+    "Free shuttle to the beach and Bali Collection shopping in about five minutes",
+    "Spacious rooms and warm, attentive Balinese hospitality repeatedly praised"
+  ],
+  "cons": [
+    "Not directly on the beach -- relies on the shuttle rather than a walk",
+    "A minority of reviews note occasional slow service and maintenance issues",
+    "Food and drink pricing draws some caution from budget-conscious guests"
+  ],
+  "research_highlights": [
+    "The two-tier lagoon pool and tropical gardens are repeatedly cited as the property's standout features",
+    "Guest hospitality and attentiveness draw consistent praise",
+    "The gated enclave setting appeals to guests prioritizing security and quiet over beachfront immediacy"
+  ],
+  "research_watchouts": [
+    "A minority of reviews describe occasional slow service responses and maintenance issues",
+    "Food and drink costs on site are noted by some guests as higher than expected"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-10",
+  "faqs": [
+    {
+      "question": "Is Novotel Bali Nusa Dua - Hotel & Residences the same as Novotel Bali Benoa?",
+      "answer": "No -- they're two separate Novotel properties. This one sits within the gated Nusa Dua enclave on Jl. Pantai Mengiat, while Novotel Bali Benoa is a separate beachfront property in the nearby Benoa area."
+    },
+    {
+      "question": "How do guests get to the beach from this hotel?",
+      "answer": "The hotel isn't directly beachfront, but runs a free shuttle that covers the roughly five-minute ride to the beach and to Bali Collection shopping, so beach access is quick even without a waterfront room."
+    }
+  ],
+  "tags": ["nusa dua", "gated enclave", "lagoon pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6328/index.en.shtml",
+      "label": "Official Novotel Bali Nusa Dua - Hotel & Residences page",
+      "type": "official",
+      "last_checked": "2026-08-10"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297698-d649857-Reviews-Novotel_Bali_Nusa_Dua_Hotel_Residences-Nusa_Dua_Benoa_South_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-10"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6328/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["nusa-dua-beach-hotel-handwritten-collection"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Novotel Bali Nusa Dua",
+        "source": "Luxury Travel Diary",
+        "author": "Claire",
+        "url": "https://www.luxurytraveldiary.com/2022/05/review-novotel-bali-nusa-dua/",
+        "published_date": "2022-05-09",
+        "summary": "Highlights the expansive two-tier lagoon pool, 4.8-hectare tropical gardens with fish ponds and birdlife, and the secure, exclusive Nusa Dua enclave setting."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Novotel Bali Nusa Dua Hotel and Residences Full Video",
+        "channel": "Hotel To Hotel",
+        "url": "https://www.youtube.com/watch?v=OnGd0UXqdtI",
+        "video_id": "OnGd0UXqdtI"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-10",
+  "status": "active"
+}

@@ -1,0 +1,116 @@
+{
+  "entity_id": "novotel-bali-ngurah-rai-airport",
+  "slug": "novotel-bali-ngurah-rai-airport",
+  "name": "Novotel Bali Ngurah Rai Airport",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A 206-room Novotel inside the Ngurah Rai Airport compound, connected to the terminals by a short covered walkway -- built for transit and late arrivals.",
+  "ai_summary": "Novotel Bali Ngurah Rai Airport sits inside the airport compound in Tuban, connected to the domestic and international terminals by a covered walkway that's a 5-10 minute walk, making it a genuine transit hotel rather than a leisure base. Guests consistently praise the terminal connection and report generous upgrades and strong air-conditioning performance, but the interiors read as slightly dated in places, breakfast is described as underwhelming, and the property can be hard to book even months ahead given its niche appeal. It's best suited to travellers arriving late into Denpasar or needing a short layover buffer, not to those planning a leisure stay.",
+  "core_facts": {
+    "address": "Jalan Raya Ngurah Rai, Tuban, 80362 Kuta, Bali, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Inside Ngurah Rai International Airport, Tuban",
+    "distance_from_airport_km": 1,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Direct covered-walkway connection to both domestic and international terminals, a 5-10 minute walk",
+    "An ideal transit option for late-night arrivals or short layovers into Denpasar",
+    "Guests report generous room upgrades and strong air-conditioning performance",
+    "Deep-soaking bathtubs and spacious showers in suite categories",
+    "Rooftop bar with runway and sunset views"
+  ],
+  "cons": [
+    "Interiors read as slightly dated in places despite the airport-hotel premium",
+    "Breakfast is described as underwhelming with limited appealing options",
+    "Can be difficult to book, with limited availability even months in advance"
+  ],
+  "research_highlights": [
+    "The direct terminal walkway is the property's defining feature and its main reason to book",
+    "Guests report notably generous upgrades and strong in-room air conditioning",
+    "It's specifically recommended for late-night arrivals rather than leisure stays"
+  ],
+  "research_watchouts": [
+    "Some interiors and lighting feel dated for the price point",
+    "Breakfast quality and view options from upper-floor rooms are noted as underwhelming"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-10",
+  "faqs": [
+    {
+      "question": "How close is Novotel Bali Ngurah Rai Airport to the terminals?",
+      "answer": "It's inside the airport compound itself, connected to both the domestic and international terminals by a covered walkway that takes about 5-10 minutes to walk, making it one of the most convenient transit options at Denpasar's airport."
+    },
+    {
+      "question": "Is this hotel good for a leisure stay in Bali?",
+      "answer": "Not really -- it's built for transit convenience rather than leisure, with reviewers recommending it specifically for late-night arrivals or short layovers rather than as a base for exploring Bali, and noting it can be hard to book well in advance."
+    }
+  ],
+  "tags": ["airport hotel", "transit stay", "ngurah rai"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9105/index.en.shtml",
+      "label": "Official Novotel Bali Ngurah Rai Airport page",
+      "type": "official",
+      "last_checked": "2026-08-10"
+    },
+    {
+      "url": "https://us.trip.com/hotels/bali-hotel-detail-5218386/novotel-bali-ngurah-rai-airport/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-10"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9105/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-bali-kuta"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Novotel Bali Ngurah Rai Airport (Suite Room) - Direct Terminal Connection",
+        "source": "The Shutterwhale",
+        "author": "Mark Chua",
+        "url": "https://theshutterwhale.com/blog/2025/6/26/hotel-review-novotel-bali-ngurah-rai-airport-suite",
+        "published_date": "2025-06-26",
+        "summary": "Praises a generous three-category King Suite upgrade and cold, quiet air conditioning, but calls the interiors slightly dated and breakfast underwhelming."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Superior Room Tour: Novotel Bali Ngurah Rai Airport Hotel",
+        "channel": "Adventures with K",
+        "url": "https://www.youtube.com/watch?v=Lm7lwHL-PI4",
+        "video_id": "Lm7lwHL-PI4"
+      },
+      {
+        "title": "Novotel Bali Ngurah Rai Airport | 365 Nights in Accor Hotels (Night 52)",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=L-v3VXmI5OQ",
+        "video_id": "L-v3VXmI5OQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 70 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-10",
+  "status": "active"
+}
