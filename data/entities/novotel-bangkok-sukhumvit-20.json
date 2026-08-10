@@ -1,0 +1,134 @@
+{
+  "entity_id": "novotel-bangkok-sukhumvit-20",
+  "slug": "novotel-bangkok-sukhumvit-20",
+  "name": "Novotel Bangkok Sukhumvit 20",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A Novotel between BTS Asok and Phrom Phong with a rooftop bar overlooking Benjakitti Park and a complimentary tuk-tuk shuttle to the Skytrain.",
+  "ai_summary": "Novotel Bangkok Sukhumvit 20 sits on Soi Sukhumvit 20 between BTS Asok and Phrom Phong stations, within walking distance of Terminal 21 and the EmQuartier and Emporium malls -- a different property from the brand's Novotel Bangkok Platinum Pratunam location. Independent reviews from 2017 through 2025 consistently praise room comfort, cleanliness and staff friendliness, and the 26th-floor Sky on 20 rooftop bar overlooking Benjakitti Park is a recurring highlight. The main watchouts are shower-only bathrooms across most room categories and a genuine 8-15 minute walk to the BTS despite a complimentary tuk-tuk shuttle, while breakfast and rooftop-bar experiences get mixed marks in some reviews.",
+  "core_facts": {
+    "address": "19/9 Soi Sukhumvit 20, Sukhumvit Road, Klongtoey, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Sukhumvit Soi 20, between BTS Asok and Phrom Phong",
+    "distance_from_airport_km": 28,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Spacious, clean rooms with comfortable beds and strong water pressure, frequently praised across independent reviews",
+    "Sky on 20 rooftop bar (26th floor) with good cocktails and city views over Benjakitti Park",
+    "Central Sukhumvit location within walking distance of Terminal 21 and the EmQuartier/Emporium malls, with a complimentary tuk-tuk shuttle to the BTS",
+    "Consistently friendly, professional staff noted by multiple independent reviewers",
+    "Good value for a 4-star international brand relative to nearby competitors"
+  ],
+  "cons": [
+    "Rooms have shower-only bathrooms (no bathtub) in most categories",
+    "The walk to BTS/MRT is a genuine 8-15 minutes despite the shuttle",
+    "Breakfast and rooftop-bar experience quality is inconsistent between reviews"
+  ],
+  "research_highlights": [
+    "Independent reviews from 2017 through 2025 consistently praise room comfort, cleanliness and staff friendliness",
+    "The Sky on 20 rooftop bar is a recurring highlight, valued for cocktails and skyline views toward Benjakitti Park",
+    "A complimentary tuk-tuk shuttle bridges the walk to BTS Asok and Phrom Phong"
+  ],
+  "research_watchouts": [
+    "All rooms are shower-only per multiple independent reviews, worth flagging for guests who want a bathtub",
+    "The walk to BTS/MRT is longer than some competing hotels in the immediate area, and rooftop-bar/breakfast experiences get mixed marks in some reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-09",
+  "faqs": [
+    {
+      "question": "How far is Novotel Bangkok Sukhumvit 20 from Suvarnabhumi Airport?",
+      "answer": "It's roughly 28 km, about a 30-minute drive depending on traffic, from Suvarnabhumi International Airport, located in the Sukhumvit district between BTS Asok and Phrom Phong Skytrain stations."
+    },
+    {
+      "question": "Is Novotel Bangkok Sukhumvit 20 within walking distance of the BTS Skytrain?",
+      "answer": "It's a genuine 8-15 minute walk rather than immediate access, but the hotel runs a complimentary tuk-tuk shuttle to BTS Asok and Phrom Phong stations for guests who prefer not to walk."
+    }
+  ],
+  "tags": ["sukhumvit 20", "rooftop bar", "asok phrom phong"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9343/index.en.shtml",
+      "label": "Official Novotel Bangkok Sukhumvit 20 page",
+      "type": "official",
+      "last_checked": "2026-08-09"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d2317081-Reviews-Novotel_Bangkok_Sukhumvit_20-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-09"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9343/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-bangkok-siam-square"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Novotel Bangkok Sukhumvit 20: A Convenient and Affordable Hotel",
+        "source": "iTravelBlog",
+        "author": "Anja",
+        "url": "https://en.itravelblog.net/novotel-bangkok-sukhumvit-20/",
+        "published_date": "2017-08-25",
+        "summary": "Praises Thai-modern design, comfortable rooms and strong water pressure, but notes shower-only bathrooms and no hotel-run breakfast venue."
+      },
+      {
+        "title": "Hotel Review - Novotel Bangkok Sukhumvit 20, Thailand",
+        "source": "Hive (travelgirl)",
+        "author": "travelgirl",
+        "url": "https://hive.blog/hive-147010/@travelgirl/hotel-review-novotel-bangkok-sukhumvit-20-thailand",
+        "published_date": "2025-06-05",
+        "summary": "Guest recounts a complimentary upgrade to a spacious corner room, praising the comfortable king bed, rain shower and well-kept pool."
+      },
+      {
+        "title": "Sky on 20 Rooftop Bar at Novotel Bangkok",
+        "source": "Phuket101.net",
+        "author": "Willy Thuan",
+        "url": "https://www.phuket101.net/bangkok/sky-on-20-rooftop-bar-at-novotel-bangkok/",
+        "published_date": "2025-03-12",
+        "summary": "Review of the 26th-floor rooftop bar: friendly staff and a good DJ, but access via a fire-exit stairwell, average food and pricey beer."
+      }
+    ],
+    "videos": [
+      {
+        "title": "4 STAR NOVOTEL SUKHUMVIT 20 in BANGKOK | Full Review of our Stay!",
+        "channel": "Laurens & Laura",
+        "url": "https://www.youtube.com/watch?v=rx4M6r6S2b0",
+        "video_id": "rx4M6r6S2b0",
+        "published_date": "2022-11-25"
+      },
+      {
+        "title": "Novotel Bangkok Sukhumvit 20 (Video Hotel Tour)",
+        "channel": "AroiMakMak TV",
+        "url": "https://www.youtube.com/watch?v=aiXgr9qRLNU",
+        "video_id": "aiXgr9qRLNU",
+        "published_date": "2017-11-05"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-09",
+  "status": "active"
+}

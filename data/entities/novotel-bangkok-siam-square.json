@@ -1,0 +1,129 @@
+{
+  "entity_id": "novotel-bangkok-siam-square",
+  "slug": "novotel-bangkok-siam-square",
+  "name": "Novotel Bangkok on Siam Square",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A Novotel directly on Siam Square, a 1-2 minute walk to BTS Siam and across from Siam Paragon, Siam Center and Siam Discovery.",
+  "ai_summary": "Novotel Bangkok on Siam Square sits on Siam Square Soi 6 off Rama I Road, about a 1-2 minute walk to BTS Siam interchange station and directly across from Siam Paragon, Siam Center and Siam Discovery, making location the property's standout draw. Staff service and renovated Junior Suites draw consistent praise, and the hotel earned Green Key sustainability certification in 2025, but renovation status varies by room and wing -- one review documented being assigned an unrenovated room by default -- and breakfast feedback ranges from excellent to crowded depending on the stay.",
+  "core_facts": {
+    "address": "392/44 Siam Square Soi 6, Rama I Road, Pathumwan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Siam Square, Pathumwan",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly on Siam Square, about a 1-2 minute walk to BTS Siam interchange station",
+    "Steps from Siam Paragon, Siam Center, Siam Discovery and MBK malls, plus abundant street-level dining",
+    "Staff service is consistently praised as friendly, attentive and helpful",
+    "Renovated rooms such as Junior Suites are described as modern and spacious with separate living/sleeping areas",
+    "Rooftop pool, spa with sauna, fitness centre and multiple restaurants on site"
+  ],
+  "cons": [
+    "Room renovation is inconsistent property-wide; some guests are initially assigned an unrenovated room and have to request a switch",
+    "Some rooms show dated decor or occasional maintenance issues in unrenovated wings",
+    "Breakfast experience is inconsistently reviewed, praised by some guests and described as crowded by others"
+  ],
+  "research_highlights": [
+    "Location is repeatedly cited as the standout feature, immediately adjacent to BTS Siam interchange and across from Bangkok's biggest central malls",
+    "The hotel earned Green Key sustainability certification in 2025",
+    "Guests who book renovated Junior Suites report a markedly better experience than the property's older standard rooms"
+  ],
+  "research_watchouts": [
+    "Renovation status varies by room and wing; confirming room renovation status at booking is worthwhile",
+    "Breakfast feedback is mixed and appears to vary by period and occupancy"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-09",
+  "faqs": [
+    {
+      "question": "How far is Novotel Bangkok on Siam Square from Suvarnabhumi Airport?",
+      "answer": "It's roughly 30 km by road, about a 30-40 minute drive depending on traffic. Travelers can also combine the Airport Rail Link into central Bangkok with a BTS Skytrain transfer to reach Siam Station right outside the hotel."
+    },
+    {
+      "question": "Is the hotel within walking distance of Siam Paragon and the BTS?",
+      "answer": "Yes -- the hotel sits on Siam Square Soi 6 off Rama I Road, about a 1-2 minute walk to BTS Siam Station, and is directly across from Siam Paragon, Siam Center and Siam Discovery."
+    }
+  ],
+  "tags": ["siam square", "bts siam", "central shopping district"],
+  "source_mix": [
+    {
+      "url": "https://www.novotelbkk.com/",
+      "label": "Official Novotel Bangkok on Siam Square page",
+      "type": "official",
+      "last_checked": "2026-08-09"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1024089-Reviews-Novotel_Bangkok_on_Siam_Square-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-09"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.novotelbkk.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-bangkok-sukhumvit-20"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "[Hotel Review] Novotel Bangkok on Siam Square",
+        "source": "Satu Kosong Travels",
+        "author": "Satu Kosong",
+        "url": "https://10satukosong.wpcomstaging.com/2018/02/14/hotel-review-novotel-bangkok-on-siam-square/",
+        "published_date": "2018-02-14",
+        "summary": "Blogger initially given an unrenovated room, later switched to a modern renovated Junior Suite with lounge access."
+      },
+      {
+        "title": "Detailed review & photos: Novotel Bangkok on Siam Square",
+        "source": "fishand.tips",
+        "url": "https://fishand.tips/en/hotel/Novotel_Bangkok_on_Siam_Square/",
+        "published_date": "2020-06-01",
+        "summary": "First-person stay in a Superior Room notes clean, comfortable bedding and the hotel's proximity to a very crowded BTS Skytrain."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Novotel Bangkok on Siam Square Hotel | 4 Mins From Siam Paragon and Siam Station",
+        "channel": "Where To Next?",
+        "url": "https://www.youtube.com/watch?v=Jk6zv5Hs2Fg",
+        "video_id": "Jk6zv5Hs2Fg"
+      },
+      {
+        "title": "Travel Vlog: Novotel Siam Square Bangkok Hotel Review (First Hotel Stay in BKK!)",
+        "channel": "Thirteentuesday Travels",
+        "url": "https://www.youtube.com/watch?v=wR2a0rgA1zk",
+        "video_id": "wR2a0rgA1zk"
+      },
+      {
+        "title": "Luxury at Its Best: Novotel Hotel Siam Square Bangkok Review",
+        "channel": "CD Family Adventures",
+        "url": "https://m.youtube.com/watch?v=pLwqgZXEpUQ",
+        "video_id": "pLwqgZXEpUQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 94 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-09",
+  "status": "active"
+}

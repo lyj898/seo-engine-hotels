@@ -1,0 +1,138 @@
+{
+  "entity_id": "vie-hotel-bangkok-mgallery",
+  "slug": "vie-hotel-bangkok-mgallery",
+  "name": "VIE Hotel Bangkok, MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A boutique MGallery hotel on Phaya Thai Road near BTS Ratchathewi, a stop from Siam, with Thai-accented suites and French and Japanese dining.",
+  "ai_summary": "VIE Hotel Bangkok, MGallery Collection sits on Phaya Thai Road in Ratchathewi, a short walk from its own BTS station and one stop from Siam, putting Siam Paragon, Siam Center, MBK and Platinum Mall within easy reach. Independent reviews spanning 2018 to 2025 consistently praise the Thai-accented suites, the La Vie and YTSB restaurants, and an above-average fitness centre, with several guests reporting complimentary suite upgrades on arrival. The most consistent watchout is weak or inconsistent in-room Wi-Fi, flagged across reviews from different years, and one 2022 account described dated finishes and a disorganized check-in, though more recent 2025 coverage describes fresher, well-kept rooms.",
+  "core_facts": {
+    "address": "117/39-40 Phaya Thai Road, Ratchathewi, Bangkok 10400, Thailand",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Ratchathewi, near Siam",
+    "distance_from_airport_km": 29,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Short walk from BTS Ratchathewi and one stop from Siam, within about 10 minutes on foot of Siam Paragon, Siam Center, MBK and Platinum Mall",
+    "Spacious rooms and suites with Thai-accented design; several guests report complimentary suite upgrades",
+    "Strong food and beverage program, including La Vie (French all-day dining) and YTSB (Japanese/sushi), praised across independent reviews",
+    "Well-equipped fitness centre called out as unusually strong for a city hotel",
+    "Rooftop pool and VIE Spa consistently praised for a relaxing feel despite the central location"
+  ],
+  "cons": [
+    "Weak or inconsistent in-room Wi-Fi reported across reviews from different years",
+    "A 2022 review noted dated room finishes and a disorganized check-in with limited-English staff, though more recent reviews describe fresher rooms",
+    "No executive or club lounge, noted by at least one reviewer as a minor gap for a hotel at this tier"
+  ],
+  "research_highlights": [
+    "Independent reviews spanning 2018 to 2025 consistently praise the Ratchathewi/Siam location, spacious Thai-accented suites, and the La Vie and YTSB restaurants",
+    "Several guests report loyalty perks in practice, including complimentary suite upgrades and late checkout",
+    "The gym is repeatedly singled out as above-average for a city hotel of this size"
+  ],
+  "research_watchouts": [
+    "Weak in-room Wi-Fi is a recurring complaint across reviews from different years, suggesting a persistent issue rather than a one-off",
+    "A 2022 review flagged dated room wear and a disorganized check-in; more recent 2025 reviews describe fresher, minimalist rooms, so review recency matters when weighing room condition"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-09",
+  "faqs": [
+    {
+      "question": "How close is VIE Hotel Bangkok to BTS and the Siam shopping malls?",
+      "answer": "The hotel is a short walk from BTS Ratchathewi station, one stop from Siam, and within about 10 minutes on foot of Siam Paragon, Siam Center, MBK and Platinum Mall, making it a very walkable base in central Bangkok."
+    },
+    {
+      "question": "What dining options are available at VIE Hotel Bangkok?",
+      "answer": "The hotel runs several restaurants and bars, including La Vie for French all-day dining and YTSB for Japanese cuisine and sushi, alongside a rooftop pool, spa and fitness centre on site."
+    }
+  ],
+  "tags": ["ratchathewi", "boutique hotel", "mgallery"],
+  "source_mix": [
+    {
+      "url": "https://mgallery.accor.com/en/hotels/6469.html",
+      "label": "Official VIE Hotel Bangkok, MGallery Collection page",
+      "type": "official",
+      "last_checked": "2026-08-09"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1023467-Reviews-VIE_Hotel_Bangkok_MGallery_Collection-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-09"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://mgallery.accor.com/en/hotels/6469.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-bdms-wellness-resort-bangkok"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "VIE Mgallery Hotel Review: Boutique Luxury in Bangkok, Thailand",
+        "source": "Pierre Blake",
+        "author": "Pierre Blake",
+        "url": "https://pierreblake.com/vie-mgallery-hotel-review-boutique-luxury-in-bangkok-thailand/",
+        "published_date": "2018-04-23",
+        "summary": "Praises the corner suite, Thai design touches, and La Vie/YTSB dining and consistent service; the only gap noted is the lack of a club lounge."
+      },
+      {
+        "title": "VIE Hotel Bangkok – MGallery Collection Review",
+        "source": "ShinyVisa",
+        "author": "Derek",
+        "url": "https://www.shinyvisa.com/vie-hotel-bangkok-mgallery-collection-review/",
+        "published_date": "2025-07-31",
+        "summary": "Praises the minimalist Thai-influenced rooms, the Ratchathewi BTS location and a complimentary suite upgrade, but flags inconsistent, slow Wi-Fi."
+      },
+      {
+        "title": "VIE Hotel Bangkok – MGallery Deluxe Suite Review",
+        "source": "Seeing The World In Steps",
+        "author": "Dennison Wee",
+        "url": "https://seeingtheworldinsteps.com/2022/08/25/golden-falcon-way-vie-hotel-bangkok-m-gallery-deluxe-suite-review/",
+        "published_date": "2022-08-25",
+        "summary": "Liked the spacious 76 sqm suite, gym and YTSB sushi, but reported a disorganized check-in, weak Wi-Fi and dated finishes."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Vie Hotel Bangkok MGallery Collection Review",
+        "channel": "Where2FromHere",
+        "url": "https://www.youtube.com/watch?v=9vh0IXlwMSo",
+        "video_id": "9vh0IXlwMSo"
+      },
+      {
+        "title": "🏨 Durchschnittlich! Das VIE Hotel Bangkok im Review",
+        "channel": "EVRYWHRE | Hotel & Flight Reviews",
+        "url": "https://www.youtube.com/watch?v=AdapE0CB4Bw",
+        "video_id": "AdapE0CB4Bw"
+      },
+      {
+        "title": "Vie Hotel Bangkok : Deluxe Suite room type",
+        "channel": "Thaifoodies Co",
+        "url": "https://www.youtube.com/watch?v=Shg1X174nrw",
+        "video_id": "Shg1X174nrw"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-09",
+  "status": "active"
+}

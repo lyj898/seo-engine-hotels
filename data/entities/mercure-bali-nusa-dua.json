@@ -1,0 +1,101 @@
+{
+  "entity_id": "mercure-bali-nusa-dua",
+  "slug": "mercure-bali-nusa-dua",
+  "name": "Mercure Bali Nusa Dua",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A 198-room Mercure in the Nusa Dua enclave, set back from the beach with free shuttle access to the Mercure Beach Club and Bali Collection shopping.",
+  "ai_summary": "Mercure Bali Nusa Dua sits within the gated Nusa Dua resort enclave, distinct from the beachfront Sofitel Bali Nusa Dua Beach Resort in the same area -- this property is set back from the shore, with a free shuttle to the Mercure Beach Club and Bali Collection shopping centre making up for the distance. Guests get free access to beach-club loungers and towel service, and reviews describe fair value for an upper-midscale hotel, but the set-back, relatively isolated location and small, functional rooms are recurring complaints alongside occasional cleanliness issues.",
+  "core_facts": {
+    "address": "Jalan Nusa Dua Selatan Lot SW 03, Nusa Dua, Badung Regency, Bali 80363, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Nusa Dua",
+    "distance_from_airport_km": 15,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Free shuttle to both the Mercure Beach Club and Bali Collection shopping centre",
+    "Free beach-club access with loungers, thatched huts and towel service",
+    "Large landscaped grounds spanning three hectares",
+    "Front-desk staff and management responsiveness draw specific praise",
+    "Complimentary private parking on site"
+  ],
+  "cons": [
+    "Set back from the beach in a relatively isolated part of the Nusa Dua enclave, requiring the shuttle rather than a walk",
+    "Rooms run on the small side despite the resort-style grounds",
+    "Some reviews note housekeeping lapses and wear on walls and infrastructure"
+  ],
+  "research_highlights": [
+    "The free shuttle to the Mercure Beach Club and Bali Collection is repeatedly called the property's practical workaround for not being beachfront",
+    "Staff hospitality and management responsiveness draw specific praise",
+    "The three-hectare landscaped grounds are highlighted as a strength for the price point"
+  ],
+  "research_watchouts": [
+    "The set-back, relatively isolated location within Nusa Dua is a recurring complaint -- factor in the shuttle schedule",
+    "Some reviews describe housekeeping lapses and visible wear on walls and infrastructure"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-10",
+  "faqs": [
+    {
+      "question": "Is Mercure Bali Nusa Dua on the beach?",
+      "answer": "No -- unlike its sister property, the beachfront Sofitel Bali Nusa Dua Beach Resort, this Mercure sits set back within the Nusa Dua enclave. It offsets that with a free shuttle to the Mercure Beach Club and free beach-club access with loungers and towel service."
+    },
+    {
+      "question": "Is Mercure Bali Nusa Dua good value?",
+      "answer": "Many guests describe it as good value for an upper-midscale hotel in the gated Nusa Dua enclave, citing the landscaped grounds, beach-club shuttle and responsive staff, though rooms run small and a minority of reviews note housekeeping and maintenance lapses."
+    }
+  ],
+  "tags": ["nusa dua", "beach club shuttle", "gated enclave"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8006/index.en.shtml",
+      "label": "Official Mercure Bali Nusa Dua page",
+      "type": "official",
+      "last_checked": "2026-08-10"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297698-d3485198-Reviews-Mercure_Bali_Nusa_Dua-Nusa_Dua_Benoa_South_Kuta_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-10"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8006/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-resort-sanur"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Only 4-Star Hotel in Nusa Dua 🏝️ | Mercure Bali Nusa Dua Review & Room Tour | Night 210",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=W7Tym2Mn3YQ",
+        "video_id": "W7Tym2Mn3YQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 73,
+    "breakdown": [
+      { "label": "Location", "score": 68 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 70 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-10",
+  "status": "active"
+}

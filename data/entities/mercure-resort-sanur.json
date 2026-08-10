@@ -1,0 +1,113 @@
+{
+  "entity_id": "mercure-resort-sanur",
+  "slug": "mercure-resort-sanur",
+  "name": "Mercure Resort Sanur",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A long-running beachfront Mercure on Sanur's white sand, with two-storey Balinese-style bungalows spread across five landscaped acres.",
+  "ai_summary": "Mercure Resort Sanur occupies five manicured acres directly on one of Sanur's white sand beaches, laid out in the traditional Balinese style as two-storey bungalows and cottages around a tennis court and two pools. As one of Bali's older beach hotels, it draws consistently friendly-staff and good-location praise, but reviewers repeatedly flag that facilities feel tired and dated for a Mercure-branded property, with recurring notes about worn furniture and basic rooms. Guests looking for a quiet, established beachfront base with easy access to Sanur's restaurants and spas tend to rate it well; those expecting a fully modernized four-star experience are more likely to be disappointed.",
+  "core_facts": {
+    "address": "Jalan Mertasari, Sanur, Bali 80228, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Sanur",
+    "distance_from_airport_km": 13,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly on one of Sanur's white sand beaches, across five landscaped acres",
+    "Traditional two-storey Balinese-style bungalows and cottages give it real character",
+    "Tennis court and two swimming pools on site",
+    "Friendly, attentive staff repeatedly praised",
+    "Quiet, established Sanur location near restaurants and spas"
+  ],
+  "cons": [
+    "Facilities feel tired and dated for a Mercure-branded property",
+    "Rooms are described by some guests as basic, with worn furniture that doesn't match Mercure's usual standard",
+    "Getting items repaired or fulfilling additional requests has taken multiple attempts and days in some accounts"
+  ],
+  "research_highlights": [
+    "The beachfront location and Balinese-bungalow character are the property's most consistently praised features",
+    "Staff friendliness draws repeat praise even alongside facility complaints",
+    "Food quality gets some standout mentions despite mixed views on the rooms"
+  ],
+  "research_watchouts": [
+    "Multiple guests describe the facilities and furniture as tired or dated relative to the Mercure brand standard",
+    "Maintenance requests and repairs have reportedly taken multiple days to resolve in some stays"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-10",
+  "faqs": [
+    {
+      "question": "Is Mercure Resort Sanur directly on the beach?",
+      "answer": "Yes -- it sits directly on one of Sanur's white sand beaches, spread across five landscaped acres of traditional two-storey Balinese-style bungalows and cottages, with a tennis court and two swimming pools on the grounds."
+    },
+    {
+      "question": "Is Mercure Resort Sanur a modern hotel?",
+      "answer": "Not especially -- it's one of Bali's older beach hotels, and while staff and the beachfront setting draw consistent praise, several reviewers describe the rooms and facilities as tired or dated relative to what the Mercure brand usually delivers elsewhere."
+    }
+  ],
+  "tags": ["sanur", "beachfront", "balinese bungalows"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/5474/index.en.shtml",
+      "label": "Official Mercure Resort Sanur page",
+      "type": "official",
+      "last_checked": "2026-08-10"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297700-d1486466-Reviews-Mercure_Resort_Sanur-Sanur_Denpasar_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-10"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/5474/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-bali-nusa-dua"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Tour of the Mercure Hotel Resort (Sanur) Bali jop TV Travel",
+        "channel": "Johannes Platzer jop TV Travel",
+        "url": "https://www.youtube.com/watch?v=pnTpVE6tr4Y",
+        "video_id": "pnTpVE6tr4Y"
+      },
+      {
+        "title": "Mercure Resort Sanur | Bali, Indonesia | Hotel Review 🏨",
+        "channel": "Indonesia Hotel Tour",
+        "url": "https://www.youtube.com/watch?v=OjrgRcsSeR8",
+        "video_id": "OjrgRcsSeR8"
+      },
+      {
+        "title": "Our stay at Mercure Resort Sanur - Bali, Indonesia",
+        "channel": "Mayuri & Rohit (MJRJ)",
+        "url": "https://www.youtube.com/watch?v=20Ryi7KpoRM",
+        "video_id": "20Ryi7KpoRM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-10",
+  "status": "active"
+}

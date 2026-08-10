@@ -1,0 +1,124 @@
+{
+  "entity_id": "movenpick-resort-spa-jimbaran-bali",
+  "slug": "movenpick-resort-spa-jimbaran-bali",
+  "name": "Mövenpick Resort & Spa Jimbaran Bali",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A 297-room family resort a few minutes' walk from Jimbaran Beach, known for its huge pool, extensive breakfast buffet and pirate-themed kids' club.",
+  "ai_summary": "Mövenpick Resort & Spa Jimbaran Bali opened in 2017 a few minutes' walk from Jimbaran Beach and has become a popular family choice for its huge swimming pool, extensive breakfast buffet, and pirate-themed kids' club. Reviews consistently praise the pool, the breakfast spread, comfortable rooms and a daily complimentary chocolate hour, with the spa and staff warmth also drawing repeat mentions. The main watchouts are limited sun loungers relative to guest capacity (reservations are often needed early), the resort sitting about 100 metres back from the beach rather than directly on it, and occasional reports of noise from the pool area and inconsistent service.",
+  "core_facts": {
+    "address": "Jl. Wanagiri No 1, Jimbaran, South Kuta, Bali 80362, Indonesia",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Jimbaran",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Huge swimming pool and an extensive breakfast buffet repeatedly rated among the resort's best features",
+    "A few minutes' walk from Jimbaran Beach",
+    "Pirate-themed kids' club and family-focused activities",
+    "Daily complimentary 'chocolate hour' and a well-regarded spa",
+    "Comfortable, modern rooms with balconies or patios"
+  ],
+  "cons": [
+    "Sun loungers can be scarce relative to guest capacity, with early reservations often needed",
+    "The resort sits about 100 metres back from the beach rather than directly on it",
+    "Some reviews report noise from the pool area and inconsistent service, including one account of disinterested staff"
+  ],
+  "research_highlights": [
+    "The pool and breakfast buffet are consistently singled out as the resort's standout features",
+    "Family-friendly touches (kids' club, chocolate hour, activities) draw repeat praise",
+    "Room comfort, including bedding and air conditioning, is highlighted favourably in independent reviews"
+  ],
+  "research_watchouts": [
+    "Guests note limited sun loungers for the resort's capacity, with early reservations often required",
+    "Reviews are mixed on service consistency and note some noise carrying from the pool area"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-10",
+  "faqs": [
+    {
+      "question": "Is Mövenpick Resort & Spa Jimbaran Bali directly on the beach?",
+      "answer": "Not quite -- the resort sits about 100 metres back from Jimbaran Beach, a few minutes' walk away, rather than directly beachfront. It makes up for this with a large pool, extensive breakfast buffet and family-focused amenities."
+    },
+    {
+      "question": "Is this a good resort for families?",
+      "answer": "Yes -- it's popular with families for its huge pool, pirate-themed kids' club and daily chocolate hour, though guests should reserve sun loungers early since they can be scarce relative to the resort's capacity."
+    }
+  ],
+  "tags": ["jimbaran", "family resort", "beach walk"],
+  "source_mix": [
+    {
+      "url": "https://movenpick.accor.com/en/asia/indonesia/bali/jimbaran-bali.html",
+      "label": "Official Mövenpick Resort & Spa Jimbaran Bali page",
+      "type": "official",
+      "last_checked": "2026-08-10"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297696-d11679425-Reviews-Movenpick_Resort_Spa_Jimbaran_Bali-Jimbaran_South_Kuta_Badung_Regency_Bali.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-10"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://movenpick.accor.com/en/asia/indonesia/bali/jimbaran-bali.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-bali-ubud-resort"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Movenpick Resort & Spa Jimbaran Bali Review",
+        "source": "Never Ending Voyage",
+        "author": "Erin",
+        "url": "https://www.neverendingvoyage.com/movenpick-bali-review/",
+        "published_date": "2017-10-18",
+        "summary": "Praises the enormous pool and one of the best breakfast buffets they've had, but notes limited sun loungers and that the resort isn't directly beachfront."
+      },
+      {
+        "title": "Review: Mövenpick Bali Resort, Jimbaran",
+        "source": "JakartaPotato",
+        "author": "Raymond",
+        "url": "https://www.jakartapotato.com/2023/02/28/review-movenpick-bali-resort-jimbaran/",
+        "published_date": "2023-02-28",
+        "summary": "Praises the excellent bed and air conditioning for great sleep, but calls the overall experience mediocre, citing poor soundproofing and slow breakfast service."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Movenpick Resort & Spa Jimbaran Bali | Full Hotel Tour, Junior Suite Upgrade + Chocolate Hour! 🍫🏖️",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=1YbcO9hpozI",
+        "video_id": "1YbcO9hpozI"
+      },
+      {
+        "title": "Hotel review Movenpick Jimbaran Bali",
+        "channel": "Bec food and travel channel",
+        "url": "https://www.youtube.com/watch?v=mQ3dpjdWkIw",
+        "video_id": "mQ3dpjdWkIw"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-10",
+  "status": "active"
+}

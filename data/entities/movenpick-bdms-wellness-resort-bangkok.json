@@ -1,0 +1,144 @@
+{
+  "entity_id": "movenpick-bdms-wellness-resort-bangkok",
+  "slug": "movenpick-bdms-wellness-resort-bangkok",
+  "name": "Mövenpick BDMS Wellness Resort Bangkok",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A wellness-focused Mövenpick resort near Ploenchit BTS, set in a 1.2-acre garden with a saltwater pool and ties to the on-site BDMS Wellness Clinic.",
+  "ai_summary": "Mövenpick BDMS Wellness Resort Bangkok occupies the former Swissotel Nai Lert Park building on Wireless Road near Ploenchit BTS, relaunched in 2019 as a wellness-resort concept tied to the on-site BDMS Wellness Clinic. Guests consistently single out the breakfast -- organic options, a fresh juice bar, an egg station -- and the 1.2-acre heritage garden with a saltwater pool as standout features that feel like a resort escape despite the central business-district setting. Family travellers highlight indoor playrooms and family suites, while the main watchouts are a fitness centre and pool that some reviewers find small for the resort's size and price, plus an occasional 'clinical' feel from the clinic connection.",
+  "core_facts": {
+    "address": "2 Wireless Road, Lumpini, Pathumwan, Bangkok 10330, Thailand",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Lumpini / Ploenchit",
+    "distance_from_airport_km": 29,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Spacious rooms with private balconies and wellness touches such as yoga mats and sleep-therapy speakers",
+    "Highly praised breakfast buffet with organic options, a fresh juice bar and an egg station",
+    "1.2-acre tropical garden setting with a saltwater pool that feels like a peaceful oasis despite the central location",
+    "Attentive, friendly staff and a daily complimentary 'Chocolate Hour'",
+    "Good access to BTS Ploenchit and Central Chidlom via a complimentary hourly shuttle"
+  ],
+  "cons": [
+    "Fitness centre and pool are considered small relative to the resort's size and price point",
+    "A few guests note the clinical, hospital-adjacent feel given the on-site BDMS Wellness Clinic connection",
+    "Immediate surroundings are a fairly residential/business district with few walkable attractions right outside"
+  ],
+  "research_highlights": [
+    "Guests consistently single out the breakfast as a standout, with several reviewers calling it among the best in Bangkok",
+    "The 1.2-acre heritage garden with century-old trees and a saltwater pool is repeatedly cited as making the property feel like a resort escape",
+    "Family travellers highlight indoor playrooms and a family suite with a convertible sofa bed"
+  ],
+  "research_watchouts": [
+    "Multiple reviewers describe the on-site gym as small, and guests cannot use the adjacent wellness clinic's more advanced fitness facilities",
+    "A minority of reviews describe the clinical/medical-campus association as giving parts of the stay a hospital-adjacent feel"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-09",
+  "faqs": [
+    {
+      "question": "Is Mövenpick BDMS Wellness Resort Bangkok connected to a hospital?",
+      "answer": "It sits within the BDMS Wellness Clinic complex, part of Bangkok Dusit Medical Services, and is positioned as a wellness resort rather than a hospital, though guests can access the clinic's health-check and wellness programmes on site."
+    },
+    {
+      "question": "How far is the hotel from Suvarnabhumi Airport?",
+      "answer": "It's roughly 29 km from Suvarnabhumi International Airport, with a taxi transfer typically taking around 45 minutes to an hour depending on Bangkok traffic conditions and time of day."
+    }
+  ],
+  "tags": ["ploenchit", "wellness resort", "family-friendly"],
+  "source_mix": [
+    {
+      "url": "https://movenpick.accor.com/en/asia/thailand/bangkok/bdms-wellness-resort-bangkok.html",
+      "label": "Official Mövenpick BDMS Wellness Resort Bangkok page",
+      "type": "official",
+      "last_checked": "2026-08-09"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d1024081-Reviews-Movenpick_BDMS_Wellness_Resort_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-09"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://movenpick.accor.com/en/asia/thailand/bangkok/bdms-wellness-resort-bangkok.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["vie-hotel-bangkok-mgallery"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Mövenpick BDMS Wellness Resort Bangkok Nourishes The Stomach And Mind",
+        "source": "City Nomads",
+        "author": "Gary Lim",
+        "url": "https://citynomads.com/hotel-review-movenpick-bdms-wellness-resort-bangkok-nourishes-the-stomach-and-mind/",
+        "published_date": "2020-08-03",
+        "summary": "Praises the tranquil heritage garden, wellness-tech rooms and healthy dining, but flags the small on-site gym and lack of clinic fitness-centre access."
+      },
+      {
+        "title": "Bangkok's Mövenpick BDMS Wellness Resort Review",
+        "source": "The Wayfaring Soul",
+        "author": "Warren",
+        "url": "https://thewayfaringsoul.com/bangkoks-movenpick-bdms-wellness-resort-review/",
+        "published_date": "2026-02-09",
+        "summary": "Calls it a strong family stay thanks to spacious rooms and an excellent breakfast, while noting a small pool/gym and laggy satellite TV."
+      },
+      {
+        "title": "Mövenpick BDMS Wellness Resort",
+        "source": "Elite Plus Magazine",
+        "author": "Elite+ Editorial Team",
+        "url": "https://www.eliteplusmagazine.com/Article/430/M%C3%B6venpick_Bdms_Wellness_Resort",
+        "published_date": "2023-05-11",
+        "summary": "Feature on the health-focused resort near Ploenchit BTS, highlighting its room categories and organic, wholesome dining concept."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mövenpick BDMS Wellness Resort Bangkok | Full Tour 🇹🇭🏨",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=MuWWFXFlB7w",
+        "video_id": "MuWWFXFlB7w"
+      },
+      {
+        "title": "Mövenpick BDMS Wellness Resort Bangkok - A \"Here Come The Parkers\" Hotel Review!",
+        "channel": "Here Come The Parkers!",
+        "url": "https://www.youtube.com/watch?v=Ujj5aByhVME",
+        "video_id": "Ujj5aByhVME"
+      },
+      {
+        "title": "Movenpick BDMS Wellness Resort Review: Best Hidden 5 Star Hotel In Bangkok?",
+        "channel": "Dooly Travels",
+        "url": "https://www.youtube.com/watch?v=_Iv2V4NCF4M",
+        "video_id": "_Iv2V4NCF4M"
+      },
+      {
+        "title": "My Favourite Accor Hotel in Bangkok 🇹🇭🇹🇭 | Movenpick BDMS Wellness Resort",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=P-m_INSSZfA",
+        "video_id": "P-m_INSSZfA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 90 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-09",
+  "status": "active"
+}
