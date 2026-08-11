@@ -6,6 +6,11 @@
 // research_watchouts, with a research_confidence that tells the reader how
 // strongly the sources agreed. Replaces the old (never-populated)
 // sentiment_scores breakdown.
+//
+// highlights/watchouts arrive as pre-escaped HTML strings (see autolink.js's
+// createEntityLinker, the only caller) so a mention of another hotel by name
+// can render as a real link -- rendered via set:html rather than Astro's
+// default text interpolation for that reason.
 const { highlights = [], watchouts = [], confidence } = Astro.props;
 const hasContent = highlights.length > 0 || watchouts.length > 0;
 
@@ -43,7 +48,7 @@ const conf = confidence ? CONFIDENCE[confidence] : null;
             {highlights.map((h) => (
               <li class="flex gap-2.5">
                 <span aria-hidden="true" class="mt-0.5 shrink-0 font-semibold text-brand-success dark:text-brand-success-dark">+</span>
-                <span class="leading-relaxed">{h}</span>
+                <span class="leading-relaxed" set:html={h} />
               </li>
             ))}
           </ul>
@@ -56,7 +61,7 @@ const conf = confidence ? CONFIDENCE[confidence] : null;
             {watchouts.map((w) => (
               <li class="flex gap-2.5">
                 <span aria-hidden="true" class="mt-0.5 shrink-0 font-semibold text-brand-warning dark:text-brand-warning-dark">!</span>
-                <span class="leading-relaxed">{w}</span>
+                <span class="leading-relaxed" set:html={w} />
               </li>
             ))}
           </ul>

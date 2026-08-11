@@ -52,6 +52,16 @@
   .link-accent:hover {
     @apply decoration-brand-primary-hover dark:decoration-brand-primary-hover-dark;
   }
+  /* In-prose entity mention (ai_summary/pros/cons/research notes auto-linked
+     by lib/autolink.js) -- same underline treatment as link-accent but at
+     normal weight and a thinner rule, since this sits inline inside a
+     sentence rather than standing alone as a CTA. */
+  .link-inline {
+    @apply text-brand-text underline decoration-brand-primary decoration-1 underline-offset-2 transition-colors dark:text-brand-text-dark;
+  }
+  .link-inline:hover {
+    @apply decoration-brand-primary-hover dark:decoration-brand-primary-hover-dark;
+  }
   /* Muted nav-style link: matches the reference's footer/index link
      convention (muted by default, full text color + underline on hover). */
   .link-muted {

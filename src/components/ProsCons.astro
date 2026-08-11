@@ -1,4 +1,8 @@
 ---
+// pros/cons arrive pre-escaped HTML strings (see autolink.js's
+// createEntityLinker, the only caller) so a mention of another hotel by
+// name can render as a real link -- rendered via set:html rather than
+// Astro's default text interpolation for that reason.
 const { pros = [], cons = [] } = Astro.props;
 ---
 
@@ -11,7 +15,7 @@ const { pros = [], cons = [] } = Astro.props;
           {pros.map((p) => (
             <li class="flex gap-2">
               <span aria-hidden="true" class="text-brand-success dark:text-brand-success-dark">+</span>
-              <span>{p}</span>
+              <span set:html={p} />
             </li>
           ))}
         </ul>
@@ -24,7 +28,7 @@ const { pros = [], cons = [] } = Astro.props;
           {cons.map((c) => (
             <li class="flex gap-2">
               <span aria-hidden="true" class="text-brand-error dark:text-brand-error-dark">–</span>
-              <span>{c}</span>
+              <span set:html={c} />
             </li>
           ))}
         </ul>
