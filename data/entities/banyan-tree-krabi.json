@@ -1,0 +1,70 @@
+{
+  "entity_id": "banyan-tree-krabi",
+  "slug": "banyan-tree-krabi",
+  "name": "Banyan Tree Krabi",
+  "category_id": "accor-all",
+  "region_id": "krabi",
+  "short_description": "A 5-star beachfront resort with 72 pool suites and villas on a secluded Andaman Sea beach facing jungle-clad mountains.",
+  "ai_summary": "Banyan Tree Krabi sits on a secluded beach on Krabi's Andaman coast, described on its own Accor listing as a sanctuary where sapphire-blue sea meets white sand against jungle-green mountains. The resort has 72 suites and villas, each with a private pool, set among fragrant gardens and water features. No aggregate ALL guest rating was shown on the hotel's page at the time of research.",
+  "core_facts": {
+    "address": "279 Moo 3, Tambon Nongtalay, Amphoe Muang, 81180 Krabi, Thailand",
+    "brand_sub_brand": "Banyan Tree",
+    "neighborhood": "Nong Thale / Andaman coast",
+    "star_rating": 5,
+    "rooms": 72,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "72 private-pool suites and villas on a secluded Andaman Sea beach",
+    "Backdrop of jungle-clad mountains typical of Krabi's karst landscape",
+    "Banyan Tree's signature spa and dining experiences"
+  ],
+  "cons": [
+    "No aggregate ALL guest rating was shown on the hotel's own page at the time of research",
+    "Secluded beach setting means fewer nearby restaurants and attractions outside the resort"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 72 private-pool suites and villas on a secluded Andaman beach"
+  ],
+  "research_watchouts": [
+    "The hotel's own Accor page did not display a customer review rating at the time of research -- none is included here rather than estimating one",
+    "Facts sourced from the hotel's own Accor listing page only; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "How many villas does Banyan Tree Krabi have?",
+      "answer": "72 suites and villas, each with a private pool, set on a secluded beach on Krabi's Andaman coast facing jungle-clad mountains. The resort is arranged among fragrant gardens and water features, though its own Accor listing did not display an aggregate guest rating at the time of research, so no rating is quoted here."
+    }
+  ],
+  "tags": ["andaman coast", "pool villas", "secluded beach"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B809/index.en.shtml",
+      "label": "Official Banyan Tree Krabi page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B809/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-krabi-phokeethra-golf-spa-resort", "grand-mercure-krabi-ao-nang"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

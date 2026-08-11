@@ -1,0 +1,70 @@
+{
+  "entity_id": "banyan-tree-phuket",
+  "slug": "banyan-tree-phuket",
+  "name": "Banyan Tree Phuket",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 5-star all-pool-villa resort in Cherngtalay with 218 Thai-inspired villas set around a lagoon near Bang Tao Beach.",
+  "ai_summary": "Banyan Tree Phuket sits in Cherngtalay, in Phuket's Talang district, built around a lagoon near Bang Tao Beach. The resort's own Accor listing describes it as a tropical all-pool-villa resort with 218 villas, each designed in traditional Thai architectural style with modern amenities. No aggregate ALL guest rating was shown on the hotel's page at the time of research.",
+  "core_facts": {
+    "address": "33/27 Moo Srisoonthorn Rd, Cherngtalay Amphur Talang, 83110 Phuket, Thailand",
+    "brand_sub_brand": "Banyan Tree",
+    "neighborhood": "Cherngtalay / Bang Tao",
+    "star_rating": 5,
+    "rooms": 218,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "218 all-pool villas, each with private pool and Thai-inspired design",
+    "Set around a serene lagoon near Bang Tao Beach",
+    "Long-established Banyan Tree flagship property in Phuket"
+  ],
+  "cons": [
+    "No aggregate ALL guest rating was shown on the hotel's own page at the time of research",
+    "Cherngtalay/Bang Tao location is a drive from Phuket Town and the airport"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 218 pool villas set around a lagoon near Bang Tao Beach"
+  ],
+  "research_watchouts": [
+    "The hotel's own Accor page did not display a customer review rating at the time of research -- none is included here rather than estimating one",
+    "Facts sourced from the hotel's own Accor listing page only; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "How many villas does Banyan Tree Phuket have?",
+      "answer": "218 villas, each with a private pool, inspired by traditional Thai architecture and set within a lagoon-side resort near Bang Tao Beach in Phuket's Cherngtalay district. The property is one of Banyan Tree's flagship all-pool-villa resorts in Southeast Asia, though its own Accor listing did not display an aggregate guest rating at the time of research."
+    }
+  ],
+  "tags": ["all-pool villas", "bang tao beach", "lagoon resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B1U8/index.en.shtml",
+      "label": "Official Banyan Tree Phuket page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B1U8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["v-villas-phuket-mgallery", "grand-mercure-phuket-patong"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

@@ -1,0 +1,70 @@
+{
+  "entity_id": "novotel-phnom-penh-bkk1",
+  "slug": "novotel-phnom-penh-bkk1",
+  "name": "Novotel Phnom Penh BKK 1",
+  "category_id": "accor-all",
+  "region_id": "phnom-penh",
+  "short_description": "A 254-room hotel near the Independence Monument in Phnom Penh's BKK1 district, with a 4.7/5 ALL rating from over 650 reviews.",
+  "ai_summary": "Novotel Phnom Penh BKK 1 sits in Boeung Keng Kang 1, Phnom Penh's business district, near the Independence Monument and within reach of the Royal Palace, Diamond Island, and the riverside. Its own Accor listing shows a 4.7/5 ALL guest rating from roughly 679 reviews, and describes 254 rooms and suites, flexible meeting spaces, an all-day dining venue, three bars, an InBalance Gym, a pool, and the Bodia Spa.",
+  "core_facts": {
+    "address": "Street 51 corner street 294, Boeung Keng Kang 1, 120102 Phnom Penh, Cambodia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "BKK1",
+    "star_rating": 5,
+    "rooms": 254,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.7/5 ALL guest rating from roughly 679 reviews",
+    "254 rooms and suites near the Independence Monument in the BKK1 business district",
+    "Bodia Spa, InBalance Gym, pool, and three bars on-site",
+    "Walking distance to Langka Lane, Bassac Lane, and Wat Langka"
+  ],
+  "cons": [
+    "BKK1 business-district setting is a short taxi ride from the older riverside heritage area"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 254 rooms and a 4.7/5 ALL guest rating from roughly 679 reviews",
+    "Positioned near the Independence Monument with easy access to the Royal Palace and Mekong riverside"
+  ],
+  "research_watchouts": [
+    "Facts sourced from the hotel's own Accor listing page; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is Novotel Phnom Penh BKK 1 near the Independence Monument?",
+      "answer": "Yes -- the hotel is located near the Independence Monument in Phnom Penh's Boeung Keng Kang 1 (BKK1) business district, with the Royal Palace and Mekong riverside a short distance away."
+    }
+  ],
+  "tags": ["bkk1", "independence monument", "business hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B2E8/index.en.shtml",
+      "label": "Official Novotel Phnom Penh BKK 1 page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B2E8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-phnom-penh-phokeethra", "raffles-hotel-le-royal"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}
