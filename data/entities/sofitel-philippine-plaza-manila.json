@@ -1,0 +1,65 @@
+{
+  "entity_id": "sofitel-philippine-plaza-manila",
+  "slug": "sofitel-philippine-plaza-manila",
+  "name": "Sofitel Philippine Plaza Manila",
+  "category_id": "accor-all",
+  "region_id": "manila",
+  "short_description": "A 5-star luxury resort with 607 rooms and suites on Manila Bay, next to the Cultural Center of the Philippines, with balconies showcasing sunset views over the bay.",
+  "ai_summary": "Sofitel Philippine Plaza Manila is a 5-star luxury resort in a tropical setting on Roxas Boulevard, adjacent to the Cultural Center of the Philippines Complex and close to the SM Mall of Asia. It has 607 rooms and suites with balconies overlooking Manila Bay, known for sunset views, and sits about 5 minutes from both domestic and international airport terminals. Nearby attractions include Intramuros, Manila Cathedral, and the Philippine International Convention Center (PICC). No ALL Rating figure was shown on the property's own Accor page at the time of research. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "CCP Complex Roxas Boulevard, Pasay City, 1300 Manila, Philippines",
+    "brand_sub_brand": "Sofitel",
+    "neighborhood": "CCP Complex, Roxas Boulevard, Pasay City",
+    "star_rating": 5,
+    "rooms": 607,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "607 rooms and suites with balconies showcasing Manila Bay sunset views",
+    "Adjacent to the Cultural Center of the Philippines, close to SM Mall of Asia and PICC",
+    "About 5 minutes from both Manila's domestic and international airport terminals"
+  ],
+  "cons": [
+    "No ALL Rating figure was shown on the property's own Accor page at the time of research",
+    "Independent guest reviews found via web search note that some rooms feel dated relative to the hotel's scale and history"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/6308/index.en.shtml",
+    "607 rooms/suites, Manila Bay sunset views, adjacent to the Cultural Center of the Philippines"
+  ],
+  "research_watchouts": [
+    "No ALL Rating displayed on the Accor page at time of research"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["sofitel", "manila-bay", "pasay", "beachfront-resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6308/index.en.shtml",
+      "label": "Accor ALL — Sofitel Philippine Plaza Manila official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/6308/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["raffles-makati", "fairmont-makati"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

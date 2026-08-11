@@ -1,0 +1,62 @@
+{
+  "entity_id": "pullman-jakarta-central-park",
+  "slug": "pullman-jakarta-central-park",
+  "name": "Pullman Jakarta Central Park",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 5-star Pullman in West Jakarta with 317 rooms and suites, directly connected to Central Park Mall and over 7,000 sqm of convention space, holding a 4.6/5 ALL Rating (1,791 reviews).",
+  "ai_summary": "Pullman Jakarta Central Park is a 5-star hotel in West Jakarta with 317 guestrooms and suites, directly connected to Central Park Mall and positioned between Soekarno-Hatta International Airport and Jakarta's city centre. The property has over 7,000 sqm of convention venues including one of Jakarta's largest pillarless ballrooms, several restaurants and bars, and wellness facilities, built around an 'Industrial Raw' design concept. It holds a 4.6/5 ALL Rating from 1,791 reviews on its own Accor page. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "Podomoro City, Jl. Let. Jend S Parman Kav 28, Jakarta Barat, 11470 Jakarta, Indonesia",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Podomoro City, West Jakarta",
+    "star_rating": 5,
+    "rooms": 317,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.6/5 ALL Rating from 1,791 reviews",
+    "317 contemporary rooms/suites, directly connected to Central Park Mall in Podomoro City",
+    "Over 7,000 sqm of convention space including one of Jakarta's largest pillarless ballrooms",
+    "Positioned between Soekarno-Hatta International Airport and the city centre"
+  ],
+  "cons": [],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/7536/index.en.shtml",
+    "4.6/5 ALL Rating from 1,791 reviews",
+    "317 rooms, directly connected to Central Park Mall, 7,000+ sqm of convention venues"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["pullman", "west-jakarta", "central-park-mall", "convention"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7536/index.en.shtml",
+      "label": "Accor ALL — Pullman Jakarta Central Park official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/7536/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-jakarta-indonesia", "swissotel-jakarta-pik-avenue"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

@@ -1,0 +1,64 @@
+{
+  "entity_id": "the-morning-glow-nha-trang",
+  "slug": "the-morning-glow-nha-trang",
+  "name": "The Morning Glow - Handwritten Collection",
+  "category_id": "accor-all",
+  "region_id": "nha-trang",
+  "short_description": "A seafront Handwritten Collection hotel on Nha Trang's coastal road with smart in-room technology and private balconies, holding a 4.2/5 ALL Rating (102 reviews).",
+  "ai_summary": "The Morning Glow - Handwritten Collection is a seafront hotel on Nha Trang's scenic coastal road (Pham Van Dong Street), blending urban design with a seaside setting. Rooms feature smart in-room technology for controlling lighting and ambiance, with private balconies offering ocean or city views. The property holds a 4.2/5 ALL Rating from 102 reviews on its own Accor page. No star rating is displayed on the property's own page. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "62-65 Pham Van Dong Street, Vinh Hai Ward, Khanh Hoa, 57000 Nha Trang, Vietnam",
+    "brand_sub_brand": "Handwritten Collection",
+    "neighborhood": "Pham Van Dong coastal road, Vinh Hai Ward, Nha Trang",
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.2/5 ALL Rating from 102 reviews",
+    "Seafront location on Nha Trang's scenic coastal road with private balconies and ocean/city views",
+    "Smart in-room technology lets guests control lighting and ambiance"
+  ],
+  "cons": [
+    "No star rating displayed on the property's own Accor page",
+    "Lower review volume (102) than more established Accor properties in Nha Trang"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/C561/index.en.shtml",
+    "4.2/5 ALL Rating from 102 reviews",
+    "Seafront rooms with private balconies and smart in-room technology"
+  ],
+  "research_watchouts": [
+    "No star rating displayed on the Accor page at time of research"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["handwritten-collection", "seafront", "nha-trang-beach"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C561/index.en.shtml",
+      "label": "Accor ALL — The Morning Glow official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/C561/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-nha-trang-beach", "novotel-nha-trang"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

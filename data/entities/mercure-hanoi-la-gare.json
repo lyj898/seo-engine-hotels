@@ -1,0 +1,61 @@
+{
+  "entity_id": "mercure-hanoi-la-gare",
+  "slug": "mercure-hanoi-la-gare",
+  "name": "Mercure Hanoi la Gare",
+  "category_id": "accor-all",
+  "region_id": "hanoi",
+  "short_description": "A 4-star Mercure on Ly Thuong Kiet Street in Hanoi's French Quarter, opposite Hanoi Railway Station and near the Old Quarter, holding a 4.6/5 ALL Rating (1,014 reviews).",
+  "ai_summary": "Mercure Hanoi la Gare is a 4-star hotel on Ly Thuong Kiet Street in Hanoi's French Quarter, directly in front of Hanoi Railway Station for easy train journeys to Sapa and Ninh Binh. It is a 5-minute walk from the ICE Exhibition Centre and within walking distance of the French Quarter, Old Quarter, Hoan Kiem Lake, and Train Street. Facilities include a meeting room, 24/7 gym, and the Brasserie Le Pavillon restaurant. The hotel holds a 4.6/5 ALL Rating from 1,014 reviews on its own Accor page. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "94 Ly Thuong Kiet Street, Cua Nam Ward, 100000 Hanoi, Vietnam",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "French Quarter, near Hanoi Railway Station",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.6/5 ALL Rating from 1,014 reviews",
+    "Directly opposite Hanoi Railway Station, convenient for train trips to Sapa and Ninh Binh",
+    "5-minute walk to the ICE Exhibition Centre; walking distance to the Old Quarter and Hoan Kiem Lake",
+    "24/7 gym, meeting room, and Brasserie Le Pavillon restaurant on-site"
+  ],
+  "cons": [],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/7049/index.en.shtml",
+    "4.6/5 ALL Rating from 1,014 reviews",
+    "French Quarter address opposite Hanoi Railway Station, near Old Quarter and Hoan Kiem Lake"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["mercure", "french-quarter", "hanoi-railway-station"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7049/index.en.shtml",
+      "label": "Accor ALL — Mercure Hanoi la Gare official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/7049/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-hanoi", "fairmont-hanoi"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

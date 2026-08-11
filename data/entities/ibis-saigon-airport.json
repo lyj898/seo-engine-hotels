@@ -1,0 +1,64 @@
+{
+  "entity_id": "ibis-saigon-airport",
+  "slug": "ibis-saigon-airport",
+  "name": "ibis Saigon Airport",
+  "category_id": "accor-all",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A 4-star ibis 5 minutes' walk from Tan Son Nhat International Airport, with 273 rooms and serviced apartments and a rooftop sky bar overlooking the airport, holding a 4.5/5 ALL Rating (1,848 reviews).",
+  "ai_summary": "ibis Saigon Airport sits a 5-minute walk from Tan Son Nhat International Airport in Ho Chi Minh City's Tan Binh District. The 4-star hotel has 273 rooms including standard rooms, studios, and one/two-bedroom serviced apartments with kitchenettes for long-term rental. Bistro by Oopen serves all-day local and international dining, and The Hub Saigon rooftop bar overlooks the airport with cocktails and drinks. The property holds a strong 4.5/5 ALL Rating from 1,848 reviews on its own Accor page. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "2 Hong Ha St, W2, Dist Tan Binh, 70000 Ho Chi Minh, Vietnam",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Tan Binh District, near Tan Son Nhat Airport, Ho Chi Minh City",
+    "star_rating": 4,
+    "rooms": 273,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.5/5 ALL Rating from 1,848 reviews — one of the higher review volumes among Accor properties in the city",
+    "5-minute walk to Tan Son Nhat International Airport, useful for late arrivals/early departures",
+    "273 rooms and serviced apartments, including kitchenette units for longer stays",
+    "The Hub Saigon rooftop bar has direct views over the airport runway"
+  ],
+  "cons": [
+    "Airport-adjacent location in Tan Binh District, a taxi ride from District 1's main sights"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/9468/index.en.shtml",
+    "4.5/5 ALL Rating from 1,848 reviews",
+    "273 rooms/apartments, 5-minute walk from Tan Son Nhat Airport, rooftop bar The Hub Saigon"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["airport-hotel", "ibis", "tan-son-nhat", "tan-binh"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9468/index.en.shtml",
+      "label": "Accor ALL — ibis Saigon Airport official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/9468/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-saigon-south", "novotel-living-saigon-south"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

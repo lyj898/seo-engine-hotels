@@ -1,0 +1,64 @@
+{
+  "entity_id": "novotel-living-saigon-south",
+  "slug": "novotel-living-saigon-south",
+  "name": "Novotel Living Saigon South",
+  "category_id": "accor-all",
+  "region_id": "ho-chi-minh-city",
+  "short_description": "A 4-star apart-hotel in Phu My Hung, Ho Chi Minh City, with 175 fully furnished studios and apartments steps from the Saigon Exhibition and Convention Center, holding a 4.6/5 ALL Rating (403 reviews).",
+  "ai_summary": "Novotel Living Saigon South is a 4-star apart-hotel in Ho Chi Minh City's walkable Phu My Hung urban area, just steps from the Saigon Exhibition and Convention Center (SECC). It offers 175 spacious, fully furnished studios and one- and two-bedroom apartments with work desks and Wi-Fi, aimed at both short stays and longer-term living. On-site dining is handled by Food Exchange Saigon South, a 70-seat restaurant serving Asian and international cuisine, and the property has a modern meeting room for up to 25 guests. The hotel holds a 4.6/5 ALL Rating from 403 reviews on its own Accor page. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "No 2 Street C, Tan My Ward, 700000 Ho Chi Minh, Vietnam",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Phu My Hung, District 7, Ho Chi Minh City",
+    "star_rating": 4,
+    "rooms": 175,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.6/5 ALL Rating from 403 reviews on the property's own Accor page",
+    "175 fully furnished studios and one/two-bedroom apartments, suited to both short and extended stays",
+    "Steps from the Saigon Exhibition and Convention Center (SECC) in the walkable Phu My Hung district",
+    "On-site Food Exchange Saigon South restaurant and a 25-guest meeting room"
+  ],
+  "cons": [
+    "Located in Phu My Hung / District 7, a 20-30 minute drive from District 1's historic core"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/C1W1/index.en.shtml",
+    "4.6/5 ALL Rating from 403 reviews",
+    "175 studios/apartments, steps from SECC in Phu My Hung"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["phu-my-hung", "novotel", "apart-hotel", "long-stay"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C1W1/index.en.shtml",
+      "label": "Accor ALL — Novotel Living Saigon South official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/C1W1/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-saigon-south", "novotel-saigon-centre"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}
