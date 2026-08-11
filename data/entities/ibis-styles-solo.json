@@ -1,0 +1,63 @@
+{
+  "entity_id": "ibis-styles-solo",
+  "slug": "ibis-styles-solo",
+  "name": "ibis Styles Solo",
+  "category_id": "accor-all",
+  "region_id": "solo",
+  "short_description": "A design-economy hotel on Jalan Gajahmada in central Solo, walkable to city sights and about 20 minutes from Adisumarmo Airport.",
+  "ai_summary": "ibis Styles Solo sits on Jalan Gajahmada in the Timuran area of Banjarsari, Surakarta, within walking distance of Solo's city-centre attractions and about 20 minutes' drive from Adisumarmo Airport and 5 minutes from Balapan train station. Independent aggregator listings describe two pools and colourful, modern rooms typical of the ibis Styles design-economy format. The hotel's own ALL booking page could not be loaded directly for this research pass -- facts here are cross-checked across Trip.com and Hotels.com listings rather than the official page.",
+  "core_facts": {
+    "address": "Jl. Gajahmada No.23, Timuran, Kec. Banjarsari, 57131 Surakarta, Central Java, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Timuran"
+  },
+  "pros": [
+    "Central Solo location, walkable to city-centre tourist attractions",
+    "About 5 minutes from Balapan train station and 20 minutes from Adisumarmo Airport",
+    "Two swimming pools, per independent aggregator listings"
+  ],
+  "cons": [
+    "The hotel's official ALL booking page repeatedly failed to load for direct verification during this research pass",
+    "No confirmed independent guest-rating figure from the property's own official page as of this research"
+  ],
+  "research_highlights": [
+    "Address cross-checked across Trip.com and Hotels.com listings, which consistently place the hotel on Jalan Gajahmada in Timuran"
+  ],
+  "research_watchouts": [
+    "The official all.accor.com hotel page for this property redirected to a different domain that could not be reached directly during this research pass; facts here rely on independent aggregator listings rather than the official page itself"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "tags": ["timuran", "design economy", "central solo"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6530/index.en.shtml",
+      "label": "Official ibis Styles Solo page (listing only -- did not render for direct verification)",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    },
+    {
+      "url": "https://th.hotels.com/en/ho276640/ibis-styles-solo-surakarta-indonesia",
+      "label": "Hotels.com listing",
+      "type": "aggregator",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6530/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-solo-baru", "novotel-solo"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 34,
+  "last_updated": "2026-08-11",
+  "status": "needs_review"
+}

@@ -1,0 +1,71 @@
+{
+  "entity_id": "ibis-styles-kuala-lumpur-bukit-bintang",
+  "slug": "ibis-styles-kuala-lumpur-bukit-bintang",
+  "name": "ibis Styles Kuala Lumpur Bukit Bintang",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A design-economy hotel on Jalan Alor in the heart of Bukit Bintang, steps from the street's famous night-market food stalls.",
+  "ai_summary": "ibis Styles Kuala Lumpur Bukit Bintang sits on Jalan Alor -- Kuala Lumpur's best-known street-food strip -- putting guests within walking distance of public transport and a dense mix of shopping, dining and nightlife. The hotel carries ibis Styles' colourful design-economy format, and the official ALL page shows a 4.3/5 customer rating from 506 reviews as of the research date.",
+  "core_facts": {
+    "address": "No 16, Jalan Alor, Bukit Bintang, 50200 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Bukit Bintang",
+    "star_rating": 3,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Located directly on Jalan Alor, Kuala Lumpur's famous night-market food street",
+    "Easy access to public transportation in the heart of Bukit Bintang",
+    "4.3/5 customer review rating from 506 reviews on the official ALL booking page",
+    "Design-economy ibis Styles format with colourful, contemporary rooms",
+    "On-site fitness centre, restaurant and complimentary Wi-Fi throughout"
+  ],
+  "cons": [
+    "Jalan Alor's night-market crowds and street noise can be heard from lower floors",
+    "Economy-tier room sizes typical of the ibis Styles format"
+  ],
+  "research_highlights": [
+    "The Jalan Alor address puts the hotel inside Kuala Lumpur's most famous street-food strip",
+    "The official ALL page shows a 4.3/5 rating across 506 reviews as of this research pass"
+  ],
+  "research_watchouts": [
+    "Street noise from Jalan Alor's night market can carry into lower-floor rooms"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Kuala Lumpur Bukit Bintang close to Jalan Alor food street?",
+      "answer": "Yes -- the hotel's address is directly on Jalan Alor, Kuala Lumpur's best-known night-market food strip in Bukit Bintang."
+    }
+  ],
+  "tags": ["jalan alor", "bukit bintang", "design economy"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C3K9/index.en.shtml",
+      "label": "Official ibis Styles Kuala Lumpur Bukit Bintang page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C3K9/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-kuala-lumpur-city-centre", "mercure-kuala-lumpur-shaw-parade"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

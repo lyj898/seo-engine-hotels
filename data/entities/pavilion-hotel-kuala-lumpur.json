@@ -1,0 +1,71 @@
+{
+  "entity_id": "pavilion-hotel-kuala-lumpur",
+  "slug": "pavilion-hotel-kuala-lumpur",
+  "name": "Pavilion Hotel Kuala Lumpur Managed By Banyan Tree",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 325-room hotel in the heart of Bukit Bintang, managed by Banyan Tree, with club-floor facilities, three dining venues, and a Pavilion Ballroom.",
+  "ai_summary": "Pavilion Hotel Kuala Lumpur, managed by Banyan Tree, offers 325 rooms and suites in the heart of Bukit Bintang with club-floor facilities for business and leisure travellers. On-site dining includes The Courtyard for all-day Malaysian cuisine, Jade Pavilion for Cantonese fare, and The Cove cocktail bar, alongside a Pavilion Ballroom and six multi-function spaces for events. Note: this is a separate property from the smaller Banyan Tree Kuala Lumpur across the road -- the two are commonly confused since both sit by Pavilion KL mall.",
+  "core_facts": {
+    "address": "170 Jalan Bukit Bintang, Kuala Lumpur, 55100 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Managed by Banyan Tree",
+    "neighborhood": "Bukit Bintang",
+    "rooms": 325,
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "325 beautifully appointed rooms and suites, including club floor facilities",
+    "Three distinct dining venues: The Courtyard (Malaysian all-day dining), Jade Pavilion (Cantonese), and The Cove cocktail bar",
+    "Pavilion Ballroom plus six multi-function meeting spaces for events",
+    "Located in the heart of Bukit Bintang, Kuala Lumpur's shopping and entertainment district"
+  ],
+  "cons": [
+    "Often confused with the separate, smaller Banyan Tree Kuala Lumpur hotel located across the road",
+    "Bukit Bintang's nightlife and shopping crowds mean a busier street-level environment than quieter KL neighbourhoods"
+  ],
+  "research_highlights": [
+    "The hotel is explicitly a different property from Banyan Tree Kuala Lumpur, despite both being Banyan Tree-linked and near Pavilion mall",
+    "Club floor facilities and three separate dining venues distinguish it from a standard business hotel"
+  ],
+  "research_watchouts": [
+    "Guests booking should confirm they're reserving this property and not the separate Banyan Tree Kuala Lumpur hotel nearby -- a mix-up flagged directly by at least one independent reviewer"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is Pavilion Hotel Kuala Lumpur the same as Banyan Tree Kuala Lumpur?",
+      "answer": "No -- they're separate properties. Pavilion Hotel Kuala Lumpur (325 rooms, managed by Banyan Tree) is inside/adjacent to Pavilion KL mall, while Banyan Tree Kuala Lumpur (55 rooms) is a smaller hotel across the road. The two are commonly confused."
+    }
+  ],
+  "tags": ["bukit bintang", "pavilion mall", "club floor"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4Z2/index.en.shtml",
+      "label": "Official Pavilion Hotel Kuala Lumpur page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B4Z2/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["banyan-tree-kuala-lumpur", "sofitel-kuala-lumpur-damansara"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}
