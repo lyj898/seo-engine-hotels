@@ -1,0 +1,75 @@
+{
+  "entity_id": "mercure-kuta-bali",
+  "slug": "mercure-kuta-bali",
+  "name": "Mercure Kuta Bali",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A 130-room Mercure directly on Kuta Beach with a 4.7/5 ALL Rating (64 reviews), positioned for both leisure and business travellers.",
+  "ai_summary": "Mercure Kuta Bali sits directly on the shores of Kuta Beach, offering 130 rooms that blend contemporary design with island styling. The hotel holds a 4.7/5 ALL Rating from 64 reviews. It's positioned as a gateway to Bali's beach lifestyle for both leisure travellers and business guests. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "Jalan Pantai Kuta 10 X, Br Pande Mas, 80361 Kuta, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Kuta Beach, Bali",
+    "rooms": 130,
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "130 rooms directly on Kuta Beach — genuine beachfront positioning",
+    "Strong 4.7/5 ALL Rating, though from a modest review base (64 reviews)"
+  ],
+  "cons": [
+    "Review volume (64) is small relative to other Kuta-area Accor properties, so the rating carries less statistical weight",
+    "Kuta Beach strip is busy and tourist-dense"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/3713/index.en.shtml",
+    "130 rooms, ALL Rating 4.7/5 (64 reviews)",
+    "Direct Kuta Beach frontage"
+  ],
+  "research_watchouts": [
+    "Rating is based on a relatively small review sample (64) — treat as indicative rather than statistically robust"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "kuta",
+    "mercure",
+    "beachfront",
+    "midscale"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/3713/index.en.shtml",
+      "label": "Accor ALL — Mercure Kuta Bali official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/3713/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "tribe-bali-kuta-beach",
+    "the-kuta-beach-heritage-hotel-bali",
+    "ibis-bali-kuta"
+  ],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

@@ -1,0 +1,73 @@
+{
+  "entity_id": "mercure-rayong-lomtalay-villas-resort",
+  "slug": "mercure-rayong-lomtalay-villas-resort",
+  "name": "Mercure Rayong Lomtalay Villas & Resort",
+  "category_id": "accor-all",
+  "region_id": "rayong",
+  "short_description": "A two-wing beach resort 2.5 hours from Bangkok, with sea-view villas in the Ocean Wing and a rooftop bar in the Garden Wing, holding a 4.4/5 ALL Rating (2,204 reviews).",
+  "ai_summary": "Mercure Rayong Lomtalay Villas & Resort is roughly 2.5 hours from Bangkok in Klaeng, Rayong province, and holds a strong 4.4/5 ALL Rating from 2,204 reviews. The property is split into two wings 400 metres apart, connected by a free shuttle: the beachfront Ocean Wing with sea-view villas, and the Garden Wing, 200 metres from the beach, home to the Koh 17 rooftop bar. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "235 Moo 3, Tambon Kram, Amphur Klaeng, 21190 Rayong, Thailand",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Klaeng, Rayong, Thailand",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Strong 4.4/5 ALL Rating from a large base of 2,204 reviews",
+    "Two distinct wings — beachfront sea-view villas (Ocean Wing) and a rooftop bar (Garden Wing, Koh 17) — connected by a free shuttle",
+    "Genuine coastal villa-resort format on Rayong's Eastern Seaboard coastline"
+  ],
+  "cons": [
+    "2.5-hour drive from Bangkok — a genuine trip rather than a quick getaway",
+    "The two-wing layout means guests should check which wing they're booking for beachfront vs. rooftop-bar proximity"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/B2E7/index.en.shtml",
+    "ALL Rating 4.4/5 (2,204 reviews)",
+    "Ocean Wing (beachfront villas) and Garden Wing (Koh 17 rooftop bar), 400m apart with free shuttle"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "rayong",
+    "klaeng",
+    "mercure",
+    "villa-resort",
+    "beachfront"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B2E7/index.en.shtml",
+      "label": "Accor ALL — Mercure Rayong Lomtalay Villas & Resort official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B2E7/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "novotel-rayong-star-convention",
+    "novotel-rayong-rim-pae-resort"
+  ],
+  "reliability_score": 32,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

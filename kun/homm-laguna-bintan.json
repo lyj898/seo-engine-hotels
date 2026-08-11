@@ -1,0 +1,75 @@
+{
+  "entity_id": "homm-laguna-bintan",
+  "slug": "homm-laguna-bintan",
+  "name": "Homm Laguna Bintan",
+  "category_id": "accor-all",
+  "region_id": "bintan",
+  "short_description": "A Homm-branded island getaway in Lagoi with rainforest and beach access, a spa, fitness centre, and outdoor pool.",
+  "ai_summary": "Homm Laguna Bintan is a resort property in Lagoi positioned as an island getaway, with rainforest trekking, beach strolls, and sunset views from guest balconies. Facilities include a spa and wellness centre, a well-equipped fitness centre, and an outdoor swimming pool. It sits within Bintan's broader Laguna resort area alongside Banyan Tree Bintan and Cassia Bintan. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "Jalan Teluk Berembang, Lagoi, 29155 Bintan, Indonesia",
+    "brand_sub_brand": "Homm",
+    "neighborhood": "Lagoi, Bintan Island",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Rainforest and beach access within the Lagoi resort area",
+    "Spa and wellness centre, fitness centre, and outdoor pool on-site"
+  ],
+  "cons": [
+    "No ALL Rating displayed yet — guest sentiment data not confirmed",
+    "Room count not confirmed"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/B1W6/index.en.shtml",
+    "Spa and wellness centre, fitness centre, outdoor pool",
+    "Lagoi resort area, rainforest and beach access"
+  ],
+  "research_watchouts": [
+    "No ALL Rating displayed on the Accor page at time of research"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "bintan",
+    "lagoi",
+    "homm-brand",
+    "resort",
+    "spa"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B1W6/index.en.shtml",
+      "label": "Accor ALL — Homm Laguna Bintan official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B1W6/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "banyan-tree-bintan",
+    "cassia-bintan",
+    "movenpick-resort-spa-bintan-lagoon"
+  ],
+  "reliability_score": 32,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

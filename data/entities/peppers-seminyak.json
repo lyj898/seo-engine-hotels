@@ -1,0 +1,74 @@
+{
+  "entity_id": "peppers-seminyak",
+  "slug": "peppers-seminyak",
+  "name": "Peppers Seminyak",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A luxury villa resort in Seminyak with 1-to-5-bedroom private-pool villas, a 4.8/5 ALL Rating (435 reviews), and walking distance to Seminyak's boutiques and restaurants.",
+  "ai_summary": "Peppers Seminyak is a luxury villa resort in the Petitenget area of Seminyak, offering one-to-five-bedroom villas each with a private pool and garden — suited to honeymooners through to groups and families. The property holds a strong 4.8/5 ALL Rating from 435 reviews. On-site facilities include a day spa and The Laneway Restaurant, overlooking a rock pool and serving Balinese and Italian dishes. It's within walking distance of Seminyak's boutique shopping and dining, with a white-sand beach nearby. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "Jl Pura Telaga Waja, Petitenget, Seminyak, 80361 Seminyak, Indonesia",
+    "brand_sub_brand": "Peppers",
+    "neighborhood": "Petitenget / Seminyak, Bali",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "1-to-5-bedroom private-pool villas — genuinely flexible for couples, families, or groups",
+    "Excellent 4.8/5 ALL Rating from 435 reviews",
+    "Walking distance to Seminyak's boutique shopping, dining, and a white-sand beach"
+  ],
+  "cons": [
+    "Villa-resort format and Seminyak location command a premium price point",
+    "Seminyak's popularity means the immediate area can be busy, especially near the beach clubs"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/B3U5/index.en.shtml",
+    "1-5 bedroom private-pool villas, ALL Rating 4.8/5 (435 reviews)",
+    "The Laneway Restaurant and day spa on-site"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "seminyak",
+    "petitenget",
+    "villa-resort",
+    "luxury",
+    "private-pool",
+    "peppers-brand"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B3U5/index.en.shtml",
+      "label": "Accor ALL — Peppers Seminyak official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B3U5/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "grand-seminyak-lifestyle-boutique-bali-resort",
+    "grand-mercure-bali-seminyak"
+  ],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

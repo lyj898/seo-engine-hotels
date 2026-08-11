@@ -1,0 +1,75 @@
+{
+  "entity_id": "grand-seminyak-lifestyle-boutique-bali-resort",
+  "slug": "grand-seminyak-lifestyle-boutique-bali-resort",
+  "name": "Grand Seminyak Lifestyle Boutique Bali Resort",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A beachfront lifestyle resort in Seminyak with direct beach access, a 4.5/5 ALL Rating (175 reviews), and the Ocean Grand Beach day club with live entertainment.",
+  "ai_summary": "Grand Seminyak Lifestyle Boutique Bali Resort sits directly on Seminyak Beach, offering spacious suites amid tropical gardens overlooking the Indian Ocean. The property holds a 4.5/5 ALL Rating from 175 reviews. On-site venues include Moonlite Kitchen and Bar for modern Southeast Asian cuisine and the Ocean Grand Beach day club, which runs daily live entertainment and DJ performances — guests should expect to hear music during operating hours given the resort's lifestyle positioning. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "JL Camplung Tanduk Dhyana Pura, Seminyak Beach, 80361 Seminyak, Indonesia",
+    "brand_sub_brand": "Grand Seminyak",
+    "neighborhood": "Seminyak Beach, Bali",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Direct beach access on Seminyak Beach — one of Bali's most sought-after beachfront addresses",
+    "Solid 4.5/5 ALL Rating from 175 reviews",
+    "Ocean Grand Beach day club and Moonlite Kitchen and Bar give the resort a genuine lifestyle/nightlife identity"
+  ],
+  "cons": [
+    "The resort's day-club and entertainment positioning means daytime noise from live music — not suited to guests wanting a quiet beachfront stay",
+    "Seminyak's beachfront strip is busy and commercial rather than secluded"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/C4D5/index.en.shtml",
+    "Direct beach access, ALL Rating 4.5/5 (175 reviews)",
+    "Ocean Grand Beach day club with daily live entertainment"
+  ],
+  "research_watchouts": [
+    "Guests may hear music/entertainment during the day club's scheduled operating hours"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "seminyak",
+    "beachfront",
+    "day-club",
+    "lifestyle-resort",
+    "nightlife"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C4D5/index.en.shtml",
+      "label": "Accor ALL — Grand Seminyak Lifestyle Boutique Bali Resort official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/C4D5/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "peppers-seminyak",
+    "grand-mercure-bali-seminyak"
+  ],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

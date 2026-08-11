@@ -1,0 +1,70 @@
+{
+  "entity_id": "mercure-bangkok-sukhumvit-24",
+  "slug": "mercure-bangkok-sukhumvit-24",
+  "name": "Mercure Bangkok Sukhumvit 24",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 201-room Mercure 100m from BTS Phrom Phong with a 4.6/5 ALL Rating (1,292 reviews), a rooftop pool, and a location minutes from the EmDistrict malls.",
+  "ai_summary": "Mercure Bangkok Sukhumvit 24 is located only 100 metres from BTS Skytrain Phrom Phong station and a few minutes' walk to the EmDistrict (Emporium and EmQuartier), with Terminal 21 just one BTS stop away. The 201-room property holds a strong 4.6/5 ALL Rating from 1,292 reviews. Facilities include a contemporary dining restaurant, a rooftop swimming pool, fitness centre, and flexible meeting facilities. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "5/1 Sukhumvit Road Soi 24, Khlong Tan, Klong Toey, 10110 Bangkok, Thailand",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Sukhumvit Soi 24 / Phrom Phong, Bangkok",
+    "rooms": 201,
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Excellent 4.6/5 ALL Rating from a large base of 1,292 reviews",
+    "100m from BTS Phrom Phong, minutes from Emporium/EmQuartier, one stop from Terminal 21",
+    "201 rooms and suites, rooftop swimming pool, fitness centre, flexible meeting facilities"
+  ],
+  "cons": [
+    "Popular EmDistrict location can be busy, especially on weekends"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/B0M2/index.en.shtml",
+    "201 rooms, ALL Rating 4.6/5 (1,292 reviews)",
+    "100m from BTS Phrom Phong, rooftop pool"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "sukhumvit",
+    "soi-24",
+    "phrom-phong",
+    "mercure",
+    "emdistrict"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B0M2/index.en.shtml",
+      "label": "Accor ALL — Mercure Bangkok Sukhumvit 24 official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B0M2/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

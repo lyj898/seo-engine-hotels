@@ -1,0 +1,70 @@
+{
+  "entity_id": "ibis-bandung-pasteur",
+  "slug": "ibis-bandung-pasteur",
+  "name": "ibis Bandung Pasteur",
+  "category_id": "accor-all",
+  "region_id": "bandung",
+  "short_description": "A 3-star ibis in Bandung's Pasteur area near the Jakarta toll gate, with an ALL Rating of 4.5/5 from 450 reviews.",
+  "ai_summary": "ibis Bandung Pasteur (Accor code 9397) is a 3-star economy ibis in the Pasteur area of Bandung, close to the Pasteur toll gate which is the main entry point for visitors driving from Jakarta. This makes it the most convenient Bandung Accor property for road travellers arriving from the capital. The hotel holds an ALL Rating of 4.5/5 from 450 reviews. As an ibis, it offers clean, functional rooms, a restaurant, and free Wi-Fi. For ALL elite members, standard ibis benefits apply.",
+  "core_facts": {
+    "address": "Pasteur area, Bandung, West Java, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Pasteur, Bandung",
+    "elite_benefits": [
+      "Welcome drink for ALL Silver and above",
+      "Room upgrades for ALL Diamond and Platinum, subject to availability",
+      "Early check-in and late check-out for ALL Diamond"
+    ]
+  },
+  "pros": [
+    "Pasteur location near Jakarta toll gate, most convenient Bandung Accor for road travellers",
+    "ALL Rating 4.5/5 from 450 reviews, strong for an economy ibis"
+  ],
+  "cons": [
+    "Pasteur is an entry/transit area, not central Bandung"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/9397/index.en.shtml",
+    "ALL Rating 4.5/5 (450 reviews)"
+  ],
+  "research_watchouts": [
+    "Address and room count need verification from hotel detail page"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "bandung",
+    "pasteur",
+    "ibis",
+    "budget",
+    "jakarta-access"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9397/index.en.shtml",
+      "label": "Accor ALL, ibis Bandung Pasteur",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/9397/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "grand-mercure-bandung-setiabudi",
+    "ibis-bandung-trans-studio"
+  ],
+  "reliability_score": 32,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

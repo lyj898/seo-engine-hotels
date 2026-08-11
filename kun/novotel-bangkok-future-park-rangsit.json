@@ -1,0 +1,70 @@
+{
+  "entity_id": "novotel-bangkok-future-park-rangsit",
+  "slug": "novotel-bangkok-future-park-rangsit",
+  "name": "Novotel Bangkok Future Park Rangsit",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 226-room Novotel directly connected to the Future Park and Zpell shopping complex with a 4.6/5 ALL Rating (1,162 reviews).",
+  "ai_summary": "Novotel Bangkok Future Park Rangsit is directly connected to the Future Park and Zpell shopping complex in Rangsit, Pathum Thani province on greater Bangkok's northern outskirts. The 226-room property holds a strong 4.6/5 ALL Rating from 1,162 reviews. Rooms across four categories include rain showers, bathtubs, Bluetooth speakers, in-room coffee machines, and high-speed Wi-Fi. Nearby expressways and the SRT Red Line provide connectivity across Bangkok. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "114 Paholyothin Road, Prachathipat, Thanyaburi, 12130 Pathum Thani, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Rangsit / Future Park, Pathum Thani (greater Bangkok)",
+    "rooms": 226,
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Strong 4.6/5 ALL Rating from a large base of 1,162 reviews",
+    "226 rooms directly connected to the Future Park and Zpell shopping complex — cinemas, boutiques, dining on the doorstep",
+    "Well-equipped rooms (rain showers, Bluetooth speakers, in-room coffee machines) at a 4-star tier"
+  ],
+  "cons": [
+    "Rangsit/Pathum Thani location is well outside central Bangkok — best suited to travellers with business in the northern suburbs rather than city-centre sightseeing"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/B346/index.en.shtml",
+    "226 rooms, ALL Rating 4.6/5 (1,162 reviews)",
+    "Directly connected to Future Park and Zpell shopping complex; SRT Red Line access"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "rangsit",
+    "pathum-thani",
+    "novotel",
+    "shopping-mall-access",
+    "srt-red-line"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B346/index.en.shtml",
+      "label": "Accor ALL — Novotel Bangkok Future Park Rangsit official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B346/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

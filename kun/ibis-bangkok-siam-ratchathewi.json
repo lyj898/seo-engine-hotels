@@ -1,0 +1,72 @@
+{
+  "entity_id": "ibis-bangkok-siam-ratchathewi",
+  "slug": "ibis-bangkok-siam-ratchathewi",
+  "name": "ibis Bangkok Siam Ratchathewi",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A budget ibis just a 1-minute walk from Ratchathewi BTS station, sharing its building/address with the adjacent Mercure Bangkok Siam Ratchathewi.",
+  "ai_summary": "ibis Bangkok Siam Ratchathewi is a centrally located economy hotel just a 1-minute walk from Ratchathewi BTS Skytrain station, in the same Siam-Ratchathewi complex as the adjacent Mercure Bangkok Siam Ratchathewi. The area offers easy access to shopping, dining, and sightseeing, plus a mix of art attractions and traditional culture. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "199 Phaya Thai Road, Phetchaburi, Ratchathewi, 10400 Bangkok, Thailand",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Ratchathewi, Bangkok",
+    "star_rating": 3,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "1-minute walk to Ratchathewi BTS station — excellent transit access at a budget price point",
+    "Siam-Ratchathewi location gives easy access to Bangkok's central shopping and cultural attractions"
+  ],
+  "cons": [
+    "No ALL Rating displayed yet — guest sentiment data not yet available",
+    "Economy ibis tier — basic rooms and limited facilities, no pool or lounge access"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/C0I2/index.en.shtml",
+    "1-minute walk to Ratchathewi BTS station"
+  ],
+  "research_watchouts": [
+    "No ALL Rating displayed yet"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "ratchathewi",
+    "siam",
+    "ibis",
+    "budget",
+    "bts-access"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C0I2/index.en.shtml",
+      "label": "Accor ALL — ibis Bangkok Siam Ratchathewi official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/C0I2/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "mercure-bangkok-siam-ratchathewi"
+  ],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

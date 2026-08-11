@@ -1,0 +1,73 @@
+{
+  "entity_id": "pullman-bangkok-hotel-g",
+  "slug": "pullman-bangkok-hotel-g",
+  "name": "Pullman Bangkok Hotel G",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 5-star lifestyle Pullman on Silom Road with a 4.3/5 ALL Rating (3,503 reviews), floor-to-ceiling city-view windows, and a 5-minute walk to Chong Nonsi BTS.",
+  "ai_summary": "Pullman Bangkok Hotel G is a 5-star lifestyle hotel in the city centre of Silom district, close to Sathorn and a 5-minute walk to Chong Nonsi BTS Skytrain station. The property holds a 4.3/5 ALL Rating from a large base of 3,503 reviews. Rooms and suites feature floor-to-ceiling windows with panoramic Bangkok views, and facilities include G Spa. Standard Pullman-level ALL elite benefits apply, including Executive Lounge access for eligible members.",
+  "core_facts": {
+    "address": "188 Silom Road, Bangrak, 10500 Bangkok, Thailand",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Silom, Bangkok",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "5-star Pullman with floor-to-ceiling panoramic city views and a large, well-established review base (3,503 reviews)",
+    "Central Silom/Sathorn location, 5 minutes' walk to Chong Nonsi BTS",
+    "G Spa on-site"
+  ],
+  "cons": [
+    "4.3/5 ALL Rating is solid but not exceptional relative to some of Bangkok's other Pullman properties"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/3616/index.en.shtml",
+    "5-star, ALL Rating 4.3/5 (3,503 reviews)",
+    "Floor-to-ceiling city-view windows, G Spa, 5 min walk to Chong Nonsi BTS"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "silom",
+    "sathorn",
+    "pullman",
+    "lifestyle",
+    "city-view"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/3616/index.en.shtml",
+      "label": "Accor ALL — Pullman Bangkok Hotel G official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/3616/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "ibis-styles-bangkok-silom",
+    "pullman-bangkok-grande-sukhumvit",
+    "pullman-bangkok-king-power"
+  ],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

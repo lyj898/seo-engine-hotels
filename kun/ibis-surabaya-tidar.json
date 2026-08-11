@@ -1,0 +1,76 @@
+{
+  "entity_id": "ibis-surabaya-tidar",
+  "slug": "ibis-surabaya-tidar",
+  "name": "ibis Surabaya Tidar",
+  "category_id": "accor-all",
+  "region_id": "surabaya",
+  "short_description": "An eco-concept ibis in central Surabaya near Tunjungan Plaza, positioned in the heart of the city's business and commercial district.",
+  "ai_summary": "ibis Surabaya Tidar is an economy hotel under Accor's ibis brand with a new eco-concept positioned in Surabaya's central business and commercial district. The hotel is strategically located just minutes from the iconic Tunjungan Plaza shopping mall and within easy reach of the city's business and financial hubs. As an ibis property, it offers the brand's signature value proposition: clean, functional rooms at an accessible price point with 24-hour reception, on-site dining, and free Wi-Fi. The eco-concept differentiates it from a standard ibis, incorporating sustainable design elements and energy-efficient operations. For ALL Accor elite members, standard programme benefits apply: welcome drink for Silver and above, room upgrades subject to availability for Platinum and Diamond, and early check-in and late check-out for Diamond. The hotel serves budget-conscious business travellers and leisure guests wanting a reliable, well-located base in central Surabaya without paying for facilities they won't use.",
+  "core_facts": {
+    "address": "Jalan Tidar, Surabaya, East Java, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Tidar / Tunjungan area, central Surabaya",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Surabaya location minutes from Tunjungan Plaza — one of Indonesia's largest shopping malls",
+    "Eco-concept ibis with sustainable design elements — a step above standard ibis in environmental credentials",
+    "Value-focused pricing with 24-hour reception, on-site dining, and free Wi-Fi consistent with ibis brand standards"
+  ],
+  "cons": [
+    "Economy-tier brand — rooms are functional and compact, not designed for extended in-room leisure",
+    "Limited on-site dining and no pool or fitness facilities typical of the ibis economy positioning",
+    "Standard ALL elite recognition — no lounge access or guaranteed upgrades beyond programme minimum"
+  ],
+  "research_highlights": [
+    "Verified via DuckDuckGo search of Accor.com — listed on Surabaya destination page with code B749",
+    "Eco-concept ibis, one of the newer ibis properties in Surabaya",
+    "Strategically located in the central business and financial district"
+  ],
+  "research_watchouts": [
+    "Exact address and room count need verification from the official Accor hotel page"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "surabaya-central",
+    "eco-hotel",
+    "budget",
+    "tunjungan",
+    "business-district"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/a/en/destination/city/hotels-surabaya-v5587.html",
+      "label": "Accor ALL — Surabaya destination page (verified via DuckDuckGo search)",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "Search on Accor ALL",
+      "url": "https://all.accor.com/",
+      "type": "booking_link"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "mercure-surabaya-grand-mirama",
+    "majapahit-surabaya-mgallery"
+  ],
+  "reliability_score": 28,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

@@ -1,0 +1,91 @@
+{
+  "entity_id": "tribe-bali-legian",
+  "slug": "tribe-bali-legian",
+  "name": "TRIBE Bali Legian",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A 113-room TRIBE lifestyle hotel in Legian, Bali, opening August 2026, featuring the Folk and Fare restaurant and Chill Out SPA.",
+  "ai_summary": "TRIBE Bali Legian is a 113-room lifestyle hotel under Accor's TRIBE brand, scheduled to open in August 2026. Located in Legian between Kuta and Seminyak, it will be one of the first TRIBE properties in Bali. The hotel features the brand's signature design-led, community-focused approach with a Folk and Fare restaurant and a Chill Out SPA on site. TRIBE is positioned as an affordable lifestyle brand at the intersection of hostel social energy and boutique hotel aesthetics — curated interiors, flexible communal workspaces, and a focus on value without sacrificing design. The Legian location places guests within walking distance or a short scooter ride of Legian Beach and the dining and nightlife corridors of both Legian and Seminyak. As a pre-opening property, there are no guest reviews or established service patterns yet — all assessment is based on the TRIBE brand proposition and the hotel's stated facilities. For ALL Accor elite members, standard programme benefits are expected: welcome drink for Silver and above, room upgrades for Platinum and Diamond subject to availability, and early check-in and late check-out for Diamond.",
+  "core_facts": {
+    "address": "Legian, Kuta, Bali, Indonesia",
+    "brand_sub_brand": "TRIBE",
+    "neighborhood": "Legian, between Kuta and Seminyak, south Bali",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ],
+    "rooms": 113,
+    "opening_date": "August 2026",
+    "dining": "Folk and Fare restaurant",
+    "spa": "Chill Out SPA"
+  },
+  "pros": [
+    "Design-forward TRIBE brand — curated interiors and communal spaces at a mid-range price point",
+    "113 rooms with Folk and Fare restaurant and Chill Out SPA on site",
+    "Legian location — walkable to Legian Beach and the Seminyak dining and nightlife corridor",
+    "One of the first TRIBE properties in Bali, bringing a fresh lifestyle concept to the island's hotel market"
+  ],
+  "cons": [
+    "Pre-opening (August 2026) — no guest reviews, no established service patterns, all assessment is provisional",
+    "TRIBE is a select-service brand — limited on-site dining and no resort-style pool",
+    "Legian's beach can have strong surf — less suitable for casual swimming than Nusa Dua or Sanur"
+  ],
+  "research_highlights": [
+    "Accor hotel page confirmed at all.accor.com/hotel/5703/index.en.shtml",
+    "Scheduled to open August 2026 — pre-opening at time of research",
+    "113 rooms, Folk and Fare restaurant, and Chill Out SPA",
+    "Part of Accor's TRIBE brand — a design-led, community-focused lifestyle concept"
+  ],
+  "research_watchouts": [
+    "Hotel is opening August 2026 — may have zero guest reviews. Do not rely on any rating or review data until the property has been operating for at least several months.",
+    "Pre-opening assessment is based on the brand proposition and stated facilities, not operational reality.",
+    "Full address and exact opening date need confirmation once the hotel is live."
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is TRIBE Bali Legian open yet?",
+      "answer": "The hotel is scheduled to open in August 2026. At the time of this research it is in pre-opening status, and there are no guest reviews available. Prospective guests should verify the hotel's operational status on the Accor ALL website or app before booking."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "legian",
+    "pre-opening",
+    "tribe-brand",
+    "lifestyle",
+    "design-hotel",
+    "opening-august-2026"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/5703/index.en.shtml",
+      "label": "Accor ALL — TRIBE Bali Legian official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/5703/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "ibis-bali-kuta",
+    "ibis-styles-bali-legian",
+    "grand-mercure-bali-seminyak"
+  ],
+  "reliability_score": 35,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

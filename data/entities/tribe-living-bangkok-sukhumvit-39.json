@@ -1,0 +1,69 @@
+{
+  "entity_id": "tribe-living-bangkok-sukhumvit-39",
+  "slug": "tribe-living-bangkok-sukhumvit-39",
+  "name": "TRIBE Living Bangkok Sukhumvit 39",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A design-led TRIBE Living hotel 10 minutes' walk from EmQuartier/Emporium and Phromphong BTS, with a 4.5/5 ALL Rating (932 reviews) and a rooftop bar.",
+  "ai_summary": "TRIBE Living Bangkok Sukhumvit 39 is a design-led lifestyle hotel within 10 minutes' walk of the EmQuartier and Emporium shopping malls and Phromphong BTS Skytrain station. The property holds a 4.5/5 ALL Rating from 932 reviews. Facilities include an on-site cafe with barista coffee, a rooftop bar with signature cocktails, and stylish common spaces designed for living, working, and socialising. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "122 Soi Sukhumvit 39, Klongton Nuea, Wattana, 10110 Bangkok, Thailand",
+    "brand_sub_brand": "TRIBE Living",
+    "neighborhood": "Sukhumvit Soi 39 / Phromphong, Bangkok",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Strong 4.5/5 ALL Rating from 932 reviews",
+    "10-minute walk to EmQuartier/Emporium malls and Phromphong BTS",
+    "Design-led common spaces, on-site cafe, and rooftop bar with signature cocktails"
+  ],
+  "cons": [
+    "Lifestyle/social positioning suits younger or design-focused travellers more than those wanting a traditional hotel experience"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/C0G7/index.en.shtml",
+    "ALL Rating 4.5/5 (932 reviews)",
+    "10 min walk to EmQuartier/Emporium and Phromphong BTS; rooftop bar"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "sukhumvit",
+    "soi-39",
+    "phromphong",
+    "tribe-living",
+    "lifestyle"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C0G7/index.en.shtml",
+      "label": "Accor ALL — TRIBE Living Bangkok Sukhumvit 39 official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/C0G7/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

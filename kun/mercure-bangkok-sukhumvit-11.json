@@ -1,0 +1,70 @@
+{
+  "entity_id": "mercure-bangkok-sukhumvit-11",
+  "slug": "mercure-bangkok-sukhumvit-11",
+  "name": "Mercure Bangkok Sukhumvit 11",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A newly renovated 232-room Mercure on Sukhumvit Soi 11 with a 4.7/5 ALL Rating (1,570 reviews), an outdoor pool, and a club lounge with business centre.",
+  "ai_summary": "Mercure Bangkok Sukhumvit 11 is on the bustling Sukhumvit Soi 11, minutes from Nana BTS station and Bangkok's entertainment and shopping districts. The property holds a strong 4.7/5 ALL Rating from 1,570 reviews. Its 232 rooms were newly renovated and the hotel features an outdoor swimming pool, a club lounge with business centre, a modern fitness centre, and 2 restaurants and bars. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "18 Sukhumvit Soi 11, Nana, Khlongtoey, 10110 Bangkok, Thailand",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Sukhumvit Soi 11, Bangkok",
+    "rooms": 232,
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Excellent 4.7/5 ALL Rating from a large base of 1,570 reviews",
+    "232 newly renovated rooms, outdoor pool, club lounge with business centre, and 2 restaurants/bars",
+    "Sukhumvit Soi 11 location minutes from Nana BTS and Bangkok's nightlife district"
+  ],
+  "cons": [
+    "Soi 11's nightlife-district setting won't suit every traveller"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/A247/index.en.shtml",
+    "232 rooms (newly renovated), ALL Rating 4.7/5 (1,570 reviews)",
+    "Outdoor pool, club lounge with business centre, 2 restaurants/bars"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "sukhumvit",
+    "soi-11",
+    "mercure",
+    "renovated",
+    "club-lounge"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A247/index.en.shtml",
+      "label": "Accor ALL — Mercure Bangkok Sukhumvit 11 official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/A247/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

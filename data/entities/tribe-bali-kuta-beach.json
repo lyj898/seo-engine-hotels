@@ -1,0 +1,75 @@
+{
+  "entity_id": "tribe-bali-kuta-beach",
+  "slug": "tribe-bali-kuta-beach",
+  "name": "TRIBE Bali Kuta Beach",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A 165-room TRIBE lifestyle hotel directly across from Kuta Beach, 20 minutes from the airport, with a 4.6/5 ALL Rating (656 reviews) and a rooftop pool overlooking the beach.",
+  "ai_summary": "TRIBE Bali Kuta Beach sits directly across the street from Kuta Beach, roughly 20 minutes' drive from Ngurah Rai International Airport and 5 minutes' walk to Beachwalk Shopping Mall. The 165-room property holds a 4.6/5 ALL Rating from 656 reviews. As a TRIBE property it offers contemporary, design-led rooms with a social atmosphere, and guests can enjoy Kuta Beach sunset views from the rooftop restaurant and swimming pool. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "Jalan Pantai Kuta no 99, Kuta, Legian, 80361 Badung, Indonesia",
+    "brand_sub_brand": "TRIBE",
+    "neighborhood": "Kuta Beach, Bali",
+    "rooms": 165,
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "165 rooms directly across from Kuta Beach, with a rooftop pool and restaurant overlooking the sunset views",
+    "Strong 4.6/5 ALL Rating from 656 reviews — a substantial, well-established review base",
+    "5 minutes' walk to Beachwalk Shopping Mall, 20 minutes from the airport"
+  ],
+  "cons": [
+    "Kuta Beach is Bali's busiest tourist strip — not suited to travellers wanting a quiet beach experience",
+    "TRIBE's social, design-led positioning may feel less formal than a traditional resort for some travellers"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/B777/index.en.shtml",
+    "165 rooms, ALL Rating 4.6/5 (656 reviews)",
+    "Rooftop restaurant and pool with Kuta Beach sunset views"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "kuta",
+    "tribe-brand",
+    "beachfront",
+    "rooftop-pool",
+    "lifestyle"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B777/index.en.shtml",
+      "label": "Accor ALL — TRIBE Bali Kuta Beach official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B777/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "ibis-bali-kuta",
+    "mercure-kuta-bali",
+    "the-kuta-beach-heritage-hotel-bali"
+  ],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}
