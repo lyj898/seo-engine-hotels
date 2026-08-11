@@ -22,6 +22,7 @@ import RelatedEntities from '../../components/RelatedEntities.astro';
 import LastUpdated from '../../components/LastUpdated.astro';
 import Pill from '../../components/Pill.astro';
 import { narrowFactsToCategories } from '../../lib/categoryMatch.js';
+import { createEntityLinker } from '../../lib/autolink.js';
 import { brandPresentation, tierLabel, TIER_REGISTER } from '../../lib/brand.js';
 import { buildEntitySchema, buildFaqPageSchema, buildBreadcrumbListSchema } from '../../lib/schema-jsonld.js';
 
@@ -61,6 +62,13 @@ const guestScore = entity.sentiment_scores?.overall ?? null;
 const relatedEntities = allEntities.filter(
   (e) => entity.related_entity_ids?.includes(e.entity_id) && e.entity_id !== entity.entity_id
 );
+
+// One linker instance for the whole page: it tracks which OTHER entities
+// have already been linked so a hotel named in both the ai_summary and a
+// pros bullet (a real, common pattern in this data) only gets linked once,
+// not once per field. See autolink.js for the overlinking/self-mention
+// safeguards this depends on.
+const linkMentions = createEntityLinker(allEntities, entity, urls.entity);
 
 const breadcrumbItems = [
   { label: siteConfig.siteName, href: urls.home() },
@@ -129,7 +137,7 @@ const jsonLd = [
     </div>
 
     <div class="prose-content mt-8">
-      <p>{entity.ai_summary}</p>
+      <p set:html={linkMentions(entity.ai_summary)} />
     </div>
 
     {entity.sentiment_scores?.breakdown?.length > 0 && (
@@ -146,14 +154,14 @@ const jsonLd = [
     </div>
 
     <div class="mt-8">
-      <ProsCons pros={entity.pros} cons={entity.cons} />
+      <ProsCons pros={entity.pros?.map(linkMentions)} cons={entity.cons?.map(linkMentions)} />
     </div>
 
     {(entity.research_highlights?.length > 0 || entity.research_watchouts?.length > 0) && (
       <div class="mt-10">
         <ResearchNotes
-          highlights={entity.research_highlights}
-          watchouts={entity.research_watchouts}
+          highlights={entity.research_highlights?.map(linkMentions)}
+          watchouts={entity.research_watchouts?.map(linkMentions)}
           confidence={entity.research_confidence}
         />
       </div>
