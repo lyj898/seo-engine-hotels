@@ -1,0 +1,77 @@
+{
+  "entity_id": "ibis-surabaya-city-center",
+  "slug": "ibis-surabaya-city-center",
+  "name": "ibis Surabaya City Center",
+  "category_id": "accor-all",
+  "region_id": "surabaya",
+  "short_description": "A budget-friendly ibis in the heart of Surabaya's main business area with 24-hour service, free high-speed Wi-Fi, and direct transport connections to the airport.",
+  "ai_summary": "ibis Surabaya City Center is an economy hotel under Accor's ibis brand located in the main business area of Surabaya. The property offers 24-hour room service, free high-speed Wi-Fi throughout, and is positioned with convenient public transport access between the hotel and Juanda International Airport. It sits within minutes of Surabaya's commercial office district and the Tunjungan Plaza shopping complex. As an ibis property, guests can expect the brand's consistent essentials: clean, compact rooms, a 24-hour reception, and on-site casual dining. It is the value pick among Surabaya's Accor properties, suited to travellers who prioritise location and price over in-room space or hotel amenities. For ALL Accor elite members, standard ibis-level programme benefits apply: welcome drink for Silver and above, room upgrades for Platinum and Diamond subject to availability, and early check-in and late check-out for Diamond.",
+  "core_facts": {
+    "address": "Jalan Basuki Rahmat, Surabaya, East Java, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Basuki Rahmat / city centre, Surabaya",
+    "distance_from_airport_km": 20,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Surabaya location in the main business area, minutes from commercial offices and Tunjungan Plaza",
+    "24-hour room service and free high-speed Wi-Fi — practical for business travellers on tight schedules",
+    "Direct transport links between the hotel and Juanda International Airport",
+    "The most affordable Accor loyalty option in central Surabaya"
+  ],
+  "cons": [
+    "Economy-tier ibis — rooms are compact and functional, with no pool, fitness centre, or premium amenities",
+    "Standard ALL elite recognition — no lounge, no guaranteed upgrades beyond programme minimum",
+    "City-centre location means traffic noise can be a factor in street-facing rooms"
+  ],
+  "research_highlights": [
+    "Verified via DuckDuckGo search of Accor.com — listed on Surabaya destination page budget-friendly section",
+    "24-hour room service — unusual for an economy-tier ibis and a practical differentiator",
+    "Free high-speed Wi-Fi throughout the property"
+  ],
+  "research_watchouts": [
+    "Full address and room count need verification from the official Accor hotel page"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "surabaya-central",
+    "budget",
+    "business-district",
+    "tunjungan-adjacent",
+    "airport-link"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/a/en/destination/city/hotels-surabaya-v5587.html",
+      "label": "Accor ALL — Surabaya destination page (verified via DuckDuckGo search)",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "Search on Accor ALL",
+      "url": "https://all.accor.com/",
+      "type": "booking_link"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "mercure-surabaya-grand-mirama",
+    "ibis-surabaya-tidar"
+  ],
+  "reliability_score": 28,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

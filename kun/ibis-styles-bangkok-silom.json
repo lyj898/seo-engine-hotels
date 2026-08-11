@@ -1,0 +1,72 @@
+{
+  "entity_id": "ibis-styles-bangkok-silom",
+  "slug": "ibis-styles-bangkok-silom",
+  "name": "ibis Styles Bangkok Silom",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 264-room design-economy hotel on Silom Road with a 4.6/5 ALL Rating (3,265 reviews), a rooftop bar, pool bar, and easy BTS/MRT access.",
+  "ai_summary": "ibis Styles Bangkok Silom sits on Silom Road at the heart of the Bangkok CBD, with easy access to BTS Sala Daeng and MRT Silom. The 264-room property holds a strong 4.6/5 ALL Rating from 3,265 reviews — a substantial review base. Rooms feature a 43-inch Smart LCD TV, high-speed Wi-Fi, and rain showers, with connecting rooms available for families. Facilities include a restaurant, lobby bar and cafe, rooftop bar, pool bar, fitness centre, and a ballroom or 3 separate meeting rooms. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "289 Silom Road, Silom, Bangrak District, 10500 Bangkok, Thailand",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Silom, Bangkok",
+    "rooms": 264,
+    "star_rating": 3.5,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "264 rooms with a very strong 4.6/5 ALL Rating from a large base of 3,265 reviews",
+    "Central Silom CBD location with easy access to both BTS Sala Daeng and MRT Silom",
+    "Rooftop bar, pool bar, fitness centre, and flexible meeting facilities for a design-economy price point"
+  ],
+  "cons": [
+    "Silom's CBD setting is business-oriented — less resort-like atmosphere than Bangkok's riverside or Sukhumvit lifestyle hotels"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/B6N1/index.en.shtml",
+    "264 rooms, ALL Rating 4.6/5 (3,265 reviews)",
+    "Rooftop bar, pool bar, fitness centre; BTS Sala Daeng and MRT Silom access"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "silom",
+    "cbd",
+    "ibis-styles",
+    "budget",
+    "rooftop-bar"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6N1/index.en.shtml",
+      "label": "Accor ALL — ibis Styles Bangkok Silom official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B6N1/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "pullman-bangkok-hotel-g"
+  ],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

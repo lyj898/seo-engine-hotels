@@ -1,0 +1,88 @@
+{
+  "entity_id": "mercure-mactan-cebu",
+  "slug": "mercure-mactan-cebu",
+  "name": "Mercure Mactan Cebu",
+  "category_id": "accor-all",
+  "region_id": "cebu",
+  "short_description": "A Mercure hotel in Mactan, Cebu offering guests exclusive access to Mactan Newtown Beach, blending Cebuano heritage-inspired comfort with contemporary amenities.",
+  "ai_summary": "Mercure Mactan Cebu is an Accor ALL property located in the Mactan Newtown development on Mactan Island, Cebu. The hotel is positioned within a master-planned township that includes residential, commercial, and leisure components, with in-house guests receiving exclusive access to Mactan Newtown Beach and the adjacent Marine and Bird Sanctuary — a notable differentiator for a midscale hotel. The Mercure brand's 'locally inspired' approach manifests in Cebuano heritage touches woven through the interiors, alongside the brand's expected standards of comfortable rooms, a restaurant, and functional business and leisure facilities. Mactan Island is Cebu's primary beach and resort zone, home to most of the area's international hotels, and is connected to Cebu City via the Mactan-Mandaue Bridge (roughly 30 minutes' drive). The hotel serves both business travellers visiting the Mactan Economic Zone and leisure guests wanting beach access at a more accessible price point than Mactan's luxury resorts. For ALL Accor elite members, standard programme benefits apply: welcome drink, room upgrades for Platinum and Diamond subject to availability, and early check-in and late check-out for Diamond. As the only Accor ALL property currently confirmed in Cebu, it is the programme's sole loyalty-redeemable option in this key Philippine destination.",
+  "core_facts": {
+    "address": "Mactan Newtown, Lapu-Lapu City, Cebu, Philippines",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Mactan Newtown, Mactan Island, Cebu",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Exclusive guest access to Mactan Newtown Beach and the Marine and Bird Sanctuary — rare for a midscale hotel",
+    "Located in the Mactan Newtown master-planned township with commercial and leisure amenities on the doorstep",
+    "Only confirmed Accor ALL property in Cebu — the programme's sole loyalty option in this major Philippine destination",
+    "Mactan Island location convenient to Mactan-Cebu International Airport (approx. 8 km)"
+  ],
+  "cons": [
+    "Mactan Newtown is a planned development, not a traditional neighbourhood — the immediate area may feel corporate rather than characterful",
+    "Approximately 30 minutes' drive from Cebu City centre — not walkable to the city's historic and commercial districts",
+    "Mercure is a midscale brand — expect comfortable but not luxurious rooms and limited elite recognition beyond programme standard"
+  ],
+  "research_highlights": [
+    "Verified via DuckDuckGo search of Accor.com — listed on Accor's Cebu City destination page",
+    "Located in Mactan Newtown, a master-planned township on Mactan Island",
+    "In-house guests receive exclusive access to Mactan Newtown Beach and Marine and Bird Sanctuary",
+    "ALL Rating 5.0/5 (Accor); TripAdvisor 4/5, #9/67 in Cebu Island"
+  ],
+  "research_watchouts": [
+    "Address, room count, and full facilities need verification from the official hotel detail page",
+    "Verify this is currently the only Accor ALL property in Cebu — additional properties may have opened"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Does Mercure Mactan Cebu have beach access?",
+      "answer": "Yes — in-house guests receive exclusive access to Mactan Newtown Beach. The hotel is also adjacent to the Marine and Bird Sanctuary within the Mactan Newtown development."
+    },
+    {
+      "question": "How far is Mercure Mactan Cebu from the airport?",
+      "answer": "The hotel is on Mactan Island, approximately 8 km from Mactan-Cebu International Airport (CEB), roughly a 15–20 minute drive depending on traffic."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "mactan-island",
+    "cebu",
+    "mactan-newtown",
+    "beach-access",
+    "midscale"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/a/en/destination/city/hotels-cebu-city-v5041.html",
+      "label": "Accor ALL — Cebu City destination page (verified Mercure Mactan Cebu listing)",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "Search on Accor ALL",
+      "url": "https://all.accor.com/",
+      "type": "booking_link"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "movenpick-resort-and-spa-boracay",
+    "mercure-manila-ortigas"
+  ],
+  "reliability_score": 28,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

@@ -1,0 +1,72 @@
+{
+  "entity_id": "ibis-styles-bangkok-sukhumvit-50",
+  "slug": "ibis-styles-bangkok-sukhumvit-50",
+  "name": "ibis Styles Bangkok Sukhumvit 50",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "An economy design hotel near On Nut BTS with a free tuk-tuk shuttle and a 3.8/5 ALL Rating (195 reviews), 20 minutes from BITEC Exhibition Centre.",
+  "ai_summary": "ibis Styles Bangkok Sukhumvit 50 is in a Sukhumvit residential area near On Nut BTS Skytrain station, with a free tuk-tuk shuttle service from 9am to 4pm daily. The property holds a 3.8/5 ALL Rating from 195 reviews — the most modest rating among this batch's Sukhumvit properties. It's a 20-minute drive to BITEC Exhibition Centre, with easy expressway access to both airports and Pattaya. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "2026/11 Sukhumvit 50, Phra Khanong, Khlong Toei, 10260 Bangkok, Thailand",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Sukhumvit Soi 50 / On Nut, Bangkok",
+    "star_rating": 3.5,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Free tuk-tuk shuttle service to On Nut BTS station (9am-4pm daily)",
+    "20-minute drive to BITEC Exhibition Centre, useful for MICE travellers",
+    "Easy expressway access to both Bangkok airports and Pattaya"
+  ],
+  "cons": [
+    "3.8/5 ALL Rating is the most modest among this batch's Sukhumvit-area properties — worth managing expectations accordingly",
+    "Residential On Nut area is further from central Bangkok's main tourist attractions"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/9308/index.en.shtml",
+    "ALL Rating 3.8/5 (195 reviews)",
+    "Free tuk-tuk shuttle to On Nut BTS, 20 min to BITEC Exhibition Centre"
+  ],
+  "research_watchouts": [
+    "ALL Rating (3.8/5) is noticeably lower than comparable nearby Accor properties — reflect this honestly rather than defaulting to positive framing"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "sukhumvit",
+    "on-nut",
+    "ibis-styles",
+    "shuttle-service",
+    "bitec"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9308/index.en.shtml",
+      "label": "Accor ALL — ibis Styles Bangkok Sukhumvit 50 official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/9308/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

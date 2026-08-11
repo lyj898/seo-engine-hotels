@@ -1,0 +1,96 @@
+{
+  "entity_id": "angsana-teluk-bahang-penang",
+  "slug": "angsana-teluk-bahang-penang",
+  "name": "Angsana Teluk Bahang, Penang",
+  "category_id": "accor-all",
+  "region_id": "penang",
+  "short_description": "A vibrant 228-key five-star beach resort on idyllic Teluk Bahang beach, the first Angsana brand in Malaysia managed by Banyan Tree Hotels and Resorts, part of the ALL – Accor Live Limitless programme.",
+  "ai_summary": "Angsana Teluk Bahang, Penang is the first Angsana-branded property in Malaysia, managed by Banyan Tree Hotels and Resorts and bookable through the ALL – Accor Live Limitless programme. The 228-key resort sits directly on Teluk Bahang beach on Penang's quieter northwest coast, offering contemporary rooms and suites with modern amenities in a setting that blends the Angsana brand's wellness-focused, nature-embracing philosophy with Penang's tropical coastline. The location places it away from the bustle of George Town and Batu Ferringhi, making it a destination resort suited to travellers seeking a quieter, more immersive beach escape. As a five-star property under the Banyan Tree umbrella, it offers multiple dining venues, a swimming pool, a spa, and extensive leisure facilities. For ALL Accor elite members, standard programme benefits apply — welcome drink for Silver and above, room upgrades for Platinum and Diamond subject to availability, early check-in and late check-out for Diamond. The property's Angsana brand identity combines Banyan Tree's luxury resort DNA with a more accessible, family-friendly positioning, making it the premium Accor choice on Penang island alongside the midscale Mercure Penang Beach.",
+  "core_facts": {
+    "address": "Teluk Bahang, Penang, Malaysia",
+    "brand_sub_brand": "Angsana",
+    "neighborhood": "Teluk Bahang, northwest coast of Penang Island",
+    "distance_from_airport_km": 30,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "228-key five-star beach resort directly on Teluk Bahang beach — Penang's quieter northwest coast",
+    "First Angsana in Malaysia — Banyan Tree's wellness-focused, nature-embracing resort brand",
+    "Positioned away from the busier Batu Ferringhi strip, offering a more secluded beach resort experience",
+    "Part of Accor ALL — earn and redeem points at a Banyan Tree-managed luxury property"
+  ],
+  "cons": [
+    "Teluk Bahang is approximately 30 km from Penang International Airport and a 30–40 minute drive from George Town — a car is essential",
+    "Angsana is a premium brand, not ultra-luxury — expect resort-style quality rather than butler-service villas",
+    "As a relatively new property, guest review volume and elite recognition consistency may still be developing"
+  ],
+  "research_highlights": [
+    "Verified via DuckDuckGo search of Accor.com — B7Q0 listing on all.accor.com/hotel/B7Q0/",
+    "First Angsana-branded property in Malaysia, managed by Banyan Tree Hotels and Resorts",
+    "228 keys (rooms and suites) on Teluk Bahang beach, Penang's northwest coast",
+    "Listed on Accor's Penang destination page alongside Mercure Penang Beach"
+  ],
+  "research_watchouts": [
+    "Address, room count (228), and specific facilities confirmed from Accor.com listing — full detail-page verification needed",
+    "Teluk Bahang is a quieter, more remote part of Penang — not walkable to George Town or Batu Ferringhi nightlife"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [
+    {
+      "question": "What is the Angsana brand?",
+      "answer": "Angsana is a premium resort brand managed by Banyan Tree Hotels and Resorts, positioned below the flagship Banyan Tree tier. Angsana properties blend wellness, nature, and destination-focused experiences with contemporary design and family-friendly amenities. The brand is available through ALL – Accor Live Limitless for earning and redeeming points."
+    },
+    {
+      "question": "How far is Angsana Teluk Bahang from George Town?",
+      "answer": "The resort is on Penang's northwest coast in Teluk Bahang, approximately 30–40 minutes' drive from George Town and about 20 minutes north of Batu Ferringhi. A car or ride-share is recommended for accessing the island's heritage zone, dining, and attractions."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Angsana Teluk Bahang Review",
+        "source": "The Honeycombers",
+        "url": "https://thehoneycombers.com/singapore/angsana-teluk-bahang-review/",
+        "published_date": "2023-08-16",
+        "summary": "Review of the 228-key Angsana resort on Penang's northwest coast, covering the Peranakan-inspired design, sea-view rooms, and beachfront setting."
+      }
+    ],
+    "videos": []
+  },
+  "tags": [
+    "teluk-bahang",
+    "beach-resort",
+    "angsana-brand",
+    "banyan-tree-managed",
+    "northwest-penang",
+    "five-star"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B7Q0/index.en.shtml",
+      "label": "Accor ALL — Angsana Teluk Bahang, Penang listing (verified on Accor.com via search)",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B7Q0/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "mercure-penang-beach"
+  ],
+  "reliability_score": 28,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

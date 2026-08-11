@@ -1,0 +1,71 @@
+{
+  "entity_id": "ibis-styles-bali-denpasar",
+  "slug": "ibis-styles-bali-denpasar",
+  "name": "ibis Styles Bali Denpasar",
+  "category_id": "accor-all",
+  "region_id": "bali",
+  "short_description": "A 153-room ibis Styles in central Denpasar with a 4.7/5 ALL Rating (88 reviews), positioned for business travellers and easy road access to Seminyak, Sanur, Legian and Kuta.",
+  "ai_summary": "ibis Styles Bali Denpasar is a 153-room design-economy hotel in the heart of Denpasar, Bali's capital and business centre, with easy road access to Seminyak, Sanur, Legian, and Kuta. The hotel holds a 4.7/5 ALL Rating from 88 reviews. On-site facilities include the Montana Restaurant and a fitness centre. As an ibis Styles property it carries the brand's design-led, all-inclusive-rate positioning, and standard ALL elite benefits apply for programme members.",
+  "core_facts": {
+    "address": "Jl. Teuku Umar No. 183, Denpasar, Bali, 80114, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Denpasar city centre, Bali",
+    "rooms": 153,
+    "star_rating": 3,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "153 rooms in central Denpasar — Bali's business and government centre, distinct from the beach-resort towns",
+    "Strong 4.7/5 ALL Rating from 88 reviews",
+    "Easy road access to Seminyak, Sanur, Legian, and Kuta for travellers who want a business base with beach access nearby"
+  ],
+  "cons": [
+    "Denpasar itself is not a beach or tourist destination — guests wanting direct beach access should look to Kuta, Legian, or Seminyak instead",
+    "Review volume (88) is modest relative to some of Bali's larger Accor properties"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/7538/index.en.shtml",
+    "153 rooms, ALL Rating 4.7/5 (88 reviews)",
+    "Montana Restaurant and fitness centre on-site"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "denpasar",
+    "business-hotel",
+    "ibis-styles",
+    "budget",
+    "central-bali"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7538/index.en.shtml",
+      "label": "Accor ALL — ibis Styles Bali Denpasar official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/7538/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

@@ -1,0 +1,69 @@
+{
+  "entity_id": "movenpick-hotel-sukhumvit-15-bangkok",
+  "slug": "movenpick-hotel-sukhumvit-15-bangkok",
+  "name": "Mövenpick Hotel Sukhumvit 15 Bangkok",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 5-star Mövenpick near BTS Asok and MRT Sukhumvit with a 4.3/5 ALL Rating (1,253 reviews), a free tuk-tuk shuttle, and a rooftop pool/bar.",
+  "ai_summary": "Mövenpick Hotel Sukhumvit 15 Bangkok is a serene retreat in the Central Business District, roughly 40 minutes from either Don Mueang or Suvarnabhumi Airport, close to BTS Asok and MRT Sukhumvit. The property holds a 4.3/5 ALL Rating from 1,253 reviews. Facilities include Lelawadee restaurant, a rooftop pool and bar with skyline views, a daily Chocolate Hour, and a complimentary EV tuk-tuk shuttle to MRT and BTS Asoke. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "Sukhumvit Soi 15, Sukhumvit Road, Klong Toei Nuea, Wattana, 10110 Bangkok, Thailand",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Sukhumvit Soi 15, Bangkok",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Solid 4.3/5 ALL Rating from a substantial 1,253-review base",
+    "Complimentary EV tuk-tuk shuttle to BTS Asoke/MRT Sukhumvit, plus a distinctive daily Chocolate Hour",
+    "Rooftop pool and bar with skyline views; close to Terminal 21, Bumrungrad Hospital, and Emsphere"
+  ],
+  "cons": [
+    "40-minute airport transfer is longer than some centrally located competitors"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/B4K2/index.en.shtml",
+    "ALL Rating 4.3/5 (1,253 reviews)",
+    "Free EV tuk-tuk shuttle to BTS/MRT, rooftop pool and bar, daily Chocolate Hour"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "sukhumvit",
+    "soi-15",
+    "movenpick",
+    "rooftop-pool",
+    "shuttle-service"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4K2/index.en.shtml",
+      "label": "Accor ALL — Mövenpick Hotel Sukhumvit 15 Bangkok official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B4K2/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

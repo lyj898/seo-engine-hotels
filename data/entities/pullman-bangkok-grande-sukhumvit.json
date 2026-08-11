@@ -1,0 +1,115 @@
+{
+  "entity_id": "pullman-bangkok-grande-sukhumvit",
+  "slug": "pullman-bangkok-grande-sukhumvit",
+  "name": "Pullman Bangkok Grande Sukhumvit",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 325-room Pullman on Sukhumvit Soi 23 in the heart of Bangkok's Asoke district, with a rooftop pool and direct access to the Asoke BTS and Sukhumvit MRT interchange.",
+  "ai_summary": "Pullman Bangkok Grande Sukhumvit is a 325-room premium hotel under Accor's Pullman brand, located on Sukhumvit Soi 23 in the Asoke district of central Bangkok. The hotel sits at one of Bangkok's most connected transport nodes — the Asoke BTS Skytrain station and Sukhumvit MRT subway station sit at the end of Soi 23, a three-minute walk from the hotel, giving direct train access to Siam, Silom, Chatuchak, and the riverside. The property is split between a Tower Wing and a Grande Wing, with the latter offering more recently renovated rooms and suites. Facilities include a rooftop swimming pool on the 7th floor, a fitness centre, a restaurant, a bar, and one of the largest hotel ballrooms in the Asoke area catering to Bangkok's corporate event market. For ALL Accor elite members, standard Pullman-level programme benefits apply: welcome drink for Silver and above, room upgrades for Platinum and Diamond subject to availability, Executive Lounge access for Diamond members and for Platinum members booked in qualifying rooms, and early check-in and late check-out for Diamond. The hotel serves a mix of corporate travellers and leisure guests who prioritise transport connectivity and reliable amenities in the heart of Sukhumvit.",
+  "core_facts": {
+    "address": "30 Sukhumvit Soi 23, Sukhumvit Road, Klongtoey Nua, Wattana, Bangkok 10110, Thailand",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Asoke / Sukhumvit Soi 23, central Bangkok",
+    "distance_from_airport_km": 31,
+    "elite_benefits": [
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Executive Lounge access for ALL Diamond members and for Platinum members booked in Executive rooms or suites, per programme terms",
+      "Welcome drink and welcome amenity for ALL Diamond and Platinum members",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      {
+        "label": "Asoke BTS / Sukhumvit MRT interchange",
+        "km": 0.3
+      },
+      {
+        "label": "Terminal 21 shopping mall",
+        "km": 0.4
+      },
+      {
+        "label": "Suvarnabhumi Airport (BKK)",
+        "km": 31
+      }
+    ]
+  },
+  "pros": [
+    "Outstanding location on Sukhumvit Soi 23 — Asoke BTS and Sukhumvit MRT interchange is a three-minute walk, one of Bangkok's best-connected hotel locations",
+    "325 rooms across Tower Wing and Grande Wing — the latter offering more recently renovated interiors",
+    "Rooftop swimming pool on the 7th floor with city views and a fitness centre",
+    "Large ballroom and convention facilities serving Bangkok's corporate event market",
+    "Direct access to Terminal 21 shopping mall (0.4 km walk) and the Sukhumvit dining and nightlife corridor"
+  ],
+  "cons": [
+    "Tower Wing rooms, especially on lower floors, may experience street noise from Sukhumvit Road and soi-level activity",
+    "325 rooms plus substantial convention space — the property can feel busy and impersonal during peak corporate periods",
+    "Asoke is a high-traffic area — the soi-level entrance on Soi 23 can be congested during rush hour"
+  ],
+  "research_highlights": [
+    "325-room Pullman hotel split between Tower Wing and Grande Wing on Sukhumvit Soi 23",
+    "Located three minutes' walk from both Asoke BTS (Sukhumvit Line) and Sukhumvit MRT (Blue Line)",
+    "7th-floor rooftop features a swimming pool, fitness centre, and pool bar",
+    "One of the larger convention-capable hotels in the Asoke area"
+  ],
+  "research_watchouts": [
+    "Room condition varies depending on wing and floor — the Grande Wing rooms are more recently renovated",
+    "Address (30 Sukhumvit Soi 23) and room count (325) need verification from the official Accor hotel page",
+    "No verified external reviews or video content — all assessment is based on property description and brand positioning"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [
+    {
+      "question": "How close is Pullman Bangkok Grande Sukhumvit to the BTS and MRT?",
+      "answer": "The hotel is on Sukhumvit Soi 23, roughly three minutes' walk from the Asoke BTS station (Sukhumvit Line) and the Sukhumvit MRT station (Blue Line). This interchange gives direct train access to Siam, Silom, Chatuchak, and the riverside."
+    },
+    {
+      "question": "Which rooms are better — Tower Wing or Grande Wing?",
+      "answer": "The Grande Wing rooms have been more recently renovated and are generally quieter. Travellers sensitive to street noise or wanting fresher interiors should request a Grande Wing room. ALL elite members may also find upgrade availability better in the Grande Wing."
+    }
+  ],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Pullman Bangkok Grande Sukhumvit (Deluxe Room)",
+        "source": "Shanescape",
+        "url": "https://shanescape.com/2019/04/30/review-pullman-bangkok-grande-sukhumvit-deluxe-room/",
+        "published_date": "2019-04-30",
+        "summary": "Detailed Deluxe Room review covering the room, breakfast, rooftop pool, and the hotel's Asoke BTS/MRT connectivity."
+      }
+    ],
+    "videos": []
+  },
+  "tags": [
+    "asoke",
+    "sukhumvit",
+    "rooftop-pool",
+    "business-hotel",
+    "bts-access",
+    "executive-lounge"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/",
+      "label": "Accor ALL — Pullman Bangkok Grande Sukhumvit (source page URL needs verification)",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "Search on Accor ALL",
+      "url": "https://all.accor.com/",
+      "type": "booking_link"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "pullman-bangkok-king-power",
+    "sofitel-bangkok-sukhumvit",
+    "novotel-bangkok-sukhumvit-20"
+  ],
+  "reliability_score": 32,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

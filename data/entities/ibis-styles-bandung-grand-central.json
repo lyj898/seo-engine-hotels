@@ -1,0 +1,72 @@
+{
+  "entity_id": "ibis-styles-bandung-grand-central",
+  "slug": "ibis-styles-bandung-grand-central",
+  "name": "ibis Styles Bandung Grand Central",
+  "category_id": "accor-all",
+  "region_id": "bandung",
+  "short_description": "A 240-room ibis Styles opposite the Gedung Sate landmark in central Bandung, with the brand's all-inclusive rate and design-led interiors.",
+  "ai_summary": "ibis Styles Bandung Grand Central (Accor code 9339) is a 240-room, 3-star design-led hotel located opposite the Gedung Sate landmark, one of Bandung's most iconic buildings and the governor's office of West Java. The hotel carries the ibis Styles signature: an all-inclusive rate covering breakfast and unlimited Wi-Fi, alongside locally inspired interiors. Its central location places it near Bandung's government district, shopping areas, and culinary destinations. For ALL elite members, standard ibis-level programme benefits apply. The 240-room count makes it one of the larger ibis Styles properties in Indonesia, and the Gedung Sate location is a genuine differentiator among Bandung Accor hotels.",
+  "core_facts": {
+    "address": "Opposite Gedung Sate, Bandung, West Java, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Gedung Sate / central Bandung, West Java",
+    "rooms": 240,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum, subject to availability",
+      "Early check-in and late check-out for ALL Diamond, subject to availability"
+    ]
+  },
+  "pros": [
+    "240 rooms, one of the larger ibis Styles in Indonesia",
+    "Directly opposite the Gedung Sate landmark, a genuine location differentiator",
+    "All-inclusive ibis Styles rate covering breakfast and unlimited Wi-Fi"
+  ],
+  "cons": [
+    "Select-service brand with limited dining and no pool or fitness centre",
+    "Standard ALL elite recognition, no lounge or guaranteed upgrades beyond programme terms"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/9339/index.en.shtml, loaded August 2026",
+    "240 rooms opposite Gedung Sate landmark"
+  ],
+  "research_watchouts": [
+    "Address and room count from FACTS packet, verify on hotel detail page"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "bandung-central",
+    "gedung-sate",
+    "ibis-styles",
+    "budget"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9339/index.en.shtml",
+      "label": "Accor ALL, ibis Styles Bandung Grand Central",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/9339/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "pullman-bandung-grand-central",
+    "grand-mercure-bandung-setiabudi"
+  ],
+  "reliability_score": 36,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

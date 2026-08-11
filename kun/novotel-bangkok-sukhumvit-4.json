@@ -1,0 +1,72 @@
+{
+  "entity_id": "novotel-bangkok-sukhumvit-4",
+  "slug": "novotel-bangkok-sukhumvit-4",
+  "name": "Novotel Bangkok Sukhumvit 4",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A Novotel 600m from BTS Nana station with a 4.6/5 ALL Rating (965 reviews), 1km from Bumrungrad Hospital.",
+  "ai_summary": "Novotel Bangkok Sukhumvit 4 is located roughly 600 metres from BTS Nana station in the heart of Sukhumvit, and about 1 kilometre from Bumrungrad Hospital. The property holds a 4.6/5 ALL Rating from 965 reviews. It shares its address with the adjacent ibis Styles Bangkok Sukhumvit 4, forming a twin-property Accor complex on Sukhumvit Soi 4. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "27 Sukhumvit 4, Klongtoey, 10110 Bangkok, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Sukhumvit Soi 4, Bangkok",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Strong 4.6/5 ALL Rating from 965 reviews",
+    "600m from BTS Nana station and 1km from Bumrungrad Hospital — convenient for both tourism and medical travellers",
+    "Central Sukhumvit Soi 4 location with nearby shopping and dining"
+  ],
+  "cons": [
+    "Sukhumvit Soi 4 area has a mixed nightlife/red-light reputation that some travellers may want to be aware of"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/A246/index.en.shtml",
+    "ALL Rating 4.6/5 (965 reviews)",
+    "600m from BTS Nana, 1km from Bumrungrad Hospital"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "sukhumvit",
+    "nana",
+    "novotel",
+    "bumrungrad",
+    "bts-access"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A246/index.en.shtml",
+      "label": "Accor ALL — Novotel Bangkok Sukhumvit 4 official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/A246/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "ibis-styles-bangkok-sukhumvit-4",
+    "ibis-bangkok-sukhumvit-4"
+  ],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

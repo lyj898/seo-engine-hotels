@@ -1,0 +1,68 @@
+{
+  "entity_id": "novotel-bangkok-bangna",
+  "slug": "novotel-bangkok-bangna",
+  "name": "Novotel Bangkok Bangna",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A Novotel on Srinakarin Road near BITEC Bangna, in Bangkok's Bangna/Prawet district.",
+  "ai_summary": "Novotel Bangkok Bangna is located on Srinakarin Road in the Bangna/Prawet area of Bangkok, near the BITEC Bangna exhibition centre. The Accor ALL page for this property could not be fully loaded to confirm room count, star rating, or guest sentiment data at the time of research. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "333 Srinakarin Road, Nongbon, Prawet, 10250 Bangkok, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Bangna / Srinakarin, Bangkok",
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Srinakarin Road location near BITEC Bangna exhibition centre — useful for MICE travellers"
+  ],
+  "cons": [
+    "Room count, star rating, and ALL Rating could not be confirmed — the hotel's Accor ALL page did not load fully for verification"
+  ],
+  "research_highlights": [
+    "Address confirmed via independent search: 333 Srinakarin Road, Nongbon, Prawet"
+  ],
+  "research_watchouts": [
+    "The property's own Accor ALL page (all.accor.com/hotel/1738/index.en.shtml) did not render for verification — facts here come from independent sources only, not the hotel's own listing"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-11",
+  "audit_last_checked": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "bangna",
+    "srinakarin",
+    "novotel",
+    "bitec",
+    "exhibition-hotel"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/1738/index.en.shtml",
+      "label": "Accor ALL — Novotel Bangkok Bangna official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/1738/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "novotel-bangkok-impact"
+  ],
+  "reliability_score": 26,
+  "last_updated": "2026-08-11",
+  "status": "needs_review"
+}

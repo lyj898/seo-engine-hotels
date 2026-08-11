@@ -1,0 +1,67 @@
+{
+  "entity_id": "mercure-bandung-city-centre",
+  "slug": "mercure-bandung-city-centre",
+  "name": "Mercure Bandung City Centre",
+  "category_id": "accor-all",
+  "region_id": "bandung",
+  "short_description": "A 4-star Mercure in central Bandung offering locally inspired design and comfortable midscale accommodation.",
+  "ai_summary": "Mercure Bandung City Centre (Accor code 9598) is a 4-star midscale Mercure property in central Bandung. As a Mercure, it offers the brand's locally inspired design touches alongside consistent midscale standards: comfortable rooms, a restaurant, and typically meeting facilities. Its central location provides access to Bandung's shopping, dining, and cultural attractions. For ALL elite members, standard programme benefits apply.",
+  "core_facts": {
+    "address": "Bandung city centre, West Java, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Bandung city centre, West Java",
+    "elite_benefits": [
+      "Welcome drink for ALL Silver and above",
+      "Room upgrades for ALL Diamond and Platinum, subject to availability",
+      "Early check-in and late check-out for ALL Diamond"
+    ]
+  },
+  "pros": [
+    "Central Bandung location with access to shopping, dining, and attractions",
+    "Mercure brand's locally inspired design and consistent midscale standards"
+  ],
+  "cons": [
+    "Full address, room count, and specific facilities need verification from hotel detail page"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/9598/index.en.shtml"
+  ],
+  "research_watchouts": [
+    "Address, room count, and facilities need verification"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": [
+    "bandung-central",
+    "mercure",
+    "midscale"
+  ],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9598/index.en.shtml",
+      "label": "Accor ALL, Mercure Bandung City Centre",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/9598/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [
+    "grand-mercure-bandung-setiabudi",
+    "pullman-bandung-grand-central"
+  ],
+  "reliability_score": 26,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}
