@@ -9,7 +9,7 @@ import HubCard from '../components/HubCard.astro';
 import EntityCard from '../components/EntityCard.astro';
 import StatsSummary from '../components/StatsSummary.astro';
 import HeroStats from '../components/HeroStats.astro';
-import SearchBox from '../components/SearchBox.astro';
+import HomeSearch from '../components/HomeSearch.astro';
 import FAQSection from '../components/FAQSection.astro';
 import { buildWebsiteSchema, buildFaqPageSchema } from '../lib/schema-jsonld.js';
 
@@ -259,7 +259,7 @@ const jsonLd = [
         </div>
       ) : (
         <div class="mt-10">
-          <SearchBox targetSelector="#featured-grid [data-filterable]" placeholder={`Search by ${siteConfig.entityLabelSingular} name...`} />
+          <HomeSearch placeholder={`Search ${siteConfig.entityLabelPlural} by name or city...`} />
         </div>
       )}
 

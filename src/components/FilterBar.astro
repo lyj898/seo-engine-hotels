@@ -9,7 +9,19 @@
 // localStorage when site.config.json.enabledFeatures.savedFilters is on
 // (checked by the page including this component, not here, so this stays
 // a dumb reusable component).
-const { options = [], targetSelector = '[data-filterable]', storageKey = 'filter' } = Astro.props;
+//
+// maxVisible caps how many option chips render before a "+N more" toggle
+// chip takes over -- a long, unsorted-looking chip wall (e.g. 30+ cities on
+// a loyalty-program page where almost every city has a hotel) reads as
+// broken even though the filtering itself works; capping it mirrors the
+// homepage's own "show top N, link to the full list" pattern rather than
+// dumping every option on screen at once. Callers should pass options
+// already sorted the way they want the visible ones ranked (e.g. by count
+// descending) -- this component only decides how many to show, not the
+// order.
+const { options = [], targetSelector = '[data-filterable]', storageKey = 'filter', maxVisible = null } = Astro.props;
+const visibleOptions = maxVisible ? options.slice(0, maxVisible) : options;
+const overflowOptions = maxVisible ? options.slice(maxVisible) : [];
 ---
 
 {options.length > 0 && (
@@ -21,11 +33,25 @@ const { options = [], targetSelector = '[data-filterable]', storageKey = 'filter
     <button type="button" data-filter-value="" class="filter-chip is-active rounded-full px-3.5 py-2 text-sm font-semibold text-brand-muted transition-colors dark:text-brand-muted-dark">
       All
     </button>
-    {options.map((opt) => (
+    {visibleOptions.map((opt) => (
       <button
         type="button"
         data-filter-value={opt.value}
         class="filter-chip rounded-full px-3.5 py-2 text-sm font-semibold text-brand-muted transition-colors dark:text-brand-muted-dark"
+      >
+        {opt.label}
+      </button>
+    ))}
+    {overflowOptions.length > 0 && (
+      <button type="button" class="filter-chip-toggle rounded-full px-3.5 py-2 text-sm font-semibold text-brand-muted underline-offset-2 transition-colors hover:underline dark:text-brand-muted-dark">
+        +{overflowOptions.length} more
+      </button>
+    )}
+    {overflowOptions.map((opt) => (
+      <button
+        type="button"
+        data-filter-value={opt.value}
+        class="filter-chip filter-chip-overflow hidden rounded-full px-3.5 py-2 text-sm font-semibold text-brand-muted transition-colors dark:text-brand-muted-dark"
       >
         {opt.label}
       </button>
@@ -61,13 +87,31 @@ const { options = [], targetSelector = '[data-filterable]', storageKey = 'filter
         });
       });
 
+      var overflowToggle = bar.querySelector('.filter-chip-toggle');
+      if (overflowToggle) {
+        overflowToggle.addEventListener('click', function () {
+          bar.querySelectorAll('.filter-chip-overflow').forEach(function (chip) {
+            chip.classList.remove('hidden');
+          });
+          overflowToggle.remove();
+        });
+      }
+
       var saved = '';
       try {
         saved = localStorage.getItem(storageKey) || '';
       } catch (e) {
         /* ignore */
       }
-      if (saved) applyFilter(saved);
+      if (saved) {
+        // If the restored value belongs to a chip that starts hidden in the
+        // overflow section, reveal the whole section -- otherwise the chip
+        // would be silently active but invisible, and the toggle would still
+        // claim there are "+N more" chips including the one already applied.
+        var savedChip = bar.querySelector('.filter-chip-overflow[data-filter-value="' + saved + '"]');
+        if (savedChip && overflowToggle) overflowToggle.click();
+        applyFilter(saved);
+      }
     });
   })();
 </script>

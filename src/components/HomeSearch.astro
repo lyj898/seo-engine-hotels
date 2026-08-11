@@ -1,0 +1,149 @@
+---
+// Site-wide typeahead: unlike SearchBox (which hides/shows cards already in
+// the DOM, so it can only search whatever section it's scoped to -- e.g. the
+// homepage's 5-entry "Editor's picks" grid), this embeds a lightweight index
+// of every published entity and searches that directly, so a query for any
+// of the 400+ hotels not among the picks still finds a real result. Kept as
+// its own component (not a SearchBox variant) because the two have
+// genuinely different jobs: SearchBox filters visible cards in place, this
+// shows a dropdown of matches and navigates on selection.
+//
+// The index only carries what's needed to display and link a result (name,
+// url, city/category labels) -- never the full entity -- so 400+ hotels
+// stays a small inline payload rather than duplicating the page's data.
+import { urls } from '../lib/urls.js';
+import { loadEntities, loadRegions, loadCategories, stripMeta, isPublished } from '../lib/data.js';
+
+const { placeholder = 'Search...' } = Astro.props;
+
+const entities = loadEntities().map(stripMeta).filter(isPublished);
+const regionsById = new Map(loadRegions().map((r) => [r.region_id, stripMeta(r)]));
+const categoriesById = new Map(loadCategories().map((c) => [c.category_id, stripMeta(c)]));
+
+const searchIndex = entities.map((e) => {
+  const region = regionsById.get(e.region_id);
+  const category = categoriesById.get(e.category_id);
+  return {
+    name: e.name,
+    url: urls.entity(e.slug),
+    region: region?.label ?? '',
+    category: category?.label ?? '',
+  };
+});
+---
+
+<div class="home-search group relative mx-auto max-w-sm" data-index-id="home-search-index">
+  <div class="flex items-center gap-2 border-b border-brand-divider pb-2 focus-within:border-brand-text dark:border-brand-divider-dark dark:focus-within:border-brand-text-dark">
+    <svg
+      class="h-4 w-4 shrink-0 text-brand-faint dark:text-brand-faint-dark"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      aria-hidden="true"
+    >
+      <circle cx="11" cy="11" r="7" />
+      <path d="m21 21-4.35-4.35" />
+    </svg>
+    <input
+      type="text"
+      class="home-search-input w-full border-none bg-transparent p-0 text-sm placeholder:text-brand-faint focus:outline-none focus:ring-0 dark:placeholder:text-brand-faint-dark"
+      placeholder={placeholder}
+      aria-label={placeholder}
+      autocomplete="off"
+    />
+  </div>
+  <div class="home-search-results absolute inset-x-0 top-full z-20 mt-2 hidden max-h-80 overflow-y-auto rounded-lg border border-brand-border bg-brand-surface p-1.5 text-left shadow-lg dark:border-brand-border-dark dark:bg-brand-surface-dark">
+  </div>
+</div>
+
+<script type="application/json" id="home-search-index" set:html={JSON.stringify(searchIndex)} />
+
+<script is:inline>
+  (function () {
+    var container = document.querySelector('.home-search');
+    if (!container) return;
+    var indexEl = document.getElementById('home-search-index');
+    var input = container.querySelector('.home-search-input');
+    var results = container.querySelector('.home-search-results');
+    if (!indexEl || !input || !results) return;
+
+    var index = [];
+    try {
+      index = JSON.parse(indexEl.textContent);
+    } catch (e) {
+      index = [];
+    }
+
+    var MAX_RESULTS = 8;
+
+    function render(query) {
+      if (!query) {
+        results.classList.add('hidden');
+        results.innerHTML = '';
+        return;
+      }
+      var q = query.toLowerCase();
+      var matches = index
+        .filter(function (item) {
+          return (
+            item.name.toLowerCase().indexOf(q) !== -1 ||
+            item.region.toLowerCase().indexOf(q) !== -1 ||
+            item.category.toLowerCase().indexOf(q) !== -1
+          );
+        })
+        .slice(0, MAX_RESULTS);
+
+      if (matches.length === 0) {
+        results.innerHTML = '<p class="px-3 py-3 text-sm text-brand-muted dark:text-brand-muted-dark">No matches.</p>';
+        results.classList.remove('hidden');
+        return;
+      }
+
+      results.innerHTML = matches
+        .map(function (item) {
+          var meta = [item.region, item.category].filter(Boolean).join(' · ');
+          return (
+            '<a href="' + item.url + '" class="block rounded-md px-3 py-2.5 hover:bg-brand-surface-offset dark:hover:bg-brand-surface-offset-dark">' +
+            '<span class="block text-sm font-semibold">' + escapeHtml(item.name) + '</span>' +
+            (meta ? '<span class="block text-xs text-brand-muted dark:text-brand-muted-dark">' + escapeHtml(meta) + '</span>' : '') +
+            '</a>'
+          );
+        })
+        .join('');
+      results.classList.remove('hidden');
+    }
+
+    function escapeHtml(str) {
+      var div = document.createElement('div');
+      div.textContent = str;
+      return div.innerHTML;
+    }
+
+    input.addEventListener('input', function () {
+      render(input.value.trim());
+    });
+
+    input.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') {
+        var first = results.querySelector('a');
+        if (first) {
+          window.location.href = first.getAttribute('href');
+        }
+      } else if (e.key === 'Escape') {
+        input.value = '';
+        render('');
+      }
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!container.contains(e.target)) {
+        results.classList.add('hidden');
+      }
+    });
+
+    input.addEventListener('focus', function () {
+      if (input.value.trim()) render(input.value.trim());
+    });
+  })();
+</script>

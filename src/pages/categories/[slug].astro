@@ -38,10 +38,19 @@ const stats = [
 // Sideways links: this category's related_category_ids.
 const relatedCategories = allCategories.filter((c) => category.related_category_ids?.includes(c.category_id));
 
-// Filter chips: regions actually represented among this category's entities.
+// Filter chips: regions actually represented among this category's entities,
+// ranked by how many entities they carry (most-covered city first) rather
+// than alphabetical-by-filename order. For a loyalty programme like Marriott
+// or Accor that has a hotel in nearly every tracked city, an unranked chip
+// row reads as an undifferentiated wall of 30+ cities; leading with the
+// best-covered ones and capping the rest behind FilterBar's "+N more"
+// toggle (see maxVisible below) makes the chip row scannable without
+// hiding any city from the filter itself.
 const regionFilterOptions = allRegions
-  .filter((r) => entities.some((e) => e.region_id === r.region_id))
-  .map((r) => ({ label: r.label, value: r.region_id }));
+  .map((r) => ({ label: r.label, value: r.region_id, count: entities.filter((e) => e.region_id === r.region_id).length }))
+  .filter((r) => r.count > 0)
+  .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+const REGION_FILTER_VISIBLE = 8;
 
 const breadcrumbItems = [
   { label: siteConfig.siteName, href: urls.home() },
@@ -77,7 +86,9 @@ const jsonLd = [
 
     {entities.length > 0 ? (
       <div class="mt-10">
-        {regionFilterOptions.length > 1 && <FilterBar options={regionFilterOptions} storageKey={`filter-category-${category.slug}`} />}
+        {regionFilterOptions.length > 1 && (
+          <FilterBar options={regionFilterOptions} storageKey={`filter-category-${category.slug}`} maxVisible={REGION_FILTER_VISIBLE} />
+        )}
         <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {entities.map((entity) => <EntityCard entity={entity} categories={allCategories} />)}
         </div>
