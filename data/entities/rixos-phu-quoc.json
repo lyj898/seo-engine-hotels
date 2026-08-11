@@ -1,0 +1,73 @@
+{
+  "entity_id": "rixos-phu-quoc",
+  "slug": "rixos-phu-quoc",
+  "name": "Rixos Phu Quoc Vietnam - Ultra All Inclusive",
+  "category_id": "accor-all",
+  "region_id": "phu-quoc",
+  "short_description": "Rixos's first Southeast Asian resort, a 5-star ultra all-inclusive on Hon Thom Island, Phu Quoc, reached by a record-setting cable car, with 1,700 rooms.",
+  "ai_summary": "Rixos Phu Quoc Vietnam - Ultra All Inclusive is a 5-star resort on palm-fringed Hon Thom Island, reached via the Guinness World Record-certified Hon Thom Cable Car -- the world's longest non-stop three-way cable car. It is Rixos's first property in Southeast Asia, with roughly 1,700 elegant rooms, multiple dining and entertainment options, and kids' clubs, run on an ultra all-inclusive model. Industry coverage (Business Traveller, TTG Asia, July 2025) reported the resort as Rixos's Southeast Asia debut, opening in phases from mid-2026. No ALL Rating is shown yet on the property's own Accor page. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "An Thoi - Hon Thom, Khu pho, An Giang, 920000 Phu Quoc, Vietnam",
+    "brand_sub_brand": "Rixos",
+    "neighborhood": "Hon Thom Island (Pineapple Island), Phu Quoc",
+    "star_rating": 5,
+    "rooms": 1700,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Rixos's first resort in Southeast Asia, reached via the record-setting Hon Thom Cable Car",
+    "Large-scale ultra all-inclusive resort (roughly 1,700 rooms) with kids' clubs and live entertainment",
+    "Located on Hon Thom Island off Phu Quoc's southern coast, away from the mainland's busier beaches"
+  ],
+  "cons": [
+    "No ALL Rating displayed yet on the property's own Accor page — guest sentiment data not yet available",
+    "Trade press (Business Traveller, TTG Asia, July 2025) describes a phased opening starting mid-2026, so parts of the resort may not yet be fully operational"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/C428/index.en.shtml",
+    "Rixos's first Southeast Asia resort, on Hon Thom Island, reached by the Guinness World Record-certified Hon Thom Cable Car",
+    "Roughly 1,700 rooms, ultra all-inclusive model"
+  ],
+  "research_watchouts": [
+    "No ALL Rating displayed on the Accor page at time of research",
+    "Independent trade coverage describes a phased mid-2026 opening; facilities on offer may still be ramping up"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["rixos", "hon-thom-island", "all-inclusive", "cable-car"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C428/index.en.shtml",
+      "label": "Accor ALL — Rixos Phu Quoc Vietnam official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    },
+    {
+      "url": "https://www.businesstraveller.com/business-travel/2025/07/15/rixos-to-debut-in-south-east-asia-with-resort-on-vietnams-pearl-island/",
+      "label": "Business Traveller — Rixos to debut in South East Asia",
+      "type": "other",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/C428/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-phu-quoc-beach-resort", "la-veranda-resort-phu-quoc"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

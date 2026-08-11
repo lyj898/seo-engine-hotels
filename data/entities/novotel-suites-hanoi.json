@@ -1,0 +1,64 @@
+{
+  "entity_id": "novotel-suites-hanoi",
+  "slug": "novotel-suites-hanoi",
+  "name": "Novotel Suites Hanoi",
+  "category_id": "accor-all",
+  "region_id": "hanoi",
+  "short_description": "A 4-star apart-hotel with 151 studios in Hanoi's Cau Giay district, near the Vietnam National Convention Center and Keangnam Landmark Tower, holding a 4.8/5 ALL Rating (645 reviews).",
+  "ai_summary": "Novotel Suites Hanoi is a 4-star apart-hotel in the emerging Cau Giay district in western Hanoi, with 151 studios featuring kitchenettes and contemporary ensuites, built for both short and long stays. Nearby attractions include the Vietnam National Convention Center, major embassies, Keangnam Landmark Tower, Van Phuc Silk Village, and the Ethnology Museum. Facilities include a swimming pool, fitness centre, sauna, 4 meeting rooms, a convention space, and a business centre. The hotel holds a 4.8/5 ALL Rating from 645 reviews on its own Accor page. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "5 Duy Tan Street, Dich Vong Hau, Cau Giay, 10000 Hanoi, Vietnam",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Cau Giay District, West Hanoi",
+    "star_rating": 4,
+    "rooms": 151,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.8/5 ALL Rating from 645 reviews — one of the highest ratings among Accor properties in Hanoi",
+    "151 studios with kitchenettes, suited to both short and extended stays",
+    "Near the Vietnam National Convention Center, Keangnam Landmark Tower, and major embassies",
+    "Swimming pool, fitness centre, sauna, and 4 meeting rooms on-site"
+  ],
+  "cons": [
+    "Cau Giay location is west of central Hanoi, away from the Old Quarter's main sights"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/9813/index.en.shtml",
+    "4.8/5 ALL Rating from 645 reviews",
+    "151 studio apartments in Cau Giay, near the Vietnam National Convention Center"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["novotel", "cau-giay", "apart-hotel", "long-stay"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9813/index.en.shtml",
+      "label": "Accor ALL — Novotel Suites Hanoi official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/9813/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-hotel-hanoi-centre", "pullman-hanoi"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

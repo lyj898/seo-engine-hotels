@@ -1,0 +1,64 @@
+{
+  "entity_id": "raffles-makati",
+  "slug": "raffles-makati",
+  "name": "Raffles Makati",
+  "category_id": "accor-all",
+  "region_id": "manila",
+  "short_description": "A 5-star all-suite Raffles in Makati's CBD with 32 suites and floor-to-ceiling city views, sharing a tower with Fairmont Makati, holding a 4.8/5 ALL Rating (794 reviews).",
+  "ai_summary": "Raffles Makati is a 5-star all-suite hotel at the heart of Makati's central business district, in a glass tower shared with Fairmont Makati and Raffles Residences Makati. It has 32 suites with floor-to-ceiling windows framing the Makati skyline. On the ninth floor, Mirèio is a Provençal-inspired brasserie noted by independent reviewers for its wine list and seasonal menus. The hotel holds a 4.8/5 ALL Rating from 794 reviews on its own Accor page. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "1 Raffles Drive, Makati Avenue, 1224 Makati, Philippines",
+    "brand_sub_brand": "Raffles",
+    "neighborhood": "Makati Central Business District",
+    "star_rating": 5,
+    "rooms": 32,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.8/5 ALL Rating from 794 reviews",
+    "32 all-suite rooms with floor-to-ceiling windows overlooking the Makati skyline",
+    "Mirèio, a Provençal-inspired brasserie on the ninth floor, praised independently for its wine list and seasonal menus",
+    "Shares a tower with Fairmont Makati and Raffles Residences Makati in the heart of the CBD"
+  ],
+  "cons": [
+    "Only 32 suites — a small property compared to most 5-star Manila-area hotels"
+  ],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/A5E3/index.en.shtml",
+    "4.8/5 ALL Rating from 794 reviews",
+    "32 all-suite rooms, Mirèio brasserie, shares tower with Fairmont Makati"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["raffles", "makati-cbd", "all-suite-hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A5E3/index.en.shtml",
+      "label": "Accor ALL — Raffles Makati official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/A5E3/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairmont-makati", "raffles-singapore", "raffles-jakarta"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

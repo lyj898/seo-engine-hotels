@@ -1,0 +1,60 @@
+{
+  "entity_id": "la-veranda-resort-phu-quoc",
+  "slug": "la-veranda-resort-phu-quoc",
+  "name": "La Veranda Resort Phu Quoc - MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "phu-quoc",
+  "short_description": "A 5-star MGallery resort styled after a 1920s French mansion on Duong Dong Beach, Phu Quoc, facing the Gulf of Thailand, holding a 4.9/5 ALL Rating (758 reviews).",
+  "ai_summary": "La Veranda Resort Phu Quoc - MGallery Collection is a 5-star resort on Duong Dong Beach designed in the style of a 1920s French mansion, facing the Gulf of Thailand. Rooms come with complimentary Wi-Fi, flat-screen TVs, and room service. The resort has Le Bar for cocktails and business/meeting facilities. It holds one of the highest ALL Ratings among Phu Quoc's Accor properties at 4.9/5 from 758 reviews. Standard ALL elite benefits apply for Accor loyalty members.",
+  "core_facts": {
+    "address": "Tran Hung Dao Street, Duong Dong Beach, 95000 Phu Quoc, Vietnam",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Duong Dong Beach, Phu Quoc",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.9/5 ALL Rating from 758 reviews — one of the highest ratings of any Accor property in Phu Quoc",
+    "1920s French mansion-style architecture directly on Duong Dong Beach facing the Gulf of Thailand",
+    "Le Bar and dedicated business/meeting facilities on-site"
+  ],
+  "cons": [],
+  "research_highlights": [
+    "Accor page: all.accor.com/hotel/6479/index.en.shtml",
+    "4.9/5 ALL Rating from 758 reviews",
+    "1920s French mansion-style beachfront resort on Duong Dong Beach"
+  ],
+  "research_watchouts": [],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "tags": ["mgallery", "duong-dong-beach", "beachfront", "french-colonial"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6479/index.en.shtml",
+      "label": "Accor ALL — La Veranda Resort Phu Quoc official page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/6479/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-phu-quoc-resort", "movenpick-resort-waverly-phu-quoc"],
+  "reliability_score": 30,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}
