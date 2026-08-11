@@ -1,0 +1,69 @@
+{
+  "entity_id": "homm-chura-samui",
+  "slug": "homm-chura-samui",
+  "name": "Homm Chura Samui",
+  "category_id": "accor-all",
+  "region_id": "ko-samui",
+  "short_description": "A 4-star, 65-room hotel in Bophut with a beachfront pool and sea views, part of Accor's Homm brand.",
+  "ai_summary": "Homm Chura Samui is a 65-room hotel in the Bophut area of Ko Samui, positioned by its own Accor listing as offering a beachfront pool and sea views. No aggregate ALL guest rating was shown on the hotel's page at the time of research.",
+  "core_facts": {
+    "address": "99/9 Moo 2 Chaweng Beach Road, Tumbon Bophut, Amphore Koh Samui, 84320 Surat Thani, Thailand",
+    "brand_sub_brand": "Homm",
+    "neighborhood": "Bophut",
+    "star_rating": 4,
+    "rooms": 65,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "65 rooms with a beachfront pool and sea views in Bophut",
+    "Mid-scale Homm brand positioning offers good value relative to Ko Samui's luxury resorts"
+  ],
+  "cons": [
+    "No aggregate ALL guest rating was shown on the hotel's own page at the time of research",
+    "Smaller, newer property with less established track record than long-running Ko Samui resorts"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 65 rooms and a beachfront pool with sea views"
+  ],
+  "research_watchouts": [
+    "The hotel's own Accor page did not display a customer review rating at the time of research -- none is included here rather than estimating one",
+    "Facts sourced from the hotel's own Accor listing page only; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "How many rooms does Homm Chura Samui have?",
+      "answer": "65 rooms, located in the Bophut area of Ko Samui with a beachfront pool and sea views. Homm is Accor's mid-scale brand, so the property positions itself as a good-value alternative to Ko Samui's larger luxury resorts, though its own Accor listing did not display an aggregate guest rating at the time of research."
+    }
+  ],
+  "tags": ["bophut", "beachfront pool", "homm brand"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C2P4/index.en.shtml",
+      "label": "Official Homm Chura Samui page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C2P4/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-samui-bophut", "mercure-samui-chaweng-tana"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

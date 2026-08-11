@@ -1,0 +1,69 @@
+{
+  "entity_id": "veranda-high-resort-chiang-mai-mgallery",
+  "slug": "veranda-high-resort-chiang-mai-mgallery",
+  "name": "Veranda High Resort Chiang Mai - MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "chiang-mai",
+  "short_description": "A 71-room mountain-retreat resort near Hang Dong with rice-terrace views and a 4.7/5 ALL rating from around 800 reviews.",
+  "ai_summary": "Veranda High Resort Chiang Mai is a 71-room boutique mountain retreat in the Hang Dong area outside central Chiang Mai, on the Mae Ping River basin, surrounded by mountains and rice and tea terraces. Its own Accor listing shows a 4.7/5 ALL guest rating from roughly 796 reviews. Facilities include a spa, fitness centre, infinity pool, two restaurants and a bar, and a library, with nearby attractions including Wat Phra That Doi Suthep.",
+  "core_facts": {
+    "address": "192 Moo2 Banpong Hangdong, 50230 Chiang Mai, Thailand",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Hang Dong",
+    "star_rating": 5,
+    "rooms": 71,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.7/5 ALL guest rating from roughly 796 reviews",
+    "71-room boutique resort surrounded by mountains and rice/tea terraces near Hang Dong",
+    "Infinity pool, spa, and library set in a quiet mountain retreat away from the city centre"
+  ],
+  "cons": [
+    "Hang Dong location outside central Chiang Mai means a drive to Old City attractions and the Night Bazaar"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 71 rooms and a 4.7/5 ALL guest rating from roughly 796 reviews",
+    "Positioned as a zen mountain retreat on the Mae Ping River basin near Doi Suthep and Queen Sirikit Botanic Garden"
+  ],
+  "research_watchouts": [
+    "Facts sourced from the hotel's own Accor listing page; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is Veranda High Resort Chiang Mai in the city centre?",
+      "answer": "No -- it's in the Hang Dong area outside central Chiang Mai, positioned as a mountain retreat surrounded by rice and tea terraces rather than an Old City hotel. The 71-room boutique resort carries a 4.7/5 ALL guest rating from roughly 796 reviews and includes an infinity pool, spa, and library."
+    }
+  ],
+  "tags": ["hang dong", "mountain retreat", "rice terraces"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8154/index.en.shtml",
+      "label": "Official Veranda High Resort Chiang Mai page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8154/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-chiang-mai", "novotel-chiang-mai-nimman-journeyhub"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

@@ -1,0 +1,70 @@
+{
+  "entity_id": "avista-grande-phuket-karon-mgallery",
+  "slug": "avista-grande-phuket-karon-mgallery",
+  "name": "Avista Grande Karon Resort & Spa Phuket - MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 159-room Sino-Portuguese-styled boutique resort steps from Karon Beach, with a 4.7/5 ALL rating from over 1,100 reviews.",
+  "ai_summary": "Avista Grande Karon Resort & Spa Phuket sits just steps from Karon Beach, styled around Phuket's Sino-Portuguese heritage and tin-mining history. Accor's own listing shows a 4.7/5 ALL guest rating from roughly 1,138 reviews, and describes 159 rooms and suites starting at 53 sqm, with mountain, pool, or sea views. Dining includes the Portosino restaurant and CHAR'D, described as a dine-on-water steakhouse, alongside the Pearl Spa.",
+  "core_facts": {
+    "address": "38 Soi Luang Phor Chuan Soi 1, Karon District, Amphur Muang, 83100 Phuket, Thailand",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Karon Beach",
+    "star_rating": 5,
+    "rooms": 159,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.7/5 ALL guest rating from roughly 1,138 reviews, among the higher-rated Accor properties in Phuket",
+    "159 rooms and suites starting at 53 sqm, steps from Karon Beach",
+    "Sino-Portuguese design referencing Phuket's tin-mining heritage",
+    "CHAR'D, a dine-on-water steakhouse, and the award-winning Portosino restaurant"
+  ],
+  "cons": [
+    "Boutique-scale property with fewer rooms than the larger beachfront resorts nearby"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 159 rooms and a 4.7/5 ALL guest rating from roughly 1,138 reviews",
+    "Design is explicitly built around Phuket's Sino-Portuguese and tin-mining heritage"
+  ],
+  "research_watchouts": [
+    "Facts sourced from the hotel's own Accor listing page; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is Avista Grande Karon close to the beach?",
+      "answer": "Yes -- it's steps from the white sandy beaches of Karon Beach, one of Phuket's main west-coast beach areas. The 159-room boutique resort blends Sino-Portuguese architecture inspired by Phuket's tin-mining heritage with a 4.7/5 ALL guest rating from roughly 1,138 reviews, one of the highest found among the island's Accor properties."
+    }
+  ],
+  "tags": ["karon beach", "sino-portuguese design", "boutique resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A224/index.en.shtml",
+      "label": "Official Avista Grande Karon Resort & Spa Phuket page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A224/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-phuket-kamala-beach", "v-villas-phuket-mgallery"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

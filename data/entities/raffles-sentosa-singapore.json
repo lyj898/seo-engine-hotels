@@ -1,0 +1,72 @@
+{
+  "entity_id": "raffles-sentosa-singapore",
+  "slug": "raffles-sentosa-singapore",
+  "name": "Raffles Sentosa Singapore",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "Singapore's first all-villa resort, with 62 hilltop pool villas on Sentosa Island and a 4.1/5 ALL rating from around 400 reviews.",
+  "ai_summary": "Raffles Sentosa Singapore is described on its own Accor listing as the first all-villa resort in Singapore, set on a hilltop on Sentosa Island with 62 pool villas surrounded by lush gardens. Interconnecting villas suit families or groups travelling together. The resort has six restaurants and bars, a Raffles Sentosa Spa, a fitness centre, and two ballrooms, one with a terrace overlooking the South China Sea. Accor's page shows a 4.1/5 ALL guest rating from roughly 398 reviews.",
+  "core_facts": {
+    "address": "4 Bukit Manis Road, Sentosa, 099947 Singapore, Singapore",
+    "brand_sub_brand": "Raffles",
+    "neighborhood": "Sentosa Island",
+    "star_rating": 5,
+    "rooms": 62,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Singapore's first all-villa resort, with 62 hilltop pool villas",
+    "Interconnecting villas suit families or groups wanting both togetherness and privacy",
+    "Six restaurants and bars plus a dedicated Raffles Sentosa Spa",
+    "Upper-level ballroom terrace overlooks the South China Sea"
+  ],
+  "cons": [
+    "4.1/5 ALL guest rating is lower than most other Raffles and Sofitel properties in Singapore",
+    "Sentosa Island location requires a bridge or cable-car crossing from the main island"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 62 pool villas and a 4.1/5 ALL guest rating from roughly 398 reviews",
+    "Marketed specifically as Singapore's first all-villa resort"
+  ],
+  "research_watchouts": [
+    "Facts sourced from the hotel's own Accor listing page; no independent dated review or video was found to cross-check against",
+    "This is a newer, smaller-review-count property than Raffles Singapore -- do not conflate the two Raffles-branded Singapore hotels"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "How many villas does Raffles Sentosa Singapore have?",
+      "answer": "62 pool villas, making it Singapore's first all-villa resort. Villas are set on a hilltop surrounded by gardens, with interconnecting options available for families or groups. The resort also has six restaurants and bars, a dedicated spa, a fitness centre, and two ballrooms, one with a terrace overlooking the South China Sea."
+    }
+  ],
+  "tags": ["sentosa island", "all-villa resort", "pool villas"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B5Q2/index.en.shtml",
+      "label": "Official Raffles Sentosa Singapore page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B5Q2/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-singapore-sentosa", "raffles-singapore"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

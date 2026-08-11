@@ -1,0 +1,71 @@
+{
+  "entity_id": "mondrian-singapore-duxton",
+  "slug": "mondrian-singapore-duxton",
+  "name": "Mondrian Singapore Duxton",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 302-room 5-star lifestyle hotel on Duxton Hill near the CBD, with a rooftop pool and a 4.4/5 ALL rating from over 2,600 reviews.",
+  "ai_summary": "Mondrian Singapore Duxton occupies Duxton Hill, a heritage shophouse district a short walk from Singapore's Central Business District. The hotel has 302 rooms with floor-to-ceiling windows overlooking either the historic shophouses or the modern skyline, a cinematic rooftop pool, and an eclectic mix of bars and restaurants. Accor's own listing shows a 4.4/5 ALL guest rating across roughly 2,653 reviews, placing guests at the centre of one of Singapore's most active dining and drinking strips.",
+  "core_facts": {
+    "address": "16A Duxton Hill, 089970 Singapore, Singapore",
+    "brand_sub_brand": "Mondrian",
+    "neighborhood": "Duxton Hill / Central Business District",
+    "star_rating": 5,
+    "rooms": 302,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "302 rooms with heritage shophouse or skyline views through floor-to-ceiling windows",
+    "Rooftop pool plus a curated collection of bars and restaurants on Duxton Hill",
+    "4.4/5 ALL guest rating across roughly 2,653 reviews",
+    "Short walk to Singapore's Central Business District"
+  ],
+  "cons": [
+    "Duxton Hill's nightlife scene means the immediate area can be lively at night",
+    "No independent dated press review was found to corroborate the on-site guest rating"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 302 rooms and a 4.4/5 ALL guest rating from roughly 2,653 reviews",
+    "Positioned in the heart of Duxton Hill, described as one of Singapore's most vibrant dining and drinking scenes"
+  ],
+  "research_watchouts": [
+    "Facts sourced from the hotel's own Accor listing page; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "How many rooms does Mondrian Singapore Duxton have?",
+      "answer": "302 rooms, each with floor-to-ceiling windows offering either heritage shophouse views over Duxton Hill or modern skyline views toward the Central Business District. The hotel sits on Duxton Hill, a short walk from Singapore's CBD, with a rooftop pool and a curated mix of bars and restaurants that put guests at the centre of one of the city's liveliest dining and drinking strips."
+    }
+  ],
+  "tags": ["duxton hill", "rooftop pool", "lifestyle hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B7F8/index.en.shtml",
+      "label": "Official Mondrian Singapore Duxton page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B7F8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-singapore-city-centre", "swissotel-the-stamford-singapore"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

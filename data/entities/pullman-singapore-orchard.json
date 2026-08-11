@@ -1,0 +1,73 @@
+{
+  "entity_id": "pullman-singapore-orchard",
+  "slug": "pullman-singapore-orchard",
+  "name": "Pullman Singapore Orchard",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 5-star Pullman on Orchard Road with a 4.5/5 ALL rating from over 3,400 reviews, steps from Orchard and Somerset MRT stations.",
+  "ai_summary": "Pullman Singapore Orchard sits directly on Orchard Road, Singapore's flagship shopping and entertainment strip, five minutes' walk from Orchard and Somerset MRT stations and close to Mount Elizabeth Hospital. The hotel carries a 4.5/5 ALL guest rating across roughly 3,470 reviews on its own Accor page. On-site dining includes Modern Asian cuisine at Eden Restaurant, cocktails at Atelier Lounge & Bar, and the P.S.O. Beach Club, an urban pool deck with private cabanas. Changi Airport is about 20 minutes away by car, and attractions such as the Singapore Botanic Gardens, Singapore Zoo, and Universal Studios Singapore are all within reach.",
+  "core_facts": {
+    "address": "270 Orchard Road, 238857 Singapore, Singapore",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Orchard Road",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly on Orchard Road, five minutes' walk from Orchard and Somerset MRT stations",
+    "4.5/5 ALL guest rating from roughly 3,470 reviews",
+    "P.S.O. Beach Club rooftop-style pool deck with private cabanas",
+    "Close to Mount Elizabeth Hospital and major medical facilities",
+    "Changi Airport around 20 minutes away by car"
+  ],
+  "cons": [
+    "Orchard Road location means a busy, tourist-heavy immediate surrounding area",
+    "No aggregated third-party press review was found to independently corroborate the on-site guest rating"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page shows a 4.5/5 ALL guest rating across roughly 3,470 reviews",
+    "Positioned as a launchpad hotel on Orchard Road with fashion-forward design and smart in-room tech",
+    "P.S.O. Beach Club pool deck and Eden Restaurant / Atelier Lounge & Bar are called out as signature venues"
+  ],
+  "research_watchouts": [
+    "Facts sourced from the hotel's own Accor listing page; no independent dated review or video was found to cross-check against",
+    "Room count was not stated on the page and is omitted rather than estimated"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is Pullman Singapore Orchard close to the MRT?",
+      "answer": "Yes -- it's about a 5-minute walk to both Orchard and Somerset MRT stations, putting it directly on Orchard Road within easy reach of Singapore's main shopping and entertainment district."
+    }
+  ],
+  "tags": ["orchard road", "pool deck", "shopping district"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B9H8/index.en.shtml",
+      "label": "Official Pullman Singapore Orchard page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B9H8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["raffles-singapore", "fairmont-singapore"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

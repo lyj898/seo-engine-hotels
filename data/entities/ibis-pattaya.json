@@ -1,0 +1,71 @@
+{
+  "entity_id": "ibis-pattaya",
+  "slug": "ibis-pattaya",
+  "name": "ibis Pattaya",
+  "category_id": "accor-all",
+  "region_id": "pattaya",
+  "short_description": "A 254-room budget hotel on Pattaya Second Road with a 4.4/5 ALL rating from over 1,000 reviews.",
+  "ai_summary": "ibis Pattaya sits on Pattaya Second Road, close to the city's nightlife, street food, and shopping. The hotel's own Accor listing shows a 4.4/5 ALL guest rating from roughly 1,027 reviews, and describes 254 rooms with Wi-Fi throughout, an outdoor pool, and a bar and restaurant. It is part of Accor's MyResorts programme for ALL members.",
+  "core_facts": {
+    "address": "463/79 Moo 9, Pattaya Second Road, Nhongprue Banglamung, 20150 Pattaya, Thailand",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Pattaya Second Road",
+    "star_rating": 3,
+    "rooms": 254,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per ALL - Accor Live Limitless programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "254 rooms with Wi-Fi throughout at a budget price point",
+    "4.4/5 ALL guest rating from roughly 1,027 reviews",
+    "Central Pattaya Second Road location near nightlife, street food, and shopping",
+    "Outdoor swimming pool and on-site bar/restaurant"
+  ],
+  "cons": [
+    "Budget-tier hotel without the resort facilities of Pattaya's beachfront properties",
+    "Pattaya Second Road location is set back from the beach itself"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 254 rooms and a 4.4/5 ALL guest rating from roughly 1,027 reviews",
+    "Highlights nearby attractions including Pattaya Beach, Terminal 21 Pattaya, and the Tiffany cabaret show"
+  ],
+  "research_watchouts": [
+    "Facts sourced from the hotel's own Accor listing page; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is ibis Pattaya on the beach?",
+      "answer": "No -- it's on Pattaya Second Road, set back from the beachfront but within easy reach of Pattaya's nightlife, street food, and shopping. The 254-room budget hotel carries a 4.4/5 ALL guest rating from roughly 1,027 reviews, with an outdoor pool and on-site bar and restaurant for guests who don't need direct beach access."
+    }
+  ],
+  "tags": ["pattaya second road", "budget hotel", "central pattaya"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6539/index.en.shtml",
+      "label": "Official ibis Pattaya page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6539/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-pattaya-ocean-resort", "pullman-pattaya-hotel-g"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

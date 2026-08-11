@@ -1,0 +1,69 @@
+{
+  "entity_id": "v-villas-hua-hin-mgallery",
+  "slug": "v-villas-hua-hin-mgallery",
+  "name": "V Villas Hua Hin - MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "hua-hin",
+  "short_description": "A 28-villa private beachfront retreat near central Hua Hin with 24-hour butler service and a 4.8/5 ALL rating.",
+  "ai_summary": "V Villas Hua Hin sits on Hua Hin's beach near the town centre, close to shopping centres, Cicada Market, golf courses, and water parks. Its own Accor listing shows a 4.8/5 ALL guest rating from roughly 223 reviews -- among the highest of any Accor property researched in this batch. The resort has 28 exclusive pool villas with 24-hour butler service, suited to couples, small groups, or larger family gatherings.",
+  "core_facts": {
+    "address": "63-39 Petchkasem Road, Nong Kae, Hua Hin, Prachuab Kirikhan, 77110 Hua Hin, Thailand",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Nong Kae / Hua Hin beach",
+    "star_rating": 5,
+    "rooms": 28,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.8/5 ALL guest rating from roughly 223 reviews",
+    "28 exclusive pool villas with 24-hour butler service",
+    "Beachfront location near central Hua Hin, Cicada Market, golf courses, and water parks"
+  ],
+  "cons": [
+    "Small 28-villa inventory means limited availability during peak periods",
+    "Review count (223) is lower than larger nearby resorts, though the rating itself is strong"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 28 pool villas, 24-hour butler service, and a 4.8/5 ALL guest rating from roughly 223 reviews"
+  ],
+  "research_watchouts": [
+    "Facts sourced from the hotel's own Accor listing page; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "How many villas does V Villas Hua Hin have?",
+      "answer": "28 exclusive pool villas, each with 24-hour butler service, located on Hua Hin's beach near the town centre. It's one of the highest-rated Accor properties researched in Hua Hin, with a 4.8/5 ALL guest rating from roughly 223 reviews, and sits close to Cicada Market, golf courses, and water parks."
+    }
+  ],
+  "tags": ["pool villas", "butler service", "hua hin beach"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7050/index.en.shtml",
+      "label": "Official V Villas Hua Hin page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7050/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["so-sofitel-hua-hin", "ibis-hua-hin"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

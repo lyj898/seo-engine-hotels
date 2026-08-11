@@ -1,0 +1,70 @@
+{
+  "entity_id": "ibis-chiang-mai-nimman-journeyhub",
+  "slug": "ibis-chiang-mai-nimman-journeyhub",
+  "name": "ibis Chiang Mai Nimman Journeyhub",
+  "category_id": "accor-all",
+  "region_id": "chiang-mai",
+  "short_description": "A 142-room budget hotel at the foothills of Doi Suthep in the trendy Nimman area, with a 4.6/5 ALL rating from over 900 reviews.",
+  "ai_summary": "ibis Chiang Mai Nimman Journeyhub sits at the foothills of Doi Suthep in Chiang Mai's trendy Nimmanhaemin district, within walking distance of nightlife, a walking street, and local handicraft shopping, and near Chiang Mai University. Its own Accor listing shows a 4.6/5 ALL guest rating from roughly 944 reviews, and describes 142 guest rooms, 24-hour dining, a bar, an open-air pool overlooking the hills, and a 24-hour gym.",
+  "core_facts": {
+    "address": "7-17 Moo 2, Huay Kaew Road, Chang Phueak, Muang, 50300 Chiang Mai, Thailand",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Nimmanhaemin",
+    "star_rating": 4,
+    "rooms": 142,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per ALL - Accor Live Limitless programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.6/5 ALL guest rating from roughly 944 reviews",
+    "142 rooms in the trendy Nimmanhaemin area, near Chiang Mai University",
+    "Open-air pool overlooking the hills, 24-hour dining, and a 24-hour gym",
+    "Walking distance to Nimman nightlife, walking street, and handicraft shopping"
+  ],
+  "cons": [
+    "Nimman location is a drive or ride from the Old City and Night Bazaar"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 142 rooms and a 4.6/5 ALL guest rating from roughly 944 reviews",
+    "Positioned at the foothills of Doi Suthep in the trendy Nimman district"
+  ],
+  "research_watchouts": [
+    "Facts sourced from the hotel's own Accor listing page; no independent dated review or video was found to cross-check against"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is ibis Chiang Mai Nimman Journeyhub near Chiang Mai University?",
+      "answer": "Yes -- it's in the Nimmanhaemin area near Chiang Mai University, within walking distance of Nimman's nightlife, walking street, and handicraft shopping. The 142-room budget hotel carries a 4.6/5 ALL guest rating from roughly 944 reviews, with an open-air pool overlooking the hills and 24-hour dining and gym access."
+    }
+  ],
+  "tags": ["nimmanhaemin", "budget hotel", "doi suthep foothills"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B9U9/index.en.shtml",
+      "label": "Official ibis Chiang Mai Nimman Journeyhub page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B9U9/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-chiang-mai", "novotel-chiang-mai-nimman-journeyhub"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}
