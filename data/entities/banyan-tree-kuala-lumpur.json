@@ -1,0 +1,90 @@
+{
+  "entity_id": "banyan-tree-kuala-lumpur",
+  "slug": "banyan-tree-kuala-lumpur",
+  "name": "Banyan Tree Kuala Lumpur",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 55-room luxury hotel occupying floors 53-58 of a Golden Triangle tower, with a rooftop bar, award-winning spa, and a direct bridge link to Pavilion KL mall.",
+  "ai_summary": "Banyan Tree Kuala Lumpur offers 55 elegant rooms and suites across the upper floors (53-58) of a tower in KL's Golden Triangle, a short walk from the Petronas Twin Towers and with a covered bridge connecting directly to Pavilion Kuala Lumpur mall. The hotel features a vibrant rooftop bar with skyline views, the award-winning Banyan Tree Spa, and gourmet dining at Horizon Grill. A March 2025 guest blog called it 'a perfect urban oasis' and praised the pool area as among the best of any city hotel, while noting the ground-floor lobby is easy to overlook since reception sits on floor 53.",
+  "core_facts": {
+    "address": "2 Jalan Conlay, 50450 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Banyan Tree",
+    "neighborhood": "Golden Triangle / Bukit Bintang",
+    "rooms": 55,
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Just 55 rooms and suites across floors 53-58, giving an intimate, boutique feel for a city-centre luxury hotel",
+    "Rooftop bar with sweeping Kuala Lumpur skyline views",
+    "Award-winning Banyan Tree Spa on-site",
+    "Direct covered-bridge access to Pavilion Kuala Lumpur mall and its 100+ restaurants",
+    "Within a 10-minute walk of the Petronas Twin Towers and KLCC Park"
+  ],
+  "cons": [
+    "Reception sits on floor 53 rather than the ground floor, which can feel impersonal on arrival before reaching the sky-lobby",
+    "A 45-minute drive from Kuala Lumpur International Airport, requiring an arranged transfer"
+  ],
+  "research_highlights": [
+    "A March 2025 travel blog called it 'a perfect urban oasis' with one of the nicest hotel pool areas the reviewer had seen in any city",
+    "Guests consistently praise the rooftop views, spa, and the direct Pavilion mall connection for dining options"
+  ],
+  "research_watchouts": [
+    "The hotel's entrance and reception are on floor 53, so the ground floor offers no visible hotel presence"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "Is Banyan Tree Kuala Lumpur connected to Pavilion mall?",
+      "answer": "Yes -- a covered bridge connects the hotel directly to Pavilion Kuala Lumpur mall, giving guests access to over 100 restaurants without going outside."
+    },
+    {
+      "question": "How many rooms does Banyan Tree Kuala Lumpur have?",
+      "answer": "55 rooms and suites, spread across floors 53 to 58 of the tower, making it one of the more intimate luxury hotels in the city."
+    }
+  ],
+  "tags": ["golden triangle", "rooftop bar", "pavilion mall"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B3C1/index.en.shtml",
+      "label": "Official Banyan Tree Kuala Lumpur page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    },
+    {
+      "url": "https://travellinghan.com/2025/03/12/review-of-the-banyan-tree-kuala-lumpur-a-luxurious-city-retreat/",
+      "label": "Travelling Han guest review",
+      "type": "review",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B3C1/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pavilion-hotel-kuala-lumpur", "sofitel-kuala-lumpur-damansara"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review of The Banyan Tree Kuala Lumpur: A Luxurious City Retreat",
+        "source": "Travelling Han",
+        "url": "https://travellinghan.com/2025/03/12/review-of-the-banyan-tree-kuala-lumpur-a-luxurious-city-retreat/",
+        "published_date": "2025-03-12",
+        "summary": "Calls the hotel 'a perfect urban oasis' occupying floors 53-58 with a direct Pavilion mall connection, praising the pool area and skyline views but noting the sky-lobby arrival feels unusual."
+      }
+    ],
+    "videos": []
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}

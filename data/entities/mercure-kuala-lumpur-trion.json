@@ -1,0 +1,92 @@
+{
+  "entity_id": "mercure-kuala-lumpur-trion",
+  "slug": "mercure-kuala-lumpur-trion",
+  "name": "Mercure Kuala Lumpur Trion",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "The tallest Mercure hotel in Southeast Asia, with 228 rooms and suites from level 38 upward inside the Trion @ Kuala Lumpur tower, overlooking the KL skyline.",
+  "ai_summary": "Mercure Kuala Lumpur Trion occupies the upper floors -- from level 38 up -- of the Trion @ Kuala Lumpur tower in Sungai Besi, making it the tallest Mercure hotel in Southeast Asia. The 228 rooms and suites sit above street noise with sweeping skyline views, and the hotel is within 5km of KLCC, TRX, Bukit Bintang City Centre and Mid Valley Megamall, with the Chan Sow Lin LRT/MRT station nearby. A January 2026 guest blog called it a hidden gem with a 'million-dollar' skyline view from the rooms and Level 54 pool, praising Mercure's 'Discover Local' design touches -- a wau bulan mural in the lobby and batik cushion covers -- though noted the bathroom and room feel compact for the price.",
+  "core_facts": {
+    "address": "Jalan Dua, Off Jalan Chan Sow Lin, Sungai Besi, 55200 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Sungai Besi",
+    "rooms": 228,
+    "star_rating": 4,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Tallest Mercure hotel in Southeast Asia, with rooms starting from level 38 -- free of street noise",
+    "228 rooms and suites with sweeping Kuala Lumpur skyline views, especially striking at night",
+    "Level 54 rooftop pool and gym with panoramic city views",
+    "Mercure's 'Discover Local' design touches, including a lobby wau bulan mural and batik cushion covers",
+    "Within 5km of KLCC, TRX, Bukit Bintang City Centre and Mid Valley Megamall, near Chan Sow Lin LRT/MRT"
+  ],
+  "cons": [
+    "Room and bathroom sizes run compact, with little floor space to open a suitcase in some layouts",
+    "Not within walking distance of Bukit Bintang or KLCC -- relies on a short drive or transit connection"
+  ],
+  "research_highlights": [
+    "A January 2026 guest blog called the skyline view from the room and Level 54 pool 'a hidden gem' and 'quietly impressive'",
+    "Guests on TripAdvisor and Expedia consistently cite the location's convenience for restaurants, malls and transit",
+    "One 2026 guest review called it Accor's best 'hard product' in KL, citing newer rooms versus older Accor properties in the city"
+  ],
+  "research_watchouts": [
+    "Some guests note the room and bathroom layout is compact, making luggage handling awkward",
+    "The hotel is in Sungai Besi, a short drive rather than a walk from Bukit Bintang or KLCC"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-11",
+  "faqs": [
+    {
+      "question": "How many rooms does Mercure Kuala Lumpur Trion have?",
+      "answer": "228 rooms and suites, spanning from level 38 of the Trion @ Kuala Lumpur tower upward -- making it the tallest Mercure hotel in Southeast Asia."
+    },
+    {
+      "question": "Is Mercure Kuala Lumpur Trion close to KLCC or Bukit Bintang?",
+      "answer": "It's within about 5km of both KLCC and Bukit Bintang City Centre, plus TRX and Mid Valley Megamall, with the Chan Sow Lin LRT/MRT station nearby -- but it's a short drive or transit ride rather than a walk."
+    }
+  ],
+  "tags": ["sungai besi", "skyline view", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A545/index.en.shtml",
+      "label": "Official Mercure Kuala Lumpur Trion page",
+      "type": "official",
+      "last_checked": "2026-08-11"
+    },
+    {
+      "url": "https://www.malaysianflavours.com/2026/01/hotel-review-2026-mercure-kuala-lumpur-trion-best-view-in-kl.html",
+      "label": "Malaysian Flavours guest review",
+      "type": "review",
+      "last_checked": "2026-08-11"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A545/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-kuala-lumpur-shaw-parade", "grand-mercure-kuala-lumpur-bukit-bintang"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "2026 Staycay with Perfect View at Mercure Kuala Lumpur Trion",
+        "source": "Malaysian Flavours",
+        "url": "https://www.malaysianflavours.com/2026/01/hotel-review-2026-mercure-kuala-lumpur-trion-best-view-in-kl.html",
+        "published_date": "2026-01-28",
+        "summary": "Calls the hotel a hidden gem, praising the level 42+ skyline views, Level 54 rooftop pool, and Mercure's 'Discover Local' lobby mural and batik cushion touches; notes compact room and bathroom space."
+      }
+    ],
+    "videos": []
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-11",
+  "status": "active"
+}
