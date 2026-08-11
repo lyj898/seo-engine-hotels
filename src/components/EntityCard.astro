@@ -5,6 +5,7 @@ import DateBadge from './DateBadge.astro';
 import ValuePills from './ValuePills.astro';
 import Pill from './Pill.astro';
 import { brandPresentation, TIER_REGISTER } from '../lib/brand.js';
+import { buildRegionAncestryMap } from '../lib/data.js';
 
 // THE card for an entity in any list -- hub grids, listicle pages,
 // RelatedEntities and the home page calendar all render this one
@@ -24,7 +25,7 @@ import { brandPresentation, TIER_REGISTER } from '../lib/brand.js';
 // lets a page attach its own filter data-attributes (the calendar's
 // data-country / data-month / data-distances) without this component
 // knowing what they mean.
-const { entity, categories = [], extraAttrs = {} } = Astro.props;
+const { entity, categories = [], regions = [], extraAttrs = {} } = Astro.props;
 
 const facts = entity.core_facts ?? {};
 const hasDate = typeof facts.date === 'string';
@@ -34,8 +35,13 @@ const availability = simplifyAvailabilityStatus(facts.registration_status);
 // FilterBar filters on this attribute. Deliberately includes category_id
 // and region_id alongside content tags, so a hub page can filter by
 // category or region reliably without depending on those words happening
-// to also appear in entity.tags.
-const filterTags = [...(entity.tags ?? []), entity.category_id, entity.region_id].filter(Boolean).join(',');
+// to also appear in entity.tags. When the caller passes `regions`, the
+// city's full ancestor chain (e.g. bangkok -> thailand) is included too,
+// so a country-level filter chip (GroupedRegionFilter) can match this card
+// via the same data-tags mechanism FilterBar already uses, without a
+// second filtering codepath.
+const regionAncestry = regions.length > 0 ? buildRegionAncestryMap(regions).get(entity.region_id) ?? [] : [];
+const filterTags = [...(entity.tags ?? []), entity.category_id, entity.region_id, ...regionAncestry].filter(Boolean).join(',');
 
 // SearchBox and the calendar's combined filter script both match on this.
 const searchText = `${entity.name} ${locationLine} ${entity.short_description ?? ''}`.toLowerCase();

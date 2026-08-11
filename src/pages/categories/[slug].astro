@@ -1,13 +1,13 @@
 ---
 import siteConfig from '../../lib/config.js';
 import { urls } from '../../lib/urls.js';
-import { loadEntities, loadCategories, loadRegions, stripMeta, isPublished } from '../../lib/data.js';
+import { loadEntities, loadCategories, loadRegions, stripMeta, isPublished, buildRegionAncestryMap } from '../../lib/data.js';
 import { entityMatchesCategory } from '../../lib/categoryMatch.js';
 import { byUpcomingDate } from '../../lib/sort.js';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import StatsSummary from '../../components/StatsSummary.astro';
-import FilterBar from '../../components/FilterBar.astro';
+import GroupedRegionFilter from '../../components/GroupedRegionFilter.astro';
 import EntityCard from '../../components/EntityCard.astro';
 import HubCard from '../../components/HubCard.astro';
 import FAQSection from '../../components/FAQSection.astro';
@@ -38,19 +38,36 @@ const stats = [
 // Sideways links: this category's related_category_ids.
 const relatedCategories = allCategories.filter((c) => category.related_category_ids?.includes(c.category_id));
 
-// Filter chips: regions actually represented among this category's entities,
-// ranked by how many entities they carry (most-covered city first) rather
-// than alphabetical-by-filename order. For a loyalty programme like Marriott
-// or Accor that has a hotel in nearly every tracked city, an unranked chip
-// row reads as an undifferentiated wall of 30+ cities; leading with the
-// best-covered ones and capping the rest behind FilterBar's "+N more"
-// toggle (see maxVisible below) makes the chip row scannable without
-// hiding any city from the filter itself.
-const regionFilterOptions = allRegions
-  .map((r) => ({ label: r.label, value: r.region_id, count: entities.filter((e) => e.region_id === r.region_id).length }))
-  .filter((r) => r.count > 0)
+// Filter: country -> city, not a flat city chip row. A loyalty programme
+// like Marriott or Accor has a hotel in nearly every one of 35+ tracked
+// cities, so listing every represented city at once -- even sorted, even
+// capped behind a "+N more" toggle -- is a wall/lump either way. Grouping
+// by country first and only revealing a country's cities once it's picked
+// keeps each screenful to a handful of chips regardless of how many cities
+// the category actually covers. Cities within each country and the
+// countries themselves are both ranked by hotel count, so the most-covered
+// country/city leads.
+const ancestryMap = buildRegionAncestryMap(allRegions);
+const regionsById = new Map(allRegions.map((r) => [r.region_id, r]));
+const countByCity = new Map();
+for (const e of entities) countByCity.set(e.region_id, (countByCity.get(e.region_id) ?? 0) + 1);
+
+const countryGroups = new Map(); // country region_id -> { value, label, count, cities: [] }
+for (const [cityId, count] of countByCity) {
+  const chain = ancestryMap.get(cityId) ?? [cityId];
+  const countryId = chain[chain.length - 1];
+  const countryRegion = regionsById.get(countryId);
+  if (!countryGroups.has(countryId)) {
+    countryGroups.set(countryId, { value: countryId, label: countryRegion?.label ?? countryId, count: 0, cities: [] });
+  }
+  const group = countryGroups.get(countryId);
+  group.count += count;
+  const cityRegion = regionsById.get(cityId);
+  group.cities.push({ value: cityId, label: cityRegion?.label ?? cityId, count });
+}
+const regionFilterGroups = [...countryGroups.values()]
+  .map((g) => ({ ...g, cities: g.cities.sort((a, b) => b.count - a.count || a.label.localeCompare(b.label)) }))
   .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
-const REGION_FILTER_VISIBLE = 8;
 
 const breadcrumbItems = [
   { label: siteConfig.siteName, href: urls.home() },
@@ -86,11 +103,11 @@ const jsonLd = [
 
     {entities.length > 0 ? (
       <div class="mt-10">
-        {regionFilterOptions.length > 1 && (
-          <FilterBar options={regionFilterOptions} storageKey={`filter-category-${category.slug}`} maxVisible={REGION_FILTER_VISIBLE} />
+        {regionFilterGroups.length > 1 && (
+          <GroupedRegionFilter groups={regionFilterGroups} storageKey={`filter-category-${category.slug}`} />
         )}
         <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {entities.map((entity) => <EntityCard entity={entity} categories={allCategories} />)}
+          {entities.map((entity) => <EntityCard entity={entity} categories={allCategories} regions={allRegions} />)}
         </div>
       </div>
     ) : (

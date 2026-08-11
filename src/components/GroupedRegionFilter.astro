@@ -1,0 +1,126 @@
+---
+// Two-level country -> city filter, for pages where the flat city-chip list
+// (FilterBar) got unusably long -- a loyalty-program category page where
+// almost every one of 35+ tracked cities has a hotel turns "show all
+// represented cities" into a wall of chips, and capping it behind a "+N
+// more" toggle just turned the wall into a lump that dumps all at once
+// instead of a wall. Grouping by country first, then revealing only that
+// country's cities, keeps each screenful small regardless of how many
+// cities the category actually covers.
+//
+// groups: [{ value, label, count, cities: [{ value, label, count }] }],
+// pre-sorted by the caller (count descending is the convention used
+// elsewhere on this site, e.g. the homepage's city list). value must match
+// a tag in the target cards' data-tags -- pairs with EntityCard's
+// `regions` prop, which is what puts the country id in data-tags alongside
+// the city id.
+const { groups = [], targetSelector = '[data-filterable]', storageKey = 'filter-grouped' } = Astro.props;
+---
+
+{groups.length > 0 && (
+  <div class="grouped-region-filter mb-6" data-target={targetSelector} data-storage-key={storageKey}>
+    <div
+      class="country-row inline-flex flex-wrap gap-0.5 rounded-full bg-brand-surface-offset p-[3px] dark:bg-brand-surface-offset-dark"
+      data-groups={JSON.stringify(groups)}
+    >
+      <button type="button" data-country-value="" class="country-chip is-active rounded-full px-3.5 py-2 text-sm font-semibold text-brand-muted transition-colors dark:text-brand-muted-dark">
+        All countries
+      </button>
+      {groups.map((g) => (
+        <button type="button" data-country-value={g.value} class="country-chip rounded-full px-3.5 py-2 text-sm font-semibold text-brand-muted transition-colors dark:text-brand-muted-dark">
+          {g.label} <span class="opacity-60">({g.count})</span>
+        </button>
+      ))}
+    </div>
+
+    <div class="city-row mt-2 hidden flex-wrap gap-0.5 rounded-full bg-brand-surface-offset p-[3px] dark:bg-brand-surface-offset-dark">
+    </div>
+  </div>
+)}
+
+<script is:inline>
+  (function () {
+    document.querySelectorAll('.grouped-region-filter').forEach(function (root) {
+      var targetSelector = root.dataset.target;
+      var storageKey = root.dataset.storageKey;
+      var countryRow = root.querySelector('.country-row');
+      var cityRow = root.querySelector('.city-row');
+      var groups = [];
+      try {
+        groups = JSON.parse(countryRow.dataset.groups || '[]');
+      } catch (e) {
+        groups = [];
+      }
+      var countryChips = countryRow.querySelectorAll('.country-chip');
+
+      function applyFilter(countryValue, cityValue) {
+        document.querySelectorAll(targetSelector).forEach(function (el) {
+          var tags = (el.dataset.tags || '').split(',');
+          var matchesCity = !cityValue || tags.indexOf(cityValue) !== -1;
+          var matchesCountry = !countryValue || tags.indexOf(countryValue) !== -1;
+          el.style.display = matchesCity && matchesCountry ? '' : 'none';
+        });
+        countryChips.forEach(function (chip) {
+          chip.classList.toggle('is-active', chip.dataset.countryValue === countryValue);
+        });
+        if (cityRow) {
+          cityRow.querySelectorAll('.city-chip').forEach(function (chip) {
+            chip.classList.toggle('is-active', chip.dataset.cityValue === cityValue);
+          });
+        }
+        try {
+          localStorage.setItem(storageKey, JSON.stringify({ country: countryValue, city: cityValue || '' }));
+        } catch (e) {
+          /* ignore */
+        }
+      }
+
+      function renderCities(countryValue) {
+        if (!cityRow) return;
+        if (!countryValue) {
+          cityRow.classList.add('hidden');
+          cityRow.innerHTML = '';
+          return;
+        }
+        var group = groups.find(function (g) {
+          return g.value === countryValue;
+        });
+        var cities = group ? group.cities : [];
+        cityRow.innerHTML = cities
+          .map(function (c) {
+            return (
+              '<button type="button" data-city-value="' + c.value + '" class="city-chip rounded-full px-3.5 py-2 text-sm font-semibold text-brand-muted transition-colors dark:text-brand-muted-dark">' +
+              c.label + ' <span class="opacity-60">(' + c.count + ')</span></button>'
+            );
+          })
+          .join('');
+        cityRow.classList.toggle('hidden', cities.length === 0);
+        cityRow.querySelectorAll('.city-chip').forEach(function (chip) {
+          chip.addEventListener('click', function () {
+            var current = chip.classList.contains('is-active');
+            applyFilter(countryValue, current ? '' : chip.dataset.cityValue);
+          });
+        });
+      }
+
+      countryChips.forEach(function (chip) {
+        chip.addEventListener('click', function () {
+          var value = chip.dataset.countryValue || '';
+          renderCities(value);
+          applyFilter(value, '');
+        });
+      });
+
+      var saved = null;
+      try {
+        saved = JSON.parse(localStorage.getItem(storageKey) || 'null');
+      } catch (e) {
+        saved = null;
+      }
+      if (saved && saved.country) {
+        renderCities(saved.country);
+        applyFilter(saved.country, saved.city || '');
+      }
+    });
+  })();
+</script>
