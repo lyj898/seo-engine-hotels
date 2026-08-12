@@ -1,0 +1,12 @@
+{
+  "region_id": "ho-tram",
+  "slug": "ho-tram",
+  "label": "Ho Tram",
+  "granularity": "city",
+  "parent_region_id": "vietnam",
+  "short_description": "A developing beach strip on Vietnam's south-central coast, about 2-2.5 hours from Ho Chi Minh City.",
+  "intro": "Ho Tram sits on Vietnam's south-central coast in Ba Ria-Vung Tau Province, roughly 125km and a 2-2.5 hour drive from Ho Chi Minh City. The stretch has grown up around The Grand Ho Tram Strip, a large integrated casino-resort complex, and now mixes that development with a smaller number of standalone beach resorts along a quieter, less built-up coastline than Vung Tau or Phu Quoc. Hotels here lean toward pool villas and family-oriented resort stays rather than city-hotel amenities, and a private car or hotel transfer is generally the practical way to arrive.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

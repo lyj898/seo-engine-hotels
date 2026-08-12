@@ -1,0 +1,100 @@
+{
+  "entity_id": "movenpick-klia",
+  "slug": "movenpick-klia",
+  "name": "Mövenpick Hotel & Convention Centre KLIA",
+  "category_id": "accor-all",
+  "region_id": "klia",
+  "short_description": "A 332-room Muslim-friendly 5-star hotel in Sepang, about 10 minutes from KLIA with hourly shuttle service and 17 meeting rooms.",
+  "ai_summary": "Mövenpick Hotel & Convention Centre KLIA is a 332-room 5-star property in Sepang, roughly 10 minutes from Kuala Lumpur International Airport and 7 minutes from the Sepang International Circuit, positioned as a Muslim-friendly hotel serving no-alcohol dining alongside 17 meeting rooms and a ballroom for up to 2,800 guests. Guests consistently praise the striking lobby architecture, comfortable beds, and welcome amenities like a daily chocolate hour, and many use it specifically as a layover base given its hourly shuttle service to both KLIA terminals and Mitsui Outlet Park. Reviews are more mixed on service consistency, with a subset flagging cleanliness lapses and the advertised executive lounge being closed with guests redirected to a café instead, even as most guests still rate the airport-transit convenience highly.",
+  "core_facts": {
+    "address": "Kompleks TH Sepang, Jalan Masjid KLIA, Sepang, Selangor Darul Ehsan 64000, Malaysia",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Sepang / KLIA",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "distance_from_airport_km": 5
+  },
+  "pros": [
+    "332 rooms about 10 minutes from KLIA, with hourly shuttle service to both terminals",
+    "Muslim-friendly 5-star property serving non-alcoholic dining across two restaurants",
+    "17 meeting rooms and a ballroom for up to 2,800 guests, suited to conferences near the airport",
+    "Daily chocolate hour and welcome drinks draw consistent guest praise",
+    "Green Globe certified for sustainability practices"
+  ],
+  "cons": [
+    "The advertised executive lounge has been closed, with guests redirected to a café area instead",
+    "A subset of reviews flag cleanliness and in-room condition issues below the hotel's own service standard"
+  ],
+  "research_highlights": [
+    "The grand lobby architecture and comfortable rooms draw consistent praise as a layover stop",
+    "Guests repeatedly highlight the hourly airport shuttle and daily chocolate hour",
+    "Many reviewers specifically book it for short transit stays before early flights"
+  ],
+  "research_watchouts": [
+    "The executive lounge advertised on in-lift screens is currently closed, a discrepancy multiple reviews call out",
+    "Some recent reviews describe cleanliness lapses the hotel has acknowledged fall below its standard"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Mövenpick Hotel & Convention Centre KLIA from the airport?",
+      "answer": "About 10 minutes by road from Kuala Lumpur International Airport, with an hourly shuttle service connecting the hotel to both KLIA terminals, making it a popular choice for travelers wanting a short, comfortable stay before or after a flight."
+    },
+    {
+      "question": "Is Mövenpick Hotel & Convention Centre KLIA alcohol-free?",
+      "answer": "Yes -- it operates as a Muslim-friendly hotel, serving non-alcoholic food and beverages across its restaurants, alongside facilities like a female-only pool session, making it a common choice for Muslim travelers and families passing through KLIA."
+    }
+  ],
+  "tags": ["airport hotel", "muslim-friendly", "convention centre"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4P4/index.en.shtml",
+      "label": "Official Mövenpick Hotel & Convention Centre KLIA page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298314-d14792576-Reviews-Movenpick_Hotel_And_Convention_Centre_Klia-Sepang_Sepang_District_Selangor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B4P4/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-kuala-lumpur-city-centre", "ibis-kuala-lumpur-city-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mövenpick Hotel And Convention Centre Klia Hotel Review | Free Shutte to KLIA",
+        "channel": "Chubby Go Travel",
+        "url": "https://www.youtube.com/watch?v=Nmc9UC3G_HE",
+        "video_id": "Nmc9UC3G_HE"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 72,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 68 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 66 }
+    ]
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

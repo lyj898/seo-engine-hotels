@@ -1,0 +1,113 @@
+{
+  "entity_id": "tribe-phuket-patong",
+  "slug": "tribe-phuket-patong",
+  "name": "TRIBE Phuket Patong",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 187-room lifestyle hotel in central Patong, about a 5-10 minute walk from the beach and Jungceylon Mall, with design-led rooms and a pool.",
+  "ai_summary": "TRIBE Phuket Patong is the TRIBE brand's first Phuket property, a seven-storey, 187-room lifestyle hotel in central Patong, a short walk from the beach, Jungceylon Mall, and Bangla Road's nightlife. Rooms are design-led, with TRIBE signature beds, 55-inch Smart TVs, and rain showers, and the hotel adds an outdoor pool, 24-hour gym, co-working space, and multiple dining options including a halal-friendly restaurant. Guests consistently praise the stylish, well-kept design and the pool area, with a January 2026 review calling the property 'self-assured, playful, stylish without straining for effect'; a smaller number of guests note the pool is on the small side and that housekeeping restocking could be more consistent.",
+  "core_facts": {
+    "address": "203-2 Phang Mueang, Sai Kor Road, Patong, Kathu District, Phuket 83150, Thailand",
+    "brand_sub_brand": "TRIBE",
+    "neighborhood": "Central Patong",
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "187 design-led rooms with TRIBE signature beds, 55\" Smart TVs, and rain showers",
+    "Central Patong location, about a 5-10 minute walk to the beach and Jungceylon Mall",
+    "Outdoor pool, 24-hour gym, and co-working space on-site",
+    "Multiple dining options including a halal-friendly restaurant (3 Uncles & a Barman)",
+    "Ranked #15 of over 1,100 Phuket hotels on TripAdvisor, rated 4/5"
+  ],
+  "cons": [
+    "A subset of guests describe the pool as small",
+    "Some reviews note amenities weren't always restocked promptly and staff seemed stretched at busy times"
+  ],
+  "research_highlights": [
+    "A January 2026 review from The Hotel Journal praised the property's design as blending Phuket heritage with contemporary style across rooms and dining",
+    "TripAdvisor shows a 4.5/5 rating from around 642 reviews, with location and atmosphere scoring especially high",
+    "The hotel is the first TRIBE-branded property to open in Phuket"
+  ],
+  "research_watchouts": [
+    "As a newer opening, guest review volume is still smaller than long-established Patong hotels",
+    "A July 2026 guest review flagged inconsistent amenity restocking and stretched-feeling staff -- an isolated but notable data point"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is TRIBE Phuket Patong from Patong Beach?",
+      "answer": "It's about a 5-10 minute walk from the hotel to Patong Beach, and a similarly short walk to Jungceylon Mall and Bangla Road's nightlife district. The central location makes it convenient for guests who want to be close to Patong's restaurants, shopping, and beach access without staying directly on the waterfront."
+    },
+    {
+      "question": "What kind of rooms does TRIBE Phuket Patong have?",
+      "answer": "The hotel offers 187 design-led rooms across several categories, from TRIBE Essential King rooms up to larger TRIBE Max Suites with separate living and sleeping areas. Rooms include TRIBE's signature beds, 55-inch Smart TVs with screen mirroring, private balconies, and rain showers stocked with Kevin Murphy amenities."
+    }
+  ],
+  "tags": ["patong beach", "lifestyle hotel", "jungceylon"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A742/index.en.shtml",
+      "label": "Official TRIBE Phuket Patong page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.co.uk/Hotel_Review-g297930-d32878360-Reviews-Tribe_Phuket_Patong-Patong_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://thehoteljournal.com/tribe-phuket-patong-review-thailand/",
+      "label": "The Hotel Journal -- TRIBE Phuket Patong review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A742/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-phuket-patong", "novotel-phuket-kamala-beach"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "TRIBE Phuket Patong Review",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/tribe-phuket-patong-review-thailand/",
+        "published_date": "2026-01-09",
+        "summary": "Calls the hotel 'self-assured, playful, stylish without straining for effect,' praising its design blending Phuket heritage with contemporary style, dining options, and well-appointed rooms."
+      }
+    ],
+    "videos": [
+      {
+        "title": "TRIBE Phuket Patong Complete Tour 4K - Room, Pool, Breakfast Included",
+        "channel": "10,000 Hotels",
+        "url": "https://www.youtube.com/watch?v=BEtbJqll1-4",
+        "video_id": "BEtbJqll1-4"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

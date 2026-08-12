@@ -1,0 +1,114 @@
+{
+  "entity_id": "movenpick-living-west-hanoi",
+  "slug": "movenpick-living-west-hanoi",
+  "name": "Mövenpick Living West Hanoi",
+  "category_id": "accor-all",
+  "region_id": "hanoi",
+  "short_description": "A 196-room hotel and residence property in Hanoi's Cau Giay business district, open since November 2023, with an indoor saltwater pool and Executive Lounge.",
+  "ai_summary": "Mövenpick Living West Hanoi is a 196-room hotel and serviced-residence property that opened on 1 November 2023 in Hanoi's newer Cau Giay business district, on Duy Tan Street. It's positioned for business and leisure travellers who don't need to be in the Old Quarter, with an indoor saltwater pool, gym and sauna, Executive Lounge, and a 273 sqm ballroom with three meeting rooms. Guest reviews on TripAdvisor rank it #1 of 23 hotels in its district at 4/5 from roughly 526 reviews, with a August 2025 blog review praising the comfortable mattresses, quiet rooms, and wood flooring, alongside the brand's signature Chocolate Hour. The main trade-off noted by reviewers is the added travel time to reach the Old Quarter's sights.",
+  "core_facts": {
+    "address": "21 Duy Tan Street, Cau Giay District, Hanoi 100000, Vietnam",
+    "brand_sub_brand": "Mövenpick Living",
+    "neighborhood": "Cau Giay business district",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "196 rooms and suites in Hanoi's newer Cau Giay business district, open since November 2023",
+    "Indoor saltwater pool, gym, sauna, and an Executive Lounge on-site",
+    "Comfortable mattresses, wood flooring, and quiet rooms praised in an independent blog review",
+    "Toto Washlet bathroom fittings and the brand's signature Chocolate Hour",
+    "Ranked #1 of 23 hotels in its district on TripAdvisor, 4/5 from roughly 526 reviews"
+  ],
+  "cons": [
+    "Further from the Old Quarter than central Hanoi hotels, requiring extra travel time for sightseeing",
+    "As a hotel that opened in late 2023, its review base is still smaller than long-established central Hanoi properties"
+  ],
+  "research_highlights": [
+    "An August 2025 blog review (Taiwan Meanderings) praised the comfortable mattress, quiet environment, and reasonable pricing given the business-district location",
+    "TripAdvisor shows a 4/5 rating from about 526 reviews, ranking #1 of 23 hotels in its district",
+    "The hotel is positioned near My Dinh National Stadium (about 3.5km) and the National Convention Center (about 3.1km)"
+  ],
+  "research_watchouts": [
+    "TripAdvisor's location tag for this property references Nam Tu Liem/Tu Liem, while the hotel's own official address places it on Duy Tan Street in Cau Giay District -- both areas border each other in this part of Hanoi, and the official Cau Giay address is used here",
+    "Being a late-2023 opening, it's more established than a brand-new hotel but still has a shorter review history than Hanoi's long-running five-star properties"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Mövenpick Living West Hanoi open?",
+      "answer": "The hotel opened on 1 November 2023 in Hanoi's Cau Giay business district. It offers 196 rooms and suites plus serviced-residence-style facilities, including an indoor saltwater pool, gym, sauna, and Executive Lounge, aimed at both business travellers and leisure guests wanting a quieter base outside the Old Quarter."
+    },
+    {
+      "question": "Is Mövenpick Living West Hanoi close to the Old Quarter?",
+      "answer": "No -- it's positioned in Hanoi's newer Cau Giay business district on Duy Tan Street, which requires extra travel time to reach the Old Quarter's shops and historic sites. It's better suited to guests prioritizing proximity to My Dinh National Stadium, the National Convention Center, and the surrounding business district."
+    }
+  ],
+  "tags": ["cau giay", "business district", "chocolate hour"],
+  "source_mix": [
+    {
+      "url": "https://movenpick.accor.com/en/asia/vietnam/hanoi/movenpick-living-west-hanoi.html",
+      "label": "Official Mövenpick Living West Hanoi page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g27469010-d21020819-Reviews-Movenpick_Living_West_Hanoi-Nam_T_Liem_Tu_Liem_Hanoi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.taiwanmeanderings.com/2025/08/Movenpick-Living-West-Hanoi.html",
+      "label": "Taiwan Meanderings -- Hanoi Hotel Review: Mövenpick Living West Hanoi",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://movenpick.accor.com/en/asia/vietnam/hanoi/movenpick-living-west-hanoi.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-hotel-hanoi-centre"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hanoi Hotel Review - Movenpick Living West Hanoi (Rooms, Facilities & Chocolate Hour!)",
+        "source": "Taiwan Meanderings",
+        "url": "https://www.taiwanmeanderings.com/2025/08/Movenpick-Living-West-Hanoi.html",
+        "published_date": "2025-08-27",
+        "summary": "Praises the comfortable mattress, quiet environment, wooden flooring, natural light, and reasonable pricing, but notes it's less convenient for exploring Hanoi's Old Quarter."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mövenpick Living West Hanoi | Hanoi, Vietnam | Hotel Review",
+        "channel": "Hotels Room Review",
+        "url": "https://www.youtube.com/watch?v=E6Zzde-e8K0",
+        "video_id": "E6Zzde-e8K0"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 86 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

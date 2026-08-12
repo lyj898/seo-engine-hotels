@@ -1,0 +1,12 @@
+{
+  "region_id": "klia",
+  "slug": "klia",
+  "label": "KLIA",
+  "granularity": "city",
+  "parent_region_id": "malaysia",
+  "short_description": "The Kuala Lumpur International Airport area in Sepang, Selangor -- transit and convention hotels around KLIA and KLIA2.",
+  "intro": "KLIA sits in Sepang, Selangor, roughly 50km south of downtown Kuala Lumpur, and is home to both the KLIA and KLIA2 terminal complexes along with the Sepang International Circuit and Mitsui Outlet Park. Hotels in this cluster are built around transit convenience -- airport shuttles, late check-in for red-eye arrivals, and convention space -- rather than sightseeing, and serve layover travelers, MICE groups, and business visitors more than leisure tourists staying in KL proper.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

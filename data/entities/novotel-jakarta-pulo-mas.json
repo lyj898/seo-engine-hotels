@@ -1,0 +1,106 @@
+{
+  "entity_id": "novotel-jakarta-pulo-mas",
+  "slug": "novotel-jakarta-pulo-mas",
+  "name": "Novotel Jakarta Pulo Mas",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 175-room hotel in Pulo Mas, East Jakarta, opened December 2025, with a 28th-floor Food Exchange restaurant and an infinity pool.",
+  "ai_summary": "Novotel Jakarta Pulo Mas is a newly opened 175-room hotel in Pulo Mas, East Jakarta, which held its grand opening in December 2025. Rooms span six categories, all fitted with the brand's Live N' Dream beds, smart TVs, and work desks, while upper-floor facilities include the Food Exchange restaurant, Lobby Lounge, and Gourmet Bar on the 27th-28th floors, plus an infinity pool, spa, and steam room. The hotel emphasizes an eco-smart design with solar power and water recycling, and early guest feedback highlights spacious, modern rooms and strong breakfast options, while a handful of early reviews mention inconsistent housekeeping and slow responses to special requests -- typical growing pains for a hotel only months into operation.",
+  "core_facts": {
+    "address": "Jalan Pulomas Selatan No 31, Kayu Putih, Kecamatan Pulo Gadung, Jakarta 13210, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Pulo Mas / East Jakarta",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "175 rooms across six categories, all with the brand's Live N' Dream beds and smart TVs",
+    "28th-floor Food Exchange restaurant plus Lobby Lounge/Gourmet Bar with city views",
+    "Infinity pool, spa, steam room, and jacuzzi on upper floors",
+    "Large meeting facilities: a 720-guest ballroom and 11 additional meeting rooms",
+    "Eco-smart design featuring solar power and water recycling"
+  ],
+  "cons": [
+    "A handful of early guest reviews note inconsistent housekeeping and slow responses to special requests",
+    "As a hotel that only opened in December 2025, review volume and long-term track record are still limited"
+  ],
+  "research_highlights": [
+    "Local press (InClover Magazine, Indo Buddies) confirmed the December 2025 grand opening, 175 rooms, and six room categories",
+    "TripAdvisor shows a 4/5 rating from around 173 reviews so far, ranked #243 of 687 Jakarta hotels",
+    "Early guest feedback praises the room views, modern furniture, and breakfast variety"
+  ],
+  "research_watchouts": [
+    "As a hotel open only a few months at the time of research, facts and guest sentiment are based on a limited review sample and may shift as the property matures",
+    "No independently dated blog or press review beyond opening-announcement coverage could be confirmed; guest-review snippets on aggregator sites were used instead of an editorial review"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Novotel Jakarta Pulo Mas open?",
+      "answer": "The hotel held its grand opening in December 2025 in the Pulo Mas area of East Jakarta. It offers 175 rooms across six categories, along with a 28th-floor Food Exchange restaurant, an infinity pool, spa, and large meeting facilities including a 720-guest ballroom, aimed at both business and leisure travellers."
+    },
+    {
+      "question": "What is the neighborhood like around Novotel Jakarta Pulo Mas?",
+      "answer": "The hotel sits in Pulo Mas, East Jakarta, near shopping malls, government offices, hospitals, and sports facilities, with reasonable access to Halim Perdanakusuma International Airport. It's a more residential, business-oriented pocket of the city rather than Jakarta's central tourist districts like Thamrin or Sudirman."
+    }
+  ],
+  "tags": ["east jakarta", "new hotel", "pulo mas"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C252/index.en.shtml",
+      "label": "Official Novotel Jakarta Pulo Mas page on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d34100930-Reviews-Novotel_Jakarta_Pulomas-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://indobuddies.com/happening/novotel-jakarta-pulomas-open/",
+      "label": "Indo Buddies -- Novotel Jakarta Pulomas Opens in East Jakarta",
+      "type": "other",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C252/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-jakarta-gajah-mada", "movenpick-jakarta-city-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Jakarta Pulomas Sekeren Ini?! WAJIB KE SINI SIH!!",
+        "channel": "Langkah Aulia",
+        "url": "https://www.youtube.com/shorts/hZIH4A_1cbc",
+        "video_id": "hZIH4A_1cbc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 74 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 38,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}
