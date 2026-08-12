@@ -1,0 +1,101 @@
+{
+  "entity_id": "movenpick-surabaya-city",
+  "slug": "movenpick-surabaya-city",
+  "name": "Mövenpick Surabaya City",
+  "category_id": "accor-all",
+  "region_id": "surabaya",
+  "short_description": "A 243-room, 5-star Mövenpick on Jalan Ahmad Yani, rebranded from Grand Mercure Surabaya City, with an infinity pool and a 4.9/5 ALL Rating from 2,585 reviews.",
+  "ai_summary": "Mövenpick Surabaya City is a 243-room, 5-star hotel on Jalan Ahmad Yani in Wonocolo, recently rebranded from Grand Mercure Surabaya City to bring Mövenpick's Swiss-inspired hospitality to the city. Rooms range from 33 sqm Superior rooms up to a 182 sqm Presidential Suite, all with 55-inch LED TVs, and the property adds an elevated outdoor infinity pool, fitness centre, spa, and Patita all-day dining restaurant. Guests consistently praise the attentive, welcoming staff and the strong breakfast buffet, with recurring smaller complaints about worn towels, inconsistent in-room WiFi, and noise carrying in from the hallway or nearby rail line.",
+  "core_facts": {
+    "address": "Jl Ahmad Yani No 71, Margorejo, Wonocolo, 60238 Surabaya, Indonesia",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Wonocolo, near Jalan Ahmad Yani",
+    "star_rating": 5,
+    "rooms": 243,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "4.9/5 ALL Rating from 2,585 reviews",
+    "243 rooms and suites from 33 sqm Superior rooms to a 182 sqm Presidential Suite",
+    "Elevated outdoor infinity pool, fitness centre and spa",
+    "Staff service and welcome consistently praised, down to greetings from senior management",
+    "Strong breakfast buffet with an executive chef attentive to guests"
+  ],
+  "cons": [
+    "A subset of reviews note towels showing wear and no longer looking crisp/white",
+    "In-room WiFi and hallway/rail noise come up as recurring smaller complaints"
+  ],
+  "research_highlights": [
+    "The property rebranded from Grand Mercure Surabaya City to Mövenpick Surabaya City, and several reviews still reference the transition",
+    "Service quality -- from front-desk greetings to the executive chef's attention to guests -- is the most consistently cited strength",
+    "Located on the busy Jalan Ahmad Yani corridor near business districts, hospitals, universities and shopping"
+  ],
+  "research_watchouts": [
+    "Some guests mention hallway noise and passing trains audible from certain rooms",
+    "In-room WiFi reliability comes up as an inconsistent point across reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Was Mövenpick Surabaya City previously a different hotel?",
+      "answer": "Yes -- the property was previously operated as Grand Mercure Surabaya City and has since rebranded to Mövenpick Surabaya City under Accor. Guests and review platforms still occasionally reference the older name, but the physical hotel and its 243 rooms are unchanged."
+    },
+    {
+      "question": "What is near Mövenpick Surabaya City?",
+      "answer": "The hotel sits on Jalan Ahmad Yani close to Surabaya's business districts, hospitals, universities and shopping malls, about 20 minutes by car from Juanda International Airport, roughly 30 minutes from Surabaya Zoo, and an easy walk from Margorejo railway station."
+    }
+  ],
+  "tags": ["ahmad yani", "wonocolo", "infinity pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B208/index.en.shtml",
+      "label": "Accor ALL — Mövenpick Surabaya City official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297715-d17783309-Reviews-Movenpick_Surabaya_City-Surabaya_East_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B208/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-jakarta-city-centre", "mercure-surabaya-grand-mirama"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Review Hotel Grand Mercure - Movenpick || Surabaya City || Recommended",
+        "channel": "Kenzo FunJoy Family",
+        "url": "https://www.youtube.com/watch?v=BK6IJU8Ybig",
+        "video_id": "BK6IJU8Ybig"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

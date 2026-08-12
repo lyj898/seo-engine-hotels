@@ -1,0 +1,12 @@
+{
+  "region_id": "padang",
+  "slug": "padang",
+  "label": "Padang",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "West Sumatra's coastal capital, a gateway to Minangkabau culture, Padang cuisine, and the Mentawai Islands.",
+  "intro": "Padang, West Sumatra's provincial capital, sits on the Indian Ocean coast and serves as the region's main gateway to Minangkabau culture, its distinctive rumah gadang architecture, and the nasi Padang cuisine that takes the city's name worldwide. Hotel coverage here is concentrated in the compact city center near Padang Beach, within reach of the Great Mosque of West Sumatra and Siti Nurbaya Bridge, and served by Minangkabau International Airport about 20 minutes away. The city is also a common jumping-off point for surfers and divers heading to the Mentawai Islands.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

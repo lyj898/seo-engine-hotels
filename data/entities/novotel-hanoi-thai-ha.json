@@ -1,0 +1,105 @@
+{
+  "entity_id": "novotel-hanoi-thai-ha",
+  "slug": "novotel-hanoi-thai-ha",
+  "name": "Novotel Hanoi Thai Ha",
+  "category_id": "accor-all",
+  "region_id": "hanoi",
+  "short_description": "A 343-room, 27-storey Novotel in Hanoi's Dong Da District, opened 2020, a 10-minute drive from the Temple of Literature and Old Quarter.",
+  "ai_summary": "Novotel Hanoi Thai Ha is a 343-room, 27-storey city hotel on Thai Ha Street in Dong Da District, opened in 2020 and roughly a 10-minute drive from the Temple of Literature, Hoan Kiem Lake, and Hanoi's Old Quarter. Rooms range from Superior and Deluxe categories to Executive Apartments and Suites, several with kitchenettes and washing machines suited to longer stays, alongside a 6th-floor outdoor pool, In Balance Spa, Kids Club, and the Food Exchange restaurant. Guests consistently praise the spacious rooms and bathrooms, city views, and attentive staff, with the Deluxe apartments singled out for size and layout, though a subset of more recent reviews flag maintenance wear -- leaky showers, sticking bathroom doors -- and occasional inconsistency at check-in as the property moves past its opening years.",
+  "core_facts": {
+    "address": "2 Thai Ha Street, Trung Liet Ward, Dong Da District, Hanoi, Vietnam",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Dong Da District / Thai Ha",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "343 rooms across Superior, Deluxe, Executive Apartment, and Suite categories, several with kitchenettes for longer stays",
+    "Central Dong Da location, about a 10-minute drive from the Temple of Literature and Hoan Kiem Lake",
+    "6th-floor outdoor pool with city views, plus In Balance Spa, Kids Club, and fitness center",
+    "Spacious rooms and bathrooms consistently praised, including soaker tubs in higher categories",
+    "Friendly, attentive staff repeatedly highlighted across guest reviews"
+  ],
+  "cons": [
+    "A subset of 2025-2026 reviews mention maintenance wear -- leaky showers and sticking bathroom doors -- as the property ages past its 2020 opening",
+    "Some guests report inconsistent check-in service despite generally positive staff feedback overall"
+  ],
+  "research_highlights": [
+    "343-room, 27-storey property opened in 2020, one of the newer Novotels in central Hanoi",
+    "Spacious rooms, city views, and attentive staff draw consistent guest praise",
+    "Executive Apartments with kitchenette and washing machine make it a practical option for longer stays"
+  ],
+  "research_watchouts": [
+    "A subset of recent reviews flag maintenance issues (leaks, doors) and occasional check-in inconsistency",
+    "Sits in Dong Da District rather than the Old Quarter itself, still a short drive to major sights"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How many rooms does Novotel Hanoi Thai Ha have?",
+      "answer": "The hotel has 343 rooms and suites spread across 27 storeys, spanning Superior and Deluxe rooms, Executive Apartments, and Suites. The apartments and larger categories add kitchenettes, washing machines, and separate living areas, which particularly suit guests staying for extended business trips or traveling as a family over multiple nights."
+    },
+    {
+      "question": "How far is Novotel Hanoi Thai Ha from Hanoi's Old Quarter?",
+      "answer": "It sits in Dong Da District, roughly a 10-minute drive from the city center and within reach of the Temple of Literature, Hoan Kiem Lake, and the Old Quarter, while Noi Bai International Airport is about a 45-minute drive away, making it a practical base rather than a walk-to-everything location."
+    }
+  ],
+  "tags": ["dong da district", "temple of literature", "executive apartments"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9692/index.en.shtml",
+      "label": "Official Novotel Hanoi Thai Ha page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://novotelhanoithaiha.com/",
+      "label": "Official Novotel Hanoi Thai Ha website",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293924-d20212207-Reviews-Novotel_Hanoi_Thai_Ha-Hanoi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://novotelhanoithaiha.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-suites-hanoi", "pullman-hanoi"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Hanoi Thai Ha - This Place Is Worth It | Hanoi, Vietnam",
+        "channel": "Vietnam Stay Guide",
+        "url": "https://www.youtube.com/watch?v=R_1hGcHBBoo",
+        "video_id": "R_1hGcHBBoo"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

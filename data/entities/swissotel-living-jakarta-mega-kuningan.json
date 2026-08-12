@@ -1,0 +1,114 @@
+{
+  "entity_id": "swissotel-living-jakarta-mega-kuningan",
+  "slug": "swissotel-living-jakarta-mega-kuningan",
+  "name": "Swissôtel Living Jakarta Mega Kuningan",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 240-unit serviced-apartment property in Mega Kuningan that opened April 2025 as Swissôtel Living's debut in Asia, with full kitchens and renewable-energy-powered operations.",
+  "ai_summary": "Swissôtel Living Jakarta Mega Kuningan opened its doors on 1 April 2025 in South Jakarta's Kuningan Timur district, marking Swissôtel Living's first property in Asia. Developed by Tokyu Land Indonesia with Japanese infrastructure investment partners, the 240-unit building offers studios through three-bedroom residences, each with a private kitchen, induction stove, and in-room washer/dryer, and it runs entirely on renewable-energy electricity certificates. Early guests praise the attentive, welcoming service, the well-equipped units, and amenities like the Embers Open-Fire Grill and outdoor pool, though as a 2025 opening the property still has a comparatively short public review history.",
+  "core_facts": {
+    "address": "Jl. Guru Mughni Kav. 10-3 No. 5, Kuningan Timur, Setiabudi, South Jakarta 12930, Indonesia",
+    "brand_sub_brand": "Swissôtel Living",
+    "neighborhood": "Kuningan Timur, Mega Kuningan",
+    "rooms": 240,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Opened April 2025 -- brand-new building and furnishings",
+    "240 serviced residences (studio to three-bedroom), each with a full kitchen and in-room washer/dryer",
+    "Swissôtel Living's debut property in Asia, developed with Japanese infrastructure and construction partners",
+    "Powered entirely by renewable-energy electricity certificates, one of Indonesia's first serviced apartments to do so",
+    "Early guests consistently praise attentive staff and welcome touches"
+  ],
+  "cons": [
+    "As a 2025 opening, the public review base is still comparatively thin",
+    "Serviced-apartment format suits long-stay guests more than travelers wanting classic full hotel service"
+  ],
+  "research_highlights": [
+    "Marks Swissôtel Living's first Asian property, developed by Tokyu Land Indonesia with Japan Overseas Infrastructure Investment Corporation",
+    "240 units run entirely on non-fossil-fuel electricity via renewable energy certificates",
+    "Sits within a broader ~10,000 sqm Mega Kuningan mixed-use development alongside condominiums and commercial space"
+  ],
+  "research_watchouts": [
+    "Being a new 2025 opening, longer-term reliability and consistency signals are still limited",
+    "As a serviced-apartment concept, in-room facilities and service style differ from a conventional hotel stay"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Swissôtel Living Jakarta Mega Kuningan open?",
+      "answer": "It welcomed its first guests on 1 April 2025, making it a genuinely new property and Swissôtel Living's debut in Asia. It was developed by Tokyu Land Indonesia together with Japanese infrastructure investment partners as part of a larger Mega Kuningan mixed-use project."
+    },
+    {
+      "question": "Is Swissôtel Living Jakarta Mega Kuningan a hotel or an apartment?",
+      "answer": "It's a serviced-apartment property built for both short and long stays, with 240 units from studios to three-bedroom residences, each including a private kitchen with induction stove and an in-room washer/dryer, alongside hotel-style amenities like a gym, pool and restaurant."
+    }
+  ],
+  "tags": ["mega kuningan", "serviced apartments", "new opening 2025"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B764/index.en.shtml",
+      "label": "Accor ALL — Swissôtel Living Jakarta Mega Kuningan official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d32842612-Reviews-Swissotel_Living_Jakarta_Mega_Kuningan-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.nowjakarta.co.id/swissotel-living-opens-in-jakartas-mega-kuningan-blending-comfort-and-sustainable-living/",
+      "label": "NOW! Jakarta — opening coverage",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/B764/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ritz-carlton-jakarta-mega-kuningan", "swissotel-jakarta-pik-avenue"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Swissôtel Living Opens in Jakarta's Mega Kuningan, Blending Comfort and Sustainable Living",
+        "source": "NOW! Jakarta",
+        "url": "https://www.nowjakarta.co.id/swissotel-living-opens-in-jakartas-mega-kuningan-blending-comfort-and-sustainable-living/",
+        "published_date": "2025-04-17",
+        "summary": "Covers the April 2025 opening of Swissôtel Living's first Asian property: 240 studio-to-three-bedroom units, full kitchens, and operations powered entirely by renewable energy certificates."
+      }
+    ],
+    "videos": [
+      {
+        "title": "4K | Swissotel Living Mega Kuningan Jakarta: FULL TOUR! Room, Pool, Gym & Breakfast #jakarta",
+        "channel": "Bigsurf Channel",
+        "url": "https://www.youtube.com/watch?v=n4-4Ayklqmc",
+        "video_id": "n4-4Ayklqmc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

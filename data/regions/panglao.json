@@ -1,0 +1,12 @@
+{
+  "region_id": "panglao",
+  "slug": "panglao",
+  "label": "Panglao",
+  "granularity": "city",
+  "parent_region_id": "philippines",
+  "short_description": "Bohol's beach-resort island, home to Alona Beach and Bohol-Panglao International Airport.",
+  "intro": "Panglao is the largest of the small islands off Bohol in the central Philippines, connected to the main island by two bridges from the provincial capital, Tagbilaran City. It's the hub of Bohol's tourism industry, built around Alona Beach's dense strip of resorts, dive shops and restaurants, and served directly by Bohol-Panglao International Airport, which opened in 2018 a short drive from most hotels. The island suits beach and dive-focused stays, with Bohol's countryside attractions -- the Chocolate Hills and tarsier sanctuaries -- reachable as day trips from resort bases here.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

@@ -1,0 +1,101 @@
+{
+  "entity_id": "mercure-padang",
+  "slug": "mercure-padang",
+  "name": "Mercure Padang",
+  "category_id": "accor-all",
+  "region_id": "padang",
+  "short_description": "A 146-room, 4-star Mercure one block from Padang Beach in the city center, about 20 minutes from Minangkabau International Airport, with a large pool and 6 meeting rooms.",
+  "ai_summary": "Mercure Padang is a 146-room, 4-star hotel on Jalan Purus IV in central Padang, roughly one block from Padang Beach and the Indian Ocean, and about 20 minutes by car from Minangkabau International Airport. The property centers on a large swimming pool, Fit Life Gym, spa, and the Atlantis Restaurant serving Western, Chinese and Indonesian food, with 6 meeting rooms and a 1,105 sqm largest space for events up to 1,200 seated. Guests consistently praise the clean, comfortable rooms, friendly and soft-spoken front-desk service, and a varied buffet breakfast, while a subset of reviews flag slow room service and kitchen strain when a large group checks in at once.",
+  "core_facts": {
+    "address": "Jl. Purus IV No. 8, Padang, West Sumatra 25115, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Padang city center, near Padang Beach",
+    "star_rating": 4,
+    "rooms": 146,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About one block from Padang Beach and the Indian Ocean",
+    "146 rooms with a 4.6/5 ALL Rating",
+    "Large swimming pool, Fit Life Gym and spa on-site",
+    "6 meeting rooms including a 1,105 sqm space for up to 1,200 seated guests",
+    "Friendly, soft-spoken front-desk service and a varied buffet breakfast draw consistent praise"
+  ],
+  "cons": [
+    "Room service reported as slow at times",
+    "Kitchen can struggle to keep pace when a large group checks in at once"
+  ],
+  "research_highlights": [
+    "The Padang Beach-adjacent, city-center location is the property's most consistently cited strength",
+    "Breakfast variety and staff friendliness come up repeatedly across recent reviews",
+    "Event capacity (1,105 sqm largest meeting room, up to 1,200 seated) makes it a default Padang conference venue"
+  ],
+  "research_watchouts": [
+    "A subset of reviews describe slow room service",
+    "One review noted a 2-hour food wait when kitchen staff were unprepared for a large group"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How close is Mercure Padang to Padang Beach?",
+      "answer": "It's about one block from Padang Beach on the Indian Ocean coast, putting the hotel's 146 rooms within easy walking distance of the beachfront while still sitting centrally enough to reach the city's business district and landmarks like Siti Nurbaya Bridge."
+    },
+    {
+      "question": "Does Mercure Padang have facilities for conferences and events?",
+      "answer": "Yes -- it has 6 meeting rooms, including a 1,105 sqm space that can seat up to 1,200 guests or host 900 for a banquet, making it one of the larger event venues in Padang alongside its swimming pool, gym and Atlantis Restaurant."
+    }
+  ],
+  "tags": ["padang beach", "city center", "event space"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7854/index.en.shtml",
+      "label": "Accor ALL — Mercure Padang official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297726-d2443385-Reviews-Mercure_Padang-Padang_West_Sumatra_Sumatra.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/7854/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-palembang-hotel-residence"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Review Hotel Mercure Padang",
+        "channel": "NananK GothanK",
+        "url": "https://www.youtube.com/watch?v=ag5E7pKKvso",
+        "video_id": "ag5E7pKKvso"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+  "region_id": "khao-yai",
+  "slug": "khao-yai",
+  "label": "Khao Yai",
+  "granularity": "city",
+  "parent_region_id": "thailand",
+  "short_description": "Mountain resorts and vineyard country around Khao Yai National Park, roughly 2-3 hours from Bangkok.",
+  "intro": "Khao Yai's hotels in this directory cluster around Pak Chong district in Nakhon Ratchasima province, the main gateway to Khao Yai National Park -- Thailand's oldest national park and a UNESCO World Heritage Site. The area is also one of Thailand's two wine-producing regions, with vineyards like PB Valley and GranMonte drawing day-trippers, and its cooler upland climate has made it a weekend-escape destination nicknamed the \"Europe of Thailand,\" known for European-style architecture, golf courses, and countryside resorts rather than beach or city hotels.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

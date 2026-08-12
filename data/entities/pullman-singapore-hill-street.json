@@ -1,0 +1,115 @@
+{
+  "entity_id": "pullman-singapore-hill-street",
+  "slug": "pullman-singapore-hill-street",
+  "name": "Pullman Singapore Hill Street",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 350-room 5-star Pullman that opened in October 2023 on Hill Street in Singapore's Civic District, steps from City Hall MRT and Clarke Quay.",
+  "ai_summary": "Pullman Singapore Hill Street opened on 1 October 2023 on Hill Street in Singapore's Civic District, a five-minute walk from City Hall MRT with direct underground access, and close to Fort Canning Park and Clarke Quay. The 350-room hotel leans into a railway-junction design theme referencing the Pullman brand's 19th-century train heritage, with three dining and drinking concepts -- Madison's, Japanese izakaya MOGA, and rooftop bar El Chido -- plus two outdoor pools including a rooftop infinity pool. Guest reviews are strongly positive on the central location, fresh post-opening condition, and one of the larger hotel gyms in Singapore, with more mixed notes on weak shower pressure, air-conditioning that struggles to cool rooms fully, and a pricey breakfast at Madison's.",
+  "core_facts": {
+    "address": "1 Hill Street, Singapore 179949",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Civic District / City Hall",
+    "star_rating": 5,
+    "rooms": 350,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "350 rooms opened October 2023, a five-minute walk (with underground access) to City Hall MRT",
+    "Railway-junction design theme nodding to the Pullman brand's train heritage, blended with contemporary interiors",
+    "Two outdoor pools, including a rooftop infinity pool at El Chido with Marina Bay skyline views",
+    "One of the larger hotel gyms in Singapore, per guest reviews, with 24-hour access",
+    "Three distinct dining concepts on-site: American comfort food at Madison's, Japanese izakaya MOGA, and rooftop bar El Chido"
+  ],
+  "cons": [
+    "Guests report weak shower water pressure and air-conditioning that struggles to hit set temperatures in some rooms",
+    "Breakfast at Madison's is called overpriced by multiple reviewers relative to nearby neighborhood options"
+  ],
+  "research_highlights": [
+    "A February 2024 Her World review called the hotel a 'one-stop luxury' standout among Singapore's new openings, highlighting the Executive Room's Marina Bay views and one of the city's biggest hotel gyms",
+    "A November 2025 blog review reconfirmed the central City Hall MRT location as a standout strength while flagging shower pressure, aircon, and pricey breakfast as recurring gripes",
+    "Room count (350) and the October 2023 opening date are confirmed consistently across the official site and independent listings"
+  ],
+  "research_watchouts": [
+    "Reviews span the hotel's first two years open, so very recent guest experience post-2025 wasn't independently re-verified beyond the November 2025 blog piece",
+    "No independent aggregate rating (TripAdvisor-style score) was pulled into this file beyond individual review summaries"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Pullman Singapore Hill Street from City Hall MRT station?",
+      "answer": "About a 5-minute walk, with a direct underground walkway connection, putting the hotel within easy reach of Marina Bay, the Civic District, Clarke Quay and Fort Canning Park without needing a taxi. It's one of the more centrally located 5-star hotels to open in Singapore in recent years."
+    },
+    {
+      "question": "When did Pullman Singapore Hill Street open?",
+      "answer": "It officially opened on 1 October 2023 with 350 rooms and suites across ten levels. The property is designed around a railway-junction theme referencing the Pullman brand's 19th-century luxury train heritage, paired with contemporary interiors and three on-site dining and drinking venues."
+    }
+  ],
+  "tags": ["civic district", "city hall mrt", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B5L7/index.en.shtml",
+      "label": "Pullman Singapore Hill Street on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.pullmansingaporehillstreet.com/",
+      "label": "Official Pullman Singapore Hill Street page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.herworld.com/life/travel/pullman-singapore-hill-street-hotel-review",
+      "label": "Her World Singapore hotel review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.pullmansingaporehillstreet.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-singapore-orchard", "sofitel-singapore-city-centre"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "One-stop luxury: My review of the new Pullman Singapore Hill Street",
+        "source": "Her World Singapore",
+        "url": "https://www.herworld.com/life/travel/pullman-singapore-hill-street-hotel-review",
+        "published_date": "2024-02-27",
+        "summary": "A positive review of the Executive Room's Marina Bay views, one of Singapore's biggest hotel gyms, two pools, and three dining concepts, calling the hotel a standout among the city's new openings."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Pullman Hill Street - Deluxe Room [Room Tour in 4K]",
+        "channel": "TayterTots92",
+        "url": "https://www.youtube.com/watch?v=kBOcv3rqfqY",
+        "video_id": "kBOcv3rqfqY"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 94 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}
