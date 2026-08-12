@@ -1,0 +1,109 @@
+{
+  "entity_id": "novotel-koh-si-chang",
+  "slug": "novotel-koh-si-chang",
+  "name": "Novotel Koh Si Chang",
+  "category_id": "accor-all",
+  "region_id": "koh-si-chang",
+  "short_description": "A 40-room island resort on Koh Si Chang reached by a 20-minute speedboat from its sister hotel's pier in Sriracha, with sea-view rooms and beachfront pool villas.",
+  "ai_summary": "Novotel Koh Si Chang is a boutique, roughly 40-room island resort that opened in 2020 as the offshore half of a dual-location property with Novotel Marina Sriracha on the mainland, connected by a private pier running a 20-minute speedboat service. Rooms span Island Deluxe sea-view categories through to one- and two-bedroom pool villas with private plunge pools, all with tropical, natural-material design and sea-facing balconies. Guests consistently praise the tranquil, uncrowded setting, an infinity pool overlooking the Gulf of Thailand, attentive staff and fresh seafood-forward dining, with the main watchouts being the island's limited nightlife and dining beyond the resort, and that reaching it depends entirely on the scheduled speedboat crossing rather than a road.",
+  "core_facts": {
+    "address": "333 Tha Thewawong, Koh Si Chang, Chonburi 20120, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Koh Si Chang Island",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Only hotel on Koh Si Chang island, giving genuinely private, uncrowded beach and pool access",
+    "Roughly 40 rooms including sea-view categories and one/two-bedroom pool villas with private plunge pools",
+    "Infinity pool overlooking the Gulf of Thailand, repeatedly praised in guest reviews",
+    "Private-pier speedboat link to sister hotel Novotel Marina Sriracha, about 20 minutes offshore",
+    "Attentive staff and fresh, seafood-forward dining highlighted across reviews"
+  ],
+  "cons": [
+    "Very limited dining and nightlife options beyond the resort, given the island's small size",
+    "Access depends entirely on the scheduled speedboat crossing rather than a road connection, so timing a stay around transfers matters"
+  ],
+  "research_highlights": [
+    "Opened in 2020 as a genuine dual-location hotel with Novotel Marina Sriracha, sharing branding but operating as two distinct properties 20 minutes apart by boat",
+    "At roughly 40 rooms, it's a notably smaller, more boutique property than most other Novotel-branded hotels in this directory",
+    "Sea-view pool villas with private plunge pools are the most consistently praised room category"
+  ],
+  "research_watchouts": [
+    "Room count of 40 comes from an August 2024 Thaiger article; the hotel's own Accor listing does not state a total room count, so treat this figure as reasonably but not fully confirmed",
+    "At least one 2026 guest review noted industrial ships visible near the property from some rooms/lagoon views, worth checking room assignment on booking"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How do you get to Novotel Koh Si Chang?",
+      "answer": "The hotel is reached by a roughly 20-minute speedboat crossing from a private pier at its sister property, Novotel Marina Sriracha, on the mainland -- there's no road access to the island. Guests typically arrange the crossing as part of their booking, and it's the same route used for day-trippers visiting Koh Si Chang."
+    },
+    {
+      "question": "Is Novotel Koh Si Chang a big resort?",
+      "answer": "No -- it's a notably boutique property with roughly 40 rooms, including sea-view categories and one- or two-bedroom pool villas with private plunge pools, making it considerably smaller and more intimate than most other Novotel-branded hotels in Southeast Asia, and the island's only hotel overall."
+    }
+  ],
+  "tags": ["koh si chang", "island resort", "boutique"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C2F8/index.en.shtml",
+      "label": "Accor ALL -- Novotel Koh Si Chang official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g790333-d27729136-Reviews-Novotel_Koh_Si_Chang-Ko_Si_Chang_Chonburi_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C2F8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-marina-sriracha"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "A guide to relaxed getaways at Novotel Marina Koh Si Chang",
+        "source": "The Thaiger",
+        "author": "Cita Catellya",
+        "url": "https://thethaiger.com/travel/thailand-travel/a-guide-to-relaxed-getaways-at-novotel-marina-koh-si-chang",
+        "published_date": "2024-08-09",
+        "summary": "Travel guide describing the island property's roughly 40 rooms, sea-view deluxe rooms and pool villas with private plunge pools, framed as a quiet base for exploring Koh Si Chang's temples and shrines."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Private Pool Villa on a Secret Thai Island! Novotel Koh Si Chang",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=UFuhYQ4UT00",
+        "video_id": "UFuhYQ4UT00"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

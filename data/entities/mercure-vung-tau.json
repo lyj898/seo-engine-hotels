@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-vung-tau",
+  "slug": "mercure-vung-tau",
+  "name": "Mercure Vung Tau",
+  "category_id": "accor-all",
+  "region_id": "vung-tau",
+  "short_description": "An 80-room, Mediterranean-styled beachfront hotel on Vung Tau's Ha Long promenade, with a private beach, infinity pool, and a few minutes from the hydrofoil terminal.",
+  "ai_summary": "Mercure Vung Tau is an 80-room beachfront hotel on the Ha Long seaside promenade, marketed as the first international-branded hotel in Vung Tau City and one of the few properties there with its own private beach. Rooms and suites have private balconies, and on-site facilities include the all-day Breezes Restaurant, a Sunset Lounge, an infinity pool with ocean views, and meeting space for up to 400 guests. Guest reviews consistently praise the private beach, room cleanliness and ocean-view dining, making it a popular weekend pick for Ho Chi Minh City travellers, though some note inconsistent front-desk service and occasional add-on charges beyond the room rate.",
+  "core_facts": {
+    "address": "03-06 Ha Long Street, Ward 2, Vung Tau, Ba Ria-Vung Tau Province, Vietnam",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Ha Long promenade / Back Beach (Bai Sau) area",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "One of the few hotels in Vung Tau with its own private beach",
+    "80 rooms with private balconies and Mediterranean-inspired design",
+    "Infinity pool and Breezes Restaurant both have ocean views",
+    "A few minutes' drive from the hydrofoil terminal, convenient for Ho Chi Minh City weekend trips",
+    "Meeting space for up to 400 guests supports both leisure and MICE demand"
+  ],
+  "cons": [
+    "Some reviews note inconsistent front-desk or reception service",
+    "A few guests report unexpected extra charges beyond the room rate"
+  ],
+  "research_highlights": [
+    "The private beach is repeatedly named as the hotel's standout feature versus other Vung Tau properties",
+    "Room cleanliness and the oceanfront Breezes Restaurant draw consistent praise",
+    "Positioned as a convenient weekend/short-break option for Saigon-based travellers given proximity to the hydrofoil terminal"
+  ],
+  "research_watchouts": [
+    "Room count is reported as both 79 and 80 across booking sites; 80 rooms is the figure most consistently cited by recent listings",
+    "A minority of reviews describe reception/front-desk service as inconsistent"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Does Mercure Vung Tau have a private beach?",
+      "answer": "Yes -- it's one of the few hotels in Vung Tau with its own private beach, along the Ha Long seaside promenade. The 80-room hotel also has an infinity pool with ocean views, the all-day Breezes Restaurant, and a Sunset Lounge, all overlooking the water."
+    },
+    {
+      "question": "How far is Mercure Vung Tau from Ho Chi Minh City?",
+      "answer": "Vung Tau is roughly 1.5-2 hours from Ho Chi Minh City by car or hydrofoil, and the hotel sits a few minutes' drive from the hydrofoil terminal, making it a popular weekend getaway for Saigon-based travellers rather than a long-haul resort destination."
+    }
+  ],
+  "tags": ["private beach", "ha long promenade", "weekend getaway"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B738/index.en.shtml",
+      "label": "Official Mercure Vung Tau page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g303946-d1229249-Reviews-Mercure_Vung_Tau-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B738/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-vung-tau"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Review Mercure Vũng Tàu: 1xxx/2N1Đ phòng kèm ăn sáng cho 3 người có đáng tiền?",
+        "channel": "ThanhVinh HoangOanh",
+        "url": "https://www.youtube.com/watch?v=lnHebRwRKQk",
+        "video_id": "lnHebRwRKQk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 74 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

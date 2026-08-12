@@ -1,0 +1,100 @@
+{
+  "entity_id": "ibis-styles-sepang-klia",
+  "slug": "ibis-styles-sepang-klia",
+  "name": "ibis Styles Sepang KLIA",
+  "category_id": "accor-all",
+  "region_id": "klia",
+  "short_description": "A 229-room resort-style hotel 1.2km from KLIA, opened February 2024, with the largest saltwater pool in Sepang and a free airport shuttle.",
+  "ai_summary": "ibis Styles Sepang KLIA opened on February 1, 2024 as a resort-inspired reimagining of the airport layover hotel, sitting just 1.2 km from Kuala Lumpur International Airport. The 229-room property is built around what it calls the largest saltwater-treated pool in Sepang, alongside a complimentary scheduled airport shuttle, sTREATs restaurant, The FIX Lounge, Qi-Forest Spa, and sustainability touches like recycled glass water bottles and solar water heating. Guest reviews consistently highlight the pool and greenery as unusual for an airport hotel, and the free shuttle as a genuine convenience, while a recurring complaint is that breakfast has huge variety but inconsistent quality, and some rooms could use better soundproofing against surrounding noise. It functions primarily as a pre- or post-flight base for transit travelers, families, and visitors to the nearby Sepang International Circuit.",
+  "core_facts": {
+    "address": "Jalan KLIA 1/60, KLIA, 64000 Sepang, Selangor, Malaysia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Sepang / KLIA",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "distance_from_airport_km": 1.2
+  },
+  "pros": [
+    "229 rooms just 1.2 km from KLIA, with a complimentary scheduled airport shuttle",
+    "Largest saltwater-treated pool in Sepang, unusual for an airport-area hotel",
+    "Resort-inspired design opened February 2024 with modern, largely unworn facilities",
+    "Sustainability features including solar water heaters and recycled glass water bottles",
+    "Qi-Forest Spa and an expansive ballroom for up to 300 guests support both leisure and events"
+  ],
+  "cons": [
+    "Breakfast buffet has wide variety but guests describe quality as inconsistent",
+    "Some rooms have noticeable noise bleed from surroundings, suggesting soundproofing could improve"
+  ],
+  "research_highlights": [
+    "The pool and greenery are repeatedly called out as unexpected for an airport hotel, differentiating it from typical KLIA transit properties",
+    "The free scheduled shuttle to KLIA is a consistent draw, though guests note the schedule can lead to overcrowding at peak times",
+    "Trip.com aggregates an 8.8/10 score, notably higher than the 3-of-5 TripAdvisor star rating from 93 reviews"
+  ],
+  "research_watchouts": [
+    "Breakfast quality is a repeated complaint despite the buffet's wide variety",
+    "As a hotel that opened in February 2024, only about two years of guest review history exists to date"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is ibis Styles Sepang KLIA from the airport?",
+      "answer": "The hotel is just 1.2 km from Kuala Lumpur International Airport and offers a complimentary scheduled shuttle service, making it a convenient base for early flights, layovers, or visits to the nearby Sepang International Circuit and Mitsui Outlet Park. It opened on February 1, 2024, as a resort-style reimagining of the typical KLIA transit hotel."
+    },
+    {
+      "question": "Does ibis Styles Sepang KLIA have a pool?",
+      "answer": "Yes -- it features what the hotel describes as the largest saltwater-treated pool in Sepang, a standout amenity for an airport-area property. Combined with the Qi-Forest Spa and surrounding greenery, guests frequently describe the pool as a genuine highlight that sets the hotel apart from typical KLIA layover options."
+    }
+  ],
+  "tags": ["klia airport hotel", "sepang", "saltwater pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B687/index.en.shtml",
+      "label": "Official ibis Styles Sepang KLIA page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298314-d27034581-Reviews-Ibis_Styles_Sepang_KLIA-Sepang_Sepang_District_Selangor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B687/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-klia"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Room Tour - Ibis Styles Hotel in Sepang",
+        "channel": "Sana Sini",
+        "url": "https://www.youtube.com/watch?v=3NXfIWaCLBE",
+        "video_id": "3NXfIWaCLBE"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 68 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

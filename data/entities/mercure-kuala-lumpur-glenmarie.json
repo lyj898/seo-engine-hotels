@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-kuala-lumpur-glenmarie",
+  "slug": "mercure-kuala-lumpur-glenmarie",
+  "name": "Mercure Kuala Lumpur Glenmarie",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 219-room Mercure hotel with 10 executive suites in the Utropolis Glenmarie development, Shah Alam, roughly 40 minutes from KLIA.",
+  "ai_summary": "Mercure Kuala Lumpur Glenmarie is a 219-room hotel plus 10 executive suites set within the Utropolis Glenmarie development in Shah Alam, part of the greater Kuala Lumpur metro area. The property leans into an academic-inspired design that mimics a college library with book-themed decor, alongside a rooftop-accessible pool, Warna All Day Dining restaurant, and six meeting rooms. Guests consistently praise comfortable beds, well-tuned air conditioning, and a varied breakfast buffet, while a subset of reviews describe standard rooms as small, in-room equipment as minimal, and the location as somewhat removed from the main KL/Petaling Jaya scene. Subang Airport is about 18 minutes away and KLIA around 40 minutes, making the hotel more suited to guests with business in the Shah Alam/Glenmarie corridor than to sightseeing-focused stays.",
+  "core_facts": {
+    "address": "Jalan Kontraktor U1/14, Seksyen U1, 40150 Shah Alam, Malaysia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Glenmarie / Shah Alam",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "219 rooms plus 10 executive suites within the Utropolis Glenmarie development",
+    "Distinctive academic/library-themed design that stands out from typical Mercure properties",
+    "Guests consistently praise comfortable beds and well-tuned air conditioning",
+    "Diverse breakfast buffet drawing repeated positive mentions",
+    "Complimentary parking with front-desk validation"
+  ],
+  "cons": [
+    "Some reviews describe standard rooms as small with minimal in-room equipment",
+    "Location is somewhat removed from the main KL/Petaling Jaya scene, better suited to Glenmarie-area business than sightseeing"
+  ],
+  "research_highlights": [
+    "The book-themed, academic-inspired design is repeatedly called out as a distinctive touch versus a standard business hotel",
+    "Comfortable beds and breakfast variety are the most consistent praise points in guest reviews",
+    "Rated 4 of 5 on TripAdvisor, ranked #8 of 29 hotels in Shah Alam from 64 reviews"
+  ],
+  "research_watchouts": [
+    "A subset of reviews note breakfast can lack basics like butter, jam, or cheese on some mornings",
+    "The Glenmarie location sits outside the main KL/PJ tourist and nightlife corridor, roughly 40 minutes from KLIA"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Mercure Kuala Lumpur Glenmarie from the airport?",
+      "answer": "Subang Airport is about 13 km away, roughly an 18-minute drive, while Kuala Lumpur International Airport (KLIA) is around a 40-minute drive. The hotel sits within the Utropolis Glenmarie development in Shah Alam, so it suits guests with business in the Glenmarie/Shah Alam corridor more than travelers prioritizing a short airport transfer."
+    },
+    {
+      "question": "What is distinctive about Mercure Kuala Lumpur Glenmarie's design?",
+      "answer": "The hotel uses an academic-inspired design that cleverly mimics a college library, with book-themed decor and riddle-carved columns throughout public spaces. Combined with a rooftop-accessible pool and Warna All Day Dining restaurant, it gives the property a distinct identity compared to a typical business-focused Mercure hotel in the Klang Valley."
+    }
+  ],
+  "tags": ["shah alam", "glenmarie", "business hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A7M8/index.en.shtml",
+      "label": "Official Mercure Kuala Lumpur Glenmarie page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298316-d23790775-Reviews-Mercure_Kuala_Lumpur_Glenmarie-Shah_Alam_Petaling_District_Selangor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A7M8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-kuala-lumpur-shaw-parade", "mercure-kuala-lumpur-trion"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "[Hotel Review] Mercure Hotel, Kuala Lumpur Glenmarie",
+        "channel": "忙碌妈妈乐",
+        "url": "https://www.youtube.com/watch?v=NXtkHPOex30",
+        "video_id": "NXtkHPOex30"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 68 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

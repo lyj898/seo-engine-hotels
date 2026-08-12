@@ -1,0 +1,116 @@
+{
+  "entity_id": "cassia-phuket",
+  "slug": "cassia-phuket",
+  "name": "Cassia Phuket",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 218-unit serviced-apartment hotel in the Laguna Phuket complex in Bang Tao, with full kitchens in every unit and a free shuttle boat to the beach, 200m away.",
+  "ai_summary": "Cassia Phuket is a serviced-apartment hotel within the Laguna Phuket complex in Bang Tao, opened by Banyan Tree in 2015 as a hybrid of hotel and long-stay apartment living. Its roughly 218 studios, one-bedroom lofts and two-bedroom suites all include full kitchens, and the property markets itself as Phuket's first fully pet-friendly hotel, with in-room pet amenities and a dedicated dog park. It sits about 200 meters from Bang Tao Beach rather than directly on the sand, reached by a free shuttle boat. Guests and independent reviewers consistently praise the friendly, vibrant atmosphere and the practicality of in-suite kitchens for families and pet owners, while recurring complaints cover loud restaurant background music audible in some rooms and mid-range rather than luxury finishes.",
+  "core_facts": {
+    "address": "64 Moo 4, Srisoonthorn Road, Cherngtalay, Thalang, Phuket 83110, Thailand",
+    "brand_sub_brand": "Cassia",
+    "neighborhood": "Laguna Phuket, Bang Tao",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Full kitchen in every unit, from studios to two-bedroom suites, ideal for families and extended stays",
+    "Phuket's first fully pet-friendly hotel, with in-room pet amenities, a dog park and leash-free trails",
+    "Consistently friendly, vibrant staff and atmosphere praised across reviews",
+    "Two swimming pools, a kids' club and Cassia FIT gym on-site",
+    "Free shuttle boat to Bang Tao Beach, about 200m away"
+  ],
+  "cons": [
+    "Not directly beachfront -- about a 200m shuttle-boat ride to reach Bang Tao Beach",
+    "Some rooms above the on-site restaurant report loud background music affecting the stay"
+  ],
+  "research_highlights": [
+    "Marketed and reviewed consistently as Phuket's first genuinely pet-friendly hotel, a distinctive positioning versus other Laguna Phuket properties",
+    "In-suite kitchens across all categories are the most repeated practical praise from guests and reviewers",
+    "Opened by Banyan Tree in October 2015 as a new hybrid hotel/serviced-apartment concept"
+  ],
+  "research_watchouts": [
+    "Unit count varies across sources: 218 (Phuket101, most recent independent count), 221 (Sleeper Magazine at 2015 opening), and figures as high as 308-334 elsewhere that likely mix hotel-bookable units with total owned residences -- this entry uses the 218 figure",
+    "At least one guest review alleges inconsistent treatment of Asian guests around a booking dispute -- an isolated report, not corroborated elsewhere"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Cassia Phuket pet-friendly?",
+      "answer": "Yes -- Cassia Phuket markets itself as Phuket's first fully pet-friendly hotel, offering in-room pet amenities such as memory-foam pet beds, air purifiers and biodegradable waste bags, plus a dedicated dog park and leash-free nature trails near the lotus lagoon, making it a genuine standout for travelers bringing large dogs."
+    },
+    {
+      "question": "Is Cassia Phuket on the beach?",
+      "answer": "Not directly -- the hotel sits about 200 meters back from Bang Tao Beach within the Laguna Phuket complex, and guests reach the sand via a free shuttle boat rather than walking straight out. It's still considered a beach-adjacent stay given the short, included transfer."
+    }
+  ],
+  "tags": ["laguna phuket", "bang tao beach", "pet-friendly"],
+  "source_mix": [
+    {
+      "url": "https://www.cassia.com/thailand/cassia-phuket",
+      "label": "Official Cassia Phuket page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2400063-d8622290-Reviews-Cassia_Phuket-Bang_Tao_Beach_Choeng_Thale_Thalang_District_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.cassia.com/thailand/cassia-phuket",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["homm-suites-laguna", "angsana-laguna-phuket"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Cassia Phuket",
+        "source": "Phuket101",
+        "author": "Willy Thuan",
+        "url": "https://www.phuket101.net/cassia-phuket/",
+        "published_date": "2025-03-21",
+        "summary": "Local Phuket guide calls the property young, vibrant and colourful with very friendly staff, praising in-suite kitchens for families but noting it sits 200m from the beach, reached by shuttle boat."
+      },
+      {
+        "title": "Banyan Tree to open Cassia Phuket",
+        "source": "Sleeper Magazine",
+        "url": "https://www.sleepermagazine.com/stories/projects/banyan-tree-to-open-cassia-phuket/",
+        "published_date": "2015-08-16",
+        "summary": "Hospitality trade publication covers Banyan Tree's new Cassia concept ahead of its October 2015 opening, describing 221 apartment-style residences with kitchens and colourful street-art design."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Cassia Phuket, part of Banyan Group | Phuket, Thailand | Hotel Review",
+        "channel": "Classic Travel World",
+        "url": "https://www.youtube.com/watch?v=ltRu1Sj40t0",
+        "video_id": "ltRu1Sj40t0"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 77,
+    "breakdown": [
+      { "label": "Location", "score": 72 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

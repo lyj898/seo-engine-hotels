@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-selangor-selayang",
+  "slug": "mercure-selangor-selayang",
+  "name": "Mercure Selangor Selayang",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 120-room Mercure hotel in Batu Caves/Selayang, connected to Emerald Avenue Mall, with an indoor infinity pool overlooking the city skyline.",
+  "ai_summary": "Mercure Selangor Selayang is a 120-room hotel in the Batu Caves/Selayang area on Kuala Lumpur's northern edge, connected directly to Emerald Avenue Mall and roughly a 2-minute walk from it. The hotel's signature feature is an indoor infinity pool overlooking the city skyline, alongside Meraki Outlet restaurant serving an Asian and international buffet and a Grand Ballroom accommodating up to 600 guests. Guest reviews describe the rooms as comfortable and well set up, with reliably clean, timely housekeeping and a highly rated breakfast, while some reviewers suggest the hotel could improve maintenance consistency, staff responsiveness, and parking arrangements. Its position near Batu Caves and the FRIM botanical gardens, roughly 20 minutes from KL Sentral by car, makes it a practical base for guests exploring KL's northern attractions rather than the city centre itself.",
+  "core_facts": {
+    "address": "No B G 12 Dataran Emerald, Jalan PS 11 Prima Selayang, Batu Caves, 68100 Selangor, Malaysia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Selayang / Batu Caves",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "120 rooms directly connected to Emerald Avenue Mall, a 2-minute walk to shops and dining",
+    "Indoor infinity pool overlooking the city skyline, a standout amenity for a suburban Mercure",
+    "Guests consistently describe rooms as comfortable, clean, and well set up",
+    "Highly rated breakfast buffet at Meraki Outlet restaurant",
+    "5 km from Batu Caves and 5 km from FRIM botanical gardens for sightseeing"
+  ],
+  "cons": [
+    "Some reviews call for improved maintenance consistency and staff responsiveness",
+    "Parking arrangements have drawn a handful of guest complaints"
+  ],
+  "research_highlights": [
+    "The indoor infinity pool with skyline views is repeatedly highlighted as an unusual feature for the Selayang/Batu Caves area",
+    "Timely, reliable housekeeping and a strong breakfast buffet are consistent praise points",
+    "Direct mall connectivity (Emerald Avenue Mall) is called out as a practical convenience"
+  ],
+  "research_watchouts": [
+    "Guest feedback flags parking and occasional maintenance/staff responsiveness gaps",
+    "The hotel opened in September 2017, so the property is now around nine years old and reviews increasingly reference wear in places"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Mercure Selangor Selayang from Batu Caves?",
+      "answer": "Batu Caves is about 5 km away, roughly a 7-minute drive, making the hotel a practical base for visiting the temple complex. It also sits about 5 km from the FRIM botanical gardens and is directly connected to Emerald Avenue Mall, while KL Sentral railway station is around 17.7 km away, about a 20-minute drive into central Kuala Lumpur."
+    },
+    {
+      "question": "What amenities does Mercure Selangor Selayang offer?",
+      "answer": "The hotel's standout feature is an indoor infinity pool overlooking the surrounding skyline, paired with Meraki Outlet restaurant serving an Asian and international buffet, a fitness centre, and a Grand Ballroom that accommodates up to 600 guests for events. It is also directly connected to Emerald Avenue Mall for shopping and dining."
+    }
+  ],
+  "tags": ["batu caves", "selayang", "indoor pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9280/index.en.shtml",
+      "label": "Official Mercure Selangor Selayang page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g3198092-d13390423-Reviews-Mercure_Selangor_Selayang-Batu_Caves_Selangor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9280/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-kuala-lumpur-shaw-parade", "mercure-kuala-lumpur-trion"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Selangor Selayang | Kuala Lumpur, Malaysia | Hotel Review",
+        "channel": "Malaysia Hotel Diary",
+        "url": "https://www.youtube.com/watch?v=HjkZuig4IgM",
+        "video_id": "HjkZuig4IgM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 75,
+    "breakdown": [
+      { "label": "Location", "score": 72 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

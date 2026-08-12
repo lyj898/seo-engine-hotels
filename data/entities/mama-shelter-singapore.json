@@ -1,0 +1,115 @@
+{
+  "entity_id": "mama-shelter-singapore",
+  "slug": "mama-shelter-singapore",
+  "name": "Mama Shelter Singapore",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 115-room lifestyle hotel on Killiney Road at the edge of Orchard, the French Mama Shelter brand's first Asian property, with a rooftop sky pool and bold, maximalist design.",
+  "ai_summary": "Mama Shelter Singapore opened in mid-2025 on Killiney Road at the edge of Orchard, marking the French lifestyle brand's first outpost in Asia after 20 hotels across France and elsewhere. Its 115 rooms -- including compact 15 sqm bunk-style Small Mamas and 17 sqm Medium Mamas, some with private terraces -- lean into maximalist design, with leopard-print furniture, neon signage, and hand-painted murals, plus a French-American grill restaurant, a lively ground-floor bar, and a rooftop Mama Sky Pool with skyline views. Early reviews from mid-2026 praise the bold, playful design, the rooftop pool, and thoughtful room touches like Dyson hairdryers and smart toilets, while guest feedback flags service still finding its footing, unstable Wi-Fi and TV glitches, tight storage space, and pools on the smaller side. As a design-forward boutique property still in its first year, it's best suited to travellers who want personality and Orchard-fringe convenience over a conventional big-hotel experience.",
+  "core_facts": {
+    "address": "110 Killiney Road, 239549 Singapore, Singapore",
+    "brand_sub_brand": "Mama Shelter",
+    "neighborhood": "Orchard / Killiney Road",
+    "star_rating": 4,
+    "rooms": 115,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "First Mama Shelter property in Asia, bringing the brand's bold, maximalist design to Killiney Road",
+    "Rooftop Mama Sky Pool with skyline views, plus a separate ground-floor pool area",
+    "3-minute walk to Somerset MRT and minutes from Paragon and Orchard Road shopping",
+    "Thoughtful in-room touches such as Dyson hairdryers, smart toilets, and organic toiletries",
+    "Buzzy French-American grill restaurant and bar praised in early reviews for food and cocktails"
+  ],
+  "cons": [
+    "Compact rooms (Small Mama bunk rooms are just 15 sqm) with minimal wardrobe/storage space",
+    "As a hotel in its first year, guest reviews report inconsistent front-desk, restaurant, and housekeeping service, plus occasional Wi-Fi/TV glitches"
+  ],
+  "research_highlights": [
+    "A July 2026 Time Out Singapore review praised the design and rooftop pool while noting minimal wardrobe storage and a cramped morning routine in smaller rooms",
+    "TripAdvisor guest reviews call out an energetic, hands-on ownership presence alongside notes that service needs more time to stabilise, consistent with a hotel in its first year",
+    "The hotel is the first Mama Shelter location in Asia, part of the brand's broader Southeast Asia expansion under Accor"
+  ],
+  "research_watchouts": [
+    "As a mid-2025 opening, the review base is still relatively thin and service consistency is flagged as a work in progress by multiple guest reviewers",
+    "Pool size (both the rooftop and ground-floor pools) is repeatedly described as small; travellers prioritising serious lap swimming should note this"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Mama Shelter Singapore the brand's first hotel in Asia?",
+      "answer": "Yes -- it's Mama Shelter's first property in Asia, joining roughly 20 existing Mama Shelter hotels across France and other markets. It opened in mid-2025 on Killiney Road at the edge of Orchard, bringing the brand's signature bold, maximalist design and playful branding to Singapore for the first time."
+    },
+    {
+      "question": "How far is Mama Shelter Singapore from an MRT station?",
+      "answer": "It's about a 3-minute walk to Somerset MRT station, and just minutes from Paragon shopping mall and the rest of Orchard Road. That makes it one of the more walkable boutique options in the Orchard area for guests who want to explore central Singapore without relying on taxis."
+    }
+  ],
+  "tags": ["orchard", "killiney road", "boutique design hotel"],
+  "source_mix": [
+    {
+      "url": "https://mamashelter.com/singapore/",
+      "label": "Official Mama Shelter Singapore page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://all.accor.com/hotel/C1A7/index.en.shtml",
+      "label": "Mama Shelter Singapore on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d33063133-Reviews-Mama_Shelter_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://mamashelter.com/singapore/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairmont-singapore", "hotel-waterloo-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Mama Shelter Singapore Review: What We Loved About The New Playful French Boutique Hotel In Orchard",
+        "source": "Time Out Singapore",
+        "url": "https://www.timeout.com/singapore/news/mama-shelter-singapore-what-we-loved-about-the-new-playful-french-boutique-hotel-in-orchard-071226",
+        "published_date": "2026-07-12",
+        "summary": "A stay review praising the bold maximalist design and rooftop Mama Sky Pool, while noting minimal wardrobe storage and a limited rooftop breakfast menu."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Explore Mama Shelter: Singapore's Newest Family-Friendly Hotel!",
+        "channel": "Little Steps Asia",
+        "url": "https://www.youtube.com/watch?v=EyLMw-1GcgM",
+        "video_id": "EyLMw-1GcgM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 64 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 70 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

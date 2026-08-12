@@ -1,0 +1,115 @@
+{
+  "entity_id": "novotel-singapore-on-stevens",
+  "slug": "novotel-singapore-on-stevens",
+  "name": "Novotel Singapore on Stevens",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 254-room 4-star hotel on Stevens Road near the Botanic Gardens and Orchard Road, sharing pools and dining with the adjoining Mercure Singapore on Stevens.",
+  "ai_summary": "Novotel Singapore on Stevens opened in late 2017 on Stevens Road, in a quiet pocket of the Orchard District close to the UNESCO-listed Singapore Botanic Gardens, and shares its site and some facilities with the adjoining Mercure Singapore on Stevens. Its roughly 254 rooms lean toward the business and family traveller with an infinity pool, a large outdoor lap pool, a 24-hour gym, and nine dining and bar venues including Food Exchange and L'Aperitif. Guest reviews consistently praise the immaculate housekeeping, spacious-feeling rooms with strong blackout curtains, and attentive service, while the recurring complaint is that the hotel sits a fair walk from the nearest MRT station, so most guests rely on the hotel shuttle, taxis, or ride-hailing to reach Orchard Road and the rest of the city.",
+  "core_facts": {
+    "address": "28 Stevens Road, #01-01, 257878 Singapore, Singapore",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Orchard / Stevens Road",
+    "star_rating": 4,
+    "rooms": 254,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Quiet, greenery-lined Stevens Road setting close to the Singapore Botanic Gardens",
+    "Two pools (infinity pool plus a large outdoor lap pool) and a 24-hour gym",
+    "Nine dining and bar venues on-site, including Food Exchange buffet dining and L'Aperitif bar",
+    "Consistently praised housekeeping and room cleanliness in guest reviews",
+    "Shared facilities and connection with the adjoining Mercure Singapore on Stevens"
+  ],
+  "cons": [
+    "Not within walking distance of an MRT station, so most guests need a taxi, ride-hail, or the hotel shuttle to Orchard Road",
+    "Rooms and bathrooms run compact for a 4-star property, and standard bathrooms have a rain shower rather than a bathtub"
+  ],
+  "research_highlights": [
+    "A February 2018 review called it 'one of the better 4-star properties' near Orchard Road for the price, highlighting Premier Room perks like a Nespresso machine and lounge access",
+    "TripAdvisor ranks it around the top third of Singapore hotels, with cleanliness and staff service the most repeated praise across roughly 2,000 reviews",
+    "The property shares its site, pools, and some public areas with the adjoining Mercure Singapore on Stevens, which opened alongside it in 2017"
+  ],
+  "research_watchouts": [
+    "Lack of MRT proximity is the most consistent guest complaint and worth flagging for travellers without a car or ride-hailing budget",
+    "Room counts cited across booking sites range 254-256; this entry uses the 254 figure from the hotel's current ALL - Accor Live Limitless listing"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Novotel Singapore on Stevens close to an MRT station?",
+      "answer": "Not within easy walking distance -- it's the most common guest complaint in reviews. The hotel sits on Stevens Road near the Botanic Gardens, and most guests rely on a taxi, ride-hailing app, or the hotel's shuttle service to reach Orchard Road, the nearest MRT interchange, and the rest of central Singapore."
+    },
+    {
+      "question": "Does Novotel Singapore on Stevens share facilities with another hotel?",
+      "answer": "Yes -- it sits on the same site as the adjoining Mercure Singapore on Stevens, and the two properties, which opened together in late 2017, share pools and some public areas. Guests booking either hotel can typically access both hotels' pools and several of the nine combined dining and bar venues."
+    }
+  ],
+  "tags": ["orchard district", "stevens road", "botanic gardens"],
+  "source_mix": [
+    {
+      "url": "https://www.novotel-singapore-stevens.com/",
+      "label": "Official Novotel Singapore on Stevens page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://all.accor.com/hotel/9543/index.en.shtml",
+      "label": "Novotel Singapore on Stevens on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d12825240-Reviews-Novotel_Singapore_On_Stevens-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.novotel-singapore-stevens.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-singapore-hill-street", "fairmont-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Novotel Singapore on Stevens (Premier Room) - Affordable Business Hotel near Orchard Road",
+        "source": "The Shutterwhale",
+        "url": "https://theshutterwhale.com/blog/2018/2/12/hotel-review-novotel-singapore-on-stevens-premier-room-affordable-business-hotel-near-orchard-road",
+        "published_date": "2018-02-12",
+        "summary": "A Premier Room stay review praising lounge access, Nespresso machines, and value near Orchard Road, while flagging no nearby MRT and a small bathroom without a bathtub."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hotel Review Novotel Singapore on Stevens",
+        "channel": "Pikart.Travel - Hotel reviews",
+        "url": "https://www.youtube.com/watch?v=wrwL6Jyugf4",
+        "video_id": "wrwL6Jyugf4"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 70 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

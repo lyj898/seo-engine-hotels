@@ -1,0 +1,117 @@
+{
+  "entity_id": "splash-beach-resort-phuket",
+  "slug": "splash-beach-resort-phuket",
+  "name": "Splash Beach Resort Phuket",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 583-room family resort on Mai Khao Beach built around Splash Jungle Water Park, with free guest access to the park's slides, wave pool and lazy river.",
+  "ai_summary": "Splash Beach Resort Phuket is a large, family-focused resort on Mai Khao Beach, Phuket's longest stretch of sand on the island's northwest coast near the airport. Its 583 rooms, suites, apartments and pool villas sit alongside Splash Jungle Water Park, Phuket's largest, which resort guests can enter for free -- a significant value driver given standalone day tickets. Guests consistently praise the friendly, attentive staff, the beachfront pools and the water park itself, while recurring complaints cover cramped rooms for larger families, noise from nearby Phuket International Airport, a roughly 900m walk to reach the beach from some room blocks, and inconsistent water park operating hours reported in 2025. It's best suited to families prioritizing water park access over a quiet beachfront stay.",
+  "core_facts": {
+    "address": "65/47 Moo 4, Mai Khao Soi 4, Thalang, Phuket 83110, Thailand",
+    "brand_sub_brand": "Splash Beach Resort",
+    "neighborhood": "Mai Khao Beach",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Free guest access to Splash Jungle Water Park, Phuket's largest, with a wave pool, lazy river and 12+ slides",
+    "583 rooms, suites, apartments and pool villas across 47 landscaped acres on Mai Khao Beach",
+    "Friendly, attentive staff repeatedly praised across reviews",
+    "Just 15 minutes from Phuket International Airport",
+    "Extensive on-site kids' club with daily supervised activities"
+  ],
+  "cons": [
+    "Rooms can feel cramped for families of more than four, especially standard categories",
+    "Airport noise and a roughly 900m walk to the beach from some room blocks are recurring complaints"
+  ],
+  "research_highlights": [
+    "The bundled water park access is the single biggest draw cited across independent and guest reviews",
+    "Staff friendliness and the kids' club programming draw consistent praise",
+    "Room counts vary by source (583 official vs. 611-615 elsewhere) likely reflecting different accommodation categories counted"
+  ],
+  "research_watchouts": [
+    "2025 guest reviews report water park closures without refunds and some seasonal maintenance downtime -- worth confirming current park hours before booking",
+    "Room count is cited inconsistently across sources (583 to 615); this entry uses the resort's own official-website figure of 583"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is water park access included when staying at Splash Beach Resort Phuket?",
+      "answer": "Yes -- resort guests get free entry to Splash Jungle Water Park, which sits directly within the property and is Phuket's largest, featuring a wave pool, lazy river and more than a dozen slides. Standalone day tickets typically cost over 1,000 baht per adult, making the inclusion a genuine value driver for families."
+    },
+    {
+      "question": "How far is Splash Beach Resort Phuket from the airport?",
+      "answer": "It's about 15 minutes from Phuket International Airport, making it one of the more convenient family resorts for arrivals and departures. Some guests do report hearing aircraft noise from parts of the property given the proximity, so it's worth weighing against the resort's water park and beach access."
+    }
+  ],
+  "tags": ["mai khao beach", "water park", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://www.splashbeachresort.com/",
+      "label": "Official Splash Beach Resort Phuket page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293920-d1778565-Reviews-Splash_Beach_Resort-Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.splashbeachresort.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["le-meridien-phuket-mai-khao"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Splash Beach Resort",
+        "source": "Phuket101",
+        "author": "Willy Thuan",
+        "url": "https://www.phuket101.net/splash-beach-resort/",
+        "published_date": "2025-03-26",
+        "summary": "Local Phuket guide calls out the free water park access as the headline draw, but flags a 900m walk to the beach and 2025 reports of water park closures without refunds."
+      },
+      {
+        "title": "Splash Beach Resort & Water Park Phuket Review",
+        "source": "World of Travels with Kids",
+        "author": "Ariana Svenson",
+        "url": "https://worldoftravelswithkids.com/splash-beach-resort-water-park-phuket-review/",
+        "published_date": "2021-12-01",
+        "summary": "Family travel blogger praises the water park's variety of rides and lifeguard safety, extensive breakfast buffet and plane-spotting bonus, but notes rooms felt cramped for five people."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Splash Beach Resort, Phuket, Thailand. The hotel to watch the airplane take off with water park.",
+        "channel": "LONG TRAN",
+        "url": "https://www.youtube.com/watch?v=7IQhFGQFdE4",
+        "video_id": "7IQhFGQFdE4"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 75,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

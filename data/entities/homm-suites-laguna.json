@@ -1,0 +1,100 @@
+{
+  "entity_id": "homm-suites-laguna",
+  "slug": "homm-suites-laguna",
+  "name": "Homm Suites Laguna",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 79-suite Homm-brand property inside the Laguna Phuket complex in Bang Tao, with golf-course and lagoon-view suites from 65 to 113 sqm and a 15-20 minute walk or shuttle to the beach.",
+  "ai_summary": "Homm Suites Laguna is a 79-suite property within the Laguna Phuket integrated resort complex in Bang Tao, opened in late 2023 as one of the newer additions alongside Banyan Tree Phuket, Angsana Laguna and Cassia Phuket. Suites range from 65 to 113 square meters across three categories, each with a kitchenette, separate living area and views over the golf course, pool or lagoon rather than the sea. Guests consistently call it a spacious, comfortable and comparatively affordable option among the Laguna Phuket properties, with friendly staff and a quiet setting, though recurring complaints cover a single on-site dining venue, inconsistent housekeeping, and a 15-20 minute walk or shuttle ride to reach the beach itself.",
+  "core_facts": {
+    "address": "61 Moo 4, Srisoonthorn Road, Cherngtalay, Thalang, Phuket 83110, Thailand",
+    "brand_sub_brand": "Homm",
+    "neighborhood": "Laguna Phuket, Bang Tao",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "79 spacious suites (65-113 sqm) across three categories, each with a kitchenette and separate living/dining area",
+    "Golf course, pool or lagoon views from private balconies or patios",
+    "Positioned as one of the most affordable options within the Laguna Phuket complex",
+    "Quiet setting with consistently friendly, helpful staff",
+    "18 km / about 25 minutes from Phuket International Airport"
+  ],
+  "cons": [
+    "Only one on-site restaurant, serving breakfast and lunch, with limited dinner options",
+    "15-20 minutes to the beach on foot or via the resort shuttle rather than direct beach access"
+  ],
+  "research_highlights": [
+    "Opened in November 2023 as one of the newest properties inside the Laguna Phuket complex",
+    "Room size and value-for-money versus other Laguna Phuket properties are the most repeated praise",
+    "Golf-course and lagoon views (not sea views) are consistent across all suite categories"
+  ],
+  "research_watchouts": [
+    "Some guests report inconsistent housekeeping standards and noise from AC compressors in certain rooms",
+    "No independent written review from a travel publication could be confirmed at time of research -- only aggregator/guest-review coverage"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Homm Suites Laguna directly on the beach?",
+      "answer": "No -- it sits inside the Laguna Phuket complex overlooking the golf course, pool or lagoon rather than the sea, and reaching Bang Tao Beach takes about 15-20 minutes on foot or via the resort's shuttle service, so it suits guests prioritizing suite space and value over direct beach access."
+    },
+    {
+      "question": "How big are the suites at Homm Suites Laguna?",
+      "answer": "The 79 suites span three categories from roughly 65 to 113 square meters, each including a kitchenette, separate living and dining space, and a king or twin bed configuration. Guests consistently describe the suites as spacious and comfortable relative to comparably priced hotels within the Laguna Phuket complex."
+    }
+  ],
+  "tags": ["laguna phuket", "bang tao beach", "suites"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C2B8/index.en.shtml",
+      "label": "Accor ALL -- Homm Suites Laguna official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1224250-d967908-Reviews-Homm_Suites_Laguna-Choeng_Thale_Thalang_District_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C2B8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["cassia-phuket", "angsana-laguna-phuket"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Homm Suites Laguna, part of Banyan Group | Phuket, Thailand | Hotel Review",
+        "channel": "Thailand Hype Hotels",
+        "url": "https://www.youtube.com/watch?v=MpytlCncfFg",
+        "video_id": "MpytlCncfFg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 72 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 68 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

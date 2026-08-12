@@ -1,0 +1,119 @@
+{
+  "entity_id": "ibis-pjcc-petaling-jaya",
+  "slug": "ibis-pjcc-petaling-jaya",
+  "name": "ibis PJCC Petaling Jaya",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "Accor's debut Petaling Jaya property: a 161-room economy hotel with a rooftop infinity pool, opened November 2023 in Petaling Jaya Commercial Centre.",
+  "ai_summary": "ibis PJCC Petaling Jaya opened on November 23, 2023 as Accor's first hotel in Petaling Jaya, sitting inside the Petaling Jaya Commercial Centre roughly 30 minutes from downtown Kuala Lumpur. The 161-room property is built around an eco-conscious, no-single-use-plastic concept, with a rooftop infinity pool, a third-floor gym, and ibis Kitchen serving buffet breakfast from 7am. Guest reviews are strong for a budget-tier property, with TripAdvisor and Trip.com scores both well above average, and both guests and independent bloggers single out the rooftop pool and sustainability touches as standout features rarely found at this price point. A handful of reviews note that stay quality can depend on how considerate other guests are, a common note for a newly opened hotel still building its regular clientele.",
+  "core_facts": {
+    "address": "1, Jalan PJS 5/29, Taman Desaria, 46150 Petaling Jaya, Selangor, Malaysia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Petaling Jaya Commercial Centre (PJCC)",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Accor's debut hotel in Petaling Jaya, opened November 23, 2023 with all-new facilities",
+    "Rooftop infinity pool (7am-8pm) and third-floor gym, unusual amenities for the ibis economy tier",
+    "No-single-use-plastic policy with wooden toothbrushes and refillable dispensers",
+    "1-minute drive to the NPE highway exit for easy access around the Klang Valley",
+    "Strong review scores for a new budget property: 4/5 on TripAdvisor, 8.4/10 on Trip.com"
+  ],
+  "cons": [
+    "Standard rooms are compact at 20 sq m",
+    "Nearest rail link (Seri Setia station) is a roughly 4-minute drive rather than walking distance"
+  ],
+  "research_highlights": [
+    "Both guest reviews and an independent blog review (Foodveler, Oct 2023) highlight the rooftop pool and sustainability features as standout for the price",
+    "The hotel's newness and cleanliness are repeatedly cited as strengths shortly after opening",
+    "Four meeting rooms accommodating up to 70 delegates support the hotel's use by business travelers"
+  ],
+  "research_watchouts": [
+    "One TripAdvisor review notes stay quality can depend on how well-behaved other guests are, suggesting some noise/shared-space friction",
+    "As a hotel that opened in late 2023, longer-term wear on finishes is not yet reflected in available reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did ibis PJCC Petaling Jaya open?",
+      "answer": "It opened on November 23, 2023, marking Accor's debut property in Petaling Jaya. The 161-room hotel sits inside the Petaling Jaya Commercial Centre and was built around an eco-conscious approach, including a no-single-use-plastic policy across the property, alongside amenities like a rooftop pool not typically found at this price tier."
+    },
+    {
+      "question": "Does ibis PJCC Petaling Jaya have a pool?",
+      "answer": "Yes -- guests have access to a rooftop infinity pool open from 7am to 8pm, along with a third-floor fitness centre. The rooftop setting is frequently highlighted in guest reviews as an unexpected perk for a budget-tier ibis property, especially when paired with the surrounding Petaling Jaya skyline views."
+    }
+  ],
+  "tags": ["petaling jaya", "new hotel", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A8V8/index.en.shtml",
+      "label": "Official ibis PJCC Petaling Jaya page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://press.accor.com/middle-east-africa-turkey-asia-pacific/accor-debuts-in-petaling-jaya-with-the-opening-of-ibis-pjcc-petaling-jaya/?lang=en",
+      "label": "Accor press release: hotel opening announcement",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://foodveler.com/2023/10/ibis-pjcc-en.html",
+      "label": "Foodveler: ibis PJCC hotel review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298313-d25799900-Reviews-Ibis_PJCC_Petaling_Jaya-Petaling_Jaya_Petaling_District_Selangor.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A8V8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-kuala-lumpur-city-centre", "ibis-styles-kuala-lumpur-fraser-business-park"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "ibis PJCC: A Comfortable and Practical Hotel in Petaling Jaya",
+        "source": "Foodveler",
+        "url": "https://foodveler.com/2023/10/ibis-pjcc-en.html",
+        "published_date": "2023-10-29",
+        "summary": "Blogger review calling the new ibis PJCC practical and secure for business/leisure guests, praising the rooftop infinity pool, eco-friendly touches, and minimalist 20 sq m rooms."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ibis PJCC Petaling Jaya Review",
+        "channel": "Sara.BeautyLife",
+        "url": "https://www.youtube.com/watch?v=7S_jgdK_IDg",
+        "video_id": "7S_jgdK_IDg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}
