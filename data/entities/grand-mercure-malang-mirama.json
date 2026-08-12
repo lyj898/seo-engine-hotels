@@ -1,0 +1,104 @@
+{
+  "entity_id": "grand-mercure-malang-mirama",
+  "slug": "grand-mercure-malang-mirama",
+  "name": "Grand Mercure Malang Mirama",
+  "category_id": "accor-all",
+  "region_id": "malang",
+  "short_description": "A 264-room premium hotel on Malang's main commercial route with 11 suites and 2 penthouses, extensive conference space, and mountain views.",
+  "ai_summary": "Grand Mercure Malang Mirama is a 264-room property on Jalan Raden Panji Suroso, one of Malang's main commercial routes, comprising 11 suites and 2 penthouses alongside standard rooms, with interiors drawing on Indonesian batik motifs. The hotel positions itself as a premium option for both business and leisure travelers, with three specialty restaurants (Chinese, Japanese, and Indonesian), a sky lounge, a grand ballroom, and 11 meeting rooms with capacity for up to 2,200 guests, alongside a pool, gym, and health club. It's roughly 10 minutes from Alun-Alun Tugu and 15 minutes from Malang Train Station, and functions as a base for both city business travel and weekend trips to Mount Bromo and the Batu attractions. Guest reviews are consistently strong, frequently calling it one of the best hotels currently in Malang, with particular praise for room comfort, staff warmth, and the breakfast spread, though a handful of reviews flag air conditioning and noise issues in specific rooms.",
+  "core_facts": {
+    "address": "Jalan Raden Panji Suroso No. 7, Malang, East Java 65126, Indonesia",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Blimbing",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Alun-Alun Tugu", "km": 3 },
+      { "label": "Malang Train Station", "km": 4 },
+      { "label": "Batu tourist district", "km": 15 }
+    ]
+  },
+  "pros": [
+    "264 rooms including 11 suites and 2 penthouses, with batik-inspired interior design",
+    "Three specialty restaurants covering Chinese, Japanese, and Indonesian cuisine",
+    "Large conference footprint: 11 meeting rooms with capacity up to 2,200 guests",
+    "Consistently described in guest reviews as among the best hotels currently in Malang",
+    "Convenient base for both Malang city business travel and weekend trips to Mount Bromo and Batu"
+  ],
+  "cons": [
+    "Some reviews flag air conditioning and daytime noise issues in specific rooms",
+    "As a newer premium property, extra charges on some amenities have drawn occasional guest comment"
+  ],
+  "research_highlights": [
+    "Room comfort, staff warmth, and breakfast variety draw consistently strong praise",
+    "Guests frequently describe it as the best or one of the best hotels in Malang at present",
+    "The strategic location for both city access and Bromo/Batu day trips is repeatedly highlighted"
+  ],
+  "research_watchouts": [
+    "A subset of reviews mention air conditioning inconsistencies in certain rooms",
+    "Some guests note noise carrying between rooms or from event spaces"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How many rooms does Grand Mercure Malang Mirama have?",
+      "answer": "264 rooms in total, including 11 suites and 2 penthouses, with interiors that draw on Indonesian batik motifs. It's positioned as a premium hotel on one of Malang's main commercial routes."
+    },
+    {
+      "question": "Is Grand Mercure Malang Mirama a good base for visiting Mount Bromo?",
+      "answer": "Yes -- it's commonly used as an overnight base for Bromo and Batu day trips, roughly 15 minutes from Malang's Batu tourist district, while also serving business travelers given its large conference facilities."
+    }
+  ],
+  "tags": ["batik interiors", "conference hotel", "bromo base"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9824/index.en.shtml",
+      "label": "Official Grand Mercure Malang Mirama page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297710-d23549110-Reviews-Grand_Mercure_Malang_Mirama-Malang_East_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9824/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-yogyakarta-adi-sucipto", "grand-mercure-solo-baru"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Grand Mercure Malang Mirama, Indonesia | Luxury Hotel Review | 365 Nights in Accor Hotels",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=yhszRWCJd0A",
+        "video_id": "yhszRWCJd0A"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

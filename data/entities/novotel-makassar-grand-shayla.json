@@ -1,0 +1,120 @@
+{
+  "entity_id": "novotel-makassar-grand-shayla",
+  "slug": "novotel-makassar-grand-shayla",
+  "name": "Novotel Makassar Grand Shayla",
+  "category_id": "accor-all",
+  "region_id": "makassar",
+  "short_description": "A 4-star Novotel in central Makassar, a 7-minute walk from Losari Beach, with six room categories plus four suite types, a pool, spa, and seven meeting rooms.",
+  "ai_summary": "Novotel Makassar Grand Shayla sits in the Ujung Pandang district of central Makassar, close enough to Losari Beach to reach it on foot in about 7 minutes, with Fort Rotterdam, Karebosi Square, and Trans Studio all within a few kilometers. The Green Key-certified hotel spans six standard room categories and four suite types plus an accessible room option, alongside an outdoor pool, spa, fitness center, kids' club, and seven meeting rooms built around business and MICE travel through South Sulawesi's provincial capital. Guest feedback is generally strong on location, room comfort, and staff friendliness, with a 2025 travel-blog review calling out efficient check-in and a spacious corner suite with city views, though a subset of reviews flag inconsistent housekeeping and occasional air-conditioning issues.",
+  "core_facts": {
+    "address": "Jalan Chairil Anwar No. 28, Ujung Pandang, Makassar 90115, South Sulawesi, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Ujung Pandang / Losari Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Losari Beach", "km": 0.6 },
+      { "label": "Fort Rotterdam", "km": 1.5 },
+      { "label": "Karebosi Square", "km": 1.0 },
+      { "label": "Trans Studio Makassar", "km": 3.5 }
+    ]
+  },
+  "pros": [
+    "A 7-minute walk to Losari Beach's waterfront promenade",
+    "Six room categories plus four suite types, giving a wide range of accommodation options",
+    "Green Key eco-certified, with an outdoor pool, spa, fitness center, and kids' club",
+    "Seven meeting rooms and a ballroom suit business and MICE travel in South Sulawesi's capital",
+    "Central Ujung Pandang location near Fort Rotterdam, Karebosi Square, and Trans Studio"
+  ],
+  "cons": [
+    "A subset of reviews report inconsistent housekeeping, including cleanliness lapses in linens and bathrooms",
+    "Occasional air-conditioning and check-in service inconsistencies noted in guest feedback"
+  ],
+  "research_highlights": [
+    "Guests and a 2025 blog review both highlight quick, efficient check-in and spacious rooms",
+    "The short walk to Losari Beach is repeatedly cited as a key location advantage",
+    "The hotel is positioned as a comfortable stopover for travelers transiting through Makassar to eastern Indonesia"
+  ],
+  "research_watchouts": [
+    "Some guest reviews describe housekeeping and check-in service as inconsistent",
+    "Total room count is reported inconsistently across third-party booking sites, so no single figure is stated here"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Novotel Makassar Grand Shayla from Losari Beach?",
+      "answer": "It's about a 7-minute walk from the hotel to Losari Beach, Makassar's landmark waterfront promenade known for sunset views, according to the hotel's official page. That puts most of the city's waterfront dining and evening activity within easy reach on foot."
+    },
+    {
+      "question": "Does Novotel Makassar Grand Shayla suit business travelers?",
+      "answer": "Yes -- the hotel has seven meeting rooms plus a ballroom, and sits centrally in Makassar's Ujung Pandang district, making it a common choice for MICE and business trips to South Sulawesi's capital."
+    }
+  ],
+  "tags": ["makassar", "losari beach", "business hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8584/index.en.shtml",
+      "label": "Official Novotel Makassar Grand Shayla page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297720-d7771511-Reviews-Novotel_Makassar_Grand_Shayla-Makassar_South_Sulawesi_Sulawesi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://thisisluxurytravel.com/novotel-makassar-grand-shayla-review/",
+      "label": "This is Luxury Travel -- hotel review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8584/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-bandung", "novotel-solo"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Novotel Makassar Grand Shayla Review",
+        "source": "This is Luxury Travel",
+        "author": "Julie",
+        "url": "https://thisisluxurytravel.com/novotel-makassar-grand-shayla-review/",
+        "published_date": "2022-02-27",
+        "summary": "A travel blogger reviews the 4-star Novotel as a comfortable Makassar stopover, covering check-in, a corner suite with city views, dining, and nearby attractions."
+      }
+    ],
+    "videos": [
+      {
+        "title": "REVIEW JUJUR HOTEL NOVOTEL MAKASSAR GRAND SHAYLA",
+        "channel": "Kei Studio",
+        "url": "https://www.youtube.com/watch?v=iL0wGx-p8dM",
+        "video_id": "iL0wGx-p8dM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

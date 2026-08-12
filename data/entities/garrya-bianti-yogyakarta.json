@@ -1,0 +1,105 @@
+{
+  "entity_id": "garrya-bianti-yogyakarta",
+  "slug": "garrya-bianti-yogyakarta",
+  "name": "Garrya Bianti Yogyakarta",
+  "category_id": "accor-all",
+  "region_id": "yogyakarta",
+  "short_description": "A 24-villa riverside resort on the Denggung River north of Yogyakarta, opened January 2024 as Banyan Tree Group's Garrya wellness brand debut in the city.",
+  "ai_summary": "Garrya Bianti Yogyakarta opened in January 2024 in Gabugan Village, Sleman -- north of central Yogyakarta -- as Banyan Tree Group's first Garrya-branded property in the city, a wellness-focused brand built around low-density, design-led villas. The resort has 24 villas along the Denggung River, including Pool View, River View, and expansive Two-Bedroom villa categories, each with a private pool, alongside an infinity pool, the 8lements Spa, and the all-day Refresh restaurant serving Indonesian and international menus. Guest reviews consistently praise the villa privacy and design -- blending traditional Javanese touches with contemporary interiors -- along with attentive staff and the restaurant's Indonesian and Thai dishes, though a handful of reviews note the European menu items underperform relative to the Asian ones, and the riverside Sleman location sits a deliberate distance from Yogyakarta's main tourist sites. As a newer property, review volume is still relatively limited.",
+  "core_facts": {
+    "address": "Gabugan, Pandowoharjo, Sleman, Special Region of Yogyakarta 55512, Indonesia",
+    "brand_sub_brand": "Garrya",
+    "neighborhood": "Sleman",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "24 villas along the Denggung River, each with a private pool, opened January 2024",
+    "Banyan Tree Group's Garrya wellness brand debut in Yogyakarta, distinct from the city's business-hotel cluster",
+    "8lements Spa and an all-day restaurant praised for its Indonesian and Thai menu",
+    "Villa privacy and Javanese-inspired design draw consistently strong guest praise",
+    "Attentive, warm staff service repeatedly highlighted in reviews"
+  ],
+  "cons": [
+    "A deliberate distance from Yogyakarta's main tourist sites, in a quieter Sleman riverside setting",
+    "Some reviews note the restaurant's European dishes are weaker than its Indonesian and Thai options"
+  ],
+  "research_highlights": [
+    "Villa privacy, design, and the Denggung River setting draw consistently strong praise",
+    "Staff attentiveness and the spa are repeatedly highlighted as standouts",
+    "As a January 2024 opening, it's one of the newer luxury properties in the Yogyakarta market"
+  ],
+  "research_watchouts": [
+    "Its Sleman riverside location sits further from central Yogyakarta's temples and old town than most competing hotels",
+    "A handful of reviews mention air-conditioning noise disrupting the resort's otherwise quiet atmosphere"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Garrya Bianti Yogyakarta open?",
+      "answer": "It opened in January 2024 in Gabugan Village, Sleman, as Banyan Tree Group's first Garrya-branded property in Yogyakarta -- a wellness-focused brand built around low-density, design-led villas along the Denggung River."
+    },
+    {
+      "question": "How many villas does Garrya Bianti Yogyakarta have?",
+      "answer": "24 villas in total, spanning Pool View, River View, and larger Two-Bedroom categories, each built with a private pool along the riverside grounds in Sleman, north of central Yogyakarta, keeping the resort's overall density low compared to Yogyakarta's larger city-centre hotels."
+    }
+  ],
+  "tags": ["garrya wellness brand", "denggung river", "private-pool villas"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C270/index.en.shtml",
+      "label": "Official Garrya Bianti Yogyakarta page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.hospitalitynet.org/announcement/41010185.html",
+      "label": "Banyan Tree Group opening announcement, Garrya Bianti Yogyakarta",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2304080-d26572705-Reviews-Garrya_Bianti_Yogyakarta-Sleman_Sleman_District_Yogyakarta_Region_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C270/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-yogyakarta-adi-sucipto", "phoenix-hotel-yogyakarta-handwritten-collection"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Live Well, Travel Well with Garrya Bianti Yogyakarta",
+        "channel": "withBanyan",
+        "url": "https://www.youtube.com/shorts/GNz9T_YYivI",
+        "video_id": "GNz9T_YYivI"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

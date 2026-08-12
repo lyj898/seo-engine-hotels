@@ -1,0 +1,12 @@
+{
+  "region_id": "ha-long-bay",
+  "slug": "ha-long-bay",
+  "label": "Ha Long Bay",
+  "granularity": "city",
+  "parent_region_id": "vietnam",
+  "short_description": "The Bai Chay waterfront hotel strip facing Ha Long Bay's limestone karsts, about 2-3 hours from Hanoi.",
+  "intro": "Ha Long Bay's hotel coverage in this directory centers on Bai Chay, the waterfront district facing the bay's limestone karst islands, roughly 2-3 hours by road from Hanoi. Most visitors treat a land-based hotel here as a base for a bay cruise or day tour rather than the whole trip, so proximity to the cruise-boat piers and Sun World Ha Long Park tends to matter more than deep resort facilities. The area's international-brand hotels are a relatively recent addition to what was historically a market of smaller local properties, and rooms with direct bay views command a real premium.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

@@ -1,0 +1,104 @@
+{
+  "entity_id": "ibis-manado-city-center-boulevard",
+  "slug": "ibis-manado-city-center-boulevard",
+  "name": "ibis Manado City Center Boulevard",
+  "category_id": "accor-all",
+  "region_id": "manado",
+  "short_description": "A 154-room budget hotel directly opposite Manado Town Square mall on the Boulevard waterfront, about 5 minutes from the port for Bunaken Island.",
+  "ai_summary": "ibis Manado City Center Boulevard is an 11-floor, 154-room hotel on Jalan Piere Tendean Boulevard, Manado's waterfront strip, sitting almost directly opposite Manado Town Square mall and roughly 5 minutes from the harbor where boats depart for Bunaken National Marine Park. Rooms are compact but come with the brand's Sweet Bed by ibis bedding, and the hotel runs three meeting rooms plus an all-day restaurant and bar serving both international dishes and Manadonese specialties. Guest feedback consistently praises the location for shopping and diving-trip access, friendly and helpful staff, and a varied breakfast buffet, while reviewers frequently note the rooms themselves run small, in keeping with the budget ibis format.",
+  "core_facts": {
+    "address": "Jl. Piere Tendean Boulevard No. 85, Sario Utara, Manado 95111, North Sulawesi, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Boulevard / Sario",
+    "elite_benefits": [
+      "Discounted member rates and points earning for ALL - Accor Live Limitless members at participating ibis hotels",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Manado Town Square Mall", "km": 0.1 },
+      { "label": "Mega Mas Shopping Center", "km": 0.25 },
+      { "label": "Bunaken Island boat port", "km": 1.5 }
+    ]
+  },
+  "pros": [
+    "Almost directly opposite Manado Town Square mall, a 1-minute walk",
+    "About 5 minutes from the harbor for boats to Bunaken National Marine Park",
+    "154 rooms with Sweet Bed by ibis signature bedding across 11 floors",
+    "Varied breakfast buffet with both international and Manadonese dishes",
+    "Staff repeatedly described as friendly and helpful in guest reviews"
+  ],
+  "cons": [
+    "Rooms run small (around 18 sqm), typical of the budget ibis format",
+    "A limited on-site facility set compared with full-service Accor brands in the same city"
+  ],
+  "research_highlights": [
+    "The Boulevard location opposite Manado Town Square draws consistent praise for shopping and dining convenience",
+    "Proximity to the Bunaken boat port is repeatedly cited by leisure and diving travelers",
+    "Breakfast variety and staff friendliness come up often in guest feedback"
+  ],
+  "research_watchouts": [
+    "Room size is consistently described as compact",
+    "No independent blog review of this specific property could be verified as of this research pass"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is ibis Manado City Center Boulevard close to Bunaken Island?",
+      "answer": "It's not on Bunaken itself, but the hotel sits about 5 minutes from the harbor where boats depart for Bunaken National Marine Park, making it a practical base for divers staging trips to the reefs."
+    },
+    {
+      "question": "What's within walking distance of ibis Manado City Center Boulevard?",
+      "answer": "Manado Town Square Mall is almost directly across the street, about a 1-minute walk, with the Mega Mas Shopping Center roughly 250 meters away -- both put dining and retail within easy reach."
+    }
+  ],
+  "tags": ["manado", "bunaken", "budget hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7867/index.en.shtml",
+      "label": "Official ibis Manado City Center Boulevard page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297721-d8792173-Reviews-Ibis_Manado_City_Center_Boulevard-Manado_North_Sulawesi_Sulawesi.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7867/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-surabaya-city-center", "ibis-yogyakarta-adi-sucipto"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Room Tour Ibis Hotel Manado | Promo 500K l 2022",
+        "channel": "Tri Lokon",
+        "url": "https://www.youtube.com/watch?v=jvvqV625hdE",
+        "video_id": "jvvqV625hdE"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 66 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

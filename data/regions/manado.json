@@ -1,0 +1,12 @@
+{
+  "region_id": "manado",
+  "slug": "manado",
+  "label": "Manado",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "North Sulawesi's coastal capital and the launch point for Bunaken's dive sites.",
+  "intro": "Manado is North Sulawesi's capital, a harbor city on the Celebes Sea best known as the jumping-off point for the coral reefs and dive sites of Bunaken National Marine Park, a short boat ride offshore. Hotels here cluster around the central business district and the Boulevard waterfront near Manado Town Square, mixing local business travel with divers and leisure visitors staging trips to Bunaken; the city is reached via Sam Ratulangi International Airport (MDC).",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

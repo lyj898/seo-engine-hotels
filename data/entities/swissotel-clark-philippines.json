@@ -1,0 +1,115 @@
+{
+  "entity_id": "swissotel-clark-philippines",
+  "slug": "swissotel-clark-philippines",
+  "name": "Swissôtel Clark Philippines",
+  "category_id": "accor-all",
+  "region_id": "clark",
+  "short_description": "A 372-room, 22-storey 5-star hotel in the Clark Freeport Zone, Pampanga, with a casino, Swiss Executive Lounge, and ten restaurants and bars.",
+  "ai_summary": "Swissotel Clark Philippines occupies a 22-storey tower in the Clark Freeport Zone, Pampanga, with guest rooms from level 5 to 22 and 372 rooms and suites across categories up to a Swiss Presidential Suite for 10 guests. The 5-star property centres on Swiss-styled hospitality with ten restaurants and bars -- including the Markt all-day-dining restaurant known for its Raclette and gelato -- alongside a casino, Purovel Spa, 24-hour gym, and a Swiss Executive Lounge. Guests, including families with young children, consistently praise the spacious modern rooms, attentive staff, and the Markt breakfast spread, with the hotel positioned as a Clark-area alternative to a Manila stay for both leisure and MICE travellers.",
+  "core_facts": {
+    "address": "Bldg. 5399, Manuel A. Roxas Highway, Clark Freeport Zone, 2023 Pampanga, Philippines",
+    "brand_sub_brand": "Swissotel",
+    "neighborhood": "Clark Freeport Zone",
+    "star_rating": 5,
+    "rooms": 372,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "372 rooms and suites in a 22-storey tower, including a Swiss Presidential Suite for up to 10 guests",
+    "Ten restaurants and bars on-site, including the Markt all-day dining venue's Raclette and gelato",
+    "Casino, Purovel Spa, 24-hour gym, and Swiss Executive Lounge for eligible guests",
+    "Family-friendly touches noted by guests, including kids' activity kits and a heated pool",
+    "Genuinely attentive, warm staff service called out repeatedly across reviews"
+  ],
+  "cons": [
+    "Clark Freeport Zone setting means most attractions require a taxi or shuttle rather than a walk",
+    "As a casino hotel, public areas can feel busier or noisier than a typical resort property"
+  ],
+  "research_highlights": [
+    "A 2022 family-travel blog review praised the spacious Swiss Advantage Room, Markt's breakfast and dinner spread, and consistently attentive staff",
+    "Spot.ph and other Philippine outlets describe the 22-storey, 372-room property as a standout 5-star option in Clark",
+    "The hotel holds a strong aggregate guest rating on independent booking platforms"
+  ],
+  "research_watchouts": [
+    "TripAdvisor's own review page returned a 403 error on direct fetch; ratings were cross-checked via other aggregators and blog coverage instead",
+    "As a casino-anchored hotel, some travellers may find the public areas less suited to a quiet leisure stay than a beach resort"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How many rooms does Swissotel Clark Philippines have?",
+      "answer": "372 rooms and suites across a 22-storey tower, with guest floors running from level 5 to level 22, and categories ranging from Premium Rooms up to a 10-guest Swiss Presidential Suite."
+    },
+    {
+      "question": "Does Swissotel Clark Philippines have a casino?",
+      "answer": "Yes -- the property includes an on-site casino alongside its ten restaurants and bars, Purovel Spa, 24-hour gym, and Swiss Executive Lounge, positioning it as a full leisure-and-gaming destination in the Clark Freeport Zone."
+    }
+  ],
+  "tags": ["clark freeport zone", "casino hotel", "swiss executive lounge"],
+  "source_mix": [
+    {
+      "url": "https://swissotelclark.com/",
+      "label": "Official Swissotel Clark Philippines page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://all.accor.com/hotel/B6N4/index.en.shtml",
+      "label": "Swissotel Clark Philippines on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.trip.com/hotels/pampanga-hotel-detail-80821497/swisstel-clark-philippines/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://swissotelclark.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["swissotel-the-stamford-singapore", "swissotel-jakarta-pik-avenue"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Swissotel Clark Hotel Review: Staycation with Kids",
+        "source": "Sheena Loves Sunsets",
+        "url": "https://sheenalovessunsets.com/swissotel-clark-review/",
+        "published_date": "2022-11-20",
+        "summary": "A family-travel review of a 2-night stay praising the spacious Swiss Advantage Room, Markt restaurant's Raclette and gelato, and staff who were 'genuinely caring' toward young children."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Sneak peek of Swissotel Clark",
+        "channel": "Where's RR",
+        "url": "https://www.youtube.com/watch?v=k2xqkh0rhiM",
+        "video_id": "k2xqkh0rhiM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

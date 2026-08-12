@@ -1,0 +1,12 @@
+{
+  "region_id": "clark",
+  "slug": "clark",
+  "label": "Clark",
+  "granularity": "city",
+  "parent_region_id": "philippines",
+  "short_description": "The Clark Freeport Zone in Pampanga, north of Manila -- casinos, golf, and its own international airport.",
+  "intro": "Clark is a former US air base converted into the Clark Freeport Zone in Pampanga, about a 90-minute drive north of Manila and served directly by Clark International Airport. Hotels here skew toward large-format, resort-style properties with casinos, event space, and golf nearby, aimed at both the domestic weekend-getaway market and business travelers who'd rather avoid Metro Manila traffic. It's a newer, more spread-out hospitality market than Manila or Cebu, built around the Freeport Zone's duty-free and leisure-development push.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

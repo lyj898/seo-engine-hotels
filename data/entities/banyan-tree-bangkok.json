@@ -4,10 +4,10 @@
   "name": "Banyan Tree Bangkok",
   "category_id": "accor-all",
   "region_id": "bangkok",
-  "short_description": "A 5-star Banyan Tree in Bangkok's Sathorn CBD, home to the Vertigo rooftop restaurant with 360-degree views and Moon Bar.",
-  "ai_summary": "Banyan Tree Bangkok is a 5-star hotel in the Sathorn Central Business District, steps from public transport and near Siam Paragon, CentralWorld, Mahanakorn Tower, IconSiam, and the Grand Palace. The property is known for Vertigo, its rooftop restaurant with 360-degree views, and Saffron Cruise dinner cruises on the Chao Phraya River. Facilities include Moon Bar, a spa, fitness centre, and outdoor pool. Standard ALL elite benefits apply for Accor loyalty members.",
+  "short_description": "A 327-room, 5-star all-suite tower in Bangkok's Sathorn CBD, home to the 61st-floor Vertigo rooftop restaurant and Moon Bar.",
+  "ai_summary": "Banyan Tree Bangkok is a five-star hotel occupying a slim, 61-story tower in the Sathorn Central Business District, open since January 2002 and long recognized as one of Bangkok's tallest luxury hotels. Its 327 rooms and suites -- Horizon, Skyline, Panorama Club and Vertigo Club categories, plus multi-bedroom Serenity and Presidential Suites -- sit on floors 15 through 58, with city or Lumphini Park views from floor-to-ceiling windows. The hotel is best known for Vertigo, its open-air rooftop grill restaurant, and Moon Bar next door, both on a converted helipad with 360-degree skyline views; a rooftop pool and full spa round out the facilities. Guest and travel-writer reviews consistently praise the views, spa, dining and attentive service, while a recurring critique is that the lobby, some public areas and the modestly sized rooftop pool show their age relative to newer Bangkok luxury openings.",
   "core_facts": {
-    "address": "21/100 South Sathon Road, 10120 Bangkok, Thailand",
+    "address": "21/100 South Sathon Road, Bangkok 10120, Thailand",
     "brand_sub_brand": "Banyan Tree",
     "neighborhood": "Sathorn CBD, Bangkok",
     "star_rating": 5,
@@ -18,41 +18,67 @@
     ]
   },
   "pros": [
-    "5-star luxury in Bangkok's Sathorn CBD, with Vertigo's 360-degree rooftop dining a genuine landmark experience",
-    "Near major attractions: Siam Paragon, CentralWorld, IconSiam, and the Grand Palace",
-    "Saffron Cruise river dinner cruises and Moon Bar add distinctive experiences beyond a standard luxury hotel stay"
+    "327 all-suite-style rooms in a landmark 61-story Sathorn tower, open since 2002",
+    "Vertigo rooftop restaurant and Moon Bar on the 61st floor deliver genuine 360-degree Bangkok skyline views",
+    "Club Lounge access for eligible room categories includes breakfast, afternoon tea and evening cocktails",
+    "Central Sathorn CBD location near Lumphini Park, Chao Phraya river piers, and Siam/CentralWorld shopping",
+    "Comprehensive spa built around Banyan Tree's wellbeing programming"
   ],
   "cons": [
-    "No ALL Rating displayed yet on the property's own page — guest sentiment data not confirmed from this source"
+    "Lobby and some public areas read as dated next to newer Bangkok luxury openings, per multiple 2024-2025 reviews",
+    "The 21st-floor rooftop pool is small and can feel undersized for the hotel's scale"
   ],
   "research_highlights": [
-    "Accor page: all.accor.com/hotel/B1U6/index.en.shtml",
-    "Vertigo rooftop restaurant (360-degree views), Moon Bar, Saffron Cruise river dinners"
+    "Multiple independent reviews single out Vertigo and Moon Bar as a genuine landmark Bangkok experience, not just a hotel amenity",
+    "Reviewers repeatedly describe the hotel as strong value for a 5-star suite-only property given typical nightly rates",
+    "Club Lounge benefits (breakfast, tea, cocktails) are called out as a meaningful perk across recent reviews"
   ],
   "research_watchouts": [
-    "No ALL Rating displayed on the Accor page at time of research"
+    "Several 2024-2026 reviews flag dated decor in the lobby and some rooms, and inconsistent Club Lounge service on certain stays",
+    "The hotel is roughly 45-60 minutes from Suvarnabhumi Airport by car depending on traffic"
   ],
   "research_confidence": "high",
-  "research_last_updated": "2026-08-11",
-  "audit_last_checked": "2026-08-11",
-  "faqs": [],
-  "external_coverage": {
-    "reviews": [],
-    "videos": []
-  },
-  "tags": [
-    "sathorn",
-    "banyan-tree",
-    "luxury",
-    "rooftop-dining",
-    "river-cruise"
+  "research_last_updated": "2026-08-12",
+  "audit_last_checked": "2026-08-12",
+  "faqs": [
+    {
+      "question": "What floor is the Vertigo restaurant on at Banyan Tree Bangkok?",
+      "answer": "Vertigo and the adjoining Moon Bar sit on the 61st floor, an open-air rooftop restaurant and bar built on a converted helipad, giving diners 360-degree views across the Bangkok skyline that reviewers repeatedly single out as a genuine landmark experience rather than just a hotel amenity."
+    },
+    {
+      "question": "How many rooms does Banyan Tree Bangkok have?",
+      "answer": "The hotel has 327 rooms and suites in total, spread across floors 15 through 58 of its 61-story Sathorn tower, with every category -- Horizon, Skyline, Panorama Club, Vertigo Club, and the multi-bedroom Serenity and Presidential Suites -- built to a suite-style, all-in-one-room layout."
+    },
+    {
+      "question": "When did Banyan Tree Bangkok open?",
+      "answer": "It opened in January 2002 and has operated continuously since, making it one of Sathorn CBD's longest-running 5-star hotels; several 2024-2026 reviews note the lobby and some public areas read as dated relative to newer Bangkok luxury openings as a result."
+    }
   ],
+  "tags": ["sathorn", "banyan-tree", "luxury", "rooftop-dining", "river-cruise", "all-suite"],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/B1U6/index.en.shtml",
-      "label": "Accor ALL — Banyan Tree Bangkok official page",
+      "label": "Accor ALL -- Banyan Tree Bangkok official page",
       "type": "official",
-      "last_checked": "2026-08-11"
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d302959-Reviews-Banyan_Tree_Bangkok-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.turningleftforless.com/review-banyan-tree-hotel-bangkok-part-of-accor-what-do-get-from-115-a-night-for-a-suite/",
+      "label": "Turning Left for Less hotel review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.flolondon.co.uk/all-posts/banyan-tree-bangkok-review",
+      "label": "FLO London hotel review",
+      "type": "review",
+      "last_checked": "2026-08-12"
     }
   ],
   "cta_links": [
@@ -63,11 +89,44 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": [
-    "banyan-tree-bintan",
-    "buahan-a-banyan-tree-escape"
-  ],
-  "reliability_score": 30,
-  "last_updated": "2026-08-11",
+  "related_entity_ids": ["banyan-tree-phuket", "banyan-tree-samui"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Banyan Tree hotel Bangkok (part of Accor) -- what do you get from £115 a night for a suite?",
+        "source": "Turning Left for Less",
+        "url": "https://www.turningleftforless.com/review-banyan-tree-hotel-bangkok-part-of-accor-what-do-get-from-115-a-night-for-a-suite/",
+        "published_date": "2024-02-19",
+        "summary": "Michele calls the suite-only rooms and Club Lounge strong value at the price, but flags a dated lobby, a small cold rooftop pool, and inconsistent lounge drink service."
+      },
+      {
+        "title": "Banyan Tree Bangkok review",
+        "source": "FLO London",
+        "url": "https://www.flolondon.co.uk/all-posts/banyan-tree-bangkok-review",
+        "published_date": "2026-05-09",
+        "summary": "Tani Burns praises the Lumphini Park-facing views, Vertigo and Saffron Grill dining, and Club Lounge perks, noting only the modest pool size and £200+/night pricing as drawbacks."
+      }
+    ],
+    "videos": [
+      {
+        "title": "$191 Room Review: Banyan Tree Hotel in Bangkok",
+        "channel": "Tim Travel Taste",
+        "url": "https://www.youtube.com/watch?v=_xnJ4dImHWQ",
+        "video_id": "_xnJ4dImHWQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
   "status": "active"
 }

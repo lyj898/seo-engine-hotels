@@ -1,0 +1,119 @@
+{
+  "entity_id": "pullman-vung-tau",
+  "slug": "pullman-vung-tau",
+  "name": "Pullman Vung Tau",
+  "category_id": "accor-all",
+  "region_id": "vung-tau",
+  "short_description": "A 352-room 5-star Pullman hotel and convention centre on Vung Tau's Back Beach strip, about 350m from the beach and roughly 1.5-2 hours from Ho Chi Minh City.",
+  "ai_summary": "Pullman Vung Tau has operated as the city's international 5-star hotel and convention centre since opening in December 2015, with 352 rooms and suites offering sea or city views roughly 350 meters from Back Beach (Bai Sau). The property carries over 2,000 square meters of meeting and convention space across 14 rooms, alongside an Executive Lounge, pool, and multiple dining outlets including the Riviera restaurant. Guest reviews consistently praise the breakfast buffet variety, attentive staff, and spacious rooms, though a subset of more recent reviews flag maintenance and upkeep concerns in parts of the property. It functions as both a beach getaway for Ho Chi Minh City residents and a MICE venue given its convention facilities.",
+  "core_facts": {
+    "address": "15 Thi Sach Street, Vung Tau Ward, Ho Chi Minh City, Vietnam",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Back Beach (Bai Sau)",
+    "elite_benefits": [
+      "Executive Lounge access with all-day refreshments and evening cocktails for Executive room guests and ALL Platinum/Diamond members",
+      "Room upgrades for Platinum and Diamond members, subject to availability, per ALL - Accor Live Limitless program terms",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Back Beach (Bai Sau)", "km": 0.35 },
+      { "label": "Paradise Golf Course", "km": 1.7 },
+      { "label": "Jesus Christ Statue", "km": 3.2 }
+    ]
+  },
+  "pros": [
+    "352 rooms and suites with sea or city views, about 350m from Back Beach",
+    "Over 2,000 sqm of meeting and convention space across 14 rooms, suited to MICE events",
+    "Executive Lounge with all-day refreshments for eligible guests and elite members",
+    "Breakfast buffet variety consistently praised, including a Vietnamese noodle station",
+    "Roughly 1.5-2 hours from Ho Chi Minh City, the closest 5-star beach option"
+  ],
+  "cons": [
+    "Some 2024 guest reviews note maintenance and upkeep concerns in parts of the property",
+    "Non-Executive rooms don't include lounge access, which some guests find limits the full 5-star experience"
+  ],
+  "research_highlights": [
+    "Staff service and attentiveness are repeatedly highlighted across both older and recent reviews",
+    "The breakfast buffet's variety, including local Vietnamese options, draws consistent praise",
+    "First 5-star international hotel and convention centre in Vung Tau, opened December 2015"
+  ],
+  "research_watchouts": [
+    "A subset of 2024 reviews describe facility wear and maintenance issues in places",
+    "Pool area condition was flagged as a concern in at least one recent review"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Pullman Vung Tau on the beach?",
+      "answer": "It's about 350 meters (roughly a 2-minute drive) from Back Beach (Bai Sau), not directly beachfront, but close enough to walk. It's also about 150 meters from LOTTE Mart for shopping and dining."
+    },
+    {
+      "question": "When did Pullman Vung Tau open and how many rooms does it have?",
+      "answer": "It opened in December 2015 as the fourth Pullman hotel in Vietnam, with 352 rooms and suites offering sea or city views across the property, making it the largest international-brand hotel in Vung Tau at the time and still one of the city's biggest today."
+    }
+  ],
+  "tags": ["back beach", "convention hotel", "5-star"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7133/index.en.shtml",
+      "label": "Official Pullman Vung Tau page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.hotelexecutive.com/newswire/55558/accorhotels-unveils-pullman-vung-tau-the-4th-pullman-hotel-in-vietnam",
+      "label": "AccorHotels opening announcement, Pullman Vung Tau",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g303946-d8778363-Reviews-Pullman_Vung_Tau-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7133/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-saigon-centre", "pullman-danang-beach-resort"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Pullman Vung Tau Review",
+        "source": "Deenise Glitz",
+        "url": "https://deeniseglitz.com/2017/06/hotel-pullman-vung-tau-review/",
+        "published_date": "2017-06",
+        "summary": "A travel blogger's first-Pullman-stay review covering the Deluxe Executive Twin room, Executive Lounge check-in, breakfast variety, and the hotel's Planet 21 sustainability touches."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Pullman Vung Tau Review | 🇻🇳 Southern Vietnam Travel",
+        "channel": "Jay Park | Medical Aesthetics",
+        "url": "https://www.youtube.com/watch?v=pGCE7QMJ0wU",
+        "video_id": "pGCE7QMJ0wU",
+        "published_date": "2024-02-15"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

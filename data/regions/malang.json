@@ -1,0 +1,12 @@
+{
+  "region_id": "malang",
+  "slug": "malang",
+  "label": "Malang",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "A cooler East Java highland city near Mount Bromo and the Batu tourist belt.",
+  "intro": "Malang is East Java's second city, a highland base at a cooler elevation than Surabaya, prized for Dutch colonial-era architecture around Ijen Boulevard and as the main overnight stop for trips to Mount Bromo and the family attractions of nearby Batu. Coverage here mixes business hotels near the city center with properties aimed at weekend leisure travelers from Surabaya, reached via Abdul Rachman Saleh Airport (MLG) or, more commonly for longer-haul visitors, Surabaya's Juanda Airport followed by a road transfer.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

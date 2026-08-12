@@ -1,0 +1,106 @@
+{
+  "entity_id": "novotel-sihanoukville-holiday-resort",
+  "slug": "novotel-sihanoukville-holiday-resort",
+  "name": "Novotel Sihanoukville Holiday Resort",
+  "category_id": "accor-all",
+  "region_id": "sihanoukville",
+  "short_description": "A 215-room beachfront resort directly on Independence Beach, Cambodia's first Novotel, with an infinity pool and four dining venues, about 25km from the airport.",
+  "ai_summary": "Novotel Sihanoukville Holiday Resort opened on 7 February 2024 directly on Independence Beach, marking Novotel's first property in Cambodia. The 215-room resort spans eight room configurations from 32-square-metre Standard Rooms to 96-square-metre Suites, with a beachside infinity pool, a separate kids' pool and Lost City Kids' Club, and four dining and drinking venues including the beachfront Aqua Bar & Grill. Guest reviews are largely positive, calling out the clean, modern rooms, friendly service, and direct beach access, with the main caveat being the surrounding construction boom in Sihanoukville itself rather than the resort grounds.",
+  "core_facts": {
+    "address": "2 Thnou Street, Village 1, Commune 3, Mittapheap District, Independence Beach, 180403 Sihanoukville, Cambodia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Independence Beach",
+    "star_rating": 4,
+    "rooms": 215,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Direct access to Independence Beach with a beachside infinity pool overlooking the Gulf of Thailand",
+    "Cambodia's first Novotel, opened February 2024 with modern, well-maintained rooms and public areas",
+    "Family-focused facilities including a separate kids' pool and The Lost City Kids' Club",
+    "Four distinct dining and drinking venues, including beachfront barbecue at Aqua Bar & Grill",
+    "About 25km from Sihanoukville International Airport and a 2.5-hour drive from Phnom Penh via expressway"
+  ],
+  "cons": [
+    "Sihanoukville's surrounding area is mid-construction boom, so the wider neighbourhood mixes finished and unfinished buildings",
+    "A minority of reviews note parking constraints and occasional inconsistent front-of-house service"
+  ],
+  "research_highlights": [
+    "Guest reviews repeatedly call it among the cleanest, best-run hotels in Sihanoukville, with strong marks for service and setting",
+    "As Cambodia's first Novotel, the resort opened in February 2024 with 215 rooms across eight configurations",
+    "The private beach frontage and beachside infinity pool are the most consistently cited highlights"
+  ],
+  "research_watchouts": [
+    "No independent blogger or publication review article was found after a genuine search -- coverage found was limited to the opening press release, aggregator listings, and individual TripAdvisor guest reviews, so external_coverage.reviews is left empty",
+    "No confirmed YouTube video specific to this property was found; a guess was not added"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Novotel Sihanoukville Holiday Resort on the beach?",
+      "answer": "Yes -- it sits directly on Independence Beach with a beachside infinity pool overlooking the Gulf of Thailand, and it opened in February 2024 as Novotel's first property in Cambodia."
+    },
+    {
+      "question": "How far is Novotel Sihanoukville Holiday Resort from the airport?",
+      "answer": "About 25 kilometres from Sihanoukville International Airport, and roughly a 2.5-hour drive from Phnom Penh via the Phnom Penh-Sihanoukville Expressway, which has made Sihanoukville a more accessible weekend beach destination for Phnom Penh residents in recent years."
+    }
+  ],
+  "tags": ["independence beach", "cambodia's first novotel", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://www.novotelsihanoukville.com/",
+      "label": "Official Novotel Sihanoukville Holiday Resort page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://all.accor.com/hotel/A611/index.en.shtml",
+      "label": "Novotel Sihanoukville Holiday Resort on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://press.accor.com/middle-east-africa-turkey-asia-pacific/novotel-makes-its-debut-in-cambodia-a-modern-coastal-resort-now-opens-on-independence-beach-in-sihanoukville/?lang=en",
+      "label": "Accor press release: Novotel debut in Cambodia",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g325573-d27162219-Reviews-Novotel_Sihanoukville_Holiday_Resort-Sihanoukville_Sihanoukville_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.novotelsihanoukville.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-phnom-penh-bkk1"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 42,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

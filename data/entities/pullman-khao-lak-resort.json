@@ -1,0 +1,114 @@
+{
+  "entity_id": "pullman-khao-lak-resort",
+  "slug": "pullman-khao-lak-resort",
+  "name": "Pullman Khao Lak Resort",
+  "category_id": "accor-all",
+  "region_id": "khao-lak",
+  "short_description": "A 253-room, 5-star all-inclusive-optional beachfront resort on Bang Muang Beach with four pools and a large kids' club.",
+  "ai_summary": "Pullman Khao Lak Resort is a five-star beachfront property on gently sloping Bang Muang Beach in Khao Lak, about 90 minutes (roughly 100 km) north of Phuket International Airport. Its 253 rooms, family suites and pool villas are set around four pools, including an infinity pool and water slide, plus one of Khao Lak's largest kids' clubs at over 1,000 sqm, and a genuine \"Taste of Paradise\" all-inclusive package covering meals, unlimited drinks and a couples' massage. Guests consistently praise the resort's family-friendly facilities, spacious rooms and beachfront setting, though recent reviews flag inconsistent service and breakfast quality on some stays, and the remote location keeps guests dependent on the resort for evening options.",
+  "core_facts": {
+    "address": "46/109 Moo 2, Soi 46 Laem Son, Bangmuang, Takua Pa District, Phang Nga 82190, Thailand",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Bang Muang Beach, Khao Lak",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "253 rooms, family suites and pool villas directly on gently sloping Bang Muang Beach",
+    "Four pools, including an infinity pool and water slide",
+    "One of Khao Lak's largest kids' clubs, at over 1,000 sqm with wet and dry zones",
+    "Genuine all-inclusive \"Taste of Paradise\" package covering meals, drinks and a couples' massage",
+    "Consistent praise for room comfort, cleanliness and value versus other 5-star Khao Lak resorts"
+  ],
+  "cons": [
+    "Some 2025-2026 reviews report inconsistent service and below-standard breakfast on certain stays",
+    "Remote location about 90 minutes from Phuket Airport with just one beach bar serving a spread-out property"
+  ],
+  "research_highlights": [
+    "The kids' club and family-oriented all-inclusive package are called out repeatedly as standout features",
+    "Guests highlight room space, cleanliness and the beachfront setting across recent reviews",
+    "An independent 2026 all-inclusive review rated the resort 8.4/10, citing genuine value versus typical Thai all-inclusive packages"
+  ],
+  "research_watchouts": [
+    "A handful of 2025-2026 reviews mention service and breakfast quality falling short of Pullman's usual standard on some stays",
+    "The all-inclusive package uses local-brand spirits only, with no premium imports included"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Pullman Khao Lak Resort all-inclusive?",
+      "answer": "It offers an optional \"Taste of Paradise\" all-inclusive package covering buffet meals, unlimited drinks from noon to 10pm, and a one-time 60-minute couples' massage, rather than being all-inclusive by default."
+    },
+    {
+      "question": "How many rooms does Pullman Khao Lak Resort have?",
+      "answer": "The resort has 253 rooms and pool villas, spanning Deluxe Rooms, Family Suites, a Presidential Suite, and 1-Bedroom Luxury Pool Villas, some with direct beachfront access, giving couples, families, and larger groups a range of accommodation styles to choose from within the same property."
+    }
+  ],
+  "tags": ["bang muang beach", "beachfront", "all-inclusive", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://pullman.accor.com/en/hotels/phang-nga/B436.html",
+      "label": "Official Pullman Khao Lak Resort page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g20862562-d21504399-Reviews-Pullman_Khao_Lak_Resort-Bang_Muang_Khao_Lak_Takua_Pa_Phang_Nga_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://all-inclusive-guide.com/resorts/pullman-khao-lak-resort/",
+      "label": "All-Inclusive Guide resort review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://pullman.accor.com/en/hotels/phang-nga/B436.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-khao-lak-bangsak", "pullman-phuket-arcadia-naithon-beach"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Pullman Khao Lak Review 2026: Is the All-Inclusive Worth It?",
+        "source": "All-Inclusive Guide",
+        "url": "https://all-inclusive-guide.com/resorts/pullman-khao-lak-resort/",
+        "published_date": "2026-06-01",
+        "summary": "Priya Anand rates the resort 8.4/10, praising a genuine all-inclusive package and huge kids' club, but notes local-only spirits and one beach bar serving distant rooms."
+      }
+    ],
+    "videos": [
+      {
+        "title": "$50 NIGHT at a 5★ Beachfront Resort!? | Pullman Khao Lak Review + Private Pool Villa Tour",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=YyYtrXypIfk",
+        "video_id": "YyYtrXypIfk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}
