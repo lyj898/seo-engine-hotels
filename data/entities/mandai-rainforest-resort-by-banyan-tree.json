@@ -1,0 +1,127 @@
+{
+  "entity_id": "mandai-rainforest-resort-by-banyan-tree",
+  "slug": "mandai-rainforest-resort-by-banyan-tree",
+  "name": "Mandai Rainforest Resort by Banyan Tree",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 338-room resort, including 24 treehouses, inside Singapore's Mandai Wildlife Reserve with direct shuttle access to the Zoo, Night Safari, River Wonders and Bird Paradise.",
+  "ai_summary": "Mandai Rainforest Resort by Banyan Tree opened to guests on 2 April 2025 as Banyan Tree's first Singapore property, built within the 4.6-hectare Mandai Wildlife Reserve overlooking Upper Seletar Reservoir. The 338-room resort includes 24 signature treehouse suites and runs a complimentary shuttle every 10 minutes to Singapore Zoo, Night Safari, River Wonders and Bird Paradise, positioning it as a nature-immersion destination resort rather than a city base -- it's roughly 30-45 minutes from central Singapore with limited public transport nearby. Guests consistently praise the biophilic architecture, a rooftop infinity pool overlooking the reservoir, and a pangolin-scale-inspired spa, alongside genuinely friendly service. Early reviews through 2025 were more critical of inconsistent buffet dining, understaffing, and rough operational edges typical of a very new opening, with some reviewers explicitly recommending guests wait for the property to mature before visiting.",
+  "core_facts": {
+    "address": "60 Mandai Lake Road, Singapore 729979",
+    "brand_sub_brand": "Banyan Tree",
+    "neighborhood": "Mandai Wildlife Reserve",
+    "rooms": 338,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "338 rooms including 24 treehouse suites, built within Mandai Wildlife Reserve overlooking Upper Seletar Reservoir",
+    "Free shuttle every 10 minutes (8am-11pm) to Singapore Zoo, Night Safari, River Wonders and Bird Paradise",
+    "Rooftop infinity pool and Banyan Tree Spa treatment pods designed around a pangolin-scale motif",
+    "Award-winning biophilic design with BCA Green Mark Platinum sustainability certification",
+    "Consistently described as friendly, attentive service in-line with Banyan Tree's usual standard"
+  ],
+  "cons": [
+    "Remote from central Singapore -- roughly 30-45 minutes by car with limited public transport, and only a handful of dining options within walking distance",
+    "Early reviews through 2025 flagged inconsistent buffet dinner quality, understaffing, and rough operational details typical of a hotel in its first year"
+  ],
+  "research_highlights": [
+    "The hotel opened for stays on 2 April 2025 as Banyan Tree's debut Singapore property and only its second in-city resort concept in the region",
+    "An April 2026 review (The Hotel Journal) praised the design and friendly service but flagged an inconsistent buffet and the resort's remote, destination-only positioning",
+    "An April 2025 MileLion review titled 'Critically Endangered' documented understaffing, limited dining variety, and operational rough edges shortly after opening, while praising the pool and design"
+  ],
+  "research_watchouts": [
+    "Coverage found spans April 2025 to April 2026, straddling the resort's first year of operations -- guest experience with staffing and dining consistency may have improved since the earlier, more critical review",
+    "No independent third-party aggregate rating (e.g. TripAdvisor score) was pulled into this file beyond individual review summaries"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Does Mandai Rainforest Resort by Banyan Tree give guests access to Singapore Zoo and Night Safari?",
+      "answer": "Yes -- the resort sits inside Mandai Wildlife Reserve and runs a complimentary shuttle roughly every 10 minutes between 8am and 11pm to Singapore Zoo, Night Safari, River Wonders and Bird Paradise, making direct wildlife access the resort's main draw for most guests staying there."
+    },
+    {
+      "question": "How far is Mandai Rainforest Resort by Banyan Tree from central Singapore?",
+      "answer": "About 30 to 45 minutes by car from the city center, with limited public transport directly to the resort and only a handful of dining options within walking distance. It's better suited as a standalone nature-focused destination stay than as a base for exploring downtown Singapore."
+    }
+  ],
+  "tags": ["mandai wildlife reserve", "treehouse", "singapore zoo"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C3Q7/index.en.shtml",
+      "label": "Mandai Rainforest Resort by Banyan Tree on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+      "label": "Official Mandai Rainforest Resort by Banyan Tree page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://milelion.com/2025/04/26/mandai-rainforest-resort-by-banyan-tree-review-critically-endangered/",
+      "label": "The MileLion hotel review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://thehoteljournal.com/mandai-rainforest-resort-by-banyan-tree-review-singapore/",
+      "label": "The Hotel Journal hotel review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.banyantree.com/singapore/mandai-rainforest-resort-by-banyan-tree",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["banyan-tree-bintan", "fairmont-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Mandai Rainforest Resort by Banyan Tree Review: Critically Endangered",
+        "source": "The MileLion",
+        "url": "https://milelion.com/2025/04/26/mandai-rainforest-resort-by-banyan-tree-review-critically-endangered/",
+        "published_date": "2025-04-26",
+        "summary": "Praises the design and reservoir-view pool but documents undertrained staff, limited dining variety, and operational gaps shortly after opening, concluding the resort needs time to mature."
+      },
+      {
+        "title": "We review Mandai Rainforest Resort by Banyan Tree in Singapore",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/mandai-rainforest-resort-by-banyan-tree-review-singapore/",
+        "published_date": "2026-04-13",
+        "summary": "Praises the biophilic design and friendly service, notes an inconsistent dinner buffet and the resort's remote, destination-only location roughly 30-45 minutes from central Singapore."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mandai Rainforest Resort by Banyan Tree ROOM & RESORT TOUR | Singapore | Vlog 127",
+        "channel": "Adpamtures Adventures",
+        "url": "https://www.youtube.com/watch?v=du75ZjQ6n_c",
+        "video_id": "du75ZjQ6n_c"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 68 },
+      { "label": "Service", "score": 72 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 66 },
+      { "label": "Value", "score": 66 }
+    ]
+  },
+  "reliability_score": 56,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

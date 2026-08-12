@@ -1,0 +1,93 @@
+{
+  "entity_id": "ibis-balikpapan",
+  "slug": "ibis-balikpapan",
+  "name": "ibis Balikpapan",
+  "category_id": "accor-all",
+  "region_id": "balikpapan",
+  "short_description": "A 155-room budget hotel in central Balikpapan sharing an address with Novotel Balikpapan, about 20 minutes from the airport.",
+  "ai_summary": "ibis Balikpapan is a 155-room budget-tier property sharing a complex with the neighboring Novotel Balikpapan on Jalan Brigjen Ery Suparjan, in the heart of Balikpapan's city centre. Rooms come with flat-screen TVs, air conditioning, and en-suite bathrooms with separate shower and toilet, aimed at business and leisure travelers who want ibis's straightforward budget standard rather than a full-service stay. Guest reviews are consistently positive for a budget property, repeatedly praising the central location, fast check-in, and breakfast, with the hotel ranked among the higher-rated options in Balikpapan on TripAdvisor. It sits roughly 20 minutes from Sultan Aji Muhammad Sulaiman Sepinggan International Airport and within walking distance of the same shopping and dining cluster that serves its sister Novotel property.",
+  "core_facts": {
+    "address": "Jl. Brigjen Ery Suparjan No. 2, Balikpapan, East Kalimantan 76112, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Klandasan",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "distance_from_airport_km": 12
+  },
+  "pros": [
+    "155 rooms in central Balikpapan, sharing a complex with the neighboring Novotel Balikpapan",
+    "Consistently praised in reviews for its clean, comfortable rooms at a budget price point",
+    "Fast check-in and friendly service repeatedly highlighted by guests",
+    "Roughly 20 minutes from Sultan Aji Muhammad Sulaiman Sepinggan International Airport",
+    "Central location near shopping, dining, and the Klandasan seafront"
+  ],
+  "cons": [
+    "As a budget-tier ibis property, it lacks the pool, spa, and conference facilities of its sister Novotel next door",
+    "Some guests note room service speed and temperature control can be inconsistent"
+  ],
+  "research_highlights": [
+    "Guests consistently rate it highly for a budget property, with fast check-in and clean rooms repeatedly praised",
+    "Breakfast quality draws unusually strong comments for the price tier",
+    "Its central Klandasan location is highlighted as a key advantage over other budget options in Balikpapan"
+  ],
+  "research_watchouts": [
+    "A subset of reviews mention slower room service response times",
+    "As a budget-tier property, room amenities and space are more limited than full-service Accor brands in the same city"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is ibis Balikpapan connected to Novotel Balikpapan?",
+      "answer": "They share the same address and complex on Jalan Brigjen Ery Suparjan in central Balikpapan, with ibis offering a simpler, budget-tier version of the stay alongside the more full-service Novotel property, though each operates as its own distinct hotel with separate check-in."
+    },
+    {
+      "question": "How far is ibis Balikpapan from the airport?",
+      "answer": "About 20 minutes by car from Sultan Aji Muhammad Sulaiman Sepinggan International Airport, in the same central Klandasan location as its sister Novotel property, making it a convenient budget base for both business travelers and short leisure stays in Balikpapan."
+    }
+  ],
+  "tags": ["budget hotel", "klandasan", "city centre"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7443/index.en.shtml",
+      "label": "Official ibis Balikpapan page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g317100-d3360180-Reviews-Ibis_Balikpapan-Balikpapan_East_Kalimantan_Kalimantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7443/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-balikpapan"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 86 }
+    ]
+  },
+  "reliability_score": 38,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

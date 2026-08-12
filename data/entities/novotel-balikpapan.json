@@ -1,0 +1,100 @@
+{
+  "entity_id": "novotel-balikpapan",
+  "slug": "novotel-balikpapan",
+  "name": "Novotel Balikpapan",
+  "category_id": "accor-all",
+  "region_id": "balikpapan",
+  "short_description": "A 198-room hotel in central Balikpapan, built in 2006 as the city's first international hotel, about 200 meters from the waterfront and 20 minutes from the airport.",
+  "ai_summary": "Novotel Balikpapan opened in 2006 as the first international hotel in Balikpapan, East Kalimantan's oil-and-gas hub city and the main air gateway for Indonesia's new capital, Nusantara. The 198-room property sits in the city centre near Klandasan, about 200 meters from the seafront and roughly 20 minutes from Sultan Aji Muhammad Sulaiman Sepinggan International Airport, with 12 meeting rooms (up to 960 sqm), a pool, fitness center, and the Food Exchange restaurant. Guest reviews describe it as a solid, business-oriented choice with friendly staff and a convenient location near malls and restaurants, though a number of more recent reviews note the rooms and some public areas would benefit from refurbishment. It functions primarily as a business and transit hotel rather than a leisure destination, given Balikpapan's role as a commercial and logistics hub rather than a tourist draw in its own right.",
+  "core_facts": {
+    "address": "Jl. Brigjen Ery Suparjan No. 2, Balikpapan, East Kalimantan 76112, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Klandasan",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "distance_from_airport_km": 12
+  },
+  "pros": [
+    "198 rooms in central Balikpapan, about 200 meters from the seafront",
+    "First international hotel in Balikpapan, open since 2006, with an established local reputation",
+    "12 meeting rooms up to 960 sqm, suited to the city's oil-and-gas business travel",
+    "Roughly 20 minutes from Sultan Aji Muhammad Sulaiman Sepinggan International Airport",
+    "Walking distance to malls and restaurants in the Klandasan area"
+  ],
+  "cons": [
+    "Several recent reviews note rooms and public areas would benefit from refurbishment",
+    "As a business-oriented city hotel, it lacks the resort facilities of Accor's Indonesian beach properties"
+  ],
+  "research_highlights": [
+    "Staff friendliness and convenient central location draw consistent praise",
+    "Breakfast quality and central Klandasan location near malls/restaurants are repeatedly highlighted",
+    "Long-established as Balikpapan's first international-brand hotel"
+  ],
+  "research_watchouts": [
+    "Multiple recent reviews flag that rooms and common areas show their age and could use updating",
+    "As East Kalimantan's main gateway city expands around the new capital Nusantara, competing newer hotels may affect its relative positioning"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Novotel Balikpapan from the airport?",
+      "answer": "About 20 minutes by car from Sultan Aji Muhammad Sulaiman Sepinggan International Airport, and roughly 200 meters from the Klandasan seafront in central Balikpapan. That central location, rather than an airport-adjacent setting, is a big part of its appeal for business travelers."
+    },
+    {
+      "question": "When did Novotel Balikpapan open?",
+      "answer": "It opened in 2006 as the first international hotel in Balikpapan, East Kalimantan's oil-and-gas hub city, and has since become an established business-travel option in the city centre, predating the newer hotels that have opened as the city has grown around the nearby capital project."
+    }
+  ],
+  "tags": ["business hotel", "klandasan", "first international hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6445/index.en.shtml",
+      "label": "Official Novotel Balikpapan page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g317100-d634383-Reviews-Novotel_Balikpapan-Balikpapan_East_Kalimantan_Kalimantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6445/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-jakarta-gajah-mada"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "NOVOTEL BALIKPAPAN REVIEW AND ROOM TOUR, Staycation Day 1, Nginap Seru 05",
+        "channel": "Rizal Family",
+        "url": "https://www.youtube.com/watch?v=FPTVOoxf4Xs",
+        "video_id": "FPTVOoxf4Xs"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 68,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 62 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 66 }
+    ]
+  },
+  "reliability_score": 42,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

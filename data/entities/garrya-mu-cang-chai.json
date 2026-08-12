@@ -1,0 +1,119 @@
+{
+  "entity_id": "garrya-mu-cang-chai",
+  "slug": "garrya-mu-cang-chai",
+  "name": "Garrya Mu Cang Chai",
+  "category_id": "accor-all",
+  "region_id": "mu-cang-chai",
+  "short_description": "A 110-key bamboo-structured wellness resort overlooking Mu Cang Chai's terraced rice fields, opened May 2025 as Banyan Group's Garrya brand debut in Vietnam.",
+  "ai_summary": "Garrya Mu Cang Chai opened in May 2025 in Pu Nhu Village, La Pan Tan Commune -- deep in the terraced-rice-field district of Mu Cang Chai, roughly 140km (about 3 hours by road) from Sapa and 260km from Hanoi's Noi Bai International Airport. Billed as the world's largest bamboo-structured resort and designed with Vietnamese studio VTN Architects, the 110-key property spans 6.5 hectares and blends bamboo craftsmanship with H'Mong brocade-inspired motifs across its rooms, suites, and villas, restaurants (Refresh and Charcoal Grill), and the 8lements Spa with its hydrotherapy circuit. It won World's Best New Wellness Retreat 2025 at the World Luxury Hotel Awards, and early guest reviews and travel-press coverage consistently praise the setting, design, and wellness programming, though its remote highland location and limited dining variety mean it suits travelers seeking an immersive retreat over easy day-trip access to other sights.",
+  "core_facts": {
+    "address": "Pu Nhu Village, La Pan Tan Commune, Mu Cang Chai District, Lao Cai Province 33500, Vietnam",
+    "brand_sub_brand": "Garrya",
+    "neighborhood": "La Pan Tan Commune",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "World's largest bamboo-structured resort, designed with Vietnamese studio VTN Architects across 6.5 hectares",
+    "110 rooms, suites, and villas with views over Mu Cang Chai's terraced rice fields",
+    "8lements Spa with a 13-step hydrotherapy circuit, plus cultural programming rooted in local H'Mong heritage",
+    "Won World's Best New Wellness Retreat 2025 at the World Luxury Hotel Awards",
+    "Early guest reviews and independent travel coverage consistently praise the design, setting, and service"
+  ],
+  "cons": [
+    "Remote location -- about 3 hours by road from Sapa and roughly 260km from Hanoi's Noi Bai Airport -- makes it a deliberate, multi-hour journey rather than a convenient stop",
+    "Only two restaurants on-site, so dining variety is more limited than at larger city or beach resorts"
+  ],
+  "research_highlights": [
+    "110-key bamboo-structured resort opened May 2025, Banyan Group's Garrya brand debut in Vietnam",
+    "Over 370 TripAdvisor reviews at time of research, with the resort's design, staff, and views drawing consistent praise",
+    "Won World's Best New Wellness Retreat 2025, reinforcing its wellness-first positioning"
+  ],
+  "research_watchouts": [
+    "Genuinely remote -- roughly 3 hours from Sapa by mountain road -- so it suits an immersive stay rather than a base for exploring multiple northern Vietnam destinations",
+    "Limited to two restaurants on-site, worth confirming meal-plan options before booking a multi-night stay"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Garrya Mu Cang Chai open and how many rooms does it have?",
+      "answer": "It opened in May 2025 as a 110-key resort of rooms, suites, and villas, and is billed as the world's largest bamboo-structured resort. It marked Banyan Group's first Garrya-branded property in Vietnam, designed with Vietnamese architecture studio VTN Architects across 6.5 hectares of terraced mountainside."
+    },
+    {
+      "question": "How remote is Garrya Mu Cang Chai?",
+      "answer": "It's genuinely remote by this directory's standards: roughly 140km, about 3 hours by mountain road, from the better-known hill station of Sapa, and around 260km from Hanoi's Noi Bai International Airport. That distance is part of the appeal for travelers seeking an immersive wellness retreat rather than a convenient stopover."
+    }
+  ],
+  "tags": ["bamboo architecture", "terraced rice fields", "wellness retreat"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C301/index.en.shtml",
+      "label": "Official Garrya Mu Cang Chai page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.garrya.com/en/destinations/mu-cang-chai",
+      "label": "Official Garrya Mu Cang Chai website",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.prnewswire.com/apac/news-releases/banyan-groups-garrya-mu-cang-chai-opens-in-a-national-heritage-site-in-northern-vietnam-302643397.html",
+      "label": "Banyan Group opening press release, Garrya Mu Cang Chai",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g23367429-d32712599-Reviews-Garrya_Mu_Cang_Ch_i-La_Pan_Tan_Lao_Cai_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.garrya.com/en/destinations/mu-cang-chai",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["garrya-bianti-yogyakarta", "hotel-de-la-coupole-sapa"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Luxury bamboo retreat opens in Vietnam's Mu Cang Chai",
+        "source": "Spirited Asia",
+        "url": "https://www.spiritedasia.com/2025/09/garrya-mu-cang-chai/",
+        "published_date": "2025-09-24",
+        "summary": "Feature on the resort's bamboo architecture and H'Mong cultural programming, describing 110 keys, the 8lements Spa's thermal circuit, and two restaurants; promotional in tone with no first-hand criticisms noted."
+      }
+    ],
+    "videos": [
+      {
+        "title": "We Didn't Expect Our Favourite Stay in Vietnam to Be Here - Garrya Mu Cang Chai",
+        "channel": "Yong and Mike",
+        "url": "https://www.youtube.com/watch?v=28tZkG_LrNM",
+        "video_id": "28tZkG_LrNM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

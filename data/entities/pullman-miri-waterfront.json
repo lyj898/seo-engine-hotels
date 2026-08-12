@@ -1,0 +1,115 @@
+{
+  "entity_id": "pullman-miri-waterfront",
+  "slug": "pullman-miri-waterfront",
+  "name": "Pullman Miri Waterfront",
+  "category_id": "accor-all",
+  "region_id": "miri",
+  "short_description": "A 328-room 5-star tower on Miri's waterfront in Sarawak, with four restaurants, an infinity pool and a 24th-floor Executive Lounge overlooking the South China Sea.",
+  "ai_summary": "Pullman Miri Waterfront is a 24-storey, 328-room 5-star hotel set within the Miri Waterfront Commercial Centre, where the Sungai Baong river meets the South China Sea in downtown Miri, Sarawak. It's positioned as the city's premier hotel for the region's oil-and-gas corporate travel alongside leisure guests using Miri as a gateway to Niah Caves and Gunung Mulu National Park. Guests consistently single out the infinity pool and its river-and-sea outlook, a wide choice of four restaurants and two bars, and a central location close to shopping and the Miri City Fan gardens. Reviews are more mixed on room views -- some sea-view bookings look out mainly onto neighbouring buildings -- and on inconsistent check-in orientation and occasional maintenance lapses.",
+  "core_facts": {
+    "address": "Lot 1347, Miri Waterfront Commercial Centre, 98000 Miri, Sarawak, Malaysia",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Miri Waterfront / Commercial Centre",
+    "star_rating": 5,
+    "rooms": 328,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "328 rooms in a 24-storey tower directly in Miri's downtown Waterfront Commercial Centre",
+    "Infinity pool with river and coastal views plus a jacuzzi area draws consistent praise",
+    "Four restaurants and two bars, including live jazz nights at The Chamber",
+    "24th-floor Executive Lounge with 360-degree views for eligible ALL members and suite guests",
+    "The only international-standard hotel at the centre of Miri, walkable to shopping and dining"
+  ],
+  "cons": [
+    "Some sea-view room bookings look out mainly onto neighbouring buildings rather than open water",
+    "A subset of reviews describe inconsistent cleanliness, maintenance lapses, or minimal check-in orientation"
+  ],
+  "research_highlights": [
+    "An August 2024 blog review praised the infinity pool and jacuzzi, comfortable rooms, and the free parking, while flagging a disappointing sea view and a broken minifridge",
+    "The hotel is confirmed at 328 rooms across both the official Pullman site and independent aggregators",
+    "Positioned by Accor as Miri's base for oil-and-gas corporate travel as well as leisure trips to Niah Caves and Gunung Mulu National Park"
+  ],
+  "research_watchouts": [
+    "TripAdvisor's aggregate score (around 3/5 from roughly 649 reviews) runs notably lower than the hotel's own ALL guest rating, suggesting a real split in guest experience",
+    "\"Sea view\" room categories don't guarantee an unobstructed water view -- several reviewers note the outlook can include an adjacent apartment block"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How many rooms does Pullman Miri Waterfront have?",
+      "answer": "328 rooms across a 24-storey tower, spanning superior rooms with city views, deluxe rooms with sea views, and executive rooms with lounge access on the 24th floor. It's the largest and only truly international-standard hotel in downtown Miri, Sarawak, sitting right on the Waterfront Commercial Centre."
+    },
+    {
+      "question": "Is Pullman Miri Waterfront a good base for visiting Niah Caves or Gunung Mulu National Park?",
+      "answer": "Yes -- Miri is the main gateway city for both, and the hotel is positioned by Accor as a base for that kind of trip. Niah Caves is roughly 90km south of Miri, while Gunung Mulu is reached by a short domestic flight from Miri Airport, about a 20-30 minute drive from the hotel."
+    }
+  ],
+  "tags": ["miri waterfront", "sarawak", "infinity pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9731/index.en.shtml",
+      "label": "Pullman Miri Waterfront on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://pullman.accor.com/en/hotels/miri/9731.html",
+      "label": "Official Pullman Miri Waterfront page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://malaysiauncovered.com/pullman-miri-waterfront/",
+      "label": "Malaysia Uncovered hotel review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://pullman.accor.com/en/hotels/miri/9731.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-kuching"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Pullman Miri Waterfront Review: Everything You Need To Know About Staying Here",
+        "source": "Malaysia Uncovered",
+        "url": "https://malaysiauncovered.com/pullman-miri-waterfront/",
+        "published_date": "2024-08-09",
+        "summary": "A stay review praising the infinity pool and jacuzzi, comfortable 48sqm rooms and free parking, while noting a sea-view room that mostly overlooked a nearby building and a broken minifridge."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Pullman Miri Waterfront Malaysia【Full Tour in 4k】",
+        "channel": "LivingHotel",
+        "url": "https://www.youtube.com/watch?v=1HrY12sTGqY",
+        "video_id": "1HrY12sTGqY"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 72,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 70 },
+      { "label": "Rooms", "score": 70 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 68 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

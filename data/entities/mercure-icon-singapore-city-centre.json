@@ -1,0 +1,115 @@
+{
+  "entity_id": "mercure-icon-singapore-city-centre",
+  "slug": "mercure-icon-singapore-city-centre",
+  "name": "Mercure ICON Singapore City Centre",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 989-room hotel on Club Street between Chinatown and the CBD, directly connected to Chinatown and Telok Ayer MRT -- the world's largest Mercure, opened April 2024.",
+  "ai_summary": "Mercure ICON Singapore City Centre opened in April 2024 at 8 Club Street, between Chinatown's shophouses and the Central Business District, directly connected to Chinatown and Telok Ayer MRT stations. With 989 rooms it's the largest Mercure hotel in the Accor network worldwide, and it leans on that scale with seven dining and drinking concepts including Chara Brasserie, La Table d'Emma, and the first Asia-Pacific outpost of L'antica Pizzeria da Michele. Reviewers praise the location, design, and food variety, including a Wellness Deck with complimentary yoga sessions, but as a large new-build property reviews are mixed on room size and service consistency, with some guests reporting small rooms and inconsistent service in its first year or two of operation.",
+  "core_facts": {
+    "address": "8 Club Street, 069472 Singapore, Singapore",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Chinatown / Club Street",
+    "star_rating": 4,
+    "rooms": 989,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "989 rooms -- the largest Mercure hotel in the world -- opened April 2024 on Club Street",
+    "Directly connected to Chinatown and Telok Ayer MRT stations for fast CBD and Marina Bay access",
+    "Seven dining and drink concepts including L'antica Pizzeria da Michele's first Asia-Pacific location",
+    "Wellness Deck with a pool, gym, and complimentary yoga classes on select days",
+    "Eco-conscious touches such as filtered water dispensers and biodegradable toiletries"
+  ],
+  "cons": [
+    "Some guests describe rooms as small for the rate, particularly standard categories",
+    "As a large new-build property, service consistency has been mixed in guest reviews, with a subset reporting inconsistent housekeeping or front-desk service"
+  ],
+  "research_highlights": [
+    "A July 2024 Honeycombers review praised the dining variety, the Wellness Deck's yoga classes, and the balcony rooms overlooking the pool",
+    "The hotel's connection to two MRT lines and position between Chinatown and the CBD draws consistently strong location feedback",
+    "It holds the title of the world's largest Mercure at 989 rooms, developed by Worldwide Hotels Group"
+  ],
+  "research_watchouts": [
+    "TripAdvisor reviews are more mixed than the brand's marketing suggests, with some guests citing small rooms and inconsistent service",
+    "Breakfast and other amenities are sold separately rather than universally included, which some guests flag as adding to the cost of a stay"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Mercure ICON Singapore City Centre really the world's largest Mercure?",
+      "answer": "Yes -- with 989 rooms, it opened in April 2024 as the largest Mercure-branded hotel in Accor's global network, developed by Singapore's Worldwide Hotels Group on Club Street. Its scale is unusual for the Mercure brand, which typically runs smaller midscale properties elsewhere in the region."
+    },
+    {
+      "question": "Is Mercure ICON Singapore City Centre near an MRT station?",
+      "answer": "Yes -- it connects directly to both Chinatown and Telok Ayer MRT stations, putting the Central Business District, Marina Bay, and Chinatown's hawker stalls within easy walking or transit reach."
+    }
+  ],
+  "tags": ["chinatown", "club street", "world's largest mercure"],
+  "source_mix": [
+    {
+      "url": "https://www.mercure-icon-singapore-city-centre.com/",
+      "label": "Official Mercure ICON Singapore City Centre page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://all.accor.com/hotel/C2S1/index.en.shtml",
+      "label": "Mercure ICON Singapore City Centre on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com.sg/Hotel_Review-g294265-d27481107-Reviews-Mercure_Icon_Singapore_City_Centre-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.mercure-icon-singapore-city-centre.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["sofitel-singapore-city-centre", "pullman-singapore-orchard"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: I escaped to Singapore's newest Mercure hotel for a getaway with delectable eats and rejuvenating wellness experiences",
+        "source": "The Honeycombers",
+        "url": "https://thehoneycombers.com/singapore/mercure-icon-singapore-city-centre-review/",
+        "published_date": "2024-07-16",
+        "summary": "A stay review covering the balcony pool-view room, Chara Brasserie's buffet, La Table d'Emma's French menu, and the Wellness Deck's complimentary yoga classes."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Was it worth it? | Mercure ICON Singapore City Centre",
+        "channel": "Best Hotel Review Channel",
+        "url": "https://www.youtube.com/watch?v=OGGqorwHXIs",
+        "video_id": "OGGqorwHXIs"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 72,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 68 },
+      { "label": "Rooms", "score": 66 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 68 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

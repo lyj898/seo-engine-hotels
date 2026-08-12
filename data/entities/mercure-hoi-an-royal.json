@@ -1,0 +1,98 @@
+{
+  "entity_id": "mercure-hoi-an-royal",
+  "slug": "mercure-hoi-an-royal",
+  "name": "Mercure Hoi An Royal",
+  "category_id": "accor-all",
+  "region_id": "hoi-an",
+  "short_description": "A 96-room boutique Mercure hotel between Hoi An's Ancient Town and Cua Dai beach, with a garden pool and vintage-chic decor, about 40 minutes from Da Nang airport.",
+  "ai_summary": "Mercure Hoi An Royal is a 96-room boutique hotel in Hoi An's Cam Chau area, positioned within walking distance of the Thu Bon River and roughly midway between the UNESCO-listed Ancient Town and Cua Dai beach. Its 42 Standard rooms, 40 Superior rooms, and 14 Junior suites carry vintage-chic, flower-motif interiors, with junior suites opening onto private terraces near the garden pool. The Royal Restaurant and Pool Bar cover buffet and a la carte dining, and guests consistently praise the breakfast, helpful staff, and pool area, while some feedback suggests the public areas could use periodic refreshing. Independent listings occasionally cite a higher room count than the hotel's own opening figures, likely reflecting inconsistent third-party data rather than an actual expansion.",
+  "core_facts": {
+    "address": "321 Cua Dai Street, Hoi An, Quang Nam Province, Vietnam",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Cua Dai / Cam Chau",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 2pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Walkable position between Hoi An Ancient Town and Cua Dai beach",
+    "96 rooms across Standard, Superior, and Junior Suite categories, several with private terraces",
+    "Garden outdoor pool and pool bar praised by guests",
+    "Breakfast buffet consistently highlighted as a strength",
+    "About 40 minutes from Da Nang International Airport"
+  ],
+  "cons": [
+    "Some public areas and rooms noted by guests as due for a refresh",
+    "Third-party booking sites sometimes list inconsistent room counts, making it worth confirming room type directly at booking"
+  ],
+  "research_highlights": [
+    "Guests repeatedly single out the breakfast buffet and attentive front-of-house staff",
+    "The pool and garden setting draws consistent praise as a relaxing counterpoint to Old Town sightseeing",
+    "Won a TripAdvisor Travelers' Choice Award in 2023, per hotel-side award listings"
+  ],
+  "research_watchouts": [
+    "A subset of reviews note the property would benefit from a refresh in some rooms and public spaces",
+    "Room-count figures vary across booking sites (96 per the hotel's own opening figures vs. 116 on some OTAs) -- unresolved discrepancy worth flagging rather than a confirmed expansion"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Mercure Hoi An Royal from Hoi An Ancient Town and the beach?",
+      "answer": "It sits between the two, within walking or short shuttle distance of both the Thu Bon River side of Hoi An Ancient Town and Cua Dai beach, making it a practical base for splitting time between Old Town sightseeing and the coast."
+    },
+    {
+      "question": "How many rooms does Mercure Hoi An Royal have?",
+      "answer": "The hotel's own opening figures list 96 rooms -- 42 Standard, 40 Superior, and 14 Junior Suites -- though some third-party booking sites show a higher count that hasn't been independently confirmed."
+    }
+  ],
+  "tags": ["hoi an ancient town", "cua dai beach", "boutique"],
+  "source_mix": [
+    {
+      "url": "https://travmedia.com/showPRPreview/AccorHotels-Opens-Mercure-Hoi-an-Royal-Offering-Boutique-Comfort-Quality-UNESCO-World-Heritage-Site-1",
+      "label": "AccorHotels opening press release, Mercure Hoi An Royal",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://theshutterwhale.com/blog/2015/7/7/refurbished-mercure-hoi-an-royal-opens-in-hoi-an",
+      "label": "The Shutterwhale, hotel opening feature",
+      "type": "other",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298082-d446827-Reviews-Mercure_Hoi_An-Hoi_An_Quang_Nam_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/a/en/destination/city/hotels-hoi-an-v179170.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-danang-french-village-bana-hills", "banyan-tree-lang-co"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 70 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 36,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

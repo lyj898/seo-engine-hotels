@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-living-putrajaya",
+  "slug": "mercure-living-putrajaya",
+  "name": "Mercure Living Putrajaya",
+  "category_id": "accor-all",
+  "region_id": "putrajaya",
+  "short_description": "A 299-unit serviced-apartment tower in Putrajaya connected to the Shaftsbury retail complex and Alamanda Shopping Mall, open since July 2022.",
+  "ai_summary": "Mercure Living Putrajaya opened on 1 July 2022 as a 299-unit serviced-apartment tower spread across 36 floors in Precinct 1, connected to the Shaftsbury retail complex and within walking distance of Alamanda Shopping Mall. Every unit is apartment-style with a full kitchenette, washer and dryer, and separate living area, aimed at longer-stay guests, government-business travelers, and families rather than a typical overnight hotel stay, alongside a 52-metre outdoor saltwater pool, gym, tennis court, and spa. Guest reviews are generally positive for the spacious apartment-style rooms and convenient dual-mall location, though a subset of reviews flag inconsistent cleanliness in common areas and breakfast quality the hotel has said it's working to address.",
+  "core_facts": {
+    "address": "Tower A, Shaftsbury Tower, Jalan Alamanda, Precinct 1, Putrajaya 62000, Malaysia",
+    "brand_sub_brand": "Mercure Living",
+    "neighborhood": "Precinct 1",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "299 apartment-style units across 36 floors, each with a full kitchenette, washer, and dryer",
+    "Connected to the Shaftsbury retail complex and walkable to Alamanda Shopping Mall",
+    "52-metre outdoor saltwater pool, gym, tennis court, and spa on site",
+    "Spacious layouts suited to families or longer government-business stays",
+    "Complimentary parking, a notable convenience for guests driving in from Kuala Lumpur or KLIA"
+  ],
+  "cons": [
+    "Some reviews flag inconsistent cleanliness in common areas",
+    "Breakfast quality has drawn mixed feedback, which hotel management has acknowledged and said it's addressing"
+  ],
+  "research_highlights": [
+    "The spacious, apartment-style rooms with full kitchens draw consistent praise, especially for families and longer stays",
+    "Its dual-mall location -- Shaftsbury and Alamanda -- is repeatedly highlighted as a strong convenience",
+    "Complimentary parking is called out favorably by guests arriving by car"
+  ],
+  "research_watchouts": [
+    "A subset of reviews describe cleanliness lapses in shared spaces",
+    "Breakfast quality concerns appear in multiple reviews, with management response acknowledging the feedback"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Does Mercure Living Putrajaya have kitchens in the rooms?",
+      "answer": "Yes -- every one of its 299 units is apartment-style with a full kitchenette, fridge, microwave, and cooking utensils, plus a washer and dryer, making it geared toward longer stays and families rather than a typical short hotel visit."
+    },
+    {
+      "question": "When did Mercure Living Putrajaya open?",
+      "answer": "It opened on 1 July 2022 as a 36-floor serviced-apartment tower in Putrajaya's Precinct 1, connected directly to the Shaftsbury retail complex and within walking distance of Alamanda Shopping Mall, Malaysia's federal administrative capital's main shopping hub."
+    }
+  ],
+  "tags": ["serviced apartments", "putrajaya precinct 1", "family stays"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B8Z0/index.en.shtml",
+      "label": "Official Mercure Living Putrajaya page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298305-d24150517-Reviews-Mercure_Living_Putrajaya-Putrajaya_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B8Z0/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-kuala-lumpur-shaw-parade", "mercure-kuala-lumpur-trion"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Living Putrajaya | 365 Nights in Accor Hotels (Night 102)",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=GyHlsDDq9AY",
+        "video_id": "GyHlsDDq9AY"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 72 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 66 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

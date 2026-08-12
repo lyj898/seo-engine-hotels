@@ -1,0 +1,100 @@
+{
+  "entity_id": "angsana-ho-tram",
+  "slug": "angsana-ho-tram",
+  "name": "Angsana Ho Tram",
+  "category_id": "accor-all",
+  "region_id": "ho-tram",
+  "short_description": "A 96-suite-and-villa beach resort on a quiet 280-metre stretch of Ho Tram's coast, roughly 2-2.5 hours from Ho Chi Minh City, with private pools throughout.",
+  "ai_summary": "Angsana Ho Tram is a beach resort set on six hectares along a calm, 280-metre stretch of the Ho Tram coastline in Ba Ria-Vung Tau Province, about 2-2.5 hours by car from Ho Chi Minh City. All 96 suites and villas have a private pool and reach the beach via the resort's landscaped 'Serenity Stream Walk,' with interiors designed around the region's native melaleuca tree. Guest reviews consistently highlight the spacious, elegant rooms, attentive multilingual staff, and family-friendly facilities including a kids' club, while a smaller number of reviewers note breakfast buffet variety could improve and mention some beach erosion and debris along the shoreline.",
+  "core_facts": {
+    "address": "Coastal Road, Ong To Hamlet, Phuoc Thuan Commune, Xuyen Moc District, Ba Ria - Vung Tau Province, Vietnam",
+    "brand_sub_brand": "Angsana",
+    "neighborhood": "Ho Tram Beach",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "All 96 suites and villas include a private pool and direct beach access via the Serenity Stream Walk",
+    "Set on six hectares along a quieter, less-developed stretch of the Ho Tram coast",
+    "Attentive, multilingual staff repeatedly praised across reviews",
+    "Kids' club, children's pool, and family-oriented facilities",
+    "About 2-2.5 hours by car from Ho Chi Minh City, closer than Phu Quoc or Nha Trang"
+  ],
+  "cons": [
+    "Some guests note the breakfast buffet's variety and staffing could improve",
+    "A subset of reviews mention beach erosion and debris limiting the shoreline experience"
+  ],
+  "research_highlights": [
+    "The property's own site and TripAdvisor both confirm 96 suites and villas, each with a private pool",
+    "TripAdvisor shows a 4/5 rating from roughly 185 reviews, ranking it #2 of 13 hotels in Ho Tram",
+    "Reviews consistently single out staff attentiveness and room/villa spaciousness as the strongest points"
+  ],
+  "research_watchouts": [
+    "No independently dated blog or press review could be confirmed beyond TripAdvisor guest reviews and the property's own site",
+    "A few reviews push back on the resort's 5-star positioning relative to price, and note beach conditions (erosion, debris) fall short of marketing imagery"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Angsana Ho Tram from Ho Chi Minh City?",
+      "answer": "The resort is roughly 125km from Ho Chi Minh City, a drive of about 2 to 2.5 hours via the Long Thanh-Dau Giay Expressway and National Highway 51. That makes it one of the closer beach getaways to the city, compared with longer trips to Phu Quoc or Nha Trang."
+    },
+    {
+      "question": "Do all rooms at Angsana Ho Tram have a private pool?",
+      "answer": "Yes -- all 96 suites and villas include a private swimming pool, along with a garden and direct access to the beach through the resort's landscaped Serenity Stream Walk. Interiors are designed around the region's native melaleuca tree, which is a recurring design motif throughout the property."
+    }
+  ],
+  "tags": ["ho tram beach", "pool villas", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://www.angsana.com/vietnam/angsana-ho-tram",
+      "label": "Official Angsana Ho Tram page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2549585-d25319979-Reviews-Angsana_Ho_Tram-Ho_Tram_Phuoc_Thuan_Ba_Ria_Vung_Tau_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.angsana.com/vietnam/angsana-ho-tram",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Review Biet Thu Angsana Ho Tram, So Huu Biet Thu Bien Tai Resort 5 Sao, Tai Sao Khong?",
+        "channel": "Minh Tan Nguyen",
+        "url": "https://www.youtube.com/watch?v=KI3jCB_XLRA",
+        "video_id": "KI3jCB_XLRA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

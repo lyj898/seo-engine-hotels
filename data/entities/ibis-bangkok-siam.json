@@ -1,0 +1,114 @@
+{
+  "entity_id": "ibis-bangkok-siam",
+  "slug": "ibis-bangkok-siam",
+  "name": "ibis Bangkok Siam",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 189-room budget ibis steps from National Stadium BTS station in Bangkok's Siam shopping district, sharing its building with the adjacent Mercure Bangkok Siam.",
+  "ai_summary": "ibis Bangkok Siam is a 189-room economy hotel steps from the National Stadium BTS and Airport Rail Link station, in the same Rama I Road building as the adjacent Mercure Bangkok Siam. All rooms run a compact, uniform 17 square metres with king or twin beds, and guests can pay to use the Mercure's pool and gym. The hotel serves an all-you-can-eat breakfast buffet at The Eight restaurant and sits within walking distance of MBK, Siam Paragon, Siam Discovery, and Jim Thompson House. Reviews consistently praise the unbeatable BTS-adjacent location, clean rooms, and friendly staff, while noting the small room size and dim lighting typical of the ibis economy tier -- this is a distinct property from the separately listed ibis Bangkok Siam Ratchathewi, several kilometres away.",
+  "core_facts": {
+    "address": "927 Rama I Road, Wang Mai, Pathum Wan, 10330 Bangkok, Thailand",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Siam / Pathum Wan, Bangkok",
+    "star_rating": 3,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Steps from National Stadium BTS station and the Airport Rail Link",
+    "Walking distance to MBK, Siam Paragon, Siam Discovery, and Jim Thompson House",
+    "189 clean, contemporary rooms with air conditioning, free Wi-Fi, and in-room safes",
+    "All-you-can-eat breakfast buffet at The Eight, mixing international, Asian, and Thai dishes",
+    "Budget price point for a prime central Bangkok shopping-district location"
+  ],
+  "cons": [
+    "Rooms are a uniform, compact 17 square metres with limited storage space",
+    "No on-site pool or gym -- guests must pay a fee to use the adjoining Mercure's facilities"
+  ],
+  "research_highlights": [
+    "The National Stadium BTS-adjacent location draws consistent, strong praise across TripAdvisor and blog reviews",
+    "Accor's official page shows a 4.5/5 ALL Rating from 739 reviews; TripAdvisor shows 4/5 from roughly 2,161 reviews",
+    "The hotel shares its building and street address with Mercure Bangkok Siam, mirroring the pairing at the separate ibis/Mercure Ratchathewi properties"
+  ],
+  "research_watchouts": [
+    "Easily confused with the separately listed ibis Bangkok Siam Ratchathewi, a different property in a different part of Bangkok",
+    "Some reviews mention inconsistent water heater temperature and small bathrooms"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is ibis Bangkok Siam the same hotel as ibis Bangkok Siam Ratchathewi?",
+      "answer": "No -- these are two distinct Accor properties. ibis Bangkok Siam sits on Rama I Road next to National Stadium BTS station in the Siam shopping district, while ibis Bangkok Siam Ratchathewi is a separate hotel near Ratchathewi BTS station, several kilometres away in a different part of the city."
+    },
+    {
+      "question": "Does ibis Bangkok Siam have a pool?",
+      "answer": "Not on-site. The hotel shares its building with the adjacent Mercure Bangkok Siam, and guests can pay a fee to use the Mercure's rooftop pool and fitness centre, which is a common arrangement between paired ibis and Mercure properties in this Accor portfolio."
+    }
+  ],
+  "tags": ["siam", "national stadium bts", "ibis", "budget", "shopping district"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8016/index.en.shtml",
+      "label": "Accor ALL -- ibis Bangkok Siam official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d3529175-Reviews-Ibis_Bangkok_Siam-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.exploretomakan.com/blog/hotel-ibis-siam-bangkok",
+      "label": "Muslim Travel Blog -- Ibis Hotel Siam Bangkok review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/8016/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-bangkok-siam"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Ibis Hotel Siam Bangkok: A Budget-Friendly Option in the Heart of Bangkok's Tourist District",
+        "source": "Muslim Travel Blog (exploretomakan.com)",
+        "url": "https://www.exploretomakan.com/blog/hotel-ibis-siam-bangkok",
+        "published_date": "2022-05-21",
+        "summary": "A blog review by Nurul Mimsy calling this a solid budget pick, praising the prime National Stadium BTS location and rooftop pool access, with minor gripes about compact rooms and inconsistent shower temperature."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ibis Bangkok Siam | Full Tour",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=lybc1KnwhGs",
+        "video_id": "lybc1KnwhGs"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+  "region_id": "vung-tau",
+  "slug": "vung-tau",
+  "label": "Vung Tau",
+  "granularity": "city",
+  "parent_region_id": "vietnam",
+  "short_description": "The closest beach city to Ho Chi Minh City, on a peninsula about 1.5-2 hours southeast by road.",
+  "intro": "Vung Tau's hotels in this directory serve the closest beach getaway from Ho Chi Minh City, roughly 1.5-2 hours away by car or hydrofoil, which makes the city a popular weekend and short-break destination for Saigon residents and business travelers alike rather than a long-haul resort market. Coverage centers on the Back Beach (Bai Sau) strip, where the city's few international-standard towers sit alongside a long run of local hotels. Expect a mix of leisure and MICE demand -- convention space and function rooms feature prominently -- rather than the villa-resort format found further up the coast.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

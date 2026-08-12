@@ -1,0 +1,12 @@
+{
+  "region_id": "sihanoukville",
+  "slug": "sihanoukville",
+  "label": "Sihanoukville",
+  "granularity": "city",
+  "parent_region_id": "cambodia",
+  "short_description": "Cambodia's main beach town on the Gulf of Thailand, and the gateway to the Koh Rong islands.",
+  "intro": "Sihanoukville is Cambodia's principal coastal resort town on the Gulf of Thailand, roughly a 2.5-hour drive from Phnom Penh via the Phnom Penh-Sihanoukville Expressway and served by its own international airport. The town has seen a wave of casino-driven development in recent years, leaving a mix of finished resorts and unfinished construction around its edges, but its beaches -- Independence Beach and Otres among them -- and ferry access to the Koh Rong islands remain the main draw for leisure travellers. Hotel coverage here is almost entirely beachfront resort-style rather than city business hotels.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

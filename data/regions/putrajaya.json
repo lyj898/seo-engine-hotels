@@ -1,0 +1,12 @@
+{
+  "region_id": "putrajaya",
+  "slug": "putrajaya",
+  "label": "Putrajaya",
+  "granularity": "city",
+  "parent_region_id": "malaysia",
+  "short_description": "Malaysia's purpose-built federal administrative capital, known for its planned-city architecture and government precincts.",
+  "intro": "Putrajaya is Malaysia's purpose-built federal administrative capital, developed from the 1990s onward south of Kuala Lumpur and home to the Prime Minister's office, Parliament-adjacent ministries, and landmark planned-city architecture like the Putra Mosque and Seri Wawasan Bridge. Hotels here mostly serve government business travelers, conference and event delegates, and families visiting the Botanical Garden and the wide boulevards built around Putrajaya Lake, and sit roughly midway between Kuala Lumpur and KLIA.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+  "region_id": "kuching",
+  "slug": "kuching",
+  "label": "Kuching",
+  "granularity": "city",
+  "parent_region_id": "malaysia",
+  "short_description": "Sarawak's riverside capital, gateway to Borneo's rainforests and orangutan sanctuaries.",
+  "intro": "Kuching is the capital of Sarawak on the island of Borneo, built along the winding Sarawak River with a compact, walkable downtown known locally as the Golden Triangle. Hotels here cluster near the waterfront and Main Bazaar, close to the Sarawak Museum and old bazaar's food scene, and serve as a base for day trips to Bako National Park, the Semenggoh orangutan rehabilitation centre, and the Sarawak Cultural Village. It's a slower-paced, culturally distinct market from Malaysia's peninsula cities, with a stronger emphasis on nature and heritage tourism than shopping or nightlife.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

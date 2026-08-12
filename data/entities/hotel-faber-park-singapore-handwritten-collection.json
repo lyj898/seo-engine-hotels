@@ -1,0 +1,112 @@
+{
+  "entity_id": "hotel-faber-park-singapore-handwritten-collection",
+  "slug": "hotel-faber-park-singapore-handwritten-collection",
+  "name": "Hotel Faber Park Singapore",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 194-room Handwritten Collection hotel at the foot of Mount Faber, built in 2023 with rooftop pool views toward the harbour and Sentosa.",
+  "ai_summary": "Hotel Faber Park Singapore opened in 2023 as a 194-key Handwritten Collection property at the foot of Mount Faber, close to VivoCity, HarbourFront, and Sentosa, with rooms across six configurations from Superior to Deluxe with balcony, each with floor-to-ceiling windows facing Mount Faber or the city. Guests consistently praise the attentive front-desk and housekeeping staff, the rooftop pool with harbour views, and the convenient Sentosa/VivoCity access via a bus stop directly outside, though multiple reviews describe rooms as compact with limited storage space, and a few flag soundproofing and balcony-weatherproofing issues. It functions well as a base for families visiting Sentosa given the transit links, even though the immediate neighborhood has limited dining options of its own.",
+  "core_facts": {
+    "address": "448 Telok Blangah Road, Singapore 099593",
+    "brand_sub_brand": "Handwritten Collection",
+    "neighborhood": "Mount Faber / Telok Blangah",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "VivoCity", "km": 2 },
+      { "label": "Sentosa (via cable car/monorail)", "km": 2.5 },
+      { "label": "HarbourFront MRT", "km": 1.5 }
+    ]
+  },
+  "pros": [
+    "194 rooms across six configurations, all with floor-to-ceiling windows facing Mount Faber or the city",
+    "Rooftop swimming pool with views over the surrounding greenery and harbour",
+    "Bus stop directly outside the hotel with easy connections to VivoCity and Sentosa",
+    "Front-desk and housekeeping staff repeatedly praised as warm and accommodating",
+    "Tiffin House restaurant's breakfast spread draws consistent guest praise"
+  ],
+  "cons": [
+    "Several reviews describe rooms as compact with limited storage/closet space",
+    "A subset of reviews flag soundproofing between rooms and an unsheltered balcony that becomes unusable in rain"
+  ],
+  "research_highlights": [
+    "Staff warmth and attentiveness are repeatedly singled out across reviews",
+    "The Mount Faber/harbour views from floor-to-ceiling windows draw consistent praise",
+    "Its transit links to Sentosa and VivoCity make it a popular choice for families"
+  ],
+  "research_watchouts": [
+    "Multiple reviews note rooms run small with minimal storage space",
+    "A dated review flagged shower leakage and an unsheltered balcony as specific issues"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Hotel Faber Park Singapore close to Sentosa?",
+      "answer": "Yes -- it's about 2.5km from Sentosa, with a bus stop directly outside the hotel connecting to VivoCity and the HarbourFront transit hub, from where guests can continue to Sentosa by cable car, monorail, or the pedestrian boardwalk."
+    },
+    {
+      "question": "When did Hotel Faber Park Singapore open?",
+      "answer": "It opened in 2023 as part of Accor's Handwritten Collection, built at the foot of Mount Faber with 194 rooms across six configurations, each featuring floor-to-ceiling windows facing either the surrounding greenery or the city skyline."
+    }
+  ],
+  "tags": ["mount faber", "handwritten collection", "sentosa access"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C266/index.en.shtml",
+      "label": "Official Hotel Faber Park Singapore page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d27099053-Reviews-Hotel_Faber_Park_Singapore-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C266/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-waterloo-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Faber Park Singapore Review: Deluxe Room with Balcony",
+        "source": "Trevallog",
+        "url": "https://trevallog.com/hotel-faber-park-singapore-review/",
+        "published_date": "2024-04-29",
+        "summary": "A reviewer praised attentive staff, an Accor-status room upgrade, and Mount Faber proximity, but flagged an unsheltered balcony unusable in rain and a shower leak as real drawbacks."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Room tour at Hotel Faber Park in Singapore",
+        "channel": "Pierre Travel Asia",
+        "url": "https://www.youtube.com/watch?v=3jcVPiv06Ms",
+        "video_id": "3jcVPiv06Ms"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

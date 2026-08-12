@@ -1,0 +1,12 @@
+{
+  "region_id": "makassar",
+  "slug": "makassar",
+  "label": "Makassar",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "South Sulawesi's port capital, the gateway to Toraja and eastern Indonesia.",
+  "intro": "Makassar is South Sulawesi's provincial capital and the main gateway to eastern Indonesia, a port city built around the Losari Beach waterfront and the Dutch-era Fort Rotterdam. Hotels here skew business and transit-oriented -- travelers connecting onward to the Toraja highlands, Bunaken, or Raja Ampat commonly overnight in the city -- and are reached via Sultan Hasanuddin International Airport (UPG), about 30 minutes from the city center.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

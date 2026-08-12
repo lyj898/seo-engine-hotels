@@ -1,0 +1,118 @@
+{
+  "entity_id": "banyan-tree-lang-co",
+  "slug": "banyan-tree-lang-co",
+  "name": "Banyan Tree Lang Co",
+  "category_id": "accor-all",
+  "region_id": "lang-co",
+  "short_description": "An 89-pool-villa beach resort at the Laguna Lang Co destination, roughly midway between Hue and Da Nang, with every villa built around its own private pool.",
+  "ai_summary": "Banyan Tree Lang Co is an all-pool-villa resort of 89 villas at the Laguna Lang Co integrated destination, sited between the East Sea and the Truong Son mountains on a stretch of coast roughly 75 minutes from either Hue or Da Nang's airport. Villa categories range from beach-front to lagoon and panoramic villas, each with a private pool, and the resort has an 18-hole championship golf course, a Banyan Tree Spa, a watersports centre, and several restaurants on site. It has been recognised in Condé Nast Traveler's Readers' Choice Awards and is a two-MICHELIN-Key property. Guest reviews consistently praise the villa design, personal butler service, and the resort's genuinely secluded setting, though that same remoteness means there's little beyond the resort itself within a half-hour drive, so most guests treat it as a self-contained stay rather than a base for exploring Hue or Da Nang.",
+  "core_facts": {
+    "address": "Cu Du Village, Loc Vinh Commune, Phu Loc District, Thua Thien Hue Province, Vietnam",
+    "brand_sub_brand": "Banyan Tree",
+    "neighborhood": "Laguna Lang Co",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Da Nang International Airport", "km": 60 },
+      { "label": "Hue city centre", "km": 45 },
+      { "label": "Hai Van Pass", "km": 10 }
+    ]
+  },
+  "pros": [
+    "89 all-pool villas, from beach-front to lagoon and panoramic categories, each with a private pool",
+    "18-hole championship golf course on-site at the Laguna Lang Co destination",
+    "Personal butler service and daily turndown consistently praised in guest reviews",
+    "3-kilometre private beach and a dedicated watersports centre",
+    "Genuinely secluded setting between the East Sea and the Truong Son mountains"
+  ],
+  "cons": [
+    "Little to do beyond the resort within a half-hour's drive, so it suits a self-contained stay rather than a base for exploring Hue or Da Nang",
+    "Distance from both Hue and Da Nang airports (roughly 75 minutes) makes it a deliberate detour rather than a convenient stopover"
+  ],
+  "research_highlights": [
+    "Villa design and private-pool setup draw consistently strong praise across reviews",
+    "Personal butler service is repeatedly singled out as a highlight",
+    "Recognised in Condé Nast Traveler's Readers' Choice Awards and holds Two MICHELIN Keys"
+  ],
+  "research_watchouts": [
+    "The resort's remoteness is both its main draw and a real limitation for guests wanting to explore beyond it",
+    "Some reviews note that weather-dependent activities (golf, watersports, beach time) can be affected during the rainy season"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How many villas does Banyan Tree Lang Co have?",
+      "answer": "89 all-pool villas spread across beach-front, lagoon, and panoramic categories, each built around its own private pool as part of the wider Laguna Lang Co integrated destination between Hue and Da Nang."
+    },
+    {
+      "question": "Is Banyan Tree Lang Co close to Hue or Da Nang?",
+      "answer": "It's roughly 75 minutes by road from either city's airport, sitting on a stretch of coast between the two. Most guests treat it as a self-contained resort stay, visiting Hue's imperial sites or Da Nang/Hoi An as day trips."
+    }
+  ],
+  "tags": ["all-pool villas", "laguna lang co", "golf resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B1V7/index.en.shtml",
+      "label": "Official Banyan Tree Lang Co page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.banyantree.com/vietnam/lang-co",
+      "label": "Official Banyan Tree Lang Co brand page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293926-d3334545-Reviews-Banyan_Tree_Lang_Co-Hue_Thua_Thien_Hue_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B1V7/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["banyan-tree-bangkok", "banyan-tree-phuket"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Vietnam: Banyan Tree Lang Co Review: A Peaceful Luxury Escape",
+        "source": "Our Travel Itinerary",
+        "url": "https://www.ourtravelitinerary.com/2024/09/vietnam-banyan-tree-lang-co-review.html",
+        "published_date": "2024-09",
+        "summary": "A blogger's review praising the warm welcome, a spacious lagoon-view villa, and complimentary yoga and banana-boat activities on a nearly empty beach, calling it a genuine blend of luxury, peace, and nature."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Banyan Tree Lang Co — Beach Front Wellbeing Pool Villa walkthrough and review in Central Vietnam",
+        "channel": "TheSweetSuites",
+        "url": "https://www.youtube.com/watch?v=dm4gahRRIGQ",
+        "video_id": "dm4gahRRIGQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 92 },
+      { "label": "Rooms", "score": 90 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

@@ -1,0 +1,115 @@
+{
+  "entity_id": "pullman-kuching",
+  "slug": "pullman-kuching",
+  "name": "Pullman Kuching",
+  "category_id": "accor-all",
+  "region_id": "kuching",
+  "short_description": "A 389-room 5-star hotel in Kuching's Golden Triangle, a 5-minute walk from the Sarawak riverfront, with an Executive Lounge and rooms renovated through late 2025.",
+  "ai_summary": "Pullman Kuching sits atop Kuching's Golden Triangle downtown, about a 5-minute walk from the Sarawak riverfront and the Main Bazaar's food scene. The 5-star property holds 389 redesigned rooms and suites, an all-day Pan-Asian restaurant (Puzzle), a specialty Chinese restaurant, and The Peak Executive Lounge for eligible guests. Guest reviews consistently praise the spacious, recently renovated rooms, a wide breakfast spread spanning Sarawak, Malaysian and Western dishes, and genuinely warm staff, though the hotel underwent a phased renovation into late 2025 that some guests during that window noted came with construction noise and offsite fitness/pool access.",
+  "core_facts": {
+    "address": "Interhill Place, No. 1A, Jalan Mathies, 93100 Kuching, Sarawak, Malaysia",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Golden Triangle / Kuching Waterfront",
+    "star_rating": 5,
+    "rooms": 389,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "389 redesigned rooms in a 5-star tower atop Kuching's Golden Triangle",
+    "About a 5-minute walk to the Sarawak riverfront and Main Bazaar dining",
+    "Wide breakfast spread spanning Sarawak, Malaysian and Western dishes",
+    "Consistently warm, attentive staff across front desk and housekeeping",
+    "The Peak Executive Lounge available to eligible ALL members and suite guests"
+  ],
+  "cons": [
+    "The hotel underwent a phased renovation running into late 2025, with some guests during that period reporting construction noise",
+    "Fitness and pool facilities were periodically offsite or limited while renovation work was underway"
+  ],
+  "research_highlights": [
+    "A 2023 blog review called out spacious Executive Deluxe rooms, a strong breakfast spread, and staff who 'truly enjoyed making guests feel at home'",
+    "Recent guest reviews from late 2024 and 2025 repeatedly praise the newly renovated rooms and the waterfront-adjacent location",
+    "The Golden Triangle downtown location draws consistent praise for walkability to the riverfront and old bazaar"
+  ],
+  "research_watchouts": [
+    "The property was mid-renovation through 2025, so some reviews from that window describe drilling noise or offsite gym/pool access rather than the finished product",
+    "Room counts vary across sources -- the hotel's own listing confirms 389 redesigned rooms after the refurbishment"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How many rooms does Pullman Kuching have?",
+      "answer": "389 redesigned rooms and suites, following a renovation of the property that ran into late 2025. Room categories range from Deluxe rooms up to a 76-square-metre Executive Suite with lounge access."
+    },
+    {
+      "question": "Is Pullman Kuching close to the Sarawak riverfront?",
+      "answer": "Yes -- it sits in Kuching's Golden Triangle downtown, about a 5-minute walk from the Sarawak Waterfront and the Main Bazaar's restaurants, and roughly a 20-minute drive from Kuching International Airport."
+    }
+  ],
+  "tags": ["golden triangle", "kuching waterfront", "renovated rooms"],
+  "source_mix": [
+    {
+      "url": "https://www.pullmankuching.com/",
+      "label": "Official Pullman Kuching page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://all.accor.com/hotel/6332/index.en.shtml",
+      "label": "Pullman Kuching on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298309-d1594099-Reviews-Pullman_Kuching-Kuching_Sarawak.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.pullmankuching.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-kuala-lumpur-city-centre"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Kuching 2.0: I Had The Most Memorable Stay at the Pullman Hotel, Kuching",
+        "source": "Wanderhoney",
+        "url": "https://wanderhoney.com/2023/08/20/kuching-2-0-i-had-the-most-memorable-stays-at-pullman-kuching/",
+        "published_date": "2023-08-20",
+        "summary": "A 3-night stay review praising the spacious Executive Deluxe room, a strong breakfast spread at Puzzle, genuinely warm staff, and the short walk to Kuching Waterfront."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Pullman Kuching Malaysia【Full Tour in 4k】",
+        "channel": "LivingHotel",
+        "url": "https://www.youtube.com/watch?v=QjClBemajXc",
+        "video_id": "QjClBemajXc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

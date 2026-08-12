@@ -1,0 +1,114 @@
+{
+  "entity_id": "grand-mercure-khao-lak-bangsak",
+  "slug": "grand-mercure-khao-lak-bangsak",
+  "name": "Grand Mercure Khao Lak Bangsak",
+  "category_id": "accor-all",
+  "region_id": "khao-lak",
+  "short_description": "A 195-room, Green Globe-certified beachfront resort on Bang Sak Beach with seven pools and a canal-inspired Thai-village layout.",
+  "ai_summary": "Grand Mercure Khao Lak Bangsak is a five-star beachfront resort on Bang Sak Beach in Khao Lak, roughly 94 km (about 90 minutes by road) north of Phuket International Airport. Its 195 rooms and suites are arranged across low-rise, canal-threaded buildings inspired by southern Thai riverside villages, with seven swimming pools, some with direct pool-access rooms, plus Pran Spa and a kids' club. Guest reviews consistently praise the beachfront setting, distinctive architecture, cleanliness and attentive staff, while some note the resort's remote location -- about 17 km from Bang Niang -- means limited nearby dining and a quiet evening scene, and a few flag pricier on-site food.",
+  "core_facts": {
+    "address": "71 Moo 7, Bangmuang District, Amphur Takuapa, Phang Nga 82190, Thailand",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Bang Sak Beach, Khao Lak",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Direct beachfront position on Bang Sak Beach with clean sand and calm Andaman waters",
+    "195 rooms and suites spread across seven pools, including private pool-access rooms",
+    "Distinctive canal-and-garden layout inspired by southern Thai riverside villages",
+    "First Green Globe Certified resort in Khao Lak",
+    "Consistently praised staff friendliness and attentive service"
+  ],
+  "cons": [
+    "Remote setting about 17 km from Bang Niang limits easy access to outside restaurants and nightlife",
+    "On-site restaurant pricing runs higher than options in town, per multiple guest reviews"
+  ],
+  "research_highlights": [
+    "Guests repeatedly highlight the beachfront location, cleanliness and pool-access rooms",
+    "The resort's canal-inspired design is called out by reviewers as distinctive versus typical beach resorts",
+    "Staff friendliness and professionalism draw consistent praise across review sources"
+  ],
+  "research_watchouts": [
+    "Isolation from Khao Lak's town centers is a recurring trade-off noted by reviewers who want easy access to restaurants or nightlife",
+    "A subset of guests flag the pool bar atmosphere as subdued rather than lively in the evenings"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Grand Mercure Khao Lak Bangsak from Phuket Airport?",
+      "answer": "It's about 94 km north of Phuket International Airport, roughly a 90-minute drive along the Andaman coast road. That distance is one reason Khao Lak markets itself as a quieter, less crowded alternative to Phuket's beaches for travelers willing to add the extra transfer time."
+    },
+    {
+      "question": "Does Grand Mercure Khao Lak Bangsak have pool-access rooms?",
+      "answer": "Yes -- alongside standard Superior and Deluxe rooms, the resort offers Deluxe Pool Access rooms with private terraces opening directly onto one of the property's seven pools, letting guests step from their room straight into the water without walking to a shared pool deck."
+    }
+  ],
+  "tags": ["bang sak beach", "beachfront", "family resort", "green globe certified"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B130/index.en.shtml",
+      "label": "Accor ALL -- Grand Mercure Khao Lak Bangsak official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g20862562-d21360983-Reviews-Grand_Mercure_Khao_Lak_Bangsak-Bang_Muang_Khao_Lak_Takua_Pa_Phang_Nga_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.phuket101.net/grand-mercure-khao-lak-bangsak/",
+      "label": "Phuket101 resort review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B130/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-khao-lak-resort", "grand-mercure-phuket-patong"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Grand Mercure Khao Lak Bangsak",
+        "source": "Phuket101",
+        "url": "https://www.phuket101.net/grand-mercure-khao-lak-bangsak/",
+        "published_date": "2026-04-16",
+        "summary": "Willy Thuan of Phuket101 praises the canal-inspired design, pool-access rooms and Green Globe certification, but flags the resort's remote setting and quiet evenings."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Grand Mercure Khao Lak Bangsak | Beachfront Resort Tour & Review",
+        "channel": "Maksim Bobrov",
+        "url": "https://www.youtube.com/watch?v=yfkw5btTU2k",
+        "video_id": "yfkw5btTU2k"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

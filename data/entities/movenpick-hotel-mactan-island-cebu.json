@@ -1,0 +1,116 @@
+{
+  "entity_id": "movenpick-hotel-mactan-island-cebu",
+  "slug": "movenpick-hotel-mactan-island-cebu",
+  "name": "Mövenpick Hotel Mactan Island Cebu",
+  "category_id": "accor-all",
+  "region_id": "cebu",
+  "short_description": "A 245-room Mediterranean-styled 5-star beachfront resort in Punta Engaño, Mactan Island, roughly 6km from Mactan-Cebu International Airport.",
+  "ai_summary": "Mövenpick Hotel Mactan Island Cebu is a 245-room beachfront resort in Punta Engaño on Mactan Island, styled around a Mediterranean and Ibiza-inspired aesthetic with an all-white, Greek-influenced courtyard, roughly 6km (about a 15-20 minute drive) from Mactan-Cebu International Airport. The resort sits on a private white-sand beach and offers 14 room categories from 33-square-metre Deluxe rooms up to the 224-square-metre Ibiza Loft penthouse, alongside four restaurants including all-day buffet venue The Sails and beach club Ibiza. Guests repeatedly praise the private beach, attentive staff, and Mövenpick's signature Chocolate Hour, while reviews flag that entry-level Deluxe rooms feel basic relative to the resort's higher categories and that poolside drinks run pricey.",
+  "core_facts": {
+    "address": "168 Punta Engaño Road, Lapu-Lapu City, Cebu 6015, Philippines",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Punta Engaño, Mactan Island",
+    "star_rating": 5,
+    "rooms": 245,
+    "distance_from_airport_km": 6,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "245 rooms across 14 categories, from Deluxe rooms up to the 224sqm Ibiza Loft penthouse",
+    "Private white-sand beach kept clean and well maintained, per guest reviews",
+    "Four dining venues including all-day buffet restaurant The Sails, known for its Southeast Asian specialties",
+    "Mövenpick's signature Chocolate Hour and attentive, warm staff service draw consistent praise",
+    "Roughly 6km (about 15-20 minutes) from Mactan-Cebu International Airport"
+  ],
+  "cons": [
+    "Entry-level Deluxe rooms are described by reviewers as \"very basic\" compared with the resort's higher room categories",
+    "Poolside and beach club cocktails run expensive relative to room rates"
+  ],
+  "research_highlights": [
+    "A February 2025 blog review praised the private beach, attentive staff, and signature laksa and Hainanese chicken rice at The Sails, while flagging pricier poolside drinks and basic Deluxe rooms",
+    "Room count (245) and Mediterranean/Ibiza design theme confirmed consistently across the official Mövenpick site and independent reviews",
+    "Positioned as one of only a handful of true beachfront 5-star resorts on Mactan Island, with a private beach and dedicated beach club (Ibiza)"
+  ],
+  "research_watchouts": [
+    "As of the February 2025 review, the Ibiza beach club was under renovation after typhoon damage, expected to reopen in late 2025 -- current guests should confirm its status before booking",
+    "No independent aggregate rating (e.g. TripAdvisor score) was pulled into this file beyond individual review summaries"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Does Mövenpick Hotel Mactan Island Cebu have a private beach?",
+      "answer": "Yes -- the resort sits directly on a private white-sand beach in Punta Engaño on Mactan Island, which guest reviews describe as clean and well maintained, with clear water. It's one of the resort's most consistently praised features alongside the pool and staff service."
+    },
+    {
+      "question": "How far is Mövenpick Hotel Mactan Island Cebu from Mactan-Cebu International Airport?",
+      "answer": "Roughly 6km, about a 15-20 minute drive depending on traffic, making it one of the more airport-convenient beachfront resorts on Mactan Island. Cebu City's malls, casinos and golf courses are described by Accor as no more than about 22km away."
+    }
+  ],
+  "tags": ["mactan island", "private beach", "mediterranean design"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4N9/index.en.shtml",
+      "label": "Mövenpick Hotel Mactan Island Cebu on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://movenpick.accor.com/en/asia/philippines/cebu/hotel-mactan-island-cebu.html",
+      "label": "Official Mövenpick Hotel Mactan Island Cebu page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://islifearecipe.net/movenpick-mactan-review-cebu-the-philippines/",
+      "label": "Is Life a Recipe hotel review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://movenpick.accor.com/en/asia/philippines/cebu/hotel-mactan-island-cebu.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-mactan-cebu", "movenpick-resort-and-spa-boracay"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "MOVENPICK MACTAN REVIEW: Best Resort In Cebu?",
+        "source": "Is Life a Recipe",
+        "url": "https://islifearecipe.net/movenpick-mactan-review-cebu-the-philippines/",
+        "published_date": "2025-02-15",
+        "summary": "Praises the private beach, attentive staff and signature laksa at The Sails, while noting basic Deluxe rooms, pricey poolside cocktails, and the Ibiza beach club's typhoon-related renovation."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mövenpick The only 5-Star Resort on Mactan-Cebu - Philippines [4K HDR] Walking Tour",
+        "channel": "Wanderlust Travel Videos",
+        "url": "https://www.youtube.com/watch?v=PVfyhoYzVCM",
+        "video_id": "PVfyhoYzVCM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

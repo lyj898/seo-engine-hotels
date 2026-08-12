@@ -1,0 +1,99 @@
+{
+  "entity_id": "ibis-styles-subic",
+  "slug": "ibis-styles-subic",
+  "name": "ibis Styles Subic",
+  "category_id": "accor-all",
+  "region_id": "subic-bay",
+  "short_description": "A 168-room hotel in Subic Bay Freeport Zone, opened in 2026 as the first internationally-branded hotel in Subic, a short walk from Harbor Point and Ayala Malls.",
+  "ai_summary": "ibis Styles Subic opened in 2026 as the first internationally-branded hotel in the Subic Bay Freeport Zone, with 168 rooms a short walk from Harbor Point and Ayala Malls in Olongapo, Zambales. As a very recent opening, independent review volume is still thin, but early guest feedback is positive, repeatedly praising the front-office team's warmth, a clean and good-smelling property, and the vibrant, water-themed lobby design typical of the ibis Styles brand. Given how new the property is, some reviewers noted the hotel was still in a soft-opening phase when they visited, so service and amenities may continue to be refined as the hotel settles into full operation.",
+  "core_facts": {
+    "address": "Rizal Highway corner Sta Rita Road, Subic Bay Freeport Zone, Olongapo, Zambales 2222, Philippines",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Subic Bay Freeport Zone",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "168 rooms, the first internationally-branded hotel in the Subic Bay Freeport Zone",
+    "Short walk from Harbor Point and Ayala Malls for shopping and dining",
+    "Front-office team consistently praised as friendly and welcoming in early guest reviews",
+    "Vibrant, water-themed lobby design typical of the ibis Styles brand",
+    "Positioned to serve Subic's growing casino-resort and freeport tourism push"
+  ],
+  "cons": [
+    "As a brand-new 2026 opening, independent review volume and long-term service consistency data are still limited",
+    "Some early reviewers noted the hotel was still in a soft-opening phase during their stay"
+  ],
+  "research_highlights": [
+    "Early guest reviews consistently praise the front-office team's friendliness and the property's cleanliness",
+    "Its walkable location to Harbor Point and Ayala Malls is highlighted as a strong convenience",
+    "As Subic's first internationally-branded hotel, it fills a clear gap in the destination's accommodation market"
+  ],
+  "research_watchouts": [
+    "Coverage is inherently thin given the 2026 opening -- facts here reflect an early-operation snapshot rather than an established track record",
+    "A few reviews reference soft-opening conditions, which may not reflect the property's settled state"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Subic the first international hotel brand in Subic Bay?",
+      "answer": "Yes -- it opened in 2026 as the first internationally-branded hotel in the Subic Bay Freeport Zone, a former US naval base turned duty-free port that had previously been served mainly by independent local hotels and lodges rather than global hotel brands."
+    },
+    {
+      "question": "How far is ibis Styles Subic from shopping and dining?",
+      "answer": "It's a short walk from both Harbor Point mall and Ayala Malls Harbor Point in the Subic Bay Freeport Zone, putting most of the area's dining and retail options within easy reach on foot rather than requiring a taxi or shuttle ride."
+    }
+  ],
+  "tags": ["subic bay freeport zone", "first international hotel", "new opening"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C2H4/index.en.shtml",
+      "label": "Official ibis Styles Subic page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g4751237-d34025562-Reviews-Ibis_Styles_Subic-Subic_Bay_Freeport_Zone_Bataan_Province_Central_Luzon_Region_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C2H4/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-manila-araneta-city"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "A New Hotel Has Arrived in Subic—IBIS Styles Review",
+        "channel": "Franz Fabiana",
+        "url": "https://www.youtube.com/watch?v=AGytHwWhqXQ",
+        "video_id": "AGytHwWhqXQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 33,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

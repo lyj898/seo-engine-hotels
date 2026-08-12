@@ -1,0 +1,114 @@
+{
+  "entity_id": "movenpick-resort-khao-yai",
+  "slug": "movenpick-resort-khao-yai",
+  "name": "Mövenpick Resort Khao Yai",
+  "category_id": "accor-all",
+  "region_id": "khao-yai",
+  "short_description": "A European-chateau-style countryside resort in Pak Chong near Khao Yai National Park, with rooms, suites, penthouses, and pool villas set around an 18-hole golf course.",
+  "ai_summary": "Mövenpick Resort Khao Yai is a 5-star countryside resort at 334 Moo 6, Tambon Wang Sai, Pak Chong district, Nakhon Ratchasima -- roughly a 3-hour drive from Bangkok and about 20 minutes from Khao Yai National Park. Its grand European-chateau architecture, sweeping staircases, and manicured grounds wrap around the on-site 18-hole Starry Valley Golf Club, with accommodation spanning standard rooms up to multi-bedroom pool villas, plus indoor and outdoor pools, a spa, and several restaurants including an Italian option guests repeatedly single out. Guest reviews are strongly positive on the grand architecture, spacious rooms, and attentive service, with a 2025 blog review noting the resort suits a destination-style countryside escape better than a base for daily national-park sightseeing given the drive involved.",
+  "core_facts": {
+    "address": "334 Moo 6, Tambon Wang Sai, Amphoe Pak Chong, Nakhon Ratchasima 30130, Thailand",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Pak Chong / Wang Sai, Khao Yai",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Grand European-chateau architecture with sweeping staircases and expansive manicured grounds",
+    "On-site 18-hole Starry Valley Golf Club with mountain views",
+    "Accommodation ranges from standard rooms to multi-bedroom pool villas",
+    "Indoor and outdoor pools, spa, and several restaurants including a well-reviewed Italian option",
+    "About 20 minutes' drive from Khao Yai National Park and the PB Valley / GranMonte vineyard area"
+  ],
+  "cons": [
+    "About a 3-hour drive from Bangkok, and further from the national park entrance than some boutique Khao Yai lodges",
+    "Villas sit a buggy ride or 10-15 minute walk from the main hotel block"
+  ],
+  "research_highlights": [
+    "Accor's official page cites a 4.5/5 ALL Rating from roughly 1,259 reviews",
+    "A October 2025 travel blog (Two Passports Packed) independently confirms the European-chateau design and praises the spacious rooms and service",
+    "The resort's Starry Valley Golf Club and Mövenpick Chocolate Hour are repeatedly cited as signature features"
+  ],
+  "research_watchouts": [
+    "Room-count figures vary across booking-aggregator listings and could not be pinned to a single confirmed total, so this entry does not state a specific overall room count",
+    "Some TripAdvisor listings for this property show conflicting review counts and star averages across duplicate listing pages -- treat exact review-count figures as approximate"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Mövenpick Resort Khao Yai from Khao Yai National Park?",
+      "answer": "The resort sits in Pak Chong district, about a 20-minute drive from the Khao Yai National Park entrance. It's positioned more as a destination countryside resort in its own right -- with golf, pools, and villas -- than as a basecamp for daily park visits, so guests focused on hiking may prefer a lodge closer to the gate."
+    },
+    {
+      "question": "Does Mövenpick Resort Khao Yai have a golf course?",
+      "answer": "Yes -- the on-site Starry Valley Golf Club is an 18-hole course with mountain views, and it's one of the resort's signature amenities alongside indoor and outdoor pools, a spa, and accommodation ranging from standard rooms up to multi-bedroom pool villas set apart from the main building."
+    }
+  ],
+  "tags": ["khao yai", "pak chong", "golf resort", "villas", "movenpick"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4K4/index.en.shtml",
+      "label": "Accor ALL -- Mövenpick Resort Khao Yai official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g25108353-d9748276-Reviews-Movenpick_Resort_Khao_Yai-Wang_Sai_Pak_Chong_District_Nakhon_Ratchasima_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://twopassportspacked.com/movenpick-resort-khao-yai/",
+      "label": "Two Passports Packed -- Mövenpick Resort Khao Yai review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.movenpickresortkhaoyai.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-asara-resort-spa-hua-hin"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Mövenpick Resort Khao Yai: A Grand European-Style Escape in Thailand",
+        "source": "Two Passports Packed",
+        "url": "https://twopassportspacked.com/movenpick-resort-khao-yai/",
+        "published_date": "2025-10-01",
+        "summary": "Two Passports Packed praised the grand European-style architecture, spacious rooms, and friendly service, but noted the resort sits further from the national park itself, better suited as a destination stay than a sightseeing base."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Room tour of Mövenpick Resort Khao Yai, Thailand",
+        "channel": "Soo Hon Keong",
+        "url": "https://www.youtube.com/watch?v=W2SPagg-G8I",
+        "video_id": "W2SPagg-G8I"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

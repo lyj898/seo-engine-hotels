@@ -1,0 +1,12 @@
+{
+  "region_id": "da-lat",
+  "slug": "da-lat",
+  "label": "Da Lat",
+  "granularity": "city",
+  "parent_region_id": "vietnam",
+  "short_description": "A French-era hill station in Vietnam's Central Highlands, known for pine forests, lakes, and a cooler climate.",
+  "intro": "Da Lat's hotel coverage in this directory centers on Vietnam's best-known Central Highlands hill station, built up by French colonists in the early 20th century around Xuan Huong Lake and still known for its cooler year-round climate, pine forests, and Art Deco and colonial villa architecture. It sits roughly 300km northeast of Ho Chi Minh City, reached mainly via Lien Khuong Airport around 30 minutes south of the city centre. Coffee farms, flower gardens, and the old French Quarter near the historic railway station are the area's defining draws, and hotels here lean into that heritage rather than the beach-resort style common elsewhere in the directory.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

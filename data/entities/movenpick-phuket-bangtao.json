@@ -1,0 +1,100 @@
+{
+  "entity_id": "movenpick-phuket-bangtao",
+  "slug": "movenpick-phuket-bangtao",
+  "name": "Mövenpick Phuket Bangtao",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 40-residence beachfront resort a few steps from Bang Tao Beach within the Laguna Phuket estate, about 20 minutes from Phuket International Airport.",
+  "ai_summary": "Mövenpick Phuket Bangtao is a residence-style resort just steps from Bang Tao Beach, sitting within the Laguna Phuket estate on Thailand's west coast, about 20 minutes from Phuket International Airport. Its 40 residences range from Classic King rooms up to three-bedroom units and sea-view penthouses with private pools, all with full kitchens and oversized balconies. Guests consistently praise the spacious rooms, beachfront setting, and the brand's signature Chocolate Hour, along with staff who are noted for remembering guests' names and breakfast orders. The trade-off some reviewers mention is the resort's relative isolation, with only one restaurant on-site and few dining options within walking distance.",
+  "core_facts": {
+    "address": "35 Moo 4 Cherngtalay, Thalang District, Phuket 83110, Thailand",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Bang Tao Beach / Laguna Phuket",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "A few steps from Bang Tao Beach, within the Laguna Phuket estate",
+    "40 residences ranging from Classic King rooms to 3-bedroom units and sea-view penthouses with private pools",
+    "Full kitchens and oversized balconies across residence types",
+    "Signature Mövenpick Chocolate Hour with daily complimentary chocolate selections",
+    "Staff praised for attentive, personalized service, including remembering guests' names and breakfast orders"
+  ],
+  "cons": [
+    "Only one restaurant on-site, with few dining options within walking distance",
+    "Some guests find the resort feels isolated without a rental car"
+  ],
+  "research_highlights": [
+    "The beachfront residence format -- full kitchens, living/dining areas, and large balconies across all 40 units -- is a recurring point of guest praise",
+    "The Chocolate Hour and staff attentiveness are repeatedly singled out in reviews",
+    "TripAdvisor shows a 4/5 rating from roughly 1,165 traveler reviews"
+  ],
+  "research_watchouts": [
+    "Limited on-site dining (one restaurant) and few nearby walkable options are a recurring complaint for guests without a car",
+    "No independently dated blog or press review could be confirmed via direct fetch; TripAdvisor aggregate data was cross-checked via search rather than a direct page fetch, since TripAdvisor blocked direct access"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How close is Mövenpick Phuket Bangtao to the beach?",
+      "answer": "The resort sits just a few steps from Bang Tao Beach, within the Laguna Phuket estate on Phuket's west coast. It's positioned in front of the Laguna area and close to venues used for the Laguna Phuket Triathlon and Ironman 70.3, roughly 20 minutes by car from Phuket International Airport."
+    },
+    {
+      "question": "What types of accommodation does Mövenpick Phuket Bangtao offer?",
+      "answer": "The property has 40 residences in total, spanning Classic King rooms with garden views up to three-bedroom residences sleeping up to six adults, plus sea-view suites and penthouses with private pools and jacuzzis. All residences include living and dining areas, full kitchens, and oversized balconies."
+    }
+  ],
+  "tags": ["bang tao beach", "laguna phuket", "residence-style resort"],
+  "source_mix": [
+    {
+      "url": "https://movenpick.accor.com/en/asia/thailand/phuket/resort-phuket-bangtao.html",
+      "label": "Official Mövenpick Phuket Bangtao page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2400063-d1503568-Reviews-Movenpick_Phuket_Bangtao-Bang_Tao_Beach_Choeng_Thale_Thalang_District_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://movenpick.accor.com/en/asia/thailand/phuket/resort-phuket-bangtao.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["angsana-laguna-phuket", "novotel-phuket-kamala-beach"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mövenpick Bangtao Beach Resort Hotel Complete Room Tour",
+        "channel": "Fungmbh",
+        "url": "https://www.youtube.com/watch?v=GCajBda34Pw",
+        "video_id": "GCajBda34Pw"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 70 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

@@ -1,0 +1,117 @@
+{
+  "entity_id": "hotel-de-la-coupole-sapa",
+  "slug": "hotel-de-la-coupole-sapa",
+  "name": "Hôtel de la Coupole Sapa",
+  "category_id": "accor-all",
+  "region_id": "sapa",
+  "short_description": "A 249-room Bill Bensley-designed MGallery hotel in central Sapa, open since December 2018, styled as a French Indochine-era palace with hill-tribe design accents.",
+  "ai_summary": "Hôtel de la Coupole Sapa opened in December 2018 as Sapa's first true luxury hotel, designed by Bill Bensley to evoke a European palace of the early 20th century layered with local hill-tribe design motifs. The 249 rooms and suites include Deluxe Kings on the 8th and 9th floors finished in a jade green inspired by Sapa's hills, and Executive Suites in a deep French rose-wine colour, alongside three signature dining venues, a rooftop bar, an indoor heated pool called Le Grand Bassin, and a spa offering Red Dao-inspired treatments. CNN and multiple independent travel writers have covered the hotel's design as a genuine destination in its own right. Guest reviews consistently praise the interior design, breakfast, and central Sapa-town location within walking distance of the Fansipan cable car, though a subset of reviews describe the service as more polished than warm, and note room rates run well above the rest of Sapa's market.",
+  "core_facts": {
+    "address": "1 Hoang Lien Street, Sapa District, Lao Cai Province, Vietnam",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Sapa town centre",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Fansipan Legend cable car station", "km": 0.5 },
+      { "label": "Sapa town square (Nha Tho Da)", "km": 0.3 }
+    ]
+  },
+  "pros": [
+    "249 rooms and suites in a Bill Bensley-designed building styled as a French Indochine-era palace",
+    "In the heart of Sapa town, within walking distance of the Fansipan cable car station",
+    "Indoor heated pool (Le Grand Bassin) on the 7th floor, unusual for the mountain-town market",
+    "Three signature dining venues plus a rooftop bar with mountain views",
+    "Extensive, widely photographed interior design incorporating hill-tribe motifs and vintage French collectibles"
+  ],
+  "cons": [
+    "Some reviews describe service as polished but impersonal rather than warm",
+    "Room rates run well above the rest of Sapa's hotel market, which some guests feel isn't fully justified"
+  ],
+  "research_highlights": [
+    "The Bill Bensley-designed interiors draw consistent, strong praise and are the property's defining feature",
+    "Breakfast variety and the central Sapa-town location are repeatedly highlighted positively",
+    "CNN and multiple travel outlets covered the hotel's opening as a milestone for Sapa tourism"
+  ],
+  "research_watchouts": [
+    "A subset of reviews describe the service as lacking warmth despite polish",
+    "Some guests flag decor elements as visually striking but not always practical"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Who designed Hôtel de la Coupole Sapa?",
+      "answer": "Bill Bensley, known for exotic luxury resorts across Asia, designed the hotel to resemble an early 20th-century European palace layered with local hill-tribe accents. It opened in December 2018 as Sapa's first true luxury hotel."
+    },
+    {
+      "question": "Is Hôtel de la Coupole Sapa close to the Fansipan cable car?",
+      "answer": "Yes -- it's about 500 meters from the Fansipan Legend cable car station in central Sapa town, making it walkable for guests heading up to Fansipan or around Sapa's town square."
+    }
+  ],
+  "tags": ["bill bensley design", "sapa town centre", "fansipan cable car"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A5V2/index.en.shtml",
+      "label": "Official Hôtel de la Coupole Sapa page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://mgallery.accor.com/en/hotels/A5V2/story.html",
+      "label": "MGallery Collection hotel story page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g311304-d15028320-Reviews-Hotel_de_la_Coupole_MGallery-Sapa_Lao_Cai_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A5V2/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-de-lopera-hanoi-mgallery", "hotel-des-arts-saigon-mgallery"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel de la Coupole: Inside Sapa's first luxury hotel",
+        "source": "CNN Travel",
+        "url": "https://edition.cnn.com/travel/article/hotel-de-la-coupole-sapa-vietnam/index.html",
+        "published_date": "2019-09-05",
+        "summary": "CNN's coverage of the hotel's opening, describing Bill Bensley's design as resembling an early 20th-century European palace and framing the property as a milestone for Sapa's tourism growth."
+      }
+    ],
+    "videos": [
+      {
+        "title": "DELUXE Room Tour: Hôtel de la Coupole - MGallery by Sofitel, Sapa",
+        "channel": "Adventures with K",
+        "url": "https://www.youtube.com/watch?v=zwPsXq-Ql2o",
+        "video_id": "zwPsXq-Ql2o"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 68 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

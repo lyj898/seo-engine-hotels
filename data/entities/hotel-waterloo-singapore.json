@@ -1,0 +1,115 @@
+{
+  "entity_id": "hotel-waterloo-singapore",
+  "slug": "hotel-waterloo-singapore",
+  "name": "Hotel Waterloo Singapore - Handwritten Collection",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 502-room Handwritten Collection hotel on Waterloo Street in the Bras Basah-Bugis arts district, opened late 2025, minutes from Bugis and Bencoolen MRT stations.",
+  "ai_summary": "Hotel Waterloo Singapore - Handwritten Collection opened in late 2025 on Waterloo Street, in the Bras Basah-Bugis arts and heritage enclave, with 502 rooms decorated in a botanical, nature-inspired theme and tech touches like voice-controlled lighting and mobile check-in. It's Accor's second Handwritten Collection property in Singapore, after Hotel Faber Park. Early guest reviews single out the location -- an easy walk to Bugis and Bencoolen MRT stations, with Bugis malls, hawker centres, and Fort Canning Park nearby -- along with clean, well-designed rooms and friendly staff, while rooms themselves run compact by design and are better suited to active sightseeing days than working from the room.",
+  "core_facts": {
+    "address": "78 Waterloo Street, 189870 Singapore, Singapore",
+    "brand_sub_brand": "Handwritten Collection",
+    "neighborhood": "Bras Basah-Bugis",
+    "star_rating": 4,
+    "rooms": 502,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "502 rooms in Singapore's arts-focused Bras Basah-Bugis district, a short walk to Bugis and Bencoolen MRT stations",
+    "Nature-inspired rooms with botanical wallpaper and voice-controlled lighting/air-con",
+    "Outdoor pool with a well-sized deck, plus a fitness centre and Antler & Ember restaurant",
+    "Friendly, efficient staff and a smooth mobile/self check-in process, per early guest reviews",
+    "Genuinely good value versus comparable Singapore CBD-fringe hotels at the rates seen so far"
+  ],
+  "cons": [
+    "Rooms run compact and have limited desk space, making it a poor fit for remote work",
+    "Sound insulation between rooms has been flagged as thin in at least one early review"
+  ],
+  "research_highlights": [
+    "A July 2026 review called it a 'reasonable outcome' for the price and praised the walk to Bugis, City Hall, and Fort Canning Park",
+    "As a late-2025 opening, the hotel is Accor's second Handwritten Collection property in Singapore after Hotel Faber Park",
+    "Guest reviews consistently flag efficient self check-in and a well-sized outdoor pool as standouts"
+  ],
+  "research_watchouts": [
+    "Being a very recent opening, the review base is still thin -- expect early-operations variability compared with more established hotels",
+    "Room size and sound insulation are recurring minor complaints in the reviews found so far"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Hotel Waterloo Singapore open?",
+      "answer": "It opened in late 2025 on Waterloo Street in the Bras Basah-Bugis arts district, becoming Accor's second Handwritten Collection hotel in Singapore after Hotel Faber Park, which opened in late 2023."
+    },
+    {
+      "question": "Is Hotel Waterloo Singapore near an MRT station?",
+      "answer": "Yes -- it's a short walk from both Bugis and Bencoolen MRT stations, putting Bugis malls and street markets, City Hall, Fort Canning Park, and Marina Bay within easy reach without a taxi."
+    }
+  ],
+  "tags": ["bras basah-bugis", "waterloo street", "handwritten collection"],
+  "source_mix": [
+    {
+      "url": "https://www.hotelwaterloo-singapore.com/",
+      "label": "Official Hotel Waterloo Singapore page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://all.accor.com/hotel/C3S7/index.en.shtml",
+      "label": "Hotel Waterloo Singapore on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d34013488-Reviews-Hotel_Waterloo_Singapore_Handwritten_Collection-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.hotelwaterloo-singapore.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairmont-singapore", "sofitel-singapore-city-centre"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Waterloo Singapore Review: Small Room, Smart Location, Surprisingly Good Value",
+        "source": "5 Star Trip",
+        "url": "https://5startrip.com/posts/hotel-waterloo-singapore-review-small-room-smart-location-surprisingly-good-value/",
+        "published_date": "2026-07-22",
+        "summary": "A stay review calling the compact rooms good value at the price paid, praising the Bugis-area location and self check-in, but noting thin desk space and sound insulation."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Hotel Waterloo Singapore - Handwritten Collection",
+        "channel": "Travel With Bhavya",
+        "url": "https://www.youtube.com/watch?v=ckY1EYGrZ0w",
+        "video_id": "ckY1EYGrZ0w"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

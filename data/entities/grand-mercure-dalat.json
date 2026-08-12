@@ -1,0 +1,98 @@
+{
+  "entity_id": "grand-mercure-dalat",
+  "slug": "grand-mercure-dalat",
+  "name": "Grand Mercure Dalat",
+  "category_id": "accor-all",
+  "region_id": "da-lat",
+  "short_description": "A 131-room French colonial-style resort across 12 villas near Da Lat's historic railway station, opened July 2026 in Vietnam's Central Highlands.",
+  "ai_summary": "Grand Mercure Dalat opened on July 17, 2026 as a 131-room, 5-star resort spread across 12 French colonial-style villas near Da Lat's historic railway station and former French Quarter, in the Central Highlands city that already draws visitors for its cooler climate and colonial-era architecture. Rooms range from Superior categories to a Presidential Suite, set among rose gardens and pine forest, with dining spread across the all-day Deux Amants restaurant, BAO Asian cuisine, 1929 Lobby Bar, Moon Lounge, and Fleurie Café, plus a heated outdoor pool and La Maison Wellness Spa. As a property open only about a month at the time of research, independent guest reviews specific to this hotel had not yet accumulated in meaningful volume, so this profile leans on official Accor and press-preview sources rather than an established guest-sentiment track record.",
+  "core_facts": {
+    "address": "03 Nguyen Du Street, Lam Vien - Da Lat Ward, Lam Dong Province, Vietnam",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Near Da Lat Railway Station / former French Quarter",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "131 rooms and suites across 12 French colonial-style villas, a distinctive format for the Da Lat market",
+    "Walkable to Da Lat's historic railway station (about 900m) and former French Quarter",
+    "Rose gardens, pine forest setting, and a heated outdoor pool with mountain views",
+    "Five dining and drink venues, including farm-to-table Deux Amants and the 1929 Lobby Bar",
+    "One of very few internationally branded 5-star resorts in Da Lat itself"
+  ],
+  "cons": [
+    "Opened only in July 2026, so there is little independent guest-review history to verify service consistency",
+    "Set back from Xuan Huong Lake (about a 20-minute downhill walk), so central sightseeing requires a short trip"
+  ],
+  "research_highlights": [
+    "131-room, 12-villa French colonial-style resort opened July 17, 2026 near Da Lat's historic train station",
+    "Design leans heavily into Da Lat's French colonial heritage -- Impressionist-inspired palettes, classical villa architecture, rose gardens",
+    "Positioned for weddings and events, with venues holding up to 200 guests"
+  ],
+  "research_watchouts": [
+    "Too new at time of research for meaningful independent guest-review volume -- treat guest-experience claims as provisional",
+    "Distinct from the separately operated, longer-running Mercure Dalat Resort elsewhere in the city -- the two are easy to confuse in third-party listings"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Grand Mercure Dalat open?",
+      "answer": "Grand Mercure Dalat opened on July 17, 2026, as a 131-room, 5-star resort spread across 12 French colonial-style villas near Da Lat's historic railway station. It's a distinct, newly built property from the separately operated Mercure Dalat Resort elsewhere in the city, so travelers should confirm which one they're booking."
+    },
+    {
+      "question": "What is the room and villa layout at Grand Mercure Dalat?",
+      "answer": "The resort has 131 rooms and suites, including a Presidential Suite, distributed across 12 French colonial-style villa buildings arranged around gardens and courtyards rather than a single tower. Design draws on Da Lat's 1920s French heritage, with classic wood furnishings and Impressionist-inspired color palettes throughout."
+    }
+  ],
+  "tags": ["french colonial villas", "central highlands", "da lat railway station"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B8H0/index.en.shtml",
+      "label": "Official Grand Mercure Dalat page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.grandmercuredalat.com/",
+      "label": "Official Grand Mercure Dalat website",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://ahavietnam.org/2026/07/20/grand-mercure-dalat-resort-opens-in-vietnams-central-highlands/",
+      "label": "Opening announcement, Grand Mercure Dalat Resort",
+      "type": "other",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.grandmercuredalat.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-hanoi", "grand-mercure-danang"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 70,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 68 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 70 },
+      { "label": "Value", "score": 66 }
+    ]
+  },
+  "reliability_score": 35,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

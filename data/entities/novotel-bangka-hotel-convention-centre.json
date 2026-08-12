@@ -1,0 +1,101 @@
+{
+  "entity_id": "novotel-bangka-hotel-convention-centre",
+  "slug": "novotel-bangka-hotel-convention-centre",
+  "name": "Novotel Bangka Hotel & Convention Centre",
+  "category_id": "accor-all",
+  "region_id": "bangka-belitung",
+  "short_description": "A 222-room, 4-star Novotel in Pangkalpinang about 200m (5-minute drive) from Depati Amir Airport, with a 3,000 sqm convention centre and an 1,800 sqm Grand Ballroom.",
+  "ai_summary": "Novotel Bangka Hotel & Convention Centre is a 222-room, 4-star property on Jalan Soekarno Hatta in Pangkalpinang, the capital of the Bangka Belitung Islands, sitting only about 200 metres from Depati Amir Airport. Alongside standard leisure amenities -- an outdoor pool, fitness centre, spa, indoor jacuzzi and sauna -- it carries a 3,000 sqm convention centre with 9 meeting rooms and an 1,800 sqm Grand Ballroom, making it the island's default choice for weddings, conferences and government events. Guests consistently praise the friendly, attentive staff and the hotel's clean, spacious rooms, while a subset of reviews flag centralized air-conditioning that can't be adjusted per room and breakfast that doesn't quite match the hotel's overall polish.",
+  "core_facts": {
+    "address": "Jl. Soekarno Hatta Km. 5, Pangkalpinang, Kep. Bangka Belitung 33137, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Near Depati Amir Airport, Pangkalpinang",
+    "star_rating": 4,
+    "rooms": 222,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About 200 metres (5-minute drive) from Depati Amir Airport",
+    "222 spacious rooms with a 4.8/5 ALL Rating from 183 reviews",
+    "3,000 sqm convention centre with 9 meeting rooms plus an 1,800 sqm Grand Ballroom",
+    "Resort-style extras -- outdoor pool, indoor jacuzzi, sauna, kids club, spa and karaoke",
+    "Friendly, attentive staff repeatedly praised across recent reviews"
+  ],
+  "cons": [
+    "Centralized air-conditioning that guests can't independently adjust in-room",
+    "A subset of reviews note breakfast quality and public-area furnishing feel behind the hotel's amenity list"
+  ],
+  "research_highlights": [
+    "The airport-adjacent location and 4.8/5 ALL Rating (183 reviews) are the property's standout data points",
+    "The 3,000 sqm convention centre and 1,800 sqm Grand Ballroom make it Bangka Island's main events venue",
+    "Staff friendliness and attentiveness are a consistent theme in 2024-2025 reviews"
+  ],
+  "research_watchouts": [
+    "Some 2024 reviews flag centralized, non-adjustable air-conditioning",
+    "A handful of reviews describe the lobby as spacious but sparsely furnished/empty-feeling"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How close is Novotel Bangka Hotel & Convention Centre to the airport?",
+      "answer": "It's about 200 metres from Depati Amir Airport, roughly a 5-minute drive, making it one of the most airport-convenient hotels on Bangka Island -- useful for early departures, late arrivals, or short stopovers before or after exploring the island's beaches and Pasir Padi coastline."
+    },
+    {
+      "question": "Is Novotel Bangka Hotel & Convention Centre good for events and conferences?",
+      "answer": "Yes -- it's built around a 3,000 sqm convention centre with 9 meeting rooms plus an 1,800 sqm Grand Ballroom for weddings and conferences, making it the default large-scale events venue in Pangkalpinang alongside its 222 standard guest rooms and resort-style pool and spa amenities."
+    }
+  ],
+  "tags": ["pangkalpinang", "convention centre", "airport-adjacent"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7297/index.en.shtml",
+      "label": "Accor ALL — Novotel Bangka Hotel & Convention Centre official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g26663476-d1982911-Reviews-Novotel_Bangka_Hotel_Convention_Centre-Dul_Bangka_Island_Bangka_Belitung_Islands_Sum.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/7297/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-palembang-hotel-residence"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "NOVOTEL BANGKA HOTEL, REVIEW HOTEL BINTANG 4 + REKOMENDASI KULINER DI LEMPAH KUNING PC46",
+        "channel": "JalanJalanGuys",
+        "url": "https://www.youtube.com/watch?v=U-depK-Lv9o",
+        "video_id": "U-depK-Lv9o"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

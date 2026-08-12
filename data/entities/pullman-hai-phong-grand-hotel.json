@@ -1,0 +1,120 @@
+{
+  "entity_id": "pullman-hai-phong-grand-hotel",
+  "slug": "pullman-hai-phong-grand-hotel",
+  "name": "Pullman Hai Phong Grand Hotel",
+  "category_id": "accor-all",
+  "region_id": "hai-phong",
+  "short_description": "A 364-room Pullman flagship in downtown Hai Phong overlooking the Cam River, opened March 2025, with northern Vietnam's largest 5-star ballroom.",
+  "ai_summary": "Pullman Hai Phong Grand Hotel opened in March 2025 on Tran Phu Street in downtown Hai Phong, overlooking the Cam River and Hoang Dieu Harbour, about 10 minutes from Cat Bi International Airport and a short walk from the city's railway station. The 364-room property spans smart Superior rooms through one-bedroom apartments, with seven dining and drink venues including the Mad Cow steakhouse, a rooftop bar, and a 340 sqm rooftop infinity pool, plus a ballroom billed as the largest 5-star hotel ballroom in northern Vietnam. Early guest reviews on TripAdvisor are strongly positive, with the hotel ranked #1 in the city and reviewers repeatedly praising modern harbor-view rooms and attentive, professional service, though independent coverage notes room rates sit at the upper end of Hai Phong's market and the downtown location is a 30-40 minute drive from area beaches.",
+  "core_facts": {
+    "address": "No.12 (Old) Tran Phu Street, Gia Vien Ward, Hai Phong 180000, Vietnam",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Downtown Hai Phong / Gia Vien",
+    "elite_benefits": [
+      "Executive Lounge access for suite guests and ALL Diamond members, subject to availability",
+      "Room upgrades for Platinum and Diamond members, subject to availability, per ALL - Accor Live Limitless program terms",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "364 rooms and suites, from Superior rooms to one-bedroom apartments for extended stays",
+    "Seven dining and drink venues, including the Mad Cow steakhouse and a rooftop bar with skyline views",
+    "340 sqm rooftop infinity pool plus a kids pool, spa, and fitness center",
+    "Downtown Cam River location, about 10 minutes from Cat Bi International Airport",
+    "Strongly positive early guest reviews -- ranked #1 of Hai Phong's hotels on TripAdvisor -- praising modern rooms and professional service"
+  ],
+  "cons": [
+    "Room rates sit at the upper end of Hai Phong's hotel market compared with nearby Mercure and Somerset options",
+    "City-center setting means area beaches are a 30-40 minute drive rather than a walkable amenity"
+  ],
+  "research_highlights": [
+    "364-key flagship opened March 2025, the largest 5-star hotel in Hai Phong",
+    "Rated 5 of 5 on TripAdvisor with over 350 reviews, ranked #1 of the city's hotels as of research",
+    "Guests and reviewers consistently single out harbor-view rooms, the rooftop pool, and staff professionalism"
+  ],
+  "research_watchouts": [
+    "An independent blog review flags pricing as upper-range for the local market and unsuitable for budget travelers",
+    "As a city-center hotel, it's not a fit for travelers prioritizing beach access over downtown convenience"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Pullman Hai Phong Grand Hotel open and how many rooms does it have?",
+      "answer": "It opened in March 2025 as a 364-room flagship on Tran Phu Street in downtown Hai Phong, overlooking the Cam River. Accommodation ranges from smart Superior rooms through to spacious one-bedroom apartments, making it one of the largest 5-star hotels in northern Vietnam by room count."
+    },
+    {
+      "question": "Is Pullman Hai Phong Grand Hotel close to the airport or a beach?",
+      "answer": "It's about 10 minutes from Cat Bi International Airport and a short walk from Hai Phong Railway Station, making it convenient for arrivals, but it sits in the city center rather than the coast -- area beaches are roughly a 30-40 minute drive, so it suits business and city travel more than a beach stay."
+    }
+  ],
+  "tags": ["cam river", "downtown hai phong", "rooftop infinity pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4S6/index.en.shtml",
+      "label": "Official Pullman Hai Phong Grand Hotel page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://pullman.accor.com/en/hotels/hai-phong/B4S6.html",
+      "label": "Official Pullman Hai Phong Grand Hotel website",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://revitrip.com/blog/pullman-hai-phong-review",
+      "label": "Revitrip, Pullman Hai Phong review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g303944-d27770947-Reviews-Pullman_Hai_Phong_Grand_Hotel-Hai_Phong.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://pullman.accor.com/en/hotels/hai-phong/B4S6.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-hanoi", "novotel-ha-long-bay"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Pullman Hai Phong Review: 5-Star Accor Hotel Complete Guide",
+        "source": "Revitrip",
+        "author": "Revitrip",
+        "url": "https://revitrip.com/blog/pullman-hai-phong-review",
+        "published_date": "2026-03-25",
+        "summary": "Praises the modern harbor-view rooms, rooftop pool, and Mad Cow steakhouse, but flags upper-range pricing (2-4.5M VND/night) as best suited to business and luxury travelers rather than budget visitors."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Pullman Hai Phong Grand Hotel | Vietnam's Hidden 5-Star Gem | Full Hotel Tour + Lounge, Spa, Rooftop",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=BVCO31qSubw",
+        "video_id": "BVCO31qSubw"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

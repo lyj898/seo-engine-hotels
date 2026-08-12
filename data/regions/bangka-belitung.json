@@ -1,0 +1,12 @@
+{
+  "region_id": "bangka-belitung",
+  "slug": "bangka-belitung",
+  "label": "Bangka Belitung",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "Tin-mining islands off Sumatra's east coast, known for granite-boulder beaches and Pangkalpinang, the provincial capital.",
+  "intro": "The Bangka Belitung Islands sit off Sumatra's east coast, a former tin-mining region whose granite-boulder beaches were popularized internationally by the film \"Laskar Pelangi.\" Coverage here centers on Pangkalpinang, Bangka's provincial capital, where hotels lean business and convention-oriented rather than beach-resort, serving government, mining, and event travel alongside day trips out to Pasir Padi and other coastal spots. Depati Amir Airport connects the island to Jakarta and other major Indonesian cities.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

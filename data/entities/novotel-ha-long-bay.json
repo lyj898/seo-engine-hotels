@@ -1,0 +1,118 @@
+{
+  "entity_id": "novotel-ha-long-bay",
+  "slug": "novotel-ha-long-bay",
+  "name": "Novotel Ha Long Bay",
+  "category_id": "accor-all",
+  "region_id": "ha-long-bay",
+  "short_description": "A 224-room hotel on Bai Chay's waterfront with panoramic Ha Long Bay views, open since October 2008 as the first internationally-branded hotel in Ha Long.",
+  "ai_summary": "Novotel Ha Long Bay opened in October 2008 as the first internationally-branded hotel in Ha Long, on a site that formerly hosted a state guesthouse known as the \"Round House Villa.\" Its 224 rooms and suites, ranging from standard rooms to one-bedroom suites, face the bay's limestone karsts from the Bai Chay waterfront, with the building's curved facade designed to evoke a seagull embracing an egg -- a nod to the site's earlier round house. Guests consistently praise the room layouts, panoramic bay views, and outdoor pool, though several recent reviews flag that soundproofing doesn't fully block noise from nearby beach parties on Bai Chay Beach. It functions primarily as an overnight base before or after a Ha Long Bay cruise rather than a multi-day resort stay.",
+  "core_facts": {
+    "address": "160 Ha Long Road, Bai Chay Ward, Ha Long, Quang Ninh Province, Vietnam",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Bai Chay",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Bai Chay Beach", "km": 0.5 },
+      { "label": "Sun World Ha Long Park", "km": 0.2 },
+      { "label": "Tuan Chau Island boat station", "km": 8 }
+    ]
+  },
+  "pros": [
+    "224 rooms and suites with panoramic Ha Long Bay views from the Bai Chay waterfront",
+    "First internationally-branded hotel in Ha Long, open since October 2008",
+    "Outdoor pool with bay views, described by the hotel as among the best in town",
+    "3 minutes' walk from Sun World Ha Long Park",
+    "Distinctive curved architecture referencing the site's earlier state guesthouse"
+  ],
+  "cons": [
+    "Soundproofing doesn't fully block noise from beach parties on nearby Bai Chay Beach, per multiple recent reviews",
+    "Some guests note the air conditioning and in-room fittings feel dated relative to newer Ha Long hotels"
+  ],
+  "research_highlights": [
+    "Panoramic bay views and spacious room layouts draw consistent praise across recent guest reviews",
+    "Staff service and breakfast quality are repeatedly highlighted positively",
+    "As the first international-brand hotel in Ha Long, it remains a well-known reference point for the destination"
+  ],
+  "research_watchouts": [
+    "Multiple 2024-2025 reviews flag noise from beach parties carrying into rooms at night",
+    "A subset of reviews mention aging air conditioning units"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Novotel Ha Long Bay on the beach?",
+      "answer": "It's on the Bai Chay waterfront facing Ha Long Bay, about a 5-minute walk (roughly 500 meters) from Bai Chay Beach itself, with many rooms offering direct bay views rather than sitting directly on the sand."
+    },
+    {
+      "question": "When did Novotel Ha Long Bay open?",
+      "answer": "It opened in October 2008 as the first internationally-branded hotel in Ha Long, built on the site of a former state guesthouse. The building's curved facade was designed to reference that earlier round house."
+    }
+  ],
+  "tags": ["ha long bay views", "bai chay waterfront", "cruise base"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6185/index.en.shtml",
+      "label": "Official Novotel Ha Long Bay page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://vntravellive.com/en/novotel-ha-long-bay-chinh-thuc-dat-tieu-chuan-5-sao-nang-cap-toan-dien-ha-tang-d40705.html",
+      "label": "Novotel Ha Long Bay hotel history and renovation coverage",
+      "type": "other",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293923-d1148724-Reviews-Novotel_Ha_Long_Bay-H_Long_Bay_Quang_Ninh_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6185/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-suites-hanoi", "novotel-danang-premier-han-river"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Novotel Ha Long Bay: An Honest Hotel Review",
+        "source": "Journey Discover",
+        "url": "https://journeydiscover.com/novotel-ha-long-bay/",
+        "published_date": "2024-05-12",
+        "summary": "A 3-night stay review praising the executive bay-view room's design and Ha Long Bay vistas, but flagging noise from nearby beach parties as a real drawback to relaxing at the hotel."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Novotel Ha Long Bay Hotel | Hạ Long, Vietnam | Hotel Review",
+        "channel": "Vietnam Super Hotels",
+        "url": "https://www.youtube.com/watch?v=RTu_56MmC_g",
+        "video_id": "RTu_56MmC_g"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 70 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

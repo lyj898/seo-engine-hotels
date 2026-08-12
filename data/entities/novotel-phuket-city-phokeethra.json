@@ -1,0 +1,113 @@
+{
+  "entity_id": "novotel-phuket-city-phokeethra",
+  "slug": "novotel-phuket-city-phokeethra",
+  "name": "Novotel Phuket City Phokeethra",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 180-room hotel in the heart of Phuket Old Town, with a rooftop bar overlooking the city, mountains, and Andaman Sea, and 2 pools.",
+  "ai_summary": "Novotel Phuket City Phokeethra is a 180-room hotel at 40 Chanajaroen Road, right in Phuket Old Town's Sino-Portuguese quarter, about 10 minutes from Rassada Pier for island-hopping trips. The hotel's signature feature is Estrela Rooftop Bar & Restaurant, perched on the 17th floor with 360-degree views over Phuket City, the surrounding mountains, and the Andaman Sea, alongside 2 pools, a fitness center, and a spa. Guests consistently praise the friendly, helpful staff, spacious clean rooms, and breakfast buffet, and several reviews call the rooftop bar a genuine highlight, though some 2024-2025 guests note the surrounding Old Town streets look worn in places and the hotel itself is starting to show its age despite good upkeep.",
+  "core_facts": {
+    "address": "40 Chanajaroen Road, Talat Yai, Amphur Muang, Phuket 83000, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Phuket Old Town / Talat Yai",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Phuket Old Town location, walking distance to Sino-Portuguese heritage streets and local markets",
+    "180 rooms and suites with city views, praised as spacious and clean by guests",
+    "17th-floor Estrela Rooftop Bar & Restaurant with 360-degree city, mountain, and sea views",
+    "2 pool areas plus a fitness center and spa",
+    "About 10 minutes from Rassada Pier for Phi Phi Islands day trips"
+  ],
+  "cons": [
+    "Some 2024-2025 guests describe the surrounding Old Town streets as run-down in places, with shuttered shops",
+    "The hotel is described in reviews as well-maintained but starting to show its age"
+  ],
+  "research_highlights": [
+    "The Old Town location and Estrela rooftop bar draw consistent, strong guest praise",
+    "Accor's official page cites a 4.6/5 ALL Rating from 741 reviews; TripAdvisor shows roughly 4/5 from 485 reviews",
+    "A February 2025 Phuket101 write-up on the rooftop bar independently confirms the 180-room count and Old Town setting"
+  ],
+  "research_watchouts": [
+    "Sources differ on the hotel's star classification -- Accor's own page lists 5 stars while at least one independent write-up describes it as 4-star, so this entry omits a specific star rating",
+    "Some reviews note the surrounding neighborhood shows wear even though the hotel itself is well-kept"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Does Novotel Phuket City Phokeethra have a rooftop bar?",
+      "answer": "Yes -- Estrela Rooftop Bar & Restaurant sits on the 17th floor and is open daily, with 360-degree views over Phuket City, the surrounding mountains, and the Andaman Sea. It's open to non-guests as well, making it a popular sunset spot for visitors staying elsewhere in Phuket Town."
+    },
+    {
+      "question": "Is Novotel Phuket City Phokeethra near the beach?",
+      "answer": "No -- it's located in Phuket Old Town in the island's inland administrative center, not on the coast. Guests wanting beach access typically take a taxi or arrange transport to Patong, Kata, or Karon, while the hotel's draw is its walkable Old Town setting and easy access to Rassada Pier for island day trips."
+    }
+  ],
+  "tags": ["phuket old town", "talat yai", "rooftop bar", "novotel", "sino-portuguese"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9932/index.en.shtml",
+      "label": "Accor ALL -- Novotel Phuket City Phokeethra official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2315818-d10400876-Reviews-Novotel_Phuket_City_Phokeethra-Talat_Yai_Phuket_Town_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.phuket101.net/estrela-sky-lounge-at-novotel-phokeethra/",
+      "label": "Phuket101 -- Estrela Sky Lounge at Novotel Phokeethra",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.novotel-phuket-phokeethra.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["courtyard-phuket-town", "novotel-phuket-kamala-beach"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Estrela Rooftop Bar & Restaurant at Novotel Phokeethra",
+        "source": "Phuket101",
+        "url": "https://www.phuket101.net/estrela-sky-lounge-at-novotel-phokeethra/",
+        "published_date": "2025-02-13",
+        "summary": "Phuket101 profiles the hotel's 17th-floor rooftop bar's dark-wood ambiance and city/sea views, and independently notes the hotel's 180 rooms and central Old Town setting."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Novotel Phuket City Phokeethra | Phuket, Thailand | Hotel Review",
+        "channel": "Thailand Dreams 365",
+        "url": "https://www.youtube.com/watch?v=X_0rtkPZOcM",
+        "video_id": "X_0rtkPZOcM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

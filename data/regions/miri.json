@@ -1,0 +1,12 @@
+{
+  "region_id": "miri",
+  "slug": "miri",
+  "label": "Miri",
+  "granularity": "city",
+  "parent_region_id": "malaysia",
+  "short_description": "Sarawak's oil-and-gas coastal city on Borneo, and the main gateway to Niah Caves and Gunung Mulu National Park.",
+  "intro": "Miri is Sarawak's second-largest city, a coastal town near the Brunei border that grew up around Malaysia's first oil well, drilled here in 1910, and remains a base for the region's petroleum industry today. Beyond its oil-town roots, Miri has become northern Borneo's main tourism gateway, the jumping-off point for the Niah Caves and the UNESCO-listed Gunung Mulu National Park. Hotels here serve a mix of oil-and-gas corporate travel and nature-focused tourists passing through en route to the national parks, with the compact downtown waterfront the main hub for both.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

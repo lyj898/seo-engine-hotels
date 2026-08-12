@@ -1,0 +1,12 @@
+{
+  "region_id": "subic-bay",
+  "slug": "subic-bay",
+  "label": "Subic Bay",
+  "granularity": "city",
+  "parent_region_id": "philippines",
+  "short_description": "The Subic Bay Freeport Zone in Zambales -- a former US naval base turned duty-free port and leisure zone, about two hours from Manila.",
+  "intro": "Subic Bay is a former US naval base in Zambales converted into the Subic Bay Freeport Zone, a duty-free port and leisure area built around the bay's deep-water harbor and surrounding jungle, roughly two hours by road from Metro Manila. Hotel development here is still young relative to Manila or Cebu, anchored by Harbor Point mall, Ocean Adventure, and a growing casino-resort push, with international-branded properties only recently arriving to what was previously a market of independent hotels and lodges.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

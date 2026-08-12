@@ -1,0 +1,115 @@
+{
+  "entity_id": "mercure-koh-chang-hideaway",
+  "slug": "mercure-koh-chang-hideaway",
+  "name": "Mercure Koh Chang Hideaway",
+  "category_id": "accor-all",
+  "region_id": "koh-chang",
+  "short_description": "A 96-room, 4-star resort on the rocky southern edge of Bailan Beach, with two pools and no direct sandy-beach swimming.",
+  "ai_summary": "Mercure Koh Chang Hideaway is a four-star resort on the quiet, rocky southern edge of Bailan Bay on Koh Chang's west coast, around 3 km from Bang Bao fishing village. The 96 rooms and villas include a Pool Villa category with a private plunge pool, alongside two outdoor pools -- one an adults-oriented sea-view pool praised for its sunset views -- plus Hideaway Spa, two fitness centers and a hot tub. Reviews describe modern, spacious rooms and good value for a 4-star property, but consistently note the rocky waterfront limits sea swimming at the resort itself, the location is far from Koh Chang's nightlife, and extras like breakfast, wifi and minibar can carry additional charges.",
+  "core_facts": {
+    "address": "111/1 Moo Koh Chang Tai, Amphur Koh Chang, Trat 23170, Thailand",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Bailan Beach, Koh Chang",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "96 rooms and villas, including Pool Villas with a private plunge pool",
+    "Adults-oriented sea-view pool with well-regarded sunset views",
+    "Quiet, undeveloped stretch of southern Bailan Beach away from Koh Chang's busier strips",
+    "Modern, spacious rooms rated good value for a 4-star Koh Chang property",
+    "Hideaway Spa and two fitness centers on site"
+  ],
+  "cons": [
+    "Rocky waterfront means no real sandy-beach swimming directly at the resort",
+    "Remote from Koh Chang's nightlife and main tourist strips, generally requiring a car or taxi",
+    "Some guests report extra charges for breakfast, wifi and minibar not included in room rate"
+  ],
+  "research_highlights": [
+    "The adults-friendly sea-view pool and sunset views are repeatedly singled out in guest reviews",
+    "Pool Villas are described as competitively priced for Koh Chang's villa segment",
+    "A February 2026 dedicated review site rates it high value for a 4-star property"
+  ],
+  "research_watchouts": [
+    "TripAdvisor rates the property 3 of 5 overall, lower than the other four hotels in this batch, with some complaints about restaurant quality and add-on fees",
+    "No sandy swimming beach directly on site is a recurring disappointment for guests expecting a typical Koh Chang beach"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Can you swim at the beach at Mercure Koh Chang Hideaway?",
+      "answer": "Not easily -- the resort sits on a rocky stretch of southern Bailan Beach, so most guests travel a short distance to nearby sandy beaches like Bang Bao for swimming rather than swimming directly at the property."
+    },
+    {
+      "question": "Does Mercure Koh Chang Hideaway have villas with private pools?",
+      "answer": "Yes -- alongside standard, superior and deluxe rooms, the resort offers a Pool Villa category (about 123 sqm) with a private plunge pool, positioned as the top accommodation tier for guests who want their own pool rather than the shared main pool."
+    }
+  ],
+  "tags": ["bailan beach", "pool villa", "adults-friendly pool", "spa"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8463/index.en.shtml",
+      "label": "Accor ALL -- Mercure Koh Chang Hideaway official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g580110-d806901-Reviews-Mercure_Koh_Chang_Hideaway_Hotel-Ko_Chang_Trat_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://iamkohchang.com/accommodation/lonely-beach-bailan/mercure-hideaway.html",
+      "label": "iamKohChang resort review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8463/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-pattaya-ocean-resort"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Mercure Koh Chang Hideaway Resort Review",
+        "source": "iamKohChang",
+        "url": "https://iamkohchang.com/accommodation/lonely-beach-bailan/mercure-hideaway.html",
+        "published_date": "2026-08-01",
+        "summary": "Ian of iamKohChang calls out modern spacious rooms, a scenic adults' pool and high value for a 4-star property, but flags no sandy beach and a remote nightlife-free location."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mercure Koh Change Hideaway Beach Pool Villa Review and Koh Chang Attractions",
+        "channel": "Hotel Eval (Bangkok Hotel Reviews)",
+        "url": "https://www.youtube.com/watch?v=j-HjkJRAf7A",
+        "video_id": "j-HjkJRAf7A"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 68,
+    "breakdown": [
+      { "label": "Location", "score": 66 },
+      { "label": "Service", "score": 74 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 60 },
+      { "label": "Value", "score": 66 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

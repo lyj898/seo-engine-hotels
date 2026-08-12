@@ -1,0 +1,101 @@
+{
+  "entity_id": "novotel-semarang",
+  "slug": "novotel-semarang",
+  "name": "Novotel Semarang",
+  "category_id": "accor-all",
+  "region_id": "semarang",
+  "short_description": "A 4-star Novotel on Jalan Pemuda directly across from Paragon Mall, about 150m from Lawang Sewu and 2.5km from Semarang's Kota Lama old town.",
+  "ai_summary": "Novotel Semarang sits on Jalan Pemuda, the city's main commercial street, directly across from Paragon Mall and close enough to walk to the Lawang Sewu landmark building. Rooms span Standard through Executive categories plus a Superior Suite, all with a working area and either pool or city view, alongside a swimming pool, fitness centre, traditional spa, kids corner, and an 8-meeting-room ballroom that seats up to 1,000. Guests consistently praise the central location and friendly, attentive staff, though a recurring theme in reviews is that furnishings and bathroom fixtures show their age and that street noise carries into some rooms at night.",
+  "core_facts": {
+    "address": "Jl. Pemuda 123, Semarang 50132, Central Java, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Jalan Pemuda, opposite Paragon Mall",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly opposite Paragon Mall on Jalan Pemuda, Semarang's main commercial street",
+    "About 150m from the Lawang Sewu landmark and 2.5km from the Kota Lama (Old Town) district",
+    "4.4/5 ALL Rating from 272 reviews",
+    "Swimming pool, fitness centre, traditional spa and a kids corner on-site",
+    "Friendly, attentive staff cited consistently across recent reviews"
+  ],
+  "cons": [
+    "A recurring theme in reviews is aging furniture and bathroom fixtures needing updates",
+    "Some rooms suffer from street noise (motorcycle traffic) given the busy Jalan Pemuda location"
+  ],
+  "research_highlights": [
+    "The opposite-Paragon-Mall, near-Lawang-Sewu location is the most consistently praised feature",
+    "Staff friendliness and quick check-in come up repeatedly in reviews",
+    "The property recently drew a detailed Indonesian-language video review covering room and bathtub details"
+  ],
+  "research_watchouts": [
+    "Multiple reviews describe the facilities and furniture as dated relative to the room rate",
+    "Soundproofing from the busy Jalan Pemuda street is a recurring complaint",
+    "Third-party sites report differing room counts (roughly 170-177); the property's own Accor page does not publish an aggregate figure, so no specific room total is claimed here"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Novotel Semarang centrally located?",
+      "answer": "Yes -- it sits on Jalan Pemuda, Semarang's main commercial street, directly across from Paragon Mall and about 150 metres from the Lawang Sewu landmark, with the Dutch colonial Kota Lama old town roughly 2.5km away, making it an easy base for both business and sightseeing."
+    },
+    {
+      "question": "Are the rooms at Novotel Semarang modern?",
+      "answer": "Rooms are spacious and functional with a working area and pool or city views, but several recent reviews describe the furniture and bathroom fixtures as showing their age, and note that street noise from Jalan Pemuda can carry into rooms at night despite the otherwise convenient location."
+    }
+  ],
+  "tags": ["jalan pemuda", "paragon mall", "lawang sewu"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/5506/index.en.shtml",
+      "label": "Accor ALL — Novotel Semarang official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297712-d574669-Reviews-Novotel_Semarang-Semarang_Central_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View on Accor ALL",
+      "url": "https://all.accor.com/hotel/5506/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-solo"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "semua kamar ada bathtub! novotel semarang review lengkap rekomendasi hotel terbaik semarang",
+        "channel": "Diary of Dinda",
+        "url": "https://www.youtube.com/watch?v=aKcmkUhNMGg",
+        "video_id": "aKcmkUhNMGg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}
