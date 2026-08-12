@@ -1,0 +1,115 @@
+{
+  "entity_id": "south-palms-resort-spa-panglao",
+  "slug": "south-palms-resort-spa-panglao",
+  "name": "South Palms Resort & Spa Panglao",
+  "category_id": "accor-all",
+  "region_id": "panglao",
+  "short_description": "A 188-room MGallery beachfront resort in a coconut grove on Panglao Island, Bohol, five minutes from Bohol-Panglao International Airport.",
+  "ai_summary": "South Palms Resort & Spa Panglao - MGallery Collection opened on 8 August 2025 as Panglao Island's first internationally branded luxury resort, set in a coconut grove on a private white-sand beach roughly five minutes from Bohol-Panglao International Airport and a short ride from Alona Beach's bars and dive shops. The 188-room resort leans into Boholano design and culture, with reclaimed local wood and tilework in the rooms, four dining venues built around farm-to-table and regional Filipino cooking, and an on-site South Farm supplying the kitchens. It's part of the wider Panglao Shores sustainability initiative. Early reviews praise the design, beach, spacious rooms, and attentive staff, with guests split on whether the rates are worth it -- some call it pricey, others say the quality justifies the cost.",
+  "core_facts": {
+    "address": "Barangay Tawala, Panglao Island, Bohol Province 6340, Philippines",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Tawala, Panglao Island",
+    "rooms": 188,
+    "distance_from_airport_km": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "188 rooms and suites in a coconut-grove beachfront setting, opened August 2025 as Panglao's first internationally branded luxury resort",
+    "Wide, powdery-white private beach with abundant daybeds and loungers, per guest reviews",
+    "Four dining venues spanning farm-to-table Boholano cuisine (UMA), Mediterranean pizzeria (Manja) and heritage-style Filipino dining (Tiya's House)",
+    "On-site South Farm and cultural experiences (M Moment) rooted in Boholano traditions",
+    "About five minutes from Bohol-Panglao International Airport, with Alona Beach's bars and dive shops a short ride away"
+  ],
+  "cons": [
+    "Rates run high relative to older, independent resorts on Panglao Island, and some reviewers call it pricey for the location",
+    "As a newly opened property (August 2025), some amenities such as the spa were still being finished around launch"
+  ],
+  "research_highlights": [
+    "An August 2025 feature (Damn Good Travels) detailed the design-forward architecture, farm-to-table dining, and cultural M Moment experience shortly after opening",
+    "Room count (188) and the 8 August 2025 opening date are confirmed consistently across trade press (Hospitality Net, TTR Weekly) and the official MGallery site",
+    "TripAdvisor shows a strong reception with roughly 795 reviews and a #1 ranking among hotels in Tawala, Panglao, as of research"
+  ],
+  "research_watchouts": [
+    "Coverage found is concentrated around the property's August 2025 opening -- guest experience may have evolved as the resort has matured through its first year",
+    "Some sources note the on-site spa was still being completed at launch; current spa status wasn't independently re-verified beyond the opening-period coverage"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did South Palms Resort & Spa Panglao - MGallery Collection open?",
+      "answer": "It opened on 8 August 2025 as Panglao Island's first internationally branded luxury resort, with 188 rooms and suites set in a coconut grove on a private white-sand beach. It's part of the wider Panglao Shores sustainability development on the island."
+    },
+    {
+      "question": "How far is South Palms Resort & Spa Panglao from the airport and Alona Beach?",
+      "answer": "The resort is about five minutes from Bohol-Panglao International Airport, making it one of the more airport-convenient resorts on the island, and a short ride from Alona Beach's concentration of bars, dive shops and restaurants, which remain the island's main nightlife and activity hub."
+    }
+  ],
+  "tags": ["panglao island", "bohol", "beachfront"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C0Q8/index.en.shtml",
+      "label": "South Palms Resort & Spa Panglao on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://mgallery.accor.com/en/hotels/C0Q8.html",
+      "label": "Official South Palms Resort and Spa Panglao - MGallery Collection page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.damngoodtravels.com/2025/08/south-palms-resort-spa-panglao-mgallery.html",
+      "label": "Damn Good Travels hotel feature",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://mgallery.accor.com/en/hotels/C0Q8.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-resort-and-spa-boracay", "admiral-hotel-manila-mgallery"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "South Palms Resort & Spa Panglao - MGallery Collection Sets a New Standard in Design-Led Luxury Hospitality in Bohol",
+        "source": "Damn Good Travels",
+        "url": "https://www.damngoodtravels.com/2025/08/south-palms-resort-spa-panglao-mgallery.html",
+        "published_date": "2025-08-12",
+        "summary": "A feature on the newly opened resort covering its reclaimed-wood room design, four dining venues, wide white-sand beach, and cultural M Moment experience with local sea-salt producers."
+      }
+    ],
+    "videos": [
+      {
+        "title": "First Ever 5-Star Resort in Bohol! South Palms Resort & Spa MGallery Collection Panglao #bohol",
+        "channel": "Kiwi in Bohol",
+        "url": "https://www.youtube.com/watch?v=xlRcpm8yPIQ",
+        "video_id": "xlRcpm8yPIQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 70 }
+    ]
+  },
+  "reliability_score": 54,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

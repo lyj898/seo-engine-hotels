@@ -1,0 +1,112 @@
+{
+  "entity_id": "pullman-ninh-binh",
+  "slug": "pullman-ninh-binh",
+  "name": "Pullman Ninh Binh",
+  "category_id": "accor-all",
+  "region_id": "ninh-binh",
+  "short_description": "A 283-room, 29-storey landmark tower and Ninh Binh's first internationally branded hotel, opened April 2026 near Trang An and Tam Coc.",
+  "ai_summary": "Pullman Ninh Binh opened on April 20, 2026 as Ninh Binh's first internationally branded hotel, a 29-storey tower with 283 rooms and suites that has become the tallest building in the city, roughly 1.5 hours from Hanoi's Noi Bai International Airport and a short drive from the Trang An UNESCO World Heritage Site and Tam Coc. Every room has a private balcony over the limestone-karst landscape, and the property has three swimming pools (indoor, outdoor, and rooftop), a spa, and a rooftop Champagne bar with panoramic views, though several dining venues -- including the steakhouse and Cantonese restaurant -- were still being phased in during the hotel's first months. Early independent reviews from travel publications are notably positive, praising the floor-to-ceiling views and rooftop pool, while flagging that some amenities like the spa and mini-golf were still being completed shortly after opening.",
+  "core_facts": {
+    "address": "128 Le Thai To Street, Xuan Thanh Urban Area, Hoa Lu Ward, Ninh Binh Province 430000, Vietnam",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Xuan Thanh Urban Area / Hoa Lu",
+    "elite_benefits": [
+      "Executive Lounge access for suite guests and ALL Diamond members, subject to availability",
+      "Room upgrades for Platinum and Diamond members, subject to availability, per ALL - Accor Live Limitless program terms",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "283 rooms and suites, every one with a private balcony over the city or the surrounding limestone karsts",
+    "First internationally branded hotel in Ninh Binh, roughly 2km from the Old Town and a short drive from Trang An and Tam Coc",
+    "Three swimming pools (indoor, outdoor, rooftop) plus a rooftop Champagne bar with panoramic views",
+    "Early independent reviews single out the floor-to-ceiling window views and breakfast spread",
+    "1,700 sqm of meeting space and full-size sports courts, unusual amenities for the local market"
+  ],
+  "cons": [
+    "Opened April 2026, so several planned venues -- Mad Cow Wine & Grill, the Cantonese restaurant, mini-golf -- were still being completed in the months after opening",
+    "Guest review volume is still thin given the property's short time in operation"
+  ],
+  "research_highlights": [
+    "283-room, 29-storey tower opened April 20, 2026 as the city's first internationally branded hotel",
+    "Independent travel-press reviews (Time Out, The Hotel Journal) are strongly positive on design and views",
+    "Rated 5 of 5 on TripAdvisor in early reviews, though the review count remains small given its short time open"
+  ],
+  "research_watchouts": [
+    "Multiple dining venues and the spa were incomplete or partially operating in the weeks after opening -- confirm current status before booking",
+    "Thin guest-review volume so far means sentiment could shift as more travelers stay"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Pullman Ninh Binh open?",
+      "answer": "Pullman Ninh Binh opened on April 20, 2026, as Ninh Binh's first internationally branded hotel -- a 29-storey tower with 283 rooms and suites that is now the tallest building in the city. Some dining venues and amenities were still being phased in during the months immediately following opening."
+    },
+    {
+      "question": "How close is Pullman Ninh Binh to Trang An and Tam Coc?",
+      "answer": "The hotel sits about 2km from Ninh Binh's Old Town, with Trang An and Tam Coc -- both UNESCO-recognized limestone-karst attractions -- a short drive away, and the ancient Hoa Lu capital roughly 1.5km from the property, making it a practical base for sightseeing across the wider Ninh Binh area."
+    }
+  ],
+  "tags": ["trang an", "tam coc", "first international hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A8E7/index.en.shtml",
+      "label": "Official Pullman Ninh Binh page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.pullmanninhbinh.com/",
+      "label": "Official Pullman Ninh Binh website",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://thehoteljournal.com/pullman-ninh-binh-review-vietnam/",
+      "label": "The Hotel Journal, Pullman Ninh Binh review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.timeout.com/asia/property/pullman-ninh-binh",
+      "label": "Time Out Asia, Pullman Ninh Binh review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.pullmanninhbinh.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-hanoi", "mercure-hanoi-la-gare"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Pullman Ninh Binh review: a stylish new reason to linger in northern Vietnam",
+        "source": "The Hotel Journal",
+        "url": "https://thehoteljournal.com/pullman-ninh-binh-review-vietnam/",
+        "published_date": "2026-08-03",
+        "summary": "Praises the karst-framing architecture, spacious 80sqm Deluxe Suite, and rooftop pool sunrise views, but notes the spa and Mad Cow Wine & Grill were still being completed during the stay."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 38,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

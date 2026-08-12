@@ -1,0 +1,105 @@
+{
+  "entity_id": "andaman-beach-hotel-phuket-handwritten-collection",
+  "slug": "andaman-beach-hotel-phuket-handwritten-collection",
+  "name": "Andaman Beach Hotel Phuket - Handwritten Collection",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 157-room boutique hotel on a hillside above Patong Beach, Thailand's first Handwritten Collection property, a 5-minute walk from the sand.",
+  "ai_summary": "Andaman Beach Hotel Phuket - Handwritten Collection is a 157-room boutique hotel on a hillside in north Patong, about 250 metres and a 5-minute walk from Patong Beach. It marked Accor's debut of the Handwritten Collection brand in Thailand when it opened under the flag in October 2023, and all rooms have balconies facing either the Andaman Sea or the pool, with a Halal-certified all-day restaurant (Salt N' Sea Breeze) and Ozone Bar on site. Guests consistently praise the sea-view balconies, pool, gym, and attentive service, though a subset of reviews mention room-cleanliness lapses and note the layout requires a buggy ride between the lift lobby and the main lobby.",
+  "core_facts": {
+    "address": "17/1-3 Soi Prabaramee 4, Patong, Phuket 83150, Thailand",
+    "brand_sub_brand": "Handwritten Collection",
+    "neighborhood": "North Patong, Phuket",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Accor's first Handwritten Collection property in Thailand, opened October 2023",
+    "157 rooms, all with balconies facing the Andaman Sea or the pool",
+    "About a 5-minute walk (roughly 250 metres) to Patong Beach",
+    "Outdoor pool, 24-hour gym, and a Halal-certified restaurant on site",
+    "Warm, attentive service and well-maintained grounds draw consistent guest praise"
+  ],
+  "cons": [
+    "A subset of reviews report room-cleanliness lapses, including issues with towels and hot water",
+    "The hillside layout requires a buggy ride between the lift lobby and the main lobby, which some guests find inconvenient"
+  ],
+  "research_highlights": [
+    "Confirmed via Accor/Hospitality Net press coverage as the first Handwritten Collection hotel in Thailand, opened October 2023",
+    "TripAdvisor ranks it #112 of 1,114 hotels in Patong at a 4/5 rating",
+    "Sea-view balconies and staff friendliness are repeatedly highlighted in guest reviews"
+  ],
+  "research_watchouts": [
+    "No independent dated blog/publication review of the property (beyond the 2023 launch press release) could be confirmed -- external_coverage.reviews is left empty",
+    "A hillside layout with a buggy transfer between lobbies may not suit guests wanting step-free, single-level access"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Andaman Beach Hotel Phuket really Accor's first Handwritten Collection hotel in Thailand?",
+      "answer": "Yes -- Accor and Hospitality Net both confirmed this in October 2023, when the 157-room property in north Patong became the debut Handwritten Collection hotel in the country. The brand focuses on independently minded, personality-driven boutique hotels rather than a standardized chain look and feel."
+    },
+    {
+      "question": "How far is Andaman Beach Hotel Phuket from Patong Beach?",
+      "answer": "It's about a 5-minute walk, roughly 250 metres, from the hotel to the sand. The hillside hotel sits in north Patong, close enough for easy beach access on foot while being a short taxi ride from the nightlife on Bangla Walking Street and the Jungceylon shopping mall."
+    }
+  ],
+  "tags": ["patong", "handwritten collection", "boutique", "sea view", "hillside"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C267/index.en.shtml",
+      "label": "Accor ALL -- Andaman Beach Hotel Phuket official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297930-d9994226-Reviews-Andaman_Beach_Hotel_Phuket_Handwritten_Collection-Patong_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.hospitalitynet.org/announcement/41010209/handwritten-collection-debuts-in-phuket-thailand",
+      "label": "Hospitality Net -- Handwritten Collection debuts in Phuket, Thailand",
+      "type": "other",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.andamanbeachhotelphuket.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-phuket-patong", "four-points-phuket-patong"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Andaman Beach Hotel Phuket - Handwritten Collection - This Hotel Impressed Me | Phuket, Thailand",
+        "channel": "AmazingHotelTrip",
+        "url": "https://www.youtube.com/watch?v=a2f_1M2aFoA",
+        "video_id": "a2f_1M2aFoA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 77,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 73 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

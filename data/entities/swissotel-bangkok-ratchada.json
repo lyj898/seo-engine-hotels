@@ -1,0 +1,114 @@
+{
+  "entity_id": "swissotel-bangkok-ratchada",
+  "slug": "swissotel-bangkok-ratchada",
+  "name": "Swissôtel Bangkok Ratchada",
+  "category_id": "accor-all",
+  "region_id": "bangkok",
+  "short_description": "A 407-room, 22-floor 5-star hotel on Ratchadapisek Road, a 2-minute walk from Huai Khwang MRT station in Bangkok's Ratchada business and entertainment district.",
+  "ai_summary": "Swissôtel Bangkok Ratchada (formerly marketed as Swissotel Le Concorde Bangkok) is a 5-star, 22-floor hotel with 407 rooms and suites on Ratchadapisek Road, a 2-minute walk from Huai Khwang MRT station in Bangkok's Ratchada business and entertainment district. The hotel runs five dining venues -- including 204 Bistro's international buffet, Cantonese restaurant Loong Foong, and Japanese restaurant Takumi -- alongside an outdoor pool, fitness center, and Executive Club Lounge access for eligible room categories. Guests consistently praise attentive, professional staff and a strong breakfast buffet, and blog reviews call the rooms spacious and comfortable for the price point, though some 2025 guest reviews note the decor and furnishings feel dated and one reviewer flagged thin soundproofing between rooms.",
+  "core_facts": {
+    "address": "204 Ratchadapisek Road, Huai Khwang, Bangkok 10320, Thailand",
+    "brand_sub_brand": "Swissôtel",
+    "neighborhood": "Ratchadapisek / Huai Khwang, Bangkok",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "2-minute walk to Huai Khwang MRT station in a lively business and entertainment district",
+    "407 rooms and suites across 22 floors, with panoramic city views from higher floors",
+    "Five on-site dining venues including Cantonese, Japanese, and European options",
+    "Consistently praised staff service and an extensive breakfast buffet",
+    "Outdoor pool and fitness center included for all guests"
+  ],
+  "cons": [
+    "Some 2025 guest reviews describe the decor and furnishings as feeling dated and due for a refresh",
+    "At least one guest review noted thin soundproofing between rooms"
+  ],
+  "research_highlights": [
+    "The Ratchadapisek location and 2-minute MRT walk draw consistent praise across TripAdvisor and blog reviews",
+    "Staff service and the breakfast buffet are repeatedly singled out as strengths",
+    "A February 2024 blog review called it a fantastic-value 5-star stay, with only minor gripes about a small in-room safe"
+  ],
+  "research_watchouts": [
+    "Multiple 2025 reviews mention the property could use a refresh in decor and furnishings",
+    "The hotel was formerly branded Swissotel Le Concorde Bangkok, which still appears on some older listings"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Swissôtel Bangkok Ratchada from the MRT?",
+      "answer": "It's about a 2-minute walk from Huai Khwang MRT station, putting the hotel directly in Bangkok's Ratchada business and entertainment district. From there, guests can reach most of central Bangkok via the MRT and connecting BTS lines without needing a taxi for most trips."
+    },
+    {
+      "question": "How many rooms does Swissôtel Bangkok Ratchada have?",
+      "answer": "The hotel has 407 rooms and suites spread across 22 floors. Rooms come with high-speed Wi-Fi, flat-screen TVs, and city views, with select categories including access to the Executive Club Lounge -- a higher room count than most mid-tier Accor properties in the same Ratchada neighborhood."
+    }
+  ],
+  "tags": ["ratchada", "huai khwang mrt", "swissotel", "5-star", "business district"],
+  "source_mix": [
+    {
+      "url": "https://www.swissotelbangkok.com/",
+      "label": "Official Swissôtel Bangkok Ratchada website",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293916-d301563-Reviews-Swissotel_Bangkok_Ratchada-Bangkok.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://thewayfaringsoul.com/swissotel-bangkok-ratchada-review/",
+      "label": "The Wayfaring Soul -- Swissotel Bangkok Ratchada Review",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.swissotelbangkok.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-bangkok-ratchada"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Swissotel Bangkok Ratchada Review",
+        "source": "The Wayfaring Soul",
+        "url": "https://thewayfaringsoul.com/swissotel-bangkok-ratchada-review/",
+        "published_date": "2024-02-04",
+        "summary": "The Wayfaring Soul praised the spacious 40-sqm rooms, fitness center, and pool as strong value for a 5-star Bangkok hotel, with only minor gripes about a small in-room safe and no kids play area."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Swissotel Bangkok Ratchada | Bangkok, Thailand | Hotel Review",
+        "channel": "Thailand Hype Hotels",
+        "url": "https://www.youtube.com/watch?v=NwxYj4Y5kOI",
+        "video_id": "NwxYj4Y5kOI"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}
