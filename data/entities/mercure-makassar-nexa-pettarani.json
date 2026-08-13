@@ -1,0 +1,103 @@
+{
+  "entity_id": "mercure-makassar-nexa-pettarani",
+  "slug": "mercure-makassar-nexa-pettarani",
+  "name": "Mercure Makassar Nexa Pettarani",
+  "category_id": "accor-all",
+  "region_id": "makassar",
+  "short_description": "A 174-room hotel on Jalan A.P. Pettarani in Makassar's government and commercial district, with Toraja-inspired design, a ballroom, and an outdoor pool.",
+  "ai_summary": "Mercure Makassar Nexa Pettarani is a 174-room hotel on the busy Jalan A.P. Pettarani corridor, in the heart of Makassar's government and commercial district and about 30 minutes from Sultan Hasanuddin International Airport. The property is known for its Toraja-carved local design touches, a 500-person ballroom and meeting rooms geared toward business and event guests, an outdoor pool, spa, and all-day dining at Losari Restaurant. Guest feedback is generally positive on location convenience, staff friendliness, and breakfast variety, but a recurring minority of reviews flag housekeeping lapses -- dirty bedsheets, tinted water, or dated bathroom fixtures -- worth checking on arrival.",
+  "core_facts": {
+    "address": "Jl. A.P. Pettarani No. 4, Gunung Sari, Rappocini, 90222 Makassar, South Sulawesi, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Jalan A.P. Pettarani / Rappocini",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "174 rooms with a distinctive Toraja-carved local design theme",
+    "Central location on Jalan A.P. Pettarani near Mall Panakkukang, Mall Nipah, and Trans Studio Mall",
+    "500-person ballroom and modern meeting rooms suited to business events and weddings",
+    "Outdoor swimming pool, spa, and gym on site",
+    "Guests consistently praise staff friendliness and breakfast variety"
+  ],
+  "cons": [
+    "A recurring minority of reviews report housekeeping issues such as dirty bedsheets or dated bathroom fixtures",
+    "About 30 minutes from Sultan Hasanuddin International Airport, so not an airport-adjacent option"
+  ],
+  "research_highlights": [
+    "Toraja-carved exterior and local design cues set it apart from generic business hotels in Makassar",
+    "Central Jalan A.P. Pettarani location puts several major malls within easy reach",
+    "Breakfast spread, including traditional Indonesian offerings, draws repeated praise"
+  ],
+  "research_watchouts": [
+    "Multiple independent reviews describe cleanliness lapses -- stained linens, tinted water, or moldy fixtures -- pointing to inconsistent housekeeping standards rather than an isolated incident",
+    "Facilities are described by some guests as showing their age despite the hotel opening in 2019"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is Mercure Makassar Nexa Pettarani from the airport?",
+      "answer": "The hotel is roughly a 30-minute drive from Sultan Hasanuddin International Airport (UPG). It sits centrally on Jalan A.P. Pettarani instead, closer to Makassar's government and commercial district and shopping malls like Mall Panakkukang than to the airport."
+    },
+    {
+      "question": "What is the design theme of Mercure Makassar Nexa Pettarani?",
+      "answer": "The hotel features a distinctive Toraja-carved exterior and local South Sulawesi design touches throughout its public spaces, blending Mercure's international four-star standard with authentic regional character -- a deliberate point of difference from more generic business hotels in the city."
+    },
+    {
+      "question": "Is Mercure Makassar Nexa Pettarani good for events or weddings?",
+      "answer": "Yes -- it has a ballroom that holds up to 500 people plus modern meeting rooms, and guest content shows the venue regularly hosting weddings and corporate events, making it one of the more event-capable hotels in central Makassar."
+    }
+  ],
+  "tags": ["makassar", "business hotel", "toraja design", "ballroom", "jalan pettarani"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B2V1/index.en.shtml",
+      "label": "Official Mercure Makassar Nexa Pettarani (ALL) page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/tamalate-hotel-detail-39427776/mercure-makassar-nexa-pettarani/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B2V1/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-makassar-grand-shayla"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "HotelKDM | Review Mercure Makassar Nexa Pettarani",
+        "channel": "HotelKDM",
+        "url": "https://www.youtube.com/watch?v=6ZeyOpKPczg",
+        "video_id": "6ZeyOpKPczg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 75,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 79 },
+      { "label": "Rooms", "score": 66 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
