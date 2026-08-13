@@ -1,0 +1,106 @@
+{
+  "entity_id": "ibis-pontianak-city-center",
+  "slug": "ibis-pontianak-city-center",
+  "name": "ibis Pontianak City Center",
+  "category_id": "accor-all",
+  "region_id": "pontianak",
+  "short_description": "A 182-room budget hotel in central Pontianak on Jalan Ahmad Yani, built in 2016 and close to the city's largest shopping mall.",
+  "ai_summary": "ibis Pontianak City Center is a 182-room, 12-floor hotel on Jalan Jendral Ahmad Yani, built in 2016 in the heart of Pontianak near the city's largest shopping mall and government offices, about 16km from Supadio International Airport. Rooms run from 18-square-meter standard doubles/twins to 24-square-meter superior kings, and the property includes Ibis Kitchen restaurant and bar, a spa, and 10 meeting rooms, the largest at 443 square meters and able to host weddings for up to 540 guests. Guest reviews are consistently positive on location, cleanliness, breakfast variety, and friendly, efficient service, with only occasional mentions of minor maintenance issues or odors.",
+  "core_facts": {
+    "address": "Jl Jendral Ahmad Yani No 81, Pontianak, 78124 West Kalimantan, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Central Pontianak, near Ayani Mega Mall and government offices",
+    "elite_benefits": [],
+    "elite_notes": "As a budget-tier ibis property, this hotel offers standard ALL - Accor Live Limitless member rates and points-earning, without the premium benefits (lounge access, guaranteed upgrades) reserved for upscale-brand properties.",
+    "distance_from_airport_km": 16.4,
+    "landmark_distances": [
+      { "label": "Ayani Mega Mall", "km": 1 }
+    ]
+  },
+  "pros": [
+    "Central Pontianak location near the city's biggest shopping mall and government offices",
+    "182 rooms across 12 floors, built in 2016, with a 443-square-meter function room hosting weddings for up to 540 guests",
+    "Consistently praised for cleanliness, comfort, and value",
+    "Good breakfast variety noted repeatedly across guest reviews",
+    "Friendly, efficient staff and service"
+  ],
+  "cons": [
+    "As a budget-tier ibis property, it lacks upscale amenities like a pool or premium lounge",
+    "Occasional guest mentions of minor maintenance issues or odors",
+    "16km from Supadio International Airport, requiring a taxi or shuttle for arrivals"
+  ],
+  "research_highlights": [
+    "Long-established property (built 2016) with a large, consistent review base rating it around 4.6/5",
+    "Central location and breakfast quality are the most repeated praise points",
+    "Function space capacity (up to 540 guests) makes it a popular local wedding and event venue"
+  ],
+  "research_watchouts": [
+    "A minority of reviews mention minor maintenance issues or odors that a newer competing property might not have"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis Pontianak City Center part of the ALL loyalty program?",
+      "answer": "Yes -- as a budget-tier ibis property, guests earn and redeem points at standard ALL - Accor Live Limitless member rates, though it does not offer the premium perks like lounge access or guaranteed upgrades that upscale-brand Accor hotels provide to higher-tier members."
+    },
+    {
+      "question": "How far is ibis Pontianak City Center from the airport?",
+      "answer": "The hotel is about 16.4 kilometers from Supadio International Airport, roughly a 20-30 minute drive depending on traffic, and sits centrally within Pontianak near the city's largest shopping mall, government offices, and residential districts, making it a convenient base for both business and leisure visits."
+    }
+  ],
+  "tags": ["budget hotel", "pontianak", "west kalimantan", "city center"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9654/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://amimagazine.global/Meeting-Event-Venues/Pontianak-Indonesia/Convention-Hotel/Ibis-Pontianak-City-Center-p57914254",
+      "label": "Association Meetings International venue listing",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g317101-d15074579-Reviews-Ibis_Pontianak_City_Center-Pontianak_West_Kalimantan_Kalimantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9654/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-pontianak-convention-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Review Hotel Ibis Pontianak Kalimantan Barat Room Tour Penginapan Murah Budget Rekomendasi",
+        "channel": "Om GendutZ",
+        "url": "https://www.youtube.com/watch?v=DnczBkQWtvY",
+        "video_id": "DnczBkQWtvY"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

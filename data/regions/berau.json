@@ -1,0 +1,12 @@
+{
+  "region_id": "berau",
+  "slug": "berau",
+  "label": "Berau",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "The Tanjung Redeb riverside hub of East Kalimantan's Berau Regency, and the main gateway to the Derawan Islands.",
+  "intro": "Berau Regency's town of Tanjung Redeb sits on the Segah and Kelay rivers in northeastern East Kalimantan, and is the jumping-off point most travelers use before heading out to the Derawan Islands' diving and snorkeling sites -- Derawan, Maratua, Kakaban, and Sangalaki. Hotels here cluster in the compact town center, a short drive from both Kalimarau Airport and the port used for boat transfers to Derawan. Tanjung Redeb itself is a modest riverside trading town rather than a resort destination in its own right, so its hotels serve primarily as an overnight stop before or after the islands.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

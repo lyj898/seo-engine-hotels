@@ -1,0 +1,107 @@
+{
+  "entity_id": "novotel-tangerang",
+  "slug": "novotel-tangerang",
+  "name": "Novotel Tangerang",
+  "category_id": "accor-all",
+  "region_id": "tangerang",
+  "short_description": "A 266-room 4-star hotel atop the Tangcity Superblock mall in central Tangerang, about 20 minutes by car from Soekarno-Hatta Airport.",
+  "ai_summary": "Novotel Tangerang is a 266-room, 4-star hotel built into the Tangcity Superblock at Jl. Jend Sudirman No. 1 in central Tangerang, giving guests direct access to Tangcity Mall below. The hotel centers on The Square restaurant serving European and Asian cuisine, alongside a rooftop garden pool, fitness center, Lounge Bar, Pool Bar, and a Grand Ballroom with 1,600 sqm of event space across 7 meeting rooms. It sits about 20 minutes by car from Soekarno-Hatta International Airport and roughly 45 minutes from central Jakarta. Accor's own listing shows a 4.7/5 ALL rating from over 550 reviews, and independent coverage -- including a February 2025 YouTube feature on its kid-friendly facilities -- consistently praises the central-city location, attentive service, and mall access, positioning it as a family-oriented staycation option distinct from the newer Novotel Tangerang BSD City property further south.",
+  "core_facts": {
+    "address": "Tangcity Superblock, Jl. Jend Sudirman No. 1, 15117 Tangerang, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Central Tangerang (Tangcity)",
+    "landmark_distances": [
+      { "label": "Pasar Anyar Railway Station", "km": 3.2 },
+      { "label": "Modern Land Golf Course", "km": 5.1 }
+    ],
+    "elite_benefits": [
+      "ALL member rates and Status & Rewards points-earning at this property, per its own Accor listing",
+      "Room upgrades and late check-out for eligible Platinum and Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "266 rooms built directly into the Tangcity Superblock, with mall access below",
+    "The Square restaurant, rooftop garden pool, Lounge Bar, and Pool Bar on-site",
+    "Grand Ballroom with 1,600 sqm of event space across 7 meeting rooms",
+    "About 20 minutes by car from Soekarno-Hatta International Airport",
+    "Strong 4.7/5 ALL rating from 550+ reviews, praised as kid-friendly and centrally located"
+  ],
+  "cons": [
+    "Central-city Tangcity location is a separate area from the newer BSD City townships further south",
+    "Roughly 45 minutes from central Jakarta depending on toll-road traffic"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms 266 rooms, a 4.7/5 ALL rating (550+ reviews), and direct Tangcity Mall access",
+    "A confirmed February 2025 YouTube feature by Indonesian channel Eko Wahyudiharto covers this specific property's kid-friendly facilities",
+    "Multiple independent reviews from 2020-2025 consistently describe it as a classy, family-oriented hotel in the heart of Tangerang"
+  ],
+  "research_watchouts": [
+    "No independently confirmable dated written review article (as opposed to aggregator user reviews) was found, so external_coverage.reviews is left empty",
+    "Distinct from the newer, separately-listed Novotel Tangerang BSD City (opened 2026, its own Accor hotel ID C250) -- confirmed as two separate properties before writing this entity"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Novotel Tangerang the same hotel as Novotel Tangerang BSD City?",
+      "answer": "No -- they are two distinct Accor properties, each with its own separate hotel ID on the Accor booking platform. Novotel Tangerang sits in the Tangcity Superblock in central Tangerang city, while Novotel Tangerang BSD City is a newer property further south in the BSD City township near AEON Mall and ICE BSD."
+    },
+    {
+      "question": "How far is Novotel Tangerang from the airport?",
+      "answer": "The hotel is about 20 minutes by car from Soekarno-Hatta International Airport and roughly 45 minutes from central Jakarta, making it a practical base for both business travelers using the airport and visitors exploring Tangerang's Tangcity Mall district, where the hotel is directly built into the superblock."
+    }
+  ],
+  "tags": ["central tangerang", "tangcity", "mall hotel", "family-friendly", "greater jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7234/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1493703-d4751738-Reviews-Novotel_Tangerang_Hotel-Tangerang_Banten_Province_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://in.trip.com/hotels/tangerang-hotel-detail-2192493/novotel-tangerang/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7234/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-tangerang-bsd-city", "ibis-styles-serpong-bsd-city"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Tangerang | Ini Dia Hotel Internasional Paling Kids Friendly Di Tengah Kota",
+        "channel": "Eko Wahyudiharto",
+        "url": "https://www.youtube.com/watch?v=uY_DRwfViOo",
+        "video_id": "uY_DRwfViOo"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

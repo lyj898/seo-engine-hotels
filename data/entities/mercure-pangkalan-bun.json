@@ -1,0 +1,104 @@
+{
+  "entity_id": "mercure-pangkalan-bun",
+  "slug": "mercure-pangkalan-bun",
+  "name": "Mercure Pangkalan Bun",
+  "category_id": "accor-all",
+  "region_id": "pangkalan-bun",
+  "short_description": "The first Accor hotel in Central Kalimantan, a 150-room riverside property in Pangkalan Bun near Tanjung Puting National Park.",
+  "ai_summary": "Mercure Pangkalan Bun is the first Accor hotel in Central Kalimantan, positioned in the riverside town of Pangkalan Bun a short drive from the Arut River and around 15 minutes from Iskandar Airport. The 150-room hotel spans seven room and suite categories up to a President Suite, with an All Day Dining restaurant, lobby lounge and pool bar, wellness center, and meeting space for up to 650 guests. Guests praise its clean, comfortable rooms, strong breakfast, and helpful staff, and many use it as a base before or after a klotok riverboat trip into nearby Tanjung Puting National Park to see wild and rehabilitated orangutans; some reviews note slow bar and restaurant service.",
+  "core_facts": {
+    "address": "Jalan Haji Udan Said, Kota Waringin Barat, Central Kalimantan, 74113 Pangkalan Bun, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Kota Waringin Barat",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "distance_from_airport_km": 8,
+    "landmark_distances": [
+      { "label": "Iskandar Airport", "km": 8 },
+      { "label": "Kubu Beach", "km": 30 }
+    ]
+  },
+  "pros": [
+    "The first Accor hotel in Central Kalimantan, with 150 rooms across 7 categories up to a President Suite",
+    "About 15 minutes from Iskandar Airport, making it a convenient overnight base",
+    "Common jumping-off point for klotok riverboat trips into Tanjung Puting National Park",
+    "All Day Dining restaurant, lobby lounge, pool bar, and a wellness center on site",
+    "Guests consistently praise cleanliness, breakfast, and helpful staff"
+  ],
+  "cons": [
+    "Some guests report long waits for food and drinks at the bar and restaurant",
+    "A subset of reviews note bar and breakfast add-on pricing runs higher than expected"
+  ],
+  "research_highlights": [
+    "Its role as the pre/post-trip base for Tanjung Puting National Park orangutan tours is a recurring theme in reviews",
+    "Cleanliness, room comfort, and staff friendliness are the most consistently praised aspects",
+    "The rooftop-area pool and overall property presentation draw favorable comment as the town's most polished hotel"
+  ],
+  "research_watchouts": [
+    "Multiple reviews flag slow service at the bar and restaurant during busier periods",
+    "Some guests find bar and breakfast pricing higher than expected for the location"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Mercure Pangkalan Bun a good base for visiting Tanjung Puting National Park?",
+      "answer": "Yes -- it is commonly used as an overnight base before or after a klotok riverboat trip into Tanjung Puting National Park to see wild and rehabilitated orangutans, since Pangkalan Bun is the main overland and air gateway to the park via the nearby port of Kumai. The hotel is about 15 minutes from Iskandar Airport."
+    },
+    {
+      "question": "What room categories does Mercure Pangkalan Bun offer?",
+      "answer": "The 150-room hotel offers seven categories, from 27-square-meter Premium Superior rooms and 39-square-meter Deluxe rooms up to a 59-square-meter Junior Suite, a 62-square-meter Executive Suite, and a 95-square-meter President Suite, all with IP TV, high-speed WiFi, and a mini fridge."
+    }
+  ],
+  "tags": ["tanjung puting national park", "orangutans", "first accor hotel", "kalimantan"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9707/index.en.shtml",
+      "label": "Official Mercure Pangkalan Bun page on all.accor.com",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g680187-d25198782-Reviews-Mercure_Pangkalan_Bun-Pangkalan_Bun_Central_Kalimantan_Kalimantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9707/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-berau", "ibis-balikpapan", "novotel-balikpapan"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "The Most Luxury Hotel in Pangkalan Bun, Central Kalimantan | Mercure Hotel (FULL Review & 4K Vlog)",
+        "channel": "FYP Travel",
+        "url": "https://www.youtube.com/watch?v=eIoD3gJZkTA",
+        "video_id": "eIoD3gJZkTA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

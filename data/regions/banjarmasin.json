@@ -1,0 +1,12 @@
+{
+  "region_id": "banjarmasin",
+  "slug": "banjarmasin",
+  "label": "Banjarmasin",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "South Kalimantan's canal-laced river city, famous for its floating markets, served by Syamsudin Noor International Airport in neighboring Banjarbaru.",
+  "intro": "Banjarmasin is South Kalimantan's provincial capital, a river city built on canals and best known for its Lok Baintan and Kuin floating markets on the Barito and Martapura rivers. The city's main air gateway, Syamsudin Noor International Airport, sits about 25-30km southeast in the neighboring city of Banjarbaru, which is why several hotels marketed toward Banjarmasin travelers -- including airport-branded properties -- are physically located in Banjarbaru rather than Banjarmasin proper.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

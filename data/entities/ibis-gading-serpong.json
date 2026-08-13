@@ -1,0 +1,110 @@
+{
+  "entity_id": "ibis-gading-serpong",
+  "slug": "ibis-gading-serpong",
+  "name": "ibis Gading Serpong",
+  "category_id": "accor-all",
+  "region_id": "tangerang",
+  "short_description": "A 3-star, Green Key-certified budget hotel inside Summarecon Serpong, about a 10-minute walk from Summarecon Mall Serpong.",
+  "ai_summary": "ibis Gading Serpong is a 3-star, Green Key-certified economy hotel at Jalan Boulevard Gading Serpong, Blok M5 No. 19 in Summarecon Serpong, Tangerang, about a 10-minute walk (roughly 700 meters) from Summarecon Mall Serpong. Rooms are compact standard doubles or twins, and the property offers an on-site restaurant and bar, meeting space for up to 600 guests, a spa, and a shuttle service to nearby malls, positioned near ICE BSD and Soekarno-Hatta International Airport with several universities nearby. Accor's own listing confirms it participates in the ALL - Accor Live Limitless loyalty programme, with members earning and redeeming Status & Rewards points and access to member rates. Guest reviews are strongly positive on cleanliness and value, with an ALL rating of 4.9/5 from 260 reviews, though independent 2024-2025 video and TripAdvisor coverage is mixed, ranging from strongly recommended stays to at least one guest describing an experience below expectations.",
+  "core_facts": {
+    "address": "Jalan Boulevard Gading Serpong, Blok M5 No. 19, Serpong, 15810 Tangerang, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Summarecon Serpong, Gading Serpong",
+    "landmark_distances": [
+      { "label": "Summarecon Mall Serpong", "km": 0.7 },
+      { "label": "AEON Mall", "km": 7.7 },
+      { "label": "IKEA Alam Sutera", "km": 10.4 },
+      { "label": "Cisauk Train Station", "km": 10 }
+    ],
+    "elite_benefits": [
+      "ALL member rates and Status & Rewards points-earning at this property, per its own Accor listing",
+      "15% year-round discount across ibis brands for ALL Accor+ ibis subscription members"
+    ]
+  },
+  "pros": [
+    "Green Key-certified, 3-star economy hotel inside Summarecon Serpong",
+    "About a 10-minute walk from Summarecon Mall Serpong",
+    "Meeting facilities for up to 600 guests, plus spa and shuttle service",
+    "Participates in the ALL loyalty programme with points-earning and member rates",
+    "Very strong 4.9/5 ALL rating from 260 reviews on the hotel's own listing"
+  ],
+  "cons": [
+    "Compact standard rooms with limited room-type variety compared to sister ibis Styles/Mercure properties nearby",
+    "Independent review coverage is more mixed than the hotel's own ALL rating, including at least one guest describing the stay as below expectations",
+    "Cisauk Train Station is a 10 km drive, so a car or shuttle is more practical than transit"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms Green Key certification, a 4.9/5 ALL rating (260 reviews), and explicit ALL loyalty programme participation with points-earning and member rates",
+    "A confirmed 2025 YouTube hotel review by Indonesian channel Rina Suryanti M covers this specific property",
+    "Located inside Summarecon Serpong, a 10-minute walk from Summarecon Mall Serpong, distinguishing it from the separately-listed ibis Styles Serpong BSD City and Mercure Serpong Alam Sutera in nearby but distinct BSD/Alam Sutera districts"
+  ],
+  "research_watchouts": [
+    "A 2018 blog post review exists (urukyu.wordpress.com) but returned a 403 error on fetch and could not be independently confirmed for content/date, so it is not used as external_coverage.reviews -- left empty",
+    "Independent guest sentiment is more mixed than the hotel's own ALL rating; a August 2025 shorts video titled 'Parah! Review Hotel Ibis Gading Serpong yang GAK SESUAI Ekspektasi?' suggests at least one below-expectations stay"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Does ibis Gading Serpong participate in the ALL loyalty programme?",
+      "answer": "Yes -- unlike some budget-tier ibis properties in Indonesia, this hotel's own Accor listing confirms full ALL - Accor Live Limitless participation, with members earning and redeeming Status & Rewards points, accessing member rates, and qualifying for the ALL Accor+ ibis subscription's 15% year-round discount across ibis brands."
+    },
+    {
+      "question": "How far is ibis Gading Serpong from Summarecon Mall Serpong?",
+      "answer": "The hotel sits inside Summarecon Serpong itself, about a 10-minute walk or roughly 700 meters from Summarecon Mall Serpong, making shopping and dining easily accessible on foot. It also offers a shuttle service to nearby malls and is positioned close to ICE BSD and Soekarno-Hatta International Airport."
+    }
+  ],
+  "tags": ["gading serpong", "summarecon", "budget hotel", "green key certified", "greater jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8826/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1493703-d6788112-Reviews-Ibis_Gading_Serpong-Tangerang_Banten_Province_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://sg.trip.com/hotels/kelapa-dua-hotel-detail-1521054/ibis-gading-serpong/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8826/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-serpong-bsd-city", "mercure-serpong-alam-sutera"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "REVIEW HOTEL IBIS GADING SERPONG TANGERANG",
+        "channel": "Rina Suryanti M",
+        "url": "https://www.youtube.com/watch?v=6rBU7E1sU_M",
+        "video_id": "6rBU7E1sU_M"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

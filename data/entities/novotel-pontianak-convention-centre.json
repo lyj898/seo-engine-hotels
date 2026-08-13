@@ -1,0 +1,119 @@
+{
+  "entity_id": "novotel-pontianak-convention-centre",
+  "slug": "novotel-pontianak-convention-centre",
+  "name": "Novotel Pontianak Convention Centre",
+  "category_id": "accor-all",
+  "region_id": "pontianak",
+  "short_description": "A 194-room hotel and convention property in central Pontianak with the city's largest pillarless ballroom, near Ayani Mega Mall and the Kapuas River.",
+  "ai_summary": "Novotel Pontianak Convention Centre opened in late 2025 in the heart of Pontianak's business and lifestyle district, a short walk from Ayani Mega Mall, Pontianak Cathedral, and Alun Alun Kapuas, and about 15-20 minutes from Supadio International Airport. The 194-room property is built around Pontianak's largest pillarless ballroom, the Lotus Ballroom, which seats up to 2,000 guests under seven-meter ceilings, alongside a Food Exchange restaurant, Gourmet Bar, Pool Bar, and Executive Lounge. Guests praise the spacious rooms, the large swimming pool (with a kids' splash pool), and breakfast variety, though some reviews flag inconsistent service and note the surrounding street isn't the most comfortable for late-night walks.",
+  "core_facts": {
+    "address": "Jalan Budi Karya 88, Benua Melayu Darat, Pontianak Selatan, 78122 Pontianak, West Kalimantan, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Pontianak Selatan, near Ayani Mega Mall and the Kapuas riverfront",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "distance_from_airport_km": 8,
+    "landmark_distances": [
+      { "label": "Ayani Mega Mall", "km": 0.5 },
+      { "label": "Pontianak Cathedral (Katedral Pontianak)", "km": 1 }
+    ]
+  },
+  "pros": [
+    "Pontianak's largest pillarless ballroom, seating up to 2,000 guests, ideal for large events",
+    "Central location steps from Ayani Mega Mall and the Kapuas River",
+    "Large swimming pool with a dedicated kids' splash pool, a standout among Pontianak hotels",
+    "Spacious, contemporary rooms with local Dayak-inspired design touches",
+    "Good breakfast variety, including international options"
+  ],
+  "cons": [
+    "Some reviews describe the immediate surrounding street as less comfortable for walking at night",
+    "Service consistency is mixed -- some guests report slow or unhelpful check-in experiences",
+    "A minority of reviews note low bathroom water pressure"
+  ],
+  "research_highlights": [
+    "Opened in West Kalimantan in October 2025, per Accor's own announcement coverage",
+    "The Lotus Ballroom is repeatedly cited as the property's standout feature for MICE business",
+    "The pool is frequently called the largest and best of its kind in Pontianak"
+  ],
+  "research_watchouts": [
+    "As a recently opened property, review volume is still comparatively small next to longer-established Pontianak hotels",
+    "Service-consistency complaints appear in a meaningful minority of otherwise positive reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "When did Novotel Pontianak Convention Centre open?",
+      "answer": "The hotel opened in October 2025 in the heart of Pontianak's business and lifestyle district, positioned by Accor as a new convention hub for West Kalimantan, built around the city's largest pillarless ballroom, the Lotus Ballroom, which seats up to 2,000 guests under seven-meter ceilings."
+    },
+    {
+      "question": "How far is Novotel Pontianak Convention Centre from the airport?",
+      "answer": "The hotel is roughly 15-20 minutes by car from Supadio International Airport, Pontianak's main gateway, and sits centrally within the city near Ayani Mega Mall, Pontianak Cathedral, and the Kapuas riverfront, making it convenient for both business and leisure travelers."
+    }
+  ],
+  "tags": ["convention hotel", "pontianak", "west kalimantan", "ballroom", "new opening"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B836/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://eglobaltravelmedia.com.au/2025/10/22/novotel-pontianak-opens-doors-to-west-kalimantans-heart/",
+      "label": "Global Travel Media coverage of the hotel's opening",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g317101-d33997680-Reviews-Novotel_Pontianak_Convention_Centre-Pontianak_West_Kalimantan_Kalimantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B836/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-pontianak-city-center"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Novotel Pontianak Opens Doors to West Kalimantan's Heart",
+        "source": "Global Travel Media",
+        "url": "https://eglobaltravelmedia.com.au/2025/10/22/novotel-pontianak-opens-doors-to-west-kalimantans-heart/",
+        "published_date": "2025-10-22",
+        "summary": "Travel trade outlet reports on the hotel's opening, covering its 194 rooms, Dayak- and Kapuas-inspired design, Lotus Ballroom, and positioning as a new West Kalimantan convention hub."
+      }
+    ],
+    "videos": [
+      {
+        "title": "FULL REVIEW HOTEL NOVOTEL PONTIANAK TERBARU & TERLENGKAP 2026",
+        "channel": "aditia aprianti & family",
+        "url": "https://www.youtube.com/watch?v=lLwAfGeUJv4",
+        "video_id": "lLwAfGeUJv4"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 68 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

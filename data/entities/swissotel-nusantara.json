@@ -1,0 +1,127 @@
+{
+  "entity_id": "swissotel-nusantara",
+  "slug": "swissotel-nusantara",
+  "name": "Swissôtel Nusantara",
+  "category_id": "accor-all",
+  "region_id": "nusantara",
+  "short_description": "The first international 5-star hotel in Nusantara (IKN), Indonesia's new capital, with 191 rooms and suites near the Presidential Palace.",
+  "ai_summary": "Swissôtel Nusantara opened 13 September 2024 as the first international five-star hotel in Ibu Kota Nusantara (IKN), Indonesia's new capital under construction in East Kalimantan. Built in about nine months and located near the Presidential Palace within a forested government precinct, the 191-room property offers Nusa Restaurant, multiple swimming pools, a Purovel Spa & Sport, a gym, and a kids' club. Guest reviews describe the hotel as polished and comfortable with attentive, English-speaking staff, though the surrounding city itself is still largely under construction, so options for dining, shopping, and onward transport beyond the hotel remain very limited.",
+  "core_facts": {
+    "address": "Ibu Kota Nusantara, Desa Bumi Harapan Lot No.1.Co.20, Kecamatan Sepaku, 76147 Penajam Paser Utara, East Kalimantan, Indonesia",
+    "brand_sub_brand": "Swissôtel",
+    "neighborhood": "IKN Government Core (KIPP), near the Presidential Palace",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Presidential Palace (Istana Garuda)", "km": 3 }
+    ]
+  },
+  "pros": [
+    "First and, as of 2026, only international 5-star hotel in Nusantara/IKN",
+    "191 rooms and suites with multiple pools, a Purovel Spa, gym, and kids' club",
+    "Close proximity to the Presidential Palace and government core",
+    "Guests consistently praise staff friendliness and English proficiency",
+    "5-star facilities at rates well below comparable international properties elsewhere in Indonesia"
+  ],
+  "cons": [
+    "The surrounding city of Nusantara is still largely a construction site with very limited dining, retail, or transport options outside the hotel",
+    "No airport of its own -- reached by road from Balikpapan's Sepinggan Airport, roughly 1.5-2 hours away",
+    "As the only major hotel in the area, room rates spike sharply during government events"
+  ],
+  "research_highlights": [
+    "Opened 13 September 2024, built in roughly nine months ahead of Indonesia's 17 August 2024 IKN inauguration",
+    "Positioned as the first international five-star hotel in Indonesia's new capital city",
+    "Guests describe staff service and room quality as genuinely five-star despite the still-developing surroundings"
+  ],
+  "research_watchouts": [
+    "Nusantara/IKN itself remains under heavy construction; independent verification puts the wider city at a low percentage of completion as of late 2024/2025",
+    "Limited independent dining and transport infrastructure nearby means most guests rely entirely on hotel facilities and shuttle arrangements"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Swissôtel Nusantara actually open?",
+      "answer": "Yes -- it opened on 13 September 2024 as the first international five-star hotel in Nusantara (IKN), Indonesia's new capital, and has been operating and taking bookings continuously since, with guest reviews posted as recently as mid-2026 confirming active service."
+    },
+    {
+      "question": "How do you get to Swissôtel Nusantara?",
+      "answer": "The hotel has no airport of its own; most travelers fly into Sultan Aji Muhammad Sulaiman Sepinggan International Airport in Balikpapan and then continue by road, a drive of roughly 1.5 to 2 hours to reach the IKN government core where the hotel sits."
+    },
+    {
+      "question": "What facilities does Swissôtel Nusantara have?",
+      "answer": "The 191-room property includes Nusa Restaurant for all-day dining, multiple swimming pools, a Purovel Spa & Sport wellness facility, a fitness center, a kids' club, and seven meeting rooms, the largest of which spans 127 square meters for business and government functions."
+    }
+  ],
+  "tags": ["ikn", "nusantara", "new capital", "5-star", "east kalimantan"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C2H0/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.swissotel.com/hotels/nusantara/",
+      "label": "Official Swissôtel Nusantara brand site",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.voyages-d-affaires.com/en/nusantara-swissotel-capital-indonesia",
+      "label": "Voyages d'Affaires coverage of the hotel's opening",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g8290699-d28021789-Reviews-Swissotel_Nusantara-Penajam_East_Kalimantan_Kalimantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.swissotel.com/hotels/nusantara/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-balikpapan", "ibis-balikpapan"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Nusantara: Swissôtel, the first hotel in the new Indonesian capital",
+        "source": "Voyages d'Affaires",
+        "url": "https://www.voyages-d-affaires.com/en/nusantara-swissotel-capital-indonesia",
+        "published_date": "2024-08-29",
+        "summary": "French business-travel outlet reports on Swissotel Nusantara's opening as IKN's first hotel, covering its 191 rooms, meeting spaces, pools and spa, and the city's still-early infrastructure."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Review Kamar Suite King Swissotel IKN, Hotel Bintang 5 Pertama di IKN",
+        "channel": "Williams Dennis",
+        "url": "https://www.youtube.com/watch?v=1dSTxzBJhb8",
+        "video_id": "1dSTxzBJhb8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 70 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
