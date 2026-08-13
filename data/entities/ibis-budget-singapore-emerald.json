@@ -1,0 +1,103 @@
+{
+  "entity_id": "ibis-budget-singapore-emerald",
+  "slug": "ibis-budget-singapore-emerald",
+  "name": "ibis budget Singapore Emerald",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 2-star, 126-room budget hotel on Lorong 6 Geylang, about a 10-minute walk from Kallang MRT and 10 minutes' drive from the CBD.",
+  "ai_summary": "ibis budget Singapore Emerald sits at 20 Lorong 6 Geylang, on the city fringe near the Singapore Sports Hub, about a 10-minute walk from Kallang MRT Station and the National Stadium, and roughly a 10-minute drive from the Central Business District (15 minutes to Orchard Road). The economy hotel has around 126 compact rooms across five room types (12-15 sqm), free WiFi, and free parking, but no on-site restaurant. Its own Accor listing shows a 4.2/5 guest rating from 29 reviews, describing clean rooms and helpful, pleasant staff, while TripAdvisor's larger 146-review sample rates it 3/5, with a minority of guests noting street or room noise. A confirmed May 2025 YouTube room tour corroborates the small-but-clean, budget-tier layout. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme's points or elite-tier benefits.",
+  "core_facts": {
+    "address": "20 Lorong 6 Geylang, 399174 Singapore, Singapore",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Geylang",
+    "star_rating": 2,
+    "rooms": 126,
+    "elite_benefits": [
+      "ALL - Accor Live Limitless members can book member-exclusive rates",
+      "This property does not participate in ALL points earning, redemption, or elite-tier benefits, per its official ALL listing"
+    ]
+  },
+  "pros": [
+    "126 rooms across five room types, about a 10-minute walk from Kallang MRT Station and the National Stadium",
+    "4.2/5 guest rating from 29 reviews on its own Accor listing, with guests praising clean rooms and helpful staff",
+    "About a 10-minute drive to the Central Business District, 15 minutes to Orchard Road",
+    "Minutes from Geylang's well-known food scene and the Singapore Sports Hub",
+    "Free WiFi and free on-site parking"
+  ],
+  "cons": [
+    "TripAdvisor's larger 146-review sample rates the hotel 3/5, lower than its own Accor listing",
+    "Compact rooms (12-15 sqm), typical of the ibis budget economy tier, with no on-site restaurant",
+    "A minority of guest reviews mention noise in the room",
+    "Does not participate in the ALL - Accor Live Limitless loyalty programme"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 126 rooms, a 4.2/5 guest rating from 29 reviews, and non-participation in the ALL loyalty programme",
+    "TripAdvisor (ranked roughly #204 of 367 Singapore hotels, 146 reviews, 3/5) largely echoes the value-for-money, clean-rooms, helpful-staff verdict",
+    "A confirmed YouTube room tour from creator DESIYATRI, published May 2025, corroborates the small, clean, no-frills room layout and location"
+  ],
+  "research_watchouts": [
+    "The hotel does not participate in ALL - Accor Live Limitless, so no elite benefits apply despite the Accor/ibis branding",
+    "No independently dated blog or press review with fetchable, confirmable content could be found; a 2017 WordPress post about the pre-rebrand 'Fragrance Hotel - Emerald' could not be fetched to verify, so it was excluded rather than cited secondhand",
+    "Accor's own 4.2/5 rating and TripAdvisor's 3/5 rating diverge, worth noting as inconsistent across platforms rather than universally strong"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis budget Singapore Emerald part of the ALL loyalty programme?",
+      "answer": "No -- despite the ibis budget/Accor branding, this hotel's own Accor listing confirms it does not participate in the ALL - Accor Live Limitless loyalty programme, so members cannot earn or redeem points or elite benefits here, though ALL member rates may still apply."
+    },
+    {
+      "question": "How far is ibis budget Singapore Emerald from Kallang MRT station?",
+      "answer": "It's about a 10-minute walk from Kallang MRT Station, which also puts the Singapore National Stadium and Singapore Sports Hub within easy walking distance. The Central Business District is roughly a 10-minute drive away, with Orchard Road about 15 minutes by car."
+    }
+  ],
+  "tags": ["geylang", "budget hotel", "kallang"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6H4/index.en.shtml",
+      "label": "ibis budget Singapore Emerald official page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d568053-Reviews-Ibis_budget_Singapore_Emerald-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.expedia.com/Singapore-Hotels-Ibis-Budget-Singapore-Emerald.h2139442.Hotel-Information",
+      "label": "Expedia hotel information page",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6H4/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-budget-singapore-sapphire", "ibis-budget-singapore-crystal", "ibis-singapore-novena"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Ibis Budget Hotel EMERALD, Geylang, SINGAPORE, Room Tour & Review | Location, Amenities, etc.",
+        "channel": "DESIYATRI",
+        "url": "https://www.youtube.com/watch?v=6P1qgKufgdA",
+        "video_id": "6P1qgKufgdA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": []
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

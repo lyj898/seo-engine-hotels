@@ -7,8 +7,9 @@ tracking so a fresh session (or this one, after a context reset / rate
 limit) can pick up exactly where things left off without re-deriving state
 from conversation history.
 
-**Status as of 2026-08-13: 91 of ~165 identified gaps done and live on
-main. ~74 remain.**
+**Status as of 2026-08-13: 125 of ~165 identified gaps done (pushed to
+branch, not yet merged/live — see batch history). ~40 remain, entirely
+Indonesia's bundle clusters.**
 
 ## How to resume a batch
 
@@ -54,56 +55,61 @@ main. ~74 remain.**
 - **Malaysia — DONE** (all individually-verified gaps closed; the one
   remaining item, ibis Styles Johor Bahru City Centre, is pipeline/not yet
   open — exclude until it opens)
-- **Singapore — 10 done, ~20 remaining**
-- **Indonesia — 12 done, ~56 remaining** (mostly lower-confidence bundles)
+- **Singapore — DONE** ✅ (all identified gaps closed, including the
+  14-hotel ibis budget cluster, each individually verified against its own
+  all.accor.com page)
+- **Indonesia — 25 done, ~40 remaining** (mostly lower-confidence bundles)
 
-## Singapore — remaining (~20)
+## Singapore — DONE
 
-Individually verifiable, high confidence — do these first:
-- [ ] Grand Mercure Singapore Roxy
-- [ ] Mercure Singapore on Stevens
-- [ ] Mercure Singapore Tyrwhitt
-- [ ] ibis Singapore Novena
-- [ ] ibis Singapore on Bencoolen
-- [ ] ibis Styles Singapore Albert
-- [ ] ibis Styles Singapore on Macpherson
+Individually verifiable batch:
+- [x] Grand Mercure Singapore Roxy
+- [x] Mercure Singapore on Stevens
+- [x] Mercure Singapore Tyrwhitt
+- [x] ibis Singapore Novena
+- [x] ibis Singapore on Bencoolen
+- [x] ibis Styles Singapore Albert
+- [x] ibis Styles Singapore on Macpherson
 
-Confirmed as a set on Accor's Singapore city directory but **not yet
-individually verified** — verify each on its own all.accor.com page before
-writing an entity, per CLAUDE.md's fact-verification rule:
-- [ ] ibis budget Singapore Selegie
-- [ ] ibis budget Singapore Imperial
-- [ ] ibis budget Singapore Bugis
-- [ ] ibis budget Singapore Gold
-- [ ] ibis budget Singapore Emerald
-- [ ] ibis budget Singapore Clarke Quay
-- [ ] ibis budget Singapore Sapphire
-- [ ] ibis budget Singapore Ametrine
-- [ ] ibis budget Singapore Pearl
-- [ ] ibis budget Singapore Ruby
-- [ ] ibis budget Singapore Crystal
-- [ ] ibis budget Singapore West Coast
-- [ ] ibis budget Singapore Mount Faber
-- [ ] ibis budget Singapore Joo Chiat
+ibis budget cluster — all 14 confirmed individually real (each has its own
+all.accor.com hotel ID) and written:
+- [x] ibis budget Singapore Selegie
+- [x] ibis budget Singapore Imperial
+- [x] ibis budget Singapore Bugis
+- [x] ibis budget Singapore Gold
+- [x] ibis budget Singapore Emerald
+- [x] ibis budget Singapore Clarke Quay
+- [x] ibis budget Singapore Sapphire
+- [x] ibis budget Singapore Ametrine
+- [x] ibis budget Singapore Pearl
+- [x] ibis budget Singapore Ruby
+- [x] ibis budget Singapore Crystal
+- [x] ibis budget Singapore West Coast
+- [x] ibis budget Singapore Mount Faber
+- [x] ibis budget Singapore Joo Chiat
 
-Region: `singapore.json` already exists — use it, don't recreate.
+Note: all 14 ibis budget properties' own Accor listings state they do
+**not** participate in the ALL – Accor Live Limitless loyalty programme
+(member rates only, no points/elite benefits) — reflected accurately via
+empty `elite_benefits` + an `elite_notes` field rather than reusing
+boilerplate loyalty language.
 
-## Indonesia — remaining (~56)
+## Indonesia — remaining (~40)
 
-Individually verifiable, high confidence — do these first (13):
-- [ ] ibis Yogyakarta International Airport Kulon Progo (region: `yogyakarta`)
-- [ ] Novotel Yogyakarta International Airport Kulon Progo (region: `yogyakarta`)
-- [ ] ibis budget Surabaya Diponegoro (region: `surabaya`)
-- [ ] Novotel Jakarta Mangga Dua Square (region: `jakarta`)
-- [ ] ibis Styles Jakarta Mangga Dua Square (region: `jakarta`)
-- [ ] Novotel Jakarta Cikini (region: `jakarta`)
-- [ ] all seasons Jakarta Thamrin (region: `jakarta`)
-- [ ] ibis Makassar City Center (region: `makassar`)
-- [ ] Mercure Makassar Nexa Pettarani (region: `makassar`)
-- [ ] ibis Semarang Simpang Lima (region: `semarang`)
-- [ ] ibis Styles Semarang Simpang Lima (region: `semarang`)
-- [ ] ibis budget Semarang Tendean (region: `semarang`)
-- [ ] ibis Styles Malang (region: `malang`)
+Individually verifiable batch — DONE:
+- [x] ibis Yogyakarta International Airport Kulon Progo (region: `yogyakarta`)
+- [x] Novotel Yogyakarta International Airport Kulon Progo (region: `yogyakarta`)
+- [x] ibis budget Surabaya Diponegoro (region: `surabaya`)
+- [x] Novotel Jakarta Mangga Dua Square (region: `jakarta`)
+- [x] ibis Styles Jakarta Mangga Dua Square (region: `jakarta`)
+- [x] Novotel Jakarta Cikini (region: `jakarta`)
+- [x] all seasons Jakarta Thamrin (region: `jakarta`)
+- [x] ibis Makassar City Center (region: `makassar`)
+- [x] Mercure Makassar Nexa Pettarani (region: `makassar`)
+- [x] ibis Semarang Simpang Lima (region: `semarang`)
+- [x] ibis Styles Semarang Simpang Lima (region: `semarang`)
+- [x] ibis budget Semarang Tendean (region: `semarang`)
+- [x] ibis Styles Malang (region: `malang`)
 
 Confirmed as bundles on directory/city-listing pages but **not individually
 verified** — treat as leads, verify each hotel's own all.accor.com page
@@ -163,6 +169,16 @@ surabaya, thailand, uong-bi, vietnam, vung-tau, yogyakarta
 - Batch 5 (21): TH rest of Phuket cluster, VN rest of Phu Quoc/Vung
   Tau/Ho Tram/Phan Thiet/Hai Phong/Ha Long Bay/Uong Bi, MY Kota
   Bharu/Miri — PR #36
+- Batch 6 (20): SG individually-verified 7 (Grand Mercure Roxy, Mercure
+  Stevens/Tyrwhitt, ibis Novena/Bencoolen, ibis Styles Albert/Macpherson),
+  ID individually-verified 13 (Yogyakarta airport x2, ibis budget Surabaya,
+  Jakarta Mangga Dua Square x2/Cikini/Thamrin, Makassar x2, Semarang x3,
+  Malang) — PR #38
+- Batch 7 (14): SG ibis budget cluster, all 14 individually verified
+  (Selegie, Imperial, Bugis, Gold, Emerald, Clarke Quay, Sapphire,
+  Ametrine, Pearl, Ruby, Crystal, West Coast, Mount Faber, Joo Chiat) —
+  pushed to branch, PR pending
 
 PR #35 merged 2026-08-12 (50 hotels live). PR #36 merged 2026-08-13
-(41 more hotels live, 91 total).
+(41 more hotels live, 91 total). PR #38 merged 2026-08-13 (20 more hotels
+live, 111 total). Batch 7 pushed but not yet merged — 125 total once live.
