@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-miri-city-centre",
+  "slug": "mercure-miri-city-centre",
+  "name": "Mercure Miri City Centre",
+  "category_id": "accor-all",
+  "region_id": "miri",
+  "short_description": "A 172-room hotel in downtown Miri, Sarawak, with a rooftop bar and restaurant plus the Ruai co-working space, soft-opened March 2023.",
+  "ai_summary": "Mercure Miri City Centre is a 172-room hotel in downtown Miri, Sarawak, that soft-opened in March 2023 as Mercure's debut in the city. The property spans an all-day dining restaurant, a lobby cafe, a rooftop bar and restaurant with city views, a gym, a swimming pool, the Ruai co-working space, ballrooms, and mechanical car parking. Guest reviews are consistently strong, with the vibrant, well-designed City Centre location, comfortable and quiet rooms despite the central setting, and warm, efficient staff service repeatedly praised, positioning it as one of the top-rated hotels in Sarawak on independent review platforms.",
+  "core_facts": {
+    "address": "Lot 2368 Block 9, MCLD, Jalan Merbau, Miri, Sarawak 98000, Malaysia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Miri city centre",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "172 rooms and suites in downtown Miri, opened March 2023",
+    "Rooftop bar and restaurant with city views",
+    "Ruai co-working space alongside standard business facilities",
+    "Rooms described as comfortable, quiet, and well-equipped despite the central location",
+    "Consistently rated among the top hotels in Sarawak on independent platforms"
+  ],
+  "cons": [
+    "Rooms are on the smaller side, per guest reviews, even if well-equipped",
+    "As a newer property, long-term maintenance track record is still limited"
+  ],
+  "research_highlights": [
+    "Staff friendliness and helpfulness are repeatedly highlighted as a standout",
+    "The rooftop lounge's city views draw consistent praise",
+    "Guests specifically note the rooms stay quiet despite the busy central location"
+  ],
+  "research_watchouts": [
+    "Room sizes run smaller, according to multiple reviews, despite being well-equipped",
+    "As a 2023 opening, review volume is still building relative to longer-established Sarawak hotels"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "When did Mercure Miri City Centre open?",
+      "answer": "It soft-opened in March 2023 as Mercure's debut hotel in Miri, Sarawak, with 172 rooms and suites in the downtown area, including a rooftop bar and restaurant with city views and a dedicated co-working space called Ruai."
+    },
+    {
+      "question": "Is Mercure Miri City Centre quiet despite being central?",
+      "answer": "Yes -- guest reviews specifically note that rooms stay quiet with no outside noise despite the hotel's location in the heart of Miri's city centre, close to shopping areas and amenities."
+    }
+  ],
+  "tags": ["miri city centre", "rooftop lounge", "sarawak"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A1K1/index.en.shtml",
+      "label": "Official Mercure Miri City Centre page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g303998-d24902034-Reviews-Mercure_Miri_City_Centre-Miri_Miri_District_Sarawak.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A1K1/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-miri-waterfront"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Hotel Miri City Centre",
+        "channel": "KH@8191",
+        "url": "https://www.youtube.com/watch?v=zwmfBALCNYk",
+        "video_id": "zwmfBALCNYk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

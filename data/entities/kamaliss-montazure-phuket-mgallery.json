@@ -1,0 +1,95 @@
+{
+  "entity_id": "kamaliss-montazure-phuket-mgallery",
+  "slug": "kamaliss-montazure-phuket-mgallery",
+  "name": "Kamaliss MontAzure Phuket – MGallery Collection",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 150-room MGallery resort that opened in April 2026 within the MontAzure enclave above Kamala Beach, built around a signature lagoon and two restaurants.",
+  "ai_summary": "Kamaliss MontAzure Phuket is an MGallery Collection resort that opened in April 2026 inside the MontAzure lifestyle community above Kamala Beach, about 300 metres from the sand. The 150-room property is arranged around a signature lagoon and two outdoor pools, with two restaurants (salt at six and SOLISS), a spa, and an eight-acre hillside setting positioned as a quieter alternative to Patong. Because the hotel only opened a few months ago, independent guest reviews and third-party coverage remain thin, so its reputation is still being established. Early marketing and hospitality-trade coverage emphasize a contemporary, wellness-oriented design aimed at couples and boutique-hotel travelers rather than large families.",
+  "core_facts": {
+    "address": "118/17 Moo 3, Kamala, Kathu District, Phuket 83150, Thailand",
+    "brand_sub_brand": "MGallery Collection",
+    "neighborhood": "Kamala Beach / MontAzure",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "New-build MGallery resort (opened April 2026) with contemporary design and a signature lagoon",
+    "150 rooms set within the MontAzure enclave, about 300 metres from Kamala Beach",
+    "Two on-site restaurants (salt at six and SOLISS) plus two outdoor pools",
+    "Quieter hillside setting than Patong, with a spa and wellness focus",
+    "Access to the wider MontAzure community's shops, dining, and beach club"
+  ],
+  "cons": [
+    "As a newly opened hotel, independent guest reviews and long-term reliability data are still limited",
+    "Set roughly 300 metres inland from the beach rather than directly beachfront"
+  ],
+  "research_highlights": [
+    "Accor and hospitality-trade coverage confirm a 150-room count and an April 2026 opening",
+    "The resort is built around a signature lagoon within the MontAzure lifestyle community above Kamala Beach",
+    "Two restaurants (salt at six, SOLISS) and two outdoor pools are consistently cited across official and travel-trade sources"
+  ],
+  "research_watchouts": [
+    "Because the property only opened in April 2026, TripAdvisor and other review platforms show very few guest reviews so far -- treat sentiment as preliminary",
+    "No independently verifiable blogger review or confirmed YouTube video of this specific property could be found at research time"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "When did Kamaliss MontAzure Phuket open?",
+      "answer": "The resort opened in April 2026 as part of Accor's MGallery Collection, making it one of the newest hotels on this stretch of Phuket's west coast. Because it is so new, guest review volume is still building, so it's worth checking the latest ratings before booking."
+    },
+    {
+      "question": "Is Kamaliss MontAzure Phuket on the beach?",
+      "answer": "Not directly -- it sits within the MontAzure community on the hillside above Kamala Beach, roughly 300 metres from the sand. Guests reach the beach on foot or via the community's internal pathways, and the resort's own lagoon and two pools serve as the main on-site water features."
+    }
+  ],
+  "tags": ["kamala beach", "montazure", "new opening", "mgallery"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B653/index.en.shtml",
+      "label": "Official ALL - Accor hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.hospitalitynet.org/announcement/41013815/kamaliss-montazure-phuket-mgallery-collection.html",
+      "label": "Hospitality Net opening announcement",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293920-d33999465-Reviews-Kamaliss_MontAzure_Phuket_MGallery_Collection-Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B653/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-phuket-kamala-beach", "avista-grande-phuket-karon-mgallery"],
+  "external_coverage": { "reviews": [], "videos": [] },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 68 }
+    ]
+  },
+  "reliability_score": 38,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

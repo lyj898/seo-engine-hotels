@@ -1,0 +1,94 @@
+{
+  "entity_id": "novotel-singapore-robertson-quay",
+  "slug": "novotel-singapore-robertson-quay",
+  "name": "Novotel Singapore Robertson Quay",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 336-room hotel on the Singapore River in Robertson Quay, rebranded to Novotel and reopened in August 2026, with a 25-metre pool and river or panoramic-view rooms.",
+  "ai_summary": "Novotel Singapore Robertson Quay opened under the Novotel flag in August 2026 at 1 Unity Street, on the banks of the Singapore River in Robertson Quay, converting a building that had previously operated under other names before joining the Accor network. Its 336 rooms and suites range from 24 to 48 square metres with city, river, or panoramic views, backed by a 25-metre outdoor pool, a 24-hour gym, Executive Lounge access, and dining led by Serai Dining's Peranakan menu. Because the rebrand only just launched this month, there is essentially no guest feedback yet under the Novotel name, so early travellers should expect the usual settling-in variability of a newly branded property even though the building and staff are established. Its riverside position puts Clarke Quay, Fort Canning Park, the CBD, and Orchard Road all within an easy walk or short ride.",
+  "core_facts": {
+    "address": "1 Unity Street, 237983 Singapore, Singapore",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Robertson Quay",
+    "star_rating": 4,
+    "rooms": 336,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Riverside Robertson Quay setting, walkable to Clarke Quay, Fort Canning Park, and the CBD",
+    "336 rooms and suites from 24-48 sqm with city, river, or panoramic view options",
+    "25-metre outdoor pool, 24-hour gym, and Executive Lounge access",
+    "Serai Dining offers an a la carte Peranakan menu alongside a hidden bar and poolside bar",
+    "Newly refreshed as a Novotel in August 2026 after operating under a previous brand"
+  ],
+  "cons": [
+    "Just rebranded to Novotel in August 2026, so there is no meaningful guest review history under the new name yet",
+    "As a conversion of an existing building rather than new-build, room and public-area finishes may vary by floor during the brand transition"
+  ],
+  "research_highlights": [
+    "Business Traveller reported the 336-room Novotel opening in Robertson Quay in early August 2026, on the site of a hotel previously known as The Robertson House by The Crest Collection",
+    "The riverside location gives access to the CBD, Clarke Quay, Fort Canning Park, Orchard Road, and Suntec Singapore Convention and Exhibition Centre",
+    "Serai Dining, the hotel's signature restaurant, is highlighted in early coverage for its Peranakan classics"
+  ],
+  "research_watchouts": [
+    "The property is a rebrand/conversion rather than a ground-up new build; older aggregator listings and review counts tied to the site's previous name (including on OTAs still showing a legacy listing ID) should not be read as reviews of the Novotel operation",
+    "As of this research date the hotel had been open under the Novotel name for under two weeks, so sentiment scores here are necessarily provisional and should be revisited once a genuine review base accumulates"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "When did Novotel Singapore Robertson Quay open?",
+      "answer": "It opened under the Novotel brand in early August 2026, at 1 Unity Street on the Singapore River in Robertson Quay. The building had previously operated under a different name before Accor took over the property, so it's a rebrand and refresh of an existing hotel rather than a brand-new construction."
+    },
+    {
+      "question": "What views do rooms at Novotel Singapore Robertson Quay offer?",
+      "answer": "Rooms and suites range from about 24 to 48 square metres and are sold with a choice of city, river, or panoramic views over the Singapore River and Robertson Quay. The hotel also has a 25-metre outdoor pool, a 24-hour gym, and an Executive Lounge for eligible guests and elite members."
+    }
+  ],
+  "tags": ["robertson quay", "singapore river", "newly opened"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C7F0/index.en.shtml",
+      "label": "Novotel Singapore Robertson Quay on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.businesstraveller.com/news/novotel-singapore-robertson-quay-opens/",
+      "label": "Novotel Opens New Riverside Hotel in Singapore - Business Traveller",
+      "type": "other",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C7F0/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-singapore-hill-street", "sofitel-singapore-city-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 70,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 68 },
+      { "label": "Rooms", "score": 70 },
+      { "label": "Food & breakfast", "score": 68 },
+      { "label": "Value", "score": 66 }
+    ]
+  },
+  "reliability_score": 35,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

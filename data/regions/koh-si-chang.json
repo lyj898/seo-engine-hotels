@@ -1,0 +1,12 @@
+{
+  "region_id": "koh-si-chang",
+  "slug": "koh-si-chang",
+  "label": "Koh Si Chang",
+  "granularity": "city",
+  "parent_region_id": "thailand",
+  "short_description": "A small limestone island in the Gulf of Thailand, a short speedboat ride off Sriracha's coast.",
+  "intro": "Koh Si Chang is a small, hilly limestone island in the Gulf of Thailand, reached by a roughly 20-minute speedboat crossing from a private pier in Sriracha rather than by road. Unlike the mainland Eastern Seaboard, the island moves at a slower pace, known for the 19th-century ruins of King Chulalongkorn's former summer palace, a hillside Chinese temple built into a cave, and troops of wild monkeys that wander near the old palace grounds. With only one hotel currently on the island, it functions as a quiet day-trip or overnight escape from Sriracha and the nearby Laem Chabang port area rather than a standalone beach destination.",
+  "faqs": [],
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

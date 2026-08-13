@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-hai-phong",
+  "slug": "mercure-hai-phong",
+  "name": "Mercure Hai Phong",
+  "category_id": "accor-all",
+  "region_id": "hai-phong",
+  "short_description": "A 176-room hotel plus 57 serviced apartments in central Hai Phong on Lach Tray Street, with most rooms offering city views.",
+  "ai_summary": "Mercure Hai Phong combines 176 standard guest rooms with 57 fully-equipped serviced apartments on Lach Tray Street in Hai Phong's central business district, positioned by local coverage as one of the city's first international hotels. Most rooms offer city views given the property's central location, and it functions as a base for both business travelers and visitors combining a Hai Phong stop with trips to Ha Long Bay or Cat Ba. Guest reviews are consistently positive, describing the hotel as modern and clean with a strong range of facilities -- spa, gym, lounge, and a well-regarded rooftop pool -- alongside friendly, helpful staff and a varied breakfast.",
+  "core_facts": {
+    "address": "12 Lach Tray, Le Chan Ward, Hai Phong, Vietnam",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Le Chan",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "176 rooms plus 57 serviced apartments in Hai Phong's central business district",
+    "Most rooms offer city views given the central Lach Tray Street location",
+    "Rooftop pool, spa, gym, and lounge draw consistent guest praise",
+    "One of Hai Phong's first international-brand hotels, per local coverage",
+    "Convenient base for combining a Hai Phong stop with trips to Ha Long Bay or Cat Ba"
+  ],
+  "cons": [
+    "As a business-district hotel, it lacks the resort facilities of Accor's beach properties in northern Vietnam",
+    "Central location may carry city noise compared to quieter outlying options"
+  ],
+  "research_highlights": [
+    "The rooftop pool and range of facilities draw consistently strong praise for a business-city hotel",
+    "Staff friendliness and helpfulness are repeatedly highlighted",
+    "Central location and city views are called out as a genuine convenience"
+  ],
+  "research_watchouts": [
+    "Limited independent long-form coverage beyond guest reviews and a single confirmed video tour",
+    "As a central-city hotel, it doesn't offer resort-style amenities found at coastal Accor properties nearby"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Does Mercure Hai Phong have serviced apartments?",
+      "answer": "Yes -- alongside 176 standard guest rooms, the property includes 57 fully-equipped serviced apartments on Lach Tray Street in central Hai Phong, giving longer-stay guests a self-catering option within the same hotel."
+    },
+    {
+      "question": "Is Mercure Hai Phong a good base for visiting Ha Long Bay?",
+      "answer": "Yes -- its central Hai Phong location works well for travelers combining a city stop with day trips or transfers toward Ha Long Bay or Cat Ba Island, both within reach of northern Vietnam's main coastal attractions."
+    }
+  ],
+  "tags": ["central hai phong", "serviced apartments", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9183/index.en.shtml",
+      "label": "Official Mercure Hai Phong page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g303944-d13530445-Reviews-Mercure_Hai_Phong-Hai_Phong.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9183/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-hai-phong-grand-hotel"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Hai Phong Hotel Tour – Deluxe Suite Upgrade + Privilege Lounge Experience",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=J9d5ser_lWQ",
+        "video_id": "J9d5ser_lWQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,99 @@
+{
+  "entity_id": "ibis-styles-kuala-lumpur-sri-damansara",
+  "slug": "ibis-styles-kuala-lumpur-sri-damansara",
+  "name": "ibis Styles Kuala Lumpur Sri Damansara",
+  "category_id": "accor-all",
+  "region_id": "kuala-lumpur",
+  "short_description": "A 144-room design-economy hotel beside Sri Damansara Barat MRT station, with Family Suites and a fitness centre in KL's northern corridor.",
+  "ai_summary": "ibis Styles Kuala Lumpur Sri Damansara is a 144-room design-economy property positioned directly beside the Sri Damansara Barat MRT station in Kuala Lumpur's northern corridor, near Kepong and Desa ParkCity. Rooms run from 22 sq m Standard rooms with a queen or twin beds up to 38 sq m Family Suites with a separate sofa living area, and the hotel includes a restaurant, bar, fitness centre and covered parking. Guests consistently call out the MRT-adjacent location and helpful, well-trained front-desk staff as strengths, while a subset of reviews flag inconsistent housekeeping and a fitness centre they found basic for the price. Review scores land in the mid-to-upper range for the ibis Styles economy tier, with the hotel used both by business travelers along the northern corridor and leisure guests connecting into central KL by rail.",
+  "core_facts": {
+    "address": "No.5 Jalan Cempaka SD 12/5, Bandar Sri Damansara PJU 9, 52200 Kuala Lumpur, Malaysia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Sri Damansara",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "144 rooms directly beside Sri Damansara Barat MRT station, a direct rail link into central KL",
+    "Family Suites at 38 sq m with a separate living/sofa area, more space than typical ibis Styles rooms",
+    "Guests repeatedly praise helpful, well-trained front-desk staff",
+    "Complimentary WiFi and covered parking included",
+    "Decathlon Sri Damansara is a 2-minute walk for shopping and essentials"
+  ],
+  "cons": [
+    "A subset of reviews flag inconsistent housekeeping and cleanliness",
+    "Fitness centre and standard 22 sq m rooms described as basic by some guests"
+  ],
+  "research_highlights": [
+    "The MRT-adjacent location is the single most repeated praise point across guest reviews",
+    "Front-desk staff helpfulness comes up consistently and positively in reviews",
+    "Kayak aggregates an 8.1/10 'very good' score across roughly 1,014 verified reviews"
+  ],
+  "research_watchouts": [
+    "TripAdvisor's own star rating (3 of 5) reads more mixed than the Kayak aggregate score, so expectations vary by platform",
+    "Some guests specifically call out cleanliness and gym equipment as below expectations"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is ibis Styles Kuala Lumpur Sri Damansara from central Kuala Lumpur?",
+      "answer": "The hotel sits in the Sri Damansara Barat area, directly beside the Sri Damansara Barat MRT station, giving guests a direct rail link into central Kuala Lumpur. Batu Caves is about 11 km away, roughly a 12-minute drive, while Decathlon Sri Damansara is a 2-minute walk, making the hotel a practical, well-connected base."
+    },
+    {
+      "question": "Does ibis Styles Kuala Lumpur Sri Damansara have family rooms?",
+      "answer": "Yes -- alongside 144 standard rooms with either a queen bed or twin beds, the hotel offers Family Suites at 38 square metres featuring a queen bed plus a separate living room area with a sofa, giving families more space than the brand's typical compact economy layout found elsewhere in the ibis Styles range."
+    }
+  ],
+  "tags": ["sri damansara", "mrt access", "budget hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9216/index.en.shtml",
+      "label": "Official ibis Styles Kuala Lumpur Sri Damansara page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298570-d11929503-Reviews-Ibis_Styles_Kuala_Lumpur_Sri_Damansara-Kuala_Lumpur_Wilayah_Persekutuan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9216/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-kuala-lumpur-city-centre", "ibis-styles-kuala-lumpur-bukit-bintang"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "(FULL REVIEW) Ibis Styles Kuala Lumpur Sri Damansara Hotel",
+        "channel": "Mas Lui Family",
+        "url": "https://www.youtube.com/watch?v=fVtBnztQY08",
+        "video_id": "fVtBnztQY08"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 73,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 66 },
+      { "label": "Food & breakfast", "score": 70 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

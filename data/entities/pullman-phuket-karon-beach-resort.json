@@ -1,0 +1,109 @@
+{
+  "entity_id": "pullman-phuket-karon-beach-resort",
+  "slug": "pullman-phuket-karon-beach-resort",
+  "name": "Pullman Phuket Karon Beach Resort",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 662-room, 5-star resort across 75 acres directly opposite Karon Beach, with five pools, eight restaurants and bars, and an Eforea spa.",
+  "ai_summary": "Pullman Phuket Karon Beach Resort is a large 5-star resort spread across 75 acres of gardens directly opposite Karon Beach, one of Phuket's original beachfront properties and still one of the island's biggest at roughly 662 rooms and suites. Guests praise the beachfront location, five outdoor pools including a water slide, eight restaurants and bars, and generally attentive staff, with rooms ranging from a 44 sqm Superior up to a 170 sqm Presidential Suite. Recurring watchouts include some rooms and public areas needing updates despite ongoing 2025-2026 renovation work, food and drink prices that a portion of guests find high for the category, and occasional inconsistency in housekeeping standards reported in a minority of stays.",
+  "core_facts": {
+    "address": "333 Patak Road, Karon Beach, Muang Phuket, Phuket 83100, Thailand",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Karon Beach",
+    "star_rating": 5,
+    "elite_benefits": [
+      "Executive lounge access for suite guests and ALL Diamond members, subject to availability",
+      "Room upgrades for Platinum and Diamond members, subject to availability, per ALL - Accor Live Limitless program terms",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "662 rooms and suites across 75 acres of gardens directly opposite Karon Beach",
+    "Five outdoor pools, including a kid-friendly water slide, plus eight restaurants and bars",
+    "Consistently praised staff attentiveness and immaculate grounds",
+    "Room categories span a 44 sqm Superior up to a 170 sqm Presidential Suite",
+    "Tennis, squash and pickleball courts alongside a full Eforea Spa"
+  ],
+  "cons": [
+    "Some rooms and public areas show wear and are mid-renovation as of 2025-2026",
+    "Food and drink prices run high for some guests relative to the room rate"
+  ],
+  "research_highlights": [
+    "One of the first hotels built on Karon Beach, now one of Phuket's largest resorts by room count",
+    "Beachfront location and the five-pool complex are the most consistently praised features across independent and guest reviews",
+    "A phased 2025-2026 renovation covers select restaurants and lobby areas, with minimal impact reported to room availability or the five pools"
+  ],
+  "research_watchouts": [
+    "Room count is cited as 662 by most aggregators and 665 by Phuket101 -- likely a rounding or category-counting difference; this entry uses 662 as the more widely repeated figure",
+    "Guests booking April-December 2026 should confirm which restaurants and lounge areas are open given phased renovation work"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Is Pullman Phuket Karon Beach Resort directly on the beach?",
+      "answer": "Yes -- the resort sits directly across from Karon Beach with direct beach access, and its 75 acres of gardens include five outdoor pools, so guests can choose between the sea and the resort's own pool complex. It's one of the original hotels built along this stretch of Karon."
+    },
+    {
+      "question": "Is Pullman Phuket Karon Beach Resort undergoing renovation?",
+      "answer": "Parts of it are -- a phased renovation running roughly April to December 2026 covers select restaurants, the Andaman Lobby and lounge areas, though the resort reports minimal impact to the five pools, spa, and most guest rooms. Travelers with specific dining plans should confirm current outlet availability before booking."
+    }
+  ],
+  "tags": ["karon beach", "beachfront", "large resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C1D6/index.en.shtml",
+      "label": "Accor ALL -- Pullman Phuket Karon Beach Resort official page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1215780-d305270-Reviews-Pullman_Phuket_Karon_Beach_Resort-Karon_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C1D6/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-phuket-arcadia-naithon-beach", "avista-grande-phuket-karon-mgallery"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Pullman Phuket Karon Beach Resort",
+        "source": "Phuket101",
+        "author": "Willy Thuan",
+        "url": "https://www.phuket101.net/hilton-phuket-arcadia-resort-and-spa-in-karon-beach/",
+        "published_date": "2024-05-31",
+        "summary": "Local Phuket guide praises the spacious beachfront grounds, gardens and lagoons, calling it ideal for families and couples wanting beach access, while noting its size may not suit guests who prefer a more intimate property."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Pullman Phuket Karon Beach Resort - Deluxe sea view tour. March 2025 Thailand",
+        "channel": "Sexy Simon",
+        "url": "https://www.youtube.com/watch?v=tAd3nCdSHMA",
+        "video_id": "tAd3nCdSHMA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

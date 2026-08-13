@@ -1,0 +1,99 @@
+{
+  "entity_id": "ibis-styles-kota-bharu",
+  "slug": "ibis-styles-kota-bharu",
+  "name": "ibis Styles Kota Bharu",
+  "category_id": "accor-all",
+  "region_id": "kota-bharu",
+  "short_description": "A 130-room hotel across 19 floors in central Kota Bharu, Kelantan, built in 2015 and renovated in 2020.",
+  "ai_summary": "ibis Styles Kota Bharu is a 130-room hotel spread across 19 floors in central Kota Bharu, capital of Malaysia's northeast Kelantan state, built in 2015 and renovated in 2020. The hotel serves business travelers and visitors exploring Kelantan's traditional Malay culture and markets, as well as travelers using the city as a gateway toward the Perhentian Islands. Guest reviews are consistently strong, with cleanliness, helpful staff, and the central city-centre location repeatedly praised, and it's frequently cited as one of the best hotel options currently in Kota Bharu, though breakfast quality draws more mixed comment relative to its 3-star positioning.",
+  "core_facts": {
+    "address": "Lot 184, Lorong Minyak Gas, off Jalan Sultanah Zainab, Kota Bharu, Kelantan 15050, Malaysia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Kota Bharu city centre",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "130 rooms across 19 floors, built 2015 and renovated in 2020",
+    "Central Kota Bharu city-centre location convenient for markets and Kelantan's cultural sites",
+    "Frequently cited by guests as among the best current hotel options in Kota Bharu",
+    "Well-maintained, chic and modern rooms with expected amenities",
+    "Helpful, friendly staff draw consistent positive comment"
+  ],
+  "cons": [
+    "Breakfast quality draws mixed comment, seen as average for a 3-star hotel by some guests",
+    "As a city-centre business hotel, it lacks resort-style amenities"
+  ],
+  "research_highlights": [
+    "Guests repeatedly call it one of the best hotels currently in Kota Bharu",
+    "Cleanliness and service consistency draw strong, repeated praise",
+    "The central location is highlighted as a genuine convenience for both business and cultural visits"
+  ],
+  "research_watchouts": [
+    "Breakfast is described as average by some reviewers relative to the hotel's overall standard",
+    "Review volume (36 on TripAdvisor at time of research) is modest given Kota Bharu's smaller tourism market"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Kota Bharu in the city centre?",
+      "answer": "Yes -- it's centrally located in Kota Bharu, Kelantan's state capital, making it convenient for the city's markets, traditional Malay culture, and cuisine, as well as functioning as a stopover for travelers heading toward the Perhentian Islands further south."
+    },
+    {
+      "question": "When was ibis Styles Kota Bharu built?",
+      "answer": "It was built in 2015 and renovated in 2020, spanning 130 rooms across 19 floors, and guests frequently describe it as one of the best current hotel options in Kota Bharu for cleanliness and service."
+    }
+  ],
+  "tags": ["kota bharu city centre", "kelantan", "perhentian islands gateway"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9928/index.en.shtml",
+      "label": "Official ibis Styles Kota Bharu page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298285-d23021204-Reviews-Ibis_Styles_Kota_Bharu-Kota_Bharu_Kelantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9928/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-miri-city-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Room Tour: Deluxe Double Bed Suite at Ibis Styles Hotel, Kota Bharu, Malaysia",
+        "channel": "JETravel.com",
+        "url": "https://www.youtube.com/watch?v=tmKvWG931Es",
+        "video_id": "tmKvWG931Es"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 42,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

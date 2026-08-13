@@ -1,0 +1,99 @@
+{
+  "entity_id": "premier-village-phu-quoc-resort",
+  "slug": "premier-village-phu-quoc-resort",
+  "name": "Premier Village Phu Quoc Resort",
+  "category_id": "accor-all",
+  "region_id": "phu-quoc",
+  "short_description": "A 215-villa all-villa resort on Ong Doi Cape, southern Phu Quoc, with every villa featuring a private pool and ocean views.",
+  "ai_summary": "Premier Village Phu Quoc Resort is a 215-villa all-villa property on Ong Doi Cape at the southern tip of Phu Quoc, Accor-managed and positioned as one of the island's most exclusive beach retreats. Every villa has its own private swimming pool, a large living and dining room, a spacious kitchenette, and ocean views, with configurations ranging up to multi-bedroom villas for families or groups. Guest reviews are consistently glowing, frequently calling it the best resort in Phu Quoc, with sea views, well-maintained grounds, and exceptionally friendly, professional staff repeatedly highlighted, though a handful of reviews flag inconsistent concierge service for arranging transportation.",
+  "core_facts": {
+    "address": "Ong Doi Cape, An Thoi, Phu Quoc, Kien Giang Province, Vietnam",
+    "brand_sub_brand": "Accor-managed",
+    "neighborhood": "Ong Doi Cape",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "215 villas, each with a private pool, ocean views, and a full kitchenette",
+    "Multi-bedroom villa configurations suited to families or groups",
+    "Consistently ranked among the top-rated resorts in Phu Quoc by guests",
+    "Ong Doi Cape location offers a secluded, beach-set setting at the island's southern tip",
+    "Exceptionally friendly and professional staff repeatedly highlighted"
+  ],
+  "cons": [
+    "A handful of reviews note inconsistent concierge service when arranging transportation",
+    "Its remote southern-tip location means longer transfers from Phu Quoc's airport or main towns"
+  ],
+  "research_highlights": [
+    "Guests consistently rank it among the very best resorts in Phu Quoc",
+    "Private-pool villas with full kitchenettes draw repeated, strong praise",
+    "Staff professionalism and friendliness are highlighted across almost all reviews"
+  ],
+  "research_watchouts": [
+    "A subset of reviews describe inconsistent concierge support for arranging taxis or transfers",
+    "The Ong Doi Cape location is remote relative to Phu Quoc's airport and main towns"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Does every villa at Premier Village Phu Quoc Resort have a private pool?",
+      "answer": "Yes -- all 215 villas include their own private swimming pool along with a large living and dining room, a spacious kitchenette, and ocean views, making it an all-villa resort rather than a mix of standard rooms and villas."
+    },
+    {
+      "question": "Is Premier Village Phu Quoc Resort good for families?",
+      "answer": "Yes -- multi-bedroom villa configurations suit families or groups traveling together, and the resort is consistently rated among the best in Phu Quoc by guests, though its remote Ong Doi Cape location means a longer transfer from the airport."
+    }
+  ],
+  "tags": ["all-villa resort", "ong doi cape", "private pool villas"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B2R4/index.en.shtml",
+      "label": "Official Premier Village Phu Quoc Resort page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g12520037-d13376509-Reviews-Premier_Village_Phu_Quoc_Resort_Managed_By_Accor-An_Thoi_Phu_Quoc_Island_Kien_Giang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B2R4/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["premier-residences-phu-quoc-emerald-bay", "premier-village-danang-resort"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Vietnam! Premier Village Phu Quoc Resort Review - Best Beach Villa Hotel on Phu Quoc island",
+        "channel": "Dooly Travels",
+        "url": "https://www.youtube.com/watch?v=UlReQTCiFio",
+        "video_id": "UlReQTCiFio"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 90,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 92 },
+      { "label": "Rooms", "score": 92 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

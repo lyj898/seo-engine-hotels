@@ -1,0 +1,114 @@
+{
+  "entity_id": "premier-village-danang-resort",
+  "slug": "premier-village-danang-resort",
+  "name": "Premier Village Danang Resort",
+  "category_id": "accor-all",
+  "region_id": "da-nang",
+  "short_description": "A 111-villa, all-pool-villa resort directly on My Khe Beach in Da Nang, with three- and four-bedroom Garden View, Ocean Access and Beachfront villas.",
+  "ai_summary": "Premier Village Danang Resort, managed by Accor, is an all-villa property of 111 multi-bedroom villas set directly on My Khe Beach, about 10 minutes from Da Nang International Airport. Villas span three categories -- Garden View, Ocean Access and Beachfront -- each with its own private pool, separate kitchen, and living/dining space sized for extended families or groups of up to eight adults. Guest reviews consistently praise the spacious villas, private pools, and quiet beach setting as ideal for multi-generation family trips, with the breakfast buffet and attentive restaurant staff frequently singled out. Some reviews flag inconsistent service standards and note the resort's large villa-and-buggy layout means getting around the property takes longer than a standard hotel.",
+  "core_facts": {
+    "address": "99 Vo Nguyen Giap Street, My An Ward, Ngu Hanh Son District, Da Nang, Vietnam",
+    "brand_sub_brand": "Premier Village (Accor-managed)",
+    "neighborhood": "My Khe Beach",
+    "distance_from_airport_km": 6,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "111 villas across Garden View, Ocean Access and Beachfront categories, each with a private pool",
+    "Directly on My Khe Beach with steps-to-sand access from Beachfront villas",
+    "Villas sized for families and groups, up to 8 adults plus children with separate kitchen and living areas",
+    "Breakfast buffet and restaurant staff (Lemongrass, Ca Chuon Co) consistently praised",
+    "About 10 minutes from Da Nang International Airport"
+  ],
+  "cons": [
+    "Some reviews describe service consistency as variable across departments and shifts",
+    "Villa-and-buggy layout is spread out, so moving between villas and restaurants/beach takes longer than a compact hotel"
+  ],
+  "research_highlights": [
+    "Multi-bedroom, all-pool-villa format is repeatedly called out as ideal for multi-generation family or group trips",
+    "The private beach and quiet setting on My Khe draw consistent praise versus busier central Da Nang hotels",
+    "Breakfast quality and variety are highlighted across recent guest reviews"
+  ],
+  "research_watchouts": [
+    "A minority of reviews describe service lapses or slow response times during peak/family season",
+    "Some published room/villa counts vary slightly (106-111) across booking sites; 111 villas is the figure most consistently cited by the resort's own regional listing pages"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "Does Premier Village Danang Resort have private pools?",
+      "answer": "Yes -- every one of its 111 villas has its own private pool, across three categories: Garden View, Ocean Access and Beachfront. Villas range from roughly 300 to over 500 square metres and include a separate kitchen and living/dining space, making them suited to families or groups of up to eight adults."
+    },
+    {
+      "question": "Is Premier Village Danang Resort on the beach?",
+      "answer": "Yes -- it sits directly on My Khe Beach in Da Nang's Ngu Hanh Son District, with Beachfront villas offering steps-to-sand access. The resort is about 10 minutes from Da Nang International Airport and a short drive from central Da Nang and the Hoi An corridor."
+    }
+  ],
+  "tags": ["my khe beach", "all-pool villas", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9530/index.en.shtml",
+      "label": "Official Premier Village Danang Resort page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://danangfantasticity.com/en/premier-village-danang-resort-2",
+      "label": "Da Nang city tourism portal listing (villa categories and address)",
+      "type": "aggregator",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298085-d6370235-Reviews-Premier_Village_Danang_Resort-Da_Nang.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9530/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-danang-beach-resort", "grand-mercure-danang"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "[Accommodation Review] - Premier Village Da Nang Resort (Beachfront Villa with Private Swimming Pool), Da Nang, Vietnam (17-21 Jul 24)",
+        "source": "Zephyrous Travels",
+        "url": "https://zephyroustravels.com/2024/09/14/accommodation-review-premier-village-da-nang-resort-beachfront-villa-with-private-swimming-pool-da-nang-vietnam-17-21-jul-24/",
+        "published_date": "2024-09-14",
+        "summary": "A traveler's account of a 4-night stay in a Beachfront villa with private pool, covering the villa's size and layout, dining venues, and My Khe Beach access."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Premier Village Danang Resort | 365 Nights in Accor Hotels (Night 67)",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=JpB5lE9QAaw",
+        "video_id": "JpB5lE9QAaw"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

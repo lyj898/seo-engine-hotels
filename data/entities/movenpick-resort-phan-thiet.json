@@ -1,0 +1,93 @@
+{
+  "entity_id": "movenpick-resort-phan-thiet",
+  "slug": "movenpick-resort-phan-thiet",
+  "name": "Mövenpick Resort Phan Thiet",
+  "category_id": "accor-all",
+  "region_id": "phan-thiet",
+  "short_description": "A 248-room resort in Phan Thiet with Caribbean pirate-themed decor and Dutch colonial architecture, about 2 hours from Tan Son Nhat Airport.",
+  "ai_summary": "Mövenpick Resort Phan Thiet is a 248-room resort inspired by Port Royal, blending Dutch colonial architecture with Caribbean pirate-themed decor -- antique-style maps and treasure pieces feature throughout the property. Superior Rooms span 35 square meters with king beds, rain showers, and spacious balconies, with spacious suites offering panoramic ocean views from the 3rd to 10th floors. The resort sits about 2 hours' drive from Tan Son Nhat Airport in Ho Chi Minh City. Guest reviews are consistently strong, with the resort's distinctive design, spacious clean rooms with sea views, and included-meal value drawing repeated praise, alongside friendly service, though F&B service speed draws occasional critique.",
+  "core_facts": {
+    "address": "Hon Gio - Thuan Quy Street, Tien Hoa Hamlet, Tien Thanh Ward, Phan Thiet, Binh Thuan Province, Vietnam",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Tien Thanh",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "distance_from_airport_km": 200
+  },
+  "pros": [
+    "248 rooms and suites with distinctive Dutch colonial and Caribbean pirate-themed design",
+    "Superior Rooms at 35 sqm with king beds and rain showers, plus panoramic-ocean-view suites",
+    "Spacious, clean rooms with sea views draw consistently strong guest praise",
+    "Good value cited by reviewers, including meal inclusions and lounge access",
+    "Friendly, welcoming service repeatedly highlighted"
+  ],
+  "cons": [
+    "F&B service speed draws occasional critique in reviews",
+    "About 2 hours' drive from Tan Son Nhat Airport, requiring a dedicated transfer"
+  ],
+  "research_highlights": [
+    "The distinctive Port Royal-inspired, pirate-themed design is repeatedly called out as memorable and unique",
+    "Room cleanliness and sea views draw consistently strong praise",
+    "Guests frequently mention wanting to return, a sign of strong overall satisfaction"
+  ],
+  "research_watchouts": [
+    "Some reviews note slower F&B service at busier times",
+    "The roughly 2-hour drive from Ho Chi Minh City's airport means it suits a dedicated resort stay rather than a stopover"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "What is the design theme at Mövenpick Resort Phan Thiet?",
+      "answer": "The resort blends Dutch colonial architecture with a Caribbean pirate theme inspired by Port Royal, featuring antique-style maps and treasure-chest decor throughout its 248 rooms and suites, a distinctive look reviewers repeatedly call memorable compared to typical beach resorts in the area."
+    },
+    {
+      "question": "How far is Mövenpick Resort Phan Thiet from Ho Chi Minh City?",
+      "answer": "About 2 hours by car from Tan Son Nhat International Airport, making it a common weekend or short-getaway destination for Ho Chi Minh City residents rather than a stopover on the way to somewhere else."
+    }
+  ],
+  "tags": ["port royal design", "phan thiet beach", "pirate theme"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6Y9/index.en.shtml",
+      "label": "Official Mövenpick Resort Phan Thiet page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298086-d24990103-Reviews-Movenpick_Resort_Phan_Thiet-Phan_Thiet_Binh_Thuan_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6Y9/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-resort-cam-ranh"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 86 }
+    ]
+  },
+  "reliability_score": 42,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

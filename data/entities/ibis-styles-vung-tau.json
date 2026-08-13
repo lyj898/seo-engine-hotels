@@ -1,0 +1,92 @@
+{
+  "entity_id": "ibis-styles-vung-tau",
+  "slug": "ibis-styles-vung-tau",
+  "name": "ibis Styles Vung Tau",
+  "category_id": "accor-all",
+  "region_id": "vung-tau",
+  "short_description": "A 250-room hotel on Vung Tau's Back Beach with a rooftop bar and pool, STREATS restaurant, and ocean views.",
+  "ai_summary": "ibis Styles Vung Tau is a 250-room hotel in the Back Beach area of Vung Tau, offering what the hotel describes as some of the city's best ocean views alongside a modern, colorful design typical of the ibis Styles brand. Rooms use the ibis SweetBed concept, and the property adds STREATS restaurant, the ON THE TOP rooftop bar and swimming pool, a gym, and two meeting rooms. Guest reviews are consistently strong, with the sea views, modern design, and staff service repeatedly praised, alongside good value for money; a smaller subset of reviews mention room-size and water-pressure issues as areas for improvement.",
+  "core_facts": {
+    "address": "Back Beach, Vung Tau, Ba Ria-Vung Tau Province, Vietnam",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Back Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "250 rooms in Vung Tau's Back Beach area with strong ocean views",
+    "Rooftop ON THE TOP bar and pool with panoramic views",
+    "STREATS restaurant and a modern, colorful ibis Styles design",
+    "Consistently praised for value for money and staff service",
+    "Two meeting rooms for small business events"
+  ],
+  "cons": [
+    "Some reviews note room size and water-pressure issues",
+    "As a midscale property, amenities are more limited than nearby full-service hotels"
+  ],
+  "research_highlights": [
+    "Sea views from the Back Beach location draw consistently strong praise",
+    "Staff service and overall value for money are repeatedly highlighted",
+    "The rooftop bar and pool are called out as a standout feature for the price tier"
+  ],
+  "research_watchouts": [
+    "A subset of reviews mention room-size and water-pressure concerns",
+    "Limited meeting/event space compared to larger Vung Tau hotels"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Does ibis Styles Vung Tau have sea views?",
+      "answer": "Yes -- positioned in Vung Tau's Back Beach area, the hotel is known for some of the city's best ocean views, particularly from its ON THE TOP rooftop bar and pool, alongside 250 rooms using the modern ibis SweetBed concept."
+    },
+    {
+      "question": "Is ibis Styles Vung Tau good value?",
+      "answer": "Yes -- guest reviews consistently praise its value for money, staff service, and sea views, with a smaller number of reviews noting room size and water pressure as areas that could be improved for the price."
+    }
+  ],
+  "tags": ["back beach", "rooftop pool", "ocean views"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B2U9/index.en.shtml",
+      "label": "Official ibis Styles Vung Tau page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g303946-d19797900-Reviews-Ibis_Styles_Vung_Tau-Vung_Tau_Ba_Ria_Vung_Tau_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B2U9/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["pullman-vung-tau", "mercure-vung-tau"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 86 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

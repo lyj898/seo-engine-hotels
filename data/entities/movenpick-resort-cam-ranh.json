@@ -1,0 +1,114 @@
+{
+  "entity_id": "movenpick-resort-cam-ranh",
+  "slug": "movenpick-resort-cam-ranh",
+  "name": "Mövenpick Resort Cam Ranh",
+  "category_id": "accor-all",
+  "region_id": "cam-ranh",
+  "short_description": "A 500-unit beachfront resort on Cam Ranh's 17-km Bai Dai beach, mixing sea-view rooms, studios and pool villas, about 10 minutes from Cam Ranh International Airport.",
+  "ai_summary": "Mövenpick Resort Cam Ranh is a large family resort directly on the 17-km Bai Dai beach in Cam Hai Dong, about 10 minutes from Cam Ranh International Airport and 30-40 km south of Nha Trang city. It has 500 units across three categories: 250 sea-view rooms and suites, 132 studio apartments with kitchenettes, and 118 pool villas, plus a 1,100 sqm destination spa with 23 treatment rooms and multiple restaurants and bars. Guest reviews consistently praise the amount of space, the beach, and family-oriented facilities including two kids' clubs, water slides and a rope park, with staff friendliness repeatedly highlighted. Some guests flag crowded breakfast service and buggy waits at peak times, and note that extras (spa, some dining) push costs above the room rate.",
+  "core_facts": {
+    "address": "Plot D12 Abc, Cam Hai Dong Commune, Cam Ranh, Khanh Hoa Province, Vietnam",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Bai Dai Beach (Long Beach)",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "500 units across sea-view rooms (250), studio apartments (132) and pool villas (118)",
+    "Directly on the 17-km Bai Dai beach, about 10 minutes from Cam Ranh International Airport",
+    "Extensive family facilities: two kids' clubs, water slides, and a 150-obstacle Cam Ranh Rope Park",
+    "1,100 sqm destination spa with 23 treatment rooms",
+    "Staff friendliness is a consistent theme across guest reviews"
+  ],
+  "cons": [
+    "Breakfast service and buggy transport can be slow or crowded during peak periods",
+    "Spa, some dining venues and activities carry charges beyond the room rate"
+  ],
+  "research_highlights": [
+    "The scale of family facilities (two kids' clubs, water park elements, rope park) is repeatedly cited as a differentiator versus smaller Nha Trang-area resorts",
+    "Proximity to Cam Ranh airport (about 10 minutes) is a recurring practical positive in reviews",
+    "Spacious rooms with direct sea views from private balconies draw consistent praise"
+  ],
+  "research_watchouts": [
+    "Some reviews describe the resort as feeling crowded at peak times given its size and family-heavy guest mix",
+    "A subset of guests report unexpected extra charges and inconsistent service pacing (breakfast, buggy waits)"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How many rooms and villas does Mövenpick Resort Cam Ranh have?",
+      "answer": "The resort has 500 units in total: 250 sea-view rooms and suites, 132 studio apartments with kitchenettes, and 118 pool villas. All categories offer direct sea views over Bai Dai beach from private balconies, and the resort is built around family-oriented facilities including two kids' clubs and a rope park."
+    },
+    {
+      "question": "How far is Mövenpick Resort Cam Ranh from the airport?",
+      "answer": "It's about 10 minutes by car from Cam Ranh International Airport, sitting directly on Cam Ranh's 17-km Bai Dai beach. Nha Trang city is roughly 30-40 km further north, so most guests treat this as a self-contained beach stay rather than a base for city exploring."
+    }
+  ],
+  "tags": ["bai dai beach", "family resort", "pool villas"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B4G8/index.en.shtml",
+      "label": "Official Mövenpick Resort Cam Ranh page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://movenpickresortcamranh.com/rooms-villas/",
+      "label": "Official resort rooms & villas page (room count breakdown)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g18928520-d19065457-Reviews-Movenpick_Resort_Cam_Ranh-Cam_Hai_Dong_Cam_Lam_District_Khanh_Hoa_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B4G8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-nha-trang-beach"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Mövenpick Resort Cam Ranh Review: Best Family Stay in Nha Trang, Vietnam",
+        "source": "OreumUnni (Korea & World Travel Guide)",
+        "url": "https://oreumunni.com/en/movenpick-resort-cam-ranh-review-nha-trang/",
+        "published_date": "2026-07-23",
+        "summary": "A three-generation family trip review praising the resort's proximity to the airport, extensive facilities, spacious rooms and staff warmth toward children, calling it a resort you could stay at without leaving the property."
+      }
+    ],
+    "videos": [
+      {
+        "title": "MOVENPICK RESORT CAM RANH 5*, VIETNAM. OUR RATING 8,9/10. LIVE 4K VIRTUAL HOTEL TOUR.",
+        "channel": "Marianna Travel",
+        "url": "https://www.youtube.com/watch?v=ljvZDKJ5XT8",
+        "video_id": "ljvZDKJ5XT8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

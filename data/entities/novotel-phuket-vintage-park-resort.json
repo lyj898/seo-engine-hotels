@@ -1,0 +1,99 @@
+{
+  "entity_id": "novotel-phuket-vintage-park-resort",
+  "slug": "novotel-phuket-vintage-park-resort",
+  "name": "Novotel Phuket Vintage Park Resort",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 303-room family resort in Patong with a 2,000 sqm swimming pool, swim-up bar, and direct pool-access terraces on many rooms, open since 2012.",
+  "ai_summary": "Novotel Phuket Vintage Park Resort is a 303-room family-oriented resort in Patong, open since 2012, built around a 2,000 square meter swimming pool that guests and reviewers repeatedly call one of the largest in the area, complete with a swim-up bar offering 2-for-1 happy hour cocktails. Rooms feature private terraces with direct pool access, flat-screen TVs, and spa baths, and the resort adds an all-day dining restaurant, lobby bar, a ballroom dividable into three meeting rooms, and an on-site day spa. Guest reviews are consistently strong, praising the family-friendly pool, breakfast variety, and central Patong location just steps from shopping and nightlife, though some reviews note dated decor in places and advise watching for extra charges on incidentals.",
+  "core_facts": {
+    "address": "89 Rat U Thit 200 Pee Road, Patong, Kathu, Phuket 83150, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Patong",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "303 rooms around a 2,000 sqm swimming pool, among the largest in Patong",
+    "Swim-up pool bar with 2-for-1 happy hour cocktails",
+    "Many rooms have private terraces with direct pool access",
+    "Central Patong location close to shopping centers and nightlife",
+    "On-site day spa, all-day dining restaurant, and dividable ballroom for events"
+  ],
+  "cons": [
+    "Some reviews note dated decor in parts of the resort",
+    "Guests advise watching for extra charges on incidentals beyond the room rate"
+  ],
+  "research_highlights": [
+    "The large pool and swim-up bar are consistently the most-praised feature across thousands of reviews",
+    "Breakfast variety and family-friendly amenities draw repeated positive comment",
+    "The central Patong location is highlighted as highly convenient for both beach and nightlife"
+  ],
+  "research_watchouts": [
+    "A subset of reviews mention dated decor and occasional noise given the property's age (open since 2012)",
+    "Extra charges on some amenities have drawn guest comment as a value concern"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How big is the pool at Novotel Phuket Vintage Park Resort?",
+      "answer": "The resort's swimming pool covers about 2,000 square meters, among the largest in Patong, with a swim-up bar offering 2-for-1 happy hour cocktails and many of the 303 rooms featuring private terraces with direct pool access."
+    },
+    {
+      "question": "Is Novotel Phuket Vintage Park Resort good for families?",
+      "answer": "Yes -- it's consistently praised as a family-friendly option thanks to its large pool, breakfast variety, and central Patong location close to shopping and dining, though it has operated since 2012 so some guests note dated decor in parts of the property."
+    }
+  ],
+  "tags": ["large pool", "family resort", "central patong"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8099/index.en.shtml",
+      "label": "Official Novotel Phuket Vintage Park Resort page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297930-d2590339-Reviews-Novotel_Phuket_Vintage_Park_Resort-Patong_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8099/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-phuket-kamala-beach", "mercure-phuket-patong-journeyhub"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Vintage Park Phuket | Deluxe Room Tour | 4K Hotel Walkthrough",
+        "channel": "Market Global Walker",
+        "url": "https://www.youtube.com/watch?v=lb7V_DEjye8",
+        "video_id": "lb7V_DEjye8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

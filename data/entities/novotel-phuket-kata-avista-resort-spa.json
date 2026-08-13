@@ -1,0 +1,99 @@
+{
+  "entity_id": "novotel-phuket-kata-avista-resort-spa",
+  "slug": "novotel-phuket-kata-avista-resort-spa",
+  "name": "Novotel Phuket Kata Avista Resort & Spa",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 143-room family resort between Kata and Karon, with private balconies offering sea, pool, or garden views and two queen beds in family rooms.",
+  "ai_summary": "Novotel Phuket Kata Avista Resort & Spa is a 143-room family-oriented resort positioned between Kata and Karon beaches, with every room offering a private balcony facing the sea, pool, or garden, and dedicated family rooms with two queen beds and kid-friendly setups. Guest reviews consistently praise the resort as a relaxing, well-located base for exploring both Kata and Karon, with clean, spacious rooms, a strong breakfast spread, and friendly, reasonably priced service. A subset of reviews note the resort can feel crowded during peak periods and that food quality doesn't always match higher-end properties nearby, but it's broadly regarded as a solid mid-range family option.",
+  "core_facts": {
+    "address": "4/1 Leam Sai Road, Kata, Karon, Phuket 83100, Thailand",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Kata / Karon",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "143 rooms, all with private balconies facing sea, pool, or garden views",
+    "Positioned between Kata and Karon beaches, giving access to both",
+    "Family rooms with two queen beds and kid-friendly setups",
+    "Clean, spacious rooms and a strong breakfast spread draw consistent praise",
+    "Friendly staff and reasonable pricing relative to nearby resorts"
+  ],
+  "cons": [
+    "Can feel crowded during peak periods, per some reviews",
+    "Food quality doesn't always match higher-end resorts in the same area"
+  ],
+  "research_highlights": [
+    "The position between Kata and Karon beaches is repeatedly highlighted as a practical advantage",
+    "Room cleanliness and comfort draw consistently positive comment",
+    "Staff friendliness and reasonable pricing are recurring themes in reviews"
+  ],
+  "research_watchouts": [
+    "A subset of reviews mention overcrowding during busy periods",
+    "Some guests compare food quality unfavorably to more upscale nearby resorts"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Novotel Phuket Kata Avista Resort & Spa close to both Kata and Karon beaches?",
+      "answer": "Yes -- it's positioned between the two beaches, giving guests practical access to both Kata Beach's calmer waters and Karon Beach's longer stretch of sand, rather than being tied to just one."
+    },
+    {
+      "question": "Does Novotel Phuket Kata Avista Resort & Spa suit families?",
+      "answer": "Yes -- it offers dedicated family rooms with two queen beds and kid-friendly setups, and reviews consistently describe it as a relaxing, well-located family base, though it can feel crowded during peak holiday periods."
+    }
+  ],
+  "tags": ["kata karon", "family resort", "sea view balconies"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A206/index.en.shtml",
+      "label": "Official Novotel Phuket Kata Avista Resort & Spa page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1210687-d1526109-Reviews-Novotel_Phuket_Kata_Avista_Resort_and_Spa-Kata_Beach_Karon_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A206/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-phuket-kata"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Phuket Kata Avista Resort & Spa Tour & Review",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=4gLh7HcdtPQ",
+        "video_id": "4gLh7HcdtPQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

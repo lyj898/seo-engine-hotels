@@ -1,0 +1,115 @@
+{
+  "entity_id": "mercure-singapore-bugis",
+  "slug": "mercure-singapore-bugis",
+  "name": "Mercure Singapore Bugis",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 395-room 4-star hotel in the Bras Basah-Bugis arts precinct, a 5-6 minute walk from Bugis MRT, with an outdoor pool, gym, and three dining and bar outlets.",
+  "ai_summary": "Mercure Singapore Bugis sits at 122 Middle Road in the Bras Basah-Bugis arts and heritage precinct, about a 5-6 minute walk from Bugis MRT and within reach of Arab Street, Little India, and the Suntec/Marina Bay area. Its 395 heritage-inspired rooms span Signature, Signature Loft, Executive Loft, and Superior categories, with amenities including an outdoor infinity-style pool, a 24-hour gym, EV charging, and three dining and drink venues -- Royale, Song Garden, and BARtistry@ONE22. Guest and blogger reviews consistently praise the central, walkable location and friendly staff, while the recurring criticisms are compact standard-room sizes, glass-walled bathrooms in Loft rooms that limit privacy, inconsistent air-conditioning, and a breakfast buffet that reviewers repeatedly call average.",
+  "core_facts": {
+    "address": "122 Middle Road, 188973 Singapore, Singapore",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Bras Basah-Bugis",
+    "star_rating": 4,
+    "rooms": 395,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Bras Basah-Bugis location, roughly 5-6 minutes' walk from Bugis MRT station",
+    "395 rooms across Signature, Loft, and Superior categories, including mezzanine-style Loft rooms",
+    "Outdoor pool, 24-hour gym, and EV charging in the carpark",
+    "Three dining and drink venues on site, including the Song Garden Chinese restaurant",
+    "Frequently praised as good value and well located by both bloggers and guest reviewers"
+  ],
+  "cons": [
+    "Standard and Loft rooms run small, and Loft bathrooms use glass walls that limit privacy",
+    "Breakfast at Royale is repeatedly described in reviews as average quality with disorganised table turnover, and air-conditioning consistency varies by room"
+  ],
+  "research_highlights": [
+    "An August 2024 Shutterwhale review of a Signature Loft with lounge access praised the value and pool/gym access but flagged hard-water stains, inconsistent air-con, and forgettable breakfast",
+    "TripAdvisor guest reviews are mixed relative to the brand's marketing, with location and staff friendliness the strongest scores and comfort/room-size the weakest",
+    "The hotel is a 15-story property with meeting space including the Queen Ballroom (up to 120 guests) and several smaller function rooms"
+  ],
+  "research_watchouts": [
+    "TripAdvisor's aggregate rating for this property (around 3/5 in recent listings) is noticeably lower than many other Accor Singapore properties in this dataset -- room size and comfort are the consistent drag on scores",
+    "Loft-room bathroom privacy (glass walls between the bathroom and mezzanine bedroom) is worth flagging explicitly to travellers booking that category"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How far is Mercure Singapore Bugis from Bugis MRT station?",
+      "answer": "It's about a 5-6 minute walk from Bugis MRT station, placing the hotel within the Bras Basah-Bugis arts and heritage precinct. From there, Arab Street, Little India, Suntec City, and Marina Bay Sands are all reachable within a short train ride or a longer walk."
+    },
+    {
+      "question": "Are the Loft rooms at Mercure Singapore Bugis worth booking?",
+      "answer": "They add a mezzanine bedroom and roughly 22 sqm of space plus lounge perks for eligible ALL members, but reviewers consistently note the bathroom uses glass walls that limit privacy from the sleeping area, so travellers who value bathroom privacy may prefer a standard Signature room instead."
+    }
+  ],
+  "tags": ["bras basah-bugis", "bugis mrt", "arts precinct"],
+  "source_mix": [
+    {
+      "url": "https://www.mercure-singapore-bugis.com/",
+      "label": "Official Mercure Singapore Bugis page",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://all.accor.com/hotel/A0D7/index.en.shtml",
+      "label": "Mercure Singapore Bugis on ALL - Accor Live Limitless",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d10391133-Reviews-Mercure_Singapore_Bugis-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.mercure-singapore-bugis.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-icon-singapore-city-centre", "hotel-waterloo-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: Mercure Singapore Bugis (Signature Loft with Privilege Lounge Access)",
+        "source": "The Shutterwhale",
+        "url": "https://theshutterwhale.com/blog/2024/8/30/hotel-review-mercure-singapore-bugis-signature-loft-with-privilege-lounge-access-affordable-property-close-to-attractions-and-mrt-station",
+        "published_date": "2024-08-30",
+        "summary": "A Signature Loft stay review praising value, the pool, and lounge access for elite members, while noting hard-water stains, inconsistent air-con, and an average breakfast."
+      }
+    ],
+    "videos": [
+      {
+        "title": "[4K] Hotel Tour | SINGAPORE, Mercure, Bugis",
+        "channel": "Guidebook Traveller",
+        "url": "https://www.youtube.com/watch?v=4AJ2qvPDLNg",
+        "video_id": "4AJ2qvPDLNg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 68,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 74 },
+      { "label": "Rooms", "score": 58 },
+      { "label": "Food & breakfast", "score": 60 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}

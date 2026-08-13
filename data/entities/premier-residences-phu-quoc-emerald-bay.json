@@ -1,0 +1,99 @@
+{
+  "entity_id": "premier-residences-phu-quoc-emerald-bay",
+  "slug": "premier-residences-phu-quoc-emerald-bay",
+  "name": "Premier Residences Phu Quoc Emerald Bay",
+  "category_id": "accor-all",
+  "region_id": "phu-quoc",
+  "short_description": "A 629-room Accor-managed resort on Khem Beach in southern Phu Quoc, with sea or garden views and a family-friendly clubhouse program.",
+  "ai_summary": "Premier Residences Phu Quoc Emerald Bay is a 629-room Accor-managed resort on Khem Beach, southern Phu Quoc, positioned as a family-friendly base on one of the island's better-regarded beaches with calm, clear water. Rooms and suites offer expansive sea or garden views, and the resort includes 7 villa options, an impressive pool, a well-equipped gym, a managed spa, and airy restaurants alongside a clubhouse running interactive activities like spring-roll-making classes. Guest reviews are generally positive on price, beach quality, and the extensive breakfast with free airport shuttle, though a subset of reviews raise concerns about a reception area that feels small for the resort's size, limited privacy between some rooms, and inconsistent staff professionalism.",
+  "core_facts": {
+    "address": "Khem Beach, An Thoi, Phu Quoc, Kien Giang Province, Vietnam",
+    "brand_sub_brand": "Accor-managed",
+    "neighborhood": "Khem Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "629 rooms and suites on Khem Beach, one of Phu Quoc's better-regarded beaches",
+    "7 villa options alongside standard sea- or garden-view rooms",
+    "Free airport shuttle and an extensive breakfast spread",
+    "Family-friendly clubhouse with interactive activities like spring-roll-making classes",
+    "Impressive pool, well-equipped gym, and a managed spa"
+  ],
+  "cons": [
+    "A subset of reviews describe the reception area as small relative to the resort's overall size",
+    "Some guests raise privacy concerns about room visibility from neighboring units"
+  ],
+  "research_highlights": [
+    "The Khem Beach location with calm, clear water draws consistently strong praise",
+    "The free airport shuttle and breakfast spread are repeatedly highlighted as good value",
+    "Family-oriented clubhouse activities are a standout feature in guest reviews"
+  ],
+  "research_watchouts": [
+    "Some reviews note the reception area feels undersized for a 629-room resort",
+    "Privacy between certain rooms has been raised as a concern by guests"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Premier Residences Phu Quoc Emerald Bay on a good beach?",
+      "answer": "Yes -- it sits on Khem Beach in southern Phu Quoc, praised by guests for its calm, clear water, and the resort includes a free airport shuttle and an extensive breakfast spread, making it a popular family-oriented base on the island."
+    },
+    {
+      "question": "Does Premier Residences Phu Quoc Emerald Bay have villas?",
+      "answer": "Yes -- alongside 629 sea- or garden-view rooms and suites, the resort offers 7 villa options for guests wanting more space and privacy, plus a family-friendly clubhouse program with activities like spring-roll-making classes."
+    }
+  ],
+  "tags": ["khem beach", "family resort", "accor managed"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B2Q9/index.en.shtml",
+      "label": "Official Premier Residences Phu Quoc Emerald Bay page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g12520037-d15559948-Reviews-Premier_Residences_Phu_Quoc_Emerald_Bay_Managed_by_Accor-An_Thoi_Phu_Quoc_Island_Ki.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B2Q9/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["premier-village-phu-quoc-resort", "movenpick-villas-residences-phu-quoc"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Premier Residences Phu Quoc Emerald Bay 5* | Phu Quoc, Vietnam !!4K HOTEL TOUR!!",
+        "channel": "LastMinutky.sk",
+        "url": "https://www.youtube.com/watch?v=oW2Katma38w",
+        "video_id": "oW2Katma38w"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 74 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

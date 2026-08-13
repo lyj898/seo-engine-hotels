@@ -1,0 +1,100 @@
+{
+  "entity_id": "movenpick-villas-residences-phu-quoc",
+  "slug": "movenpick-villas-residences-phu-quoc",
+  "name": "Mövenpick Villas & Residences Phu Quoc",
+  "category_id": "accor-all",
+  "region_id": "phu-quoc",
+  "short_description": "A 408-unit property on Ong Lang Beach with 79 private-pool villas and 329 residences, sharing facilities with the adjacent Mövenpick Resort Waverly Phu Quoc.",
+  "ai_summary": "Mövenpick Villas & Residences Phu Quoc sits on Ong Lang Beach on Phu Quoc's west coast, roughly 17-18 km from Phu Quoc International Airport, and shares its beachfront and dining facilities with the neighbouring Mövenpick Resort Waverly Phu Quoc. The property has 408 units in total: 79 villas with private pools, ranging from one-bedroom to a four-bedroom presidential villa, plus 329 residences and studios with kitchenettes and balconies. Guest reviews are consistently positive about the beachfront setting, spacious rooms, and friendly, professional staff, with the breakfast buffet frequently highlighted, though some reviews note the pool and breakfast areas can feel crowded in peak season and extra dining/spa charges add up.",
+  "core_facts": {
+    "address": "Ong Lang Beach, Cua Duong Village, Phu Quoc, Kien Giang Province, Vietnam",
+    "brand_sub_brand": "Mövenpick",
+    "neighborhood": "Ong Lang Beach",
+    "distance_from_airport_km": 18,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "408 units total: 79 private-pool villas (1- to 4-bedroom) plus 329 residences and studios",
+    "Directly on Ong Lang Beach on Phu Quoc's quieter west coast",
+    "Shares dining, spa (15 treatment rooms) and beach facilities with the adjacent Mövenpick Resort Waverly Phu Quoc",
+    "Friendly, professional service and a well-regarded breakfast buffet consistently cited in reviews",
+    "Family-oriented amenities including a kids' club and free airport shuttle"
+  ],
+  "cons": [
+    "Pool and breakfast areas can feel crowded during peak season, per multiple reviews",
+    "Extra charges for dining, spa and some activities add up beyond the room rate"
+  ],
+  "research_highlights": [
+    "The beachfront Ong Lang location and villa privacy are repeatedly cited as standout features",
+    "Staff friendliness and service quality draw consistent praise across review platforms",
+    "The shared-complex model with Mövenpick Resort Waverly gives guests a wider range of dining options than a standalone property"
+  ],
+  "research_watchouts": [
+    "Some guests report the breakfast area and pools get busy at peak times, affecting the otherwise-quiet feel",
+    "A few reviews flag maintenance issues in older units and inconsistent response times from housekeeping"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-12",
+  "faqs": [
+    {
+      "question": "How many villas and residences does Mövenpick Villas & Residences Phu Quoc have?",
+      "answer": "The property has 408 units in total: 79 villas with private pools, ranging from one-bedroom units up to a four-bedroom presidential villa, plus 329 residences and studios with kitchenettes and balconies. It sits directly on Ong Lang Beach and shares facilities with the adjacent Mövenpick Resort Waverly Phu Quoc."
+    },
+    {
+      "question": "How far is Mövenpick Villas & Residences Phu Quoc from the airport?",
+      "answer": "It's roughly 18 km, or about a 25-30 minute drive, from Phu Quoc International Airport on the island's west coast at Ong Lang Beach. The resort offers a free airport shuttle service, and Ong Lang's beaches and Phu Quoc's northern attractions are a short drive away."
+    }
+  ],
+  "tags": ["ong lang beach", "private pool villas", "family resort"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6Q0/index.en.shtml",
+      "label": "Official Mövenpick Villas & Residences Phu Quoc page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-12"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g23779430-d20224467-Reviews-Movenpick_Villas_Residences_Phu_Quoc-Cua_Duong_Phu_Quoc_Island_Kien_Giang_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-12"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6Q0/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["movenpick-resort-waverly-phu-quoc", "novotel-phu-quoc-resort"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mövenpick Villas & Residences Phu Quoc",
+        "channel": "Joe's Journals",
+        "url": "https://www.youtube.com/watch?v=tXpNOP4z4po",
+        "video_id": "tXpNOP4z4po"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 77,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 70 }
+    ]
+  },
+  "reliability_score": 45,
+  "last_updated": "2026-08-12",
+  "status": "active"
+}
