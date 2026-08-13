@@ -1,0 +1,104 @@
+{
+  "entity_id": "mercure-cibadak-sukabumi-resort",
+  "slug": "mercure-cibadak-sukabumi-resort",
+  "name": "Mercure Cibadak Sukabumi Resort",
+  "category_id": "accor-all",
+  "region_id": "sukabumi",
+  "short_description": "A 99-room nature resort near Nagrak, Sukabumi, with treehouse-style rooms, four pools, and a bird aviary, opened February 2026.",
+  "ai_summary": "Mercure Cibadak Sukabumi Resort opened on 1 February 2026 on Jalan Raya Nagrak in Kabupaten Sukabumi, West Java, about 5 km from the Parungkuda toll exit and 2 km from Cibadak train station. The 99-room property includes distinctive treehouse-style villas alongside Classic, Privilege, Privilege Luxe, and Suite rooms, set among Sukabumi's forested landscape with Mount Salak views. Facilities include four swimming pools (with a dedicated kids' pool), a Devaloka restaurant, spa, fitness center, bird aviary, and an activity center, plus a 198 sqm ballroom and a 216 sqm chapel for weddings. As a newly opened resort, it positions itself as a gateway to nearby Situ Gunung's suspension bridge and Pelabuhan Ratu beach. Early guest reviews describe it as new, clean, and well-suited to families.",
+  "core_facts": {
+    "address": "Jalan Raya Nagrak, Cisarua, Nagrak, Kabupaten Sukabumi, West Java 43356, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Nagrak / Cibadak",
+    "landmark_distances": [
+      { "label": "Cibadak Train Station", "km": 2 },
+      { "label": "Parungkuda Toll Exit", "km": 5 },
+      { "label": "Situ Gunung Suspension Bridge", "km": 20 }
+    ],
+    "elite_benefits": [
+      "ALL Diamond members earn Status & Rewards points and can redeem points at this property",
+      "Member rates and room upgrades for eligible ALL tiers, subject to availability"
+    ]
+  },
+  "pros": [
+    "99 rooms including distinctive treehouse-style villas, opened February 2026",
+    "Four swimming pools including a dedicated kids' pool, plus a bird aviary and activity center",
+    "Devaloka restaurant and lobby lounge overlooking Mount Salak",
+    "Close to Sukabumi nature attractions -- Situ Gunung suspension bridge, river rafting, Pelabuhan Ratu beach",
+    "Only 5 km from the Parungkuda toll exit and 2 km from Cibadak train station"
+  ],
+  "cons": [
+    "As a resort that opened in February 2026, long-term guest feedback and track record are still limited",
+    "Sukabumi's nature attractions require a further drive from the resort itself (e.g. Situ Gunung is roughly 20 km away)"
+  ],
+  "research_highlights": [
+    "Early guest reviews (spring 2026) describe the property as new, clean, and fresh with spotless rooms and facilities",
+    "The treehouse-style accommodation and bird aviary are called out as distinctive features in opening-period press coverage",
+    "Family-friendliness -- kids' pool, Kids Club, in-room gaming -- is a repeated theme in initial reviews"
+  ],
+  "research_watchouts": [
+    "Being newly opened, the volume of independent guest reviews is still small relative to established properties",
+    "No confirmed independent YouTube coverage of this specific property was found as of research date"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "When did Mercure Cibadak Sukabumi Resort open?",
+      "answer": "It opened on 1 February 2026, on Jalan Raya Nagrak in Kabupaten Sukabumi, West Java, about 5 km from the Parungkuda toll exit and 2 km from Cibadak train station. As a newly opened property, its guest-review track record is still building."
+    },
+    {
+      "question": "Does Mercure Cibadak Sukabumi Resort have treehouse rooms?",
+      "answer": "Yes -- alongside Classic, Privilege, Privilege Luxe, and Suite rooms, the resort's 99 accommodations include distinctive treehouse-style villas set among Sukabumi's forested landscape, with views toward Mount Salak from several room categories."
+    }
+  ],
+  "tags": ["sukabumi", "nature resort", "treehouse", "family-friendly", "newly opened"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C5Z9/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297714-d34237768-Reviews-Mercure_Cibadak_Sukabumi_Resort-Sukabumi_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C5Z9/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": [],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Ada Tempat Staycation Baru Nih Dekat Situgunung, Mercure Cibadak Sukabumi Resort",
+        "source": "Tourism For Us",
+        "url": "https://tourismforus.com/2026/02/13/ada-tempat-staycation-baru-nih-dekat-situgunung-mercure-cibadak-sukabumi-resort/",
+        "published_date": "2026-02-13",
+        "summary": "Covers the resort's February 2026 opening, its 99 rooms and treehouse villas, four pools, kids' club, bird aviary, and its role as a new staycation gateway near Situ Gunung."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 38,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,118 @@
+{
+  "entity_id": "novotel-bogor-golf-resort",
+  "slug": "novotel-bogor-golf-resort",
+  "name": "Novotel Bogor Golf Resort & Convention Center",
+  "category_id": "accor-all",
+  "region_id": "bogor",
+  "short_description": "A 179-room, 5-hectare golf-estate resort next to an 18-hole course, about 50 minutes from Jakarta.",
+  "ai_summary": "Novotel Bogor Golf Resort & Convention Center sits inside the Bogor Raya Golf Estate, roughly 50 minutes' drive from central Jakarta and 7 minutes from the Bogor toll exit. The 179-room property spans 5 hectares of tropical gardens next to an 18-hole golf course, with two restaurants (Verandah and Capriccio), three bars, an outdoor pool, spa, fitness center, tennis court, and a kids' club with playground and outbound area. A 20-room convention center with a Grand Ballroom makes it a common choice for both family staycations and MICE events. Guests consistently highlight the tranquil, garden-set atmosphere and friendly staff, with a minority noting the property could use ongoing refreshes in places.",
+  "core_facts": {
+    "address": "Golf Estate Bogor Raya, Bogor, West Java 16710, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Bogor Raya Golf Estate",
+    "landmark_distances": [
+      { "label": "Bogor Botanical Garden", "km": 8 },
+      { "label": "Bogor Toll Exit", "km": 5 },
+      { "label": "Jakarta (central)", "km": 60 }
+    ],
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "179 rooms set across 5 hectares of tropical gardens next to an 18-hole golf course",
+    "Two restaurants (Verandah, Capriccio) and three bars on-site",
+    "Kids' club with playground and outbound area, plus a large convention center for events",
+    "Only 7 minutes from the Bogor toll exit and about 50 minutes from central Jakarta",
+    "Tranquil, garden-set atmosphere and consistently friendly staff service"
+  ],
+  "cons": [
+    "Some rooms and public areas show wear and could benefit from ongoing renovation",
+    "A subset of reviews note occasional cleanliness lapses (e.g. breakfast area) needing attention"
+  ],
+  "research_highlights": [
+    "The tropical-garden, golf-estate setting and tranquil atmosphere draw consistent praise from staycationers",
+    "Family-oriented facilities -- the kids' club, outbound area, and pools -- are repeatedly highlighted",
+    "Staff friendliness and attentiveness come up across recent guest reviews"
+  ],
+  "research_watchouts": [
+    "A minority of reviews flag rooms or public areas as due for a refresh",
+    "One review noted a cleanliness lapse in the breakfast area on two separate visits"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is Novotel Bogor Golf Resort from Jakarta?",
+      "answer": "It's roughly 50 minutes' drive from central Jakarta and about 7 minutes from the Bogor toll exit, making it a common weekend staycation choice for Jakarta residents. The 179-room resort sits on 5 hectares of tropical gardens next to an 18-hole golf course."
+    },
+    {
+      "question": "Is Novotel Bogor Golf Resort good for families?",
+      "answer": "Yes -- alongside its golf-estate gardens and pool, the resort has a kids' club with a playground and outbound area, plus family-sized rooms, making it a popular family staycation pick."
+    }
+  ],
+  "tags": ["golf estate", "family-friendly", "convention center", "bogor raya"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/0533/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.novotelbogor.com/",
+      "label": "Novotel Bogor Golf Resort official website",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297706-d299540-Reviews-Novotel_Bogor_Golf_Resort_and_Convention_Center-Bogor_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/0533/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-bogor-raya", "pullman-ciawi-vimala-hills"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Novotel Bogor Golf Resort and Convention Center Review: What To REALLY Expect If You Stay",
+        "source": "Oyster.com",
+        "url": "https://www.oyster.com/java/hotels/hotel-novotel-bogor-golf-resort-and-convention-center/",
+        "published_date": "2024-11-08",
+        "summary": "Oyster.com's investigator review covers the golf-estate grounds, children's and adult pools, deluxe and superior rooms, the Verandah and Capriccio restaurants, spa, and fitness facilities."
+      }
+    ],
+    "videos": [
+      {
+        "title": "REVIEW LENGKAP HOTEL NOVOTEL BOGOR GOLF RESORT - REKOMENDASI STAYCATION BARENG KELUARGA DI BOGOR",
+        "channel": "Kensa Athalia",
+        "url": "https://www.youtube.com/watch?v=eJVgOr-V0xc",
+        "video_id": "eJVgOr-V0xc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 70 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,105 @@
+{
+  "entity_id": "mercure-jakarta-grogol",
+  "slug": "mercure-jakarta-grogol",
+  "name": "Mercure Jakarta Grogol",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 95-room 4-star hotel on Jalan Daan Mogot in West Jakarta's Grogol area, about 2km from Central Park and Taman Anggrek malls, opened May 2026.",
+  "ai_summary": "Mercure Jakarta Grogol opened on 2 May 2026 on Jalan Daan Mogot in West Jakarta's Grogol district, about 2km (a 10-minute drive) from Central Park Mall and Taman Anggrek, a two-minute walk from Pesing commuter station, and roughly a 30-minute drive from Soekarno-Hatta International Airport. The property has 95 guestrooms and suites across five categories from Classic (28 sqm) to Family rooms (52 sqm, for 3-4 guests), designed with Betawi cultural touches -- including gigi balang ornaments in the lobby -- alongside an outdoor pool, sauna, ice bath, fitness centre, Melur Spa, and the Kenanga Restaurant. As a newly opened property, independent guest reviews and video coverage are still limited; opening-week press coverage was positive about the design and amenities, but on-the-ground guest sentiment has not yet been independently verified beyond early aggregator listings.",
+  "core_facts": {
+    "address": "Jalan Daan Mogot 50 B, 11460 Jakarta, Indonesia",
+    "coordinates": { "lat": -6.161943, "lng": 106.77206 },
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Grogol, West Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "distance_from_airport_km": 25,
+    "landmark_distances": [
+      { "label": "Pesing Train Station", "km": 0.2 },
+      { "label": "Central Park Mall", "km": 2 },
+      { "label": "Taman Anggrek", "km": 2 },
+      { "label": "Jakarta Aquarium (Neo Soho Mall)", "km": 5 }
+    ]
+  },
+  "pros": [
+    "About 2km (10-minute drive) from Central Park Mall and Taman Anggrek",
+    "A two-minute walk from Pesing commuter train station",
+    "95 rooms across five categories, including 52 sqm Family rooms with small kitchens",
+    "Betawi cultural design touches distinguish it from typical business-hotel interiors",
+    "Outdoor pool, sauna, ice bath, and Melur Spa on-site"
+  ],
+  "cons": [
+    "As a May 2026 opening, independently verified guest reviews are still scarce",
+    "Grogol sits further from Jakarta's Sudirman-Thamrin business corridor than most of the city's other Accor hotels"
+  ],
+  "research_highlights": [
+    "Opened 2 May 2026, officially inaugurated by Jakarta's governor, with Betawi-culture design as its signature differentiator",
+    "Positioned near West Jakarta's Central Park / Taman Anggrek mall cluster and Pesing station rather than the central business district"
+  ],
+  "research_watchouts": [
+    "Too new for a reliable base of independent written reviews or confirmed YouTube coverage at time of research -- both external_coverage arrays are intentionally empty pending verifiable sources",
+    "Early guest sentiment (TripAdvisor: ranked #101 of 684 Jakarta hotels, 4/5 from 109 reviews as of August 2026) should be treated as provisional given the short operating history"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "When did Mercure Jakarta Grogol open?",
+      "answer": "Mercure Jakarta Grogol officially opened on 2 May 2026 in West Jakarta, inaugurated by Jakarta's governor, offering 95 rooms across five categories with design touches drawn from local Betawi culture."
+    },
+    {
+      "question": "Is Mercure Jakarta Grogol close to shopping malls?",
+      "answer": "Yes -- it's about 2km (roughly a 10-minute drive) from both Central Park Mall and Taman Anggrek, and a two-minute walk from Pesing commuter train station, making West Jakarta's retail cluster easy to reach."
+    }
+  ],
+  "tags": ["grogol", "west jakarta", "new opening", "betawi culture"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8057/index.en.shtml",
+      "label": "Official Mercure Jakarta Grogol page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://barat.jakarta.go.id/berita/usung-nuansa-betawi-gubernur-dki-resmikan-hotel-mercure-jakarta-grogol",
+      "label": "Jakarta Barat city government announcement of the official opening",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com.au/Hotel_Review-g294229-d34158191-Reviews-Mercure_Jakarta_Grogol-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8057/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-jakarta-kota", "mercure-jakarta-batavia"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

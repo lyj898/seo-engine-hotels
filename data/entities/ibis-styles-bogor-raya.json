@@ -1,0 +1,112 @@
+{
+  "entity_id": "ibis-styles-bogor-raya",
+  "slug": "ibis-styles-bogor-raya",
+  "name": "ibis Styles Bogor Raya",
+  "category_id": "accor-all",
+  "region_id": "bogor",
+  "short_description": "A 205-room design-economy hotel inside the Bogor Raya Golf Estate, 500 meters from the golf course and 8 minutes from the toll exit.",
+  "ai_summary": "ibis Styles Bogor Raya is a 205-room, family-friendly design-economy hotel set within the Bogor Raya Golf Estate, about 500 meters on foot from Golf Bogor Raya and roughly 8 minutes from the toll exit. The eco-certified property centers on the 160-seat sTREATs Restaurant serving international and Indonesian cuisine, alongside a swimming pool, fitness center, kids' corner, and seven meeting rooms. Rooms run 23-33 sqm across Deluxe Twin, Deluxe Queen, Family, and Executive categories, with many overlooking the golf course. Guests consistently praise the cleanliness, attentive service, and value, while a subset find the golf-estate location a little secluded from central Bogor.",
+  "core_facts": {
+    "address": "Golf Estate Bogor Raya, Bogor, West Java 16710, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Bogor Raya Golf Estate",
+    "landmark_distances": [
+      { "label": "Golf Bogor Raya", "km": 0.5 },
+      { "label": "Bogor Toll Exit", "km": 6 },
+      { "label": "Bogor Train Station", "km": 10 },
+      { "label": "Jakarta (central)", "km": 60 }
+    ],
+    "elite_benefits": [
+      "ALL Diamond members earn Status & Rewards points and can redeem points at this property",
+      "Member rates and room upgrades for eligible ALL tiers, subject to availability"
+    ]
+  },
+  "pros": [
+    "205 rooms, many with golf-course views, across Deluxe Twin, Deluxe Queen, Family, and Executive categories",
+    "160-seat sTREATs Restaurant with international and Indonesian buffet and a la carte dining",
+    "About 500 meters on foot from Golf Bogor Raya and 8 minutes from the toll exit",
+    "Eco-certified, family-friendly design with a kids' corner and pool",
+    "Consistently praised for cleanliness, attentive service, and value"
+  ],
+  "cons": [
+    "The golf-estate location sits away from central Bogor's main attractions and dining strips",
+    "Some guests describe the setting as a little secluded, requiring a car or taxi to reach the city center"
+  ],
+  "research_highlights": [
+    "Cleanliness and attentive, warm service are the most consistently repeated praise",
+    "Family-friendly touches -- the kids' corner, pool, and spacious family rooms -- draw repeated mentions",
+    "Value for money and the golf-course setting are called out as standout points"
+  ],
+  "research_watchouts": [
+    "A subset of reviews describe the golf-estate location as somewhat secluded from central Bogor",
+    "Occasional maintenance issues are noted in a minority of 2025-2026 reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Bogor Raya close to the golf course?",
+      "answer": "Yes -- it sits inside the Bogor Raya Golf Estate, about 500 meters on foot from the 18-hole Golf Bogor Raya course, and many of its 205 rooms overlook the fairways. The hotel is roughly 8 minutes from the Bogor toll exit, though central Bogor's attractions require a further drive."
+    },
+    {
+      "question": "Does ibis Styles Bogor Raya suit families?",
+      "answer": "Yes -- it's positioned as an eco-certified, family-friendly hotel with a kids' corner, swimming pool, and Family Room options alongside its standard Deluxe Twin, Deluxe Queen, and Executive categories. The 160-seat sTREATs Restaurant serves an international and Indonesian buffet that works well for family groups."
+    }
+  ],
+  "tags": ["golf estate", "family-friendly", "design economy", "bogor raya"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9495/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297706-d9723512-Reviews-Ibis_Styles_Bogor_Raya-Bogor_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9495/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-bogor-golf-resort", "ibis-styles-bogor-pajajaran"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Ibis Styles Bogor Raya — Bogor, Java",
+        "source": "Global Hotel Guys",
+        "url": "https://www.hotelguys.com/indonesia-2024/2024/2/27/ibis-styles-bogor-raya-bogor",
+        "published_date": "2024-05-17",
+        "summary": "Travel bloggers used the hotel as an overnight transit stop between the Gunung Padang megalithic site and Jakarta, praising the green golf-course views and rush laundry service."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Ibis Styles Bogor Raya - Part 1: Rute Transportasi Umum vs Pribadi dan Review Fasilitas Plus Novotel",
+        "channel": "RX Information",
+        "url": "https://www.youtube.com/watch?v=07MbYk844l0",
+        "video_id": "07MbYk844l0"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 72 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
