@@ -29,10 +29,11 @@
   "research_highlights": [
     "Accor's own listing confirms 135 rooms, a 4.6/5 ALL rating (139 reviews), and non-participation in the ALL loyalty programme",
     "Aggregator data shows a 7.4/10 'Good' rating from over 1,100 verified reviews, broadly consistent with the hotel's own rating",
-    "Guests consistently single out the Menteng CBD-adjacent location and helpful reception staff as the property's strongest points"
+    "Guests consistently single out the Menteng CBD-adjacent location and helpful reception staff as the property's strongest points",
+    "A confirmed YouTube hotel review from Indonesian channel Arnoldus Bramantyo covers this specific property"
   ],
   "research_watchouts": [
-    "No independently confirmable dated written review article or genuine hotel-specific YouTube video was found for this property despite multiple targeted searches, so both external_coverage.reviews and external_coverage.videos are left empty",
+    "No independently confirmable dated written review article (as opposed to aggregator user reviews) was found for this property, so external_coverage.reviews is left empty",
     "Multiple 2024-2025 reviews flag housekeeping inconsistencies (musty smells, dirty sheets) as a recurring rather than isolated issue"
   ],
   "research_confidence": "medium",
@@ -83,7 +84,14 @@
   "related_entity_ids": ["ibis-budget-jakarta-cikini", "ibis-jakarta-raden-saleh", "all-seasons-jakarta-thamrin"],
   "external_coverage": {
     "reviews": [],
-    "videos": []
+    "videos": [
+      {
+        "title": "Ibis Budget Jakarta Menteng",
+        "channel": "Arnoldus Bramantyo",
+        "url": "https://www.youtube.com/watch?v=vmYt1oZmGL8",
+        "video_id": "vmYt1oZmGL8"
+      }
+    ]
   },
   "sentiment_scores": {
     "overall": 68,

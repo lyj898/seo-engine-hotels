@@ -1,0 +1,107 @@
+{
+  "entity_id": "ibis-budget-jakarta-airport",
+  "slug": "ibis-budget-jakarta-airport",
+  "name": "ibis budget Jakarta Airport",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 185-room budget hotel with Cocoon-style rooms in Rawa Bokor, Tangerang, about 10 minutes by car from Soekarno-Hatta International Airport with a complimentary shuttle.",
+  "ai_summary": "ibis budget Jakarta Airport is a 2-star economy hotel at Jl Raya Bandara Soekarno Hatta, Kp Rawa Bokor, Tangerang, about 10 minutes by car from Soekarno-Hatta International Airport (CGK) and roughly 25 km from central Jakarta. It shares the same Rawa Bokor cluster and airport shuttle contact details as the separate, higher-tier ibis Styles Jakarta Airport property nearby, but is its own distinct 185-room hotel with a different Accor hotel ID. Rooms use the compact 14 sqm Cocoon design across three configurations, and the hotel offers a complimentary shuttle running roughly every 120 minutes, three meeting rooms, and breakfast. Accor's own listing shows a strong 4.8/5 ALL rating from 285 reviews, and independent 2024-2025 TripAdvisor and Trip.com reviews are largely positive, with guests calling it a good, clean, convenient transit hotel and praising friendly staff, though a few reviews note small rooms and inconsistent air conditioning. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme.",
+  "core_facts": {
+    "address": "Jl Raya Bandara Soekarno Hatta, Kp Rawa Bokor, 15125 Tangerang, Indonesia",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Rawa Bokor, Tangerang (Soekarno-Hatta Airport area, Greater Jakarta)",
+    "distance_from_airport_km": 10,
+    "elite_benefits": [],
+    "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
+  },
+  "pros": [
+    "185 Cocoon-style rooms about 10 minutes by car from Soekarno-Hatta International Airport",
+    "Complimentary airport shuttle running roughly every 120 minutes",
+    "Very strong 4.8/5 ALL rating from 285 reviews on the hotel's own Accor listing",
+    "Ecocertified property with three on-site meeting rooms",
+    "Guests consistently praise friendly staff and good value for a transit stay"
+  ],
+  "cons": [
+    "Does not participate in the ALL - Accor Live Limitless loyalty programme",
+    "Compact 14 sqm rooms, smaller than the nearby ibis Styles Jakarta Airport sister property",
+    "Shuttle runs on a roughly 120-minute interval, so timing matters for tight connections",
+    "A minority of reviews report inconsistent air conditioning performance"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms 185 rooms, a 4.8/5 ALL rating (285 reviews), Ecocertification, and non-participation in the ALL loyalty programme",
+    "A confirmed January 2025 YouTube review by Indonesian channel Andra Fintech covers pricing and booking for this specific property",
+    "Guests in 2024-2025 reviews consistently call it a good, clean transit hotel with a reliable free shuttle to the airport"
+  ],
+  "research_watchouts": [
+    "Shares the same Rawa Bokor address area and airport-shuttle contact email (reservation@ibisstyles-jakarta-airport.com) as the separate ibis Styles Jakarta Airport property -- confirmed as a distinct hotel via its own Accor hotel ID (9041 vs 8593), but travelers should double-check which property they are booking",
+    "No independently confirmable dated written review article (as opposed to aggregator user reviews) was found, so external_coverage.reviews is left empty"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis budget Jakarta Airport from Soekarno-Hatta International Airport?",
+      "answer": "The hotel is about 10 minutes by car from Soekarno-Hatta International Airport and offers a complimentary shuttle running roughly every 120 minutes, making it a practical choice for early departures or late arrivals, though travelers with tight connections should plan around the shuttle's fixed interval."
+    },
+    {
+      "question": "Is ibis budget Jakarta Airport the same hotel as ibis Styles Jakarta Airport?",
+      "answer": "No -- they are two distinct Accor properties in the same Rawa Bokor area near Soekarno-Hatta Airport, each with its own separate hotel ID on the Accor booking platform. ibis budget Jakarta Airport is the smaller, more compact economy-tier option with 185 Cocoon-style rooms, while ibis Styles Jakarta Airport is a separate, larger sister property."
+    },
+    {
+      "question": "Does ibis budget Jakarta Airport participate in the ALL loyalty programme?",
+      "answer": "No -- this hotel's own Accor listing confirms it does not participate in the ALL - Accor Live Limitless loyalty programme, so members cannot earn or redeem points here, though it still carries a strong 4.8/5 guest rating from 285 reviews and ALL member rates may still apply."
+    }
+  ],
+  "tags": ["airport hotel", "rawa bokor", "tangerang", "budget hotel", "soekarno-hatta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9041/index.en.shtml",
+      "label": "Official ibis budget Jakarta Airport page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1493703-d8140287-Reviews-Ibis_budget_Jakarta_Airport-Tangerang_Banten_Province_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://in.trip.com/hotels/tangerang-hotel-detail-5673096/ibis-budget-jakarta-airport/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9041/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-jakarta-airport", "fairfield-jakarta-soekarno-hatta-airport", "sheraton-jakarta-soekarno-hatta-airport"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "REVIEW HOTEL IBIS BUDGET JAKARTA AIRPORT HARGA PROMO PESAN DI TRAVELOKA",
+        "channel": "Andra Fintech",
+        "url": "https://www.youtube.com/watch?v=53KSGpOTVCE",
+        "video_id": "53KSGpOTVCE"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Service", "score": 85 },
+      { "label": "Cleanliness", "score": 78 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
