@@ -1,0 +1,103 @@
+{
+  "entity_id": "ibis-styles-semarang-simpang-lima",
+  "slug": "ibis-styles-semarang-simpang-lima",
+  "name": "ibis Styles Semarang Simpang Lima",
+  "category_id": "accor-all",
+  "region_id": "semarang",
+  "short_description": "A 127-room hotel set directly above a shopping and dining centre at the Pancasila Simpang Lima roundabout, one minute from the culinary district.",
+  "ai_summary": "ibis Styles Semarang Simpang Lima occupies a landmark position right at the Pancasila Square Simpang Lima roundabout, built above a shopping and dining centre in the heart of Semarang. The 127-room property offers 7 room types plus the 3rd-floor STREATS restaurant and four meeting rooms, and is a one-minute walk from the Simpang Lima culinary area, 5 minutes from Lawang Sewu and Jalan Pandanaran. Guests consistently call out the strategic, walkable location, clean rooms with comfortable beds, and friendly, responsive service, with breakfast and room service also drawing praise. As with its sister property nearby, the main gripe in reviews is limited elevator capacity during busy periods.",
+  "core_facts": {
+    "address": "Jalan Pahlawan No. 2-2A, Simpang Lima, 50241 Semarang, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Simpang Lima",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Landmark location directly at Pancasila Simpang Lima roundabout, above a shopping and dining centre",
+    "127 rooms across 7 room types, all 100% non-smoking",
+    "One minute's walk from the Simpang Lima culinary area",
+    "STREATS restaurant on the 3rd floor plus four meeting rooms for events",
+    "Clean, comfortable rooms and friendly, responsive staff consistently praised"
+  ],
+  "cons": [
+    "Elevator capacity can feel limited relative to the hotel's size during busy periods",
+    "Being positioned above a mall means some noise or crowd bustle at street level"
+  ],
+  "research_highlights": [
+    "Guests repeatedly highlight the unbeatable walkable location right on Simpang Lima square",
+    "Room comfort -- fluffy beds and clean rooms -- is a recurring positive",
+    "Room service and breakfast are described as fresh and good quality"
+  ],
+  "research_watchouts": [
+    "Some room-count sources cite 127 vs. 128 rooms; this entry uses the official ALL Accor figure of 127",
+    "Being built above a shopping centre may mean more foot traffic/noise than a standalone hotel"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Where is ibis Styles Semarang Simpang Lima located?",
+      "answer": "The hotel sits directly at the Pancasila Square Simpang Lima roundabout in central Semarang, built above a shopping and dining centre. It is a one-minute walk from the Simpang Lima culinary area and about 5 minutes from Lawang Sewu and the Jalan Pandanaran souvenir district."
+    },
+    {
+      "question": "How many rooms does ibis Styles Semarang Simpang Lima have?",
+      "answer": "The hotel has 127 rooms spread across 7 different room types, all on a 100% non-smoking property, positioned as a colorful, design-forward ibis Styles option aimed at both leisure travelers and business guests visiting the Simpang Lima area of central Semarang."
+    },
+    {
+      "question": "Does ibis Styles Semarang Simpang Lima have meeting facilities?",
+      "answer": "Yes -- the hotel has four meeting rooms, with the largest spanning 265 square meters and holding up to 264 guests conference-style or 120 banquet-style, plus the STREATS restaurant on the 3rd floor that seats up to 100 for dining and events."
+    }
+  ],
+  "tags": ["simpang lima", "shopping mall", "design hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B911/index.en.shtml",
+      "label": "Official ibis Styles Semarang Simpang Lima page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297712-d24205973-Reviews-Ibis_Styles_Semarang_Simpang_Lima-Semarang_Central_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B911/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-semarang-simpang-lima"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "HOTEL TERMURAH TEPAT DI DEPAN SIMPANG LIMA! Deluxe Room Ibis Style Semarang",
+        "channel": "Hello Damo",
+        "url": "https://www.youtube.com/watch?v=KKzGUpTI8yQ",
+        "video_id": "KKzGUpTI8yQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

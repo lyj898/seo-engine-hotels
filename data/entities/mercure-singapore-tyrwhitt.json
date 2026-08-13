@@ -1,0 +1,105 @@
+{
+  "entity_id": "mercure-singapore-tyrwhitt",
+  "slug": "mercure-singapore-tyrwhitt",
+  "name": "Mercure Singapore Tyrwhitt",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 270-room 4-star hotel on Tyrwhitt Road in the Lavender/Kallang heritage district, reopened as a Mercure in February 2023 with a rooftop pool near Bendemeer and Lavender MRT.",
+  "ai_summary": "Mercure Singapore Tyrwhitt opened under the Mercure flag on February 8, 2023, after a full renovation of the former Parc Sovereign Hotel Tyrwhitt, drawing on a 1950s shophouse and hardware-store aesthetic for its 270 rooms. The property sits in the Lavender/Kallang heritage district, within walking distance of Bendemeer, Lavender, and Farrer Park MRT stations and close to Little India, Haji Lane, and Mustafa Centre. Guests consistently praise the friendly, attentive staff, the rooftop pool with its children's wading area, and the value for a competitively priced 4-star stay, while reviews note the rooms run on the smaller side by Singapore standards and that some noise carries in from the surrounding nightlife district at night.",
+  "core_facts": {
+    "address": "165 Tyrwhitt Road, Singapore 207569",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Lavender / Kallang, near Little India",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "270 rooms across Classic, Twin, Double, Family, and Privilege Terrace configurations, some with private balconies/gardens",
+    "Rooftop swimming pool with a separate children's wading area, plus an on-site fitness centre",
+    "Walking distance to Bendemeer, Lavender, and Farrer Park MRT stations",
+    "Close to Little India, Haji Lane, Kampong Glam, and Mustafa Centre shopping",
+    "Ecocertified property with in-room filtered water taps to cut single-use plastic"
+  ],
+  "cons": [
+    "Rooms run on the smaller side by Singapore hotel standards, with some bathrooms combining the WC/shower separately from the basin",
+    "A subset of guests report noise carrying in at night given proximity to the area's bars and nightlife"
+  ],
+  "research_highlights": [
+    "Accor's official press release confirms the February 8, 2023 reopening, 270-room count, and the shophouse/hardware-store design concept",
+    "The rooftop pool, Applause restaurant, and Tyrwhitt Little Café are the most consistently praised amenities across guest reviews",
+    "It is described in Accor's press materials as the brand's third Mercure in Singapore and the group's 28th property in the city"
+  ],
+  "research_watchouts": [
+    "No independent dated blogger review of the post-2023 renovated property could be confirmed; the hotel's TripAdvisor page (684+ reviews) and press materials were the main sources used",
+    "Room-size and noise complaints appear in multiple guest reviews and are worth flagging to travelers expecting spacious rooms"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "When did Mercure Singapore Tyrwhitt open?",
+      "answer": "The property reopened as Mercure Singapore Tyrwhitt on February 8, 2023, following a full renovation of the former Parc Sovereign Hotel Tyrwhitt. The redesign drew on a 1950s shophouse and hardware-store aesthetic, and it was billed by Accor as the brand's third Mercure hotel in Singapore."
+    },
+    {
+      "question": "Is Mercure Singapore Tyrwhitt near an MRT station?",
+      "answer": "Yes -- it's within walking distance of three MRT stations: Bendemeer (about 6 minutes), Lavender (about 10 minutes), and Farrer Park (about 11 minutes), giving guests easy access to Little India, Kampong Glam, Bugis, and the wider city centre without needing a taxi."
+    }
+  ],
+  "tags": ["lavender", "kallang", "little india"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6I2/index.en.shtml",
+      "label": "Official Mercure Singapore Tyrwhitt page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://press.accor.com/middle-east-africa-turkey-asia-pacific/the-new-mercure-singapore-tyrwhitt-reveals-citys-shophouse-heritage/?lang=en",
+      "label": "Accor press release on the Tyrwhitt reopening",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d6741981-Reviews-Mercure_Singapore_Tyrwhitt-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6I2/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-icon-singapore-city-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Singapore Tyrwhitt Hotel Classic Room Stay",
+        "channel": "Free Luxury Travel",
+        "url": "https://www.youtube.com/watch?v=jxX3JgO_Irk",
+        "video_id": "jxX3JgO_Irk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 73 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

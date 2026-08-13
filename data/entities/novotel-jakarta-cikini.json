@@ -1,0 +1,99 @@
+{
+  "entity_id": "novotel-jakarta-cikini",
+  "slug": "novotel-jakarta-cikini",
+  "name": "Novotel Jakarta Cikini",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 245-room 4-star hotel in Central Jakarta's Cikini heritage district, a 3-minute walk from Cikini station and about 15 minutes' drive from the CBD/SCBD.",
+  "ai_summary": "Novotel Jakarta Cikini is a 245-room 4-star hotel in the Cikini heritage district of Central Jakarta, close to Taman Ismail Marzuki and about a 3-minute walk from Cikini railway station. Guests eat at the Food Exchange restaurant's international buffet, and the property has an outdoor pool, 24-hour gym, free bikes, and 17 meeting rooms with a 450 sqm ballroom for events. Reviews are consistently strong, praising spotless, spacious rooms, attentive staff, and a varied breakfast spanning Indonesian, Western and Indian dishes. A recurring minor complaint is street or train noise from the adjacent Cikini station, and a smaller number of guests find the breakfast selection limited for international tastes.",
+  "core_facts": {
+    "address": "Jalan Cikini Raya No 107-109, Cikini, Menteng, Jakarta Pusat 10330, Jakarta, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Cikini, Central Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "3-minute walk to Cikini railway station, with the CBD/SCBD about 15 minutes by car",
+    "245 spacious, spotlessly clean rooms per repeated guest feedback",
+    "Food Exchange restaurant offers a wide breakfast spread including Indonesian, Western and Indian dishes",
+    "Outdoor pool, 24-hour gym, and free bikes on site",
+    "17 meeting rooms and a 450 sqm ballroom suited to business events"
+  ],
+  "cons": [
+    "Proximity to Cikini station brings occasional street and train noise",
+    "A subset of guests find the breakfast selection less suited to international tastes"
+  ],
+  "research_highlights": [
+    "Guests consistently highlight spotless, spacious rooms and attentive, professional staff",
+    "The Cikini heritage-district location near Taman Ismail Marzuki draws praise for being central yet distinct from Jakarta's busiest CBD blocks",
+    "The hotel is noted as family-friendly and ecocertified"
+  ],
+  "research_watchouts": [
+    "Multiple reviews mention noise from the nearby train station, worth flagging to noise-sensitive travelers",
+    "A dated third-party written review/blog piece could not be independently confirmed -- reviews cited come from aggregator platforms rather than a single bylined article"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How close is Novotel Jakarta Cikini to public transport?",
+      "answer": "It's about a 3-minute walk from Cikini railway station, making it convenient for commuter rail travel around Jakarta. That same proximity means some guests report hearing occasional street or train noise, so it's worth requesting a room further from the station side if you're sensitive to it."
+    },
+    {
+      "question": "What dining options does Novotel Jakarta Cikini have?",
+      "answer": "The hotel's Food Exchange restaurant serves an international buffet and a la carte menu spanning Indonesian, Western and Indian cuisine, plus a Gourmet Bar. Guest reviews consistently describe the breakfast spread as varied and satisfying, though a minority find the international options somewhat limited."
+    }
+  ],
+  "tags": ["cikini", "central jakarta", "heritage district", "business hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9799/index.en.shtml",
+      "label": "Official Novotel Jakarta Cikini page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/central-jakarta-city-hotel-detail-28153703/novotel-jakarta-cikini/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9799/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-jakarta-mangga-dua-square", "novotel-jakarta-gajah-mada"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Review Novotel Cikini Hotel - kamar Deluxe",
+        "channel": "Jalan Jalan Ga Jelas Channel",
+        "url": "https://www.youtube.com/watch?v=jw4YoylGEII",
+        "video_id": "jw4YoylGEII"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 85 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

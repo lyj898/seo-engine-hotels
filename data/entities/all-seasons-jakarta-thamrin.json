@@ -1,0 +1,117 @@
+{
+  "entity_id": "all-seasons-jakarta-thamrin",
+  "slug": "all-seasons-jakarta-thamrin",
+  "name": "all seasons Jakarta Thamrin",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 166-room hotel on Jalan Talang Betutu just off the Thamrin corridor, steps from Sudirman Baru (BNI City) station and about 1.2km from Grand Indonesia.",
+  "ai_summary": "all seasons Jakarta Thamrin sits on Jalan Talang Betutu, a side street just off the Sudirman-Thamrin business corridor, a few minutes' walk from Sudirman Baru (BNI City) railway station and roughly 1.2km from Grand Indonesia mall. The 166-room property includes 10 Junior Suites with skyline views, and its rooftop Skyloft Restaurant serves a buffet breakfast with city views. Guests consistently praise the central, transit-friendly location and friendly, helpful staff, with breakfast and cleanliness also drawing regular compliments, while some reviews note compact bathrooms, occasional service inconsistency, and construction noise from the surrounding fast-developing block. It functions well as a value-oriented base for business travelers and shoppers wanting easy access to Jakarta's Golden Triangle without paying upscale rates.",
+  "core_facts": {
+    "address": "Jalan Talang Betutu No. 2, Menteng, Central Jakarta 10230, Indonesia",
+    "brand_sub_brand": "all seasons",
+    "neighborhood": "Thamrin / Sudirman corridor",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Thamrin-Sudirman location, about 1.2km from Grand Indonesia and 1.5km from Plaza Indonesia",
+    "A few minutes' walk from Sudirman Baru (BNI City) airport rail and MRT access",
+    "166 rooms including 10 Junior Suites with city skyline views",
+    "Rooftop Skyloft Restaurant with buffet breakfast and skyline views draws consistent praise",
+    "Friendly, helpful staff repeatedly highlighted across guest reviews"
+  ],
+  "cons": [
+    "Compact bathroom layouts in standard rooms, per guest and blogger feedback",
+    "Some reviews note service inconsistency and construction noise from the surrounding block"
+  ],
+  "research_highlights": [
+    "Guests consistently cite the location near Grand Indonesia, Plaza Indonesia, and Sudirman rail access as the hotel's biggest strength",
+    "The rooftop Skyloft Restaurant and its breakfast spread receive repeated praise",
+    "Staff friendliness and efficient check-in are recurring positives across both blog and platform reviews"
+  ],
+  "research_watchouts": [
+    "Room count is reported as 166 by the official ALL - Accor page but 167 by at least one third-party aggregator; used the official figure",
+    "One independently confirmed written review (2018) is dated -- more recent guest sentiment was cross-checked via aggregator scores rather than a newer standalone article"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How many rooms does all seasons Jakarta Thamrin have?",
+      "answer": "The hotel has 166 rooms in total, including 10 Junior Suites that offer skyline views over central Jakarta. Standard rooms are air-conditioned with a flat-screen TV, safe, and private bathroom, positioning the property as a value-focused option in the Thamrin-Sudirman business corridor."
+    },
+    {
+      "question": "Is all seasons Jakarta Thamrin close to public transport?",
+      "answer": "Yes -- it sits a short walk from Sudirman Baru (BNI City) station, which serves the airport rail link and connects to Jakarta's MRT network, and it is roughly 1.2km from Grand Indonesia and 1.5km from Plaza Indonesia, making it convenient for both business travel and shopping trips."
+    },
+    {
+      "question": "Does all seasons Jakarta Thamrin have a rooftop restaurant?",
+      "answer": "Yes -- Skyloft Restaurant sits on the hotel's upper floor and serves an all-day menu plus a buffet breakfast with views over the surrounding Thamrin skyline, and it is one of the most consistently praised features in guest reviews of the property."
+    }
+  ],
+  "tags": ["thamrin", "sudirman", "central jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8307/index.en.shtml",
+      "label": "Official all seasons Jakarta Thamrin page on ALL - Accor",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.booking.com/hotel/id/all-seasons-jakarta-thamrin.html",
+      "label": "Booking.com guest reviews and ratings",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.mightytravels.com/2018/04/all-seasons-jakarta-thamrin-review/",
+      "label": "Mighty Travels hotel review",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8307/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-jakarta-mangga-dua-square", "novotel-jakarta-pulo-mas"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "All Seasons Jakarta Thamrin Review",
+        "source": "Mighty Travels",
+        "url": "https://www.mightytravels.com/2018/04/all-seasons-jakarta-thamrin-review/",
+        "published_date": "2018-04-05",
+        "summary": "Well-managed mid-range hotel with friendly, knowledgeable staff and functional rooms. Construction noise nearby is a drawback, but the rooftop terrace and good internet compensate for the price."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Stay: The Most Convenient Hotel in Jakarta? All Seasons Jakarta Thamrin Stay & Breakfast",
+        "channel": "WanderEats",
+        "url": "https://www.youtube.com/watch?v=g_4_MYssxL8",
+        "video_id": "g_4_MYssxL8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 79 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,105 @@
+{
+  "entity_id": "ibis-styles-jakarta-mangga-dua-square",
+  "slug": "ibis-styles-jakarta-mangga-dua-square",
+  "name": "ibis Styles Jakarta Mangga Dua Square",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 211-room economy hotel with vibrant pop-art murals in North Jakarta, a 5-minute walk from Mangga Dua Square mall and shared pool access next door at Novotel.",
+  "ai_summary": "ibis Styles Jakarta Mangga Dua Square is a 211-room economy hotel in North Jakarta, distinguished by its vibrant pop-art mural design and its position a short walk from Mangga Dua Square shopping mall and the wider Mangga Dua electronics district. Guests share pool access with the adjacent Novotel Jakarta Mangga Dua Square and can eat at the on-site sTREATs restaurant. Reviews consistently praise the affordable rates, clean rooms, and friendly staff for a three-star property, with Ancol and Jakarta Kota train station both a short ride away. A minority of reviews flag housekeeping lapses in corridors and rooms, which the hotel has responded to directly.",
+  "core_facts": {
+    "address": "Jl Gunung Sahari Raya No.1, 14420 Jakarta, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Mangga Dua, North Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "5-minute walk to Mangga Dua Square mall and the Mangga Dua electronics district",
+    "Shared access to an Olympic-size swimming pool at the adjacent Novotel",
+    "Distinctive, colorful pop-art mural design throughout the property",
+    "Strong value for money on a three-star budget",
+    "Friendly, attentive staff noted across guest reviews"
+  ],
+  "cons": [
+    "A minority of guests report housekeeping or pest issues in rooms and corridors",
+    "No swimming pool of its own -- pool access is via the neighboring Novotel"
+  ],
+  "research_highlights": [
+    "Guests consistently call out clean rooms, friendly service, and good value for a budget-tier hotel",
+    "The Mangga Dua Square location is repeatedly cited as convenient for shopping and North Jakarta business",
+    "The hotel has invested in sustainability, including an on-site filtered water system launched in 2024 to cut single-use plastic"
+  ],
+  "research_watchouts": [
+    "At least one guest review reported a pest issue in-room during a multi-night stay, which the property acknowledged and said it followed up on with housekeeping",
+    "The hotel's own pool is not confirmed -- pool access is shared with the adjacent Novotel Jakarta Mangga Dua Square, not a separate ibis Styles facility"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Does ibis Styles Jakarta Mangga Dua Square have a swimming pool?",
+      "answer": "Guests get access to an Olympic-size swimming pool located at the adjacent Novotel Jakarta Mangga Dua Square, since the two hotels share facilities on the same site. The ibis Styles property itself does not operate a separate standalone pool of its own."
+    },
+    {
+      "question": "How far is ibis Styles Jakarta Mangga Dua Square from the airport?",
+      "answer": "The hotel is roughly a 28 to 30 minute drive from Soekarno-Hatta International Airport, depending on Jakarta traffic. It's more centrally positioned for North Jakarta attractions, sitting about 5 minutes on foot from Mangga Dua Square and around 9 minutes from Ancol and JIExpo Kemayoran."
+    }
+  ],
+  "tags": ["mangga dua", "pop art design", "budget hotel", "north jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9103/index.en.shtml",
+      "label": "Official ibis Styles Jakarta Mangga Dua Square page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/north-jakarta-city-hotel-detail-1521059/ibis-styles-jakarta-mangga-dua/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://tourismforus.com/2024/08/21/ibis-styles-jakarta-mangga-dua-square-naikan-level-inisiatif-hijau-terbarunya/",
+      "label": "Tourism For Us -- hotel sustainability initiative coverage",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9103/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-jakarta-mangga-dua-square", "novotel-jakarta-pulo-mas"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "IBIS STYLE Mangga Dua Square Jakarta Hotel Review Indonesia",
+        "channel": "Hotel Review Indonesia",
+        "url": "https://www.youtube.com/watch?v=tHGJuFecBPc",
+        "video_id": "tHGJuFecBPc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 75 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

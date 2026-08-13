@@ -1,0 +1,93 @@
+{
+  "entity_id": "ibis-makassar-city-center",
+  "slug": "ibis-makassar-city-center",
+  "name": "ibis Makassar City Center",
+  "category_id": "accor-all",
+  "region_id": "makassar",
+  "short_description": "A 205-room economy hotel in Losari, about a 3-minute walk from Losari Beach, roughly 20 minutes from Hasanuddin International Airport.",
+  "ai_summary": "ibis Makassar City Center is a 205-room economy hotel in the Losari district at the heart of Makassar, roughly a 3-minute walk from Losari Beach and close to Fort Rotterdam and Trans Studio. Guests eat at the ibis Kitchen restaurant or the Lobby Lounge Bar, and the property runs 6 meeting rooms for business groups. Reviews describe friendly, welcoming staff, a tasty and varied breakfast, and an affordable, convenient location as consistent strengths. A recurring set of complaints covers unreliable WiFi that requires reception-issued login credentials, and a number of guests note the rooms and bathrooms are starting to show their age and could use refurbishment.",
+  "core_facts": {
+    "address": "Jl Maipa No 8, Makassar, South Sulawesi 90112, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Losari, Makassar",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "3-minute walk to Losari Beach, with Fort Rotterdam and Trans Studio both under 1 km away",
+    "Friendly, welcoming front-desk and service staff noted across reviews",
+    "Varied breakfast buffet with both Asian and Western options",
+    "Affordable rates for a central Makassar location",
+    "About 20 minutes from Hasanuddin International Airport and 10 minutes from Soekarno-Hatta Harbour"
+  ],
+  "cons": [
+    "WiFi connectivity is frequently reported as unreliable, requiring credentials from reception",
+    "Some rooms and bathrooms show wear and are described by guests as due for refurbishment"
+  ],
+  "research_highlights": [
+    "Guests repeatedly praise the walkable distance to Losari Beach and the friendliness of front-desk staff",
+    "Breakfast quality and variety draw consistent compliments",
+    "The hotel's central Losari location is highlighted as convenient for both business and leisure travelers"
+  ],
+  "research_watchouts": [
+    "Multiple recent reviews flag poor or inconsistent WiFi, requiring a login code from reception rather than automatic connection",
+    "A subset of guests describe a damp smell and aging bathroom fixtures, suggesting refurbishment is uneven across room stock",
+    "No independently confirmable dated blog review or YouTube video specific to this property was found -- external_coverage is left empty rather than guessed"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Makassar City Center from Losari Beach?",
+      "answer": "The hotel is roughly a 3-minute walk, about 100 to 200 meters, from Losari Beach, making it one of the most walkable options in Makassar for the waterfront promenade. Fort Rotterdam and the Trans Studio amusement park are both under a kilometer away as well."
+    },
+    {
+      "question": "Is the WiFi reliable at ibis Makassar City Center?",
+      "answer": "Guest reviews frequently mention inconsistent WiFi performance, and note that a login code from the reception desk is required rather than automatic connection. Travelers who need dependable internet for work should plan around this or confirm current connectivity directly with the hotel before booking."
+    }
+  ],
+  "tags": ["losari beach", "makassar city center", "budget hotel", "south sulawesi"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8355/index.en.shtml",
+      "label": "Official ibis Makassar City Center page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://sg.trip.com/hotels/makassar-hotel-detail-2224356/ibis-makassar-city-center/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8355/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-makassar-nexa-pettarani", "novotel-makassar-grand-shayla"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 72,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 62 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,114 @@
+{
+  "entity_id": "ibis-singapore-on-bencoolen",
+  "slug": "ibis-singapore-on-bencoolen",
+  "name": "ibis Singapore on Bencoolen",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 534-room budget ibis on Bencoolen Street, a 5-minute walk from Bugis MRT, with recently refurbished rooms and a 24-hour bar.",
+  "ai_summary": "ibis Singapore on Bencoolen is a 534-room economy hotel on Bencoolen Street in the Bugis arts and shopping district, a 5-minute walk from Bugis MRT interchange station. All rooms run a compact 18 square metres with the brand's signature Sweet Bed by ibis, and the hotel completed a full guest-room refurbishment in early 2025 adding smart TVs and USB-C charging. There's no pool, but guests can use the in-house gym, TASTE restaurant for its all-you-can-eat breakfast buffet, and Le Bar, open 24 hours. Reviews consistently praise the central Bugis location, friendly and attentive staff, and clean, well-kept rooms, while some note the rooms and bathrooms run small even by ibis standards.",
+  "core_facts": {
+    "address": "170 Bencoolen Street, Singapore 189657, Singapore",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Bugis / Bencoolen Street",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "5-minute walk to Bugis MRT interchange station, with a direct MRT link to Changi Airport",
+    "534 rooms refurbished in early 2025 with smart TVs, USB-C charging, and local artwork",
+    "TASTE restaurant serves an all-you-can-eat breakfast buffet; Le Bar is open 24 hours",
+    "Central Bugis arts, culture, and shopping district, within walking distance of Bugis Junction and Little India",
+    "Consistently strong guest ratings for staff friendliness and room cleanliness"
+  ],
+  "cons": [
+    "Rooms run a compact, uniform 18 square metres, small even by ibis budget standards",
+    "No on-site pool, and public areas are due for a further renovation phase into late 2026"
+  ],
+  "research_highlights": [
+    "The Bugis MRT-adjacent location is the single most consistent praise point across guest reviews",
+    "Accor's official page shows an ALL Rating of 4.4/5 from roughly 3,388 reviews",
+    "A February 2025 refurbishment refreshed all guest rooms with Singaporean artist Aw Bee Heyong's watercolour artwork, smart TVs, and USB-C charging"
+  ],
+  "research_watchouts": [
+    "Some listings reference a further property-wide renovation phase running from November 2025 into late 2026, likely covering public areas rather than guest rooms -- could not independently confirm scope or whether it affects operations",
+    "Room sizes (18 sqm) are small; guests planning long stays or traveling with more luggage should check room photos before booking"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Singapore on Bencoolen from Bugis MRT station?",
+      "answer": "The hotel is about a 5-minute walk from Bugis MRT interchange station, which connects the East-West and Downtown lines. From there, guests have a direct MRT link toward Changi Airport, and it's a short ride or walk to Orchard Road, Chinatown, and the Marina Bay area."
+    },
+    {
+      "question": "Does ibis Singapore on Bencoolen have a swimming pool?",
+      "answer": "No, the hotel does not have an on-site swimming pool. It does offer an in-house gym, a 24-hour bar called Le Bar, and TASTE restaurant, which serves an all-you-can-eat breakfast buffet with international and Asian dishes each morning from 6 to 10am."
+    }
+  ],
+  "tags": ["bugis", "bencoolen street", "ibis", "budget", "mrt access"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6657/index.en.shtml",
+      "label": "Accor ALL -- ibis Singapore on Bencoolen official page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.hospitalitynet.org/announcement/41012142/ibis-singapore-on-bencoolen-reveals-freshly-refurbished-rooms",
+      "label": "Hospitality Net -- refurbishment announcement",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.senyorita.net/2014/04/ibis-singapore-on-bencoolen-hotel-review/",
+      "label": "Senyorita.net guest review",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6657/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hotel-waterloo-singapore", "pullman-singapore-hill-street"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Hotel Review: ibis Singapore on Bencoolen",
+        "source": "Senyorita.net",
+        "url": "https://www.senyorita.net/2014/04/ibis-singapore-on-bencoolen-hotel-review/",
+        "published_date": "2014-04-09",
+        "summary": "A blogger surprised by the quality for a budget hotel, praising the lobby, an Executive Suite upgrade, extended breakfast hours, free WiFi, and the 5-minute walk to Bugis MRT."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Ibis Singapore on Bencoolen Hotel Room Tour | Standard 1 King Bed",
+        "channel": "Chubby Go Travel",
+        "url": "https://www.youtube.com/watch?v=0u0SGcFSGio",
+        "video_id": "0u0SGcFSGio"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 70 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

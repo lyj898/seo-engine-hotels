@@ -1,0 +1,120 @@
+{
+  "entity_id": "ibis-styles-singapore-on-macpherson",
+  "slug": "ibis-styles-singapore-on-macpherson",
+  "name": "ibis Styles Singapore on Macpherson",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 298-room hotel atop Macpherson Mall with a 25-metre freeform pool and tropical-resort facade, roughly 1km from Tai Seng/Mattar MRT.",
+  "ai_summary": "ibis Styles Singapore on Macpherson is a 298-room hotel at the corner of Macpherson and Aljunied Road, occupying levels 4 to 9 above Macpherson Mall in a mostly residential stretch of eastern Singapore. Opened in April 2016, it's built around a distinctive cruise-ship-style facade and a 25-metre freeform outdoor pool set in a landscaped, tropical-resort-style courtyard, with a gym overlooking both the pool and MacPherson Road. It sits roughly 1km (about a 15-minute walk) from Tai Seng/Mattar MRT, and the hotel runs a free shuttle to nearby MRT stations to bridge the gap. Guests consistently single out the pool and friendly, attentive staff as highlights, while reviews note the rooms and lifts can feel tight and the breakfast area gets crowded at peak times.",
+  "core_facts": {
+    "address": "401 Macpherson Road, corner of Macpherson and Aljunied Road, 368125 Singapore",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Aljunied / Macpherson",
+    "star_rating": 3,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "25-metre freeform outdoor pool in a landscaped courtyard, repeatedly named guests' favourite feature",
+    "298 rooms across five categories, including Triple and Family rooms with kitchenettes",
+    "Free shuttle bus to nearby MRT stations, bridging the ~1km walk to Tai Seng/Mattar MRT",
+    "Friendly, attentive staff -- some guests report a courtesy call after check-in",
+    "Connected to MacPherson Mall for on-site shops, dining, and self-service laundry"
+  ],
+  "cons": [
+    "About a 15-minute walk to the nearest MRT station without the shuttle, in a mostly residential area away from the main tourist belt",
+    "Some rooms and the lifts feel tight, and the breakfast area can get crowded at peak times"
+  ],
+  "research_highlights": [
+    "The 25-metre freeform pool and cruise-ship-inspired facade are the hotel's most consistently praised feature across guest reviews and blog coverage",
+    "Accor's official page shows an ALL Rating of 3.9/5 from 975 reviews",
+    "Opened April 2016 as a purpose-built ibis Styles property atop MacPherson Mall, with guest rooms on levels 4-9"
+  ],
+  "research_watchouts": [
+    "The hotel is roughly 1km from the nearest MRT station (Tai Seng/Mattar), noticeably farther than most central Singapore Accor properties -- worth flagging for guests prioritising walkable transit",
+    "A minority of reviews describe cramped rooms with limited natural light; room type and view should be checked at booking"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How do I get to ibis Styles Singapore on Macpherson from the MRT?",
+      "answer": "The hotel sits about 1km, roughly a 15-minute walk, from Tai Seng/Mattar MRT stations. To make up for the distance, the hotel runs a complimentary shuttle bus service to nearby MRT stations, which most guests use rather than walking, especially with luggage or in Singapore's heat and humidity."
+    },
+    {
+      "question": "Does ibis Styles Singapore on Macpherson have a pool?",
+      "answer": "Yes, it has a 25-metre freeform outdoor pool set in a landscaped, tropical-resort-style courtyard on level 4, widely regarded as the hotel's standout feature. There's also a gym overlooking the pool and MacPherson Road, and a poolside cafe and bar for guests to relax at afterward."
+    }
+  ],
+  "tags": ["macpherson", "aljunied", "ibis styles", "freeform pool", "mall hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9411/index.en.shtml",
+      "label": "Accor ALL -- ibis Styles Singapore On Macpherson official page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.hospitalitynet.org/news/4075538.html",
+      "label": "Hospitality Net -- hotel opening announcement",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d8623711-Reviews-Ibis_Styles_Singapore_On_Macpherson-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://rebeccasaw.com/ibis-styles-singapore-on-macpherson-review-video/",
+      "label": "Rebecca Saw guest review",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9411/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-singapore-on-bencoolen", "mercure-icon-singapore-city-centre"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "ibis Styles Singapore on MacPherson: Review & Video",
+        "source": "Rebecca Saw",
+        "url": "https://rebeccasaw.com/ibis-styles-singapore-on-macpherson-review-video/",
+        "published_date": "2016-05-17",
+        "summary": "A Singapore blogger praises the space-efficient room design, the 25m freeform pool with cabanas, and included breakfast, but notes no room service, no wardrobe, and no bathrobe or slippers."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ibis Styles On Macpherson | Singapore Room Tour | Singapore Travel",
+        "channel": "Don Maarko",
+        "url": "https://www.youtube.com/watch?v=c-_1gSyrSsA",
+        "video_id": "c-_1gSyrSsA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 66 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

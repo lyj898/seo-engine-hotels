@@ -1,0 +1,113 @@
+{
+  "entity_id": "grand-mercure-singapore-roxy",
+  "slug": "grand-mercure-singapore-roxy",
+  "name": "Grand Mercure Singapore Roxy",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 576-room hotel in Katong on Singapore's East Coast, about 1 minute from Marine Parade MRT and 15 minutes from Changi Airport, with an outdoor pool and four dining outlets.",
+  "ai_summary": "Grand Mercure Singapore Roxy sits in Roxy Square in the heart of Katong, a Peranakan heritage district on Singapore's East Coast, with Marine Parade MRT Station roughly a minute's walk away and Changi Airport about 15 minutes by car. The 576-room property offers an outdoor pool, a 24-hour fitness center, four dining outlets, and nine meeting rooms, and earned a Green Mark Gold sustainability award in 2024. Guests consistently praise the convenient MRT-adjacent location, spacious rooms, and easy access to Katong's shophouses and East Coast Park, while reviews and a blogger writeup note dated decor in places, an unremarkable in-house breakfast, and mixed value-for-money feedback on food and check-in speed.",
+  "core_facts": {
+    "address": "50 East Coast Road, Roxy Square, Singapore 428769",
+    "brand_sub_brand": "Grand Mercure",
+    "neighborhood": "Katong / Marine Parade, East Coast",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About 1 minute's walk from Marine Parade MRT Station on the Thomson-East Coast Line",
+    "576 rooms with an outdoor swimming pool, 24-hour fitness center, and four dining outlets",
+    "Roughly 15-minute drive to Changi Airport, with a free shuttle offered by the hotel",
+    "Walking distance to Katong's Peranakan shophouses, Parkway Parade mall, and East Coast Park",
+    "Earned a Green Mark Gold Award in 2024 for energy- and water-efficient upgrades"
+  ],
+  "cons": [
+    "Some public areas and rooms show their age, with a 2021 blog review noting dated decor and bulky in-room TVs",
+    "Breakfast and dining pricing draw mixed value feedback, with a blogger recommending guests eat elsewhere"
+  ],
+  "research_highlights": [
+    "The near-doorstep Marine Parade MRT access and East Coast Park proximity are the most consistently cited draws",
+    "Multiple travel bloggers frame it as a solid, affordable base for exploring Katong's Peranakan food scene",
+    "The 2024 Green Mark Gold Award reflects recent sustainability-focused upgrades to air-con, lighting, and water fittings"
+  ],
+  "research_watchouts": [
+    "A October 2021 blog review (The Shutterwhale) flagged dated corridor decor and a mediocre in-house breakfast",
+    "TripAdvisor reviews are mixed on service consistency, with some guests reporting slow check-in during busy periods"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Grand Mercure Singapore Roxy close to an MRT station?",
+      "answer": "Yes -- the hotel is about a 1-minute walk from Marine Parade MRT Station on the Thomson-East Coast Line, making it easy to reach the CBD, Marina Bay, and other parts of Singapore without relying on a taxi for most day trips into the city."
+    },
+    {
+      "question": "Does Grand Mercure Singapore Roxy have a pool and fitness facilities?",
+      "answer": "Yes -- the 576-room hotel has an outdoor swimming pool alongside a 24-hour fitness center, four dining outlets, and nine meeting rooms, making it suited to both leisure staycations and small business events in the Katong/East Coast area."
+    }
+  ],
+  "tags": ["katong", "east coast", "marine parade mrt"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/3610/index.en.shtml",
+      "label": "Official Grand Mercure Singapore Roxy page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d299850-Reviews-Grand_Mercure_Singapore_Roxy-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://theshutterwhale.com/blog/2021/10/16/hotel-review-grand-mercure-singapore-roxy-deluxe-ocean-view-room-foodie-staycation",
+      "label": "The Shutterwhale hotel review blog",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.grandmercureroxy.com.sg/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-icon-singapore-city-centre"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "source": "The Shutterwhale",
+        "title": "Hotel Review: Grand Mercure Singapore Roxy (Deluxe Ocean View Room) - An East Side Staycation for Foodies",
+        "url": "https://theshutterwhale.com/blog/2021/10/16/hotel-review-grand-mercure-singapore-roxy-deluxe-ocean-view-room-foodie-staycation",
+        "published_date": "2021-10-16",
+        "summary": "Found it a nice, affordable East Side staycation with decent rooms near good food, but noted dated corridor decor, a bulky TV, and skippable breakfast."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Grand Mercure Singapore Roxy Square Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=_EVEJ7dDHlY",
+        "video_id": "_EVEJ7dDHlY"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 72,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 70 },
+      { "label": "Rooms", "score": 73 },
+      { "label": "Food & breakfast", "score": 62 },
+      { "label": "Value", "score": 67 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

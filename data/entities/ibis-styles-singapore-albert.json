@@ -1,0 +1,114 @@
+{
+  "entity_id": "ibis-styles-singapore-albert",
+  "slug": "ibis-styles-singapore-albert",
+  "name": "ibis Styles Singapore Albert",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 172-room design-economy hotel on Albert Street, steps from Rochor MRT, with a rooftop pool and compact 14-16 sqm rooms.",
+  "ai_summary": "ibis Styles Singapore Albert is a 172-room design-economy hotel at 175 Albert Street, steps from Rochor MRT and within walking distance of Bugis, Little India, and Arab Street. Rooms run compact at 14-16 square metres with vibrant, locally-inspired interiors, and the hotel's rooftop pool is repeatedly singled out by guests as long enough for real laps and a genuine highlight rather than a token feature. Reviews consistently praise the central location and friendly, efficient front-desk service, while a recurring theme is that rooms and bathrooms feel tight for the rate, breakfast seating gets cramped at peak times, and some fixtures (TVs, shower curtains) show their age.",
+  "core_facts": {
+    "address": "175 Albert Street, 189970 Singapore, Singapore",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Rochor / Bugis",
+    "star_rating": 4,
+    "elite_benefits": [
+      "Welcome drink for ALL Silver members and above, per programme terms",
+      "Room upgrades for ALL Diamond and Platinum members, subject to availability",
+      "Early check-in and late check-out for ALL Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Steps from Rochor MRT, with easy access to Bugis, Orchard Road, and Little India",
+    "Rooftop pool that guests repeatedly call a genuine highlight, long enough for real swimming",
+    "172 individually furnished rooms with vibrant, locally-inspired design",
+    "Friendly, efficient front-desk and check-in service noted across reviews",
+    "Walking distance to Haji Lane, Arab Street, and Kuan Yin Thong Hood Cho Temple"
+  ],
+  "cons": [
+    "Rooms run compact at 14-16 sqm, tight even by ibis Styles standards, especially at full rate",
+    "Some guests report dated fixtures (smart TV/Wi-Fi glitches, thin shower curtains) and a spartan gym"
+  ],
+  "research_highlights": [
+    "The Rochor MRT-adjacent location is the most consistent praise point across guest reviews",
+    "Accor's official page shows an ALL Rating of 4.4/5 from 287 reviews, while TripAdvisor shows a lower aggregate (3/5) from around 1,208 reviews -- a notable spread worth flagging to readers",
+    "The rooftop pool is repeatedly called out as unusually good for a budget-tier hotel"
+  ],
+  "research_watchouts": [
+    "TripAdvisor's aggregate score (3/5) is meaningfully lower than Accor's own ALL Rating (4.4/5); both are reported here rather than picking one",
+    "A dated blog review (Aug 2023) flagged a malfunctioning smart TV, a leaking shower curtain, and a spartan gym with only three machines -- unclear if since addressed"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Styles Singapore Albert from Rochor MRT station?",
+      "answer": "The hotel is just steps from Rochor MRT station, giving guests direct access to Singapore's Downtown Line. From there, Bugis, Little India, and Orchard Road are all a few MRT stops or a short walk away, and the hotel itself sits within walking distance of Haji Lane and Arab Street."
+    },
+    {
+      "question": "Does ibis Styles Singapore Albert have a swimming pool?",
+      "answer": "Yes, the hotel has a rooftop swimming pool that guest reviews consistently call a highlight, noting it's long enough for actual laps rather than just a plunge pool. The property also has a small fitness room, though reviewers describe the gym equipment as fairly basic."
+    }
+  ],
+  "tags": ["rochor", "bugis", "ibis styles", "design economy", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6I1/index.en.shtml",
+      "label": "Accor ALL -- ibis Styles Singapore Albert official page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d2093622-Reviews-Ibis_Styles_Singapore_Albert-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.wahsoshiok.com/ibis-styles-singapore-albert-review/",
+      "label": "Wah So Shiok guest review",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6I1/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-singapore-on-bencoolen", "hotel-waterloo-singapore"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "ibis Styles Singapore Albert Review",
+        "source": "Wah So Shiok",
+        "url": "https://www.wahsoshiok.com/ibis-styles-singapore-albert-review/",
+        "published_date": "2023-08-13",
+        "summary": "A Singapore blogger calls the Superior room cozy but clean, praises the rooftop pool as genuinely swimmable, but flags a malfunctioning smart TV, a leaking shower curtain, and a spartan three-machine gym."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Ibis Styles Singapore Albert Review | Superior Room Tour | Happy Pinoy Traveler",
+        "channel": "Happy Pinoy Traveler",
+        "url": "https://www.youtube.com/watch?v=T7djBkCHaxI",
+        "video_id": "T7djBkCHaxI"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 72,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 58 },
+      { "label": "Food & breakfast", "score": 68 },
+      { "label": "Value", "score": 70 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

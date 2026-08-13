@@ -1,0 +1,109 @@
+{
+  "entity_id": "novotel-jakarta-mangga-dua-square",
+  "slug": "novotel-jakarta-mangga-dua-square",
+  "name": "Novotel Jakarta Mangga Dua Square",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 362-room Novotel built into North Jakarta's Mangga Dua Square mall, with an Olympic-size pool, spa, and 2-minute walk to the shopping and wholesale district.",
+  "ai_summary": "Novotel Jakarta Mangga Dua Square is a 362-room premium-midscale hotel directly connected to the Mangga Dua Square shopping complex in North Jakarta, a district known for wholesale shopping, JIExpo Kemayoran, and easy access to Ancol Dreamland and the Old Town. Facilities include an Olympic-size rooftop pool, a 24-hour fitness center, Annathaya Spa, and two restaurants -- Food Exchange and Gourmet Bar -- alongside 25 meeting rooms and 3 ballrooms geared toward MICE business. Guest feedback is consistently strong, with reviewers praising spacious, clean rooms, the pool, breakfast variety, and staff friendliness, while a minority of recent reviews flag inconsistent air-conditioning and note the hotel's age shows in some public areas.",
+  "core_facts": {
+    "address": "Jalan Gunung Sahari Raya No. 1, Jakarta 14420, Indonesia",
+    "brand_sub_brand": "Novotel",
+    "neighborhood": "Mangga Dua, North Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly connected to Mangga Dua Square, a major shopping and wholesale complex",
+    "362 rooms with an Olympic-size swimming pool and 24-hour fitness center",
+    "Two restaurants (Food Exchange and Gourmet Bar) with varied breakfast and dining options",
+    "Large MICE footprint -- 25 meeting rooms and 3 ballrooms for up to 1,000 delegates",
+    "Consistently praised for spacious, clean rooms and friendly staff"
+  ],
+  "cons": [
+    "Some recent reviews report inconsistent air-conditioning performance",
+    "North Jakarta location is a fair drive (around 25-30 minutes) from the Sudirman-Thamrin business core"
+  ],
+  "research_highlights": [
+    "The connection to Mangga Dua Square shopping complex is the single most-cited convenience across reviews",
+    "The Olympic-size pool and breakfast spread are repeatedly singled out as standout amenities",
+    "Staff friendliness and cleanliness of rooms draw consistently high marks from recent guests"
+  ],
+  "research_watchouts": [
+    "A November 2025 review flagged weak in-room air-conditioning; most other recent reviews (2026) were positive",
+    "The hotel's spa is branded Annathaya Spa on its current official page, though it was previously marketed as Alaya Spa in older coverage -- treat the older name as historical"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Novotel Jakarta Mangga Dua Square connected to a shopping mall?",
+      "answer": "Yes -- the hotel is built directly into the Mangga Dua Square complex, one of Jakarta's largest wholesale and retail shopping centers, so guests can walk straight from the lobby into the mall without needing transport, making it convenient for shopping-focused stays or business trips nearby."
+    },
+    {
+      "question": "How many rooms does Novotel Jakarta Mangga Dua Square have?",
+      "answer": "The hotel has 362 rooms and suites, ranging from Superior rooms to Executive rooms with lounge access. It also has an Olympic-size swimming pool, a 24-hour fitness center, and Annathaya Spa, plus meeting space that includes 3 ballrooms and 25 meeting rooms for events."
+    },
+    {
+      "question": "How far is Novotel Jakarta Mangga Dua Square from Soekarno-Hatta Airport?",
+      "answer": "It's roughly a 28-minute drive from Soekarno-Hatta International Airport under normal traffic, though Jakarta's congestion can extend that considerably at peak hours. The hotel sits in North Jakarta near JIExpo Kemayoran and Ancol Dreamland, rather than close to the airport itself."
+    }
+  ],
+  "tags": ["mangga dua", "shopping mall hotel", "north jakarta", "mice"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/5704/index.en.shtml",
+      "label": "Official Novotel Jakarta Mangga Dua Square page (ALL)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d578291-Reviews-Novotel_Jakarta_Mangga_Dua_Square-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://savourblackbookasia.com/novotel-mangga-dua-jakarta/",
+      "label": "Savour BlackBookAsia hotel review",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/5704/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-jakarta-pulo-mas", "novotel-jakarta-gajah-mada"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Novotel Jakarta Mangga Dua Square | 365 Nights in Accor Hotels (Night 62)",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=Ws131OKBc1M",
+        "video_id": "Ws131OKBc1M"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

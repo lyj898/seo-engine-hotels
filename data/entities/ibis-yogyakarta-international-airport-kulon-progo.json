@@ -1,0 +1,99 @@
+{
+  "entity_id": "ibis-yogyakarta-international-airport-kulon-progo",
+  "slug": "ibis-yogyakarta-international-airport-kulon-progo",
+  "name": "ibis Yogyakarta International Airport Kulon Progo",
+  "category_id": "accor-all",
+  "region_id": "yogyakarta",
+  "short_description": "A 224-room economy hotel five minutes from Yogyakarta International Airport, sharing a Kulon Progo site with its sister Novotel and overlooking Menoreh Hill.",
+  "ai_summary": "ibis Yogyakarta International Airport Kulon Progo opened in November 2023 as Accor's first hotel in Kulon Progo, a five-minute drive from Yogyakarta International Airport (YIA) and its train station. The 224-room economy property runs on ibis's Sweet Bed and ibis Kitchen all-day dining formula, with meeting rooms, a web corner, and views toward Glagah Beach and Menoreh Hill. Guests consistently call out the airport-adjacent convenience, free shuttle, comfortable beds, and helpful staff, while some note the hotel itself has no pool -- guests can buy day access to the pool at the neighboring sister Novotel -- and that breakfast variety and in-room tech (coffee machines, TVs) can be inconsistent.",
+  "core_facts": {
+    "address": "Jl. Wates-Purworejo Km. 10 No. 95, Temon, Kulon Progo, Yogyakarta 55654, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Temon, Kulon Progo, near Yogyakarta International Airport (YIA)",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Five-minute drive from Yogyakarta International Airport (YIA) and its train station",
+    "224 rooms fitted with Sweet Bed by ibis for a consistent, comfortable sleep",
+    "Free airport shuttle service noted repeatedly by guests",
+    "ibis Kitchen all-day dining with a 194-seat restaurant",
+    "Overlooks Glagah Beach and Menoreh Hill scenery, near Kalibiru and Waduk Sermo"
+  ],
+  "cons": [
+    "No swimming pool on-site -- guests can buy day access to the neighboring sister Novotel's pool",
+    "Some guests report inconsistent breakfast variety and occasional in-room tech issues (coffee machine, TV)"
+  ],
+  "research_highlights": [
+    "Airport proximity and the free shuttle are the most consistently praised feature across review platforms",
+    "Guests frequently mention clean, modern rooms with comfortable beds and rain showers",
+    "Staff friendliness and an easy check-in process come up repeatedly in reviews"
+  ],
+  "research_watchouts": [
+    "The hotel has no pool of its own; guests wanting to swim must pay for access at the adjoining Novotel",
+    "A minority of reviews flag breakfast variety and minor equipment issues (coffee machine, TV)"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Yogyakarta International Airport Kulon Progo from the airport?",
+      "answer": "The hotel sits about a five-minute drive from Yogyakarta International Airport (YIA) and its adjoining train station, in Temon, Kulon Progo. Guests frequently mention a free shuttle service to and from the airport, making it a practical choice for early flights, late arrivals, or short layovers near the terminal."
+    },
+    {
+      "question": "Does ibis Yogyakarta International Airport Kulon Progo have a swimming pool?",
+      "answer": "No, the ibis property itself does not have its own pool. It shares its site with the adjoining Novotel Yogyakarta International Airport Kulon Progo, and guests staying at the ibis can typically purchase day access to swim at the Novotel's outdoor pool next door."
+    },
+    {
+      "question": "How many rooms does ibis Yogyakarta International Airport Kulon Progo have?",
+      "answer": "The hotel has 224 rooms, each furnished with the Sweet Bed by ibis and standard air-conditioned amenities including a desk, fridge, safety deposit box, TV, and private bathroom with a rain shower. It opened in November 2023 as Accor's first hotel in Kulon Progo."
+    }
+  ],
+  "tags": ["airport hotel", "kulon progo", "economy", "yia"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B5Z8/index.en.shtml",
+      "label": "Official ibis Yogyakarta International Airport Kulon Progo page (Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://press.accor.com/middle-east-africa-turkey-asia-pacific/grand-opening-of-ibis-yogyakarta-international-airport-kulon-progo-and-novotel-yogyakarta-international-airport-kulon-progo/?lang=en",
+      "label": "Accor Newsroom: grand opening announcement",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294230-d34101851-Reviews-IBIS_Yogyakarta_International_Airport-Yogyakarta_Region_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B5Z8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-yogyakarta-international-airport-kulon-progo", "grand-mercure-yogyakarta-adi-sucipto"],
+  "external_coverage": { "reviews": [], "videos": [] },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 68 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
