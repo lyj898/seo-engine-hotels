@@ -1,0 +1,95 @@
+{
+  "entity_id": "ibis-budget-singapore-joo-chiat",
+  "slug": "ibis-budget-singapore-joo-chiat",
+  "name": "ibis budget Singapore Joo Chiat",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 90-room, 2-star budget hotel on Joo Chiat Road in the Peranakan heritage district, near Marine Parade MRT.",
+  "ai_summary": "ibis budget Singapore Joo Chiat sits at 219 Joo Chiat Road in Singapore's Peranakan heritage district, within walking distance of Marine Parade MRT and surrounded by preserved shophouses, cafes, and local eateries. The five-storey, 90-room property was formerly branded The Fragrance Hotel - Joo Chiat before its rebrand to ibis budget under Accor. TripAdvisor shows a 3.5/5 rating from 413 reviews (ranked around #155 of 373 Singapore hotels), with guests repeatedly praising cleanliness and value while noting small rooms and thin walls between them. Multiple independently confirmed YouTube creators have posted room tours of the property. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme.",
+  "core_facts": {
+    "address": "219 Joo Chiat Road, 427485 Singapore, Singapore",
+    "coordinates": { "lat": 1.311505, "lng": 103.901062 },
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Joo Chiat / Katong",
+    "elite_benefits": [],
+    "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
+  },
+  "pros": [
+    "90 rooms within walking distance of Marine Parade MRT, in the heritage Joo Chiat/Katong district",
+    "Surrounded by preserved Peranakan shophouses, cafes, and local eateries including Vietnamese restaurants",
+    "TripAdvisor rating of 3.5/5 from 413 reviews, with guests frequently citing cleanliness and value",
+    "Free WiFi, 24-hour front desk, and baggage storage",
+    "Multiple independently confirmed YouTube room tours exist for the property"
+  ],
+  "cons": [
+    "Compact rooms (10-17 sqm), typical of the ibis budget economy tier",
+    "Some guests report noise carrying between rooms",
+    "No breakfast included on-site",
+    "Does not participate in the ALL - Accor Live Limitless loyalty programme; minimum check-in age of 18"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms the Joo Chiat Road address, GPS coordinates, and non-participation in the ALL loyalty programme",
+    "TripAdvisor shows a 3.5/5 rating from 413 reviews (ranked roughly #155 of 373 Singapore hotels), with repeated guest praise for cleanliness and easy access to Changi Airport and cheap eateries",
+    "The property was formerly branded The Fragrance Hotel - Joo Chiat before its rebrand to ibis budget under Accor",
+    "A February 2025 YouTube room tour from creator Jer2Travel, independently confirmed via YouTube oEmbed, covers the room, nearby shops, and airport transit"
+  ],
+  "research_watchouts": [
+    "The hotel does not participate in ALL - Accor Live Limitless, so no elite benefits apply despite the Accor/ibis branding",
+    "No dated, independently bylined written review with a confirmed publish date could be found to add to external_coverage.reviews -- left empty rather than filled with an unconfirmed match",
+    "A minority of TripAdvisor reviews mention noise between rooms, contrasting with the generally positive cleanliness/value consensus"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis budget Singapore Joo Chiat part of the ALL loyalty programme?",
+      "answer": "No -- despite the ibis budget/Accor branding, this hotel's own Accor listing confirms it does not participate in the ALL - Accor Live Limitless loyalty programme, so members cannot earn or redeem points or elite benefits here, though ALL member rates may still apply."
+    },
+    {
+      "question": "What neighborhood is ibis budget Singapore Joo Chiat in?",
+      "answer": "It's on Joo Chiat Road in Singapore's Peranakan heritage district, within walking distance of Marine Parade MRT and surrounded by preserved shophouses, cafes, and local eateries -- a distinctive, culturally rich alternative to staying in the Geylang cluster of sister ibis budget properties."
+    }
+  ],
+  "tags": ["joo chiat", "budget hotel", "peranakan"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6J5/index.en.shtml",
+      "label": "Official ibis budget Singapore Joo Chiat page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d506320-Reviews-Ibis_budget_Singapore_Joo_Chiat-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6J5/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-singapore-on-macpherson"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Ibis Budget Joo Chiat Singapore: Room Tour, Nearby Shops & How to Reach from Airport!",
+        "channel": "Jer2Travel",
+        "url": "https://www.youtube.com/watch?v=sgDfCxir2ZI",
+        "video_id": "sgDfCxir2ZI"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 70,
+    "breakdown": []
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

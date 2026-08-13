@@ -1,0 +1,101 @@
+{
+  "entity_id": "ibis-budget-singapore-ruby",
+  "slug": "ibis-budget-singapore-ruby",
+  "name": "ibis budget Singapore Ruby",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 168-room 2-star budget hotel in Geylang, about a 10-minute walk from Aljunied MRT, formerly Fragrance Hotel - Ruby.",
+  "ai_summary": "ibis budget Singapore Ruby sits in Eastern Geylang at 10 Lorong 20 Geylang, about a 10-minute walk from Aljunied MRT Station and roughly a 4-minute drive from the Bugis shopping district. The 168-room economy hotel -- rebranded from the former Fragrance Hotel - Ruby -- offers compact 11-12 sqm rooms with free WiFi, air-conditioning and free on-site parking, in a neighborhood known for round-the-clock local food. Its own Accor listing shows a 4.3/5 guest rating from 67 reviews, and an independent blog trip report from January 2026 calls it reliable, clean, budget accommodation, while flagging Geylang's red-light-district reputation and limited workspace as things to know before booking. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme.",
+  "core_facts": {
+    "address": "10 Lorong 20 Geylang, 398730 Singapore, Singapore",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Geylang",
+    "elite_benefits": [],
+    "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
+  },
+  "pros": [
+    "168 rooms about a 10-minute walk from Aljunied MRT Station",
+    "Roughly a 4-minute drive from the Bugis Street shopping district and about 6 minutes from Marina Bay Sands",
+    "4.3/5 guest rating from 67 reviews on its own Accor listing",
+    "Free WiFi and free on-site parking",
+    "Surrounded by Geylang's round-the-clock local food scene"
+  ],
+  "cons": [
+    "Compact rooms (11-12 sqm), typical of the ibis budget economy tier",
+    "Located in Geylang, known locally for its red-light-district reputation, which won't suit every traveler",
+    "Limited desk/workspace, noted by an independent reviewer as unsuitable for extended work stays",
+    "Does not participate in the ALL - Accor Live Limitless loyalty programme"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms 168 rooms, a 4.3/5 guest rating from 67 reviews, and non-participation in the ALL loyalty programme",
+    "Economy Class and Beyond's January 2026 trip report (author Kevincm) describes small, clean, basic rooms and calls the ibis budget brand predictable value for money",
+    "The property was formerly branded Fragrance Hotel - Ruby before its rebrand to ibis budget under Accor"
+  ],
+  "research_watchouts": [
+    "The hotel does not participate in ALL - Accor Live Limitless, so no elite benefits apply despite the Accor/ibis branding",
+    "Geylang's nightlife/red-light-district reputation is called out directly by an independent reviewer and worth flagging for some travelers",
+    "No genuine YouTube video specific to this exact property (distinct from its sister ibis budget Crystal a few blocks away) could be confirmed"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis budget Singapore Ruby part of the ALL loyalty programme?",
+      "answer": "No -- despite carrying the ibis budget/Accor brand, this hotel's own Accor listing confirms it does not participate in the ALL - Accor Live Limitless loyalty programme, so members cannot earn or redeem points or elite benefits here, though ALL member rates may still apply."
+    },
+    {
+      "question": "How far is ibis budget Singapore Ruby from Aljunied MRT?",
+      "answer": "It's about a 10-minute walk from Aljunied MRT Station in Geylang, with the Bugis shopping district roughly a 4-minute drive away and Marina Bay Sands about 6 minutes by car, making it a workable budget base for exploring central Singapore."
+    }
+  ],
+  "tags": ["geylang", "budget hotel", "aljunied"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6H5/index.en.shtml",
+      "label": "Official ibis budget Singapore Ruby page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d568052-Reviews-Ibis_Budget_Singapore_Ruby-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://economyclassandbeyond.boardingarea.com/2026/01/15/trip-report-into-singapore-and-the-ibis-budget-ruby-growing-old-in-style/",
+      "label": "Economy Class and Beyond trip report",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6H5/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-budget-singapore-crystal", "ibis-singapore-novena"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Trip Report: Into Singapore and the Ibis Budget Ruby - Growing Old in Style",
+        "source": "Economy Class and Beyond",
+        "author": "Kevincm",
+        "url": "https://economyclassandbeyond.boardingarea.com/2026/01/15/trip-report-into-singapore-and-the-ibis-budget-ruby-growing-old-in-style/",
+        "published_date": "2026-01-15",
+        "summary": "A £54 stay in Geylang praised as small but clean, reliably budget accommodation near Aljunied MRT and Old Airport Road Food Centre, best used as a crash pad rather than a full Singapore base."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": []
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

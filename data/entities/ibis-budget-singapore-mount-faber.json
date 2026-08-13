@@ -1,0 +1,90 @@
+{
+  "entity_id": "ibis-budget-singapore-mount-faber",
+  "slug": "ibis-budget-singapore-mount-faber",
+  "name": "ibis budget Singapore Mount Faber",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 2-star budget hotel at the foot of Mount Faber, about a 10-minute walk from HarbourFront MRT and VivoCity, with an outdoor pool.",
+  "ai_summary": "ibis budget Singapore Mount Faber sits at 400 Telok Blangah Road, at the base of Mount Faber, about a 10-minute walk from HarbourFront MRT Station and VivoCity mall -- Singapore's largest shopping centre and the gateway to Sentosa Island, roughly a 10-minute taxi ride away. Formerly branded Fragrance Hotel - Royal, the economy hotel offers five room types (12-15 sqm), an outdoor pool, and 24-hour front desk service. Its own Accor listing shows a strong 4.5/5 guest rating from 214 reviews, with sub-scores of 9.2/10 for location and 9.4/10 for service, though rooms score notably lower at 5.6/10. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme.",
+  "core_facts": {
+    "address": "400 Telok Blangah Road, 098838 Singapore, Singapore",
+    "coordinates": { "lat": 1.269582, "lng": 103.813785 },
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Mount Faber / Telok Blangah",
+    "elite_benefits": [],
+    "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
+  },
+  "pros": [
+    "About a 10-minute walk from HarbourFront MRT Station and VivoCity mall",
+    "Roughly a 10-minute taxi ride to Sentosa Island and Universal Studios Singapore",
+    "4.5/5 guest rating from 214 reviews on its own Accor listing, with location scoring 9.2/10 and service 9.4/10",
+    "Outdoor pool, a less common amenity for the ibis budget tier",
+    "Close to the Singapore Cruise Centre, about a 5-minute drive away"
+  ],
+  "cons": [
+    "Rooms score notably lower (5.6/10) than location and service in the hotel's own Accor ratings breakdown",
+    "Compact rooms (12-15 sqm), typical of the ibis budget economy tier",
+    "Does not participate in the ALL - Accor Live Limitless loyalty programme"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms the Mount Faber/Telok Blangah location, GPS coordinates, a 4.5/5 guest rating from 214 reviews, and non-participation in the ALL loyalty programme",
+    "Accor's own sub-score breakdown shows a wide spread: location 9.2/10 and service 9.4/10 versus rooms at just 5.6/10, a useful nuance beyond the single headline rating",
+    "The property was formerly branded Fragrance Hotel - Royal before its rebrand to ibis budget under Accor"
+  ],
+  "research_watchouts": [
+    "The hotel does not participate in ALL - Accor Live Limitless, so no elite benefits apply despite the Accor/ibis branding",
+    "No dated, independently bylined written review or confirmed YouTube video specific to this exact property could be found -- external_coverage is left empty rather than filled with an unconfirmed match",
+    "Some third-party booking aggregators (Booking.com, Agoda) still list this property under its former name, Fragrance Hotel - Royal, which can cause confusion when cross-checking"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis budget Singapore Mount Faber part of the ALL loyalty programme?",
+      "answer": "No -- despite the ibis budget/Accor branding, this hotel's own Accor listing confirms it does not participate in the ALL - Accor Live Limitless loyalty programme, so members cannot earn or redeem points or elite benefits here, though ALL member rates may still apply."
+    },
+    {
+      "question": "How far is ibis budget Singapore Mount Faber from Sentosa Island?",
+      "answer": "It's about a 10-minute taxi ride to Sentosa Island and Universal Studios Singapore, and roughly a 10-minute walk to HarbourFront MRT Station and VivoCity mall, which both connect directly to Sentosa's cable car and boardwalk access points."
+    }
+  ],
+  "tags": ["mount faber", "budget hotel", "harbourfront"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6H9/index.en.shtml",
+      "label": "Official ibis budget Singapore Mount Faber page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d1535340-Reviews-Ibis_budget_Singapore_Mount_Faber-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6H9/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-budget-singapore-west-coast"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 90,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 94 },
+      { "label": "Rooms", "score": 56 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

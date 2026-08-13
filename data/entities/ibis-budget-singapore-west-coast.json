@@ -1,0 +1,86 @@
+{
+  "entity_id": "ibis-budget-singapore-west-coast",
+  "slug": "ibis-budget-singapore-west-coast",
+  "name": "ibis budget Singapore West Coast",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 2-star budget hotel on Pasir Panjang Road near West Coast Park, about a 5-minute drive from NUS and 15 minutes from VivoCity.",
+  "ai_summary": "ibis budget Singapore West Coast sits at 418 Pasir Panjang Road, at the far end near Clementi Road, roughly a 5-minute drive from the National University of Singapore and Dover MRT Station and about 15 minutes from VivoCity and Sentosa Island. Formerly branded Fragrance Hotel - Waterfront, the property leans into its greener setting next to West Coast Park, home to the Marsh Gardens, a small lake, and an Adventure Playground. Its own Accor listing shows a 4.2/5 guest rating from 106 reviews, while TripAdvisor shows a more mixed 3/5 from about 98 reviews, with guests calling rooms small but clean and the location convenient for NUS and buses, though limited on nightlife or dining options nearby. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme.",
+  "core_facts": {
+    "address": "418 Pasir Panjang Road, 118759 Singapore, Singapore",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "West Coast / Pasir Panjang",
+    "elite_benefits": [],
+    "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
+  },
+  "pros": [
+    "About a 5-minute drive from the National University of Singapore and Dover MRT Station",
+    "Next to West Coast Park, with its Marsh Gardens, small lake, and Adventure Playground",
+    "4.2/5 guest rating from 106 reviews on its own Accor listing",
+    "Bus stop directly in front of the hotel and Kent Ridge Bus Terminal about 200 metres away",
+    "Free WiFi and free on-site parking"
+  ],
+  "cons": [
+    "TripAdvisor reviews are more mixed, at 3/5 from around 98 reviews, versus the property's own 4.2/5 Accor rating",
+    "Compact rooms (12-13 sqm), typical of the ibis budget economy tier, described by guests as too small to entertain visitors",
+    "About a 15-minute drive from VivoCity and Sentosa, further from central Singapore than some sister ibis budget properties",
+    "Does not participate in the ALL - Accor Live Limitless loyalty programme; no meals included on-site"
+  ],
+  "research_highlights": [
+    "Accor's own hotel page confirms the West Coast Park-adjacent setting, a 4.2/5 guest rating from 106 reviews, and non-participation in the ALL loyalty programme",
+    "TripAdvisor search results show the property (ranked roughly #241 of 395 Singapore hotels) with about 98 reviews and a 3/5 rating, with guests describing it as clean and well-served by bus/Grab access to NUS and Kent Ridge",
+    "The property was formerly branded Fragrance Hotel - Waterfront before its rebrand to ibis budget under Accor"
+  ],
+  "research_watchouts": [
+    "The hotel does not participate in ALL - Accor Live Limitless, so no elite benefits apply despite the Accor/ibis branding",
+    "No dated, independently bylined written review or confirmed YouTube video specific to this exact property could be found -- external_coverage is left empty rather than filled with an unconfirmed match",
+    "Accor's own 4.2/5 rating and TripAdvisor's 3/5 rating diverge noticeably, worth noting as inconsistent across platforms rather than universally strong"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis budget Singapore West Coast part of the ALL loyalty programme?",
+      "answer": "No -- despite the ibis budget/Accor branding, this hotel's own Accor listing confirms it does not participate in the ALL - Accor Live Limitless loyalty programme, so members cannot earn or redeem points or elite benefits here, though ALL member rates may still apply."
+    },
+    {
+      "question": "How close is ibis budget Singapore West Coast to NUS?",
+      "answer": "It's about a 5-minute drive (roughly 1 km, or a 10-minute walk) from the National University of Singapore, with a bus stop directly outside the hotel and Kent Ridge Bus Terminal about 200 metres away, making it a practical budget base for visitors to the campus area."
+    }
+  ],
+  "tags": ["west coast", "budget hotel", "pasir panjang"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6I3/index.en.shtml",
+      "label": "Official ibis budget Singapore West Coast page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d1089215-Reviews-Ibis_budget_Singapore_West_Coast-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6I3/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-budget-singapore-mount-faber"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": []
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

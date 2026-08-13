@@ -1,0 +1,98 @@
+{
+  "entity_id": "ibis-budget-singapore-imperial",
+  "slug": "ibis-budget-singapore-imperial",
+  "name": "ibis budget Singapore Imperial",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 2-star budget hotel on Penhas Road near Lavender, about a 5-minute walk from Lavender MRT, with a rooftop pool and around 74 compact rooms.",
+  "ai_summary": "ibis budget Singapore Imperial sits on Penhas Road in the Lavender/Kallang area -- formerly branded Fragrance Hotel Imperial -- about a 5-minute walk from Lavender MRT Station and within walking distance of Kampong Glam and Haji Lane. The property has around 74 economy rooms with flat-screen TVs, air conditioning, and mini fridges, plus a rooftop swimming pool and on-site dining including Sen Restaurant and a coffee shop. Guest reviews are largely positive on cleanliness, staff friendliness, and the convenient location near an MRT station, supermarkets, and 24-hour convenience stores, with recurring complaints about small room sizes, thin walls/soundproofing, and firm mattresses. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme's points or elite-tier benefits, though ALL members can still book member rates.",
+  "core_facts": {
+    "address": "28 Penhas Road, Singapore 208187, Singapore",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Lavender / Kallang",
+    "star_rating": 2,
+    "rooms": 74,
+    "elite_benefits": [
+      "ALL - Accor Live Limitless members can book member-exclusive rates",
+      "This property does not participate in ALL points earning, redemption, or elite-tier benefits, per its official ALL listing"
+    ]
+  },
+  "pros": [
+    "About a 5-minute walk to Lavender MRT Station, with Orchard Road roughly a 15-minute train ride away",
+    "Rooftop swimming pool, a rarity at this budget price point",
+    "Sen Restaurant and a casual coffee shop/cafe on site",
+    "Walking distance to Kampong Glam, Haji Lane, and Suntec City/Marina Square about 10 minutes by car",
+    "Consistently praised for cleanliness, friendly staff, and 24-hour reception"
+  ],
+  "cons": [
+    "Rooms run small, and guest reviews repeatedly flag thin walls with noise carrying between rooms",
+    "Some guests describe the mattresses as very firm, and does not participate in ALL loyalty points earning or elite-tier benefits"
+  ],
+  "research_highlights": [
+    "Accor's official ALL page shows a 4.5/5 ALL Rating from 197 reviews, with strong Location (9.7/10) and Service (9.3/10) scores against a much lower Room-size score (5.1/10)",
+    "The property was formerly branded Fragrance Hotel - Imperial before being rebranded into the ibis budget portfolio",
+    "The hotel is explicitly listed as not participating in the ALL - Accor Live Limitless loyalty programme for points earning or redemption, though member rates remain bookable"
+  ],
+  "research_watchouts": [
+    "Published room counts vary slightly by source (71 vs. 74); 74 is the more commonly cited figure across booking aggregators",
+    "No independently dated blog or press review with fetchable, confirmable content could be found -- external written coverage is limited to aggregator/guest-review platforms, so the reviews array is left empty rather than sourced from an unverifiable snippet",
+    "No confirmed YouTube video specifically about this property could be found; the videos array is left empty rather than guessed"
+  ],
+  "research_confidence": "low",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis budget Singapore Imperial from Lavender MRT station?",
+      "answer": "The hotel is about a 5-minute walk from Lavender MRT Station. From there, it's roughly a 10-minute drive to Suntec City and Marina Square, and about a 15-minute train ride to Orchard Road."
+    },
+    {
+      "question": "Does ibis budget Singapore Imperial have a pool?",
+      "answer": "Yes -- it has a rooftop swimming pool, which is an unusual amenity at this budget price tier. The hotel also has Sen Restaurant and a casual coffee shop/cafe on site."
+    },
+    {
+      "question": "Can ALL - Accor Live Limitless members earn points at ibis budget Singapore Imperial?",
+      "answer": "No -- per the hotel's official ALL listing, this property does not participate in ALL points earning, redemption, or elite-tier benefits like room upgrades or lounge access. ALL members can still book member-exclusive rates when reserving directly through the ALL - Accor Live Limitless website or app."
+    }
+  ],
+  "tags": ["lavender", "penhas road", "budget", "rooftop pool"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6J7/index.en.shtml",
+      "label": "ibis budget Singapore Imperial official page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d1015609-Reviews-Ibis_budget_Singapore_Imperial-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6J7/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-singapore-tyrwhitt", "ibis-singapore-on-bencoolen"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 68,
+    "breakdown": [
+      { "label": "Location", "score": 97 },
+      { "label": "Service", "score": 93 },
+      { "label": "Rooms", "score": 51 },
+      { "label": "Food & breakfast", "score": 69 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 38,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

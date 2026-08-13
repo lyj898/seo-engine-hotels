@@ -1,0 +1,117 @@
+{
+  "entity_id": "ibis-budget-singapore-bugis",
+  "slug": "ibis-budget-singapore-bugis",
+  "name": "ibis budget Singapore Bugis",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "An 84-room 2-star budget hotel on Middle Road, about a 10-minute walk from Bugis MRT, in the Bras Basah-Bugis arts precinct.",
+  "ai_summary": "ibis budget Singapore Bugis sits at 33 Middle Road in the Bras Basah-Bugis arts and heritage precinct, about a 10-minute walk from Bugis MRT Station and roughly 15 minutes on foot from Parco Bugis Junction. The 84-room economy property -- formerly branded Fragrance Hotel Bugis -- offers compact standard rooms (as small as 129 square feet) with coffee/tea facilities, a flat-screen TV, and paperless check-in, but has no pool, gym, breakfast service, or on-site restaurant. Guest reviews are mixed: many praise the location and helpful, friendly staff, while a vocal set of reviews describe issues with room upkeep and noise insulation. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme's points or elite-tier benefits, though ALL members can still book member rates.",
+  "core_facts": {
+    "address": "33 Middle Road, Singapore 188942, Singapore",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Bras Basah-Bugis",
+    "star_rating": 2,
+    "rooms": 84,
+    "elite_benefits": [
+      "ALL - Accor Live Limitless members can book member-exclusive rates",
+      "This property does not participate in ALL points earning, redemption, or elite-tier benefits, per its official ALL listing"
+    ]
+  },
+  "pros": [
+    "About a 10-minute walk to Bugis MRT Station, in the Bras Basah-Bugis arts and heritage precinct",
+    "15-minute walk to Parco Bugis Junction, Bugis Street, and Suntec City/Marina Square",
+    "Paperless check-in and complimentary coffee/tea making facilities in-room",
+    "Bus stop directly at the hotel's doorstep",
+    "Consistently strong location and service scores in Accor's own guest-rating data"
+  ],
+  "cons": [
+    "No pool, gym, breakfast service, or on-site restaurant/bar",
+    "Rooms run very small (as little as 129 sq ft), and a portion of reviews flag noise insulation and room-upkeep issues"
+  ],
+  "research_highlights": [
+    "Accor's official ALL page shows a 4.7/5 ALL Rating from 495 reviews, with very strong Location (9.7-9.9/10) and Service (9.5-9.8/10) scores against much weaker room-size scores (4.1-6.2/10)",
+    "A January 2023 photo blog review confirmed a compact standard twin room with a Sharp TV, work desk, and paperless check-in, plus a short walk to Bugis Junction and two MRT stops from Marina Bay Sands",
+    "The hotel is explicitly listed as not participating in the ALL - Accor Live Limitless loyalty programme for points earning or redemption, though member rates remain bookable"
+  ],
+  "research_watchouts": [
+    "No pool, gym, or on-site dining is listed on the official page, unlike some other ibis budget Singapore properties -- this is a more stripped-down economy format",
+    "TripAdvisor includes some sharply negative user reviews (e.g. titled 'Worst Hotel Ever') alongside many positive ones, so guest experience appears more variable than the strong aggregate ALL Rating alone suggests"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis budget Singapore Bugis from Bugis MRT station?",
+      "answer": "It's about a 10-minute walk to Bugis MRT Station, and roughly 15 minutes on foot to Parco Bugis Junction, Bugis Street, and Suntec City/Marina Square. A bus stop sits directly outside the hotel."
+    },
+    {
+      "question": "Does ibis budget Singapore Bugis have a pool or breakfast?",
+      "answer": "No -- unlike some other ibis budget properties in Singapore, this hotel does not have a pool, gym, breakfast service, or on-site restaurant/bar. Amenities are limited to Wi-Fi, air conditioning, and in-room coffee/tea making facilities."
+    },
+    {
+      "question": "Can ALL - Accor Live Limitless members earn points at ibis budget Singapore Bugis?",
+      "answer": "No -- per the hotel's official ALL listing, this property does not participate in ALL points earning, redemption, or elite-tier benefits like room upgrades or lounge access. ALL members can still book member-exclusive rates when reserving directly through the ALL - Accor Live Limitless website or app."
+    }
+  ],
+  "tags": ["bras basah-bugis", "middle road", "budget"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B6H8/index.en.shtml",
+      "label": "ibis budget Singapore Bugis official page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d1823538-Reviews-Ibis_Budget_Singapore_Bugis-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://thefilipinotravelersblog.blogspot.com/2023/01/photo-review-ibis-budget-singapore-bugis.html",
+      "label": "The Filipino Travelers Blog photo review",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B6H8/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-singapore-bugis", "ibis-singapore-on-bencoolen"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Photo Review: ibis budget Singapore Bugis",
+        "source": "The Filipino Travelers Blog",
+        "url": "https://thefilipinotravelersblog.blogspot.com/2023/01/photo-review-ibis-budget-singapore-bugis.html",
+        "published_date": "2023-01-21",
+        "summary": "A photo-led review of a compact standard twin room, noting complimentary Wi-Fi and coffee/tea facilities, paperless check-in, and a short walk to Bugis Junction and Marina Bay Sands."
+      }
+    ],
+    "videos": [
+      {
+        "title": "IBIS BUDGET SINGAPORE BUGIS ROOM TOUR",
+        "channel": "Hotel To Hotel",
+        "url": "https://www.youtube.com/watch?v=va1nzXEanc8",
+        "video_id": "va1nzXEanc8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 66,
+    "breakdown": [
+      { "label": "Location", "score": 96 },
+      { "label": "Service", "score": 94 },
+      { "label": "Rooms", "score": 42 },
+      { "label": "Value", "score": 70 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
