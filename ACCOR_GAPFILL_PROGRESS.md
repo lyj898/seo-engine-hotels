@@ -7,9 +7,11 @@ tracking so a fresh session (or this one, after a context reset / rate
 limit) can pick up exactly where things left off without re-deriving state
 from conversation history.
 
-**Status as of 2026-08-13: 148 of ~165 identified gaps done (pushed to
-branch, not yet merged/live — see batch history). ~14-17 remain: the
-Greater Jakarta and Kalimantan bundle clusters.**
+**PROJECT COMPLETE as of 2026-08-13: all identified gaps closed. 162
+hotels added across 9 batches (of the original ~165 identified gaps, 3
+were correctly excluded — 2 pipeline/not-yet-open properties and 1
+confirmed non-existent property — see exclusions below). Final batch
+pushed to branch; see batch history for merge/deploy status.**
 
 ## How to resume a batch
 
@@ -58,8 +60,8 @@ Greater Jakarta and Kalimantan bundle clusters.**
 - **Singapore — DONE** ✅ (all identified gaps closed, including the
   14-hotel ibis budget cluster, each individually verified against its own
   all.accor.com page)
-- **Indonesia — 48 done, ~14-17 remaining** (Greater Jakarta + Kalimantan
-  clusters, still unverified leads)
+- **Indonesia — DONE (62/62)** ✅ (including Greater Jakarta and
+  Kalimantan clusters, all individually verified)
 
 ## Singapore — DONE
 
@@ -95,7 +97,7 @@ Note: all 14 ibis budget properties' own Accor listings state they do
 empty `elite_benefits` + an `elite_notes` field rather than reusing
 boilerplate loyalty language.
 
-## Indonesia — remaining (~14-17)
+## Indonesia — DONE
 
 Individually verifiable batch — DONE:
 - [x] ibis Yogyakarta International Airport Kulon Progo (region: `yogyakarta`)
@@ -125,21 +127,22 @@ all.accor.com pages before writing):
       Hills, Mercure Cibadak Sukabumi Resort — new regions `bogor` and
       `sukabumi` created (Sukabumi verified as a distinct destination)
 
-Confirmed as bundles on directory/city-listing pages but **not individually
-verified** — treat as leads, verify each hotel's own all.accor.com page
-before writing an entity (some names/counts may be imprecise):
-
-- [ ] **Greater Jakarta cluster** (~6): ibis Styles Bekasi Jatibening,
-      Novotel Tangerang, Mercure Tangerang BSD, Mercure Serpong Alam
-      Sutera, ibis Gading Serpong, ibis Styles Serpong BSD — needs new
-      region(s), e.g. `bekasi`/`tangerang`, or reuse `jakarta` if these
-      turn out to be metro-area properties like the KL precedent
-- [ ] **Kalimantan cluster** (~8): Swissôtel Nusantara (new capital IKN),
-      Novotel Banjarmasin Airport, Novotel Pontianak, ibis Pontianak,
-      Mercure Samarinda, ibis Samarinda, Mercure Berau, Mercure Pangkalan
-      Bun — needs new regions (`banjarmasin`, `pontianak`, `samarinda`,
-      `berau`, `pangkalan-bun`, or a shared `kalimantan` if these are
-      genuinely one metro cluster — verify before assuming)
+Final batch — all individually verified via their own all.accor.com pages
+before writing:
+- [x] **Greater Jakarta cluster** (6): ibis Styles Bekasi Jatibening,
+      Novotel Tangerang, Mercure Tangerang BSD City, Mercure Serpong Alam
+      Sutera, ibis Gading Serpong, ibis Styles Serpong BSD City — new
+      regions `bekasi` and `tangerang` created (Tangerang region covers
+      the connected BSD/Serpong/Alam Sutera/Gading Serpong metro-west
+      cluster; Bekasi kept separate as its own city)
+- [x] **Kalimantan cluster** (8): Swissôtel Nusantara (confirmed genuinely
+      open since Sept 2024, not pipeline as originally flagged), Novotel
+      Banjarmasin Airport, Novotel Pontianak Convention Centre, ibis
+      Pontianak City Center, Mercure Samarinda, ibis Samarinda, Mercure
+      Berau, Mercure Pangkalan Bun — new regions `nusantara`,
+      `banjarmasin`, `pontianak`, `samarinda`, `berau`, `pangkalan-bun`
+      created (verified as 6 genuinely distinct, far-apart destinations,
+      not one shared cluster)
 
 Excluded (confirmed pipeline, not yet open): Swissôtel Bali Nusa Dua.
 Confirmed no Accor property exists: Labuan Bajo / Komodo.
@@ -157,7 +160,8 @@ ninh-binh, padang, palembang, panglao, pattaya, penang, phan-thiet,
 philippines, phnom-penh, phu-quoc, phuket, putrajaya, rayong, sapa,
 semarang, siem-reap, sihanoukville, singapore, solo, sriracha, subic-bay,
 surabaya, thailand, uong-bi, vietnam, vung-tau, yogyakarta, bogor,
-sukabumi
+sukabumi, bekasi, tangerang, nusantara, banjarmasin, pontianak, samarinda,
+berau, pangkalan-bun
 
 ## Batch history
 
@@ -189,9 +193,17 @@ sukabumi
   Convention Center Ancol) + Jakarta ibis/ibis budget network (6: Senen/
   Harmoni/Raden Saleh/budget Cikini/budget Menteng/budget Airport) +
   Jakarta ibis Styles network (4: Sunter/Tanah Abang/Airport/Simatupang) —
-  pushed to branch, PR pending
+  PR #40
+- Batch 9 (14, FINAL): ID Greater Jakarta cluster (6: ibis Styles Bekasi
+  Jatibening/Novotel Tangerang/Mercure Tangerang BSD City/Mercure Serpong
+  Alam Sutera/ibis Gading Serpong/ibis Styles Serpong BSD City) + Kalimantan
+  cluster (8: Swissôtel Nusantara/Novotel Banjarmasin Airport/Novotel
+  Pontianak Convention Centre/ibis Pontianak City Center/Mercure
+  Samarinda/ibis Samarinda/Mercure Berau/Mercure Pangkalan Bun) — pushed
+  to branch, PR pending
 
 PR #35 merged 2026-08-12 (50 hotels live). PR #36 merged 2026-08-13
 (41 more hotels live, 91 total). PR #38 merged 2026-08-13 (20 more hotels
 live, 111 total). PR #39 merged 2026-08-13 (14 more hotels live, 125
-total). Batch 8 pushed but not yet merged — 148 total once live.
+total). PR #40 merged 2026-08-13 (23 more hotels live, 148 total). Batch 9
+pushed but not yet merged — 162 total (project complete) once live.
