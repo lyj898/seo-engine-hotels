@@ -1,0 +1,92 @@
+{
+  "entity_id": "homm-bliss-southbeach-patong",
+  "slug": "homm-bliss-southbeach-patong",
+  "name": "Homm Bliss Southbeach Patong",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 71-room hotel on the quieter southern end of Patong's beach, with balconies or terraces facing the sea and a few minutes' walk from Walking Street.",
+  "ai_summary": "Homm Bliss Southbeach Patong is a 71-room hotel positioned on the quieter southern end of Patong's 2.5-kilometre beach, overlooking white sands and sunset views while remaining just a few minutes' walk from Walking Street's nightlife. Every guest room or suite has its own balcony or terrace facing the beach and sea beyond. Guest reviews are consistently strong, praising the beachfront setting, cleanliness, and spacious sea-view rooms with clean pools and good breakfast, though a subset of reviews caution about noise from a nearby road and note the hotel's pricing runs higher than expected for the amenities delivered.",
+  "core_facts": {
+    "address": "40 Thaweewong Road, Patong, Kathu, Phuket 83150, Thailand",
+    "brand_sub_brand": "Homm",
+    "neighborhood": "Patong (South Beach)",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "71 rooms and suites, all with a private balcony or terrace facing the beach and sea",
+    "Quieter southern end of Patong's 2.5-kilometre beach, away from the busiest strip",
+    "A few minutes' walk from Walking Street's shops, restaurants, and nightlife",
+    "Cleanliness and spacious sea-view rooms draw consistent guest praise",
+    "Clean pools and a well-regarded breakfast spread"
+  ],
+  "cons": [
+    "Some reviews note noise from a nearby road affecting certain rooms",
+    "Pricing runs higher than some guests expect for the amenities delivered"
+  ],
+  "research_highlights": [
+    "The quieter southern-Patong beachfront setting is repeatedly highlighted as a key differentiator",
+    "Cleanliness and staff hospitality draw consistently strong praise",
+    "Sea-view rooms with private balconies are a standout feature versus comparable Patong hotels"
+  ],
+  "research_watchouts": [
+    "Noise from a nearby road is flagged in a subset of reviews as a value concern",
+    "Extra charges on some amenities have drawn occasional guest comment"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Homm Bliss Southbeach Patong directly on the beach?",
+      "answer": "Yes -- it overlooks the quieter southern end of Patong's 2.5-kilometre beach, and every one of its 71 rooms and suites has its own balcony or terrace facing the sea, while still being a few minutes' walk from Walking Street's restaurants and nightlife."
+    },
+    {
+      "question": "Is Homm Bliss Southbeach Patong quieter than central Patong hotels?",
+      "answer": "Yes -- its position on the southern end of the beach keeps it away from Patong's busiest strip, though a subset of reviews note some noise from a nearby road, so it's a middle ground between full seclusion and central Patong's nightlife energy."
+    }
+  ],
+  "tags": ["south patong beach", "sea view balconies", "walking street"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B9E6/index.en.shtml",
+      "label": "Official Homm Bliss Southbeach Patong page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297930-d1544859-Reviews-Homm_Bliss_Southbeach_Patong-Patong_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B9E6/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["homm-suites-laguna"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 42,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

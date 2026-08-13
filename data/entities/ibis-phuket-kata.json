@@ -1,0 +1,103 @@
+{
+  "entity_id": "ibis-phuket-kata",
+  "slug": "ibis-phuket-kata",
+  "name": "ibis Phuket Kata",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 258-room budget hotel about 5 minutes' walk from Kata Beach, with a pool, ping pong, and a small library.",
+  "ai_summary": "ibis Phuket Kata is a 258-room budget hotel about a 5-minute walk from Kata Beach, with plenty of restaurants and bars within walking distance and a breakfast buffet included in the room rate. The pool area offers ping pong and a small library alongside standard ibis amenities. Guest reviews describe a solid, no-frills budget option: the beach-adjacent location and dining options nearby draw consistent praise, but reviews repeatedly note the rooms and showers run small, sunbed availability at the pool is limited to 18 total, and hotel food quality is a weak point relative to the surrounding restaurant scene.",
+  "core_facts": {
+    "address": "88/8 Kata Road, Karon, Phuket 83100, Thailand",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Kata Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Kata Beach", "km": 0.4 }
+    ]
+  },
+  "pros": [
+    "258 rooms about a 5-minute walk from Kata Beach",
+    "Breakfast buffet included in the room rate",
+    "Pool area with ping pong and a small library",
+    "Plenty of restaurants and bars within easy walking distance",
+    "Straightforward, budget-friendly pricing for the Kata Beach area"
+  ],
+  "cons": [
+    "Rooms and showers run small, even by budget-hotel standards",
+    "Pool sunbeds are limited to 18 total, which can run out during busy periods",
+    "Hotel food quality is a weaker point relative to nearby independent restaurants"
+  ],
+  "research_highlights": [
+    "The 5-minute walk to Kata Beach is repeatedly cited as the property's strongest selling point",
+    "The included breakfast buffet and proximity to dining draw consistent positive comment",
+    "Guests describe it as a reliable, no-frills budget base for Kata Beach"
+  ],
+  "research_watchouts": [
+    "Multiple reviews describe rooms and bathrooms as notably small",
+    "Limited pool sunbeds (18 total) can be a constraint during peak season"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Phuket Kata from Kata Beach?",
+      "answer": "About a 5-minute walk, with plenty of restaurants and bars along the way, making it a convenient budget base for Kata Beach even though the rooms themselves run small, a common trade-off reviewers mention for this price tier."
+    },
+    {
+      "question": "Does ibis Phuket Kata include breakfast?",
+      "answer": "Yes -- a breakfast buffet is included in the room rate, and the pool area adds ping pong and a small library, though guests should note hotel food quality is generally seen as a weaker point compared to the many independent restaurants nearby."
+    }
+  ],
+  "tags": ["kata beach", "budget hotel", "walkable dining"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7273/index.en.shtml",
+      "label": "Official ibis Phuket Kata page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Feature-g1210687-d1485455-zft1-Ibis_Phuket_Kata.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7273/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-phuket-kata-avista-resort-spa"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "IBIS PHUKET KATA 3*, THAILAND. 4K VIRTUAL TOUR.",
+        "channel": "Marianna Travel",
+        "url": "https://www.youtube.com/watch?v=7PYFeICLA2M",
+        "video_id": "7PYFeICLA2M"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 66,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 70 },
+      { "label": "Rooms", "score": 56 },
+      { "label": "Food & breakfast", "score": 62 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 40,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

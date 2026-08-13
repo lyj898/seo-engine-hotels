@@ -1,0 +1,12 @@
+{
+  "region_id": "kota-bharu",
+  "slug": "kota-bharu",
+  "label": "Kota Bharu",
+  "granularity": "city",
+  "parent_region_id": "malaysia",
+  "short_description": "The capital of Kelantan state on Malaysia's northeast coast, known for traditional Malay culture and as a gateway to the Perhentian Islands.",
+  "intro": "Kota Bharu is the capital of Kelantan, a conservative, culturally distinct state on Malaysia's northeast coast close to the Thai border, known for its markets, batik and songket weaving, and traditional Kelantanese cuisine rather than beach tourism itself. Most international-brand hotels here serve business travelers and pilgrims rather than leisure tourists, though the city also functions as a road/ferry gateway for travelers heading to the Perhentian Islands further south along the coast.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

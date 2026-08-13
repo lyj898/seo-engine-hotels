@@ -1,0 +1,92 @@
+{
+  "entity_id": "dhawa-ho-tram",
+  "slug": "dhawa-ho-tram",
+  "name": "Dhawa Ho Tram",
+  "category_id": "accor-all",
+  "region_id": "ho-tram",
+  "short_description": "A beachfront resort on a 6-hectare property in Ho Tram with all sea-view rooms, about two hours by car from Ho Chi Minh City.",
+  "ai_summary": "Dhawa Ho Tram is a beachfront resort on a 6-hectare property in Ho Tram, roughly two hours by car from Ho Chi Minh City and within walking distance of Ho Tram Beach. Every room in the beachfront building has a sea view, and the resort includes Nook restaurant plus a seafood and pizza bar right on the beach, set within lush, landscaped grounds. Guest reviews are consistently strong, describing the resort as clean, quiet, and family-friendly with a big pool next to the beach, good food across its restaurants, and excellent customer service, though some reviews note occasional lapses in service quality and room maintenance that management has acknowledged.",
+  "core_facts": {
+    "address": "Coastal Road, Ong To Hamlet, Phuoc Thuan Ward, Xuyen Moc District, Ba Ria-Vung Tau Province, Ho Tram, Vietnam",
+    "brand_sub_brand": "Dhawa",
+    "neighborhood": "Ho Tram Beach",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "All rooms in the beachfront building have sea views over Ho Tram Beach",
+    "6-hectare property with lush, landscaped grounds",
+    "Nook restaurant plus a beachfront seafood and pizza bar",
+    "Consistently described as clean, quiet, and family-friendly",
+    "About two hours by car from Ho Chi Minh City, walkable to Ho Tram Beach"
+  ],
+  "cons": [
+    "Some reviews note occasional service quality lapses",
+    "A subset of reviews mention room maintenance concerns that management has acknowledged"
+  ],
+  "research_highlights": [
+    "Guests consistently describe the resort as clean, quiet, and well-suited to families",
+    "The beachfront pool and multiple dining options draw repeated praise",
+    "It's one of the most-booked hotels in Ho Tram, per recent booking-platform data"
+  ],
+  "research_watchouts": [
+    "A subset of reviews note service quality and room maintenance issues, acknowledged by hotel management",
+    "As a beach resort roughly two hours from Ho Chi Minh City, it suits a dedicated getaway rather than a city stopover"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is Dhawa Ho Tram from Ho Chi Minh City?",
+      "answer": "About two hours by car, making it a popular weekend beach getaway for Ho Chi Minh City residents. The resort sits on a 6-hectare beachfront property within walking distance of Ho Tram Beach itself."
+    },
+    {
+      "question": "Do all rooms at Dhawa Ho Tram have sea views?",
+      "answer": "Yes -- the beachfront hotel building is designed so every room overlooks the sea, and the resort adds Nook restaurant plus a dedicated seafood and pizza bar right on the beach for guests who want to eat without leaving the sand."
+    }
+  ],
+  "tags": ["ho tram beach", "beachfront resort", "family friendly"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C1H5/index.en.shtml",
+      "label": "Official Dhawa Ho Tram page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2549585-d25319982-Reviews-Dhawa_Ho_Tram-Ho_Tram_Phuoc_Thuan_Ba_Ria_Vung_Tau_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C1H5/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["angsana-ho-tram"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 42,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

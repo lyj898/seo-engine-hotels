@@ -1,0 +1,99 @@
+{
+  "entity_id": "avista-hideaway-patong-resort-spa-phuket-mgallery",
+  "slug": "avista-hideaway-patong-resort-spa-phuket-mgallery",
+  "name": "Avista Hideaway Patong Resort & Spa Phuket",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 150-room MGallery boutique resort in the hills above Patong with three pools, a Michelin Guide-featured restaurant, and 12 pool villas.",
+  "ai_summary": "Avista Hideaway Patong Resort & Spa Phuket is a 150-room MGallery Collection boutique resort nestled in landscaped hills above Patong, designed for couples and families wanting seclusion just minutes from the beach and nightlife rather than a central Patong stay. Thai-inspired accommodations cascade through the gardens, including 12 recently renovated pool villas, alongside three pools each with a swim-up bar, a spa with outdoor cabanas, rooftop mini-golf, a kids club, and a Michelin Guide-featured rooftop restaurant. Guest reviews are strongly positive, repeatedly calling it a standout Phuket property with spotless facilities, an excellent breakfast buffet, and attentive service, though a subset of reviews note that some rooms and shared areas don't fully match the marketing photos.",
+  "core_facts": {
+    "address": "39/9 Muen Ngern Road, Patong, Kathu, Phuket 83150, Thailand",
+    "brand_sub_brand": "MGallery",
+    "neighborhood": "Patong hills",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "150 Thai-inspired rooms and 12 renovated pool villas cascading through landscaped hillside gardens",
+    "Three pools, each with its own swim-up bar",
+    "Michelin Guide-featured rooftop restaurant plus a second Michelin-featured steak and seafood venue",
+    "Minutes from Patong's beach and nightlife while feeling secluded",
+    "Daily wellness program including sunset yoga, plus a kids club and rooftop mini-golf"
+  ],
+  "cons": [
+    "Some reviews note certain rooms and shared spaces don't fully match marketing photos",
+    "Hillside setting means some walking or shuttle use to reach Patong's beachfront"
+  ],
+  "research_highlights": [
+    "Guests consistently call it one of the standout resorts in Phuket, citing cleanliness and service",
+    "The breakfast buffet and multiple dining venues draw strong, repeated praise",
+    "The hillside, garden setting is highlighted as a genuine escape from central Patong's density"
+  ],
+  "research_watchouts": [
+    "A subset of reviews note gaps between marketing photos and actual room condition",
+    "As a hillside property, direct beach access requires a short walk or shuttle"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Does Avista Hideaway Patong Resort & Spa Phuket have pool villas?",
+      "answer": "Yes -- alongside 150 Thai-inspired rooms cascading through landscaped hillside gardens, the resort has 12 recently renovated pool villas, giving guests a private-pool option within the same MGallery Collection property above Patong."
+    },
+    {
+      "question": "Is Avista Hideaway Patong close to the beach?",
+      "answer": "It's set in the hills just minutes from Patong's beach and nightlife rather than directly on the sand, trading immediate beach access for a quieter, garden-set resort with three pools, a spa, and Michelin Guide-featured dining."
+    }
+  ],
+  "tags": ["hillside resort", "pool villas", "mgallery collection"],
+  "source_mix": [
+    {
+      "url": "https://mgallery.accor.com/en/hotels/A245.html",
+      "label": "Official Avista Hideaway Patong page (MGallery Collection)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297930-d3183240-Reviews-Avista_Hideaway_Phuket_Patong_MGallery-Patong_Kathu_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://mgallery.accor.com/en/hotels/A245.html",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["kamaliss-montazure-phuket-mgallery", "v-villas-phuket-mgallery"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Where to Stay in Phuket, Thailand | Avista Hideaway Resort Tour & Walkthrough | MGallery Collection",
+        "channel": "Rich List",
+        "url": "https://www.youtube.com/watch?v=2A3kfcxjORU",
+        "video_id": "2A3kfcxjORU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 84 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,99 @@
+{
+  "entity_id": "ibis-styles-phuket-city",
+  "slug": "ibis-styles-phuket-city",
+  "name": "ibis Styles Phuket City",
+  "category_id": "accor-all",
+  "region_id": "phuket",
+  "short_description": "A 137-room hotel beside Phuket Old Town with colorful, contemporary interiors and Harmony Restaurant & Bar for all-day dining.",
+  "ai_summary": "ibis Styles Phuket City is a 137-room lifestyle hotel located beside Phuket Old Town, built in 2016 as a base for exploring Phuket Town's Sino-Portuguese architecture and markets rather than a beach stay. Rooms are colorfully decorated with flat-screen TVs, safety deposit boxes, and private bathrooms, and the all-day Harmony Restaurant & Bar serves Western and Asian dishes. Reviews are generally positive on cleanliness, the central Old Town location, and value, with the rooftop pool and bar drawing particular praise, though a subset of reviews -- including at least one detailed 2026 video review -- flag inconsistent room cleanliness and thin walls that let noise through near the elevators.",
+  "core_facts": {
+    "address": "23 Thawornwongwong Road, Phuket Town, Phuket 83000, Thailand",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Phuket Old Town",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "137 rooms directly beside Phuket Old Town's Sino-Portuguese heritage district",
+    "Rooftop pool and bar draw consistent guest praise",
+    "Harmony Restaurant & Bar offers all-day Western and Asian dining",
+    "Colorful, contemporary room design distinct from typical budget hotels",
+    "Strong value rating relative to Phuket Town's other accommodation options"
+  ],
+  "cons": [
+    "Some reviews flag inconsistent room cleanliness on arrival",
+    "Thin walls near elevators let noise through in certain rooms"
+  ],
+  "research_highlights": [
+    "The Phuket Old Town location is repeatedly highlighted as the property's strongest feature",
+    "Breakfast spread and rooftop pool/bar draw consistent positive comment",
+    "Value for money is a recurring theme across guest reviews"
+  ],
+  "research_watchouts": [
+    "A 2026 video review specifically flagged being given two rooms that needed cleaning before check-in",
+    "Noise between rooms, particularly near elevators, is mentioned in multiple reviews"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Phuket City close to Phuket Old Town?",
+      "answer": "Yes -- it sits directly beside Phuket Town's Sino-Portuguese Old Town district, making it a practical base for exploring the area's heritage architecture, markets, and cafes rather than the island's beach resorts, which are a taxi ride away."
+    },
+    {
+      "question": "Does ibis Styles Phuket City have a pool?",
+      "answer": "Yes -- it has a rooftop pool and bar that draw consistent praise in guest reviews, alongside the all-day Harmony Restaurant & Bar serving Western and Asian dishes for guests who want to stay on-site rather than explore Old Town's restaurants."
+    }
+  ],
+  "tags": ["phuket old town", "rooftop pool", "sino-portuguese architecture"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9929/index.en.shtml",
+      "label": "Official ibis Styles Phuket City page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1215781-d12236001-Reviews-Ibis_Styles_Phuket_City-Phuket_Town_Phuket.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9929/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-kuala-lumpur-city-centre"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "They Gave Me TWO Dirty Rooms… | Ibis Styles Phuket City Review | Standard Room | Hotel Review | 2026",
+        "channel": "Hardik Bhatia",
+        "url": "https://www.youtube.com/watch?v=ChYI-x9HVjE",
+        "video_id": "ChYI-x9HVjE"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 84 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

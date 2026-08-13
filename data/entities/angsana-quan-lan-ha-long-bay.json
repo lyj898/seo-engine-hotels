@@ -1,0 +1,92 @@
+{
+  "entity_id": "angsana-quan-lan-ha-long-bay",
+  "slug": "angsana-quan-lan-ha-long-bay",
+  "name": "Angsana Quan Lan Ha Long Bay",
+  "category_id": "accor-all",
+  "region_id": "ha-long-bay",
+  "short_description": "A 156-room resort on Quan Lan Island in Bai Tu Long Bay, the first international-standard 5-star hotel on the island, with private-balcony ocean views.",
+  "ai_summary": "Angsana Quan Lan Ha Long Bay is a 156-room resort on Quan Lan Island in Bai Tu Long Bay, opened as Angsana's first island resort in Vietnam and widely described by guests as the only true international-standard 5-star hotel in the wider Ha Long Bay area. Rooms and suites feature private balconies with garden, pool, or ocean views, alongside design touches like conical-hat-shaped ceiling fans and lantern-inspired lamps drawing on Vietnamese heritage. The resort's \"101 Things To Do\" program offers activities including ziplining, biking, and watersports along a 2-kilometre stretch of beach. Guest reviews are consistently strong, with cleanliness, design, and the family-friendly pool and beach setup repeatedly praised, positioning it as a genuine alternative to the busier hotel-boat scene in central Ha Long.",
+  "core_facts": {
+    "address": "Son Hao Village, Quan Lan Island, Van Don, Quang Ninh Province, Vietnam",
+    "brand_sub_brand": "Angsana",
+    "neighborhood": "Quan Lan Island",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "156 rooms and suites, all with private balconies and garden, pool, or ocean views",
+    "The first international-standard 5-star hotel on Quan Lan Island",
+    "\"101 Things To Do\" program includes ziplining, biking, and watersports",
+    "2-kilometre stretch of beach with both indoor and outdoor pools",
+    "Vietnamese heritage design touches throughout, from ceiling fans to lantern-inspired lamps"
+  ],
+  "cons": [
+    "Quan Lan Island requires a ferry or boat transfer, adding travel time versus mainland Ha Long hotels",
+    "As an island resort, dining and activity options outside the property are more limited"
+  ],
+  "research_highlights": [
+    "Guests repeatedly call it the only true international 5-star standard hotel in the Ha Long Bay area",
+    "Cleanliness and design draw consistently strong praise",
+    "Family-friendly activities and the resort's own beach are highlighted as standout features"
+  ],
+  "research_watchouts": [
+    "Reaching Quan Lan Island requires a separate ferry or boat transfer from the mainland",
+    "Limited independent long-form video or blog coverage was found at time of research"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How do you get to Angsana Quan Lan Ha Long Bay?",
+      "answer": "It's on Quan Lan Island in Bai Tu Long Bay, reached by ferry or boat transfer rather than direct road access, positioning it as a more secluded alternative to Ha Long Bay's mainland hotel and cruise-boat scene for guests willing to make the extra crossing."
+    },
+    {
+      "question": "Is Angsana Quan Lan Ha Long Bay good for families?",
+      "answer": "Yes -- its \"101 Things To Do\" program includes ziplining, biking, and watersports along a 2-kilometre beach, plus both indoor and outdoor pools, and guest reviews consistently describe it as an excellent family destination."
+    }
+  ],
+  "tags": ["quan lan island", "bai tu long bay", "first 5-star hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/C324/index.en.shtml",
+      "label": "Official Angsana Quan Lan Ha Long Bay page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g3167672-d28124871-Reviews-Angsana_Quan_Lan-Quan_Lan_Quang_Ninh_Province.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/C324/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-ha-long-bay", "angsana-lang-co"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 42,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
