@@ -1,0 +1,108 @@
+{
+  "entity_id": "ibis-jakarta-harmoni",
+  "slug": "ibis-jakarta-harmoni",
+  "name": "ibis Jakarta Harmoni",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 211-room economy hotel on Jalan Hayam Wuruk in Jakarta's Central Business District, opposite Gajah Mada Plaza and 5 minutes from Gambir Railway Station.",
+  "ai_summary": "ibis Jakarta Harmoni is a 3-star economy hotel at Jl Hayam Wuruk No 35 in Central Jakarta's CBD, positioned near the Presidential Palace and National Monument and directly opposite Gajah Mada Plaza. It is a distinct property from the nearby Grand Mercure Jakarta Harmoni, a separate higher-tier Accor brand in the same Harmoni district. The hotel offers 211 modern rooms, a Taste Restaurant and Lounge Bar, and five meeting rooms plus a ballroom seating up to 500 guests, positioning it as a mid-size business and MICE property. It is about 5 minutes from Gambir Railway Station, 10 minutes from the Jakarta International Expo Kemayoran, and roughly 35 minutes by car from Soekarno-Hatta International Airport. Accor's own listing shows a 4.7/5 ALL rating from 636 reviews, though independent aggregator reviews are more mixed, with guests praising cool air conditioning, comfortable beds, and helpful staff, alongside recurring complaints about soundproofing and limited breakfast variety for international travelers.",
+  "core_facts": {
+    "address": "Jl Hayam Wuruk No 35, RT 14/RW 1, Kebon Kelapa, 10120 Jakarta, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Harmoni, Central Jakarta",
+    "elite_benefits": [
+      "Status points earning and redemption for ALL - Accor Live Limitless members on eligible stays",
+      "Access to ALL member-exclusive rates",
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms"
+    ]
+  },
+  "pros": [
+    "211 rooms opposite Gajah Mada Plaza in the Harmoni CBD area",
+    "About 5 minutes from Gambir Railway Station, Jakarta's main long-distance rail hub",
+    "Taste Restaurant, Lounge Bar, and a ballroom seating up to 500 guests for events",
+    "Strong 4.7/5 ALL rating from 636 reviews on the hotel's own Accor listing",
+    "Ecocertified property with family-friendly amenities"
+  ],
+  "cons": [
+    "Independent aggregator reviews are more mixed than the ALL rating, citing soundproofing issues",
+    "Breakfast variety criticized by some international guests as limited",
+    "About 35 minutes by car from Soekarno-Hatta International Airport, further than airport-cluster ibis properties"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms 211 rooms, a 4.7/5 ALL rating (636 reviews), and full ALL loyalty programme participation",
+    "A confirmed October 2022 YouTube review and room tour by Indonesian channel Erwin Ardian covers the hotel as a 3-star property in central Jakarta",
+    "This is a distinct property from Grand Mercure Jakarta Harmoni, a separate higher-tier Accor brand in the same Harmoni district"
+  ],
+  "research_watchouts": [
+    "A 2019 travel blog review (yessigreena.com) surfaced in search results but could not be independently confirmed by direct fetch (403 blocked), so it is not included in external_coverage.reviews",
+    "Aggregator scores (roughly 6.5-8.0/10 on Trip.com and Booking.com) run notably lower than the hotel's own 4.7/5 ALL rating, suggesting some inconsistency across platforms"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis Jakarta Harmoni the same hotel as Grand Mercure Jakarta Harmoni?",
+      "answer": "No -- they are two distinct Accor properties in the same Harmoni district of Central Jakarta. ibis Jakarta Harmoni is a 211-room economy-tier hotel on Jalan Hayam Wuruk, while Grand Mercure Jakarta Harmoni is a separate, higher-tier upscale Accor brand property; travelers should check the exact hotel name when booking to avoid confusion."
+    },
+    {
+      "question": "How far is ibis Jakarta Harmoni from Soekarno-Hatta International Airport?",
+      "answer": "The hotel is about 35 minutes by car from Soekarno-Hatta International Airport, per Accor's own listing, making it more suited to travelers focused on Central Jakarta's CBD and sightseeing rather than a quick airport transit stay compared to airport-cluster ibis properties near the terminal."
+    },
+    {
+      "question": "What event and meeting facilities does ibis Jakarta Harmoni offer?",
+      "answer": "The hotel has five meeting rooms plus a ballroom, with the largest space spanning 200 square meters and accommodating up to 350 guests theater-style or 180 banquet-style, making it a reasonably sized option for conferences and social events in Central Jakarta's CBD."
+    }
+  ],
+  "tags": ["harmoni", "economy hotel", "central business district", "gajah mada"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8487/index.en.shtml",
+      "label": "Official ibis Jakarta Harmoni page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d7391149-Reviews-Ibis_Jakarta_Harmoni-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/central-jakarta-city-hotel-detail-2669481/ibis-jakarta-harmoni/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8487/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["grand-mercure-jakarta-harmoni", "ibis-jakarta-senen", "ibis-jakarta-raden-saleh"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Hotel Ibis Jakarta Harmoni - Review & Room Tour Hotel Bintang 3 di Pusat Kota Jakarta",
+        "channel": "Erwin Ardian",
+        "url": "https://www.youtube.com/watch?v=ef2cQjhZpMU",
+        "video_id": "ef2cQjhZpMU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 72,
+    "breakdown": [
+      { "label": "Rooms", "score": 78 },
+      { "label": "Service", "score": 82 },
+      { "label": "Food & breakfast", "score": 64 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

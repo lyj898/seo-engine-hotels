@@ -1,0 +1,108 @@
+{
+  "entity_id": "ibis-jakarta-raden-saleh",
+  "slug": "ibis-jakarta-raden-saleh",
+  "name": "ibis Jakarta Raden Saleh",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 105-room economy hotel on Jalan Raden Saleh in Cikini, Central Jakarta, a 5-minute walk from Cikini Railway Station and 850m from Taman Ismail Marzuki.",
+  "ai_summary": "ibis Jakarta Raden Saleh is a newer 3-star economy hotel at Jalan Raden Saleh No 41 in the Cikini area of Central Jakarta, part of the Menteng district. It sits about a 5-minute walk from Cikini Railway Station, 850 meters from the Taman Ismail Marzuki arts and culture center, and 1.6 km from Taman Suropati park. The 105-room property opened relatively recently (guest reviews and hotel-review videos date from early-to-mid 2024) and offers Lily's Garden restaurant, a fitness center, spa facilities, and six function rooms for events. Accor's own listing shows a very strong 4.8/5 ALL rating from 164 reviews, backed by consistently positive independent reviews from 2024 praising comfortable beds, clean rooms, good bathroom size, and friendly, efficient front-desk staff. The hotel fully participates in the ALL - Accor Live Limitless loyalty programme.",
+  "core_facts": {
+    "address": "Jalan Raden Saleh No 41, Cikini, Menteng, 10330 Jakarta, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Cikini, Menteng, Central Jakarta",
+    "elite_benefits": [
+      "Status points earning and redemption for ALL - Accor Live Limitless members on eligible stays",
+      "Access to ALL member-exclusive rates and ALL Accor+ subscription discounts",
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms"
+    ]
+  },
+  "pros": [
+    "105 modern rooms in a relatively new property (opened/reviewed from early 2024)",
+    "5-minute walk to Cikini Railway Station, 850m from Taman Ismail Marzuki arts center",
+    "Lily's Garden restaurant, fitness center, and spa facilities on-site",
+    "Very strong 4.8/5 ALL rating from 164 reviews, among the higher-rated ibis properties in Jakarta",
+    "Six function rooms (largest 204 sqm, up to 200 seated) for events and meetings"
+  ],
+  "cons": [
+    "As a newer property, longer-term guest-review history is still limited compared to older Jakarta ibis hotels",
+    "An isolated 2024 review noted a stain in the toilet, though this was not a recurring complaint",
+    "Standard rooms are economy-tier sized, consistent with the ibis brand"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms 105 rooms, a 4.8/5 ALL rating (164 reviews), and full ALL loyalty programme participation",
+    "A confirmed April 2024 YouTube review by Indonesian travel channel Eko Wahyudiharto describes it as a strategic, good-value 3-star hotel",
+    "Multiple independent 2024 reviews (TripAdvisor, Trip.com) consistently praise comfortable beds, cleanliness, and friendly front-office staff"
+  ],
+  "research_watchouts": [
+    "No independently verifiable dated written review article (as opposed to aggregator user reviews) was found for this specific property, so external_coverage.reviews is left empty",
+    "As a comparatively new property, its review base (164 on ALL, smaller counts elsewhere) is thinner than long-established Jakarta ibis hotels"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Jakarta Raden Saleh from Cikini Railway Station?",
+      "answer": "The hotel is about a 5-minute walk from Cikini Railway Station, making it convenient for travelers connecting by commuter rail. It is also roughly 850 meters from the Taman Ismail Marzuki arts and culture center and 1.6 km from Taman Suropati park in the Menteng district."
+    },
+    {
+      "question": "What is the guest rating for ibis Jakarta Raden Saleh?",
+      "answer": "The hotel's own Accor listing shows a strong 4.8/5 ALL rating from 164 reviews, with a 9.6/10 service score and 9.1/10 for both cleanliness and location, among the higher-rated ibis-branded properties in Jakarta based on independently corroborated 2024 guest reviews."
+    },
+    {
+      "question": "Does ibis Jakarta Raden Saleh have a restaurant and event spaces?",
+      "answer": "Yes -- the hotel's Lily's Garden restaurant serves local and international cuisine, and the property has six function rooms, with the largest spanning 204 square meters and seating up to 200 guests, alongside a fitness center and spa facilities for guests."
+    }
+  ],
+  "tags": ["cikini", "raden saleh", "economy hotel", "menteng"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9652/index.en.shtml",
+      "label": "Official ibis Jakarta Raden Saleh page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d27497835-Reviews-Ibis_Jakarta_Raden_Saleh-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://ae.trip.com/hotels/central-jakarta-city-hotel-detail-117753480/ibis-jakarta-raden-saleh",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9652/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-jakarta-harmoni", "ibis-jakarta-senen", "ibis-budget-jakarta-cikini", "mercure-jakarta-cikini"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "ibis Jakarta Raden Saleh | Hotel Bintang 3 Strategis Irit Hemat Berkelas - #369",
+        "channel": "Eko Wahyudiharto",
+        "url": "https://www.youtube.com/watch?v=f1xy3ICIMLg",
+        "video_id": "f1xy3ICIMLg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 88,
+    "breakdown": [
+      { "label": "Service", "score": 96 },
+      { "label": "Cleanliness", "score": 91 },
+      { "label": "Location", "score": 91 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

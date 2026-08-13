@@ -1,0 +1,108 @@
+{
+  "entity_id": "ibis-jakarta-senen",
+  "slug": "ibis-jakarta-senen",
+  "name": "ibis Jakarta Senen",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 148-room economy hotel on Jalan Kramat Raya in Central Jakarta's Senen district, 5 minutes from Senen Train Station and 8 minutes from Gambir Train Station.",
+  "ai_summary": "ibis Jakarta Senen is a 3-star economy hotel at Jl Kramat Raya No 100 in Central Jakarta, about 5 minutes from Senen Train Station, 8 minutes (3.5 km) from Gambir Train Station, and 7 minutes (2.7 km) from the National Monument (Monas). The property was renovated in 2024 and offers 148 upgraded rooms across four room types, all 18 sqm with city views and 43-inch smart TVs, including connecting family options. On-site facilities include The Taste restaurant with a buffet featuring local dishes, a lounge bar, spa services, and six meeting rooms for business travelers. Its own Accor listing shows a strong 4.7/5 ALL rating from 107 reviews, and independent guest reviews from late 2024 and early 2025 consistently praise friendly, attentive staff, clean rooms, and the convenient Senen-district location, though a minority of reviews mention limited breakfast variety and compact room sizes. The hotel fully participates in the ALL - Accor Live Limitless loyalty programme.",
+  "core_facts": {
+    "address": "Jl Kramat Raya No 100, 10420 Jakarta, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Senen, Central Jakarta",
+    "elite_benefits": [
+      "Status points earning and redemption for ALL - Accor Live Limitless members on eligible stays",
+      "Access to ALL member-exclusive rates",
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms"
+    ]
+  },
+  "pros": [
+    "148 upgraded rooms (renovated 2024), all 18 sqm with 43-inch smart TVs and city views",
+    "5 minutes from Senen Train Station, 8 minutes from Gambir Train Station and Monas",
+    "The Taste restaurant buffet and a lounge bar on-site",
+    "Six meeting rooms (largest 169 sqm, up to 150 guests) for business travelers",
+    "Strong 4.7/5 ALL rating from 107 reviews, with guests repeatedly praising staff friendliness"
+  ],
+  "cons": [
+    "A minority of reviews mention limited breakfast variety",
+    "Some guests describe the area around the hotel as having little to see beyond transit convenience",
+    "Standard rooms are compact at 18 sqm, consistent with the economy ibis brand tier"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms 148 rooms, a 2024 renovation, 4.7/5 ALL rating (107 reviews), and full ALL loyalty programme participation",
+    "A confirmed February 2025 YouTube review/room tour by Indonesian travel channel Eko Wahyudiharto calls the hotel a strategic, economical pick for business travelers",
+    "Guest reviews from December 2024 and April 2025 consistently cite immaculate rooms, welcoming staff, and good breakfast"
+  ],
+  "research_watchouts": [
+    "No independently verifiable dated written review article (as opposed to aggregator user reviews) was found for this specific property, so external_coverage.reviews is left empty",
+    "A subset of reviews describe breakfast selection as limited and rooms as small, typical of the economy ibis tier"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Jakarta Senen from Jakarta's train stations?",
+      "answer": "The hotel is about 5 minutes from Senen Train Station and roughly 8 minutes (3.5 km) from Gambir Train Station, Jakarta's main long-distance rail hub, making it a convenient base for travelers arriving by train or connecting onward across the city by rail or toll road."
+    },
+    {
+      "question": "How many rooms does ibis Jakarta Senen have and were they renovated?",
+      "answer": "The hotel has 148 rooms across four room types, including connecting family options, all sized at 18 square meters with city views and 43-inch smart TVs. Accor's own listing confirms the rooms were upgraded as part of a 2024 renovation, giving the property a notably fresher look than older economy-tier competitors nearby."
+    },
+    {
+      "question": "Does ibis Jakarta Senen participate in the ALL loyalty programme?",
+      "answer": "Yes -- unlike some ibis budget properties in Jakarta, ibis Jakarta Senen fully participates in ALL - Accor Live Limitless, so members can earn and redeem status points and access member-exclusive rates on top of the hotel's own strong 4.7/5 guest rating from 107 reviews."
+    }
+  ],
+  "tags": ["senen", "economy hotel", "central jakarta", "train station"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8448/index.en.shtml",
+      "label": "Official ibis Jakarta Senen page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d4583663-Reviews-Ibis_Jakarta_Senen-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://sg.trip.com/hotels/central-jakarta-city-hotel-detail-2198950/ibis-jakarta-senen/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8448/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-jakarta-harmoni", "ibis-jakarta-raden-saleh", "ibis-styles-jakarta-tanah-abang"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Ibis Jakarta Senen | Ini Hotel Strategis dan Ekonomis Buat Business Traveller - #202",
+        "channel": "Eko Wahyudiharto",
+        "url": "https://www.youtube.com/watch?v=-OzAF-KF2OA",
+        "video_id": "-OzAF-KF2OA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Service", "score": 96 },
+      { "label": "Cleanliness", "score": 96 },
+      { "label": "Rooms", "score": 86 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

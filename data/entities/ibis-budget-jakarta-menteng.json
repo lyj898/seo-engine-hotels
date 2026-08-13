@@ -1,0 +1,99 @@
+{
+  "entity_id": "ibis-budget-jakarta-menteng",
+  "slug": "ibis-budget-jakarta-menteng",
+  "name": "ibis budget Jakarta Menteng",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 135-room budget hotel on Jalan Hos Cokroaminoto in Menteng, 5 minutes from Jakarta's Golden Triangle CBD, with a 4.6/5 guest rating on its own Accor listing.",
+  "ai_summary": "ibis budget Jakarta Menteng is a 2-star economy hotel at Jl. Hos Cokroaminoto No 79 in Menteng, Central Jakarta, about 5 minutes from the Kuningan-Sudirman-Thamrin Golden Triangle business district and within reach of Gambir Station, Sudirman Station, and the Jakarta MRT/LRT network. The 135-room property offers three room configurations (all 16 sqm) with the ibis bedding concept, meeting space for up to 120 guests, and breakfast included at most rates. Its own Accor listing shows a 4.6/5 ALL rating from 139 reviews, and aggregator platforms (around 7.4/10 from over 1,100 reviews) similarly praise the strategic Menteng location, friendly reception staff, and value pricing, while a recurring complaint across independent reviews is inconsistent housekeeping -- musty smells and dirty linens reported in a minority of stays. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme.",
+  "core_facts": {
+    "address": "Jl. Hos Cokroaminoto No 79, Menteng, 10310 Jakarta, Indonesia",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Menteng, Central Jakarta",
+    "elite_benefits": [],
+    "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
+  },
+  "pros": [
+    "135 rooms, about 5 minutes from the Kuningan-Sudirman-Thamrin Golden Triangle CBD",
+    "Convenient access to Gambir Station, Sudirman Station, MRT, and LRT",
+    "4.6/5 ALL rating from 139 reviews on the hotel's own Accor listing",
+    "Meeting space accommodating up to 120 guests",
+    "Consistently praised for friendly, efficient reception staff"
+  ],
+  "cons": [
+    "Does not participate in the ALL - Accor Live Limitless loyalty programme",
+    "A recurring minority of independent reviews report musty smells and inconsistent room cleaning",
+    "Compact 16 sqm rooms with no in-room fridge noted by some guests",
+    "No specific named on-site restaurant beyond breakfast service"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms 135 rooms, a 4.6/5 ALL rating (139 reviews), and non-participation in the ALL loyalty programme",
+    "Aggregator data shows a 7.4/10 'Good' rating from over 1,100 verified reviews, broadly consistent with the hotel's own rating",
+    "Guests consistently single out the Menteng CBD-adjacent location and helpful reception staff as the property's strongest points"
+  ],
+  "research_watchouts": [
+    "No independently confirmable dated written review article or genuine hotel-specific YouTube video was found for this property despite multiple targeted searches, so both external_coverage.reviews and external_coverage.videos are left empty",
+    "Multiple 2024-2025 reviews flag housekeeping inconsistencies (musty smells, dirty sheets) as a recurring rather than isolated issue"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis budget Jakarta Menteng part of the ALL loyalty programme?",
+      "answer": "No -- this hotel's own Accor listing confirms it does not participate in the ALL - Accor Live Limitless loyalty programme, so members cannot earn or redeem points or access elite benefits here, though ALL member rates may still be available when booking through the Accor website."
+    },
+    {
+      "question": "How far is ibis budget Jakarta Menteng from Jakarta's Golden Triangle business district?",
+      "answer": "The hotel is about 5 minutes from the Kuningan-Sudirman-Thamrin Golden Triangle Central Business District, and also offers easy access to Gambir Station, Sudirman Station, the Jakarta MRT, and the LRT, making it a convenient base for business travelers."
+    },
+    {
+      "question": "What do guests say about ibis budget Jakarta Menteng's cleanliness?",
+      "answer": "Reviews are mixed: many guests describe clean, comfortable rooms and praise the friendly reception staff and strategic location, but a recurring minority of independent 2024-2025 reviews report musty smells and inconsistently cleaned rooms, so travelers with strict cleanliness expectations should factor this in."
+    }
+  ],
+  "tags": ["menteng", "budget hotel", "golden triangle", "central jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6366/index.en.shtml",
+      "label": "Official ibis budget Jakarta Menteng page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d1019262-Reviews-Ibis_budget_Jakarta_Menteng-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/central-jakarta-city-hotel-detail-2647606/ibis-budget-jakarta-menteng/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6366/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-budget-jakarta-cikini", "ibis-jakarta-raden-saleh", "all-seasons-jakarta-thamrin"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 68,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 80 },
+      { "label": "Cleanliness", "score": 55 }
+    ]
+  },
+  "reliability_score": 42,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

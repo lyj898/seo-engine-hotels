@@ -1,0 +1,105 @@
+{
+  "entity_id": "mercure-jakarta-pantai-indah-kapuk",
+  "slug": "mercure-jakarta-pantai-indah-kapuk",
+  "name": "Mercure Jakarta Pantai Indah Kapuk",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 240-room midscale hotel directly connected to PIK Avenue Mall in North Jakarta's Pantai Indah Kapuk district, about 15 minutes from Soekarno-Hatta Airport.",
+  "ai_summary": "Mercure Jakarta Pantai Indah Kapuk sits in North Jakarta's Pantai Indah Kapuk (PIK) district with a direct, 100-metre connection to PIK Avenue Mall and Flix Cinema, and is about 15 minutes by car from Soekarno-Hatta International Airport. The 240 rooms and suites are complemented by an 8th-floor restaurant and bar (NSNTR) serving international and Indonesian dishes, a lobby cafe (M Coffee), an outdoor swimming pool, spa, and fitness centre, plus 5 meeting rooms for small business events. Guest feedback highlights clean, well-designed rooms, a convenient mall-connected location, and friendly staff, with an occasional note of WiFi issues or minor service lapses; the hotel was also named 2024's top Mercure property in Savour BlackBookAsia's Annual Travel Awards.",
+  "core_facts": {
+    "address": "Jalan Pantai Indah Kapuk, Kamal Muara, Penjaringan, North Jakarta, 14470 Jakarta, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Pantai Indah Kapuk (PIK), North Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly connected to PIK Avenue Mall and Flix Cinema, about 100 metres away",
+    "240 rooms and suites, about 15 minutes by car from Soekarno-Hatta International Airport",
+    "8th-floor NSNTR restaurant and bar with international and Indonesian dishes",
+    "Outdoor swimming pool, spa, and fitness centre on-site",
+    "Named the top Mercure hotel of 2024 in Savour BlackBookAsia's Annual Travel Awards"
+  ],
+  "cons": [
+    "A subset of guests report occasional WiFi connectivity issues",
+    "Some reviews note minor service lapses despite generally friendly staff"
+  ],
+  "research_highlights": [
+    "Direct mall connection to PIK Avenue Mall is the most consistently praised feature across guest reviews",
+    "Clean, modern, well-designed rooms are repeatedly highlighted",
+    "Recognised as Savour BlackBookAsia's top Mercure property in its 2024 Annual Travel Awards"
+  ],
+  "research_watchouts": [
+    "A minority of reviews mention WiFi or minor service inconsistencies",
+    "As a mall-connected PIK property, it sits well north of Jakarta's Sudirman-Thamrin CBD, so allow extra drive time for business travel into the centre"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Mercure Jakarta Pantai Indah Kapuk connected to a shopping mall?",
+      "answer": "Yes -- the hotel is directly connected to PIK Avenue Mall and Flix Cinema, about 100 metres away, giving guests easy access to shopping, dining, and entertainment in North Jakarta's Pantai Indah Kapuk district without needing a car."
+    },
+    {
+      "question": "How far is Mercure Jakarta Pantai Indah Kapuk from the airport?",
+      "answer": "The hotel is about a 15-minute drive from Soekarno-Hatta International Airport, making it a convenient option for travellers who want quick airport access combined with a North Jakarta shopping-and-dining location at PIK Avenue Mall."
+    }
+  ],
+  "tags": ["pantai indah kapuk", "pik", "north jakarta", "mall-connected"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9021/index.en.shtml",
+      "label": "Official Mercure Jakarta Pantai Indah Kapuk page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d13131262-Reviews-Mercure_Jakarta_Pantai_Indah_Kapuk-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://savourblackbookasia.com/marvellous-mercure-2024-mercure-jakarta-pantai-indah-kapuk-indonesia/",
+      "label": "Savour BlackBookAsia -- 2024 Marvellous Mercure award feature",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9021/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["swissotel-jakarta-pik-avenue"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Jakarta Pantai Indah Kapuk Hotel Review | Superior Room | Connecting to PIK Avenue Mall",
+        "channel": "Chubby Go Travel",
+        "url": "https://www.youtube.com/watch?v=QOFRP3gNvc8",
+        "video_id": "QOFRP3gNvc8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
