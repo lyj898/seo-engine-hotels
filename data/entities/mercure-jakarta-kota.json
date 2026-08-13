@@ -1,0 +1,120 @@
+{
+  "entity_id": "mercure-jakarta-kota",
+  "slug": "mercure-jakarta-kota",
+  "name": "Mercure Jakarta Kota",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 243-room 4-star hotel on Jl. Hayam Wuruk, walking distance from Jakarta's historic Kota Tua and about 1km from Glodok's Chinatown district.",
+  "ai_summary": "Mercure Jakarta Kota sits on Jl. Hayam Wuruk in the Kota area of West Jakarta, within walking distance of the Kota Tua (Old Batavia) heritage district and about a kilometre from the Glodok Chinatown enclave, with the Lindeteves Trade Center just 100 metres away. The 243 rooms are backed by an outdoor pool, a fitness centre, a spa offering aromatherapy and acupressure treatments, two restaurants (Chinese-focused Chiao Tung and the Indonesian/Western Spice), and Kirana Bar with live music. Guest sentiment is mixed: many praise the spacious, clean rooms, bathtubs, and friendly staff, but a recent independent blog review and some aggregator feedback describe dated, office-like interiors and worn fixtures in need of renovation.",
+  "core_facts": {
+    "address": "Jl. Hayam Wuruk No. 123, 11160 Jakarta, Indonesia",
+    "coordinates": { "lat": -6.149451, "lng": 106.817279 },
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Kota / Glodok, West Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Lindeteves Trade Center Glodok", "km": 0.1 },
+      { "label": "Glodok / Chinatown shopping district", "km": 1 },
+      { "label": "Mangga Dua shopping district", "km": 3 },
+      { "label": "Taman Impian Jaya Ancol", "km": 3 }
+    ]
+  },
+  "pros": [
+    "Walking distance from the Kota Tua (Old Batavia) heritage district",
+    "About 1km from Glodok's Chinatown, with the Lindeteves Trade Center 100m away",
+    "243 air-conditioned rooms, many with bathtubs",
+    "Outdoor pool, fitness centre, and spa with aromatherapy and acupressure treatments",
+    "Two restaurants (Chiao Tung Chinese cuisine, Spice Indonesian/Western) plus Kirana Bar with live music"
+  ],
+  "cons": [
+    "A recent independent review and several guest comments describe dated, office-like interiors",
+    "Some rooms and public areas show wear and could benefit from renovation"
+  ],
+  "research_highlights": [
+    "The Kota Tua / Old Batavia proximity and near-1km walk to Glodok Chinatown are consistently cited as location strengths",
+    "Bathtub-equipped rooms and staff friendliness draw repeat praise across aggregator reviews"
+  ],
+  "research_watchouts": [
+    "A dated October 2025 blog review described the property as feeling like 'an old office building' with low occupancy and little charm",
+    "Aggregator reviews are split -- some guests call it a delightful stay, others call it the weakest Mercure they've used"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How close is Mercure Jakarta Kota to Jakarta's Old Town?",
+      "answer": "Mercure Jakarta Kota is within walking distance of the Kota Tua (Old Batavia) heritage district, and it's about a 1km walk to the Glodok Chinatown area, with the Lindeteves Trade Center just 100 metres from the hotel."
+    },
+    {
+      "question": "Is Mercure Jakarta Kota well maintained?",
+      "answer": "Reviews are mixed -- many guests praise clean, spacious rooms with bathtubs and friendly staff, but a 2025 independent review and some aggregator feedback describe dated, office-like interiors and fixtures that could use renovation."
+    }
+  ],
+  "tags": ["kota tua", "old batavia", "glodok", "chinatown"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/2013/index.en.shtml",
+      "label": "Official Mercure Jakarta Kota page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d299574-Reviews-Mercure_Jakarta_Kota-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.hotels.com/ho178120/mercure-jakarta-kota-jakarta-indonesia/",
+      "label": "Hotels.com listing (243-room count cross-check)",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/2013/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-jakarta-batavia", "grand-mercure-jakarta-harmoni"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Mercure Jakarta Kota Review: An Underwhelming End to the Trip",
+        "source": "Chapters of Escapism",
+        "author": "Alvin Sim",
+        "url": "https://chaptersofescapism.com/mercure-jakarta-kota-review-an-underwhelming-end-to-the-trip/",
+        "published_date": "2025-10-21",
+        "summary": "Alvin Sim's stay left him underwhelmed -- despite being clean, the hotel felt charmless and dated, like an old office building, with the property eerily quiet and seemingly low-occupancy."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mercure Hotel Jakarta Kota, Full Tour",
+        "channel": "Hotel To Hotel",
+        "url": "https://www.youtube.com/watch?v=gpOIBITyWRU",
+        "video_id": "gpOIBITyWRU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 68,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 74 },
+      { "label": "Rooms", "score": 60 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 68 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

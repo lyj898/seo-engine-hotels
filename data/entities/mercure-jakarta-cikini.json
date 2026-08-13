@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-jakarta-cikini",
+  "slug": "mercure-jakarta-cikini",
+  "name": "Mercure Jakarta Cikini",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 4-star hotel on Jalan Cikini Raya in Central Jakarta's Menteng area, about 700m from Taman Ismail Marzuki and 600m from Cikini Station.",
+  "ai_summary": "Mercure Jakarta Cikini sits on Jalan Cikini Raya in Menteng, Central Jakarta, about 700 metres from the Taman Ismail Marzuki arts centre and 600 metres from Cikini commuter rail station, with Jakarta's National Monument roughly 3km away and Grand Indonesia mall about 2.9km away. The hotel's modern rooms are paired with an infinity rooftop pool, a fitness centre, De'Kafe restaurant, the De'Langit rooftop bar on the 8th floor, De'Santai lounge, in-room spa and massage service, and 11 meeting rooms plus a ballroom. Guest feedback is consistently positive, with recent 2025-2026 reviews highlighting the rooftop bar's skyline views, friendly staff, and central location, alongside occasional notes about check-in delays and rates that can feel steep for the category.",
+  "core_facts": {
+    "address": "Jalan Cikini Raya No 66, Menteng - Jakarta Pusat, 10330 Jakarta, Indonesia",
+    "coordinates": { "lat": -6.194204, "lng": 106.839144 },
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Cikini, Menteng, Central Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Taman Ismail Marzuki", "km": 0.7 },
+      { "label": "Cikini Station", "km": 0.6 },
+      { "label": "Grand Indonesia shopping mall", "km": 2.9 },
+      { "label": "National Monument (Monas)", "km": 3 },
+      { "label": "Gambir Station", "km": 3.9 }
+    ]
+  },
+  "pros": [
+    "About 700m from the Taman Ismail Marzuki arts centre and 600m from Cikini Station",
+    "Infinity rooftop pool and the De'Langit rooftop bar with city skyline views",
+    "Consistently praised friendly, attentive service across recent guest reviews",
+    "Central Menteng location convenient for both CBD and Grand Indonesia shopping",
+    "11 meeting rooms plus a ballroom support business and event travel"
+  ],
+  "cons": [
+    "Some guests report occasional check-in delays",
+    "A subset of reviewers feel rates run steep for the category during peak periods"
+  ],
+  "research_highlights": [
+    "The rooftop pool and De'Langit rooftop bar are repeatedly singled out in 2025-2026 guest reviews as standout features",
+    "Location convenience -- close to Taman Ismail Marzuki, Cikini Station, and the CBD -- draws consistent praise"
+  ],
+  "research_watchouts": [
+    "Occasional check-in delays and pricing that some guests consider high relative to the room category are recurring minor complaints",
+    "Independent room-count figures conflict across booking sites (roughly 197-214 quoted); the official listing does not state an exact total, so no specific figure is used here"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Mercure Jakarta Cikini close to central Jakarta attractions?",
+      "answer": "Yes -- it's about 700 metres from the Taman Ismail Marzuki arts centre and 600 metres from Cikini Station, with Grand Indonesia mall roughly 2.9km away and the National Monument about 3km away, making it a well-placed base in Menteng."
+    },
+    {
+      "question": "Does Mercure Jakarta Cikini have a rooftop pool?",
+      "answer": "Yes -- the hotel has an infinity rooftop pool alongside the De'Langit rooftop bar on the 8th floor, both of which guest reviews consistently highlight for their skyline views over Central Jakarta."
+    }
+  ],
+  "tags": ["cikini", "menteng", "rooftop pool", "central jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A1K6/index.en.shtml",
+      "label": "Official Mercure Jakarta Cikini page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d7309291-Reviews-Mercure_Jakarta_Cikini-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A1K6/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-jakarta-cikini", "mercure-jakarta-kota"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 79,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

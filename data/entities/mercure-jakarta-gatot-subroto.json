@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-jakarta-gatot-subroto",
+  "slug": "mercure-jakarta-gatot-subroto",
+  "name": "Mercure Jakarta Gatot Subroto",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 403-room, 30-storey business hotel on the Gatot Subroto corridor in Kuningan Barat, South Jakarta, with Green Key sustainability certification and a 17th-floor pool bar.",
+  "ai_summary": "Mercure Jakarta Gatot Subroto is a 403-room, 30-storey hotel on Jalan Gatot Subroto in Kuningan Barat, South Jakarta's golden-triangle business district, with direct access to the inner ring road and about 35 minutes from Soekarno-Hatta International Airport. The property is Green Key-certified for sustainability and includes a rooftop pool bar on the 17th floor, an executive lounge (Borobudur Lounge), 16 meeting rooms, a fitness centre, and spa. Dining spans Flora (international and local cuisine), Grand Cafe, Wayang Cafe, and Whiterock Terrace. Guest reviews consistently praise cleanliness, comfortable beds, and attentive staff, with some noting mixed views on whether room quality fully matches a four-star rating.",
+  "core_facts": {
+    "address": "Jalan Gatot Subroto Kav. 1, Kuningan Barat, Jakarta Selatan, 12790 Jakarta, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Kuningan Barat, Gatot Subroto corridor, South Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "403 rooms across a 30-storey tower directly on the Gatot Subroto business corridor",
+    "17th-floor rooftop pool bar with city views",
+    "Green Key certified for sustainability practices in water, energy, and waste management",
+    "16 meeting rooms (largest 227 sq m) plus an executive lounge for business travellers",
+    "About 10 minutes from Whoosh Halim high-speed rail station and 35 minutes from the airport"
+  ],
+  "cons": [
+    "Some reviews note air conditioning or bathroom quality fell short of expectations",
+    "A subset of guests feel the room experience doesn't fully match four-star positioning"
+  ],
+  "research_highlights": [
+    "Green Key certification is a distinguishing sustainability credential versus other Jakarta business hotels in this directory",
+    "Direct inner ring road access and proximity to the Whoosh high-speed rail station are repeatedly cited for business convenience",
+    "Cleanliness and attentive, friendly staff are consistently highlighted in guest feedback"
+  ],
+  "research_watchouts": [
+    "Occasional complaints about air conditioning and bathroom finishes relative to the four-star positioning",
+    "Located in Kuningan Barat rather than the core Sudirman-Thamrin cluster, so confirm travel time to specific CBD meeting locations"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Mercure Jakarta Gatot Subroto good for business travellers?",
+      "answer": "Yes -- it sits directly on the Gatot Subroto corridor in South Jakarta's golden-triangle business district, with direct inner ring road access, 16 meeting rooms, an executive lounge, and a location about 10 minutes from the Whoosh high-speed rail station at Halim."
+    },
+    {
+      "question": "Does Mercure Jakarta Gatot Subroto have a pool?",
+      "answer": "Yes -- the hotel has a rooftop pool bar on the 17th floor with views over the surrounding urban skyline, alongside a fitness centre and spa. It's one of several recreational facilities at this 403-room, 30-storey property on the Gatot Subroto business corridor."
+    }
+  ],
+  "tags": ["gatot subroto", "kuningan barat", "south jakarta", "business hotel", "green key"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B151/index.en.shtml",
+      "label": "Official Mercure Jakarta Gatot Subroto page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d16866089-Reviews-Mercure_Jakarta_Gatot_Subroto-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B151/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["swissotel-living-jakarta-mega-kuningan", "ritz-carlton-jakarta-mega-kuningan"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Jakarta's Hidden Gem | Mercure Gatot Subroto Full Hotel & Food Tour (Members Appreciation Tour)",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=487qnQwY0XU",
+        "video_id": "487qnQwY0XU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 76 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

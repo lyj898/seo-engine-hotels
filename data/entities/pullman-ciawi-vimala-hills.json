@@ -1,0 +1,117 @@
+{
+  "entity_id": "pullman-ciawi-vimala-hills",
+  "slug": "pullman-ciawi-vimala-hills",
+  "name": "Pullman Ciawi Vimala Hills Resort Spa & Convention",
+  "category_id": "accor-all",
+  "region_id": "bogor",
+  "short_description": "A 227-room, 14-hectare mountain resort at the gateway to Puncak, integrated with Vimala Hills Villa & Resort.",
+  "ai_summary": "Pullman Ciawi Vimala Hills Resort Spa & Convention is a 5-star mountain resort in Gadog, Megamendung, at the gateway to the Puncak pass south of Bogor. Spanning 14 hectares and integrated with Vimala Hills Villa & Resort, the 227-room property overlooks Mount Salak and Mount Pangrango and offers four swimming pools, a full-service spa, three dining venues (Damar, Mad Cow steakhouse, Jade River), two bars, a Kids Club, and extensive family activities -- a mini zoo with horse riding, fishing pond, Rabbit & Deer Park, ATV trails, and an amphitheater. It won 'Hotel of the Year' at Accor's 2024 Asia Leadership Conference. It's about 64 km (roughly an hour) from Jakarta via the Cinere-Serpong route and 30 minutes from Bogor. Guests consistently praise the mountain views, extensive facilities, and family activity programming.",
+  "core_facts": {
+    "address": "Jl. Raya Puncak, Gadog, Megamendung, Bogor Regency, West Java 16770, Indonesia",
+    "brand_sub_brand": "Pullman",
+    "neighborhood": "Gadog / Puncak Gateway",
+    "landmark_distances": [
+      { "label": "Puncak Pass", "km": 5 },
+      { "label": "Bogor city", "km": 20 },
+      { "label": "Jakarta (via Cinere-Serpong toll)", "km": 64 }
+    ],
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "227 rooms, suites, and villas across 14 hectares with Mount Salak and Mount Pangrango views",
+    "Four swimming pools including a heated family pool and dedicated kids' pool",
+    "Three distinct dining venues plus two bars, including a Mad Cow steakhouse and Jade River Chinese restaurant",
+    "Extensive family activities: mini zoo with horse riding, fishing pond, Rabbit & Deer Park, ATV trails, weekend tie-dye workshop",
+    "Named 'Hotel of the Year' at the Accor Asia Leadership Conference 2024"
+  ],
+  "cons": [
+    "At roughly an hour from Jakarta and 30 minutes from Bogor, it's the most remote of the area's Accor properties",
+    "The resort's scale and activity list mean a short one-night stay may not cover all the facilities"
+  ],
+  "research_highlights": [
+    "Mountain views and the multi-pool, multi-restaurant scale are repeatedly cited as standout features",
+    "Family-oriented activity programming (mini zoo, ATV, tie-dye, horseback riding) draws consistent attention in 2025 press coverage",
+    "The resort's Hotel of the Year 2024 recognition from Accor is a notable industry accolade"
+  ],
+  "research_watchouts": [
+    "The Puncak-area drive from Jakarta can be considerably slower than the stated time during weekend traffic, a known regional issue"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is Pullman Ciawi Vimala Hills from Jakarta?",
+      "answer": "It's about 64 km from Jakarta, roughly an hour by car via the Cinere-Serpong toll route, and about 30 minutes from Bogor city, though weekend Puncak-area traffic can slow the drive considerably beyond the stated time. The 14-hectare resort sits in Gadog, Megamendung, at the gateway to the Puncak pass."
+    },
+    {
+      "question": "What family activities does Pullman Ciawi Vimala Hills offer?",
+      "answer": "The 14-hectare resort includes a mini zoo with horse riding, a fishing pond, a Rabbit & Deer Park, ATV trails, an amphitheater, and a weekend tie-dye workshop in the lobby, alongside four swimming pools, a Kids Club, and an Activity Centre that helps guests plan a full multi-day itinerary."
+    }
+  ],
+  "tags": ["puncak", "mountain resort", "family activities", "spa", "convention"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9061/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://pullman.accor.com/en/hotels/bogor/9061.html",
+      "label": "Pullman brand hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g12033986-d15215412-Reviews-Pullman_Ciawi_Vimala_Hills_Resort-Megamendung_Bogor_Regency_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9061/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-bogor-golf-resort", "ibis-styles-bogor-raya"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Di Hotel Bintang Lima Ini, Pengunjung Bisa Bikin Suvenir Sendiri",
+        "source": "Kompas.com",
+        "url": "https://travel.kompas.com/read/2025/11/21/200000127/di-hotel-bintang-lima-ini-pengunjung-bisa-bikin-suvenir-sendiri",
+        "published_date": "2025-11-21",
+        "summary": "Covers the resort's 10-hectare activity grounds -- Flower Hills, mini zoo, fishing pond, Rabbit & Deer Park, ATV trails -- and its weekend tie-dye T-shirt workshop for hotel guests."
+      }
+    ],
+    "videos": [
+      {
+        "title": "FASILITAS HOTEL INI MAKIN GILA...! Pullman Ciawi Vimala Hills 2025",
+        "channel": "Bobo Cantik",
+        "url": "https://www.youtube.com/watch?v=d0n-OR3Ydxs",
+        "video_id": "d0n-OR3Ydxs"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 86,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 88 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

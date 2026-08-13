@@ -1,0 +1,114 @@
+{
+  "entity_id": "mercure-jakarta-sabang",
+  "slug": "mercure-jakarta-sabang",
+  "name": "Mercure Jakarta Sabang",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 166-room 4-star hotel on Jl. H. Agus Salim in Gambir, about 1km from the National Monument (Monas) and 100m from the Jalan Sabang food street.",
+  "ai_summary": "Mercure Jakarta Sabang occupies Jl. H. Agus Salim in Central Jakarta's Gambir district, about a kilometre from the National Monument (Monas) and Gambir railway station, and just 100 metres from the Jalan Sabang culinary street. The 166 rooms include themed 'My Room' suites -- a Games Centre suite with arcade games, a Betawi Tempoe Doeloe room with 3D murals, and a Route 66-inspired Classic Transportation room -- alongside a pool, gym, spa, Clovia Restaurant, Grand Ballroom, and 14 meeting rooms. Guests, including families, consistently praise the location, spacious clean rooms, and attentive service, with a January 2026 independent review specifically calling out the Games Centre Suite as a family-friendly draw.",
+  "core_facts": {
+    "address": "Jl H Agus Salim No 11, Gambir Jakarta Pusat, 10110 Jakarta, Indonesia",
+    "coordinates": { "lat": -6.182188, "lng": 106.824887 },
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Gambir (Sabang), Central Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Jalan Sabang food street", "km": 0.1 },
+      { "label": "National Monument (Monas)", "km": 1 },
+      { "label": "Gambir Railway Station", "km": 1 },
+      { "label": "National Museum", "km": 2 },
+      { "label": "Plaza Indonesia", "km": 1.6 }
+    ]
+  },
+  "pros": [
+    "About 1km from the National Monument (Monas) and Gambir railway station",
+    "Just 100m from the Jalan Sabang food street",
+    "166 rooms, including themed 'My Room' suites (Games Centre, Betawi Tempoe Doeloe, Route 66 transportation theme)",
+    "Family-friendly amenities, including a Games Centre suite and Sunday kids' activities",
+    "Grand Ballroom plus 14 meeting rooms make it a strong business/events option"
+  ],
+  "cons": [
+    "Some guests note food prices at the hotel restaurant run high relative to the neighbourhood",
+    "A handful of reviews mention occasional noise and air-conditioning issues"
+  ],
+  "research_highlights": [
+    "Themed 'My Room' suites (Games Centre, Betawi Tempoe Doeloe, Route 66) are a recurring highlight in guest coverage",
+    "A January 2026 independent blog review specifically praised the hotel as a comfortable, family-friendly base with the Games Centre Suite standing out"
+  ],
+  "research_watchouts": [
+    "A minority of reviews flag high food prices and occasional noise/AC issues"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is Mercure Jakarta Sabang from Monas?",
+      "answer": "The hotel is about 1km from the National Monument (Monas) and Gambir railway station, and just 100 metres from the Jalan Sabang food street, making it a walkable base for exploring Central Jakarta's landmarks and dining."
+    },
+    {
+      "question": "Is Mercure Jakarta Sabang good for families?",
+      "answer": "Yes -- alongside 166 standard rooms, it offers themed 'My Room' suites including a Games Centre suite with arcade games, plus a pool and Sunday kids' activity programs, and a January 2026 independent review specifically praised it as family-friendly."
+    }
+  ],
+  "tags": ["gambir", "sabang", "monas", "themed rooms"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9414/index.en.shtml",
+      "label": "Official Mercure Jakarta Sabang page (confirms 166 rooms)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d1205467-Reviews-Mercure_Jakarta_Sabang-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9414/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-jakarta-kota", "grand-mercure-jakarta-harmoni"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Mercure Jakarta Sabang - A Family-Friendly Stay in Jakarta",
+        "source": "In Africa and Beyond",
+        "author": "Sara Essop",
+        "url": "https://inafricaandbeyond.com/mercure-jakarta-sabang-review/",
+        "published_date": "2026-01-21",
+        "summary": "Sara Essop calls Mercure Jakarta Sabang a well-located, comfortable base for exploring Jakarta, singling out the themed Games Centre Suite as a strong pick for families travelling with children."
+      }
+    ],
+    "videos": [
+      {
+        "title": "MY ROOM GAMES CENTER DI MERCURE SABANG HOTEL JAKARTA",
+        "channel": "Khansa Kimmy Channel",
+        "url": "https://www.youtube.com/watch?v=5Q4jxXyC4qo",
+        "video_id": "5Q4jxXyC4qo"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 55,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

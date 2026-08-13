@@ -1,0 +1,108 @@
+{
+  "entity_id": "ibis-budget-jakarta-cikini",
+  "slug": "ibis-budget-jakarta-cikini",
+  "name": "ibis budget Jakarta Cikini",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 150-room budget hotel on Jalan Cikini Raya, 100m from the Taman Ismail Marzuki cultural arts centre in Central Jakarta.",
+  "ai_summary": "ibis budget Jakarta Cikini is a 2-star economy hotel at Jalan Cikini Raya No 75, right next to the Taman Ismail Marzuki cultural arts centre and the Pasar Cikini shopping strip in Central Jakarta, about 4.5 km (roughly 20 minutes on foot or 8 minutes by car) from Gambir Railway Station. This is a distinct, separate property from the higher-tier Novotel Jakarta Cikini and Mercure Jakarta Cikini hotels in the same neighborhood. The 150-room property offers three room types with the newer ibis bedding concept, a single meeting room, and breakfast included in most rates. Its own Accor listing shows a 4.7/5 ALL rating from 265 reviews, with location and service scoring highest (9.2/10 and 9/10) while room and cleanliness scores trail lower (5.3/10 and 4.1/10), and independent 2024-2025 reviews echo this split -- praising the central location and friendly staff while repeatedly flagging inconsistent housekeeping, including reports of insects in some rooms. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme.",
+  "core_facts": {
+    "address": "Jalan Cikini Raya No 75, Cikini, 10330 Jakarta, Indonesia",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Cikini, Central Jakarta",
+    "elite_benefits": [],
+    "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
+  },
+  "pros": [
+    "150 rooms, 100m walk from the Taman Ismail Marzuki cultural arts centre",
+    "Central location near Pasar Cikini, the Golden Triangle, and Gambir Railway Station",
+    "Strong 9.2/10 location score and 9/10 service score on the hotel's own Accor listing",
+    "Breakfast included and wheelchair accessible rooms available",
+    "Close to Menteng's leafy streets, galleries, and cafés"
+  ],
+  "cons": [
+    "Does not participate in the ALL - Accor Live Limitless loyalty programme",
+    "Room and cleanliness scores (5.3/10 and 4.1/10) trail well behind location and service on the hotel's own listing",
+    "Multiple 2024-2025 reviews report inconsistent housekeeping, including insects in some rooms",
+    "Only one meeting room (50-guest capacity), limited for events"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms 150 rooms, a 4.7/5 overall ALL rating (265 reviews), and non-participation in the ALL loyalty programme",
+    "A confirmed 2026-dated YouTube hotel review from channel 'Indonesia Hotel Adventures' covers the property specifically",
+    "The hotel's own sub-scores show a striking gap: 9.2/10 for location and 9/10 for service versus 5.3/10 for rooms and 4.1/10 for cleanliness"
+  ],
+  "research_watchouts": [
+    "Multiple independent 2024-2025 reviews report cleanliness issues including insects/cockroaches and smelly towels -- a recurring complaint rather than an isolated incident",
+    "No independently confirmable dated written review article (as opposed to aggregator user reviews) was found, so external_coverage.reviews is left empty",
+    "Distinct from Novotel Jakarta Cikini and Mercure Jakarta Cikini, both separate higher-tier Accor properties in the same neighborhood -- do not confuse when booking"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis budget Jakarta Cikini part of the ALL loyalty programme?",
+      "answer": "No -- despite the ibis budget/Accor branding, this hotel's own Accor listing confirms it does not participate in the ALL - Accor Live Limitless loyalty programme, so members cannot earn or redeem points or elite benefits here, though ALL member rates may still apply when booking."
+    },
+    {
+      "question": "Is ibis budget Jakarta Cikini the same hotel as Novotel Jakarta Cikini or Mercure Jakarta Cikini?",
+      "answer": "No -- all three are separate, distinct Accor-branded properties in the same Cikini neighborhood of Central Jakarta. ibis budget Jakarta Cikini is the economy-tier option, while Novotel Jakarta Cikini and Mercure Jakarta Cikini are separate mid-to-upscale hotels, so travelers should double-check the exact property name when booking."
+    },
+    {
+      "question": "What are guests' main complaints about ibis budget Jakarta Cikini?",
+      "answer": "The hotel's own listing shows a wide gap between a strong 9.2/10 location score and just 4.1/10 for cleanliness. Multiple independent 2024-2025 reviews report inconsistent housekeeping, including insects in some rooms and smelly linens, even though staff service and the central location near Taman Ismail Marzuki are consistently praised."
+    }
+  ],
+  "tags": ["cikini", "budget hotel", "taman ismail marzuki", "central jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6594/index.en.shtml",
+      "label": "Official ibis budget Jakarta Cikini page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d1391608-Reviews-Ibis_budget_Jakarta_Cikini-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/central-jakarta-city-hotel-detail-2647590/ibis-budget-cikini-jakarta/",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6594/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-jakarta-cikini", "mercure-jakarta-cikini", "ibis-jakarta-raden-saleh", "ibis-budget-jakarta-menteng"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Ibis Budget Jakarta Cikini | Jakarta, Indonesia | Hotel Review",
+        "channel": "Indonesia Hotel Adventures",
+        "url": "https://www.youtube.com/watch?v=dqZGYTHxIuc",
+        "video_id": "dqZGYTHxIuc"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 66,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 53 },
+      { "label": "Cleanliness", "score": 41 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-jakarta-simatupang",
+  "slug": "mercure-jakarta-simatupang",
+  "name": "Mercure Jakarta Simatupang",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 214-room hotel near South Quarter and MRT Lebak Bulus in South Jakarta, about 2.4 km from ibis Styles Jakarta Simatupang on the same TB Simatupang corridor.",
+  "ai_summary": "Mercure Jakarta Simatupang sits in South Jakarta near the South Quarter business precinct, about 800 metres (a 5-minute walk) from MRT Lebak Bulus station and 100 metres from Point Square Mall. The 214 rooms come with high-speed WiFi, and facilities include a rooftop bar (Karumba Rooftop Bar) serving rum cocktails with skyline views, an international restaurant (Graffiti), an outdoor pool, spa, and meeting rooms totalling 5 spaces (largest 118 sq m). Guest reviews consistently praise friendly, attentive staff and a varied breakfast with fresh pastries, while some note the surrounding area feels quiet after dark and that service can be slow at times. It is a separate property from the nearby ibis Styles Jakarta Simatupang, a budget-tier Accor hotel about 2.4 km away on the same corridor.",
+  "core_facts": {
+    "address": "Jl R A Kartini No 18, Lebak Bulus, 12440 Jakarta, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Lebak Bulus, TB Simatupang corridor, South Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About 800 metres (5-minute walk) from MRT Lebak Bulus station",
+    "100 metres from Point Square Mall, close to South Quarter business precinct",
+    "Karumba Rooftop Bar with skyline views and rum cocktails",
+    "214 rooms with high-speed WiFi, plus an outdoor pool and spa",
+    "Friendly staff and a well-regarded breakfast are repeatedly praised in guest reviews"
+  ],
+  "cons": [
+    "Some guests describe the immediate surroundings as quiet with little within walking distance besides the mall and highway",
+    "A minority of reviews note slower or average service at times"
+  ],
+  "research_highlights": [
+    "MRT Lebak Bulus proximity is a genuine differentiator versus other South Jakarta business hotels that rely purely on car access",
+    "Distinct from -- but roughly 2.4 km along the same TB Simatupang corridor as -- ibis Styles Jakarta Simatupang, a separate, budget-tier Accor property",
+    "Staff friendliness and breakfast quality are the most consistently praised elements across recent reviews"
+  ],
+  "research_watchouts": [
+    "Reviews note the immediate area empties out at night, being mainly office and highway frontage rather than a dining or nightlife district",
+    "Drive time to central Jakarta and the airport runs 30-45 minutes depending on traffic, so factor this in for CBD meetings"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Mercure Jakarta Simatupang the same hotel as ibis Styles Jakarta Simatupang?",
+      "answer": "No -- they are two separate Accor properties on the same TB Simatupang corridor in South Jakarta, roughly 2.4 km apart. Mercure Jakarta Simatupang is the midscale option near MRT Lebak Bulus and South Quarter, while ibis Styles Jakarta Simatupang is a budget-tier design hotel further along Jalan Cilandak Tengah."
+    },
+    {
+      "question": "Is Mercure Jakarta Simatupang close to public transport?",
+      "answer": "Yes -- it's about an 800-metre, 5-minute walk from MRT Lebak Bulus station, one of the terminus stops on Jakarta's MRT line, making it one of the more transit-accessible South Jakarta business hotels in this corridor."
+    }
+  ],
+  "tags": ["simatupang", "lebak bulus", "south jakarta", "mrt", "business hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/6680/index.en.shtml",
+      "label": "Official Mercure Jakarta Simatupang page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d3484872-Reviews-Mercure_Jakarta_Simatupang-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/6680/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-jakarta-simatupang", "aloft-south-jakarta"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "ROOM TOUR at Mercure Simatupang Jakarta !!!",
+        "channel": "KeldaGio Channel",
+        "url": "https://www.youtube.com/watch?v=xcPJzEN-_K8",
+        "video_id": "xcPJzEN-_K8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

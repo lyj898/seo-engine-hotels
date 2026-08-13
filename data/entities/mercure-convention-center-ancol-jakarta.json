@@ -1,0 +1,99 @@
+{
+  "entity_id": "mercure-convention-center-ancol-jakarta",
+  "slug": "mercure-convention-center-ancol-jakarta",
+  "name": "Mercure Convention Center Ancol Jakarta",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 438-room seaside hotel inside Ancol Jakarta Baycity in North Jakarta, about 300 metres from Dunia Fantasi (Dufan) with 22 meeting rooms and 5 ballrooms for up to 1,200 guests.",
+  "ai_summary": "Mercure Convention Center Ancol Jakarta sits inside Taman Impian Jaya Ancol (Ancol Jakarta Baycity) in North Jakarta, roughly 300 metres from the Dunia Fantasi (Dufan) amusement park and within walking distance of Ancol's Eco Park, with rooms ranging from Superior to Presidential Suite. Facilities lean heavily family-oriented: multiple pools with water slides, a kids club, a small football field, basketball and volleyball courts, alongside 22 meeting rooms and 5 ballrooms that together seat up to roughly 1,200 guests, making it one of Jakarta's larger MICE-capable hotels. Dining includes Sunda Kelapa Restaurant and Nelayan Bar. Guest reviews consistently praise the family-friendly amenities, spacious rooms, and attentive staff, with recurring watchouts around weekend crowding, breakfast queues, and a slightly dated feel in parts of the property.",
+  "core_facts": {
+    "address": "Jl. Pantai Indah, Ancol Jakarta Baycity, North Jakarta, 14430 Jakarta, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Ancol Jakarta Baycity, North Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About 300 metres from Dunia Fantasi (Dufan) amusement park inside Ancol Jakarta Baycity",
+    "438 rooms from Superior to Presidential Suite, several with ocean views",
+    "22 meeting rooms and 5 ballrooms seating up to roughly 1,200 guests, a major MICE draw",
+    "Family-friendly facilities including a water playground, kids club, and sports courts",
+    "Staff frequently praised for hospitality touches like birthday songs and complimentary treats"
+  ],
+  "cons": [
+    "Gets very crowded on weekends, with long breakfast queues reported",
+    "Some guests note a dated feel in parts of the property and extra charges for park re-entry"
+  ],
+  "research_highlights": [
+    "One of Jakarta's largest MICE-capable hotels by meeting space, with 22 rooms and 5 ballrooms",
+    "Family-oriented facilities (water playground, kids club, sports courts) set it apart from Jakarta's business-district hotels in this directory",
+    "Direct proximity to Dufan and Ancol's Eco Park is the most consistently cited reason for staying"
+  ],
+  "research_watchouts": [
+    "Weekend crowding and breakfast queues are a recurring complaint, tied to the property's popularity with domestic families",
+    "About 20 km from Soekarno-Hatta International Airport, further than most other Jakarta Accor hotels in this directory"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Mercure Convention Center Ancol Jakarta good for families?",
+      "answer": "Yes -- it sits inside Ancol Jakarta Baycity about 300 metres from the Dunia Fantasi (Dufan) amusement park, and has family-oriented facilities including multiple pools with water slides, a kids club, a small football field, and basketball and volleyball courts on-site."
+    },
+    {
+      "question": "Can Mercure Convention Center Ancol Jakarta host large events?",
+      "answer": "Yes -- the hotel has 22 meeting rooms and 5 ballrooms that together can seat up to roughly 1,200 guests, making it one of the larger MICE-capable hotels in Jakarta, well suited to conferences and conventions alongside its 438 guest rooms."
+    }
+  ],
+  "tags": ["ancol", "north jakarta", "family hotel", "mice", "dufan"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/5473/index.en.shtml",
+      "label": "Official Mercure Convention Center Ancol Jakarta page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d299599-Reviews-Mercure_Convention_Center_Ancol-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/5473/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-jakarta-kota", "swissotel-jakarta-pik-avenue"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "MERCURE CONVENTION CENTER ANCOL HOTEL Walk Arounds REVIEW @ Taman Impian Jaya Ancol North Jakarta",
+        "channel": "DRelicious Story 4K",
+        "url": "https://www.youtube.com/watch?v=HBFokFM0QvE",
+        "video_id": "HBFokFM0QvE"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 76,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

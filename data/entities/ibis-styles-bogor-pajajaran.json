@@ -1,0 +1,110 @@
+{
+  "entity_id": "ibis-styles-bogor-pajajaran",
+  "slug": "ibis-styles-bogor-pajajaran",
+  "name": "ibis Styles Bogor Pajajaran",
+  "category_id": "accor-all",
+  "region_id": "bogor",
+  "short_description": "A 171-room design-economy hotel on Jalan Raya Pajajaran, directly opposite the Bogor Botanical Gardens.",
+  "ai_summary": "ibis Styles Bogor Pajajaran sits on Jalan Raya Pajajaran in central Bogor, directly opposite the Bogor Botanical Gardens and within walking distance of the Bogor Presidential Palace and the Lawang Suryakencana food street. Built around the brand's colorful 'Dancing in the Rain' design concept, the 171-room hotel has an all-day dining sTREATs Restaurant, a lounge bar, fitness center, 10 meeting rooms, a kids' corner, and free bicycles for guests. It's about 2.2 km from the Jagorawi toll gate and 2.7 km from Bogor Station. Guests consistently praise the clean, comfortable rooms, friendly and responsive staff, and the unbeatable walk-to-everything location in central Bogor.",
+  "core_facts": {
+    "address": "Jalan Raya Pajajaran No. 37, Kelurahan Babakan, Bogor, West Java 16128, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Pajajaran / Bogor Botanical Gardens",
+    "landmark_distances": [
+      { "label": "Bogor Botanical Gardens", "km": 0.1 },
+      { "label": "Bogor Station", "km": 2.7 },
+      { "label": "Jagorawi Toll Gate", "km": 2.2 }
+    ],
+    "elite_benefits": [
+      "ALL Diamond members earn Status & Rewards points and can redeem points at this property",
+      "Member rates and room upgrades for eligible ALL tiers, subject to availability"
+    ]
+  },
+  "pros": [
+    "Directly opposite the Bogor Botanical Gardens, in the heart of central Bogor",
+    "Walking distance to Bogor Presidential Palace and the Lawang Suryakencana food street",
+    "171 rooms with a colorful, modern 'Dancing in the Rain' design concept",
+    "Free bicycles, a kids' corner, and 10 meeting rooms for events up to 100 guests",
+    "Consistently praised for clean rooms, comfortable beds, and responsive staff"
+  ],
+  "cons": [
+    "As a central-city hotel, it lacks the resort-style grounds and multiple pools of Bogor's golf-estate properties",
+    "Being on a main city road means some traffic noise compared to more secluded options"
+  ],
+  "research_highlights": [
+    "The opposite-the-Botanical-Gardens location is repeatedly called out as the hotel's standout feature",
+    "Staff responsiveness -- including late-night requests -- draws specific guest praise",
+    "The free bicycles and walkable heritage sights (Istana Bogor, Lawang Suryakencana) are highlighted in recent coverage"
+  ],
+  "research_watchouts": [
+    "No major recurring complaints surfaced in available coverage as of research date"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Bogor Pajajaran close to the Botanical Gardens?",
+      "answer": "Yes -- it sits directly opposite the Bogor Botanical Gardens on Jalan Raya Pajajaran, with the pedestrian entrance reachable on foot from the hotel lobby. The location also puts the Bogor Presidential Palace and the Lawang Suryakencana food street within an easy walk of the 171-room hotel."
+    },
+    {
+      "question": "Does ibis Styles Bogor Pajajaran have meeting facilities?",
+      "answer": "Yes -- it has 10 meeting rooms, the largest at 152 sqm, accommodating up to 100 guests for meetings or 80 for banquets, plus wedding facilities for up to 200 people. The design-economy hotel also offers free bicycles and a kids' corner for guests attending events with family in tow."
+    }
+  ],
+  "tags": ["botanical gardens", "city center", "design economy", "walkable"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A1K4/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297706-d23414130-Reviews-Ibis_Styles_Bogor_Pajajaran-Bogor_West_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A1K4/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-bogor-raya", "novotel-bogor-golf-resort"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Menginap di Ibis Styles Bogor Pajajaran, Dekat Kebun Raya dan Destinasi Ikonik",
+        "source": "Urbanvibes.ID",
+        "url": "https://urbanvibes.id/2025/09/29/menginap-di-ibis-styles-bogor-pajajaran-dekat-kebun-raya-dan-destinasi-ikonik/",
+        "published_date": "2025-09-29",
+        "summary": "Covers the hotel's Jalan Raya Pajajaran location opposite the Botanical Gardens and walking distance to Istana Bogor and Lawang Suryakencana, quoting the GM on the walkable heritage setting."
+      }
+    ],
+    "videos": [
+      {
+        "title": "HOTEL DI 2025 YANG PUNYA STYLE DI BOGOR - REVIEW HOTEL IBIS STYLE PAJAJARAN BOGOR",
+        "channel": "Cerita Buba",
+        "url": "https://www.youtube.com/watch?v=oQbCxTSVXHQ",
+        "video_id": "oQbCxTSVXHQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
