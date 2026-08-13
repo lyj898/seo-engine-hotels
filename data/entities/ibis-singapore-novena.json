@@ -1,0 +1,105 @@
+{
+  "entity_id": "ibis-singapore-novena",
+  "slug": "ibis-singapore-novena",
+  "name": "ibis Singapore Novena",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 241-room 3-star hotel at the Irrawaddy/Balestier Road junction, about an 8-minute walk from Novena MRT, with loaner mobile phones and an on-site restaurant and bar.",
+  "ai_summary": "ibis Singapore Novena sits at the intersection of Irrawaddy Road and Balestier Road in the Novena/Balestier heritage district, roughly an 8-minute walk from Novena MRT Station and two stops from Orchard Road, with Marina Bay reachable in about 15 minutes. The economy-tier hotel has 241 rooms, a casual OOPEN restaurant, an in-house bar, free WiFi and parking, and a distinctive perk of complimentary loaner 4G smartphones for guests to use during their stay. Guest and review-site feedback (including Oyster.com and independent blogs) is largely positive on cleanliness, value, and staff friendliness, with the free MRT shuttle and loaner-phone service singled out as standout touches, though a minority of reviews report inconsistent front-desk service and small room sizes typical of the ibis brand.",
+  "core_facts": {
+    "address": "6 Irrawaddy Road, Novena, Singapore 329543",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Novena / Balestier",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About an 8-minute walk from Novena MRT, with Orchard Road two stops away and Marina Bay about 15 minutes off",
+    "241 rooms with complimentary loaner 4G smartphones for guests to use for calls, texts, and data during their stay",
+    "Free shuttle service to/from Novena MRT Station",
+    "OOPEN restaurant serving pasta, grills, and Asian cuisine, plus an in-house bar",
+    "Consistently praised for cleanliness, staff friendliness, and value versus other Singapore hotels"
+  ],
+  "cons": [
+    "Rooms are compact (around 18 sqm), typical of the ibis economy tier, with limited on-site facilities beyond coin-operated laundry",
+    "A minority of reviews report inconsistent or unwelcoming front-desk service, and some guests mention mosquitoes or ventilation issues"
+  ],
+  "research_highlights": [
+    "Oyster.com's professional review and multiple independent blogs (I Wander, Syfa & Ganjar Story) confirm the loaner-smartphone perk and note rooms are kept in good, clean condition despite their small size",
+    "The free shuttle to Novena MRT is repeatedly cited by guests as a meaningful convenience for a budget-tier property",
+    "TripAdvisor shows 1,688+ reviews with location and value as the most consistently praised aspects"
+  ],
+  "research_watchouts": [
+    "A vocal minority of TripAdvisor reviews describe arrogant or unhelpful front-desk staff, contrasting with the generally positive majority -- worth flagging as inconsistent rather than universal",
+    "No dated, confidently-sourced independent blog review with a clear publish date could be confirmed for external_coverage; the Oyster.com professional review page does not display an explicit publication date"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Singapore Novena from Novena MRT station?",
+      "answer": "It's about an 8-minute walk from Novena MRT Station, and the hotel also runs a complimentary shuttle service to and from the station. From there, Orchard Road is just two MRT stops away, and Marina Bay is roughly 15 minutes by train, making it a convenient budget base for exploring central Singapore."
+    },
+    {
+      "question": "Does ibis Singapore Novena offer free mobile phones?",
+      "answer": "Yes -- guests can borrow a complimentary 4G smartphone during their stay for local calls, texts, and unlimited data browsing, a distinctive perk for a 3-star economy hotel. Combined with free WiFi and parking, it's aimed at travelers who want practical connectivity without extra cost."
+    }
+  ],
+  "tags": ["novena", "balestier", "budget hotel"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/7451/index.en.shtml",
+      "label": "Official ibis Singapore Novena page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d2002652-Reviews-Ibis_Singapore_Novena-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.oyster.com/singapore/hotels/ibis-singapore-novena/",
+      "label": "Oyster.com professional hotel review",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/7451/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-singapore-on-bencoolen"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Ibis Singapore, Novena - Hotel we stayed in Singapore | Room tour, breakfast buffet and mini review",
+        "channel": "Homemaker's Journal",
+        "url": "https://www.youtube.com/watch?v=y5UnZcc8yk8",
+        "video_id": "y5UnZcc8yk8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 73,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 70 },
+      { "label": "Rooms", "score": 68 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,109 @@
+{
+  "entity_id": "ibis-budget-semarang-tendean",
+  "slug": "ibis-budget-semarang-tendean",
+  "name": "ibis budget Semarang Tendean",
+  "category_id": "accor-all",
+  "region_id": "semarang",
+  "short_description": "A 160-room economy hotel on Jalan Kapten Pierre Tendean, a 5-minute walk from Paragon Mall and close to the Simpang Lima district.",
+  "ai_summary": "ibis budget Semarang Tendean is a no-frills economy hotel on Jalan Kapten Pierre Tendean, about 200 meters from Paragon Mall and 500 meters from the Lawang Sewu museum, close to the Simpang Lima district in central Semarang. The 160-room property offers compact rooms with Sweet Bed bedding, an all-you-can-eat breakfast buffet, and even a small spa and batik shopping gallery, aimed squarely at budget-conscious business and leisure travelers. Guests consistently rate the location highly for its walkable access to malls and food, though comfort and room-size reviews run more mixed, reflecting the brand's economy positioning. Rooms are compact (as small as 12 square meters in some configurations), and this trade-off should be expected at the price point.",
+  "core_facts": {
+    "address": "Jl. Kapten Pierre Tendean 21, 50132 Semarang, Indonesia",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Tendean / Simpang Lima",
+    "elite_benefits": [
+      "Member rates and booking benefits for ALL - Accor Live Limitless members",
+      "Points earning on eligible stays for ALL members, per program terms",
+      "Access to member-exclusive promotional rates at participating ibis budget properties"
+    ]
+  },
+  "pros": [
+    "160 rooms, 200m walk from Paragon Mall and close to Simpang Lima",
+    "All-you-can-eat breakfast buffet included at an economy price point",
+    "Small on-site spa and batik shopping gallery are unusual extras for the budget segment",
+    "500m from Lawang Sewu museum, useful base for sightseeing",
+    "Free Wi-Fi and 24-hour reception"
+  ],
+  "cons": [
+    "Rooms run compact, some configurations as small as 12 square meters",
+    "Comfort ratings trail the location score, consistent with the brand's economy positioning"
+  ],
+  "research_highlights": [
+    "Location is the standout strength -- guests repeatedly call out the walk to Paragon Mall and city-center convenience",
+    "The breakfast buffet and value pricing draw consistent praise for a budget-tier property",
+    "Aggregator data shows a notably wide gap between strong location scores and lower comfort scores"
+  ],
+  "research_watchouts": [
+    "Room sizes are small (as low as 12 sqm for bunk-bed configurations) -- set expectations accordingly",
+    "This is an economy ibis budget property, not part of the ALL loyalty elite-tier benefit structure that fuller-service Accor brands offer"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Where is ibis budget Semarang Tendean located?",
+      "answer": "The hotel is on Jalan Kapten Pierre Tendean in central Semarang, about a 5-minute walk from Paragon Mall, 500 meters from the Lawang Sewu museum, roughly 2 km from Tawang train station, and about 6 km from Ahmad Yani International Airport."
+    },
+    {
+      "question": "How many rooms does ibis budget Semarang Tendean have?",
+      "answer": "The hotel has 160 compact rooms, offered in double bed, twin bed, and bunk bed configurations for up to three guests, reflecting the standardized economy format the ibis budget brand uses across its Indonesian properties."
+    },
+    {
+      "question": "Is breakfast included at ibis budget Semarang Tendean?",
+      "answer": "The hotel offers an all-you-can-eat breakfast buffet, though at some booking rates it may be added as a surcharge rather than bundled by default, so travelers should check the specific rate's inclusions when booking rather than assuming it is always included."
+    }
+  ],
+  "tags": ["budget", "tendean", "city center"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8430/index.en.shtml",
+      "label": "Official ibis budget Semarang Tendean page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.expedia.com/Semarang-Hotels-Ibis-Budget-Semarang-Tendean.h10215600.Hotel-Information",
+      "label": "Expedia hotel information page",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297712-d6680139-Reviews-Ibis_Budget_Semarang_Tendean-Semarang_Central_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8430/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-semarang-simpang-lima", "ibis-styles-semarang-simpang-lima"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "HOTEL IBIS BUDGET SEMARANG TENDEAN JAWA TENGAH | REVIEW DAN ROOM TOUR HOTEL",
+        "channel": "Like Mecca",
+        "url": "https://www.youtube.com/watch?v=EEYBOr52aWA",
+        "video_id": "EEYBOr52aWA"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 71,
+    "breakdown": [
+      { "label": "Location", "score": 87 },
+      { "label": "Service", "score": 74 },
+      { "label": "Rooms", "score": 62 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 48,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
