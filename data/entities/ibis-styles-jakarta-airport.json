@@ -1,0 +1,115 @@
+{
+  "entity_id": "ibis-styles-jakarta-airport",
+  "slug": "ibis-styles-jakarta-airport",
+  "name": "ibis Styles Jakarta Airport",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 251-room economy hotel about 2 km (10 minutes) from Soekarno-Hatta International Airport, with a complimentary airport shuttle, all-you-can-eat breakfast for two, a pool, and 7 meeting rooms.",
+  "ai_summary": "ibis Styles Jakarta Airport is a 251-room economy hotel in Kampung Rawa Bokor, Tangerang, about 2 km (roughly a 10-minute drive) from Soekarno-Hatta International Airport (CGK), making it a common pick for early-morning departures and transit stays. The hotel leans on the ibis Styles brand's colorful, design-forward look and offers a complimentary airport shuttle, all-you-can-eat buffet breakfast for two included in the room rate, an outdoor swimming pool, a wellness and spa center, gym, and 7 meeting rooms. Guest reviews are mixed-to-positive: many praise the friendly staff, clean rooms, and shuttle convenience, and breakfast starting around 4am is repeatedly called out as useful for early flights, but a recurring complaint is that the shuttle's fixed schedule and multiple CGK terminals mean it isn't always reliable for time-pressed travelers, and at least one long-time guest noted the breakfast selection has narrowed over the years.",
+  "core_facts": {
+    "address": "Jl Raya Bandara Soekarno Hatta, Kp. Rawa Bokor, Tangerang 15125, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Rawa Bokor, Tangerang (Soekarno-Hatta Airport area, Greater Jakarta)",
+    "distance_from_airport_km": 2,
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About 2 km (10-minute drive) from Soekarno-Hatta International Airport (CGK)",
+    "Complimentary airport shuttle and all-you-can-eat breakfast for two included",
+    "Outdoor swimming pool, wellness & spa center, and gym on-site",
+    "7 meeting rooms for business travelers passing through",
+    "Breakfast service starting around 4am suits early departures"
+  ],
+  "cons": [
+    "Shuttle runs on a fixed schedule and CGK has three separate terminals, so timing can be tight for time-pressed flights",
+    "At least one long-time guest noted the breakfast variety has narrowed compared to earlier stays",
+    "Some rooms reported as noisy given proximity to the airport road"
+  ],
+  "research_highlights": [
+    "TripAdvisor ranks the hotel around #43 of roughly 92 hotels in Tangerang with a 4/5 rating; Booking.com shows about 1,446 reviews at 7.9/10",
+    "251 rooms with the ibis bedding concept, free WiFi, and a complimentary roundtrip airport shuttle",
+    "All-you-can-eat buffet breakfast for two guests is bundled into the room rate, a notable value-add versus other budget airport hotels"
+  ],
+  "research_watchouts": [
+    "Reviewers repeatedly flag the shuttle as less convenient than advertised: fixed timetable, three CGK terminals, and at least one reviewer calling airport pick-up unreliable",
+    "A June 2026 Trip.com review from a Diamond-tier guest reported poor smoking-room ventilation and an unprofessional front-desk experience over a late-checkout charge -- an outlier versus the generally positive review base"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Styles Jakarta Airport from Soekarno-Hatta International Airport?",
+      "answer": "The hotel is about 2 km away, roughly a 10-minute drive, and offers a complimentary shuttle -- though guests note CGK's three terminals and the shuttle's fixed schedule mean it's worth confirming timing in advance for early or tight-connection flights."
+    },
+    {
+      "question": "Is breakfast included at ibis Styles Jakarta Airport?",
+      "answer": "Yes -- room rates include an all-you-can-eat buffet breakfast for two guests, with service starting around 4am to accommodate early-morning flights out of nearby Soekarno-Hatta International Airport. Guests consistently call this out as a useful value-add versus other budget airport hotels, though at least one long-time visitor has noted the breakfast selection has narrowed somewhat over recent years."
+    }
+  ],
+  "tags": ["airport", "soekarno-hatta", "tangerang", "budget hotel", "shuttle"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8593/index.en.shtml",
+      "label": "Official ibis Styles Jakarta Airport page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/benda-hotel-detail-2140868/ibis-styles-jakarta-airport/",
+      "label": "Trip.com guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1493703-d6434430-Reviews-Ibis_Styles_Jakarta_Airport-Tangerang_Banten_Province_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8593/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-jakarta-sunter", "ibis-styles-jakarta-mangga-dua-square"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Ibis Styles Jakarta Airport guest review, smoking room",
+        "source": "Trip.com",
+        "url": "https://us.trip.com/hotels/benda-hotel-detail-2140868/ibis-styles-jakarta-airport/",
+        "published_date": "2026-06-18",
+        "summary": "Diamond-tier guest rated the stay 4/10, citing poor ventilation in the smoking room, an uncomfortable bed and pillows, and an unprofessional front-desk interaction over a late-checkout fee charged across four rooms."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Ibis Styles Jakarta Airport Hotel | Jakarta, Indonesia | Hotel Review",
+        "channel": "Indonesia Hotel Tour",
+        "url": "https://www.youtube.com/watch?v=HMDwXrtgm_A",
+        "video_id": "HMDwXrtgm_A"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 84 },
+      { "label": "Service", "score": 76 },
+      { "label": "Rooms", "score": 70 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 74 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

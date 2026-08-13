@@ -1,0 +1,113 @@
+{
+  "entity_id": "ibis-styles-jakarta-tanah-abang",
+  "slug": "ibis-styles-jakarta-tanah-abang",
+  "name": "ibis Styles Jakarta Tanah Abang",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 201-room design-led economy hotel in Central Jakarta, a 15-minute walk from Southeast Asia's largest textile market and about 2.6 km from Monas, with an indoor pool and 8 meeting rooms.",
+  "ai_summary": "ibis Styles Jakarta Tanah Abang is a 201-room economy hotel in Central Jakarta's Tanah Abang district, best known as the location of Southeast Asia's largest textile wholesale market, about a kilometer (roughly a 15-minute walk) away. The property leans on the ibis Styles brand's colorful, creative design language and offers an indoor swimming pool, fitness center, spa, kids' playground, and 8 meeting rooms with capacity for up to 250 guests. It sits within a few kilometers of Monas, Grand Indonesia, and Plaza Indonesia, putting the Sudirman-Thamrin CBD and Jakarta's main shopping malls within a short drive. Guest reviews are strongly positive, with Trip.com showing a 9.1/10 average, and repeatedly praise the buffet breakfast, cleanliness, and friendly staff, though several reviewers note there is little to eat or buy within immediate walking distance and a car or ride-hail is needed for anything beyond the hotel itself.",
+  "core_facts": {
+    "address": "Jl Fachruddin No 22, Kampung Bali, Tanah Abang, 10250 Jakarta Pusat, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Tanah Abang, Central Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About 1 km (15-minute walk) from Tanah Abang textile market, Southeast Asia's largest",
+    "Indoor swimming pool, fitness center, spa, and kids' playground on-site",
+    "8 meeting rooms with capacity up to 250 guests for MICE groups",
+    "Roughly 2.6 km from Monas and 2.8-3 km from Grand Indonesia and Plaza Indonesia malls",
+    "Strong guest review scores; buffet breakfast and staff friendliness repeatedly praised"
+  ],
+  "cons": [
+    "Few convenience stores or restaurants within immediate walking distance -- a car or ride-hail is needed for most dining beyond the hotel",
+    "At least one guest review flagged inconsistent room cleanliness (stained pillowcase, hairs on the bed)"
+  ],
+  "research_highlights": [
+    "Trip.com shows a 9.1/10 average across roughly 300 reviews, with guests praising cleanliness, security, and breakfast variety",
+    "The Tanah Abang textile market location is the property's defining landmark, drawing both wholesale shoppers and business travelers",
+    "Sizeable MICE footprint for a budget-tier property, with 8 meeting rooms seating up to 250"
+  ],
+  "research_watchouts": [
+    "Multiple reviewers note the immediate surroundings are light on independent restaurants and shops, unlike ibis Styles properties closer to malls",
+    "At least one 2026 Trip.com review reported subpar room cleanliness (stained pillowcase, hairs found on the bed), an outlier against an otherwise high review average"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How far is ibis Styles Jakarta Tanah Abang from Tanah Abang textile market?",
+      "answer": "The hotel is about 1 km from the market, roughly a 15-minute walk, making it a convenient base for wholesale shoppers as well as business and leisure travelers. It also sits within a few kilometers of Monas, Grand Indonesia, and Plaza Indonesia, putting Central Jakarta's main landmarks and shopping malls within a short drive."
+    },
+    {
+      "question": "Does ibis Styles Jakarta Tanah Abang have a swimming pool?",
+      "answer": "Yes -- the hotel has its own indoor swimming pool, along with a fitness center, spa, and a kids' playground. The 201-room property also has 8 meeting rooms with capacity for up to 250 guests, making it a practical choice for both leisure stays and small business events in Central Jakarta."
+    }
+  ],
+  "tags": ["tanah abang", "central jakarta", "textile market", "budget hotel", "mice"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8674/index.en.shtml",
+      "label": "Official ibis Styles Jakarta Tanah Abang page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/central-jakarta-city-hotel-detail-23990802/ibis-styles-jakarta-tanah-abang/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d17366720-Reviews-Ibis_Styles_Jakarta_Tanah_Abang-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8674/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-jakarta-mangga-dua-square", "all-seasons-jakarta-thamrin"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Ibis Styles Jakarta Tanah Abang guest review, Superior Queen Room",
+        "source": "Trip.com",
+        "url": "https://us.trip.com/hotels/central-jakarta-city-hotel-detail-23990802/ibis-styles-jakarta-tanah-abang/review.html",
+        "published_date": "2026-07-15",
+        "summary": "Guest rated the stay 6.5/10, reporting the room's pillowcase had yellow stains, discoloration on the back, and two long hairs found on the bed."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ibis Styles Jakarta Tanah Abang - Inside This Stunning Hotel | Jakarta, Indonesia",
+        "channel": "UltimateHotelReview",
+        "url": "https://www.youtube.com/watch?v=90tYAgcC1xM",
+        "video_id": "90tYAgcC1xM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

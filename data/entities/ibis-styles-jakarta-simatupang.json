@@ -1,0 +1,105 @@
+{
+  "entity_id": "ibis-styles-jakarta-simatupang",
+  "slug": "ibis-styles-jakarta-simatupang",
+  "name": "ibis Styles Jakarta Simatupang",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 142-room design-led economy hotel on the main TB Simatupang corridor in South Jakarta, about 2.4 km from Mercure Jakarta Simatupang, with a junior ballroom and 5 meeting rooms.",
+  "ai_summary": "ibis Styles Jakarta Simatupang is a 142-room economy hotel positioned directly on the TB Simatupang business corridor in South Jakarta, close to office towers, government buildings, and shopping centers like Cilandak Town Square and One Belpark Mall. Rooms use the ibis Sweet Bed and come mostly as 138 Superior Rooms plus 4 Family Rooms, each with a 42-inch LED TV. The hotel targets both business travelers working the Simatupang corridor and leisure guests, with a junior ballroom and 5-6 meeting rooms seating up to around 240 people, a Streats bar, and CHSE/ALLSAFE cleanliness certification. Guest reviews are generally positive, praising cleanliness, professional and friendly staff, and a varied breakfast, though some note the rooms run small and can pick up noise from the corridor.",
+  "core_facts": {
+    "address": "Jl Cilandak Tengah No 23, Cilandak Barat, Jakarta Selatan, 12430 Jakarta, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Cilandak, TB Simatupang corridor, South Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Located directly on the TB Simatupang business corridor in South Jakarta",
+    "142 rooms including 4 Family Rooms, all with the ibis Sweet Bed and 42-inch LED TVs",
+    "Junior ballroom plus meeting rooms seating up to roughly 240 for MICE groups",
+    "CHSE and ALLSAFE certified for cleanliness and safety standards",
+    "Close to Cilandak Town Square, One Belpark Mall, and ITC Fatmawati for shopping"
+  ],
+  "cons": [
+    "Some guests describe rooms as small for the price point",
+    "A minority of reviews note occasional street or corridor noise"
+  ],
+  "research_highlights": [
+    "One of Accor's newer ibis Styles openings in Jakarta (introduced in 2019), positioned on the fast-growing TB Simatupang office corridor",
+    "About 2.4 km from Mercure Jakarta Simatupang, giving South Jakarta business travelers an Accor budget alternative on the same corridor",
+    "CHSE (Cleanliness, Health, Safety, Environment) and Accor ALLSAFE certification highlighted in official coverage"
+  ],
+  "research_watchouts": [
+    "Room count skews small relative to other ibis Styles Jakarta properties (142 vs. 200+ at Tanah Abang and Mangga Dua Square)",
+    "Distance to Soekarno-Hatta Airport is not stated on the official Accor page; South Jakarta's Simatupang corridor is well southeast of the airport, so allow extra drive time versus airport-area hotels"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Jakarta Simatupang good for business travelers?",
+      "answer": "Yes -- it sits directly on the TB Simatupang corridor, one of South Jakarta's main office and business districts, and has a junior ballroom plus meeting rooms that can seat up to roughly 240 guests."
+    },
+    {
+      "question": "Does ibis Styles Jakarta Simatupang have family rooms?",
+      "answer": "Yes -- alongside 138 Superior Rooms, the hotel has 4 dedicated Family Rooms, all fitted with the ibis Sweet Bed and 42-inch LED TVs. The 142-room property sits directly on the TB Simatupang corridor in South Jakarta, close to Cilandak Town Square and One Belpark Mall, making it convenient for families combining shopping with a South Jakarta stay."
+    }
+  ],
+  "tags": ["simatupang", "south jakarta", "business hotel", "budget hotel", "mice"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A1K5/index.en.shtml",
+      "label": "Official ibis Styles Jakarta Simatupang page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d17757815-Reviews-Ibis_Styles_Jakarta_Simatupang-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://adv.kompas.id/baca/accor-perkenalkan-ibis-styles-jakarta-simatupang/",
+      "label": "Kompas.id advertorial -- hotel opening coverage",
+      "type": "other",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A1K5/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-jakarta-sunter", "ibis-styles-jakarta-mangga-dua-square"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "ibis Styles Jakarta Simatupang Hotel | Jakarta, Indonesia | Hotel Review",
+        "channel": "Indonesia Hotel Secrets",
+        "url": "https://www.youtube.com/watch?v=TZeXU1Fh3lQ",
+        "video_id": "TZeXU1Fh3lQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 78,
+    "breakdown": [
+      { "label": "Location", "score": 80 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 72 },
+      { "label": "Food & breakfast", "score": 78 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

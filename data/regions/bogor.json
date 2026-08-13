@@ -1,0 +1,12 @@
+{
+  "region_id": "bogor",
+  "slug": "bogor",
+  "label": "Bogor",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "Hill-station hotels around Bogor city and the Puncak/Ciawi corridor, an hour south of Jakarta.",
+  "intro": "Bogor's hotels in this directory span the West Java city itself -- known for its Botanical Gardens, Presidential Palace, and cooler highland climate -- plus the Ciawi/Puncak corridor just south of the city, a long-running weekend retreat for Jakarta residents escaping the capital's heat and traffic. Properties range from city-center hotels near the Botanical Gardens to golf-estate resorts on Bogor's outskirts and mountain resorts further along the Puncak pass toward Cianjur. Bogor is reached via the Jagorawi Toll Road, roughly 50 minutes to an hour from central Jakarta by car.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
