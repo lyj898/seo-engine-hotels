@@ -1,0 +1,109 @@
+{
+  "entity_id": "ibis-budget-surabaya-diponegoro",
+  "slug": "ibis-budget-surabaya-diponegoro",
+  "name": "ibis budget Surabaya Diponegoro",
+  "category_id": "accor-all",
+  "region_id": "surabaya",
+  "short_description": "A 138-room budget hotel on Jalan Raya Diponegoro in the Darmo Wonokromo area, about 4km from Gubeng Train Station and 15km from Juanda Airport.",
+  "ai_summary": "ibis budget Surabaya Diponegoro is a 138-room economy hotel on Jalan Raya Diponegoro, one of Surabaya's main arterial roads in the Darmo Wonokromo area, roughly 4km from Gubeng Train Station and 3.3km from Tunjungan Plaza. Rooms follow ibis budget's compact NEST concept with the brand's Sweet Bed, air-conditioning, and a flat-screen TV, and the ground-floor Dipo Breakfast Corner serves a buffet for a surcharge. Guest feedback is generally positive for a budget property, with reviewers highlighting clean and quieter-than-expected rooms, fast check-in, and helpful staff, while a recurring gripe is that basic toiletries (toothbrush, soap, shampoo) are not always stocked and the on-site parking area is narrow. It functions primarily as a practical, no-frills base for business and transit travelers rather than a leisure destination in its own right.",
+  "core_facts": {
+    "address": "Jalan Raya Diponegoro No. 183, Darmo Wonokromo, Surabaya 60241, Indonesia",
+    "brand_sub_brand": "ibis budget",
+    "neighborhood": "Darmo Wonokromo",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Central Darmo Wonokromo location on a main arterial road, about 3.3km from Tunjungan Plaza",
+    "138 rooms with the compact NEST concept and ibis budget's Sweet Bed",
+    "Guests repeatedly note clean, quiet rooms and fast check-in/check-out",
+    "Helpful, attentive front-desk staff mentioned across reviews",
+    "Only 4km from Gubeng Train Station, useful for rail travelers"
+  ],
+  "cons": [
+    "Basic in-room toiletries (toothbrush, soap, shampoo) are not always stocked, per guest reports",
+    "On-site parking is narrow and can require valet assistance"
+  ],
+  "research_highlights": [
+    "Guests consistently rate the rooms as clean and quieter than expected for a budget property",
+    "Fast, efficient check-in and check-out is a repeated theme in reviews",
+    "Location on Jalan Raya Diponegoro is convenient for reaching Tunjungan Plaza and central Surabaya"
+  ],
+  "research_watchouts": [
+    "Some guests report rooms missing basic toiletries -- worth confirming amenities at booking",
+    "No independently published written blog/press review could be confirmed as of this research; only aggregator review scores were verifiable"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How many rooms does ibis budget Surabaya Diponegoro have?",
+      "answer": "The hotel has 138 rooms, built around ibis budget's compact NEST rooms concept and featuring the brand's Sweet Bed. Rooms include air-conditioning, a flat-screen TV, and free WiFi, positioning the property as a practical, no-frills base for business and transit travelers in Surabaya."
+    },
+    {
+      "question": "Where is ibis budget Surabaya Diponegoro located?",
+      "answer": "It sits on Jalan Raya Diponegoro in the Darmo Wonokromo area of Surabaya, about 3.3km from Tunjungan Plaza, 4km from Gubeng Train Station, and roughly 15km from Juanda International Airport, making it a reasonably central option for reaching both the business district and transit points."
+    },
+    {
+      "question": "Does ibis budget Surabaya Diponegoro serve breakfast?",
+      "answer": "Yes -- the ground-floor Dipo Breakfast Corner overlooks Diponegoro street and serves a buffet breakfast with continental and local Surabaya dishes, though as is typical for the ibis budget brand, breakfast is offered for a surcharge rather than included in the room rate."
+    }
+  ],
+  "tags": ["budget hotel", "darmo wonokromo", "surabaya"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9524/index.en.shtml",
+      "label": "Official ibis budget Surabaya Diponegoro page on ALL - Accor",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.booking.com/hotel/id/ibis-budget-surabaya-diponegoro.html",
+      "label": "Booking.com guest reviews and ratings",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g297715-d15138866-Reviews-Ibis_budget_Surabaya_Diponegoro-Surabaya_East_Java_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9524/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-surabaya-tidar", "movenpick-surabaya-city"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Ibis Budget Surabaya Diponegoro | 365 Nights in Accor Hotels (Night 29)",
+        "channel": "BeBaffled Travel",
+        "url": "https://www.youtube.com/watch?v=_8--pmMzFfU",
+        "video_id": "_8--pmMzFfU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 74,
+    "breakdown": [
+      { "label": "Location", "score": 79 },
+      { "label": "Service", "score": 81 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 68 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

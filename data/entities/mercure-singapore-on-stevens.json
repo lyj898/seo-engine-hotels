@@ -1,0 +1,113 @@
+{
+  "entity_id": "mercure-singapore-on-stevens",
+  "slug": "mercure-singapore-on-stevens",
+  "name": "Mercure Singapore on Stevens",
+  "category_id": "accor-all",
+  "region_id": "singapore",
+  "short_description": "A 518-room 4-star hotel on Stevens Road near the Botanic Gardens, sharing a connected building with Novotel Singapore on Stevens and two pools, four dining outlets, and a gym.",
+  "ai_summary": "Mercure Singapore on Stevens occupies 28 Stevens Road in the leafy Orchard District, a short drive from Orchard Road and the UNESCO-listed Singapore Botanic Gardens, and shares its building and much of its infrastructure with the adjoining Novotel Singapore on Stevens. The 518-room hotel offers a 35-metre infinity pool, a separate lap pool, a 24-hour gym with Anytime Fitness access, four dining outlets including the WINESTONE restaurant, and roughly 450 square metres of meeting space. Guest and blogger reviews are consistently positive, highlighting attentive staff, well-designed rooms (including upgraded Privilege Rooms with Nespresso machines for elite members), strong soundproofing, and easy access to Orchard Road, with only occasional complaints about the residential setting being a walk from the nearest MRT.",
+  "core_facts": {
+    "address": "28 Stevens Road, Orchard District, Singapore 257878",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Stevens Road, Orchard District",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "518 rooms sharing a connected building and facilities with Novotel Singapore on Stevens",
+    "Two pools -- a 35-metre infinity pool and a separate lap pool -- plus a 24-hour gym with Anytime Fitness access",
+    "Four dining outlets including the WINESTONE restaurant, and roughly 450 sq m of meeting space",
+    "Short drive to Orchard Road shopping and the Singapore Botanic Gardens",
+    "Reviewers highlight attentive staff, comfortable rooms, and good soundproofing"
+  ],
+  "cons": [
+    "The Stevens Road setting is residential and a walk from the nearest MRT, so most guests rely on the hotel's shuttle service or taxis",
+    "A minority of TripAdvisor reviews report inconsistent experiences for families versus solo/business travelers"
+  ],
+  "research_highlights": [
+    "A January 2026 blogger review (The Seat in the Middle) praised the Privilege Room's design, Nespresso machine, and the shared Novotel facilities as a genuine value-add",
+    "Guests repeatedly single out the Winestone restaurant and the two-pool setup as standout amenities",
+    "TripAdvisor ranks it among Singapore's higher-rated 4-star hotels, with 1,191+ reviews at a 4/5 average"
+  ],
+  "research_watchouts": [
+    "Some reviews note the location, while pleasant and green, is not within easy walking distance of an MRT station or major shopping",
+    "A small number of family-travel reviews were notably more critical than the broader review base -- worth weighing alongside the majority-positive feedback"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Mercure Singapore on Stevens close to Orchard Road?",
+      "answer": "It's a short drive from Orchard Road's shopping belt and close to the Singapore Botanic Gardens, though the Stevens Road setting itself is quieter and residential. The hotel offers shuttle services to nearby MRT stations and attractions for guests who prefer not to walk or taxi."
+    },
+    {
+      "question": "Does Mercure Singapore on Stevens share facilities with another hotel?",
+      "answer": "Yes -- it occupies the same building as Novotel Singapore on Stevens, and guests can access shared amenities including two pools, a 24-hour gym, and four dining outlets, giving Mercure guests a wider range of facilities than a standalone 4-star property would typically offer."
+    }
+  ],
+  "tags": ["orchard district", "stevens road", "botanic gardens"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9561/index.en.shtml",
+      "label": "Official Mercure Singapore On Stevens page (ALL Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294265-d13135926-Reviews-Mercure_Singapore_On_Stevens-Singapore.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.theseatinthemiddle.com/2026/01/12/hotel-review-mercure-on-stevens-singapore/",
+      "label": "The Seat in the Middle hotel review blog",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.mercure-singapore-stevens.com/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-singapore-on-stevens"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "source": "The Seat in the Middle",
+        "title": "Hotel Review: Mercure on Stevens, Singapore",
+        "url": "https://www.theseatinthemiddle.com/2026/01/12/hotel-review-mercure-on-stevens-singapore/",
+        "published_date": "2026-01-12",
+        "summary": "An Accor Platinum member praised the well-designed Privilege Room, strong soundproofing, and the wider range of facilities from sharing a building with Novotel."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mercure Singapore On Stevens (Full Review) Hotel Inspector",
+        "channel": "Hotel Quality Inspector",
+        "url": "https://www.youtube.com/watch?v=rfTHLGJBOew",
+        "video_id": "rfTHLGJBOew"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 76 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 82 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
