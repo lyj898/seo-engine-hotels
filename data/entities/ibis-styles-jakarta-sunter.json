@@ -1,0 +1,113 @@
+{
+  "entity_id": "ibis-styles-jakarta-sunter",
+  "slug": "ibis-styles-jakarta-sunter",
+  "name": "ibis Styles Jakarta Sunter",
+  "category_id": "accor-all",
+  "region_id": "jakarta",
+  "short_description": "A 145-room family-friendly hotel in North Jakarta's Sunter business district, about 1 km from Kelapa Gading Mall and Mall of Indonesia, with a kids' pool and 11 meeting rooms.",
+  "ai_summary": "ibis Styles Jakarta Sunter is a 145-room economy hotel in North Jakarta's Sunter business and residential district, roughly a kilometer from both Kelapa Gading Mall and Mall of Indonesia. The property leans into families and MICE groups, offering a swimming pool with a kids' area, a badminton court, billiards, and 11 meeting rooms plus a ballroom that can hold up to 700 people. Guest reviews are strongly positive overall, citing helpful staff, a family-friendly pool, and good value, though at least one 2024 review flagged a bed bug incident and thin breakfast options -- worth noting alongside the otherwise high review volume.",
+  "core_facts": {
+    "address": "Jalan Gaya Motor I, Sungai Bambu, Sunter, 14330 Jakarta, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "Sunter, North Jakarta",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "About 1 km from both Kelapa Gading Mall and Mall of Indonesia",
+    "Family-friendly swimming pool with a kids' area and playground",
+    "11 meeting rooms plus a ballroom seating up to 700 for MICE groups",
+    "Badminton court, billiards, and spa on-site",
+    "Consistently high review scores and friendly, cooperative staff"
+  ],
+  "cons": [
+    "At least one 2024 guest review reported a bed bug and thin breakfast buffet options",
+    "Rooms described by some guests as comfortable but on the smaller side for a business hotel"
+  ],
+  "research_highlights": [
+    "TripAdvisor ranks the hotel highly among Jakarta properties, with reviewers repeatedly praising staff friendliness and the family/kids' pool setup",
+    "Strategic North Jakarta location near Kelapa Gading Mall, Mall of Indonesia, and JIExpo Kemayoran suits both shopping-focused leisure travelers and exhibition-related business trips",
+    "Sizeable MICE footprint for a budget-tier property, with 11 meeting rooms and a 700-capacity ballroom"
+  ],
+  "research_watchouts": [
+    "A November 2024 Trip.com review (stayed October 2024) reported no porter service, missing bathroom soap, questionable drinking water, a limited breakfast buffet, and a bed bug on the first night -- an outlier versus the otherwise strong review average, but worth flagging",
+    "Airport distance is not stated on the official Accor page; North Jakarta's Sunter district is well east of Soekarno-Hatta International Airport, so allow for a longer drive than hotels closer to the CBD or airport"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis Styles Jakarta Sunter good for families?",
+      "answer": "Yes -- the hotel has a swimming pool with a dedicated kids' area and playground, plus a badminton court and billiards, and it sits about 1 km from both Kelapa Gading Mall and Mall of Indonesia for family shopping trips."
+    },
+    {
+      "question": "Does ibis Styles Jakarta Sunter have meeting facilities?",
+      "answer": "Yes -- the property has 11 meeting rooms and a ballroom that can seat up to 700 people, making it one of the larger MICE-capable ibis Styles properties in Jakarta."
+    }
+  ],
+  "tags": ["sunter", "north jakarta", "family friendly", "budget hotel", "mice"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9213/index.en.shtml",
+      "label": "Official ibis Styles Jakarta Sunter page (ALL - Accor)",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g294229-d8464436-Reviews-Ibis_Styles_Jakarta_Sunter-Jakarta_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/north-jakarta-city-hotel-detail-3483628/ibis-styles-jakarta-sunter/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9213/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-styles-jakarta-mangga-dua-square", "novotel-jakarta-mangga-dua-square"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Ibis Styles Jakarta Sunter guest review, Superior Queen Room",
+        "source": "Trip.com",
+        "url": "https://us.trip.com/hotels/north-jakarta-city-hotel-detail-3483628/ibis-styles-jakarta-sunter/review.html",
+        "published_date": "2024-11-29",
+        "summary": "Guest who stayed October 2024 rated the stay 4/10, citing no porter service, missing hand soap, questionable drinking water, a limited breakfast buffet, and a bed bug found on the first night."
+      }
+    ],
+    "videos": [
+      {
+        "title": "ibis Styles Jakarta Sunter | Jakarta, Indonesia | Hotel Review",
+        "channel": "Indonesia Hotels World",
+        "url": "https://www.youtube.com/watch?v=E4Samv0UPUw",
+        "video_id": "E4Samv0UPUw"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 78 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 74 },
+      { "label": "Value", "score": 82 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
