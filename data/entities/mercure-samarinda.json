@@ -1,0 +1,114 @@
+{
+  "entity_id": "mercure-samarinda",
+  "slug": "mercure-samarinda",
+  "name": "Mercure Samarinda",
+  "category_id": "accor-all",
+  "region_id": "samarinda",
+  "short_description": "A 139-room, 4-star riverside hotel in central Samarinda with Mahakam River views, a rooftop pool, and direct access to City Centrum mall.",
+  "ai_summary": "Mercure Samarinda was the first Accor hotel to open in the East Kalimantan capital, standing beside its sister property ibis Samarinda in the city center with views over the Mahakam River. The 139-room hotel offers Superior, Deluxe, Deluxe Suite, and Executive Suite categories, a rooftop pool, fitness center, and Samarinda's largest ballroom with capacity for 1,500 guests across 2,350 square meters of event space. Guests consistently praise cleanliness, breakfast, and staff service, with direct mall access and river views as recurring highlights; some reviews note the property could use refreshing in places typical of an established city hotel.",
+  "core_facts": {
+    "address": "Jalan Mulawarman No 171, Pelabuhan, Kecamatan Samarinda Kota, 75112 Samarinda, East Kalimantan, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Pelabuhan, Samarinda Kota",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "The first Accor hotel in Samarinda, with 139 rooms including Deluxe and Executive Suites",
+    "Rooftop pool and Skyhouse Restaurant & Bar with Mahakam River views",
+    "Direct access to City Centrum mall and cinema",
+    "Samarinda's largest ballroom, seating up to 1,500 guests",
+    "Consistently praised for cleanliness and breakfast quality"
+  ],
+  "cons": [
+    "As an established city-center property, some guests note it could use periodic refreshing in places",
+    "Shares its building complex and some facilities with the adjacent, more budget-oriented ibis Samarinda"
+  ],
+  "research_highlights": [
+    "Guests repeatedly single out the Mahakam River views and rooftop pool",
+    "Cleanliness, breakfast, and staff friendliness are the most consistent praise across review platforms",
+    "Direct, step-free access to City Centrum mall is a frequently cited convenience"
+  ],
+  "research_watchouts": [
+    "Some guests note the property could benefit from refreshing in places",
+    "Occasional mentions of slower service during busy periods"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is Mercure Samarinda the same building as ibis Samarinda?",
+      "answer": "No -- they are two separate but adjacent buildings under the same ownership, opened together in 2020 and connected by shared facilities including the outdoor pool area. Mercure is the more upscale of the pair, with larger rooms and suite categories, while ibis Samarinda next door is the budget-oriented option."
+    },
+    {
+      "question": "Does Mercure Samarinda have river views?",
+      "answer": "Yes -- many rooms and the rooftop Skyhouse Restaurant & Bar look out over the Mahakam River, which runs through central Samarinda. The hotel markets its panoramic river and city views as one of its main draws, alongside its direct connection to City Centrum mall next door."
+    }
+  ],
+  "tags": ["mahakam river", "rooftop pool", "city centrum mall", "ballroom"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B5E4/index.en.shtml",
+      "label": "Official Mercure Samarinda page on all.accor.com",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g317102-d19891163-Reviews-Mercure_Samarinda-Samarinda_East_Kalimantan_Kalimantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.lemon8-app.com/@dstdiaries/7323400531932643842?region=id",
+      "label": "Jalanyuk (dstdiaries) Lemon8 review of Mercure Samarinda",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B5E4/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-samarinda", "ibis-balikpapan", "novotel-balikpapan"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review Hotel Mercure Samarinda: Pilihan Tepat Awal Tahun",
+        "source": "Lemon8 (Jalanyuk / @dstdiaries)",
+        "author": "Jalanyuk",
+        "url": "https://www.lemon8-app.com/@dstdiaries/7323400531932643842?region=id",
+        "published_date": "2024-01-13",
+        "summary": "A guest's detailed room-by-room review covering Superior and Deluxe Suite categories, pricing tips, the rooftop pool and city view, eco-friendly glass water bottles, and mall access, recommending the hotel as a solid choice in Samarinda."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Mercure Hotel Samarinda | Hotel Bintang 4 Dekat Sungai Mahakam",
+        "channel": "Falentina Rosaria",
+        "url": "https://www.youtube.com/watch?v=iAfSMuaGlgU",
+        "video_id": "iAfSMuaGlgU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 86 },
+      { "label": "Service", "score": 84 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

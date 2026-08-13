@@ -1,0 +1,12 @@
+{
+  "region_id": "nusantara",
+  "slug": "nusantara",
+  "label": "Nusantara (IKN)",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "Indonesia's new capital city under construction in East Kalimantan, home to the country's first international 5-star hotel.",
+  "intro": "Nusantara -- known by its government abbreviation IKN (Ibu Kota Nusantara) -- is Indonesia's new capital city, under active construction in the Penajam Paser Utara district of East Kalimantan since 2022 and inaugurated 17 August 2024, though most of the city remains a construction site as ministries and infrastructure are gradually relocated from Jakarta. Hotel coverage here is currently limited to the handful of properties that opened alongside the government district itself, reached via Balikpapan's Sepinggan International Airport, roughly 1.5-2 hours by road from central Nusantara.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,105 @@
+{
+  "entity_id": "mercure-berau",
+  "slug": "mercure-berau",
+  "name": "Mercure Berau",
+  "category_id": "accor-all",
+  "region_id": "berau",
+  "short_description": "The first international chain hotel in Berau, a 4-star riverside property in Tanjung Redeb serving as a gateway stop for the Derawan Islands.",
+  "ai_summary": "Mercure Berau opened in August 2025 as the first international hotel brand to arrive in Berau Regency, East Kalimantan, positioned in the town of Tanjung Redeb as a comfortable stopover for travelers heading to the Derawan Islands' diving and snorkeling sites. The hotel offers rooms, suites, and a villa category, along with Sanggam Bistro restaurant, a pool bar, lobby lounge, Annathaya Spa, a 24-hour fitness center, and a golf driving range. Early guest reviews are strongly positive, praising the fresh, newly built property, friendly service, and breakfast quality, with occasional notes about reception wait times and a slippery bathroom shower area.",
+  "core_facts": {
+    "address": "Jl. Dr. Murjani II No.30, Gayam, Tanjung Redeb, East Kalimantan, 77315 Berau, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Gayam, Tanjung Redeb",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "The first international chain hotel to open in Berau, as of August 2025",
+    "Sanggam Bistro serves Western, Chinese, and Indonesian cuisine, plus a pool bar and lobby lounge",
+    "Annathaya Spa, 24-hour fitness center, and a golf driving range on site",
+    "About 15 minutes from Kalimarau Airport and near the port used for Derawan Islands transfers",
+    "Guests consistently describe rooms and public areas as fresh, clean, and newly built"
+  ],
+  "cons": [
+    "Some guests report longer wait times at reception during check-in",
+    "A few reviews note the bathroom shower area can be slippery"
+  ],
+  "research_highlights": [
+    "As Berau's first international-brand hotel, reviewers frequently contrast it favorably with older local guesthouses",
+    "Friendly, helpful staff and a well-regarded breakfast are the most repeated praise",
+    "Its position en route to the Derawan Islands' port makes it a common overnight stop for divers and snorkelers"
+  ],
+  "research_watchouts": [
+    "As a hotel that opened in August 2025, review volume is still relatively limited",
+    "Occasional mentions of front-desk wait times during busy check-in periods"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "When did Mercure Berau open?",
+      "answer": "Mercure Berau opened on 15 August 2025 as the first international hotel chain property in Berau Regency, East Kalimantan. It is located in the town of Tanjung Redeb, roughly 15 minutes from Kalimarau Airport and close to the port used for boat transfers to the Derawan Islands."
+    },
+    {
+      "question": "Is Mercure Berau a good base for visiting the Derawan Islands?",
+      "answer": "Yes -- it is commonly used as an overnight stop before or after boat transfers to Derawan, Maratua, and the surrounding islands, since Tanjung Redeb's port is only a short drive away. The hotel offers a restaurant, spa, pool bar, and fitness center for travelers resting between legs of a Kalimantan diving or snorkeling trip."
+    }
+  ],
+  "tags": ["derawan islands gateway", "new hotel", "tanjung redeb", "spa"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/9706/index.en.shtml",
+      "label": "Official Mercure Berau page on all.accor.com",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g12591439-d33349775-Reviews-Mercure_Berau-Tanjung_Redeb_East_Kalimantan_Kalimantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.booking.com/reviews/id/hotel/mercure-berau.html",
+      "label": "Booking.com verified guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/9706/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-pangkalan-bun", "ibis-balikpapan", "novotel-balikpapan"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "HOTEL MERCURE BERAU ⛔️ Rekomendasi Hotel Di Berau Kalimantan Timur",
+        "channel": "R2 Trip Official",
+        "url": "https://www.youtube.com/watch?v=Rw9y1ITPfA4",
+        "video_id": "Rw9y1ITPfA4"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 85,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 86 },
+      { "label": "Food & breakfast", "score": 90 },
+      { "label": "Value", "score": 88 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

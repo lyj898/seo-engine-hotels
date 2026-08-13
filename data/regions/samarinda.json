@@ -1,0 +1,12 @@
+{
+  "region_id": "samarinda",
+  "slug": "samarinda",
+  "label": "Samarinda",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "The capital of East Kalimantan, straddling the Mahakam River, a business and government hub distinct from nearby Balikpapan.",
+  "intro": "Samarinda is the capital of East Kalimantan province, built along the wide, muddy Mahakam River roughly two hours by road from the port city of Balikpapan. It functions as the province's administrative and commercial center, with hotels concentrated around the city center near Citra Niaga and the riverside government district. Unlike Balikpapan's oil-and-gas orientation, Samarinda's economy leans toward government, trade, and river transport, and its hotels serve a mix of business travelers and visitors using the city as a base before heading further up the Mahakam. The city is reached via Samarinda's APT Pranoto Airport or by road from Sepinggan International Airport (BPN) in Balikpapan.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

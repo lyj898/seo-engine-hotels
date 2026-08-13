@@ -1,0 +1,110 @@
+{
+  "entity_id": "mercure-serpong-alam-sutera",
+  "slug": "mercure-serpong-alam-sutera",
+  "name": "Mercure Serpong Alam Sutera",
+  "category_id": "accor-all",
+  "region_id": "tangerang",
+  "short_description": "A 171-room 4-star hotel in the Alam Sutera district, between EMC Hospital and Living World Mall, about 350 meters from the mall on foot.",
+  "ai_summary": "Mercure Serpong Alam Sutera is a 171-room, 4-star hotel at Jl Alam Sutera Boulevard Kav23 in Serpong, South Tangerang, positioned between EMC Hospital and Living World Shopping Mall in Alam Sutera's lifestyle and entertainment district. The property offers contemporary rooms, an outdoor pool, free bicycle rentals, a complimentary in-room minibar, and Mint & Pepper restaurant alongside Mocca cafe and the Maniz Pool Deck Bar. Soekarno-Hatta International Airport is about 14.7 km away, and Living World Mall sits roughly 350 meters on foot. Accor's own listing shows a 4.6/5 ALL rating from over 900 reviews, and numerous independent 2018-2025 YouTube reviews and TripAdvisor guests consistently praise it as a kid-friendly, well-located family staycation option, with only occasional mentions of the breakfast selection being less varied than at other Mercure properties.",
+  "core_facts": {
+    "address": "Jl Alam Sutera Boulevard Kav23, Serpong, South Tangerang, 15325 Tangerang, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "Alam Sutera, South Tangerang",
+    "distance_from_airport_km": 14.7,
+    "landmark_distances": [
+      { "label": "Living World Shopping Mall", "km": 0.35 },
+      { "label": "Flavor Bliss dining district", "km": 0.2 },
+      { "label": "Mall Alam Sutera", "km": 3.3 },
+      { "label": "Serpong Railway Station", "km": 11.8 }
+    ],
+    "elite_benefits": [
+      "ALL member rates and Status & Rewards points-earning at this property, per its own Accor listing",
+      "Room upgrades and late check-out for eligible Platinum and Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "171 rooms about 350 meters on foot from Living World Shopping Mall",
+    "Mint & Pepper restaurant, Mocca cafe, and Maniz Pool Deck Bar on-site",
+    "Free bicycle rentals and complimentary in-room minibar",
+    "About 14.7 km from Soekarno-Hatta International Airport",
+    "Strong 4.6/5 ALL rating from 900+ reviews, consistently praised as kid-friendly"
+  ],
+  "cons": [
+    "Some guests describe the breakfast selection as less varied than at other Mercure properties",
+    "Serpong Railway Station is a further 11.8 km away, so a car is more practical than transit"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms 171 rooms, a 4.6/5 ALL rating (900+ reviews), and proximity to Living World Mall and EMC Hospital",
+    "A confirmed January 2025 YouTube review by Indonesian family-travel channel Senang Riang Family covers this specific property",
+    "Numerous independent 2018-2025 video reviews and TripAdvisor guests describe it as a favorite, kid-friendly Mercure property strategically located near malls and dining"
+  ],
+  "research_watchouts": [
+    "No independently confirmable dated written review article (as opposed to aggregator user reviews) was found, so external_coverage.reviews is left empty"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How close is Mercure Serpong Alam Sutera to shopping and dining?",
+      "answer": "The hotel is about 350 meters on foot from Living World Shopping Mall and roughly 200 meters from the Flavor Bliss dining district, placing guests within walking distance of Alam Sutera's main lifestyle and entertainment hub. Mall Alam Sutera is a further 3.3 km away by car."
+    },
+    {
+      "question": "Is Mercure Serpong Alam Sutera good for families?",
+      "answer": "Yes -- numerous independent YouTube reviews from 2018 through 2025 describe it as a strategically located, kid-friendly hotel, and Accor's own listing highlights free PS4 access at the lobby, a playground near the pool, and a special welcome drink for children as family-oriented touches."
+    }
+  ],
+  "tags": ["alam sutera", "serpong", "family-friendly", "shopping mall", "greater jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/8455/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1493703-d4432913-Reviews-Mercure_Serpong_Alam_Sutera-Tangerang_Banten_Province_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/north-serpong-hotel-detail-4824385/mercure-serpong-alam-sutera/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/8455/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-tangerang-bsd-city", "ibis-gading-serpong", "ibis-styles-serpong-bsd-city"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Mercure Serpong Alam Sutera | Hotel Kids Friendly Strategis Samping Mall & Pusat kuliner",
+        "channel": "Senang Riang Family",
+        "url": "https://www.youtube.com/watch?v=_mypOVdsKEM",
+        "video_id": "_mypOVdsKEM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 81,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 72 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

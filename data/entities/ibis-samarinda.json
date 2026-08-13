@@ -1,0 +1,99 @@
+{
+  "entity_id": "ibis-samarinda",
+  "slug": "ibis-samarinda",
+  "name": "ibis Samarinda",
+  "category_id": "accor-all",
+  "region_id": "samarinda",
+  "short_description": "A 162-room budget hotel in central Samarinda, next door to sister property Mercure Samarinda, with a rooftop pool and direct mall access.",
+  "ai_summary": "ibis Samarinda sits beside its sister property Mercure Samarinda in the East Kalimantan capital's city center, offering 162 standard rooms across King and Twin configurations at a budget price point. The hotel shares facilities including a rooftop pool with Mercure next door, and offers its own Kecapi Restaurant, Coffee & Co coffee shop, and fitness center. Guests consistently highlight friendly staff, smooth check-in, and a varied daily breakfast, with direct access to City Centrum mall cited as a major convenience; some reviews note inconsistent WiFi quality.",
+  "core_facts": {
+    "address": "Jalan Mulawarman No 171, Pelabuhan, Kecamatan Samarinda Kota, 75112 Samarinda, East Kalimantan, Indonesia",
+    "brand_sub_brand": "ibis",
+    "neighborhood": "Pelabuhan, Samarinda Kota",
+    "elite_benefits": [
+      "Complimentary breakfast or lounge access for ALL Diamond members at participating hotels, per ALL - Accor Live Limitless program terms",
+      "Room upgrades for Platinum and Diamond members, subject to availability",
+      "Late check-out until 4pm for Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "162 budget-friendly rooms in a central Samarinda location",
+    "Rooftop pool with city views, shared with sister property Mercure Samarinda next door",
+    "Direct, step-free access to City Centrum mall",
+    "Kecapi Restaurant and Coffee & Co on site, plus a fitness center",
+    "Guests frequently describe it as 4-star service at a 3-star price"
+  ],
+  "cons": [
+    "Some guests report inconsistent WiFi quality",
+    "Standard rooms are compact (22 sqm) with limited room-category variety compared to Mercure next door"
+  ],
+  "research_highlights": [
+    "Friendly, attentive staff and smooth check-in are the most repeated praise across review platforms",
+    "The daily-changing breakfast menu draws consistent positive comment",
+    "Direct mall access is a frequently cited convenience for both leisure and business guests"
+  ],
+  "research_watchouts": [
+    "A subset of reviews mention WiFi reliability issues",
+    "Rooms are compact relative to the adjacent Mercure property"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "Is ibis Samarinda connected to Mercure Samarinda?",
+      "answer": "They are two separate but adjacent buildings under the same ownership, opened together in 2020 and sharing some facilities including the outdoor pool area between them. ibis Samarinda is the budget-oriented option of the pair, while Mercure Samarinda next door offers larger rooms and suite categories at a higher price point."
+    },
+    {
+      "question": "What is included at ibis Samarinda?",
+      "answer": "The 162-room hotel includes Kecapi Restaurant, a Coffee & Co coffee shop, a rooftop pool with city views, a fifth-floor fitness center, six meeting rooms, free WiFi, air conditioning, and 24-hour room service, with direct walking access to City Centrum mall next door."
+    }
+  ],
+  "tags": ["budget hotel", "city centrum mall", "rooftop pool", "samarinda"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B5E5/index.en.shtml",
+      "label": "Official ibis Samarinda page on all.accor.com",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g317102-d20056795-Reviews-Ibis_Samarinda-Samarinda_East_Kalimantan_Kalimantan.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B5E5/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["mercure-samarinda", "ibis-balikpapan"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Review Hotel Ibis Samarinda",
+        "channel": "Elvara Vlog",
+        "url": "https://www.youtube.com/watch?v=juA2PYNMot0",
+        "video_id": "juA2PYNMot0"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 90 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 86 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,108 @@
+{
+  "entity_id": "mercure-tangerang-bsd-city",
+  "slug": "mercure-tangerang-bsd-city",
+  "name": "Mercure Tangerang BSD City",
+  "category_id": "accor-all",
+  "region_id": "tangerang",
+  "short_description": "A 157-room 4-star hotel in BSD City, a 2-minute walk from AEON Mall and 1.6 km from the ICE BSD convention center.",
+  "ai_summary": "Mercure Tangerang BSD City is a 157-room, 4-star hotel at Jl Edutown, CBD 55 Kavling Lot II No 8 in BSD City Pagedangan, South Tangerang, about a 2-minute walk from AEON Mall and 1.6 km from the Indonesia Convention Exhibition (ICE) center. The glass-walled, light-filled property centers on Kitchen Yard restaurant serving Indonesian and international cuisine, plus a lobby bar, spa, swimming pool, garden, and playground, alongside 9 meeting rooms and wedding facilities for up to 1,000 guests. Accor's own listing shows a 4.6/5 ALL rating from nearly 1,000 reviews, and multiple independent 2021-2025 YouTube staycation reviews and TripAdvisor guests consistently praise its family-friendly design, spacious sunlit lobby, and proximity to AEON Mall, with only occasional mentions of housekeeping lapses like stained linen.",
+  "core_facts": {
+    "address": "Jl Edutown, CBD 55 Kavling Lot II No 8, BSD City, Pagedangan, 15339 Tangerang, Indonesia",
+    "brand_sub_brand": "Mercure",
+    "neighborhood": "BSD City, South Tangerang",
+    "landmark_distances": [
+      { "label": "AEON Mall BSD", "km": 0.05 },
+      { "label": "ICE BSD Convention Exhibition", "km": 1.6 },
+      { "label": "Cisauk Railway Station", "km": 2.5 }
+    ],
+    "elite_benefits": [
+      "ALL member rates and Status & Rewards points-earning at this property, per its own Accor listing",
+      "Room upgrades and late check-out for eligible Platinum and Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "157 rooms about a 2-minute walk from AEON Mall BSD",
+    "Kitchen Yard restaurant, lobby bar, spa, pool, garden, and playground on-site",
+    "9 meeting rooms and wedding facilities for up to 1,000 guests",
+    "1.6 km from the ICE BSD convention exhibition center",
+    "Strong 4.6/5 ALL rating from nearly 1,000 reviews, consistently praised for family-friendly design"
+  ],
+  "cons": [
+    "Occasional guest mentions of housekeeping lapses such as stained linen",
+    "Set within the planned BSD City township, a further drive from central Jakarta"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms 157 rooms, a 4.6/5 ALL rating (nearly 1,000 reviews), and proximity to AEON Mall and ICE BSD",
+    "A confirmed YouTube staycation review by Indonesian channel Panda Jalan jalan covers this specific property",
+    "Multiple independent 2021-2025 video reviews and TripAdvisor guests describe it as the nicest hotel they've stayed at in Tangerang, citing the glass-walled, sunlit lobby and family amenities"
+  ],
+  "research_watchouts": [
+    "No independently confirmable dated written review article (as opposed to aggregator user reviews) was found, so external_coverage.reviews is left empty",
+    "Distinct from the separately-listed Mercure Tangerang Centre and Novotel Tangerang BSD City -- confirmed as a distinct property with its own Accor hotel ID (A6P9) before writing this entity"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "How close is Mercure Tangerang BSD City to AEON Mall?",
+      "answer": "The hotel is about a 2-minute walk from AEON Mall BSD, making it one of the closest Accor properties to the mall. It also sits roughly 1.6 km from the Indonesia Convention Exhibition (ICE) BSD center, which makes it a practical choice for both leisure staycations and business or convention travel."
+    },
+    {
+      "question": "Is Mercure Tangerang BSD City family-friendly?",
+      "answer": "Yes -- reviewers consistently describe it as a family-friendly hotel, with a garden, playground, swimming pool, and spacious sunlit lobby and restaurant area. Multiple independent 2021-2025 YouTube staycation reviews highlight its kid-friendly amenities and comfortable rooms as standout features."
+    }
+  ],
+  "tags": ["bsd city", "aeon mall", "family-friendly", "convention hotel", "greater jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/A6P9/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1493703-d19722320-Reviews-Mercure_Tangerang_BSD_City-Tangerang_Banten_Province_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.expedia.com/Jakarta-Hotels-Mercure-Tangerang-BSD-City.h45708469.Hotel-Information",
+      "label": "Expedia hotel listing",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/A6P9/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-tangerang", "mercure-serpong-alam-sutera", "ibis-styles-serpong-bsd-city"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "MERCURE TANGERANG BSD CITY | Hotel Staycation di BSD City",
+        "channel": "Panda Jalan jalan",
+        "url": "https://www.youtube.com/watch?v=_nmkvFY6HpE",
+        "video_id": "_nmkvFY6HpE"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 88 },
+      { "label": "Service", "score": 80 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 46,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

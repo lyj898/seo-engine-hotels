@@ -1,0 +1,107 @@
+{
+  "entity_id": "ibis-styles-serpong-bsd-city",
+  "slug": "ibis-styles-serpong-bsd-city",
+  "name": "ibis Styles Serpong BSD City",
+  "category_id": "accor-all",
+  "region_id": "tangerang",
+  "short_description": "A 4-star design-economy hotel that opened in 2024 in central BSD City, about 10 minutes from the ICE BSD convention center, with a game and karaoke room for families.",
+  "ai_summary": "ibis Styles Serpong BSD City is a 4-star design-economy hotel at Kav Taman Kota Barat Lot II No 9 in BSD City, Serpong, that opened in early 2024 as one of the newest additions to the ibis family in Indonesia. The property centers on the strEATs restaurant serving Asian hawker and international cuisine, alongside a swimming pool, fitness center, and 6 meeting rooms including a 1,000 sqm largest space, with family-oriented touches like a game and karaoke room, bounce house, and foosball. It sits about 10 minutes from the ICE BSD convention center and roughly 3.5 km from Cisauk Railway Station. Accor's own listing shows a 4.6/5 ALL rating from over 640 reviews, and numerous independent 2024-2025 YouTube reviews consistently describe it as a new, family-friendly hotel with facilities well above its 3-star pricing tier, though it commands a slightly higher rate than some nearby ibis-brand properties.",
+  "core_facts": {
+    "address": "Kav Taman Kota Barat Lot II No 9, BSD City, Serpong, 15345 Tangerang, Indonesia",
+    "brand_sub_brand": "ibis Styles",
+    "neighborhood": "BSD City, Serpong",
+    "landmark_distances": [
+      { "label": "ICE BSD Convention Exhibition", "km": 5 },
+      { "label": "Cisauk Railway Station", "km": 3.5 }
+    ],
+    "elite_benefits": [
+      "ALL member rates and Status & Rewards points-earning at this property, per its own Accor listing",
+      "Room upgrades and late check-out for eligible Platinum and Diamond members, subject to availability"
+    ]
+  },
+  "pros": [
+    "New 4-star design-economy hotel that opened in early 2024 in central BSD City",
+    "strEATs restaurant, pool, fitness center, and 6 meeting rooms including a 1,000 sqm space",
+    "Game and karaoke room, bounce house, and foosball for families",
+    "About 10 minutes from the ICE BSD convention center",
+    "Strong 4.6/5 ALL rating from 640+ reviews"
+  ],
+  "cons": [
+    "Some guests describe it as somewhat expensive relative to older ibis-brand properties nearby, though reviewers generally call it worth the price",
+    "Cisauk Railway Station is a 3.5 km drive, so a car is more practical than transit"
+  ],
+  "research_highlights": [
+    "Accor's own listing confirms this opened as one of the newest ibis-family hotels in Indonesia, with a 4.6/5 ALL rating (640+ reviews) and family-oriented game/karaoke facilities",
+    "A confirmed April 2025 YouTube review by Indonesian family-travel channel Altheus Family covers this specific property",
+    "Multiple independent 2024-2025 video reviews describe 3-star pricing with facilities the reviewers rate as closer to 5-star, and highlight the electric bike/bicycle and cinema-room amenities"
+  ],
+  "research_watchouts": [
+    "No independently confirmable dated written review article (as opposed to aggregator user reviews) was found -- a Weddingku.com venue page exists but has zero submitted reviews, so external_coverage.reviews is left empty",
+    "Distinct from the separately-listed ibis Gading Serpong (older, Green Key-certified, further into Summarecon) -- confirmed as a distinct property with its own Accor hotel ID (B281) before writing this entity"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-13",
+  "faqs": [
+    {
+      "question": "When did ibis Styles Serpong BSD City open?",
+      "answer": "It opened in early 2024 as one of the newest additions to the ibis family of hotels in Indonesia, per its own Accor listing and multiple independent YouTube reviews from that year. It sits in central BSD City, about 10 minutes from the ICE BSD convention center."
+    },
+    {
+      "question": "Is ibis Styles Serpong BSD City good for families?",
+      "answer": "Yes -- the hotel includes a dedicated game and karaoke room with arcade games, a bounce house, and foosball, alongside a swimming pool and fitness center, and multiple 2024-2025 independent reviews specifically praise its family-friendly facilities, describing amenities well above what its 3-star-equivalent pricing would suggest."
+    }
+  ],
+  "tags": ["bsd city", "serpong", "new hotel", "family-friendly", "design economy", "greater jakarta"],
+  "source_mix": [
+    {
+      "url": "https://all.accor.com/hotel/B281/index.en.shtml",
+      "label": "Official ALL - Accor Live Limitless hotel page",
+      "type": "official",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g1493703-d27121748-Reviews-Ibis_Styles_Serpong_BSD_City-Tangerang_Banten_Province_Java.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-13"
+    },
+    {
+      "url": "https://us.trip.com/hotels/cisauk-hotel-detail-116877631/ibis-styles-serpong-bsd-city/review.html",
+      "label": "Trip.com guest reviews",
+      "type": "aggregator",
+      "last_checked": "2026-08-13"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://all.accor.com/hotel/B281/index.en.shtml",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["ibis-gading-serpong", "mercure-tangerang-bsd-city", "mercure-serpong-alam-sutera"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Review Hotel Baru di Tangerang | Hotel Ibis Styles Serpong BSD City | Family Friendly",
+        "channel": "Altheus Family",
+        "url": "https://www.youtube.com/watch?v=Zgqzc_-Zw5M",
+        "video_id": "Zgqzc_-Zw5M"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 82 },
+      { "label": "Service", "score": 82 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 44,
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

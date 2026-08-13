@@ -1,0 +1,12 @@
+{
+  "region_id": "tangerang",
+  "slug": "tangerang",
+  "label": "Tangerang",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "Jakarta's western satellite spanning Tangerang city, Soekarno-Hatta Airport, and the planned townships of BSD City, Serpong, Alam Sutera, and Gading Serpong.",
+  "intro": "Tangerang lies immediately west of Jakarta and covers both older Tangerang city -- built around the Cisadane River and the Tangcity mall district -- and the newer planned townships of South Tangerang: BSD City, Serpong, Alam Sutera, and Gading Serpong. These townships have grown into self-contained business and lifestyle hubs of their own, with malls like AEON and Summarecon Mall Serpong, the ICE BSD convention center, and a resident and commuter population that treats them as distinct destinations from both central Jakarta and the immediate airport zone. Soekarno-Hatta International Airport sits within the broader Tangerang area, and central Jakarta is typically 45 minutes to an hour away by toll road depending on traffic and which township a hotel sits in.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

@@ -1,0 +1,12 @@
+{
+  "region_id": "bekasi",
+  "slug": "bekasi",
+  "label": "Bekasi",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "Jakarta's eastern industrial satellite city, home to the Bekasi Industrial Estate and a growing cluster of business hotels along its toll-road corridors.",
+  "intro": "Bekasi sits directly east of Jakarta and is one of Greater Jakarta's largest industrial and manufacturing hubs, anchored by estates like MM2100 and EJIP that draw a steady stream of corporate and factory-visit travelers. Hotels here cluster around West Bekasi's toll-road interchanges, giving quick access to both the industrial estates and, via three connecting toll roads, central Jakarta itself -- Halim Perdanakusuma Airport is typically a 20-minute drive, with Soekarno-Hatta International further west. Bekasi is administratively and functionally its own city rather than a Jakarta neighborhood, so it's treated as a distinct destination in this directory.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}

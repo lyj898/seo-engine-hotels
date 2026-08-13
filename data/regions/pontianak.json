@@ -1,0 +1,12 @@
+{
+  "region_id": "pontianak",
+  "slug": "pontianak",
+  "label": "Pontianak",
+  "granularity": "city",
+  "parent_region_id": "indonesia",
+  "short_description": "West Kalimantan's capital, straddling the equator on the Kapuas River delta.",
+  "intro": "Pontianak is West Kalimantan's provincial capital and Indonesia's largest equatorial city, built where the Kapuas and Landak rivers meet a short distance from the equator line itself, marked by the city's Tugu Khatulistiwa monument. Hotels cluster in the compact downtown business and lifestyle district near Ayani Mega Mall and the Kapuas riverfront, reached via Supadio International Airport roughly 15-20 minutes south of the city center.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
