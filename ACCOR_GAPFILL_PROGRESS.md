@@ -7,9 +7,9 @@ tracking so a fresh session (or this one, after a context reset / rate
 limit) can pick up exactly where things left off without re-deriving state
 from conversation history.
 
-**Status as of 2026-08-13: 125 of ~165 identified gaps done (pushed to
-branch, not yet merged/live — see batch history). ~40 remain, entirely
-Indonesia's bundle clusters.**
+**Status as of 2026-08-13: 148 of ~165 identified gaps done (pushed to
+branch, not yet merged/live — see batch history). ~14-17 remain: the
+Greater Jakarta and Kalimantan bundle clusters.**
 
 ## How to resume a batch
 
@@ -58,7 +58,8 @@ Indonesia's bundle clusters.**
 - **Singapore — DONE** ✅ (all identified gaps closed, including the
   14-hotel ibis budget cluster, each individually verified against its own
   all.accor.com page)
-- **Indonesia — 25 done, ~40 remaining** (mostly lower-confidence bundles)
+- **Indonesia — 48 done, ~14-17 remaining** (Greater Jakarta + Kalimantan
+  clusters, still unverified leads)
 
 ## Singapore — DONE
 
@@ -94,7 +95,7 @@ Note: all 14 ibis budget properties' own Accor listings state they do
 empty `elite_benefits` + an `elite_notes` field rather than reusing
 boilerplate loyalty language.
 
-## Indonesia — remaining (~40)
+## Indonesia — remaining (~14-17)
 
 Individually verifiable batch — DONE:
 - [x] ibis Yogyakarta International Airport Kulon Progo (region: `yogyakarta`)
@@ -111,24 +112,28 @@ Individually verifiable batch — DONE:
 - [x] ibis budget Semarang Tendean (region: `semarang`)
 - [x] ibis Styles Malang (region: `malang`)
 
+Individually verified batch — DONE (all confirmed real via their own
+all.accor.com pages before writing):
+- [x] **Mercure Jakarta network** (8): Kota, Cikini, Sabang, Grogol, Pantai
+      Indah Kapuk, Gatot Subroto, Simatupang, Convention Center Ancol
+- [x] **ibis Jakarta network** (3): Senen, Harmoni, Raden Saleh
+- [x] **ibis budget Jakarta network** (3): Cikini, Menteng, Airport
+- [x] **ibis Styles Jakarta network** (4): Sunter, Tanah Abang, Airport,
+      Simatupang
+- [x] **Bogor/Sukabumi cluster** (5): Novotel Bogor Golf Resort, ibis
+      Styles Bogor Raya, ibis Styles Bogor Pajajaran, Pullman Ciawi Vimala
+      Hills, Mercure Cibadak Sukabumi Resort — new regions `bogor` and
+      `sukabumi` created (Sukabumi verified as a distinct destination)
+
 Confirmed as bundles on directory/city-listing pages but **not individually
 verified** — treat as leads, verify each hotel's own all.accor.com page
 before writing an entity (some names/counts may be imprecise):
 
-- [ ] **Mercure Jakarta network** (~8): Kota, Cikini, Sabang, Grogol, Pantai
-      Indah Kapuk, Gatot Subroto, Simatupang, Convention Center Ancol
-- [ ] **ibis Jakarta network** (~3): Senen, Harmoni, Raden Saleh
-- [ ] **ibis budget Jakarta network** (~3): Cikini, Menteng, Airport
-- [ ] **ibis Styles Jakarta network** (~4): Sunter, Tanah Abang, Airport,
-      Simatupang
 - [ ] **Greater Jakarta cluster** (~6): ibis Styles Bekasi Jatibening,
       Novotel Tangerang, Mercure Tangerang BSD, Mercure Serpong Alam
       Sutera, ibis Gading Serpong, ibis Styles Serpong BSD — needs new
       region(s), e.g. `bekasi`/`tangerang`, or reuse `jakarta` if these
       turn out to be metro-area properties like the KL precedent
-- [ ] **Bogor/Sukabumi cluster** (~5): Novotel Bogor Golf Resort, ibis
-      Styles Bogor Raya, ibis Styles Bogor Pajajaran, Pullman Ciawi Vimala
-      Hills, Mercure Cibadak Sukabumi Resort — needs new region `bogor`
 - [ ] **Kalimantan cluster** (~8): Swissôtel Nusantara (new capital IKN),
       Novotel Banjarmasin Airport, Novotel Pontianak, ibis Pontianak,
       Mercure Samarinda, ibis Samarinda, Mercure Berau, Mercure Pangkalan
@@ -151,7 +156,8 @@ malaysia, manado, manila, medan, melaka, miri, mu-cang-chai, nha-trang,
 ninh-binh, padang, palembang, panglao, pattaya, penang, phan-thiet,
 philippines, phnom-penh, phu-quoc, phuket, putrajaya, rayong, sapa,
 semarang, siem-reap, sihanoukville, singapore, solo, sriracha, subic-bay,
-surabaya, thailand, uong-bi, vietnam, vung-tau, yogyakarta
+surabaya, thailand, uong-bi, vietnam, vung-tau, yogyakarta, bogor,
+sukabumi
 
 ## Batch history
 
@@ -177,8 +183,15 @@ surabaya, thailand, uong-bi, vietnam, vung-tau, yogyakarta
 - Batch 7 (14): SG ibis budget cluster, all 14 individually verified
   (Selegie, Imperial, Bugis, Gold, Emerald, Clarke Quay, Sapphire,
   Ametrine, Pearl, Ruby, Crystal, West Coast, Mount Faber, Joo Chiat) —
+  PR #39
+- Batch 8 (23): ID Bogor/Sukabumi cluster (5) + Jakarta Mercure network (8:
+  Kota/Cikini/Sabang/Grogol/Pantai Indah Kapuk/Gatot Subroto/Simatupang/
+  Convention Center Ancol) + Jakarta ibis/ibis budget network (6: Senen/
+  Harmoni/Raden Saleh/budget Cikini/budget Menteng/budget Airport) +
+  Jakarta ibis Styles network (4: Sunter/Tanah Abang/Airport/Simatupang) —
   pushed to branch, PR pending
 
 PR #35 merged 2026-08-12 (50 hotels live). PR #36 merged 2026-08-13
 (41 more hotels live, 91 total). PR #38 merged 2026-08-13 (20 more hotels
-live, 111 total). Batch 7 pushed but not yet merged — 125 total once live.
+live, 111 total). PR #39 merged 2026-08-13 (14 more hotels live, 125
+total). Batch 8 pushed but not yet merged — 148 total once live.
