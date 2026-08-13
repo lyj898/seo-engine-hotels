@@ -1,0 +1,12 @@
+{
+  "region_id": "phan-thiet",
+  "slug": "phan-thiet",
+  "label": "Phan Thiet",
+  "granularity": "city",
+  "parent_region_id": "vietnam",
+  "short_description": "A south-central Vietnamese coastal city next to Mui Ne, known for its beaches, fishing harbor and red and white sand dunes.",
+  "intro": "Phan Thiet is a south-central Vietnamese coastal city in Binh Thuan Province, about 3-4 hours by road (or under 1.5 hours since the Long Thanh expressway link) from Ho Chi Minh City, and immediately adjacent to the longer-established beach strip of Mui Ne. The coastline mixes working fishing harbors with a growing run of beach resorts, golf courses and the large NovaWorld Phan Thiet complex, while inland the city is known for its red and white sand dunes and the historic Poshanu Cham towers. Hotels here lean toward beach-resort stays with family and golf-trip appeal rather than city-center business travel.",
+  "faqs": [],
+  "last_updated": "2026-08-13",
+  "status": "active"
+}
