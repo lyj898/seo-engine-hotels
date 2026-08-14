@@ -1,0 +1,128 @@
+{
+  "entity_id": "holiday-inn-suites-makati",
+  "slug": "holiday-inn-suites-makati",
+  "name": "Holiday Inn & Suites Makati",
+  "category_id": "ihg-one-rewards",
+  "region_id": "manila",
+  "short_description": "A 348-room, 19-floor Holiday Inn built atop Glorietta Mall in Ayala Center, Makati's CBD, about 8 km from Ninoy Aquino International Airport.",
+  "ai_summary": "Holiday Inn & Suites Makati opened April 1, 2013 as part of the New Glorietta Phase 1 redevelopment, built atop Glorietta shopping mall within Ayala Center -- IHG's second partnership with hotel-and-mall developer Ayala Land after InterContinental Manila. The 19-floor tower holds 348 guest rooms across six categories (Deluxe, Premier, Executive Club, Corner Suite, Executive Suite, and Makati Suite), and the property went entirely smoke-free in 2016. Facilities include an outdoor pool, rooftop bar, all-day dining restaurant, a Kids Play Area with the brand's Kids Stay and Eat Free programme, and an Executive Lounge serving breakfast, afternoon tea, and evening cocktails. Guest reviews and a March 2024 travel-blog review consistently praise the spacious, recently refreshed rooms, attentive service, and direct connection to Glorietta Mall in the heart of Makati's Central Business District. TripAdvisor rates the hotel 4.0/5 and ranks it around #9-10 of roughly 1,370 hotels in Metro Manila. Sitting about 8 km from Ninoy Aquino International Airport, it is one of the more airport-convenient IHG options in Makati while remaining squarely within the CBD.",
+  "core_facts": {
+    "address": "Glorietta Mall, Palm Drive, Ayala Center, Makati City 1224, Philippines",
+    "brand_sub_brand": "Holiday Inn",
+    "neighborhood": "Ayala Center, Makati CBD",
+    "distance_from_airport_km": 8,
+    "elite_benefits": [
+      "Complimentary hot breakfast for two as a welcome amenity for IHG One Rewards Diamond Elite members, per program terms",
+      "Complimentary room upgrades for Platinum Elite and Diamond Elite members, subject to availability",
+      "Welcome amenity of points or a drink/snack at check-in for Platinum Elite members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Glorietta Mall", "km": 0 },
+      { "label": "Greenbelt Mall", "km": 0.6 },
+      { "label": "One Ayala transport hub", "km": 0.3 },
+      { "label": "Bonifacio Global City", "km": 6 },
+      { "label": "Ninoy Aquino International Airport", "km": 8 }
+    ]
+  },
+  "pros": [
+    "Built directly atop Glorietta Mall in Ayala Center, with Greenbelt Mall and One Ayala transport hub steps away",
+    "348 rooms across six categories, spanning Deluxe through the Makati Suite, on a 19-floor tower",
+    "Executive Lounge with breakfast, afternoon tea and evening cocktails praised in independent reviews",
+    "Kids Stay and Eat Free programme and Kids Play Area make it a strong family-staycation pick",
+    "About 8 km from NAIA, one of the more airport-convenient IHG properties in central Makati"
+  ],
+  "cons": [
+    "Being built into a busy mall complex means public areas and the pool deck can feel crowded at peak times",
+    "A subset of reviews note occasional noise carrying between rooms or from mall-facing floors",
+    "Entirely smoke-free since 2016, which some guests are not expecting when booking"
+  ],
+  "research_highlights": [
+    "Opened April 1, 2013 as part of the New Glorietta Phase 1 redevelopment; IHG's second hotel partnership with Ayala Land",
+    "348 rooms and 16 suites across 19 floors, per Wikipedia's property profile",
+    "TripAdvisor ranks it around #9-10 of roughly 1,370 hotels in Metro Manila at 4.0/5 across nearly 2,900 reviews",
+    "A March 2024 Pommie Travels review praised spacious executive rooms, gym with personal trainers, and the rooftop pool"
+  ],
+  "research_watchouts": [
+    "Listed variably as 'Holiday Inn Makati', 'Holiday Inn Hotel & Suites Makati' and 'Holiday Inn & Suites Makati' across booking sites; all refer to the same property",
+    "Room count of 348 (Wikipedia) matches IHG-sourced search results, giving high confidence, but suite count (16) is cited only on Wikipedia and not independently cross-checked"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-14",
+  "faqs": [
+    {
+      "question": "Is Holiday Inn & Suites Makati connected to a mall?",
+      "answer": "Yes -- the hotel was built directly atop Glorietta Mall as part of the New Glorietta Phase 1 redevelopment in Ayala Center, giving guests indoor access to shopping and dining, with Greenbelt Mall and the One Ayala transport hub also within a short walk."
+    },
+    {
+      "question": "How many rooms does Holiday Inn & Suites Makati have?",
+      "answer": "The hotel has 348 guest rooms spread across 19 floors and six room categories, ranging from Deluxe rooms up to the Executive Suite and the top-tier Makati Suite, making it one of the larger Holiday Inn properties in Metro Manila."
+    },
+    {
+      "question": "How far is Holiday Inn & Suites Makati from the airport?",
+      "answer": "It is about 8 kilometers from Ninoy Aquino International Airport, generally a shorter and more predictable drive than IHG's Ortigas-area properties, which makes it a reasonable option for travelers who want both airport proximity and a Makati CBD base."
+    }
+  ],
+  "tags": ["makati-cbd", "mall-access", "family-friendly", "executive-lounge", "ayala-center"],
+  "source_mix": [
+    {
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/makati/mnlgs/hoteldetail",
+      "label": "Official IHG hotel-detail page for Holiday Inn & Suites Makati",
+      "type": "official",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298450-d3507321-Reviews-Holiday_Inn_Suites_Makati_by_IHG-Makati_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Holiday_Inn_%26_Suites_Makati",
+      "label": "Wikipedia entry on Holiday Inn & Suites Makati",
+      "type": "other",
+      "last_checked": "2026-08-14"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/makati/mnlgs/hoteldetail",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairmont-makati", "raffles-makati", "ac-hotel-manila"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Review: Holiday Inn and Suites Makati",
+        "source": "Pommie Travels",
+        "author": "Victoria",
+        "url": "https://www.pommietravels.com/holiday-inn-and-suites-makati-review/",
+        "published_date": "2024-03-28",
+        "summary": "Praises the spacious executive room, exceptional service, gym with personal trainers, Executive Lounge breakfast and evening cocktails, rooftop pool, and direct connection to Glorietta Mall."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Holiday Inn & Suites Makati Manila Tour 2025",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=ohzHuZTvmrM",
+        "video_id": "ohzHuZTvmrM"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 83,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 87 },
+      { "label": "Rooms", "score": 80 },
+      { "label": "Food & breakfast", "score": 82 },
+      { "label": "Value", "score": 76 }
+    ]
+  },
+  "reliability_score": 62,
+  "last_updated": "2026-08-14",
+  "status": "active"
+}
