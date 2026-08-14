@@ -1,0 +1,120 @@
+{
+  "entity_id": "holiday-inn-cebu-city",
+  "slug": "holiday-inn-cebu-city",
+  "name": "Holiday Inn Cebu City",
+  "category_id": "ihg-one-rewards",
+  "region_id": "cebu",
+  "short_description": "A 180-room hotel in the heart of Cebu Business Park, a 5-minute walk from Ayala Center Cebu, and the first Holiday Inn in the Visayas region.",
+  "ai_summary": "Holiday Inn Cebu City opened on July 1, 2022 as IHG's first Holiday Inn property in the Visayas region, set inside Cebu Business Park, the city's central business district, about a 5-minute walk from Ayala Center Cebu and SM City Cebu. The 180 rooms and suites include a 45-inch LED TV, spacious work desk, and premium bedding, and the hotel runs Sevii Dining & Drinks as its all-day buffet restaurant plus a 7th-floor outdoor pool and 24-hour fitness center. On TripAdvisor it ranks #1 of 351 hotels on Cebu Island at 4 of 5 from over 600 reviews, with guests consistently praising staff service, the buffet breakfast, and the central business-park location.",
+  "core_facts": {
+    "address": "Lot 5 and 6, Block 20, Samar Loop, Cebu Business Park, Cebu City 6000, Philippines",
+    "brand_sub_brand": "Holiday Inn",
+    "neighborhood": "Cebu Business Park",
+    "elite_benefits": [
+      "Complimentary hot breakfast for two as a welcome amenity for IHG One Rewards Diamond Elite members, per program terms",
+      "Complimentary room upgrades for Platinum Elite and Diamond Elite members, subject to availability",
+      "Welcome amenity of points or a drink/snack at check-in for Platinum Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "The first Holiday Inn property to open in the Visayas region (July 2022)",
+    "Ranked #1 of 351 hotels on Cebu Island on TripAdvisor, rated 4 of 5 from 600+ reviews",
+    "Set inside Cebu Business Park, a 5-minute walk from Ayala Center Cebu and SM City Cebu",
+    "180 rooms and suites with 45-inch LED TVs and premium bedding",
+    "7th-floor outdoor pool with separate shallow and lap sections, plus a 24-hour fitness center"
+  ],
+  "cons": [
+    "Some guests note standard rooms run compact relative to the rate",
+    "City business-park setting means limited walkable beach or heritage sightseeing directly outside the hotel"
+  ],
+  "research_highlights": [
+    "Guests repeatedly praise the warm, attentive staff service and buffet breakfast at Sevii Dining & Drinks",
+    "The Cebu Business Park location keeps Ayala Center Cebu and SM City Cebu within a short walk or drive",
+    "TripAdvisor ranks it #1 of 351 Cebu Island hotels, its highest local competitive position"
+  ],
+  "research_watchouts": [
+    "A subset of reviews mention standard room sizes as compact",
+    "As a 2022 opening, some room stock is newer than surrounding competitors, which can shift as the property ages"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-14",
+  "faqs": [
+    {
+      "question": "When did Holiday Inn Cebu City open?",
+      "answer": "Holiday Inn Cebu City opened on July 1, 2022, marking IHG Hotels & Resorts' first Holiday Inn property in the Visayas region and its entry into the Cebu market, following an opening promotion for IHG One Rewards members announced in May 2022."
+    },
+    {
+      "question": "Is Holiday Inn Cebu City close to Ayala Center Cebu?",
+      "answer": "Yes -- the hotel sits inside Cebu Business Park, roughly a 5-minute walk from Ayala Center Cebu shopping mall and within a short drive of SM City Cebu, making it a convenient base for both business travelers and leisure visitors exploring the city."
+    }
+  ],
+  "tags": ["cebu business park", "cebu city", "holiday inn", "visayas"],
+  "source_mix": [
+    {
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/cebu/cebcc/hoteldetail",
+      "label": "Official IHG Holiday Inn Cebu City hotel detail page",
+      "type": "official",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298460-d23917499-Reviews-Holiday_Inn_Cebu_City_By_IHG-Cebu_City_Cebu_Island_Visayas.html",
+      "label": "TripAdvisor ranking and guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.hotels.com/ho2360284544/holiday-inn-cebu-city-an-ihg-hotel-cebu-philippines/",
+      "label": "Hotels.com listing (room count, amenities cross-check)",
+      "type": "aggregator",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.metrostaycation.com/2022/05/opening-offer-holiday-inn-cebu-city.html",
+      "label": "Metro Staycation opening-offer article confirming July 2022 opening date",
+      "type": "review",
+      "last_checked": "2026-08-14"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/cebu/cebcc/hoteldetail",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["fairfield-cebu-mactan", "sheraton-cebu-mactan", "movenpick-hotel-mactan-island-cebu"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Opening Offer: Holiday Inn Cebu City",
+        "source": "Metro Staycation",
+        "author": "Ramil Delos Reyes",
+        "url": "https://www.metrostaycation.com/2022/05/opening-offer-holiday-inn-cebu-city.html",
+        "published_date": "2022-05-14",
+        "summary": "Covers Holiday Inn Cebu City's July 1, 2022 opening as IHG's Visayas debut, with an IHG One Rewards launch promo of discounted rates and a breakfast add-on."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Holiday Inn Cebu City Hotel Tour",
+        "channel": "Island Hopper TV Hotels",
+        "url": "https://www.youtube.com/watch?v=UASB4l9gbwU",
+        "video_id": "UASB4l9gbwU"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 84,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 80 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-14",
+  "status": "active"
+}

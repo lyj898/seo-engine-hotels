@@ -1,0 +1,111 @@
+{
+  "entity_id": "holiday-inn-suites-batangas-limapark",
+  "slug": "holiday-inn-suites-batangas-limapark",
+  "name": "Holiday Inn & Suites Batangas Limapark",
+  "category_id": "ihg-one-rewards",
+  "region_id": "batangas",
+  "short_description": "A 134-room upper-midscale hotel inside the Lima Technology Centre in Malvar, Batangas -- the first and only Holiday Inn in the province.",
+  "ai_summary": "Holiday Inn & Suites Batangas Limapark by IHG sits inside the Lima Technology Centre business and industrial park in Malvar, Batangas, about a 1-minute drive from The Outlets at Lipa and roughly two hours south of Metro Manila. The 134-room property is the first and only Holiday Inn in Batangas province, built primarily for the industrial-park workforce and weekend staycation travelers. Guests consistently praise the Horizon outdoor pool, attentive and welcoming front-desk and F&B staff, and the weekend buffet at Plum Pan Asian Cuisine, while some reviews note the facilities are starting to show their age relative to newer competitors in the area.",
+  "core_facts": {
+    "address": "Lima Technology Centre, Lipa-Malvar, Malvar, Batangas 4233, Philippines",
+    "brand_sub_brand": "Holiday Inn",
+    "neighborhood": "Lima Technology Centre, Malvar",
+    "elite_benefits": [
+      "Complimentary hot breakfast for two as a welcome amenity for IHG One Rewards Diamond Elite members, per program terms",
+      "Complimentary room upgrades for Platinum Elite and Diamond Elite members, subject to availability",
+      "Welcome amenity of points or a drink/snack at check-in for Platinum Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "The first and only Holiday Inn hotel in Batangas province",
+    "Horizon outdoor pool with free cabanas and umbrellas draws consistent guest praise",
+    "134 air-conditioned rooms with amenities including safe boxes and flat-screen TVs",
+    "Two on-site restaurants, including Plum Pan Asian Cuisine's weekend buffet",
+    "Staff service and hospitality repeatedly singled out by guests as a highlight"
+  ],
+  "cons": [
+    "Some rooms and public areas are described as showing their age",
+    "Set inside an industrial/technology park rather than a leisure destination, so it suits staycations and business travel over sightseeing bases"
+  ],
+  "research_highlights": [
+    "Guest reviews consistently highlight the pool area and attentive front-desk and restaurant staff",
+    "The weekend buffet at Plum Pan Asian Cuisine is repeatedly called out as a standout",
+    "Positioned as a staycation base roughly two hours from Metro Manila, one minute from The Outlets at Lipa"
+  ],
+  "research_watchouts": [
+    "A subset of reviews note the property could use a refresh in places",
+    "Located inside the Lima Technology Centre industrial park rather than a beach or heritage-town setting"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-14",
+  "faqs": [
+    {
+      "question": "How many rooms does Holiday Inn & Suites Batangas Limapark have?",
+      "answer": "The hotel has 134 air-conditioned rooms, each equipped with amenities such as a flat-screen TV, safe box, electric tea pot, and free toiletries, with a selection of rooms also offering balconies or pool views for an additional staycation-style feel."
+    },
+    {
+      "question": "Where exactly is Holiday Inn & Suites Batangas Limapark located?",
+      "answer": "It sits inside the Lima Technology Centre business park in Malvar, Batangas, about a one-minute drive from The Outlets at Lipa mall and roughly a two-hour drive south of Metro Manila, making it the first and only Holiday Inn property in Batangas province."
+    }
+  ],
+  "tags": ["batangas", "malvar", "lima technology centre", "staycation", "holiday inn"],
+  "source_mix": [
+    {
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/batangas/mnlba/hoteldetail",
+      "label": "Official IHG Holiday Inn Batangas LimaPark hotel detail page",
+      "type": "official",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.hotels.com/ho3365284160/holiday-inn-hotel-suites-batangas-limapark-an-ihg-hotel-malvar-philippines/",
+      "label": "Hotels.com listing (room count, review score, amenities)",
+      "type": "aggregator",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g2406674-d1672822-Reviews-Holiday_Inn_Suites_Batangas_Limapark_By_IHG-Malvar_Batangas_Province_Calabarzon_Regio.html",
+      "label": "TripAdvisor guest reviews and ranking",
+      "type": "review",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.traveloka.com/en-ph/hotel/philippines/holiday-inn--suites-batangas-limapark-by-ihg-an-ihg-hotel-9000003316354",
+      "label": "Traveloka listing (room count cross-check)",
+      "type": "aggregator",
+      "last_checked": "2026-08-14"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/batangas/mnlba/hoteldetail",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["the-farm-at-san-benito-autograph"],
+  "external_coverage": {
+    "reviews": [],
+    "videos": [
+      {
+        "title": "Holiday Inn & Suites Batangas LimaPark | Hotel Tour + Staycation | Biyahe ni Dona",
+        "channel": "Biyahe ni Dona",
+        "url": "https://www.youtube.com/watch?v=18Ufgbdibrg",
+        "video_id": "18Ufgbdibrg"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 88 },
+      { "label": "Rooms", "score": 76 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 52,
+  "last_updated": "2026-08-14",
+  "status": "active"
+}

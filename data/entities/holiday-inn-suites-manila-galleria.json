@@ -1,0 +1,133 @@
+{
+  "entity_id": "holiday-inn-suites-manila-galleria",
+  "slug": "holiday-inn-suites-manila-galleria",
+  "name": "Holiday Inn & Suites Manila Galleria",
+  "category_id": "ihg-one-rewards",
+  "region_id": "manila",
+  "short_description": "A 285-room Holiday Inn in Ortigas Center, Pasig, with 36 suites and Ortigas' only two-level penthouse, directly linked to Robinsons Galleria Mall.",
+  "ai_summary": "Holiday Inn & Suites Manila Galleria occupies 1 Asian Development Bank Avenue in Ortigas Center, Pasig City, on a site that opened in 1993 and previously operated as the Manila Galleria Suites before rebranding under IHG. Robinsons Land Corp invested roughly PHP 1 billion renovating the property, with all 285 rooms -- including 36 suites -- refreshed and unveiled in September 2024 alongside a new Summit Lounge with city skyline views and the only two-level penthouse suite in Ortigas. The hotel is directly connected to Robinsons Galleria Mall and shares pool, gym, and spa facilities with its sister property Crowne Plaza Manila Galleria next door. TripAdvisor rates it 4.0/5, ranked around #12 of 37 hotels in Pasig, with reviewers consistently praising the mall-adjacent convenience, spacious renovated rooms, and warm staff service. Some reviews flag residual renovation smells and noise as the refresh continued in phases, and the location, roughly 15 km (about 35 minutes by car) from Ninoy Aquino International Airport, is better suited to Ortigas business travel and family staycations than airport layovers.",
+  "core_facts": {
+    "address": "1 Asian Development Bank Avenue, Ortigas Center, Pasig City 1655, Philippines",
+    "brand_sub_brand": "Holiday Inn",
+    "neighborhood": "Ortigas Center, Pasig City",
+    "distance_from_airport_km": 15,
+    "elite_benefits": [
+      "Complimentary hot breakfast for two as a welcome amenity for IHG One Rewards Diamond Elite members, per program terms",
+      "Complimentary room upgrades for Platinum Elite and Diamond Elite members, subject to availability",
+      "Welcome amenity of points or a drink/snack at check-in for Platinum Elite members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Robinsons Galleria Mall", "km": 0 },
+      { "label": "SM Megamall", "km": 1.5 },
+      { "label": "Bonifacio Global City (via BGC-Ortigas Center Link)", "km": 6 },
+      { "label": "Makati CBD", "km": 8 },
+      { "label": "Ninoy Aquino International Airport", "km": 15 }
+    ]
+  },
+  "pros": [
+    "Directly connected to Robinsons Galleria Mall, with SM Megamall and Podium a short walk away",
+    "285 rooms including 36 suites, fully renovated in a ~PHP 1 billion refresh unveiled September 2024",
+    "New Summit Lounge with city skyline views, plus Ortigas' only two-level penthouse suite",
+    "Shares pool, 24-hour gym, and spa facilities with sister property Crowne Plaza Manila Galleria next door",
+    "Consistently praised warm, attentive staff service and reasonable rates for the location"
+  ],
+  "cons": [
+    "Some rooms retained dated, worn furnishings ahead of the full 2024 renovation completing property-wide",
+    "A subset of reviews note lingering renovation smells or noise during the phased refresh",
+    "About 15 km (roughly 35 minutes by car, traffic-dependent) from NAIA, not an airport-convenient choice"
+  ],
+  "research_highlights": [
+    "The property opened in 1993 as Manila Galleria Suites before rebranding as Holiday Inn & Suites Manila Galleria under IHG",
+    "Robinsons Land Corp invested approximately PHP 1 billion renovating all 285 rooms, completed and unveiled in September 2024",
+    "TripAdvisor ranks it #12 of 37 hotels in Pasig at 4.0/5",
+    "Shares leisure amenities (pool, gym, spa) with sister hotel Crowne Plaza Manila Galleria, per an April 2024 BusinessMirror feature on both properties"
+  ],
+  "research_watchouts": [
+    "Older reviews predating the 2024 renovation describe worn, orange-toned furnishings that the refresh has since addressed -- weight recent reviews more heavily",
+    "The hotel's official brand name mixes 'Holiday Inn Manila Galleria' and 'Holiday Inn & Suites Manila Galleria' across sources; both refer to the same property"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-14",
+  "faqs": [
+    {
+      "question": "Has Holiday Inn & Suites Manila Galleria been renovated recently?",
+      "answer": "Yes -- Robinsons Land Corp invested roughly PHP 1 billion renovating all 285 rooms and suites, with the refreshed property, including a new Summit Lounge and a two-level penthouse suite, formally unveiled in September 2024 after the property previously operated as Manila Galleria Suites."
+    },
+    {
+      "question": "Is Holiday Inn & Suites Manila Galleria connected to a shopping mall?",
+      "answer": "Yes -- the hotel has direct access to Robinsons Galleria Mall in Ortigas Center, and SM Megamall and Podium Mall are also within short walking distance, making it a popular staycation choice for shopping and dining convenience."
+    },
+    {
+      "question": "How far is the hotel from Ninoy Aquino International Airport?",
+      "answer": "It sits roughly 15 kilometers from NAIA, typically about a 35-minute drive depending on Manila traffic, so travelers prioritizing a short airport transfer may prefer a property closer to Pasay's Newport City rather than this Ortigas Center location."
+    }
+  ],
+  "tags": ["ortigas", "mall-access", "family-friendly", "penthouse-suite", "renovated-2024"],
+  "source_mix": [
+    {
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/pasig-city/mnlgl/hoteldetail",
+      "label": "Official IHG hotel-detail page for Holiday Inn & Suites Manila Galleria",
+      "type": "official",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298453-d299176-Reviews-Holiday_Inn_Suites_Manila_Galleria_By_IHG-Pasig_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://mb.com.ph/2024/9/12/holiday-inn-manila-galleria-s-transformation-spells-comfort-elegance-and-luxury",
+      "label": "Manila Bulletin coverage of the 2024 renovation",
+      "type": "other",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://businessmirror.com.ph/2024/04/29/crowne-plaza-manila-galleria-and-holiday-inn-manila-galleria-unveil-renovated-rooms-and-enhanced-guest-experience/",
+      "label": "BusinessMirror: 2024 room renovation coverage for both Ortigas Galleria IHG hotels",
+      "type": "other",
+      "last_checked": "2026-08-14"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/pasig-city/mnlgl/hoteldetail",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["crowne-plaza-manila-galleria", "mercure-manila-ortigas", "novotel-manila-araneta-city"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Holiday Inn Manila Galleria's transformation spells comfort, elegance and luxury",
+        "source": "Manila Bulletin",
+        "url": "https://mb.com.ph/2024/9/12/holiday-inn-manila-galleria-s-transformation-spells-comfort-elegance-and-luxury",
+        "published_date": "2024-09-12",
+        "summary": "Covers the property's newly unveiled renovation: 285 refreshed rooms and suites, upgraded Premier Rooms and One/Two-Bedroom Suites, a two-level Penthouse Suite, and a new Summit Lounge with skyline views."
+      }
+    ],
+    "videos": [
+      {
+        "title": "HOLIDAY INN Manila Galleria || Hotel Review",
+        "channel": "GoAnywhere",
+        "url": "https://www.youtube.com/watch?v=Y6anQv6B4ng",
+        "video_id": "Y6anQv6B4ng"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 78 },
+      { "label": "Food & breakfast", "score": 80 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-14",
+  "status": "active"
+}

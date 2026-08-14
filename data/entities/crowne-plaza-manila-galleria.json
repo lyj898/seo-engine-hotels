@@ -1,0 +1,140 @@
+{
+  "entity_id": "crowne-plaza-manila-galleria",
+  "slug": "crowne-plaza-manila-galleria",
+  "name": "Crowne Plaza Manila Galleria",
+  "category_id": "ihg-one-rewards",
+  "region_id": "manila",
+  "short_description": "A 262-room, 19-floor Crowne Plaza in Ortigas Center directly connected to Robinsons Galleria Mall, with 63 suites and a Club Lounge.",
+  "ai_summary": "Opened in 2005 as IHG's first Crowne Plaza in Manila, Crowne Plaza Manila Galleria sits at Ortigas Avenue corner ADB Avenue in Ortigas Center, Quezon City, directly connected to Robinsons Galleria Mall. The 19-floor tower holds 262 rooms including 63 suites, refreshed in a 2024 renovation that brought entry-level rooms to 40 square meters -- among the largest standard rooms in Ortigas -- plus an exclusive Club Lounge for suite guests. Dining centers on Seven Corners, a seven-station international buffet restaurant, and Xin Tian Di for Chinese cuisine, alongside the largest pillarless ballroom in Ortigas (1,500-guest capacity). Guest reviews consistently praise the mall-adjacent location, spacious rooms, buffet breakfast, and warm staff, with TripAdvisor rating the hotel 4 of 5 across roughly 1,500 reviews. Recurring complaints center on street noise and traffic sound bleeding into rooms facing Ortigas Avenue, some dated bathroom fixtures despite the 2024 refresh, and inconsistent value-for-money perceptions at peak rates. It sits roughly 15 km (about 40 minutes by car, traffic-dependent) from Ninoy Aquino International Airport, making it more suited to business travelers and Ortigas-area staycationers than airport layovers.",
+  "core_facts": {
+    "address": "Ortigas Avenue corner ADB Avenue, Ortigas Center, Quezon City 1100, Philippines",
+    "brand_sub_brand": "Crowne Plaza",
+    "neighborhood": "Ortigas Center, Quezon City",
+    "distance_from_airport_km": 15,
+    "elite_benefits": [
+      "Complimentary hot breakfast for two as a welcome amenity for IHG One Rewards Diamond Elite members, per program terms",
+      "Complimentary room upgrades for Platinum Elite and Diamond Elite members, subject to availability",
+      "Welcome amenity of points or a drink/snack at check-in for Platinum Elite members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "Robinsons Galleria Mall", "km": 0 },
+      { "label": "Ortigas Center CBD", "km": 0.5 },
+      { "label": "Makati CBD", "km": 8 },
+      { "label": "Bonifacio Global City", "km": 6 },
+      { "label": "Ninoy Aquino International Airport", "km": 15 }
+    ]
+  },
+  "pros": [
+    "Directly connected to Robinsons Galleria Mall for shopping and dining without leaving the building",
+    "262 rooms including 63 suites, refreshed in a 2024 renovation with entry-level rooms at 40 sqm -- among the largest standard rooms in Ortigas",
+    "Seven Corners international buffet with seven interactive cooking stations draws consistent praise",
+    "Club Lounge access for suite guests plus the largest pillarless ballroom in Ortigas",
+    "Warm, attentive staff service noted across recent reviews"
+  ],
+  "cons": [
+    "Rooms facing Ortigas Avenue can pick up street noise and traffic sound",
+    "Some bathroom fixtures and public areas still read as dated despite the 2024 room refresh",
+    "A subset of guests feel value for money could be stronger during peak-rate periods",
+    "About 15 km (roughly 40 minutes by car, traffic-dependent) from NAIA, not an airport-convenient choice"
+  ],
+  "research_highlights": [
+    "Opened December 5, 2005 as IHG's first Crowne Plaza property in Manila",
+    "2024 renovation added 40 sqm entry-level rooms and a new Club Lounge, per an April 2024 BusinessMirror feature on the property",
+    "TripAdvisor ranks it #30 of 1,332 hotels in Quezon City at 4.0/5 across roughly 1,500 reviews",
+    "Shares leisure amenities (pool, gym, spa) with its sister property Holiday Inn & Suites Manila Galleria next door"
+  ],
+  "research_watchouts": [
+    "Room count is cited as 262 (2024 BusinessMirror feature, with a 63-suite breakdown) versus 263 in older references -- both are close enough to reflect normal minor discrepancies across sources",
+    "Traffic-noise complaints recur for Ortigas Avenue-facing rooms; ask for a mall-facing or higher-floor room if noise sensitive"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-14",
+  "faqs": [
+    {
+      "question": "Is Crowne Plaza Manila Galleria connected to a mall?",
+      "answer": "Yes -- the hotel has a direct, covered connection to Robinsons Galleria Mall in Ortigas Center, giving guests immediate access to shopping, dining, and a cinema without stepping outside, which is a frequently cited convenience in guest reviews."
+    },
+    {
+      "question": "How many rooms does Crowne Plaza Manila Galleria have?",
+      "answer": "The hotel has 262 rooms across 19 floors, including 63 suites, following a 2024 renovation that brought entry-level rooms to 40 square meters, among the largest standard room sizes in the Ortigas business district according to the property."
+    },
+    {
+      "question": "How far is Crowne Plaza Manila Galleria from Ninoy Aquino International Airport?",
+      "answer": "It is roughly 15 kilometers from NAIA, typically about a 40-minute drive depending on Manila traffic, making it better suited to travelers with business in Ortigas or Quezon City than those prioritizing airport proximity for a short layover."
+    }
+  ],
+  "tags": ["ortigas", "mall-access", "club-lounge", "buffet-dining", "business-hotel"],
+  "source_mix": [
+    {
+      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/quezon-city/mnlcp/hoteldetail",
+      "label": "Official IHG hotel-detail page for Crowne Plaza Manila Galleria",
+      "type": "official",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298574-d578252-Reviews-Crowne_Plaza_Manila_Galleria_By_IHG-Quezon_City_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Crowne_Plaza_Manila_Galleria",
+      "label": "Wikipedia entry on Crowne Plaza Manila Galleria",
+      "type": "other",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://businessmirror.com.ph/2024/04/29/crowne-plaza-manila-galleria-and-holiday-inn-manila-galleria-unveil-renovated-rooms-and-enhanced-guest-experience/",
+      "label": "BusinessMirror: 2024 room renovation coverage for both Ortigas Galleria IHG hotels",
+      "type": "other",
+      "last_checked": "2026-08-14"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/quezon-city/mnlcp/hoteldetail",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["holiday-inn-suites-manila-galleria", "mercure-manila-ortigas", "novotel-manila-araneta-city", "grand-hyatt-manila"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "A sweet suite staycation at Crowne Plaza Manila Galleria",
+        "source": "Jellybeans in the City",
+        "url": "https://beingjellybeans.com/2024/08/04/a-sweet-suite-staycation-at-crowne-plaza-manila-galleria/",
+        "published_date": "2024-08-04",
+        "summary": "Blogger recounts a suite staycation: comfortable air-conditioned rooms, the seven-station Seven Corners buffet, and shared pool/gym/spa amenities, with easy access to Robinsons Galleria Mall next door."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Crowne Plaza Manila Galleria | Full Tour 🇵🇭",
+        "channel": "Metro Staycation",
+        "url": "https://www.youtube.com/watch?v=jyEuXSLxKbw",
+        "video_id": "jyEuXSLxKbw"
+      },
+      {
+        "title": "Crowne Plaza Manila Galleria With Lounge Access Tour And Review",
+        "channel": "Travel Asia With Allie",
+        "url": "https://www.youtube.com/watch?v=T6YADUC1wV8",
+        "video_id": "T6YADUC1wV8"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 80,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 85 },
+      { "label": "Rooms", "score": 74 },
+      { "label": "Food & breakfast", "score": 86 },
+      { "label": "Value", "score": 72 }
+    ]
+  },
+  "reliability_score": 62,
+  "last_updated": "2026-08-14",
+  "status": "active"
+}

@@ -1,0 +1,128 @@
+{
+  "entity_id": "holiday-inn-express-manila-newport-city",
+  "slug": "holiday-inn-express-manila-newport-city",
+  "name": "Holiday Inn Express Manila Newport City",
+  "category_id": "ihg-one-rewards",
+  "region_id": "manila",
+  "short_description": "A 737-room midscale Holiday Inn Express in Newport City, Pasay, about 1 km (a 10-minute walk via the Runway Manila bridge) from NAIA Terminal 3.",
+  "ai_summary": "Holiday Inn Express Manila Newport City sits at 1 Jasmin Drive within Resorts World Manila's Newport City complex in Pasay, roughly 1 km -- a 2-minute drive or 10-minute walk via the covered Runway Manila bridge -- from Ninoy Aquino International Airport Terminal 3. As a midscale, 737-room property, it is IHG's largest and most budget-oriented Manila hotel in this directory, offering free in-room Wi-Fi, a 24-hour fitness center, guest laundry, on-site parking, and the Great Room restaurant serving Filipino and international breakfast, lunch, and dinner. A September 2024 review by Upgraded Points called it a solid airport-convenient option, praising staff hospitality and runway views from upper-floor rooms while flagging a limited breakfast selection and some worn furnishings. TripAdvisor rates the hotel 3 of 5, reflecting its budget-tier positioning relative to IHG's full-service Manila properties, with recurring guest complaints about the removal of a former airport shuttle (transfers now cost more than a metered taxi or ride-hail) and small, basic rooms. It has no pool, unlike IHG's other Manila properties, but its sheer proximity to NAIA and direct Newport City mall access make it a practical pick for short layovers and early flights.",
+  "core_facts": {
+    "address": "1 Jasmin Drive, Newport City, Newport Boulevard, Pasay City 1309, Philippines",
+    "brand_sub_brand": "Holiday Inn Express",
+    "neighborhood": "Newport City (Newport World Resorts / Resorts World Manila), Pasay",
+    "distance_from_airport_km": 1,
+    "elite_benefits": [
+      "Complimentary hot breakfast for two as a welcome amenity for IHG One Rewards Diamond Elite members, per program terms",
+      "Complimentary room upgrades for Platinum Elite and Diamond Elite members, subject to availability",
+      "Welcome amenity of points or a drink/snack at check-in for Platinum Elite members, subject to availability"
+    ],
+    "landmark_distances": [
+      { "label": "NAIA Terminal 3 (via Runway Manila walkway)", "km": 1 },
+      { "label": "Newport World Resorts / Resorts World Manila", "km": 0.4 },
+      { "label": "SM Mall of Asia", "km": 8 },
+      { "label": "Makati CBD", "km": 10 },
+      { "label": "Bonifacio Global City", "km": 11 }
+    ]
+  },
+  "pros": [
+    "About 1 km from NAIA Terminal 3, reachable via the covered Runway Manila bridge in roughly 10 minutes on foot",
+    "737 rooms make it one of the largest Holiday Inn Express properties in the region, generally easier to book on short notice",
+    "24-hour fitness center, free in-room Wi-Fi, guest laundry, and on-site parking included",
+    "Runway-view rooms on upper floors are a distinctive draw for plane-spotters and transit travelers",
+    "Staff hospitality is consistently praised across independent reviews and guest feedback"
+  ],
+  "cons": [
+    "TripAdvisor rating of 3 of 5 trails IHG's other Manila properties, reflecting its budget-tier positioning",
+    "No swimming pool, unlike IHG's full-service Manila hotels",
+    "Breakfast selection is described as limited by multiple reviewers",
+    "Guests report the hotel discontinued its airport shuttle, with paid transfers now costing more than a metered taxi or ride-hail"
+  ],
+  "research_highlights": [
+    "737 rooms, confirmed consistently across IHG-sourced listings and independent booking sites",
+    "A September 6, 2024 Upgraded Points review calls it 'a solid option for those needing a hotel near Manila's airport'",
+    "TripAdvisor: 3.0/5 with roughly 1,800+ reviews, reflecting the midscale Express tier rather than a quality issue specific to this property",
+    "Located within Resorts World Manila's Newport City complex, alongside sister IHG-portfolio and Marriott/Sheraton properties"
+  ],
+  "research_watchouts": [
+    "TripAdvisor listing names vary between 'Holiday Inn Express Manila Newport City' and 'Holiday Inn Express Manila Newport World Resorts' across different result pages -- confirmed to be the same property via matching address and photos",
+    "Recent reviews flag the discontinued airport shuttle as a cost surprise; verify current transfer options directly with the hotel before booking"
+  ],
+  "research_confidence": "high",
+  "research_last_updated": "2026-08-14",
+  "faqs": [
+    {
+      "question": "How close is Holiday Inn Express Manila Newport City to the airport?",
+      "answer": "It sits about 1 kilometer from NAIA Terminal 3, connected via the covered Runway Manila bridge, making it roughly a 10-minute walk or a 2-minute drive -- one of the closest hotel options to the airport in the entire Metro Manila area."
+    },
+    {
+      "question": "Does Holiday Inn Express Manila Newport City have a pool?",
+      "answer": "No -- unlike IHG's full-service Crowne Plaza and Holiday Inn properties in Manila, this midscale Holiday Inn Express does not have a swimming pool, though it offers a 24-hour fitness center, free Wi-Fi, guest laundry, and on-site parking."
+    },
+    {
+      "question": "Is there an airport shuttle at Holiday Inn Express Manila Newport City?",
+      "answer": "Guest reviews indicate the hotel has discontinued its complimentary airport shuttle, with paid transfers now costing more than a metered taxi or ride-hail app; given the hotel's roughly 1 km proximity to Terminal 3, most guests simply walk or take a short taxi ride instead."
+    }
+  ],
+  "tags": ["newport-city", "airport-hotel", "budget-friendly", "runway-view", "pasay"],
+  "source_mix": [
+    {
+      "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/pasay/mnlrm/hoteldetail",
+      "label": "Official IHG hotel-detail page for Holiday Inn Express Manila Newport City",
+      "type": "official",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g298452-d2397644-Reviews-Holiday_Inn_Express_Manila_Newport_City_By_IHG-Pasay_Metro_Manila_Luzon.html",
+      "label": "TripAdvisor guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://upgradedpoints.com/travel/hotels/holiday-inn-express-manila-newport-city-review/",
+      "label": "Upgraded Points hotel review",
+      "type": "other",
+      "last_checked": "2026-08-14"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/pasay/mnlrm/hoteldetail",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["manila-marriott-hotel-newport", "sheraton-manila-hotel-newport"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Holiday Inn Express Manila Newport City in the Philippines [Review]",
+        "source": "Upgraded Points",
+        "url": "https://upgradedpoints.com/travel/hotels/holiday-inn-express-manila-newport-city-review/",
+        "published_date": "2024-09-06",
+        "summary": "Calls it a solid airport-area option: 737 rooms, 24-hour gym, free Wi-Fi, guest laundry and parking; praises staff and runway views but flags limited breakfast and a stained sofa."
+      }
+    ],
+    "videos": [
+      {
+        "title": "HOLIDAY INN EXPRESS NEWPORT CITY MANILA 🇵🇭 [ 4K ] ROOM TOUR",
+        "channel": "MI AND DI TV",
+        "url": "https://www.youtube.com/watch?v=TfA4MForQvk",
+        "video_id": "TfA4MForQvk"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 68,
+    "breakdown": [
+      { "label": "Location", "score": 92 },
+      { "label": "Service", "score": 78 },
+      { "label": "Rooms", "score": 62 },
+      { "label": "Food & breakfast", "score": 58 },
+      { "label": "Value", "score": 60 }
+    ]
+  },
+  "reliability_score": 58,
+  "last_updated": "2026-08-14",
+  "status": "active"
+}
