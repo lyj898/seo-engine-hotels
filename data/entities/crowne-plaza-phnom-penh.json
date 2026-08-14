@@ -1,0 +1,106 @@
+{
+  "entity_id": "crowne-plaza-phnom-penh",
+  "slug": "crowne-plaza-phnom-penh",
+  "name": "Crowne Plaza Phnom Penh",
+  "category_id": "ihg-one-rewards",
+  "region_id": "phnom-penh",
+  "short_description": "A 137-room hotel converted from the former VM Hotel, integrated within the CG Fortune Center mixed-use development in Phnom Penh's Pou Senchey district.",
+  "ai_summary": "Crowne Plaza Phnom Penh opened its first phase of 137 refurbished rooms and suites by the end of 2025, converted from the former VM Hotel and integrated within CG Fortune Center, a mixed-use office, retail, and entertainment development on Russian Boulevard in Phnom Penh's Pou Senchey district. A second phase adding 139 more keys is planned for 2027, bringing the property to 276 rooms, alongside three restaurants and a bar, over 1,000 square metres of meeting space, a pool, and a fitness centre. Early guest reviews on TripAdvisor rate it 4 of 5, praising the fresh, newly renovated rooms, the Starry Pool, and the breakfast buffet, with the hotel ranked #30 of 280 accommodations in Phnom Penh.",
+  "core_facts": {
+    "address": "No. 1679, Russia Avenue (Russian Boulevard), CG Fortune Center, Pou Senchey district, Phnom Penh, Cambodia",
+    "brand_sub_brand": "Crowne Plaza",
+    "neighborhood": "Pou Senchey / CG Fortune Center",
+    "elite_benefits": [
+      "Complimentary hot breakfast for two as a welcome amenity for IHG One Rewards Diamond Elite members, per program terms",
+      "Complimentary room upgrades for Platinum Elite and Diamond Elite members, subject to availability",
+      "Welcome amenity of points or a drink/snack at check-in for Platinum Elite members, subject to availability"
+    ]
+  },
+  "pros": [
+    "Newly refurbished as part of IHG's 2025 conversion from the former VM Hotel",
+    "Integrated within CG Fortune Center, a mixed-use development with retail and dining on site",
+    "Signature Starry Pool with a night-sky design and underwater lighting",
+    "137 rooms opened in phase one, expanding to 276 once the 2027 extension wing completes",
+    "Guests highlight the spacious, spotless rooms and the breakfast buffet"
+  ],
+  "cons": [
+    "Set in the Pou Senchey industrial district rather than Phnom Penh's central riverside area",
+    "Still mid-expansion -- the full 276-room, three-restaurant property isn't complete until the phase-two wing opens in 2027"
+  ],
+  "research_highlights": [
+    "Marks Crowne Plaza's debut in Phnom Penh and part of IHG's wider push into Cambodia alongside Six Senses Krabey Island",
+    "Early guest reviews consistently mention the newly renovated rooms and the Starry Pool",
+    "Located inside the CG Fortune Center mixed-use complex, giving on-site access to retail and dining beyond the hotel itself"
+  ],
+  "research_watchouts": [
+    "Room count and facility list will change again once the 2027 phase-two extension wing opens",
+    "Pou Senchey is an industrial hub tied to the Phnom Penh Special Economic Zone rather than the traditional riverside tourist core"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-14",
+  "faqs": [
+    {
+      "question": "How many rooms does Crowne Plaza Phnom Penh have?",
+      "answer": "The hotel opened its first phase with 137 refurbished rooms and suites by the end of 2025, converted from the former VM Hotel. A second phase adding 139 more keys is planned for completion by 2027, which will bring the total to 276 guest rooms and suites once fully finished."
+    },
+    {
+      "question": "Where is Crowne Plaza Phnom Penh located?",
+      "answer": "It sits on Russian Boulevard in Phnom Penh's Pou Senchey district, integrated within CG Fortune Center, a mixed-use development with office, retail, and entertainment space. The district is an industrial hub linked to the Phnom Penh Special Economic Zone rather than the city's riverside tourist core."
+    }
+  ],
+  "tags": ["phnom penh", "crowne plaza", "cg fortune center", "pou senchey"],
+  "source_mix": [
+    {
+      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/phnom-penh/pnhra/hoteldetail",
+      "label": "Official IHG Crowne Plaza Phnom Penh hotel detail page",
+      "type": "official",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.ihgplc.com/en/news-and-media/news-releases/2025/ihg-hotels-and-resorts-to-open-crowne-plaza-phnom-penh-this-year",
+      "label": "IHG PLC press release on the phased conversion and opening",
+      "type": "official",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g293940-d25395239-Reviews-Crowne_Plaza_Phnom_Penh_by_IHG-Phnom_Penh.html",
+      "label": "TripAdvisor ranking and guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-14"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/phnom-penh/pnhra/hoteldetail",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["hyatt-regency-phnom-penh", "sofitel-phnom-penh-phokeethra", "novotel-phnom-penh-bkk1"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "IHG to Open Crowne Plaza Hotel in Phnom Penh by Year-End",
+        "source": "Hotel News Resource",
+        "url": "https://www.hotelnewsresource.com/article138873.html",
+        "published_date": "2025-11-11",
+        "summary": "Reports IHG's phased conversion of the former VM Hotel into Crowne Plaza Phnom Penh, opening with 137 rooms in 2025 and expanding to 276 by 2027."
+      }
+    ],
+    "videos": []
+  },
+  "sentiment_scores": {
+    "overall": 82,
+    "breakdown": [
+      { "label": "Location", "score": 74 },
+      { "label": "Service", "score": 86 },
+      { "label": "Rooms", "score": 88 },
+      { "label": "Food & breakfast", "score": 84 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 50,
+  "last_updated": "2026-08-14",
+  "status": "active"
+}

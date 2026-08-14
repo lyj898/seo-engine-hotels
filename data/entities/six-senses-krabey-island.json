@@ -1,0 +1,117 @@
+{
+  "entity_id": "six-senses-krabey-island",
+  "slug": "six-senses-krabey-island",
+  "name": "Six Senses Krabey Island",
+  "category_id": "ihg-one-rewards",
+  "region_id": "sihanoukville",
+  "short_description": "A private-island luxury resort near Sihanoukville with 40 pool villas across a 30-acre jungle island, reached by a short speedboat transfer.",
+  "ai_summary": "Six Senses Krabey Island occupies its own 13-hectare (32-acre) private island in the Gulf of Thailand, about 11 km from Sihanoukville International Airport and reached via a short speedboat transfer from a private jetty. Opened in 2019, the resort has 40 pool villas set among jungle and coastline, two restaurants, a spa with seven treatment areas, and a marine conservation program guests can join. TripAdvisor ranks it #4 of 137 hotels in Sihanoukville at 4 of 5 from 222 reviews, and it holds 2 Michelin Keys, with guest and press coverage consistently praising the villas, service, dining, and barefoot-luxury atmosphere.",
+  "core_facts": {
+    "address": "Koh Krabey Island, Ream Commune, Prey Nob, Preah Sihanouk Province 18000, Cambodia",
+    "brand_sub_brand": "Six Senses",
+    "neighborhood": "Koh Krabey Island",
+    "elite_benefits": [],
+    "elite_notes": "Six Senses Krabey Island is one of a handful of Six Senses properties that does not currently participate in IHG One Rewards -- IHG's own booking flow for this hotel states 'IHG One Rewards is not applicable at this Six Senses hotel at this time,' so members cannot earn or redeem points or elite benefits here, unlike most other Six Senses resorts."
+  },
+  "pros": [
+    "An entire private 13-hectare (32-acre) island with 40 pool villas set among jungle and coastline",
+    "2 Michelin Keys, reflecting its positioning among Cambodia's top luxury resorts",
+    "Reached via an 11 km transfer from Sihanoukville International Airport plus a short speedboat crossing",
+    "Active marine conservation program with coral gardens guests can visit",
+    "Consistently praised service, dining, and spa across guest and press reviews"
+  ],
+  "cons": [
+    "Does not currently participate in IHG One Rewards, so elite members earn no points or benefits here",
+    "Remote private-island access (speedboat transfer) makes it a deliberate, planned trip rather than a casual stop"
+  ],
+  "research_highlights": [
+    "Guest reviews and press coverage repeatedly single out the villas, staff service, and dining quality",
+    "The resort's marine conservation and sustainability programming is a recurring highlight in independent reviews",
+    "Holds 2 Michelin Keys and a #4-of-137 TripAdvisor ranking in Sihanoukville"
+  ],
+  "research_watchouts": [
+    "IHG One Rewards is explicitly not applicable at this property, unlike most other Six Senses hotels",
+    "Access requires a private-jetty speedboat transfer, adding logistics and cost versus a mainland hotel"
+  ],
+  "research_confidence": "medium",
+  "research_last_updated": "2026-08-14",
+  "faqs": [
+    {
+      "question": "Can I earn or use IHG One Rewards points at Six Senses Krabey Island?",
+      "answer": "No -- Six Senses Krabey Island is one of the small number of Six Senses properties that does not participate in IHG One Rewards. IHG's own booking system for this hotel states the program is not applicable here, so members cannot earn points, redeem points, or receive elite benefits during a stay."
+    },
+    {
+      "question": "How do you get to Six Senses Krabey Island?",
+      "answer": "The resort sits on its own private island about 11 km from Sihanoukville International Airport. Guests are typically transferred by road to a private jetty on the mainland, then taken across by a short speedboat crossing to the 13-hectare island, where all 40 villas include a private pool."
+    }
+  ],
+  "tags": ["private island", "sihanoukville", "six senses", "pool villas", "luxury"],
+  "source_mix": [
+    {
+      "url": "https://www.sixsenses.com/en/hotels-resorts/asia-the-pacific/cambodia/krabey-island/",
+      "label": "Official Six Senses Krabey Island resort page",
+      "type": "official",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://true5stars.com/fact-sheet/six-senses-krabey-island",
+      "label": "Independent fact sheet (villa count, island size, opening year, amenities)",
+      "type": "aggregator",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://www.tripadvisor.com/Hotel_Review-g325573-d14058124-Reviews-Six_Senses_Krabey_Island-Sihanoukville_Sihanoukville_Province.html",
+      "label": "TripAdvisor ranking and guest reviews",
+      "type": "review",
+      "last_checked": "2026-08-14"
+    },
+    {
+      "url": "https://dinogo.com/blog/travel/which-six-senses-hotels-and-resorts-allow-you-to-earn-and-redeem-ihg-points-dinogo",
+      "label": "Independent research confirming Krabey Island does not participate in IHG One Rewards",
+      "type": "other",
+      "last_checked": "2026-08-14"
+    }
+  ],
+  "cta_links": [
+    {
+      "label": "View official hotel page",
+      "url": "https://www.sixsenses.com/en/hotels-resorts/asia-the-pacific/cambodia/krabey-island/",
+      "type": "official_website"
+    }
+  ],
+  "affiliate_links": [],
+  "related_entity_ids": ["novotel-sihanoukville-holiday-resort"],
+  "external_coverage": {
+    "reviews": [
+      {
+        "title": "Six Senses Krabey Island Review: Family-Friendly Eco-Luxury in Cambodia",
+        "source": "Be My Travel Muse",
+        "author": "Kristin Addis",
+        "url": "https://www.bemytravelmuse.com/six-senses-krabey-island-review/",
+        "published_date": "2025-10-23",
+        "summary": "Reviews the private-island resort as a luxurious, family-friendly stay, covering the pool villas, sustainability programming, and amenities for both adults and children."
+      }
+    ],
+    "videos": [
+      {
+        "title": "Six Senses Krabey Island | Stunning Private Island Resort in Cambodia (4K Tour)",
+        "channel": "Luxury Travel Expert",
+        "url": "https://www.youtube.com/watch?v=_YwDZ9-b_gQ",
+        "video_id": "_YwDZ9-b_gQ"
+      }
+    ]
+  },
+  "sentiment_scores": {
+    "overall": 92,
+    "breakdown": [
+      { "label": "Location", "score": 90 },
+      { "label": "Service", "score": 96 },
+      { "label": "Rooms", "score": 94 },
+      { "label": "Food & breakfast", "score": 92 },
+      { "label": "Value", "score": 78 }
+    ]
+  },
+  "reliability_score": 60,
+  "last_updated": "2026-08-14",
+  "status": "active"
+}
