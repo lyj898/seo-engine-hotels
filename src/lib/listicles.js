@@ -54,6 +54,17 @@ export function resolveListicleEntities(listicle, entities, regions, categories 
     results = [...results].sort((a, b) => {
       const av = getSortValue(a, filters.sort_by);
       const bv = getSortValue(b, filters.sort_by);
+      // An entity missing the sort value (e.g. a too-new hotel with no
+      // sentiment_scores yet) always sorts last, regardless of direction.
+      // Without this, `av > bv` and `bv > av` are BOTH false when one side
+      // is undefined, so the comparator isn't consistent and an unscored
+      // entity can land anywhere the sort algorithm happens to place it --
+      // including first, which is exactly backwards for a "best of" list.
+      const aMissing = av == null;
+      const bMissing = bv == null;
+      if (aMissing && bMissing) return 0;
+      if (aMissing) return 1;
+      if (bMissing) return -1;
       if (av === bv) return 0;
       return av > bv ? dir : -dir;
     });
