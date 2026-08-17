@@ -10,7 +10,7 @@ import ThemeToggle from './ThemeToggle.astro';
 const navLinks = [
   { href: urls.categoriesIndex(), label: siteConfig.categoryLabelPlural ?? `${siteConfig.categoryLabel}s` },
   { href: urls.regionsIndex(), label: siteConfig.regionLabelPlural ?? `${siteConfig.regionLabel}s` },
-  ...(siteConfig.enabledFeatures?.listicles ? [{ href: urls.listiclesIndex(), label: 'Best Of' }] : []),
+  ...(siteConfig.enabledFeatures?.listicles ? [{ href: urls.listiclesIndex(), label: 'Recommends' }] : []),
   { href: urls.about(), label: 'About' },
 ];
 ---

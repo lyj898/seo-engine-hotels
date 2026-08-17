@@ -70,8 +70,14 @@
     }
   },
 
+  "_listicleConfig_note": "minEntities raised from the original 3 (tuned for a 119-hotel catalogue) to 6 now that the catalogue spans 627 active hotels across 3 programs and 35 cities -- a category x country combo can still be thin even at this scale (e.g. World of Hyatt in a smaller market), and a guide listing 3-4 hotels reads as thin rather than authoritative.",
+  "listicleConfig": {
+    "minEntities": 6,
+    "perRunLimit": 10
+  },
+
   "enabledFeatures": {
-    "listicles": false,
+    "listicles": true,
     "reviewQueue": true,
     "savedFilters": true,
     "darkMode": true,
