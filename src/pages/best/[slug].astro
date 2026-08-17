@@ -5,9 +5,9 @@ import { loadEntities, loadCategories, loadRegions, loadListicles, stripMeta, is
 import { resolveListicleEntities } from '../../lib/listicles.js';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
-import EntityCard from '../../components/EntityCard.astro';
 import FAQSection from '../../components/FAQSection.astro';
 import LastUpdated from '../../components/LastUpdated.astro';
+import { brandPresentation, tierLabel, TIER_REGISTER } from '../../lib/brand.js';
 import { buildItemListSchema, buildFaqPageSchema, buildBreadcrumbListSchema } from '../../lib/schema-jsonld.js';
 
 export function getStaticPaths() {
@@ -57,20 +57,67 @@ const jsonLd = [
     </div>
 
     {rankedEntities.length > 0 ? (
-      <ol class="mt-10 space-y-4">
-        {rankedEntities.map((entity, i) => (
-          <li class="flex gap-4">
-            <span
-              class="mt-1 flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-brand-primary text-sm font-bold text-brand-primary-ink dark:text-brand-primary-ink-dark"
-              aria-hidden="true"
-            >
-              {i + 1}
-            </span>
-            <div class="min-w-0 flex-1">
-              <EntityCard entity={entity} categories={allCategories} />
-            </div>
-          </li>
-        ))}
+      // Deliberately NOT EntityCard's grid-oriented brand panel here --
+      // that's an aspect-[4/3] hero block sized for a multi-column grid
+      // (every other place it's used: home page, region/category hub
+      // pages, RelatedEntities), and crammed one-per-row into a numbered
+      // list it read as an oversized, wrong-context card rather than a
+      // ranked article entry. This is a bespoke compact row instead: a
+      // small tier-coloured monogram tile carries the same colour signal
+      // at list scale, and the hotel's full (non-truncated) short_description
+      // stands in as the "why it's here" editorial line.
+      <ol class="mt-10 divide-y divide-brand-divider dark:divide-brand-divider-dark">
+        {rankedEntities.map((entity, i) => {
+          const brand = brandPresentation(entity);
+          const reg = brand ? TIER_REGISTER[brand.tier] : null;
+          const displayName = brand ? brand.displayName : entity.name;
+          const monogram = brand ? brand.monogram : (entity.name ?? '?').trim().charAt(0).toUpperCase();
+          const guestScore = entity.sentiment_scores?.overall ?? null;
+          const metaLine = [brand && `${brand.label} · ${tierLabel(brand.tier)}`, entity.core_facts?.neighborhood]
+            .filter(Boolean)
+            .join(' · ');
+          return (
+            <li class="flex gap-4 py-6 first:pt-0">
+              <span
+                class="mt-1 flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-brand-primary text-sm font-bold text-brand-primary-ink dark:text-brand-primary-ink-dark"
+                aria-hidden="true"
+              >
+                {i + 1}
+              </span>
+              <div class="min-w-0 flex-1">
+                <div class="flex items-start gap-3">
+                  <span
+                    class={`flex h-10 w-10 flex-none items-center justify-center rounded-md font-serif text-base ${brand ? reg.panel : 'bg-brand-panel-a text-brand-text/70 dark:bg-brand-panel-a-dark dark:text-brand-text-dark/70'}`}
+                    aria-hidden="true"
+                  >
+                    {monogram}
+                  </span>
+                  <div class="min-w-0 flex-1">
+                    <a
+                      href={urls.entity(entity.slug)}
+                      class="font-serif text-lg leading-snug hover:text-brand-primary dark:hover:text-brand-primary-hover-dark"
+                    >
+                      {displayName}
+                    </a>
+                    {metaLine && <p class="kicker mt-0.5 text-brand-faint dark:text-brand-faint-dark">{metaLine}</p>}
+                  </div>
+                  {guestScore != null && (
+                    <div class="flex-none text-center">
+                      <div class="font-serif text-xl leading-none tabular-nums">{guestScore}</div>
+                      <p class="kicker mt-0.5 text-brand-faint dark:text-brand-faint-dark">Score</p>
+                    </div>
+                  )}
+                </div>
+                {entity.short_description && (
+                  <p class="mt-3 text-sm leading-relaxed text-brand-muted dark:text-brand-muted-dark">{entity.short_description}</p>
+                )}
+                <a href={urls.entity(entity.slug)} class="mt-2 inline-block text-sm font-bold link-accent">
+                  Full review &rarr;
+                </a>
+              </div>
+            </li>
+          );
+        })}
       </ol>
     ) : (
       <p class="mt-10 text-brand-muted dark:text-brand-muted-dark">
