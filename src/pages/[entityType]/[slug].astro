@@ -7,7 +7,8 @@
 // shared file) ever containing the literal word "race".
 import siteConfig from '../../lib/config.js';
 import { urls, entityUrlSegment } from '../../lib/urls.js';
-import { loadEntities, loadCategories, loadRegions, stripMeta, isPublished } from '../../lib/data.js';
+import { loadEntities, loadCategories, loadRegions, loadListicles, stripMeta, isPublished } from '../../lib/data.js';
+import { resolveListicleEntities } from '../../lib/listicles.js';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import FactsTable from '../../components/FactsTable.astro';
@@ -19,6 +20,7 @@ import SourceMix from '../../components/SourceMix.astro';
 import FAQSection from '../../components/FAQSection.astro';
 import CTABlock from '../../components/CTABlock.astro';
 import RelatedEntities from '../../components/RelatedEntities.astro';
+import RelatedListicles from '../../components/RelatedListicles.astro';
 import LastUpdated from '../../components/LastUpdated.astro';
 import Pill from '../../components/Pill.astro';
 import { narrowFactsToCategories } from '../../lib/categoryMatch.js';
@@ -61,6 +63,30 @@ const guestScore = entity.sentiment_scores?.overall ?? null;
 const relatedEntities = allEntities.filter(
   (e) => entity.related_entity_ids?.includes(e.entity_id) && e.entity_id !== entity.entity_id
 );
+
+// A guide is "related" if THIS entity satisfies the guide's own filters --
+// tested by running the guide's resolver against a one-element list, so the
+// membership rule here can never drift from what /best/<slug>/ actually
+// lists. That reuse also gets region-ancestry, tag and core_facts filters,
+// the marquee-or-range category rule, and manual_entity_ids pins for free.
+//
+// The pre-removal version of this matched on `filters.category_id` alone,
+// which was survivable in the races instance (guides were category-wide)
+// but is wrong here: every guide is category x country, so a Bangkok
+// Marriott would have linked to "Best Marriott Bonvoy hotels in Singapore"
+// purely because both carry category_id "marriott-bonvoy".
+//
+// Note the guide's `limit` doesn't gate this -- a hotel ranked below a
+// guide's top 15 still gets the link, which is correct for a heading that
+// reads "Related guides" (the guide does cover its program and country)
+// and is the point of the block: it's what gives each guide inbound
+// internal links from every hotel it covers.
+const relatedListicles = siteConfig.enabledFeatures?.listicles
+  ? loadListicles()
+      .map(stripMeta)
+      .filter(isPublished)
+      .filter((l) => resolveListicleEntities(l, [entity], regions, categories).length > 0)
+  : [];
 
 const breadcrumbItems = [
   { label: siteConfig.siteName, href: urls.home() },
@@ -191,6 +217,10 @@ const jsonLd = [
 
     <div class="mt-10">
       <RelatedEntities entities={relatedEntities} categories={categories} heading={`Related ${siteConfig.entityLabelPlural}`} />
+    </div>
+
+    <div class="mt-10">
+      <RelatedListicles listicles={relatedListicles} />
     </div>
 
     <div class="mt-10 flex flex-wrap gap-4 text-sm">
