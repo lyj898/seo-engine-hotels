@@ -18,6 +18,7 @@
     "listicles": "node scripts/generate-listicles.js",
     "summaries": "node scripts/generate-summaries.js",
     "audit": "node scripts/audit-entities.js",
+    "indexnow": "node scripts/submit-indexnow.js",
     "refresh:all": "npm run validate && npm run discover && npm run refresh && npm run research && npm run summaries && npm run listicles && npm run validate"
   },
   "dependencies": {

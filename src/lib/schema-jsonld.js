@@ -114,6 +114,33 @@ export function buildEntitySchema(entity, siteConfig, url) {
     };
   }
 
+  // schema.org's `sameAs` means "reference page for this entity", and every
+  // record carries an official first-party URL in source_mix. Emitting it
+  // lets a consumer resolve WHICH real-world thing this page describes
+  // rather than inferring it from the name string -- which matters for
+  // machine readers (answer engines, knowledge graphs) that otherwise have
+  // to guess between similarly-named properties. Highest-coverage
+  // structured-data addition available here: 100% of records have one.
+  const officialUrls = (entity.source_mix ?? [])
+    .filter((source) => source?.type === 'official' && source?.url)
+    .map((source) => source.url);
+  if (officialUrls.length > 0) {
+    schema.sameAs = officialUrls.length === 1 ? officialUrls[0] : officialUrls;
+  }
+
+  // Same best-effort rule as every mapping above: emit only when the fact
+  // is actually present and the right shape, so a vertical whose core_facts
+  // don't carry these concepts simply never emits them.
+  if (facts.brand_sub_brand) {
+    schema.brand = { '@type': 'Brand', name: facts.brand_sub_brand };
+  }
+  if (typeof facts.star_rating === 'number') {
+    schema.starRating = { '@type': 'Rating', ratingValue: facts.star_rating };
+  }
+  if (typeof facts.rooms === 'number') {
+    schema.numberOfRooms = facts.rooms;
+  }
+
   return schema;
 }
 

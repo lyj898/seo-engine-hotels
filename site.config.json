@@ -94,6 +94,9 @@
   "googleSiteVerification": "pMIyBmntSSiE34bpChc2DKxLNjhGjcrKX_qAD_BefvA",
   "_googleSiteVerification_note": "Set to the token (the content=\"...\" value) from Google Search Console's 'HTML tag' verification method. BaseLayout renders the <meta name=google-site-verification> tag when non-empty. Not needed if you verify via DNS or the linked GA4 property instead.",
 
+  "_indexNowKey_note": "IndexNow API key (self-generated, no account needed). Two things read it: src/pages/[indexNowKey].txt.js serves it at https://<domain>/<key>.txt (the ownership proof IndexNow requires), and scripts/submit-indexnow.js signs submissions with it. Both derive from THIS value, so rotating the key here moves the served file and the submissions together -- never hardcode it anywhere. Empty string disables IndexNow entirely (no route emitted, script exits cleanly).",
+  "indexNowKey": "a70b90054e0985f41c64ffa38fc20b6d",
+
   "aiPromptProfile": "hotels-research-v1",
 
   "sourceConfig": {

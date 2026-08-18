@@ -63,3 +63,34 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      # Tells Bing (and Yandex/Seznam/Naver -- one shared endpoint) about
+      # changed URLs immediately rather than waiting for a recrawl. Google
+      # doesn't participate in IndexNow and is unaffected: it keeps finding
+      # pages via sitemap.xml exactly as before.
+      #
+      # Worth having because ChatGPT's search is Bing-backed, so being
+      # missing from Bing costs a whole class of AI answers.
+      #
+      # Runs AFTER deploy-pages and reads the LIVE sitemap (--sitemap-url)
+      # rather than a rebuilt dist/, so a URL is only ever submitted once
+      # it's genuinely served -- and CI doesn't rebuild to regenerate a file
+      # the site already serves. Needs no `npm install`: the script's only
+      # import is src/lib/config.js, which just reads site.config.json.
+      #
+      # continue-on-error because a refused ping is not a broken deploy --
+      # the site is live either way. The script itself also exits 0 on every
+      # expected failure (no key configured, sitemap unreachable, API
+      # refusal); this is belt-and-braces so a crash can't red-X a good
+      # deploy either.
+      - name: Checkout (for the IndexNow script)
+        uses: actions/checkout@v4
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Ping IndexNow with changed URLs
+        continue-on-error: true
+        run: node scripts/submit-indexnow.js --sitemap-url "https://elitestay.travel/sitemap.xml"
