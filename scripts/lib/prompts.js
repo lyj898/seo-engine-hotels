@@ -114,6 +114,12 @@ Compare the current core_facts above against what this fresh source page actuall
 - changed_fields (object): ONLY the core_facts fields that the fresh source explicitly contradicts or updates ` +
     `versus the current value. Omit any field that is unmentioned, unchanged, or merely consistent with the ` +
     `current value. Use {} if nothing has changed.
+- missing_fields (object): core_facts fields that are ABSENT (or empty) in the current record above and that ` +
+    `this source page explicitly states. This is how optional fields get filled in over time, since a field ` +
+    `nobody extracted at discovery would otherwise stay empty forever. Same rule as above and it matters more ` +
+    `here: state only what this page actually says, never what is typical for the brand, the chain, the ` +
+    `program or the property type. Never repeat a field that already has a value -- that belongs in ` +
+    `changed_fields. Use {} if this page adds nothing new.
 - status_recommendation ("active" | "needs_review" | "archived"): "archived" only if the source explicitly ` +
     `indicates this ${entityLabelSingular} is cancelled, permanently discontinued, or no longer exists. ` +
     `"needs_review" if something looks off or the source contradicts the record in a way you're not fully ` +

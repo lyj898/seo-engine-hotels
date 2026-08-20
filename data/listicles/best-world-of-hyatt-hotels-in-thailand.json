@@ -2,7 +2,7 @@
   "listicle_id": "best-world-of-hyatt-hotels-in-thailand",
   "slug": "best-world-of-hyatt-hotels-in-thailand",
   "title": "Best World of Hyatt hotels in Thailand",
-  "intro": "World of Hyatt's Thailand footprint is smaller than Marriott's but covers the same key destinations -- 12 hotels across Bangkok, Pattaya, Phuket, Hua Hin and Ko Samui, from Park Hyatt Bangkok's city-centre luxury to Hyatt Regency's resort properties on the coast. Ranked below by our researched guest-quality score.",
+  "intro": "World of Hyatt's Thailand footprint is smaller than Marriott's but covers the same key destinations -- 12 hotels across Bangkok, Pattaya, Phuket, Hua Hin and Ko Samui, from Park Hyatt Bangkok's city-centre luxury to Hyatt Regency's resort properties on the coast.",
   "filters": {
     "category_id": "world-of-hyatt",
     "region_id": "thailand",
@@ -19,7 +19,7 @@
     },
     {
       "question": "How is this list ranked?",
-      "answer": "Hotels are ordered by EliteStay's guest-quality score -- the same score shown on every hotel's own page -- rather than a fixed editorial pick, so the ranking updates automatically as research on individual properties is refreshed."
+      "answer": "Hotels are ordered by guest sentiment -- the same 0-100 read of public guest reviews shown on every hotel's own page. It grades a property against its own class rather than against luxury hotels, so the ranking updates automatically as research on individual properties is refreshed."
     }
   ],
   "last_updated": "2026-08-17",

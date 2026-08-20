@@ -34,6 +34,7 @@ import { fileURLToPath } from 'node:url';
 import siteConfig from '../src/lib/config.js';
 import { listicleSchema } from '../src/lib/schema/base.js';
 import { loadEntities, loadCategories, loadRegions, stripMeta, isPublished, buildRegionAncestryMap } from '../src/lib/data.js';
+import { participatesInProgram } from '../src/lib/loyalty.js';
 import { slugify } from './lib/slugify.js';
 import { callClaudeForJson } from './lib/anthropic-client.js';
 import { buildListicleCopyPrompt } from './lib/prompts.js';
@@ -81,6 +82,13 @@ async function run() {
 
   const inRegion = (entity, regionId) => (ancestry.get(entity.region_id) ?? [entity.region_id]).includes(regionId);
 
+  // Match the rule resolveListicleEntities applies at build time: a hotel
+  // branded by a chain it isn't enrolled in never appears in a
+  // category-scoped guide. Counting it here would mis-size the guide -- both
+  // against the minEntities threshold and in the entry count handed to the
+  // copy prompt, which would then describe a set the page doesn't render.
+  const inCategory = (entity, categoryId) => entity.category_id === categoryId && participatesInProgram(entity);
+
   // Candidate set: every category on its own (site-wide), plus every
   // category x country pairing. Region-only guides are deliberately not
   // generated -- the region hub page already is that list, and a guide
@@ -92,7 +100,7 @@ async function run() {
       title_hint: `${category.label} across ${siteConfig.siteName}`,
       slug: slugify(`best ${category.label} ${siteConfig.entityLabelPlural}`),
       filters: { category_id: category.category_id },
-      matched: entities.filter((e) => e.category_id === category.category_id),
+      matched: entities.filter((e) => inCategory(e, category.category_id)),
       category,
       region: null,
     });
@@ -100,7 +108,7 @@ async function run() {
       candidates.push({
         slug: slugify(`best ${category.label} ${siteConfig.entityLabelPlural} in ${region.label}`),
         filters: { category_id: category.category_id, region_id: region.region_id },
-        matched: entities.filter((e) => e.category_id === category.category_id && inRegion(e, region.region_id)),
+        matched: entities.filter((e) => inCategory(e, category.category_id) && inRegion(e, region.region_id)),
         category,
         region,
       });
@@ -146,7 +154,7 @@ async function run() {
       intro: typeof copy?.intro === 'string' ? copy.intro.trim() : '',
       filters: {
         ...candidate.filters,
-        // Highest guest-quality score first -- sentiment_scores.overall is
+        // Highest guest-sentiment score first -- sentiment_scores.overall is
         // a research-derived aggregate already shown on every entity page,
         // not a value invented for this list, so ranking by it is honest to
         // the page's own "best of" title. (The races vertical this script

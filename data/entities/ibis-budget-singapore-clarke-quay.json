@@ -12,10 +12,11 @@
     "neighborhood": "Clarke Quay / Singapore River",
     "star_rating": 2,
     "rooms": 101,
+    "loyalty_participation": "not_participating",
     "elite_benefits": [
-      "ALL - Accor Live Limitless members can book member-exclusive rates",
-      "This property does not participate in ALL points earning, redemption, or elite-tier benefits, per its official ALL listing"
-    ]
+      "ALL - Accor Live Limitless members can book member-exclusive rates"
+    ],
+    "elite_notes": "This property does not participate in ALL points earning, redemption, or elite-tier benefits, per its official ALL listing; ALL members can still book member rates here, but a stay earns no points and carries no status benefits."
   },
   "pros": [
     "101 rooms beside the Singapore River, a short walk from Clarke Quay MRT Station and Boat Quay",
@@ -51,7 +52,11 @@
       "answer": "Yes -- it has a rooftop swimming pool, an unusual amenity at this budget price point, plus an on-site restaurant, Brekkie X Grill. The hotel is a short walk from Clarke Quay MRT Station and the riverside restaurants and bars of Clarke Quay and Boat Quay."
     }
   ],
-  "tags": ["clarke quay", "budget hotel", "singapore river"],
+  "tags": [
+    "clarke quay",
+    "budget hotel",
+    "singapore river"
+  ],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/B6J9/index.en.shtml",
@@ -80,7 +85,11 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": ["mercure-icon-singapore-city-centre", "novotel-singapore-robertson-quay", "pullman-singapore-hill-street"],
+  "related_entity_ids": [
+    "mercure-icon-singapore-city-centre",
+    "novotel-singapore-robertson-quay",
+    "pullman-singapore-hill-street"
+  ],
   "external_coverage": {
     "reviews": [],
     "videos": [

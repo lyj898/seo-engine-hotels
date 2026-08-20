@@ -1,0 +1,68 @@
+---
+// What a given status tier actually gets you AT THIS PROPERTY -- the reason
+// a loyalty-program directory exists at all, and the one thing a chain's
+// own page won't tell you, since it can only describe the program's
+// general terms.
+//
+// Previously these fields were rows in the generic FactsTable, sandwiched
+// between the address and the neighborhood: the site's whole value
+// proposition rendered as two lines of a key/value table. This pulls them
+// into their own section so the answer to "what do I get here" is a place on
+// the page rather than something to scan for.
+//
+// Renders nothing at all when there's nothing to say, rather than an empty
+// promise of a section -- see scripts/validate-data.js's optional core-fact
+// coverage report for how thinly these are populated today.
+import { participatesInProgram } from '../lib/loyalty.js';
+
+const { entity, category } = Astro.props;
+
+const facts = entity?.core_facts ?? {};
+const benefits = Array.isArray(facts.elite_benefits) ? facts.elite_benefits.filter(Boolean) : [];
+const notes = typeof facts.elite_notes === 'string' && facts.elite_notes.trim() ? facts.elite_notes.trim() : null;
+const participates = participatesInProgram(entity);
+
+// Secondary detail fields, shown as a short definition list under the
+// bullets. Same rule as everywhere else: an absent field is skipped, never
+// rendered as "unknown".
+const details = [
+  { label: 'Breakfast', value: facts.breakfast },
+  { label: 'Lounge', value: facts.lounge },
+  { label: 'Points value', value: facts.points_value_notes },
+].filter((d) => typeof d.value === 'string' && d.value.trim());
+
+const hasContent = benefits.length > 0 || notes || details.length > 0;
+const programLabel = category?.label ?? 'the loyalty program';
+---
+
+{hasContent && (
+  <section>
+    <h2 class="text-xl font-semibold">
+      {participates ? `What ${programLabel} status gets you here` : `${programLabel} status at this property`}
+    </h2>
+
+    {benefits.length > 0 && (
+      <ul class="mt-4 space-y-2">
+        {benefits.map((benefit) => (
+          <li class="flex gap-2.5 text-sm leading-relaxed">
+            <span class="mt-[0.45rem] h-1.5 w-1.5 flex-none rounded-full bg-brand-primary dark:bg-brand-primary-hover-dark" aria-hidden="true"></span>
+            <span>{benefit}</span>
+          </li>
+        ))}
+      </ul>
+    )}
+
+    {notes && <p class="mt-4 text-sm leading-relaxed text-brand-muted dark:text-brand-muted-dark">{notes}</p>}
+
+    {details.length > 0 && (
+      <dl class="mt-4 space-y-2 border-t border-brand-divider pt-4 text-sm dark:border-brand-divider-dark">
+        {details.map((detail) => (
+          <div class="flex flex-col gap-0.5 sm:flex-row sm:gap-3">
+            <dt class="font-medium text-brand-muted dark:text-brand-muted-dark sm:w-32 sm:flex-none">{detail.label}</dt>
+            <dd class="min-w-0">{detail.value}</dd>
+          </div>
+        ))}
+      </dl>
+    )}
+  </section>
+)}

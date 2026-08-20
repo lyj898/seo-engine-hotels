@@ -38,7 +38,7 @@ const parentRegion = allRegions.find((r) => r.region_id === region.parent_region
 
 const stats = [
   { label: `${siteConfig.entityLabelPlural}`, value: entities.length },
-  { label: `${siteConfig.categoryLabel}s represented`, value: new Set(entities.map((e) => e.category_id)).size },
+  { label: `${siteConfig.categoryLabelPlural ?? `${siteConfig.categoryLabel}s`} represented`, value: new Set(entities.map((e) => e.category_id)).size },
 ];
 
 const categoryFilterOptions = allCategories

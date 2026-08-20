@@ -56,6 +56,19 @@ const jsonLd = [
       <p>{listicle.intro}</p>
     </div>
 
+    <!--
+      What the ranking is, stated on every guide rather than trusted to each
+      generated intro to remember. A "best of" list carries an implied claim,
+      and the number in each row needs a definition a reader can reach in one
+      click -- otherwise "92" next to a 2-star hotel and "92" next to a
+      grande-dame landmark look like the same judgement.
+    -->
+    <p class="mt-4 text-sm leading-relaxed text-brand-muted dark:text-brand-muted-dark">
+      Ranked by <a href={`${urls.about()}#guest-sentiment`} class="link-accent">guest sentiment</a>, a 0-100 read of
+      what guests report about a property measured against its own class -- not a luxury ranking. Hotels that carry a
+      chain's brand without participating in its loyalty program are left out of these guides.
+    </p>
+
     {rankedEntities.length > 0 ? (
       // Deliberately NOT EntityCard's grid-oriented brand panel here --
       // that's an aspect-[4/3] hero block sized for a multi-column grid
@@ -115,7 +128,7 @@ const jsonLd = [
                       {guestScore != null ? guestScore : '—'}
                     </div>
                     <p class="kicker mt-0.5 text-brand-faint dark:text-brand-faint-dark">
-                      {guestScore != null ? 'Score' : 'Not yet scored'}
+                      {guestScore != null ? 'Sentiment' : 'Not scored'}
                     </p>
                   </div>
                 </div>

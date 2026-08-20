@@ -1,0 +1,31 @@
+{
+  "listicle_id": "best-ihg-one-rewards-hotels-in-the-philippines",
+  "slug": "best-ihg-one-rewards-hotels-in-the-philippines",
+  "title": "Best IHG One Rewards hotels in the Philippines",
+  "intro": "The Philippines is EliteStay's largest IHG One Rewards market -- 6 hotels, four of them in Metro Manila (Ortigas Center, Makati's Ayala Center and Newport City by the airport), plus Cebu Business Park and the Lima Technology Centre in Batangas. The set is business-hotel territory rather than resort territory: Crowne Plaza, Holiday Inn and Holiday Inn Express, with no InterContinental or Six Senses property among them. IHG is also this site's thinnest program by a wide margin, so read this as the coverage that exists today rather than a survey of every IHG hotel in the country.",
+  "filters": {
+    "category_id": "ihg-one-rewards",
+    "region_id": "philippines",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-20. IHG One Rewards had no Recommends guide at all, which left the site's weakest program with no editorial entry point on top of its thin catalogue; this is the one category x country combination that clears listicleConfig.minEntities (6) today. The entity list resolves from the filters at build time, so it re-ranks itself as research is refreshed and grows automatically if IHG coverage in the Philippines expands -- but the intro's counts and the 'thinnest program' framing are hand-written and should be re-checked once the IHG backfill enabled by the 2026-08-20 discoveryConstraints fix has run.",
+  "faqs": [
+    {
+      "question": "How many IHG One Rewards hotels does EliteStay cover in the Philippines?",
+      "answer": "Six: four in Metro Manila (two in Ortigas Center, one in Makati's Ayala Center, one in Newport City near the airport), one in Cebu Business Park, and one at the Lima Technology Centre in Batangas. They are Crowne Plaza, Holiday Inn and Holiday Inn Express properties -- IHG's midscale and upper-midscale tiers rather than its luxury brands."
+    },
+    {
+      "question": "Is this every IHG hotel in the Philippines?",
+      "answer": "No. IHG One Rewards is the thinnest of the four programs covered here, and this guide lists only the properties that have been researched and verified so far. Other IHG hotels operate in the Philippines and are not included yet, so use this as a starting point and check IHG's own site for the full picture before planning around it."
+    },
+    {
+      "question": "How is this list ranked?",
+      "answer": "Hotels are ordered by guest sentiment -- the same 0-100 read of public guest reviews shown on each hotel's own page. It grades a property against its own class rather than against luxury hotels, so a Holiday Inn Express and a Crowne Plaza can sit close together, and the order updates automatically as each listing's research is refreshed."
+    }
+  ],
+  "last_updated": "2026-08-20",
+  "status": "active"
+}

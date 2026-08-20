@@ -10,6 +10,7 @@
     "address": "10 Lorong 20 Geylang, 398730 Singapore, Singapore",
     "brand_sub_brand": "ibis budget",
     "neighborhood": "Geylang",
+    "loyalty_participation": "not_participating",
     "elite_benefits": [],
     "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
   },
@@ -48,7 +49,11 @@
       "answer": "It's about a 10-minute walk from Aljunied MRT Station in Geylang, with the Bugis shopping district roughly a 4-minute drive away and Marina Bay Sands about 6 minutes by car, making it a workable budget base for exploring central Singapore."
     }
   ],
-  "tags": ["geylang", "budget hotel", "aljunied"],
+  "tags": [
+    "geylang",
+    "budget hotel",
+    "aljunied"
+  ],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/B6H5/index.en.shtml",
@@ -77,7 +82,10 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": ["ibis-budget-singapore-crystal", "ibis-singapore-novena"],
+  "related_entity_ids": [
+    "ibis-budget-singapore-crystal",
+    "ibis-singapore-novena"
+  ],
   "external_coverage": {
     "reviews": [
       {

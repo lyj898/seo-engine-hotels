@@ -10,6 +10,7 @@
     "address": "Jl. Hos Cokroaminoto No 79, Menteng, 10310 Jakarta, Indonesia",
     "brand_sub_brand": "ibis budget",
     "neighborhood": "Menteng, Central Jakarta",
+    "loyalty_participation": "not_participating",
     "elite_benefits": [],
     "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
   },
@@ -52,7 +53,12 @@
       "answer": "Reviews are mixed: many guests describe clean, comfortable rooms and praise the friendly reception staff and strategic location, but a recurring minority of independent 2024-2025 reviews report musty smells and inconsistently cleaned rooms, so travelers with strict cleanliness expectations should factor this in."
     }
   ],
-  "tags": ["menteng", "budget hotel", "golden triangle", "central jakarta"],
+  "tags": [
+    "menteng",
+    "budget hotel",
+    "golden triangle",
+    "central jakarta"
+  ],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/6366/index.en.shtml",
@@ -81,7 +87,11 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": ["ibis-budget-jakarta-cikini", "ibis-jakarta-raden-saleh", "all-seasons-jakarta-thamrin"],
+  "related_entity_ids": [
+    "ibis-budget-jakarta-cikini",
+    "ibis-jakarta-raden-saleh",
+    "all-seasons-jakarta-thamrin"
+  ],
   "external_coverage": {
     "reviews": [],
     "videos": [
@@ -96,9 +106,18 @@
   "sentiment_scores": {
     "overall": 68,
     "breakdown": [
-      { "label": "Location", "score": 88 },
-      { "label": "Service", "score": 80 },
-      { "label": "Cleanliness", "score": 55 }
+      {
+        "label": "Location",
+        "score": 88
+      },
+      {
+        "label": "Service",
+        "score": 80
+      },
+      {
+        "label": "Cleanliness",
+        "score": 55
+      }
     ]
   },
   "reliability_score": 42,

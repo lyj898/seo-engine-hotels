@@ -121,6 +121,28 @@ for (const item of rawListicles) {
   }
 }
 
+// Coverage of the optional core facts that carry the most reader value but
+// that nothing forces to be present. Reported as a summary rather than as a
+// warning per entity on purpose: an empty optional field is not a data
+// error, and 600 identical warnings would drown the ones that are. A number
+// that stays flat run after run is the signal worth acting on -- it means
+// the refresh stage isn't finding the field on the sources it re-checks.
+const OPTIONAL_FACT_COVERAGE = {
+  hotels: ['elite_notes', 'breakfast', 'lounge', 'points_value_notes', 'family_notes'],
+};
+const coverageFields = OPTIONAL_FACT_COVERAGE[siteConfig.verticalKey] ?? [];
+if (coverageFields.length > 0 && rawEntities.length > 0) {
+  const isPresent = (value) =>
+    value !== undefined && value !== null && !(typeof value === 'string' && !value.trim()) && !(Array.isArray(value) && value.length === 0);
+  const report = coverageFields
+    .map((field) => {
+      const filled = rawEntities.filter((item) => isPresent(item.core_facts?.[field])).length;
+      return `${field} ${filled}/${rawEntities.length} (${Math.round((filled / rawEntities.length) * 100)}%)`;
+    })
+    .join(', ');
+  console.log(`\nOptional core-fact coverage: ${report}`);
+}
+
 console.log(
   `\n${rawEntities.length} entities, ${rawCategories.length} categories, ${rawRegions.length} regions, ${rawListicles.length} listicles checked.`
 );

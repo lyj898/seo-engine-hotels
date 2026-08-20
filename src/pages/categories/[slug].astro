@@ -3,6 +3,7 @@ import siteConfig from '../../lib/config.js';
 import { urls } from '../../lib/urls.js';
 import { loadEntities, loadCategories, loadRegions, stripMeta, isPublished, buildRegionAncestryMap } from '../../lib/data.js';
 import { entityMatchesCategory } from '../../lib/categoryMatch.js';
+import { splitByParticipation, participationDisclosure } from '../../lib/loyalty.js';
 import { byUpcomingDate } from '../../lib/sort.js';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
@@ -30,15 +31,28 @@ const entities = allEntities
   .filter((e) => entityMatchesCategory(e, category, allCategories))
   .sort(byUpcomingDate);
 
+// The headline count on a program hub is a claim about the program, so
+// it counts only the hotels that are actually in it. A property branded by
+// the chain but outside the program (see lib/loyalty.js) still appears in
+// the grid below -- the review is real and useful -- but counting it here
+// would tell a reader this program reaches further than it does. The
+// excluded ones are stated underneath rather than quietly dropped.
+const { participating, nonParticipating } = splitByParticipation(entities);
+const participationNote = participationDisclosure({
+  count: nonParticipating.length,
+  programLabel: category.label,
+  entityLabelPlural: siteConfig.entityLabelPlural,
+});
+
 const stats = [
-  { label: `${siteConfig.entityLabelPlural}`, value: entities.length },
-  { label: `${siteConfig.regionLabelPlural ?? `${siteConfig.regionLabel}s`} represented`, value: new Set(entities.map((e) => e.region_id)).size },
+  { label: `${siteConfig.entityLabelPlural} in the program`, value: participating.length },
+  { label: `${siteConfig.regionLabelPlural ?? `${siteConfig.regionLabel}s`} represented`, value: new Set(participating.map((e) => e.region_id)).size },
 ];
 
 // Sideways links: this category's related_category_ids.
 const relatedCategories = allCategories.filter((c) => category.related_category_ids?.includes(c.category_id));
 
-// Filter: country -> city, not a flat city chip row. A loyalty programme
+// Filter: country -> city, not a flat city chip row. A loyalty program
 // like Marriott or Accor has a hotel in nearly every one of 35+ tracked
 // cities, so listing every represented city at once -- even sorted, even
 // capped behind a "+N more" toggle -- is a wall/lump either way. Grouping
@@ -69,9 +83,22 @@ const regionFilterGroups = [...countryGroups.values()]
   .map((g) => ({ ...g, cities: g.cities.sort((a, b) => b.count - a.count || a.label.localeCompare(b.label)) }))
   .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
 
+// Where this program's coverage actually reaches, stated on the hub rather
+// than left for a reader to infer from scrolling. A program covered in two
+// countries reads very differently from one covered in six, and that is
+// exactly the kind of gap a directory tends to hide behind a grid.
+const coveredCountries = [...new Set(
+  participating.map((e) => {
+    const chain = ancestryMap.get(e.region_id) ?? [e.region_id];
+    return chain[chain.length - 1];
+  })
+)]
+  .map((id) => regionsById.get(id)?.label ?? id)
+  .sort((a, b) => a.localeCompare(b));
+
 const breadcrumbItems = [
   { label: siteConfig.siteName, href: urls.home() },
-  { label: `All ${siteConfig.categoryLabel}s`, href: urls.categoriesIndex() },
+  { label: `All ${siteConfig.categoryLabelPlural ?? `${siteConfig.categoryLabel}s`}`, href: urls.categoriesIndex() },
   { label: category.label, href: urls.category(category.slug) },
 ];
 
@@ -100,6 +127,33 @@ const jsonLd = [
     <div class="mt-8">
       <StatsSummary stats={stats} />
     </div>
+
+    <!--
+      Coverage disclosure. The counts above answer "how many", which on a
+      thinly-covered program is the less useful half of the question --
+      eight IHG hotels across two countries and 379 Accor hotels across six
+      are both "a program hub" until the page says where the coverage
+      actually stops. Rendered from live data, so it can't drift from the
+      grid below it.
+    -->
+    {participating.length > 0 && (
+      <div class="mt-6 border-l-2 border-brand-primary pl-4 text-sm leading-relaxed text-brand-muted dark:border-brand-primary-hover-dark dark:text-brand-muted-dark">
+        <p>
+          {/* Enumerated after the count rather than joined into the sentence:
+              country labels come from data and carry articles inconsistently
+              ("Cambodia and Philippines"), which a parenthetical sidesteps
+              without the page needing to know English grammar per country. */}
+          {siteConfig.siteName}'s {category.label} coverage currently reaches
+          {' '}<strong class="font-semibold text-brand-text dark:text-brand-text-dark">
+            {new Set(participating.map((e) => e.region_id)).size} cities
+          </strong>{' '}
+          in {coveredCountries.length === 1 ? '1 country' : `${coveredCountries.length} countries`}
+          {' '}({coveredCountries.join(', ')}). Other markets where this program operates are not covered yet -- see
+          {' '}<a href={`${urls.about()}#coverage`} class="link-accent">how coverage compares across programs</a>.
+        </p>
+        {participationNote && <p class="mt-2">{participationNote}</p>}
+      </div>
+    )}
 
     {entities.length > 0 ? (
       <div class="mt-10">

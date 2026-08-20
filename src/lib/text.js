@@ -134,3 +134,18 @@ export function simplifyAvailabilityStatus(status) {
   if (/closed|sold out|fully booked|ended|full house/.test(s)) return 'closed';
   return isLikelyRegistrationOpen(status) ? 'open' : null;
 }
+
+/**
+ * Joins a list the way prose does: "A", "A and B", "A, B and C".
+ *
+ * Used wherever a data-derived list lands mid-sentence -- country names on a
+ * coverage line, program names in a disclosure. Comma-joining reads as a
+ * table row rather than a sentence, and the difference is visible exactly on
+ * the pages where the site is asking to be believed.
+ */
+export function proseList(items = []) {
+  const clean = items.filter((item) => typeof item === 'string' && item.trim());
+  if (clean.length === 0) return '';
+  if (clean.length === 1) return clean[0];
+  return `${clean.slice(0, -1).join(', ')} and ${clean[clean.length - 1]}`;
+}
