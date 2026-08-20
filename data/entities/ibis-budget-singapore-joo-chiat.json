@@ -8,9 +8,13 @@
   "ai_summary": "ibis budget Singapore Joo Chiat sits at 219 Joo Chiat Road in Singapore's Peranakan heritage district, within walking distance of Marine Parade MRT and surrounded by preserved shophouses, cafes, and local eateries. The five-storey, 90-room property was formerly branded The Fragrance Hotel - Joo Chiat before its rebrand to ibis budget under Accor. TripAdvisor shows a 3.5/5 rating from 413 reviews (ranked around #155 of 373 Singapore hotels), with guests repeatedly praising cleanliness and value while noting small rooms and thin walls between them. Multiple independently confirmed YouTube creators have posted room tours of the property. The hotel does not participate in the ALL - Accor Live Limitless loyalty programme.",
   "core_facts": {
     "address": "219 Joo Chiat Road, 427485 Singapore, Singapore",
-    "coordinates": { "lat": 1.311505, "lng": 103.901062 },
+    "coordinates": {
+      "lat": 1.311505,
+      "lng": 103.901062
+    },
     "brand_sub_brand": "ibis budget",
     "neighborhood": "Joo Chiat / Katong",
+    "loyalty_participation": "not_participating",
     "elite_benefits": [],
     "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
   },
@@ -50,7 +54,11 @@
       "answer": "It's on Joo Chiat Road in Singapore's Peranakan heritage district, within walking distance of Marine Parade MRT and surrounded by preserved shophouses, cafes, and local eateries -- a distinctive, culturally rich alternative to staying in the Geylang cluster of sister ibis budget properties."
     }
   ],
-  "tags": ["joo chiat", "budget hotel", "peranakan"],
+  "tags": [
+    "joo chiat",
+    "budget hotel",
+    "peranakan"
+  ],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/B6J5/index.en.shtml",
@@ -73,7 +81,9 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": ["ibis-styles-singapore-on-macpherson"],
+  "related_entity_ids": [
+    "ibis-styles-singapore-on-macpherson"
+  ],
   "external_coverage": {
     "reviews": [],
     "videos": [

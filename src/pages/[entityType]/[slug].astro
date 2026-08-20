@@ -12,6 +12,7 @@ import { resolveListicleEntities } from '../../lib/listicles.js';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import FactsTable from '../../components/FactsTable.astro';
+import EliteBenefits from '../../components/EliteBenefits.astro';
 import ProsCons from '../../components/ProsCons.astro';
 import SentimentBreakdown from '../../components/SentimentBreakdown.astro';
 import ResearchNotes from '../../components/ResearchNotes.astro';
@@ -25,6 +26,7 @@ import LastUpdated from '../../components/LastUpdated.astro';
 import Pill from '../../components/Pill.astro';
 import { narrowFactsToCategories } from '../../lib/categoryMatch.js';
 import { brandPresentation, tierLabel, TIER_REGISTER } from '../../lib/brand.js';
+import { participatesInProgram, nonParticipationBadge } from '../../lib/loyalty.js';
 import { buildEntitySchema, buildFaqPageSchema, buildBreadcrumbListSchema } from '../../lib/schema-jsonld.js';
 
 export function getStaticPaths() {
@@ -53,12 +55,35 @@ const region = regions.find((r) => r.region_id === entity.region_id);
 const brand = brandPresentation(entity);
 const reg = brand ? TIER_REGISTER[brand.tier] : null;
 
-// The headline metric is now the research-derived guest quality score
+// The headline metric is now the research-derived guest sentiment score
 // (sentiment_scores.overall), not reliability_score -- reliability is an
 // internal data-freshness signal and no longer shown to readers. Falls back
 // to null so a not-yet-scored entity simply shows no number rather than a
 // misleading one.
 const guestScore = entity.sentiment_scores?.overall ?? null;
+
+// The single most important fact about a hotel on a loyalty-program site
+// is whether the program actually applies here -- and for a handful of
+// properties it doesn't, despite the chain's name over the door. That can't
+// be left to a sentence in the facts table halfway down the page: it gets a
+// banner directly under the masthead, and the raw field is dropped from the
+// facts table below so the same fact isn't stated twice in two registers.
+const participates = participatesInProgram(entity);
+
+// The elite fields get their own section below (EliteBenefits) rather than
+// rows in the generic facts table, and loyalty_participation is carried by
+// the banner above -- so all four come out of what FactsTable renders. The
+// rest of core_facts (address, brand, neighborhood, distances) is exactly
+// what a key/value table is good at.
+const {
+  loyalty_participation: _participationFact,
+  elite_benefits: _eliteBenefits,
+  elite_notes: _eliteNotes,
+  breakfast: _breakfast,
+  lounge: _lounge,
+  points_value_notes: _pointsValueNotes,
+  ...displayFacts
+} = entity.core_facts ?? {};
 
 const relatedEntities = allEntities.filter(
   (e) => entity.related_entity_ids?.includes(e.entity_id) && e.entity_id !== entity.entity_id
@@ -120,7 +145,7 @@ const jsonLd = [
       <div class="mt-4">
         {/* Image-free masthead: the tinted tier register IS the hero. Adopts
             the hotel's tier colour (black-tie for luxury, gold for premium,
-            pale for select), carries the name + guest quality score, and the
+            pale for select), carries the name + guest sentiment score, and the
             short description sits in the surface strip below. */}
         <div class={`relative overflow-hidden rounded-t-xl p-6 sm:p-8 ${reg.panel}`}>
           {reg.tex && <span class="tier-tex" aria-hidden="true"></span>}
@@ -135,7 +160,7 @@ const jsonLd = [
             {guestScore != null && (
               <div class="flex-none text-center">
                 <div class="font-serif text-4xl leading-none tabular-nums sm:text-5xl">{guestScore}</div>
-                <p class="kicker mt-1 opacity-80">Guest score</p>
+                <p class="kicker mt-1 opacity-80">Guest sentiment</p>
               </div>
             )}
           </div>
@@ -143,6 +168,20 @@ const jsonLd = [
         <p class="rounded-b-xl border border-t-0 border-brand-divider bg-brand-surface px-6 py-4 text-brand-muted dark:border-brand-divider-dark dark:bg-brand-surface-dark sm:px-8">
           {entity.short_description}
         </p>
+        {!participates && (
+          <div
+            class="mt-4 rounded-lg bg-brand-warning-highlight px-5 py-4 text-sm leading-relaxed text-brand-warning dark:bg-brand-warning-highlight-dark dark:text-brand-warning-dark"
+            role="note"
+          >
+            <p class="kicker">{nonParticipationBadge(category)}</p>
+            <p class="mt-1.5">
+              This property carries the {brand.label} name but is not enrolled in
+              {category ? ` ${category.label}` : ' its chain\'s loyalty program'}. A stay here earns no points and
+              confers no elite benefits, so it is left out of this site's program counts, editor's picks and ranked
+              guides. Everything below still applies -- it is simply not a loyalty stay.
+            </p>
+          </div>
+        )}
       </div>
     ) : (
       <Fragment>
@@ -168,7 +207,11 @@ const jsonLd = [
     )}
 
     <div class="mt-8">
-      <FactsTable facts={narrowFactsToCategories(entity.core_facts, categories)} />
+      <FactsTable facts={narrowFactsToCategories(displayFacts, categories)} />
+    </div>
+
+    <div class="mt-10">
+      <EliteBenefits entity={entity} category={category} />
     </div>
 
     <div class="mt-8">

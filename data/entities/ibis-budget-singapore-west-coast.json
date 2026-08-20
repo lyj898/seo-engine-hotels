@@ -10,6 +10,7 @@
     "address": "418 Pasir Panjang Road, 118759 Singapore, Singapore",
     "brand_sub_brand": "ibis budget",
     "neighborhood": "West Coast / Pasir Panjang",
+    "loyalty_participation": "not_participating",
     "elite_benefits": [],
     "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
   },
@@ -48,7 +49,11 @@
       "answer": "It's about a 5-minute drive (roughly 1 km, or a 10-minute walk) from the National University of Singapore, with a bus stop directly outside the hotel and Kent Ridge Bus Terminal about 200 metres away, making it a practical budget base for visitors to the campus area."
     }
   ],
-  "tags": ["west coast", "budget hotel", "pasir panjang"],
+  "tags": [
+    "west coast",
+    "budget hotel",
+    "pasir panjang"
+  ],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/B6I3/index.en.shtml",
@@ -71,7 +76,9 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": ["ibis-budget-singapore-mount-faber"],
+  "related_entity_ids": [
+    "ibis-budget-singapore-mount-faber"
+  ],
   "external_coverage": {
     "reviews": [],
     "videos": []

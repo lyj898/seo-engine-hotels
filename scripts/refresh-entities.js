@@ -60,7 +60,7 @@ async function run() {
   const rawEntities = loadEntities();
   const targets = rawEntities.filter((e) => ['active', 'needs_review'].includes(stripMeta(e).status));
 
-  const stats = { checked: 0, lapsed: 0, noSource: 0, fetchFailed: 0, unchanged: 0, changed: 0, flagged: 0, invalidSkipped: 0 };
+  const stats = { checked: 0, lapsed: 0, noSource: 0, fetchFailed: 0, unchanged: 0, changed: 0, filled: 0, flagged: 0, invalidSkipped: 0 };
   const todayStr = today();
 
   for (const raw of targets) {
@@ -135,14 +135,37 @@ async function run() {
       continue;
     }
 
-    const changedFields = result && typeof result === 'object' && result.changed_fields && typeof result.changed_fields === 'object'
-      ? result.changed_fields
-      : {};
-    const hasChanges = Object.keys(changedFields).length > 0;
+    const objectOrEmpty = (value) => (value && typeof value === 'object' && !Array.isArray(value) ? value : {});
+    const changedFields = objectOrEmpty(result?.changed_fields);
+
+    // Fields the source states that the record simply doesn't have yet.
+    // Without this, an optional core fact nobody happened to extract at
+    // discovery time stays empty forever: refresh only ever reported
+    // *contradictions*, and research-entities.js deliberately never touches
+    // core_facts. That is why elite_notes -- the field that says what a
+    // given property actually delivers at each status tier, and the one
+    // thing a chain's own marketing won't tell a reader -- was empty on 649
+    // of 659 hotels while the schema had carried it since launch.
+    //
+    // Guarded three ways: a key that already holds a value is ignored here
+    // (that is a change, not a fill, and goes through changed_fields with
+    // its stricter contradiction rule), the merged object still has to pass
+    // the core-facts schema before it is kept, and an empty string or empty
+    // array counts as "nothing offered" rather than a fill.
+    const isEmptyValue = (v) =>
+      v === undefined || v === null || (typeof v === 'string' && !v.trim()) || (Array.isArray(v) && v.length === 0);
+    const missingFields = Object.fromEntries(
+      Object.entries(objectOrEmpty(result?.missing_fields)).filter(
+        ([key, value]) => isEmptyValue(entity.core_facts?.[key]) && !isEmptyValue(value)
+      )
+    );
+
+    const proposedFields = { ...changedFields, ...missingFields };
+    const hasChanges = Object.keys(proposedFields).length > 0;
 
     let mergedCoreFacts = entity.core_facts;
     if (hasChanges) {
-      const candidateCoreFacts = { ...entity.core_facts, ...changedFields };
+      const candidateCoreFacts = { ...entity.core_facts, ...proposedFields };
       const coreFactsResult = coreFactsSchema.safeParse(candidateCoreFacts);
       if (!coreFactsResult.success) {
         console.warn(
@@ -156,12 +179,24 @@ async function run() {
     }
     const factsActuallyChanged = JSON.stringify(mergedCoreFacts) !== JSON.stringify(entity.core_facts);
 
+    // A contradiction is worth a human's attention; filling a field that was
+    // blank isn't, and treating the two the same would put most of the
+    // catalogue into the review queue in a single sweep and make the queue
+    // useless. Fills are counted and logged instead, so an operator can see
+    // them accumulating without every one of them costing a review.
+    const contradicted = Object.keys(changedFields).some(
+      (key) => JSON.stringify(mergedCoreFacts?.[key]) !== JSON.stringify(entity.core_facts?.[key])
+    );
+    const filledKeys = Object.keys(missingFields).filter(
+      (key) => JSON.stringify(mergedCoreFacts?.[key]) !== JSON.stringify(entity.core_facts?.[key])
+    );
+
     // Conservative status logic: this script can only flag for review, never
     // auto-promote to active and never auto-archive.
     let newStatus = entity.status;
     if (result?.status_recommendation === 'archived' && entity.status !== 'archived') {
       newStatus = 'needs_review';
-    } else if (factsActuallyChanged && entity.status === 'active') {
+    } else if (contradicted && entity.status === 'active') {
       newStatus = 'needs_review';
     }
 
@@ -187,6 +222,10 @@ async function run() {
       stats.flagged++;
     } else if (factsActuallyChanged) {
       stats.changed++;
+      if (filledKeys.length > 0) {
+        stats.filled += filledKeys.length;
+        console.log(`[refresh-entities] ${entity.slug}: filled empty core fact(s): ${filledKeys.join(', ')}.`);
+      }
     } else {
       stats.unchanged++;
     }
@@ -195,7 +234,8 @@ async function run() {
   console.log(
     `\n[refresh-entities] done. Checked: ${stats.checked}, lapsed (auto-archived): ${stats.lapsed}, ` +
       `no source: ${stats.noSource}, fetch failed: ${stats.fetchFailed}, ` +
-      `facts changed: ${stats.changed}, flagged for review: ${stats.flagged}, unchanged (re-verified): ${stats.unchanged}, ` +
+      `facts changed: ${stats.changed} (empty fields filled: ${stats.filled}), flagged for review: ${stats.flagged}, ` +
+      `unchanged (re-verified): ${stats.unchanged}, ` +
       `invalid after merge (skipped write): ${stats.invalidSkipped}.`
   );
 }

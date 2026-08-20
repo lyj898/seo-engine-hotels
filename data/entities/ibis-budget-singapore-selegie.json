@@ -12,10 +12,11 @@
     "neighborhood": "Little India / Selegie",
     "star_rating": 2,
     "rooms": 95,
+    "loyalty_participation": "not_participating",
     "elite_benefits": [
-      "ALL - Accor Live Limitless members can book member-exclusive rates",
-      "This property does not participate in ALL points earning, redemption, or elite-tier benefits, per its official ALL listing"
-    ]
+      "ALL - Accor Live Limitless members can book member-exclusive rates"
+    ],
+    "elite_notes": "This property does not participate in ALL points earning, redemption, or elite-tier benefits, per its official ALL listing; ALL members can still book member rates here, but a stay earns no points and carries no status benefits."
   },
   "pros": [
     "2-minute walk to Little India MRT Station, with Orchard Road and Bugis Street each about 15 minutes on foot",
@@ -53,7 +54,13 @@
       "answer": "No -- per the hotel's official ALL listing, this property does not participate in ALL points earning, redemption, or elite-tier benefits like room upgrades or lounge access. ALL members can still book member-exclusive rates when reserving directly through the ALL - Accor Live Limitless website or app."
     }
   ],
-  "tags": ["little india", "selegie road", "budget", "rooftop pool", "themed rooms"],
+  "tags": [
+    "little india",
+    "selegie road",
+    "budget",
+    "rooftop pool",
+    "themed rooms"
+  ],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/B6J6/index.en.shtml",
@@ -82,7 +89,10 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": ["the-serangoon-house-little-india-singapore-tribute-portfolio", "ibis-singapore-on-bencoolen"],
+  "related_entity_ids": [
+    "the-serangoon-house-little-india-singapore-tribute-portfolio",
+    "ibis-singapore-on-bencoolen"
+  ],
   "external_coverage": {
     "reviews": [
       {
@@ -105,11 +115,26 @@
   "sentiment_scores": {
     "overall": 70,
     "breakdown": [
-      { "label": "Location", "score": 94 },
-      { "label": "Service", "score": 88 },
-      { "label": "Rooms", "score": 40 },
-      { "label": "Pool", "score": 91 },
-      { "label": "Value", "score": 72 }
+      {
+        "label": "Location",
+        "score": 94
+      },
+      {
+        "label": "Service",
+        "score": 88
+      },
+      {
+        "label": "Rooms",
+        "score": 40
+      },
+      {
+        "label": "Pool",
+        "score": 91
+      },
+      {
+        "label": "Value",
+        "score": 72
+      }
     ]
   },
   "reliability_score": 42,

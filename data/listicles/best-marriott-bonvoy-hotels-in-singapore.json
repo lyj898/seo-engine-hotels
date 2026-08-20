@@ -2,7 +2,7 @@
   "listicle_id": "best-marriott-bonvoy-hotels-in-singapore",
   "slug": "best-marriott-bonvoy-hotels-in-singapore",
   "title": "Best Marriott Bonvoy hotels in Singapore",
-  "intro": "Singapore is a compact but dense Marriott Bonvoy market for EliteStay -- 15 hotels concentrated around Marina Bay, Orchard Road and the CBD, from The Ritz-Carlton, Millenia Singapore and The Singapore EDITION down to Courtyard and Four Points' business-friendly stays. Ranked below by our researched guest-quality score.",
+  "intro": "Singapore is a compact but dense Marriott Bonvoy market for EliteStay -- 18 hotels concentrated around Marina Bay, Orchard Road and the CBD, from The Ritz-Carlton, Millenia Singapore and The Singapore EDITION down to Courtyard and Four Points' business-friendly stays.",
   "filters": {
     "category_id": "marriott-bonvoy",
     "region_id": "singapore",
@@ -19,7 +19,7 @@
     },
     {
       "question": "How is this list ranked?",
-      "answer": "Hotels are ordered by EliteStay's guest-quality score -- the same score shown on every hotel's own page -- rather than a fixed editorial pick, so the ranking updates automatically as research on individual properties is refreshed."
+      "answer": "Hotels are ordered by guest sentiment -- the same 0-100 read of public guest reviews shown on every hotel's own page. It grades a property against its own class rather than against luxury hotels, so the ranking updates automatically as research on individual properties is refreshed."
     }
   ],
   "last_updated": "2026-08-17",

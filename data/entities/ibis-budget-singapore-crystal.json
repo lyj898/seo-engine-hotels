@@ -10,6 +10,7 @@
     "address": "50 Lorong 18 Geylang, 398824 Singapore, Singapore",
     "brand_sub_brand": "ibis budget",
     "neighborhood": "Geylang",
+    "loyalty_participation": "not_participating",
     "elite_benefits": [],
     "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
   },
@@ -47,7 +48,11 @@
       "answer": "Its own Accor listing shows a 4.6/5 rating from 80 reviews, among the higher-rated budget properties in the Geylang cluster. Independent coverage, including a 2024 blog trip report and a room-tour video, both describe the rooms as small but clean and good value for the price."
     }
   ],
-  "tags": ["geylang", "budget hotel", "aljunied"],
+  "tags": [
+    "geylang",
+    "budget hotel",
+    "aljunied"
+  ],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/B6H6/index.en.shtml",
@@ -76,7 +81,10 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": ["ibis-budget-singapore-ruby", "ibis-singapore-novena"],
+  "related_entity_ids": [
+    "ibis-budget-singapore-ruby",
+    "ibis-singapore-novena"
+  ],
   "external_coverage": {
     "reviews": [
       {

@@ -11,6 +11,7 @@
     "brand_sub_brand": "ibis budget",
     "neighborhood": "Rawa Bokor, Tangerang (Soekarno-Hatta Airport area, Greater Jakarta)",
     "distance_from_airport_km": 10,
+    "loyalty_participation": "not_participating",
     "elite_benefits": [],
     "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
   },
@@ -52,7 +53,13 @@
       "answer": "No -- this hotel's own Accor listing confirms it does not participate in the ALL - Accor Live Limitless loyalty programme, so members cannot earn or redeem points here, though it still carries a strong 4.8/5 guest rating from 285 reviews and ALL member rates may still apply."
     }
   ],
-  "tags": ["airport hotel", "rawa bokor", "tangerang", "budget hotel", "soekarno-hatta"],
+  "tags": [
+    "airport hotel",
+    "rawa bokor",
+    "tangerang",
+    "budget hotel",
+    "soekarno-hatta"
+  ],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/9041/index.en.shtml",
@@ -81,7 +88,11 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": ["ibis-styles-jakarta-airport", "fairfield-jakarta-soekarno-hatta-airport", "sheraton-jakarta-soekarno-hatta-airport"],
+  "related_entity_ids": [
+    "ibis-styles-jakarta-airport",
+    "fairfield-jakarta-soekarno-hatta-airport",
+    "sheraton-jakarta-soekarno-hatta-airport"
+  ],
   "external_coverage": {
     "reviews": [],
     "videos": [
@@ -96,9 +107,18 @@
   "sentiment_scores": {
     "overall": 80,
     "breakdown": [
-      { "label": "Service", "score": 85 },
-      { "label": "Cleanliness", "score": 78 },
-      { "label": "Value", "score": 82 }
+      {
+        "label": "Service",
+        "score": 85
+      },
+      {
+        "label": "Cleanliness",
+        "score": 78
+      },
+      {
+        "label": "Value",
+        "score": 82
+      }
     ]
   },
   "reliability_score": 46,

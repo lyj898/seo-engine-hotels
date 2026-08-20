@@ -10,6 +10,7 @@
     "address": "Jalan Cikini Raya No 75, Cikini, 10330 Jakarta, Indonesia",
     "brand_sub_brand": "ibis budget",
     "neighborhood": "Cikini, Central Jakarta",
+    "loyalty_participation": "not_participating",
     "elite_benefits": [],
     "elite_notes": "This hotel does not participate in the ALL - Accor Live Limitless loyalty programme, per its own Accor listing; ALL member rates may still apply but no points-earning or elite benefits are offered."
   },
@@ -52,7 +53,12 @@
       "answer": "The hotel's own listing shows a wide gap between a strong 9.2/10 location score and just 4.1/10 for cleanliness. Multiple independent 2024-2025 reviews report inconsistent housekeeping, including insects in some rooms and smelly linens, even though staff service and the central location near Taman Ismail Marzuki are consistently praised."
     }
   ],
-  "tags": ["cikini", "budget hotel", "taman ismail marzuki", "central jakarta"],
+  "tags": [
+    "cikini",
+    "budget hotel",
+    "taman ismail marzuki",
+    "central jakarta"
+  ],
   "source_mix": [
     {
       "url": "https://all.accor.com/hotel/6594/index.en.shtml",
@@ -81,7 +87,12 @@
     }
   ],
   "affiliate_links": [],
-  "related_entity_ids": ["novotel-jakarta-cikini", "mercure-jakarta-cikini", "ibis-jakarta-raden-saleh", "ibis-budget-jakarta-menteng"],
+  "related_entity_ids": [
+    "novotel-jakarta-cikini",
+    "mercure-jakarta-cikini",
+    "ibis-jakarta-raden-saleh",
+    "ibis-budget-jakarta-menteng"
+  ],
   "external_coverage": {
     "reviews": [],
     "videos": [
@@ -96,10 +107,22 @@
   "sentiment_scores": {
     "overall": 66,
     "breakdown": [
-      { "label": "Location", "score": 92 },
-      { "label": "Service", "score": 90 },
-      { "label": "Rooms", "score": 53 },
-      { "label": "Cleanliness", "score": 41 }
+      {
+        "label": "Location",
+        "score": 92
+      },
+      {
+        "label": "Service",
+        "score": 90
+      },
+      {
+        "label": "Rooms",
+        "score": 53
+      },
+      {
+        "label": "Cleanliness",
+        "score": 41
+      }
     ]
   },
   "reliability_score": 44,

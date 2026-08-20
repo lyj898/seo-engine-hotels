@@ -34,8 +34,29 @@ export const hotelsCoreFactsSchema = z.object({
   // full list of Bonvoy-participating brands in scope.
   brand_sub_brand: z.string().min(1),
 
+  // Does this property actually participate in the loyalty program it is
+  // filed under? A handful genuinely do not -- most of the SEA ibis budget
+  // estate sits outside ALL, and Six Senses Krabey Island sits outside IHG
+  // One Rewards -- while still carrying the chain's brand name. On a site
+  // whose entire premise is loyalty-program reviews that is the single
+  // most important fact about such a hotel, so it is a structured field
+  // rather than a sentence buried in elite_notes: src/lib/loyalty.js reads
+  // it to keep those properties out of program counts, editor's picks and
+  // "best <program> hotels" guides, and to badge them wherever they do
+  // appear. Omitted means participating -- the overwhelming default -- so
+  // only a confirmed exception needs to carry the field.
+  loyalty_participation: z.enum(['participating', 'not_participating']).default('participating'),
+
   elite_benefits: z.array(z.string()).default([]),
-  elite_notes: z.string().optional(), // elaboration beyond the bullet list, e.g. upgrade availability patterns
+
+  // What this specific property actually delivers at each status tier --
+  // the one thing a chain's own site will not tell a reader, and the field
+  // most worth investing research effort in. Free prose rather than a
+  // per-tier object because real sources describe it unevenly ("Platinum
+  // upgrades to Deluxe are common outside peak season; lounge access is
+  // Titanium-only here"), and a rigid shape would invite the pipeline to
+  // fill gaps with plausible-sounding guesses.
+  elite_notes: z.string().optional(),
   breakfast: z.string().optional(), // e.g. "Included for Platinum and above"
   lounge: z.string().optional(),
   family_notes: z.string().optional(), // connecting rooms, kids' club, pool, crib availability

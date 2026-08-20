@@ -13,6 +13,7 @@
 // stays a small inline payload rather than duplicating the page's data.
 import { urls } from '../lib/urls.js';
 import { loadEntities, loadRegions, loadCategories, stripMeta, isPublished } from '../lib/data.js';
+import { participatesInProgram } from '../lib/loyalty.js';
 
 const { placeholder = 'Search...' } = Astro.props;
 
@@ -20,14 +21,18 @@ const entities = loadEntities().map(stripMeta).filter(isPublished);
 const regionsById = new Map(loadRegions().map((r) => [r.region_id, stripMeta(r)]));
 const categoriesById = new Map(loadCategories().map((c) => [c.category_id, stripMeta(c)]));
 
+// The category label in a search result is a program claim like any other,
+// so a hotel that isn't in the program it's branded under says so right
+// there rather than reading as an ordinary listing until you open it.
 const searchIndex = entities.map((e) => {
   const region = regionsById.get(e.region_id);
   const category = categoriesById.get(e.category_id);
+  const label = category?.label ?? '';
   return {
     name: e.name,
     url: urls.entity(e.slug),
     region: region?.label ?? '',
-    category: category?.label ?? '',
+    category: label && !participatesInProgram(e) ? `${label} (not enrolled)` : label,
   };
 });
 ---

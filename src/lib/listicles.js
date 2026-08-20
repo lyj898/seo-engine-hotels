@@ -1,5 +1,6 @@
 import { buildRegionAncestryMap, isPublished } from './data.js';
 import { entityMatchesCategory } from './categoryMatch.js';
+import { participatesInProgram } from './loyalty.js';
 
 /**
  * Resolves a listicle's `filters` + `manual_entity_ids` into an actual
@@ -25,6 +26,16 @@ export function resolveListicleEntities(listicle, entities, regions, categories 
       // while the 5K hub listed 144 entries.
       const target = categories.find((c) => c.category_id === filters.category_id);
       if (target ? !entityMatchesCategory(entity, target, categories) : entity.category_id !== filters.category_id) return false;
+
+      // A category-scoped guide is titled after the category ("Best ALL --
+      // Accor Live Limitless hotels in Indonesia"), so its entries have to be
+      // able to back that claim. An entity that carries the category's brand
+      // without participating in it (hotels' loyalty_participation -- see
+      // lib/loyalty.js) is filtered out here rather than via a per-guide
+      // filter in each JSON file, so a newly generated guide can't quietly
+      // ship without it. participatesInProgram() is true for any entity that
+      // doesn't carry the field, so this is inert for other verticals.
+      if (!participatesInProgram(entity)) return false;
     }
     if (filters.tags_any?.length) {
       const hasTag = filters.tags_any.some((tag) => entity.tags?.includes(tag));
@@ -83,7 +94,7 @@ function getCoreFactValue(coreFacts, field) {
 
 // Resolves a dotted path against any part of the entity -- not just
 // core_facts -- so a vertical whose ranking signal lives elsewhere (e.g.
-// hotels' sentiment_scores.overall guest-quality score) can be a sort_by
+// hotels' sentiment_scores.overall guest-sentiment score) can be a sort_by
 // value without this file knowing what "sentiment_scores" means.
 function getSortValue(entity, sortBy) {
   if (sortBy in entity) return entity[sortBy];
