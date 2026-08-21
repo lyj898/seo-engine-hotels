@@ -88,6 +88,35 @@ export function resolveListicleEntities(listicle, entities, regions, categories 
   return results;
 }
 
+/**
+ * Every entity a guide's filters match, IGNORING `filters.limit`.
+ *
+ * This is what a phrase like "57 hotels" in a guide's prose actually means
+ * -- the size of the market the guide covers, not the 15 rows it chooses to
+ * show. Prose used to hardcode that number, which then silently went stale
+ * every time the catalogue grew (and did: three guides shipped an intro and
+ * an FAQ stating different counts for the same page). Pair this with
+ * fillListicleCounts so the number is derived at build time instead.
+ *
+ * The display list is just this list sliced to `limit`, since the resolver
+ * sorts before slicing -- so a caller needs only this one call.
+ */
+export function resolveListicleMatchesUnlimited(listicle, entities, regions, categories = []) {
+  const { limit, ...withoutLimit } = listicle?.filters ?? {};
+  return resolveListicleEntities({ ...listicle, filters: withoutLimit }, entities, regions, categories);
+}
+
+/**
+ * Replaces the `{{count}}` placeholder in guide copy with the live match
+ * count. Every surface that renders a guide's intro has to run this --
+ * page body, <meta description>, FAQ answers (both the visible ones and
+ * the FAQPage schema built from them), the /best/ index and the home page
+ * -- or a raw `{{count}}` leaks to a reader or into a search result.
+ */
+export function fillListicleCounts(text, count) {
+  return typeof text === 'string' ? text.replaceAll('{{count}}', String(count)) : text;
+}
+
 function getCoreFactValue(coreFacts, field) {
   return field.split('.').reduce((acc, key) => (acc == null ? undefined : acc[key]), coreFacts);
 }

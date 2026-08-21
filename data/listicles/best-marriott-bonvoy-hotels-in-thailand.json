@@ -2,7 +2,7 @@
   "listicle_id": "best-marriott-bonvoy-hotels-in-thailand",
   "slug": "best-marriott-bonvoy-hotels-in-thailand",
   "title": "Best Marriott Bonvoy hotels in Thailand",
-  "intro": "Thailand carries the largest Marriott Bonvoy footprint EliteStay tracks in Southeast Asia -- 57 hotels spanning Bangkok, the beach islands of Phuket and Ko Samui, the Gulf resorts of Pattaya, Rayong and Hua Hin, and northern Chiang Mai. The list runs from The Ritz-Carlton and Luxury Collection's flagship Bangkok properties down to Four Points and Marriott Executive Apartments' value-focused stays.",
+  "intro": "Thailand carries the largest Marriott Bonvoy footprint EliteStay tracks in Southeast Asia -- {{count}} hotels spanning Bangkok, the beach islands of Phuket and Ko Samui, the Gulf resorts of Pattaya, Rayong and Hua Hin, and northern Chiang Mai. The list runs from The Ritz-Carlton and Luxury Collection's flagship Bangkok properties down to Four Points and Marriott Executive Apartments' value-focused stays.",
   "filters": {
     "category_id": "marriott-bonvoy",
     "region_id": "thailand",
@@ -15,7 +15,7 @@
   "faqs": [
     {
       "question": "How many Marriott Bonvoy hotels are there in Thailand?",
-      "answer": "EliteStay currently tracks 56 Marriott Bonvoy hotels across Thailand, concentrated in Bangkok and Phuket with further properties in Ko Samui, Pattaya, Hua Hin, Chiang Mai, Krabi and Rayong. Coverage spans the full Bonvoy portfolio, from The Ritz-Carlton and The Luxury Collection to Marriott Executive Apartments and Four Points."
+      "answer": "EliteStay currently tracks {{count}} Marriott Bonvoy hotels across Thailand, concentrated in Bangkok and Phuket with further properties in Ko Samui, Pattaya, Hua Hin, Chiang Mai, Krabi and Rayong. Coverage spans the full Bonvoy portfolio, from The Ritz-Carlton and The Luxury Collection to Marriott Executive Apartments and Four Points."
     },
     {
       "question": "How is this list ranked?",

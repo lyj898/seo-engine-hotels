@@ -2,6 +2,7 @@
   "category_id": "world-of-hyatt",
   "slug": "world-of-hyatt",
   "label": "World of Hyatt",
+  "shortLabel": "World of Hyatt",
   "short_description": "From Park Hyatt's five-star suites to Hyatt Place's efficient business rooms.",
   "intro": "World of Hyatt is Hyatt Hotels Corporation's loyalty program, spanning brands from ultra-luxury (Park Hyatt, Alila, The Unbound Collection by Hyatt) through full-service upscale (Grand Hyatt, Hyatt Regency, Andaz, Thompson Hotels) to select-service options (Hyatt Place, Hyatt Centric, Caption by Hyatt). Elite status tiers -- Discoverist, Explorist, and Globalist -- unlock benefits like room upgrades, lounge access, and free breakfast, but exactly which perks a given hotel actually delivers varies by property and brand tier. This directory tracks that property-by-property reality rather than the program's general terms.",
   "related_category_ids": ["marriott-bonvoy", "accor-all", "ihg-one-rewards"],

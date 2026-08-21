@@ -15,10 +15,21 @@ const {
   // builders that produce these; this layout just serializes whatever it's
   // handed, so it never needs to change when Step 6 lands.
   jsonLd = [],
+  // Whether to append " | <siteName>" to the <title>. On by default, but a
+  // page whose title is already carrying keywords can turn it off to spend
+  // those ~12 characters on something that earns more -- see the hotel
+  // detail route, which puts the loyalty program name there instead. A
+  // brand suffix mostly buys recognition, which is worth little for a
+  // domain nobody is searching for by name yet.
+  appendSiteName = true,
 } = Astro.props;
 
 const canonicalUrl = new URL(canonicalPath, Astro.site).toString();
-const pageTitle = title ? `${title} | ${siteConfig.siteName}` : `${siteConfig.siteName} -- ${siteConfig.siteTagline}`;
+const pageTitle = title
+  ? appendSiteName
+    ? `${title} | ${siteConfig.siteName}`
+    : title
+  : `${siteConfig.siteName} -- ${siteConfig.siteTagline}`;
 const metaDescription = description ?? siteConfig.siteTagline;
 ---
 

@@ -2,7 +2,7 @@
   "listicle_id": "best-ihg-one-rewards-hotels-in-the-philippines",
   "slug": "best-ihg-one-rewards-hotels-in-the-philippines",
   "title": "Best IHG One Rewards hotels in the Philippines",
-  "intro": "The Philippines is EliteStay's largest IHG One Rewards market -- 6 hotels, four of them in Metro Manila (Ortigas Center, Makati's Ayala Center and Newport City by the airport), plus Cebu Business Park and the Lima Technology Centre in Batangas. The set is business-hotel territory rather than resort territory: Crowne Plaza, Holiday Inn and Holiday Inn Express, with no InterContinental or Six Senses property among them. IHG is also this site's thinnest program by a wide margin, so read this as the coverage that exists today rather than a survey of every IHG hotel in the country.",
+  "intro": "The Philippines is EliteStay's largest IHG One Rewards market -- {{count}} hotels, four of them in Metro Manila (Ortigas Center, Makati's Ayala Center and Newport City by the airport), plus Cebu Business Park and the Lima Technology Centre in Batangas. The set is business-hotel territory rather than resort territory: Crowne Plaza, Holiday Inn and Holiday Inn Express, with no InterContinental or Six Senses property among them. IHG is also this site's thinnest program by a wide margin, so read this as the coverage that exists today rather than a survey of every IHG hotel in the country.",
   "filters": {
     "category_id": "ihg-one-rewards",
     "region_id": "philippines",
@@ -15,7 +15,7 @@
   "faqs": [
     {
       "question": "How many IHG One Rewards hotels does EliteStay cover in the Philippines?",
-      "answer": "Six: four in Metro Manila (two in Ortigas Center, one in Makati's Ayala Center, one in Newport City near the airport), one in Cebu Business Park, and one at the Lima Technology Centre in Batangas. They are Crowne Plaza, Holiday Inn and Holiday Inn Express properties -- IHG's midscale and upper-midscale tiers rather than its luxury brands."
+      "answer": "{{count}} in total: four in Metro Manila (two in Ortigas Center, one in Makati's Ayala Center, one in Newport City near the airport), one in Cebu Business Park, and one at the Lima Technology Centre in Batangas. They are Crowne Plaza, Holiday Inn and Holiday Inn Express properties -- IHG's midscale and upper-midscale tiers rather than its luxury brands."
     },
     {
       "question": "Is this every IHG hotel in the Philippines?",

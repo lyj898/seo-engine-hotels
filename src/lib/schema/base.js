@@ -166,6 +166,13 @@ export const categorySchema = z.object({
   category_id: z.string().min(1),
   slug: slugSchema,
   label: z.string().min(1), // display label, e.g. "Full Marathon" / "Marriott Bonvoy"
+  // Compact form of `label` for length-constrained contexts -- currently
+  // <title> tags, which have roughly 60 characters before Google truncates
+  // them mid-phrase. Only needed where the full label is long: "ALL - Accor
+  // Live Limitless" is 26 characters on its own, which leaves nothing for
+  // the hotel's name. Callers fall back to `label` when this is absent, so
+  // a category with a naturally short label can omit it.
+  shortLabel: z.string().min(1).optional(),
   short_description: z.string().min(1),
   intro: z.string().min(1).optional(), // longer unique hub-page intro paragraph
   related_category_ids: z.array(z.string()).default([]),

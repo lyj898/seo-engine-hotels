@@ -3,6 +3,7 @@ import siteConfig from '../lib/config.js';
 import { urls } from '../lib/urls.js';
 import { splitAccentWord, formatMonthLabel, monthKey } from '../lib/text.js';
 import { loadEntities, loadCategories, loadRegions, loadListicles, stripMeta, isPublished } from '../lib/data.js';
+import { resolveListicleMatchesUnlimited, fillListicleCounts } from '../lib/listicles.js';
 import { matchCategoryByValue } from '../lib/categoryMatch.js';
 import { participatesInProgram, splitByParticipation } from '../lib/loyalty.js';
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -17,7 +18,19 @@ import { buildWebsiteSchema, buildFaqPageSchema } from '../lib/schema-jsonld.js'
 const entities = loadEntities().map(stripMeta).filter(isPublished);
 const categories = loadCategories().map(stripMeta).filter(isPublished);
 const regions = loadRegions().map(stripMeta).filter(isPublished);
-const listicles = loadListicles().map(stripMeta).filter(isPublished);
+// Guide intros carry a {{count}} placeholder resolved at build time (see
+// lib/listicles.js) -- the home page renders those intros too, so it has to
+// substitute exactly as /best/ and each guide page do.
+const listicles = loadListicles()
+  .map(stripMeta)
+  .filter(isPublished)
+  .map((listicle) => ({
+    ...listicle,
+    intro: fillListicleCounts(
+      listicle.intro,
+      resolveListicleMatchesUnlimited(listicle, entities, regions, categories).length
+    ),
+  }));
 
 // Only top-level regions on the homepage (e.g. "Thailand", not "Nong Khai")
 // -- child regions are reached by drilling down from their parent's hub.

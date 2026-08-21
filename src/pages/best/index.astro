@@ -1,13 +1,29 @@
 ---
 import siteConfig from '../../lib/config.js';
 import { urls } from '../../lib/urls.js';
-import { loadListicles, stripMeta, isPublished } from '../../lib/data.js';
+import { loadListicles, loadEntities, loadCategories, loadRegions, stripMeta, isPublished } from '../../lib/data.js';
+import { resolveListicleMatchesUnlimited, fillListicleCounts } from '../../lib/listicles.js';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Breadcrumb from '../../components/Breadcrumb.astro';
 import HubCard from '../../components/HubCard.astro';
 import { buildBreadcrumbListSchema } from '../../lib/schema-jsonld.js';
 
-const listicles = loadListicles().map(stripMeta).filter(isPublished);
+// Same {{count}} substitution as the guide pages themselves -- this index
+// renders each guide's intro, so without it a raw placeholder would show
+// here even though the guide's own page reads correctly.
+const allEntities = loadEntities().map(stripMeta).filter(isPublished);
+const allCategories = loadCategories().map(stripMeta);
+const allRegions = loadRegions().map(stripMeta);
+const listicles = loadListicles()
+  .map(stripMeta)
+  .filter(isPublished)
+  .map((listicle) => ({
+    ...listicle,
+    intro: fillListicleCounts(
+      listicle.intro,
+      resolveListicleMatchesUnlimited(listicle, allEntities, allRegions, allCategories).length
+    ),
+  }));
 
 const breadcrumbItems = [
   { label: siteConfig.siteName, href: urls.home() },

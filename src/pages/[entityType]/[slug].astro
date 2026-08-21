@@ -119,6 +119,35 @@ const breadcrumbItems = [
   { label: entity.name, href: urls.entity(entity.slug) },
 ];
 
+// <title> carries the loyalty program, not just the hotel name. GSC showed
+// the old "<name> | EliteStay" pattern naming a program on only 29 of 400
+// hotel pages, while the whole point of the directory is which program a
+// property belongs to -- so a "marriott bonvoy" style modifier had nothing
+// to match on. Site name is dropped here (appendSiteName={false}) to spend
+// those characters on the program instead.
+//
+// Budget is ~60 characters before Google truncates mid-phrase, and hotel
+// names run from 15 to 57 characters, so a fixed suffix can't fit every
+// one -- hence the ladder: add the program and "Review" when there's room,
+// then just the program, then fall back to the bare name. Truncation isn't
+// a penalty (the full string still counts for matching) but a title cut
+// off mid-word reads as broken, and the fallback is never worse than the
+// pattern this replaced.
+//
+// `shortLabel` exists because "ALL - Accor Live Limitless" is 26 characters
+// unabbreviated, which would leave nothing for the hotel's own name.
+//
+// Gated on `participates`: a property that carries a chain's brand without
+// actually participating in its program must NOT get a title reading
+// "<name> - Marriott Bonvoy Review", which is precisely the claim the
+// on-page participation banner exists to deny. Those keep the bare name.
+const TITLE_BUDGET = 60;
+const programLabel = participates ? category?.shortLabel ?? category?.label ?? null : null;
+const titleCandidates = programLabel
+  ? [`${entity.name} — ${programLabel} Review`, `${entity.name} — ${programLabel}`, entity.name]
+  : [entity.name];
+const pageTitle = titleCandidates.find((t) => t.length <= TITLE_BUDGET) ?? entity.name;
+
 const canonicalUrl = new URL(urls.entity(entity.slug), Astro.site).toString();
 
 // Built from the exact same `entity` / `breadcrumbItems` data already on
@@ -133,7 +162,8 @@ const jsonLd = [
 ---
 
 <BaseLayout
-  title={entity.name}
+  title={pageTitle}
+  appendSiteName={false}
   description={entity.short_description}
   canonicalPath={urls.entity(entity.slug)}
   jsonLd={jsonLd}
