@@ -1,0 +1,27 @@
+{
+  "listicle_id": "best-marriott-bonvoy-hotels-in-the-philippines",
+  "slug": "best-marriott-bonvoy-hotels-in-the-philippines",
+  "title": "Best Marriott Bonvoy hotels in the Philippines",
+  "intro": "The Philippines holds {{count}} Marriott Bonvoy hotels in EliteStay's directory, split between Metro Manila -- where several sit inside the Newport World Resorts complex by the airport -- and resort properties in Cebu, Boracay and Batangas. The list covers Sheraton, Westin and Marriott Hotels flagships, The Farm at San Benito under Autograph Collection, and Fairfield, Four Points and AC Hotels below.",
+  "filters": {
+    "category_id": "marriott-bonvoy",
+    "region_id": "philippines",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-31 as the second batch, after GSC showed the first five guides outperforming the 650+ hotel pages (two in the site's top 10; the top page site-wide over the preceding 7 days was a guide). Counts use the {{count}} placeholder resolved at build time by src/lib/listicles.js -- never hardcode a count here. City and brand names were read from data/entities at draft time; no figure is stated in prose that the placeholder does not cover. Deliberately omits the boilerplate \"How is this list ranked?\" FAQ the first batch carries: the guide template already states the ranking basis on-page, so repeating it on every guide would just duplicate content.",
+  "faqs": [
+    {
+      "question": "How many Marriott Bonvoy hotels are there in the Philippines?",
+      "answer": "EliteStay tracks {{count}} Marriott Bonvoy hotels in the Philippines. Metro Manila has the most, several of them clustered at Newport World Resorts near the airport, with the remainder in Cebu, on Boracay, and at San Benito in Batangas. Coverage spans Sheraton and Westin flagships down to Fairfield, Four Points and AC Hotels."
+    },
+    {
+      "question": "Which Bonvoy hotels are closest to Manila airport?",
+      "answer": "Several Metro Manila entries sit inside the Newport World Resorts complex directly across from Ninoy Aquino International Airport, which is what makes them useful for transit stays. Each hotel's own page gives its measured distance from the terminal rather than a vague claim."
+    }
+  ],
+  "last_updated": "2026-08-31",
+  "status": "active"
+}

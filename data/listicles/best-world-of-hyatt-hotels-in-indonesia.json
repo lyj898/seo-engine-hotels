@@ -1,0 +1,27 @@
+{
+  "listicle_id": "best-world-of-hyatt-hotels-in-indonesia",
+  "slug": "best-world-of-hyatt-hotels-in-indonesia",
+  "title": "Best World of Hyatt hotels in Indonesia",
+  "intro": "Indonesia's {{count}} World of Hyatt hotels are a small but distinctly luxury-weighted set, led by Bali and Jakarta with single properties in Solo and Yogyakarta. Alila's cliffside and Ubud villas, Park Hyatt Jakarta, Grand Hyatt, Andaz Bali and The Unbound Collection's Keraton at The Plaza give this list a higher average tier than any other Hyatt market in the region.",
+  "filters": {
+    "category_id": "world-of-hyatt",
+    "region_id": "indonesia",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-31 as the second batch, after GSC showed the first five guides outperforming the 650+ hotel pages (two in the site's top 10; the top page site-wide over the preceding 7 days was a guide). Counts use the {{count}} placeholder resolved at build time by src/lib/listicles.js -- never hardcode a count here. City and brand names were read from data/entities at draft time; no figure is stated in prose that the placeholder does not cover. Deliberately omits the boilerplate \"How is this list ranked?\" FAQ the first batch carries: the guide template already states the ranking basis on-page, so repeating it on every guide would just duplicate content.",
+  "faqs": [
+    {
+      "question": "How many World of Hyatt hotels are there in Indonesia?",
+      "answer": "EliteStay tracks {{count}} World of Hyatt hotels in Indonesia. Bali holds the largest share, followed by Jakarta, with one property each in Solo and Yogyakarta. Brands span Park Hyatt, Grand Hyatt, Andaz, Hyatt Regency, Alila and The Unbound Collection by Hyatt."
+    },
+    {
+      "question": "Why is this list shorter than the Marriott or Accor equivalents?",
+      "answer": "Hyatt's Southeast Asian footprint is simply smaller. World of Hyatt has far fewer Indonesian properties than Bonvoy or ALL, and Hyatt tends to place them at the luxury and lifestyle end rather than competing on volume in the midscale and economy tiers."
+    }
+  ],
+  "last_updated": "2026-08-31",
+  "status": "active"
+}

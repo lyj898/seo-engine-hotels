@@ -1,0 +1,27 @@
+{
+  "listicle_id": "best-marriott-bonvoy-hotels-in-malaysia",
+  "slug": "best-marriott-bonvoy-hotels-in-malaysia",
+  "title": "Best Marriott Bonvoy hotels in Malaysia",
+  "intro": "Malaysia's {{count}} Marriott Bonvoy hotels centre on Kuala Lumpur, with meaningful coverage in Penang, Langkawi, Kota Kinabalu, Johor Bahru and along the Desaru Coast. The list runs from The Ritz-Carlton, St. Regis and W flagships in the capital, through Le Meridien and Sheraton city hotels, to AC Hotels, Aloft, Moxy and Four Points at the value end.",
+  "filters": {
+    "category_id": "marriott-bonvoy",
+    "region_id": "malaysia",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-31 as the second batch, after GSC showed the first five guides outperforming the 650+ hotel pages (two in the site's top 10; the top page site-wide over the preceding 7 days was a guide). Counts use the {{count}} placeholder resolved at build time by src/lib/listicles.js -- never hardcode a count here. City and brand names were read from data/entities at draft time; no figure is stated in prose that the placeholder does not cover. Deliberately omits the boilerplate \"How is this list ranked?\" FAQ the first batch carries: the guide template already states the ranking basis on-page, so repeating it on every guide would just duplicate content.",
+  "faqs": [
+    {
+      "question": "How many Marriott Bonvoy hotels are there in Malaysia?",
+      "answer": "EliteStay tracks {{count}} Marriott Bonvoy hotels in Malaysia. Kuala Lumpur accounts for roughly half, with Penang next, and further properties in Langkawi, Kota Kinabalu, Johor Bahru and Desaru Coast, spanning brands from The Ritz-Carlton and St. Regis down to AC Hotels and Moxy."
+    },
+    {
+      "question": "Is this only Kuala Lumpur hotels?",
+      "answer": "No. Kuala Lumpur holds the largest single share, but the list also covers Penang's George Town heritage properties, the Langkawi and Kota Kinabalu beach resorts, Johor Bahru's city hotels, and the purpose-built Desaru Coast resort strip on Johor's east coast."
+    }
+  ],
+  "last_updated": "2026-08-31",
+  "status": "active"
+}

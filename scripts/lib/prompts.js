@@ -174,6 +174,13 @@ export function buildListicleCopyPrompt({ siteConfig, category, region, matched 
     'genuinely differ between these entries. A sentence that would read identically for a different country ' +
     'or distance is a wasted sentence.\n' +
     '- Do not claim the list is complete, definitive or objectively "best".\n' +
+    '- CRITICAL: whenever you state HOW MANY entries this guide covers, write the literal token '  +
+    '{{count}} instead of a number -- "{{count}} hotels across Thailand", never "103 hotels". The '  +
+    'site substitutes the live figure at build time. A number written out here goes stale the moment '  +
+    'the catalogue changes, and three guides have already shipped an intro and an FAQ stating '  +
+    'different counts for the same page. This applies to the intro AND the FAQ answers. Counts of '  +
+    'anything else (cities, brands) must NOT use the placeholder -- either state them from the data '  +
+    'or, better, describe the shape in words.\n' +
     'Respond with ONLY valid JSON -- no markdown code fences, no commentary.';
 
   // Give the model the real spread it's describing. Without the month
@@ -196,7 +203,7 @@ export function buildListicleCopyPrompt({ siteConfig, category, region, matched 
   }).join('\n');
 
   const prompt = `Guide subject: ${category.label} ${entityLabelPlural} in ${where}
-Total matching ${entityLabelPlural}: ${matched.length}
+Total matching ${entityLabelPlural}: ${matched.length}  <-- do NOT write this number; write the token {{count}} wherever you refer to it
 Spread across the calendar: ${monthSpread}
 Locations represented (${cities.length}): ${cities.slice(0, 20).join(', ')}
 
@@ -213,7 +220,7 @@ Produce a JSON object with:
 - editorial_notes is NOT needed.
 - faqs (array of exactly 3 objects, each {"question": string, "answer": string}): questions someone ` +
     `comparing these ${entityLabelPlural} would genuinely type into a search box -- about timing, ` +
-    `conditions, choosing between options, what to expect. Answer each in a direct 45-70 words using only ` +
+    `conditions, choosing between options, what to expect. Answer each in a direct 45-60 words using only ` +
     `what the data above supports. No questions about how the guide is compiled.
 
 Output ONLY the JSON object.`;

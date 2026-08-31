@@ -1,0 +1,27 @@
+{
+  "listicle_id": "best-world-of-hyatt-hotels-in-vietnam",
+  "slug": "best-world-of-hyatt-hotels-in-vietnam",
+  "title": "Best World of Hyatt hotels in Vietnam",
+  "intro": "Vietnam has the thinnest World of Hyatt coverage of any market EliteStay keeps a guide for -- {{count}} hotels across Da Nang, Ho Chi Minh City and Nha Trang. Park Hyatt Saigon and the two Hyatt Regency beach resorts anchor it, joined by the Wink properties in Da Nang, which trade under Hyatt's newer Unscripted brand.",
+  "filters": {
+    "category_id": "world-of-hyatt",
+    "region_id": "vietnam",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-31 as the second batch, after GSC showed the first five guides outperforming the 650+ hotel pages (two in the site's top 10; the top page site-wide over the preceding 7 days was a guide). Counts use the {{count}} placeholder resolved at build time by src/lib/listicles.js -- never hardcode a count here. City and brand names were read from data/entities at draft time; no figure is stated in prose that the placeholder does not cover. Deliberately omits the boilerplate \"How is this list ranked?\" FAQ the first batch carries: the guide template already states the ranking basis on-page, so repeating it on every guide would just duplicate content.",
+  "faqs": [
+    {
+      "question": "How many World of Hyatt hotels are there in Vietnam?",
+      "answer": "EliteStay tracks {{count}} World of Hyatt hotels in Vietnam, the smallest of this directory's Hyatt guides. Da Nang has the most, with the remainder in Ho Chi Minh City and Nha Trang. Marriott and Accor both have substantially deeper Vietnamese coverage."
+    },
+    {
+      "question": "What is Unscripted by Hyatt?",
+      "answer": "Unscripted by Hyatt is one of Hyatt's newer lifestyle brands, and in Vietnam it covers the Wink hotels in Da Nang. They participate in World of Hyatt like any other brand in the portfolio, and rank here on guest sentiment against their own class rather than against the Park Hyatt."
+    }
+  ],
+  "last_updated": "2026-08-31",
+  "status": "active"
+}

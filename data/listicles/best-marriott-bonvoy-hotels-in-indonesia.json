@@ -1,0 +1,27 @@
+{
+  "listicle_id": "best-marriott-bonvoy-hotels-in-indonesia",
+  "slug": "best-marriott-bonvoy-hotels-in-indonesia",
+  "title": "Best Marriott Bonvoy hotels in Indonesia",
+  "intro": "Indonesia carries {{count}} Marriott Bonvoy hotels in EliteStay's directory, led by Bali and Jakarta with further clusters in Surabaya, Bandung, Lombok and the Riau islands of Batam and Bintan. The list spans The Ritz-Carlton and its Reserve property at Mandapa, St. Regis and JW Marriott flagships, Autograph Collection and Tribute Portfolio boutiques, and Aloft, Moxy and Fairfield's value rooms.",
+  "filters": {
+    "category_id": "marriott-bonvoy",
+    "region_id": "indonesia",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-31 as the second batch, after GSC showed the first five guides outperforming the 650+ hotel pages (two in the site's top 10; the top page site-wide over the preceding 7 days was a guide). Counts use the {{count}} placeholder resolved at build time by src/lib/listicles.js -- never hardcode a count here. City and brand names were read from data/entities at draft time; no figure is stated in prose that the placeholder does not cover. Deliberately omits the boilerplate \"How is this list ranked?\" FAQ the first batch carries: the guide template already states the ranking basis on-page, so repeating it on every guide would just duplicate content.",
+  "faqs": [
+    {
+      "question": "How many Marriott Bonvoy hotels are there in Indonesia?",
+      "answer": "EliteStay tracks {{count}} Marriott Bonvoy hotels across Indonesia. Bali holds the largest share, followed by Jakarta, with the rest in Surabaya, Bandung, Lombok, Batam, Bintan, Solo and Yogyakarta. Coverage spans the full Bonvoy portfolio, from Ritz-Carlton Reserve down to Fairfield."
+    },
+    {
+      "question": "Which Indonesian cities have the deepest Bonvoy coverage?",
+      "answer": "Bali and Jakarta dominate, and they cover quite different ground. Bali's entries are mostly resorts spread across Nusa Dua, Seminyak and Ubud, while Jakarta's are business hotels and serviced apartments concentrated in the Sudirman-Thamrin corridor and Mega Kuningan embassy district."
+    }
+  ],
+  "last_updated": "2026-08-31",
+  "status": "active"
+}

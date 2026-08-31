@@ -1,0 +1,27 @@
+{
+  "listicle_id": "best-world-of-hyatt-hotels-in-malaysia",
+  "slug": "best-world-of-hyatt-hotels-in-malaysia",
+  "title": "Best World of Hyatt hotels in Malaysia",
+  "intro": "Malaysia's {{count}} World of Hyatt hotels are concentrated in Kuala Lumpur, with two in Kota Kinabalu and one in Johor Bahru. The set is compact but spans the full Hyatt ladder -- Park Hyatt and Grand Hyatt at the top, Hyatt Regency and Hyatt Centric in the middle, and Hyatt House and Hyatt Place serving longer stays and value bookings.",
+  "filters": {
+    "category_id": "world-of-hyatt",
+    "region_id": "malaysia",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-31 as the second batch, after GSC showed the first five guides outperforming the 650+ hotel pages (two in the site's top 10; the top page site-wide over the preceding 7 days was a guide). Counts use the {{count}} placeholder resolved at build time by src/lib/listicles.js -- never hardcode a count here. City and brand names were read from data/entities at draft time; no figure is stated in prose that the placeholder does not cover. Deliberately omits the boilerplate \"How is this list ranked?\" FAQ the first batch carries: the guide template already states the ranking basis on-page, so repeating it on every guide would just duplicate content.",
+  "faqs": [
+    {
+      "question": "How many World of Hyatt hotels are there in Malaysia?",
+      "answer": "EliteStay tracks {{count}} World of Hyatt hotels in Malaysia. Most are in Kuala Lumpur, with two in Kota Kinabalu on Borneo and one in Johor Bahru. Brands range from Park Hyatt and Grand Hyatt down to Hyatt House and Hyatt Place."
+    },
+    {
+      "question": "Does Malaysia have a Park Hyatt?",
+      "answer": "Yes. Park Hyatt Kuala Lumpur occupies the upper floors of a city-centre tower and is among the highest-scoring entries in this list. It is the only Park Hyatt in Malaysia, so the rest of the country's Hyatt coverage sits at Regency level and below."
+    }
+  ],
+  "last_updated": "2026-08-31",
+  "status": "active"
+}

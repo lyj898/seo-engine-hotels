@@ -1,0 +1,27 @@
+{
+  "listicle_id": "best-marriott-bonvoy-hotels-in-vietnam",
+  "slug": "best-marriott-bonvoy-hotels-in-vietnam",
+  "title": "Best Marriott Bonvoy hotels in Vietnam",
+  "intro": "Vietnam's {{count}} Marriott Bonvoy hotels are led by the Da Nang coast and Ho Chi Minh City, with further properties in Nha Trang, Hanoi and on Phu Quoc. The list covers JW Marriott and Autograph Collection flagships, Sheraton, Westin and Le Meridien city hotels, the Danang Marriott beach resorts, and Four Points and Courtyard at the value end.",
+  "filters": {
+    "category_id": "marriott-bonvoy",
+    "region_id": "vietnam",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-31 as the second batch, after GSC showed the first five guides outperforming the 650+ hotel pages (two in the site's top 10; the top page site-wide over the preceding 7 days was a guide). Counts use the {{count}} placeholder resolved at build time by src/lib/listicles.js -- never hardcode a count here. City and brand names were read from data/entities at draft time; no figure is stated in prose that the placeholder does not cover. Deliberately omits the boilerplate \"How is this list ranked?\" FAQ the first batch carries: the guide template already states the ranking basis on-page, so repeating it on every guide would just duplicate content.",
+  "faqs": [
+    {
+      "question": "How many Marriott Bonvoy hotels are there in Vietnam?",
+      "answer": "EliteStay tracks {{count}} Marriott Bonvoy hotels in Vietnam. Da Nang has the most, followed by Ho Chi Minh City and Nha Trang, with the remainder in Hanoi and on Phu Quoc island. Coverage runs from JW Marriott down to Courtyard and Four Points."
+    },
+    {
+      "question": "Which part of Vietnam has the strongest Bonvoy coverage?",
+      "answer": "The Da Nang and Non Nuoc Beach stretch of the central coast, where several of the highest-scoring properties in this list sit close together. Ho Chi Minh City is strongest for business hotels, while Hanoi's Bonvoy presence is comparatively thin for a capital city."
+    }
+  ],
+  "last_updated": "2026-08-31",
+  "status": "active"
+}
