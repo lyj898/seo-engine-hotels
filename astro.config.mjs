@@ -18,4 +18,9 @@ export default defineConfig({
   site: `https://${siteConfig.siteDomain}`,
   output: 'static',
   integrations: [tailwind()],
+  // Renamed URLs -> their new address. Read from site.config.json for the
+  // same reason `site` is: instances only ever edit that file. With static
+  // output Astro writes each old path as an HTML page that meta-refreshes to
+  // the target and declares it canonical.
+  redirects: siteConfig.redirects ?? {},
 });

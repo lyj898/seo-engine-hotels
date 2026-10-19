@@ -1,0 +1,31 @@
+{
+  "listicle_id": "best-accor-hotels-in-singapore",
+  "slug": "best-accor-hotels-in-singapore",
+  "title": "Best Accor hotels in Singapore",
+  "intro": "Singapore holds {{count}} Accor hotels in EliteStay's directory -- an unusually complete tier ladder for a single city, from Raffles Singapore and Fairmont at the top, through Sofitel, Swissotel, Pullman and Mondrian, down to a dense cluster of ibis and ibis budget properties across Geylang, Bugis and the CBD fringe.",
+  "filters": {
+    "category_id": "accor-all",
+    "region_id": "singapore",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-31 as the second batch, after GSC showed the first five guides outperforming the 650+ hotel pages (two in the site's top 10; the top page site-wide over the preceding 7 days was a guide). Counts use the {{count}} placeholder resolved at build time by src/lib/listicles.js -- never hardcode a count here. City and brand names were read from data/entities at draft time; no figure is stated in prose that the placeholder does not cover. Deliberately omits the boilerplate \"How is this list ranked?\" FAQ the first batch carries: the guide template already states the ranking basis on-page, so repeating it on every guide would just duplicate content. RENAMED 2026-10-19 from /best/best-all-accor-live-limitless-hotels-in-singapore/ (now a redirect): Google never crawled the old URL despite two indexing requests and a clean live test, while every Marriott/Hyatt guide indexed. Test of the hypothesis that titling/slugging with the programme's official name -- which nobody searches -- deprioritised it; the guide that won ranks for a near-verbatim match of its title. Official name kept once in the FAQs for accuracy.",
+  "faqs": [
+    {
+      "question": "How many Accor hotels are there in Singapore?",
+      "answer": "EliteStay tracks {{count}} hotels in the ALL - Accor Live Limitless programme in Singapore. Because the whole country is effectively one city, this list is a genuine like-for-like comparison, spanning Raffles and Fairmont at the luxury end through to a large number of ibis and ibis budget properties."
+    },
+    {
+      "question": "Is Raffles Singapore part of the ALL programme?",
+      "answer": "Yes. Raffles is Accor's flagship luxury brand, and Raffles Singapore participates in ALL - Accor Live Limitless. Carrying a chain's brand and participating in its programme are not always the same thing, though, so every hotel page here states its participation status explicitly."
+    },
+    {
+      "question": "Why are there so many ibis budget hotels on this list?",
+      "answer": "Singapore has an unusually dense cluster of ibis and ibis budget properties, largely in Geylang and around the CBD fringe. They rank on guest sentiment against their own class, so a well-run budget hotel can place above a weaker premium one. That is the ranking working as intended."
+    }
+  ],
+  "last_updated": "2026-10-19",
+  "status": "active"
+}

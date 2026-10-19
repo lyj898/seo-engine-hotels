@@ -1,0 +1,27 @@
+{
+  "listicle_id": "best-accor-hotels-in-the-philippines",
+  "slug": "best-accor-hotels-in-the-philippines",
+  "title": "Best Accor hotels in the Philippines",
+  "intro": "The Philippines holds {{count}} Accor hotels in EliteStay's directory, concentrated in Metro Manila with resort properties reaching Cebu, Boracay, Panglao, Subic Bay and Clark. The range is unusually top-heavy for a market this size, taking in Raffles, Fairmont and Sofitel in Manila alongside Movenpick and Novotel resorts and ibis Styles at the value end.",
+  "filters": {
+    "category_id": "accor-all",
+    "region_id": "philippines",
+    "sort_by": "sentiment_scores.overall",
+    "sort_direction": "desc",
+    "limit": 15
+  },
+  "manual_entity_ids": [],
+  "editorial_notes": "Hand-drafted 2026-08-31 as the second batch, after GSC showed the first five guides outperforming the 650+ hotel pages (two in the site's top 10; the top page site-wide over the preceding 7 days was a guide). Counts use the {{count}} placeholder resolved at build time by src/lib/listicles.js -- never hardcode a count here. City and brand names were read from data/entities at draft time; no figure is stated in prose that the placeholder does not cover. Deliberately omits the boilerplate \"How is this list ranked?\" FAQ the first batch carries: the guide template already states the ranking basis on-page, so repeating it on every guide would just duplicate content. RENAMED 2026-10-19 from /best/best-all-accor-live-limitless-hotels-in-the-philippines/ (now a redirect): Google never crawled the old URL despite two indexing requests and a clean live test, while every Marriott/Hyatt guide indexed. Test of the hypothesis that titling/slugging with the programme's official name -- which nobody searches -- deprioritised it; the guide that won ranks for a near-verbatim match of its title. Official name kept once in the FAQs for accuracy.",
+  "faqs": [
+    {
+      "question": "How many Accor hotels are there in the Philippines?",
+      "answer": "EliteStay tracks {{count}} hotels in the ALL - Accor Live Limitless programme in the Philippines. Metro Manila holds most of them, including the Raffles, Fairmont and Sofitel properties, with the rest spread across Cebu, Boracay, Panglao, Subic Bay and Clark. Only Metro Manila has depth at every tier; the resort entries are mostly single properties."
+    },
+    {
+      "question": "Is this every Accor hotel in the Philippines?",
+      "answer": "No. This guide lists only the properties researched and verified so far, and the Philippines is a market EliteStay is still building out. Others exist and will appear as they are added, so read this as current verified coverage rather than a complete national inventory."
+    }
+  ],
+  "last_updated": "2026-10-19",
+  "status": "active"
+}

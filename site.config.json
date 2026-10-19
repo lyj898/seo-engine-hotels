@@ -97,6 +97,15 @@
   "_indexNowKey_note": "IndexNow API key (self-generated, no account needed). Two things read it: src/pages/[indexNowKey].txt.js serves it at https://<domain>/<key>.txt (the ownership proof IndexNow requires), and scripts/submit-indexnow.js signs submissions with it. Both derive from THIS value, so rotating the key here moves the served file and the submissions together -- never hardcode it anywhere. Empty string disables IndexNow entirely (no route emitted, script exits cleanly).",
   "indexNowKey": "a70b90054e0985f41c64ffa38fc20b6d",
 
+  "_redirects_note": "Old URL -> new URL, emitted by astro.config.mjs as static redirect pages (GitHub Pages has no server-side 301s). Kept in config so every vertical instance stays config-only. Add an entry whenever a published URL is renamed, so links and search-engine entries that point at the old address still land. 2026-10-19: five Accor guides re-slugged from the programme's official name to plain \"best-accor-hotels-in-<country>\" -- Google never crawled the old URLs, but IndexNow had submitted them to Bing.",
+  "redirects": {
+    "/best/best-all-accor-live-limitless-hotels-in-thailand/": "/best/best-accor-hotels-in-thailand/",
+    "/best/best-all-accor-live-limitless-hotels-in-malaysia/": "/best/best-accor-hotels-in-malaysia/",
+    "/best/best-all-accor-live-limitless-hotels-in-singapore/": "/best/best-accor-hotels-in-singapore/",
+    "/best/best-all-accor-live-limitless-hotels-in-the-philippines/": "/best/best-accor-hotels-in-the-philippines/",
+    "/best/best-all-accor-live-limitless-hotels-in-cambodia/": "/best/best-accor-hotels-in-cambodia/"
+  },
+
   "aiPromptProfile": "hotels-research-v1",
 
   "sourceConfig": {
