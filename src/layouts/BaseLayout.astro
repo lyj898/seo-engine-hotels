@@ -38,7 +38,8 @@ const metaDescription = description ?? siteConfig.siteTagline;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="color-scheme" content="light dark" />
+    <meta name="color-scheme" content="dark light" />
+    <meta name="theme-color" content="#0e1319" />
     <link rel="icon" href={`${import.meta.env.BASE_URL}favicon.svg`} type="image/svg+xml" />
     <link rel="canonical" href={canonicalUrl} />
     <title>{pageTitle}</title>
@@ -75,7 +76,8 @@ const metaDescription = description ?? siteConfig.siteTagline;
       here. A future vertical instance picking different fonts should
       update this <link> tag to match.
 
-      EliteStay uses Fraunces (display/serif) + Inter (body/sans) --
+      EliteStay uses Bodoni Moda (display/serif) + Manrope (body/sans) since
+      the 2026-10-29 Members' Lounge redesign (previously Fraunces + Inter) --
       site.config.json.theme.fonts.display/body. This was previously
       copied unmodified from the races instance (which loads General Sans
       + Archivo), so the two <link> tags didn't match the declared theme
@@ -93,7 +95,7 @@ const metaDescription = description ?? siteConfig.siteTagline;
     -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,400;0,600;0,700;0,900;1,400;1,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;0,6..96,600;1,6..96,400;1,6..96,500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet" />
 
     <!--
       Inline, dependency-free theme init. Must run synchronously in <head>,
@@ -107,7 +109,9 @@ const metaDescription = description ?? siteConfig.siteTagline;
         try {
           var stored = localStorage.getItem('theme');
           var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-          var theme = stored || (prefersDark ? 'dark' : 'light');
+          // 2026-10-29 Members' Lounge redesign: dark is the default look.
+          // A visitor who picks light with the toggle keeps light.
+          var theme = stored || 'dark';
           if (theme === 'dark') document.documentElement.classList.add('dark');
         } catch (e) {
           /* localStorage unavailable (privacy mode etc) -- fall back to light */
