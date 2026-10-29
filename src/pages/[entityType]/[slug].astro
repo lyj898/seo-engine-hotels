@@ -26,6 +26,8 @@ import LastUpdated from '../../components/LastUpdated.astro';
 import Pill from '../../components/Pill.astro';
 import { narrowFactsToCategories } from '../../lib/categoryMatch.js';
 import { brandPresentation, tierLabel, TIER_REGISTER } from '../../lib/brand.js';
+import { hotelArtType } from '../../lib/hotelArt.js';
+import HotelArt from '../../components/HotelArt.astro';
 import { participatesInProgram, nonParticipationBadge } from '../../lib/loyalty.js';
 import { buildEntitySchema, buildFaqPageSchema, buildBreadcrumbListSchema } from '../../lib/schema-jsonld.js';
 
@@ -61,6 +63,9 @@ const reg = brand ? TIER_REGISTER[brand.tier] : null;
 // to null so a not-yet-scored entity simply shows no number rather than a
 // misleading one.
 const guestScore = entity.sentiment_scores?.overall ?? null;
+// Score dial geometry for the Members' Lounge masthead (r = 34).
+const dialCircumference = 2 * Math.PI * 34;
+const dialDash = guestScore != null ? (Math.max(0, Math.min(100, guestScore)) / 100) * dialCircumference : 0;
 
 // The single most important fact about a hotel on a loyalty-program site
 // is whether the program actually applies here -- and for a handful of
@@ -173,31 +178,37 @@ const jsonLd = [
 
     {brand ? (
       <div class="mt-4">
-        {/* Image-free masthead: the tinted tier register IS the hero. Adopts
-            the hotel's tier colour (black-tie for luxury, gold for premium,
-            pale for select), carries the name + guest sentiment score, and the
-            short description sits in the surface strip below. */}
-        <div class={`relative overflow-hidden rounded-t-xl p-6 sm:p-8 ${reg.panel}`}>
-          {reg.tex && <span class="tier-tex" aria-hidden="true"></span>}
-          <p class={`kicker relative z-10 ${reg.label}`}>{brand.label} &middot; {tierLabel(brand.tier)}</p>
-          <div class="relative z-10 mt-2 flex items-end justify-between gap-5">
-            <div class="min-w-0">
-              <h1 class="font-serif text-3xl font-normal leading-tight sm:text-4xl">{entity.name}</h1>
-              {entity.core_facts?.neighborhood && (
-                <p class="mt-2 text-sm opacity-90">{entity.core_facts.neighborhood}</p>
+        {/* 2026-10-29 Members' Lounge masthead: a wide brass line-art drawing
+            of the hotel's type (lib/hotelArt.js) above the name, with the
+            guest sentiment score as a gold dial and the short description
+            beneath. Replaces the tier-coloured typographic plate. */}
+        <div class="overflow-hidden rounded-xl border border-brand-border dark:border-brand-border-dark">
+          <div class="flex h-44 items-end justify-center overflow-hidden border-b border-brand-divider bg-brand-surface-offset text-brand-primary dark:border-brand-divider-dark dark:bg-brand-surface-offset-dark dark:text-brand-primary-hover-dark sm:h-52">
+            <HotelArt type={hotelArtType(entity)} variant="banner" class="h-full w-full max-w-3xl" />
+          </div>
+          <div class="bg-brand-surface p-6 dark:bg-brand-surface-dark sm:p-8">
+            <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">{brand.label} &middot; {tierLabel(brand.tier)}</p>
+            <div class="mt-2 flex items-end justify-between gap-5">
+              <div class="min-w-0">
+                <h1 class="font-serif text-3xl font-normal leading-tight sm:text-[2.6rem]">{entity.name}</h1>
+                {entity.core_facts?.neighborhood && (
+                  <p class="mt-2 text-sm text-brand-muted dark:text-brand-muted-dark">{entity.core_facts.neighborhood}</p>
+                )}
+              </div>
+              {guestScore != null && (
+                <div class="flex-none text-center">
+                  <svg viewBox="0 0 84 84" class="h-20 w-20 sm:h-24 sm:w-24" role="img" aria-label={`Guest sentiment ${guestScore} out of 100`}>
+                    <circle cx="42" cy="42" r="34" fill="none" stroke-width="5" class="stroke-brand-divider dark:stroke-brand-divider-dark" />
+                    <circle cx="42" cy="42" r="34" fill="none" stroke-width="5" stroke-linecap="round" class="stroke-brand-primary dark:stroke-brand-primary-hover-dark" stroke-dasharray={`${dialDash.toFixed(1)} ${dialCircumference.toFixed(1)}`} transform="rotate(-90 42 42)" />
+                    <text x="42" y="51" text-anchor="middle" font-size="25" class="fill-brand-text font-serif dark:fill-brand-text-dark">{guestScore}</text>
+                  </svg>
+                  <p class="kicker mt-1 text-brand-faint dark:text-brand-faint-dark">Guest sentiment</p>
+                </div>
               )}
             </div>
-            {guestScore != null && (
-              <div class="flex-none text-center">
-                <div class="font-serif text-4xl leading-none tabular-nums sm:text-5xl">{guestScore}</div>
-                <p class="kicker mt-1 opacity-80">Guest sentiment</p>
-              </div>
-            )}
+            <p class="mt-5 border-t border-brand-divider pt-5 text-brand-muted dark:border-brand-divider-dark dark:text-brand-muted-dark">{entity.short_description}</p>
           </div>
         </div>
-        <p class="rounded-b-xl border border-t-0 border-brand-divider bg-brand-surface px-6 py-4 text-brand-muted dark:border-brand-divider-dark dark:bg-brand-surface-dark sm:px-8">
-          {entity.short_description}
-        </p>
         {!participates && (
           <div
             class="mt-4 rounded-lg bg-brand-warning-highlight px-5 py-4 text-sm leading-relaxed text-brand-warning dark:bg-brand-warning-highlight-dark dark:text-brand-warning-dark"
