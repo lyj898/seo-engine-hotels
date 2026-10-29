@@ -12,6 +12,8 @@ import EntityCard from '../components/EntityCard.astro';
 import StatsSummary from '../components/StatsSummary.astro';
 import HeroStats from '../components/HeroStats.astro';
 import HomeSearch from '../components/HomeSearch.astro';
+import SeaMap from '../components/SeaMap.astro';
+import ProgramCard from '../components/ProgramCard.astro';
 import FAQSection from '../components/FAQSection.astro';
 import { buildWebsiteSchema, buildFaqPageSchema } from '../lib/schema-jsonld.js';
 
@@ -228,6 +230,7 @@ const jsonLd = [
 
 <BaseLayout description={siteConfig.siteTagline} canonicalPath={urls.home()} jsonLd={jsonLd}>
   <div class="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-20">
+    {isDateDriven ? (
     <section class={isDateDriven ? 'mx-auto max-w-3xl border-b border-brand-divider pb-10 dark:border-brand-divider-dark sm:pb-14' : 'mx-auto max-w-2xl text-center'}>
       {!isDateDriven && (
         <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">
@@ -300,6 +303,33 @@ const jsonLd = [
         </div>
       )}
     </section>
+    ) : (
+      /* 2026-10-29 Members' Lounge redesign: two-column hero -- headline,
+         tagline and site-wide search on the left; a brass constellation
+         map of the covered cities and the stat row on the right. */
+      <section class="grid items-center gap-12 lg:grid-cols-2">
+        <div>
+          <p class="kicker text-brand-primary dark:text-brand-primary-hover-dark">
+            Loyalty hotel reviews &middot; {cityRegions.length} cities &middot; {topLevelRegions.length} countries
+          </p>
+          <h1 class="mt-5 text-[clamp(2.4rem,1.2rem+4.6vw,4.6rem)] font-normal leading-[1.04]">
+            {headlineBefore}
+            {headlineAccent && <em class="italic text-brand-primary dark:text-brand-primary-hover-dark">{headlineAccent}</em>}
+            {headlineAfter}
+          </h1>
+          <p class="mt-6 max-w-lg text-base leading-relaxed text-brand-muted dark:text-brand-muted-dark">{siteConfig.siteTagline}</p>
+          <div class="mt-9 [&_.home-search]:mx-0 [&_.home-search]:max-w-md">
+            <HomeSearch placeholder={`Search ${siteConfig.entityLabelPlural} by name or city...`} />
+          </div>
+        </div>
+        <div>
+          <SeaMap class="w-full text-brand-primary dark:text-brand-primary-hover-dark" />
+          <div class="mt-4 border-t border-brand-divider pt-6 dark:border-brand-divider-dark">
+            <HeroStats stats={heroStats} />
+          </div>
+        </div>
+      </section>
+    )}
 
     {isDateDriven ? (
       <section class="mt-10" id="race-calendar">
@@ -459,16 +489,22 @@ const jsonLd = [
           </div>
           <a href={urls.categoriesIndex()} class="kicker hidden text-brand-muted hover:text-brand-primary dark:text-brand-muted-dark dark:hover:text-brand-primary-hover-dark sm:inline">View all &rarr;</a>
         </div>
-        <div class="divide-y divide-brand-divider border-t border-brand-divider dark:divide-brand-divider-dark dark:border-brand-divider-dark">
-          {categories.map((category, i) => (
-            <HubCard
-              index={i}
-              href={urls.category(category.slug)}
-              label={category.label}
-              description={category.short_description}
-              count={entities.filter((e) => e.category_id === category.category_id).length}
-            />
-          ))}
+        <div class="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4">
+          {categories
+            .map((category) => ({
+              category,
+              count: entities.filter((e) => e.category_id === category.category_id && participatesInProgram(e)).length,
+            }))
+            .sort((a, b) => b.count - a.count)
+            .map(({ category, count }, i) => (
+              <ProgramCard
+                index={i}
+                href={urls.category(category.slug)}
+                label={category.label}
+                description={category.short_description}
+                count={count}
+              />
+            ))}
         </div>
       </section>
     )}
