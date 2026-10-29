@@ -1,7 +1,7 @@
 {
   "siteName": "EliteStay",
   "siteTagline": "In-depth loyalty-program hotel reviews across Southeast Asia",
-  "heroHeadline": "Find your next *elite* stay across Southeast Asia",
+  "heroHeadline": "Know what your *status* gets you, before you book.",
   "siteDomain": "elitestay.travel",
   "verticalKey": "hotels",
 
@@ -22,10 +22,10 @@
     "_note": "Editorial-magazine palette (cream/ink, single deep-gold accent) approved 2026-08-03, replacing the original warm gold-on-charcoal/boxed-card look. Hairlines (divider/border, now unified to one value) replace bordered card boxes; panelA/panelB are the two alternating duotone placeholder-photo backgrounds used by EntityCard. Gold itself has no dark-mode-specific slot in the engine's token shape, so dark-mode components deliberately reuse primaryHover/primaryHover-dark as 'gold, tuned readable for that theme' rather than a literal hover state -- see Header/Footer/EntityCard/HubCard for that reuse.",
     "primaryColor": "#a8792f",
     "fonts": {
-      "display": "Fraunces",
-      "displayFallback": "Georgia, 'Times New Roman', serif",
-      "body": "Inter",
-      "bodyFallback": "'Helvetica Neue', sans-serif"
+      "display": "Bodoni Moda",
+      "displayFallback": "Didot, 'Bodoni 72', Georgia, serif",
+      "body": "Manrope",
+      "bodyFallback": "'Helvetica Neue', Arial, sans-serif"
     },
     "radius": { "sm": "0.25rem", "md": "0.5rem", "lg": "0.875rem", "xl": "1.25rem" },
     "light": {
@@ -49,19 +49,19 @@
       "error": "#b3261e"
     },
     "dark": {
-      "bg": "#121110",
-      "surface": "#1c1a16",
-      "surfaceOffset": "#242019",
-      "divider": "#2b2822",
-      "border": "#2b2822",
-      "text": "#f3efe6",
-      "muted": "#a79d89",
-      "faint": "#7d715c",
-      "panelA": "#1c1a16",
-      "panelB": "#242019",
-      "primaryInk": "#121110",
-      "primaryHighlight": "#3a2c14",
-      "primaryHover": "#d1a355",
+      "bg": "#0e1319",
+      "surface": "#151c24",
+      "surfaceOffset": "#1b242e",
+      "divider": "#2a333e",
+      "border": "#2a333e",
+      "text": "#efe9df",
+      "muted": "#a19a8e",
+      "faint": "#7f796e",
+      "panelA": "#151c24",
+      "panelB": "#1b242e",
+      "primaryInk": "#14110b",
+      "primaryHighlight": "#2b2416",
+      "primaryHover": "#e2c79a",
       "success": "#7ec788",
       "successHighlight": "#1e3122",
       "warning": "#e0a752",
