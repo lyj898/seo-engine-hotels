@@ -7,6 +7,8 @@ import Pill from './Pill.astro';
 import { brandPresentation, tierLabel, TIER_REGISTER } from '../lib/brand.js';
 import { participatesInProgram } from '../lib/loyalty.js';
 import { buildRegionAncestryMap } from '../lib/data.js';
+import { hotelArtType } from '../lib/hotelArt.js';
+import HotelArt from './HotelArt.astro';
 
 // THE card for an entity in any list -- hub grids, listicle pages,
 // RelatedEntities and the home page calendar all render this one
@@ -95,6 +97,14 @@ const tierText = brand ? tierLabel(brand.tier) : '';
 const cardCategory = categories.find((c) => c.category_id === entity.category_id);
 const outsideProgram = brand ? !participatesInProgram(entity) : false;
 const outsideProgramLabel = cardCategory?.label ? `Not in ${cardCategory.label}` : 'Not in the program';
+
+// 2026-10-29 Members' Lounge redesign: hotel cards trade the tier-coloured
+// typographic panel for a brass line-art drawing of the hotel's TYPE
+// (city tower, heritage, beach, cliff, grand -- lib/hotelArt.js) above a
+// body carrying the guest-sentiment score, so hotels are told apart at a
+// glance. The tier is still written out in the kicker line.
+const artType = brand ? hotelArtType(entity) : null;
+const guestScore = entity.sentiment_scores?.overall ?? null;
 ---
 
 {hasDate ? (
@@ -137,25 +147,29 @@ const outsideProgramLabel = cardCategory?.label ? `Not in ${cardCategory.label}`
     <a
       href={urls.entity(entity.slug)}
       aria-label={entity.name}
-      class={`group relative flex aspect-[4/3] flex-col overflow-hidden rounded-lg p-4 no-underline transition-shadow duration-200 ease-interactive hover:shadow-md ${reg.panel}`}
+      class="group flex flex-col overflow-hidden rounded-lg border border-brand-border bg-brand-surface no-underline transition-colors duration-200 ease-interactive hover:border-brand-primary dark:border-brand-border-dark dark:bg-brand-surface-dark dark:hover:border-brand-primary-hover-dark"
     >
-      {reg.tex && <span class="tier-tex" aria-hidden="true"></span>}
-      <span class="pointer-events-none absolute inset-2 rounded border border-current opacity-25" aria-hidden="true"></span>
-      <div class="relative z-10 flex items-start justify-between gap-2">
-        <span class={`kicker ${reg.label}`}>
-          {brand.label}{tierText && <span class="opacity-70"> &middot; {tierText}</span>}
-        </span>
-        <span class="flex h-7 w-7 flex-none items-center justify-center rounded-full border border-current font-serif text-sm leading-none opacity-80">{brand.monogram}</span>
+      <div class="flex h-36 items-end justify-center border-b border-brand-divider bg-brand-surface-offset px-4 pt-4 text-brand-primary dark:border-brand-divider-dark dark:bg-brand-surface-offset-dark dark:text-brand-primary-hover-dark">
+        <HotelArt type={artType} class="h-[7.25rem] w-full" />
       </div>
-      <div class="relative z-10 flex flex-1 items-center py-2">
-        <h3 class="line-clamp-3 font-serif text-xl font-normal leading-tight">{brand.displayName}</h3>
-      </div>
-      {place && <p class="relative z-10 truncate text-xs tracking-wide opacity-90">{place}</p>}
-      {outsideProgram && (
-        <p class="relative z-10 mt-1.5 inline-flex w-fit max-w-full rounded-full border border-current px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide opacity-90">
-          <span class="truncate">{outsideProgramLabel}</span>
+      <div class="flex flex-1 flex-col gap-2 p-5">
+        <p class="kicker text-brand-faint dark:text-brand-faint-dark">
+          {brand.label}{tierText && <span> &middot; {tierText}</span>}
         </p>
-      )}
+        {guestScore != null && (
+          <p class="flex items-baseline gap-2">
+            <b class="font-serif text-4xl font-normal leading-none tabular-nums text-brand-primary dark:text-brand-primary-hover-dark">{guestScore}</b>
+            <span class="kicker text-brand-faint dark:text-brand-faint-dark">Guest sentiment</span>
+          </p>
+        )}
+        <h3 class="font-serif text-xl font-normal leading-tight transition-colors group-hover:text-brand-primary dark:group-hover:text-brand-primary-hover-dark">{brand.displayName}</h3>
+        {place && <p class="truncate text-sm text-brand-muted dark:text-brand-muted-dark">{place}</p>}
+        {outsideProgram && (
+          <p class="mt-1 inline-flex w-fit max-w-full rounded-full border border-brand-warning px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-brand-warning dark:border-brand-warning-dark dark:text-brand-warning-dark">
+            <span class="truncate">{outsideProgramLabel}</span>
+          </p>
+        )}
+      </div>
     </a>
     {entity.short_description && (
       <p class="mt-3 line-clamp-2 text-sm leading-relaxed text-brand-muted dark:text-brand-muted-dark">{entity.short_description}</p>

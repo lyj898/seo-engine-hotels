@@ -1,0 +1,40 @@
+---
+// Loyalty-program card styled as a membership card (2026-10-29 Members'
+// Lounge redesign), used for the home page's "Browse by loyalty program".
+// Always a dark "card plate" in both themes. Short name + a one-line
+// "From X to Y" range derived from the programme's own description.
+const { href, label, description = '', count, index = 0 } = Astro.props;
+
+const SHORT = { 'ALL – Accor Live Limitless': 'ALL Accor', 'ALL - Accor Live Limitless': 'ALL Accor' };
+const name = SHORT[label] ?? label;
+const range = description.match(/^From (.+?)['’]s? .+? to (.+?)['’]s? /);
+const line = range ? `From ${range[1]} to ${range[2]}` : description;
+const PLATES = [
+  'linear-gradient(140deg,#1a2a44,#0f1622)',
+  'linear-gradient(140deg,#3b1a20,#1a0f12)',
+  'linear-gradient(140deg,#18333f,#0e1a20)',
+  'linear-gradient(140deg,#2a1f44,#141022)',
+];
+const plate = PLATES[index % PLATES.length];
+---
+
+<a
+  href={href}
+  aria-label={`${label}: ${count} hotels`}
+  class="program-card relative flex aspect-[1.58/1] flex-col justify-between overflow-hidden rounded-xl border border-white/10 p-5 no-underline transition duration-200 ease-interactive hover:-translate-y-0.5 hover:border-[#c9a46a] motion-reduce:transition-none motion-reduce:hover:translate-y-0"
+  style={`background:${plate}`}
+>
+  <span class="pointer-events-none absolute -right-[18%] -top-[38%] aspect-square w-[62%] rounded-full border border-[#e2c79a]/25" aria-hidden="true"></span>
+  <span class="relative z-10 flex items-center justify-between">
+    <span class="h-[26px] w-[34px] rounded-[5px] bg-gradient-to-br from-[#e9d3a6] to-[#a8834c]" aria-hidden="true"></span>
+    {typeof count === 'number' && (
+      <span class="font-serif text-[15px] text-[#e2c79a]">
+        {count}<small class="ml-1 font-sans text-[11px] uppercase tracking-[0.12em] text-[#a19a8e]">hotels</small>
+      </span>
+    )}
+  </span>
+  <span class="relative z-10 block">
+    <b class="block truncate font-serif text-2xl font-normal leading-tight text-[#efe9df]">{name}</b>
+    {line && <span class="mt-1.5 line-clamp-2 block text-[13px] leading-snug text-[#a19a8e]">{line}</span>}
+  </span>
+</a>

@@ -1,0 +1,68 @@
+---
+// Original brass line-art for a hotel type (see lib/hotelArt.js). `variant`
+// "card" is the 160x120 drawing used on cards; "banner" sets the same
+// drawing wide, with palms and a horizon, for the hotel page masthead.
+// Purely decorative: aria-hidden, colour from currentColor.
+const { type = 'tower', variant = 'card', class: className = '' } = Astro.props;
+
+const ART = {
+  tower: [
+    'M58 118V22h44v96', 'M58 22l22-14 22 14', 'M66 34h28M66 46h28M66 58h28M66 70h28M66 82h28M66 94h28', 'M80 8V2',
+    'M26 118V74h26v44M108 118V84h28v34', 'M32 84h14M32 96h14M114 94h16M114 106h16',
+  ],
+  heritage: [
+    'M14 118V56h132v62', 'M10 56h140l-8-12H18z',
+    'M26 66v14M42 66v14M58 66v14M102 66v14M118 66v14M134 66v14M26 92v14M42 92v14M58 92v14M102 92v14M118 92v14M134 92v14',
+    'M70 118V84a10 10 0 0 1 20 0v34', 'M66 56V40h28v16',
+  ],
+  beach: [
+    'M4 118c20-6 30-28 46-30s28 10 40 6 30-26 66-24', 'M60 82h44l6-10H54z', 'M62 82v10h40V82', 'M58 98h48',
+    'M28 70V48M28 48c-8-2-12 4-14 8M28 48c8-2 12 4 14 8M28 48c-2-8 2-12 6-14',
+  ],
+  cliff: [
+    'M4 50h70v68', 'M74 118c4-20 10-40 26-52s40-14 56-14', 'M14 50V34h40v16', 'M10 34h48', 'M18 58h50',
+    'M110 104c8-4 14-4 22 0s14 4 20 0',
+  ],
+  grand: [
+    'M30 118V58h100v60', 'M24 58h112l-6-8H30z', 'M62 50V38h36v12', 'M58 38h44l-22-12z',
+    'M46 118V72M58 118V72M102 118V72M114 118V72', 'M40 72h80', 'M74 118V92a6 6 0 0 1 12 0v26',
+  ],
+};
+const SOFT = {
+  beach: ['M60 104h44'],
+  cliff: ['M18 64h50', 'M104 112c8-4 14-4 22 0s14 4 22 0'],
+  grand: ['M14 118V86M14 86c-6-2-10 2-12 6M14 86c6-2 10 2 12 6M146 118V86M146 86c-6-2-10 2-12 6M146 86c6-2 10 2 12 6'],
+};
+const SUN = { beach: true };
+
+const paths = ART[type] ?? ART.tower;
+const soft = SOFT[type] ?? [];
+const palm = (x) =>
+  `M${x} 188v-58M${x} 130c-14-4-22 4-26 12M${x} 130c14-4 22 4 26 12M${x} 130c-4-14 4-22 12-26M${x} 130c4-14-4-22-12-26`;
+---
+
+{variant === 'banner' ? (
+  <svg viewBox="0 0 760 190" class={className} fill="none" aria-hidden="true">
+    <g stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 188h760" opacity="0.35" />
+      <path d={palm(90)} opacity="0.7" />
+      <path d={palm(670)} opacity="0.7" />
+      <svg x="210" y="0" width="340" height="190" viewBox="0 0 160 120" preserveAspectRatio="xMidYMax meet">
+        <g stroke="currentColor" stroke-width="0.9" stroke-linecap="round" stroke-linejoin="round">
+          {paths.map((d) => <path d={d} />)}
+          {soft.map((d) => <path d={d} opacity="0.4" />)}
+          {SUN[type] && <circle cx="128" cy="30" r="10" />}
+        </g>
+      </svg>
+    </g>
+  </svg>
+) : (
+  <svg viewBox="0 0 160 120" class={className} fill="none" aria-hidden="true">
+    <g stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 118h152" opacity="0.35" />
+      {paths.map((d) => <path d={d} />)}
+      {soft.map((d) => <path d={d} opacity="0.4" />)}
+      {SUN[type] && <circle cx="128" cy="30" r="10" />}
+    </g>
+  </svg>
+)}
